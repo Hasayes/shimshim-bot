@@ -10,9 +10,21 @@
     "df6e82fde5a5a6f00eb4779d65d8e58a",
     "be80725117331bd699baa498c19a0961",
     "6bd1b60a9d87a7d018c7f054871b54cf",
-    "ae5f1ca3605abffbdd6cc225f6cb2bd4"
+    "ae5f1ca3605abffbdd6cc225f6cb2bd4",
+    "b742384db0770511026d94845c9c9057",
+    "3e5fbccded54239f865d7a7a65ca3ceb",
+    "2ee32e1cd9af87031278c015e6a7fcf4",
+    "1a80e385a96509ac0a0a62e4b34af5d2",
+    "e2b17a9066cda0f916fc1e552bbe10c9",
+    "5902547ddedba16cdec0a36f9d31ce69",
+    "3d46a2b182755b80de6da77a04716364",
+    "958d36de98bb2cc8b02e08e20b65b05b"
   ],
-  "deals": [
-    "thompson -> arsenal"
+  "deals": {
+    "thompson -> arsenal": 3,
+    "thompson -> newcastle united": 3
+  },
+  "interest": [
+    "interest: alvarez -> arsenal"
   ]
 }

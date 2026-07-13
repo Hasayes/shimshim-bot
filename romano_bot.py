@@ -77,6 +77,7 @@ class TransferBrief(BaseModel):
     fee: str           # reported fee, "Free transfer", "Loan", or "Undisclosed"
     style: str         # one sentence on the player's style of play
     fit: str           # one sentence on how he should be used at the new club
+    source: str        # journalist/outlet credited with the report (or "—")
 
 
 BRIEF_SYSTEM = (
@@ -95,6 +96,9 @@ BRIEF_SYSTEM = (
     "- style: one concise sentence on the player's playing style.\n"
     "- fit: one concise sentence on how he should be used / why he fits the "
     "new club. Base style and fit on your football knowledge of the player.\n"
+    "- source: the journalist or outlet credited with breaking/reporting this "
+    "transfer (e.g. 'Fabrizio Romano', 'David Ornstein', 'Sky Sport'), taken "
+    "from the article; '—' if not clear.\n"
     "Be factual and concise."
 )
 
@@ -199,6 +203,8 @@ def send_telegram(article, brief):
         f"🎮 <b>Style:</b> {_esc(brief.style)}\n"
         f"🧩 <b>Fit:</b> {_esc(brief.fit)}"
     )
+    if brief.source and brief.source.strip() not in ("", "—"):
+        text += f"\n🗞 <b>Source:</b> {_esc(brief.source)}"
     if article["source"]:
         text += f"\n\n<i>{_esc(article['source'])}</i>"
     if article["url"]:

@@ -29,6 +29,7 @@ Each message looks like:
 💰 Fee: €45m
 🎮 Style: ...
 🧩 Fit: ...
+🗞 Source: Fabrizio Romano
 ```
 
 ## One-time setup

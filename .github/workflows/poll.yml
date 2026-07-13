@@ -2,7 +2,7 @@ name: Romano transfer bot
 
 on:
   schedule:
-    - cron: "*/15 * * * *"   # every 15 minutes (GitHub may delay under load)
+    - cron: "7,22,37,52 * * * *"   # every 15 min, offset to dodge the congested :00/:15/:30/:45 slots
   workflow_dispatch: {}        # allow manual runs from the Actions tab
 
 # Let the job commit the updated state.json back to the repo

@@ -13,6 +13,7 @@ Required environment variables:
 Optional:
   NEWS_PROVIDER        "newsdata" (default) or "gnews"
   NEWS_QUERY           Search phrase (default: the six journalists below)
+  NEWSDATA_PAGES       newsdata pages per poll, 1 credit each (default 2)
   CLAUDE_MODEL         Model id (default "claude-opus-4-8")
   STATE_FILE           Path to state file (default state.json next to script)
 """
@@ -60,6 +61,9 @@ NEWS_QUERY = os.environ.get(
     '"Fabrizio Romano" OR Ornstein OR "Di Marzio" OR Moretto OR Amoyal OR Plettenberg',
 )
 PROVIDER = os.environ.get("NEWS_PROVIDER", "newsdata").lower()
+# Pages fetched per poll from newsdata (each page = 10 articles = 1 API
+# credit). 2 keeps a full 96-runs/day schedule under the 200-credit free tier.
+NEWSDATA_PAGES = int(os.environ.get("NEWSDATA_PAGES", "2"))
 CLAUDE_MODEL = os.environ.get("CLAUDE_MODEL", "claude-opus-4-8")
 STATE_FILE = Path(os.environ.get("STATE_FILE", Path(__file__).with_name("state.json")))
 MAX_STATE = 500  # cap remembered IDs so state.json doesn't grow forever
@@ -69,6 +73,7 @@ class TransferBrief(BaseModel):
     """Structured scouting briefing Claude produces for one article."""
 
     is_transfer: bool  # true only for a confirmed/official/"here we go" move
+    stage: str         # "Here we go", "Medical" or "Completed" ("—" if not a deal)
     player: str        # the player involved
     position: str      # playing position, e.g. "Right winger" (or "—")
     age: str           # age in years, e.g. "21" (or "—" if unknown)
@@ -82,11 +87,18 @@ class TransferBrief(BaseModel):
 
 BRIEF_SYSTEM = (
     "You are a football transfer analyst. You receive a news headline and "
-    "summary about a possible transfer. Decide whether it reports a CONFIRMED "
-    "or official/'here we go' completed transfer (not a rumour, contract "
-    "renewal, injury, or 'interested in' story) and extract a briefing.\n"
-    "- Set is_transfer=false for rumours, links, loans being discussed, "
-    "contract extensions, or anything not yet done.\n"
+    "summary about a possible transfer. Decide whether it reports a deal that "
+    "is done or effectively done, and extract a briefing.\n"
+    "- Set is_transfer=true for: completed or officially announced signings; "
+    "'here we go' calls; a total/full agreement reached between all parties; "
+    "a medical that is booked, underway or passed. A 'here we go' or medical "
+    "counts even though the paperwork is not finished yet.\n"
+    "- Set is_transfer=false for: rumours, interest, shortlists, bids, talks "
+    "or negotiations still in progress, contract renewals/extensions, "
+    "injuries, or general transfer-window chatter.\n"
+    "- stage: the furthest stage the article supports — 'Here we go', "
+    "'Medical', or 'Completed' (use 'Completed' for official/announced/done "
+    "deals); '—' when is_transfer is false.\n"
     "- fee: use the reported figure if stated (e.g. '€45m'); otherwise "
     "'Free transfer', 'Loan', or 'Undisclosed'. Never invent a number.\n"
     "- position: the player's playing position (e.g. 'Right winger', "
@@ -130,24 +142,30 @@ def fetch_articles():
             })
         return out
 
-    # default: newsdata.io
+    # default: newsdata.io — free tier returns 10 articles per page, so follow
+    # nextPage or a busy news window pushes stories past what one poll can see.
     q = urllib.parse.quote(NEWS_QUERY)
-    url = (
+    base = (
         f"https://newsdata.io/api/1/news?apikey={key}&q={q}"
         f"&language=en&category=sports"
     )
-    data = _get_json(url)
-    if data.get("status") != "success":
-        raise RuntimeError(f"newsdata error: {data}")
     out = []
-    for a in data.get("results", []):
-        out.append({
-            "id": a.get("article_id") or a.get("link"),
-            "title": a.get("title") or "",
-            "desc": a.get("description") or "",
-            "url": a.get("link") or "",
-            "source": a.get("source_id", ""),
-        })
+    page = None
+    for _ in range(NEWSDATA_PAGES):
+        data = _get_json(base + (f"&page={page}" if page else ""))
+        if data.get("status") != "success":
+            raise RuntimeError(f"newsdata error: {data}")
+        for a in data.get("results", []):
+            out.append({
+                "id": a.get("article_id") or a.get("link"),
+                "title": a.get("title") or "",
+                "desc": a.get("description") or "",
+                "url": a.get("link") or "",
+                "source": a.get("source_id", ""),
+            })
+        page = data.get("nextPage")
+        if not page:
+            break
     return out
 
 
@@ -197,8 +215,10 @@ def send_telegram(article, brief):
     text = f"⚽️ <b>{_esc(brief.player)}</b>\n"
     if bits:
         text += f"📍 {_esc(' · '.join(bits))}\n"
+    text += f"🔄 {move}\n"
+    if brief.stage and brief.stage.strip() not in ("", "—"):
+        text += f"🚦 <b>Stage:</b> {_esc(brief.stage)}\n"
     text += (
-        f"🔄 {move}\n"
         f"💰 <b>Fee:</b> {_esc(brief.fee)}\n"
         f"🎮 <b>Style:</b> {_esc(brief.style)}\n"
         f"🧩 <b>Fit:</b> {_esc(brief.fit)}"

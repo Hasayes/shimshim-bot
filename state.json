@@ -18,13 +18,25 @@
     "e2b17a9066cda0f916fc1e552bbe10c9",
     "5902547ddedba16cdec0a36f9d31ce69",
     "3d46a2b182755b80de6da77a04716364",
-    "958d36de98bb2cc8b02e08e20b65b05b"
+    "958d36de98bb2cc8b02e08e20b65b05b",
+    "7b19d3a8d949e151727e51e4a72d7a64",
+    "71641e00b1f232993d00f06317faee81",
+    "5901c677be6a2269eecbc6e9faf21050",
+    "d11797bbfb0ec97fcc090529ec1665fa",
+    "765cc3f2b0153f1585262287b2a1feb2",
+    "a2175e572ab2ade7151ba38a7953ac63",
+    "18111053ab47a932520ccf428f676fdf",
+    "ad964623ecfd48bb75538994b4abc455",
+    "b2a987fbfc73f236413674671159a949"
   ],
   "deals": {
     "thompson -> arsenal": 3,
     "thompson -> newcastle united": 3
   },
   "interest": [
-    "interest: alvarez -> arsenal"
+    "interest: alvarez -> arsenal",
+    "interest: midfielder -> manchester united",
+    "interest: tielemans -> manchester united",
+    "interest: ederson -> manchester united"
   ]
 }

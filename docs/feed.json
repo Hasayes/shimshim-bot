@@ -1,5 +1,23 @@
 [
  {
+  "id": "33c05dfd5a4bf17b9353834fd1d73f1d",
+  "ts": "2026-07-14T12:21:08+00:00",
+  "kind": "deal",
+  "stage": "Completed",
+  "player": "Youri Tielemans",
+  "position": "Central midfielder",
+  "age": "27",
+  "from_club": "Leicester City",
+  "to_club": "Manchester United",
+  "fee": "Undisclosed",
+  "style": "A press-resistant, deep-lying playmaker with excellent range of passing and the ability to strike from distance.",
+  "fit": "He should anchor United's midfield as a deep distributor, dictating tempo and providing progressive passing from the base.",
+  "source": "David Ornstein",
+  "outlet": "yahoo",
+  "url": "https://sports.yahoo.com/articles/scholes-butt-issue-immediate-verdict-234000113.html",
+  "title": "Scholes and Butt issue immediate verdict on Youri Tielemans signing"
+ },
+ {
   "id": "backfill-0",
   "ts": "2026-07-13T12:00:00+00:00",
   "kind": "deal",

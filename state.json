@@ -102,7 +102,9 @@
     "tg:FabrizioRomanoTG/62937",
     "tg:FabrizioRomanoTG/62936",
     "tg:FabrizioRomanoTG/62935",
-    "tg:FabrizioRomanoTG/62956"
+    "tg:FabrizioRomanoTG/62956",
+    "31b61717faa2aa9ef486fbdcc956de7a",
+    "5574de38e88bb717614e84aaa376a400"
   ],
   "deals": {
     "thompson -> arsenal": 3,
@@ -199,6 +201,7 @@
     "interest: hall -> manchester united",
     "interest: williams -> tottenham",
     "interest: guimaraes -> arsenal",
-    "interest: trossard -> besiktas"
+    "interest: trossard -> besiktas",
+    "interest: derry -> bayern munich"
   ]
 }

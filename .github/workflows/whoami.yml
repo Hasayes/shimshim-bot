@@ -1,0 +1,15 @@
+name: whoami (temporary)
+
+on:
+  workflow_dispatch: {}
+
+jobs:
+  whoami:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Print bot identity (username only, never the token)
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+        run: |
+          curl -s "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/getMe" \
+            | python3 -c "import json,sys; r=json.load(sys.stdin)['result']; print('bot username:', r['username'])"

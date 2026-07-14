@@ -18,14 +18,33 @@ jobs:
         run: |
           python - <<'EOF'
           import anthropic
-          from shimshim_bot import brief_article
+          from shimshim_bot import brief_article, RESEARCH_SYSTEM, CLAUDE_MODEL
 
           article = {
               "title": "Scholes and Butt issue immediate verdict on Youri Tielemans signing",
               "desc": "",
               "source": "yahoo",
           }
-          brief = brief_article(anthropic.Anthropic(), article)
+          client = anthropic.Anthropic()
+
+          # debug: inspect the raw research response
+          research = client.messages.create(
+              model=CLAUDE_MODEL, max_tokens=4096, system=RESEARCH_SYSTEM,
+              messages=[{"role": "user", "content": f"Headline: {article['title']}"}],
+              tools=[{"type": "web_search_20260209", "name": "web_search", "max_uses": 3}],
+          )
+          print("stop_reason:", research.stop_reason)
+          for b in research.content:
+              t = getattr(b, "type", "?")
+              if t == "web_search_tool_result":
+                  c = b.content
+                  print("  search result:", "ERROR " + str(c) if not isinstance(c, list) else f"{len(c)} hits")
+              elif t == "text":
+                  print("  text:", b.text[:400].replace("\n", " | "))
+              else:
+                  print("  block:", t)
+
+          brief = brief_article(client, article)
           print("kind:", brief.kind, "| stage:", brief.stage)
           print("player:", brief.player, "| age:", brief.age)
           print("from:", brief.from_club, "->", brief.to_club)

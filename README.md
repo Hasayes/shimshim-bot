@@ -1,8 +1,15 @@
 # Romano transfer bot
 
-Telegram bot that forwards **confirmed transfers and "HERE WE GO"** posts about
-Fabrizio Romano to your chat. Polls a free news API on a schedule; no server to
-run.
+Telegram bot + **web app** that forward **confirmed transfers, "HERE WE GO"
+calls, and big-club interest** from top transfer journalists. Polls a free news
+API on a schedule; no server to run.
+
+**App:** https://hasayes.github.io/romano-bot/ — installable PWA (iPhone:
+Share → Add to Home Screen) with the full card feed, club/stage filters,
+per-player timelines, and Web Push notifications. Served from `docs/` by
+GitHub Pages; the poller commits each card to `docs/feed.json` and pushes to
+subscriptions stored in the `PUSH_SUBSCRIPTIONS` Actions secret (VAPID key in
+`VAPID_PRIVATE_KEY_PEM`).
 
 Follows: **Fabrizio Romano, David Ornstein, Gianluca Di Marzio, Matteo Moretto,
 David Amoyal, Florian Plettenberg**.

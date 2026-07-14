@@ -170,6 +170,12 @@ class TransferBrief(BaseModel):
 BRIEF_SYSTEM = (
     "You are a football transfer analyst. You receive a news headline and "
     "summary about a possible transfer. Classify it and extract a briefing.\n"
+    "VERIFY BEFORE ANSWERING: your training knowledge of squads is stale — "
+    "players move and ages change. Use web search to confirm the player's "
+    "CURRENT club (the one he is leaving in this deal, not a former club), "
+    "his age today, his position, and the deal's fee and stage. Trust search "
+    "results and the article over your memory. Any fact you cannot verify "
+    "must be '—' (or 'Undisclosed' for the fee) — never a guess.\n"
     "- kind='deal' when it reports a transfer that is done or effectively "
     "done: a completed or officially announced signing; a 'here we go' call; "
     "a total/full agreement reached between all parties; a medical that is "
@@ -185,7 +191,8 @@ BRIEF_SYSTEM = (
     "- stage: for kind='deal' the furthest stage the article supports — "
     "'Here we go', 'Medical', or 'Completed' (use 'Completed' for "
     "official/announced/done deals); '—' otherwise.\n"
-    "- from_club: the player's selling/current club; '—' if unknown. "
+    "- from_club: the club the player is leaving in this deal, verified via "
+    "web search; '—' if unknown. "
     "to_club: the buying club; for kind='interest', the watched club(s) "
     "pursuing him, comma-separated if several.\n"
     "- fee: use the reported figure, bid or asking price if stated (e.g. "
@@ -193,8 +200,8 @@ BRIEF_SYSTEM = (
     "invent a number.\n"
     "- position: the player's playing position (e.g. 'Right winger', "
     "'Centre-back'), from the article or your knowledge; '—' if unknown.\n"
-    "- age: the player's age in years as a number; use the age stated in the "
-    "article, else your best-known age for the player, else '—'.\n"
+    "- age: the player's CURRENT age in years as a number, from the article "
+    "or verified via web search; '—' if unverifiable.\n"
     "- style: one concise sentence on the player's playing style.\n"
     "- fit: one concise sentence on how he should be used / why he fits the "
     "new club. Base style and fit on your football knowledge of the player.\n"
@@ -332,9 +339,12 @@ def brief_article(client, article):
     )
     resp = client.messages.parse(
         model=CLAUDE_MODEL,
-        max_tokens=1024,
+        max_tokens=4096,
         system=BRIEF_SYSTEM,
         messages=[{"role": "user", "content": prompt}],
+        # Server-side web search: facts (current club, age, fee, stage) are
+        # verified live instead of trusted to stale training knowledge.
+        tools=[{"type": "web_search_20260209", "name": "web_search", "max_uses": 3}],
         output_format=TransferBrief,
     )
     return resp.parsed_output

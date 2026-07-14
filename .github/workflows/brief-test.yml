@@ -1,0 +1,37 @@
+name: brief-test (temporary)
+
+on:
+  workflow_dispatch: {}
+
+jobs:
+  brief-test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - name: Re-run the article that produced the wrong card
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          python - <<'EOF'
+          import anthropic
+          from shimshim_bot import brief_article
+
+          article = {
+              "title": "Scholes and Butt issue immediate verdict on Youri Tielemans signing",
+              "desc": "",
+              "source": "yahoo",
+          }
+          brief = brief_article(anthropic.Anthropic(), article)
+          print("kind:", brief.kind, "| stage:", brief.stage)
+          print("player:", brief.player, "| age:", brief.age)
+          print("from:", brief.from_club, "->", brief.to_club)
+          print("fee:", brief.fee, "| source:", brief.source)
+          assert "aston villa" in brief.from_club.lower() or brief.from_club == "—", \
+              f"WRONG from_club: {brief.from_club}"
+          assert brief.age in ("29", "—", ""), f"WRONG age: {brief.age}"
+          print("VERIFIED: from_club and age are correct")
+          EOF

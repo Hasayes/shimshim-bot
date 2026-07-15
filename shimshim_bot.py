@@ -149,6 +149,11 @@ NEWSDATA_PAGES = int(os.environ.get("NEWSDATA_PAGES", "2"))
 # the provider above remain as the safety net.
 TELEGRAM_CHANNELS = os.environ.get("TELEGRAM_CHANNELS", "fabrizioromanotg")
 CLAUDE_MODEL = os.environ.get("CLAUDE_MODEL", "claude-opus-4-8")
+
+# Cards go to the app (feed + web push) only; set TELEGRAM_CARDS=1 to also
+# send them to the Telegram chat again. Rare operational alerts (e.g. billing
+# outage) still use Telegram either way.
+TELEGRAM_CARDS = os.environ.get("TELEGRAM_CARDS", "0") == "1"
 STATE_FILE = Path(os.environ.get("STATE_FILE", Path(__file__).with_name("state.json")))
 MAX_STATE = 500  # cap remembered IDs so state.json doesn't grow forever
 
@@ -657,24 +662,29 @@ def main():
             if key and stage_rank(brief) <= deals.get(key, 0):
                 print(f"skipped (stage already sent, {key}): {article['title']}")
                 continue
-        result = send_telegram(article, brief)
-        if result.get("ok"):
-            sent_count += 1
-            if brief.kind == "interest":
-                for k in keys:
-                    interest_sent.add(k)
-                    state["interest"].append(k)
-            elif key:
-                deals[key] = stage_rank(brief)
-            try:  # app outputs must never block the Telegram path
-                append_feed(article, brief)
-                send_web_push(article, brief)
+        # The app (feed + web push) is the delivery channel; the Telegram
+        # chat card is opt-in via TELEGRAM_CARDS.
+        append_feed(article, brief)
+        try:
+            send_web_push(article, brief)
+        except Exception as e:  # noqa: BLE001 — push failure must not block the feed
+            print(f"web push error: {e}", file=sys.stderr)
+        if TELEGRAM_CARDS:
+            try:
+                result = send_telegram(article, brief)
+                if not result.get("ok"):
+                    print(f"telegram error: {result}", file=sys.stderr)
             except Exception as e:  # noqa: BLE001
-                print(f"app feed/push error: {e}", file=sys.stderr)
-            print(f"sent ({brief.kind}): {brief.player} — "
-                  f"{brief.from_club} -> {brief.to_club}")
-        else:
-            print(f"telegram error: {result}", file=sys.stderr)
+                print(f"telegram error: {e}", file=sys.stderr)
+        sent_count += 1
+        if brief.kind == "interest":
+            for k in keys:
+                interest_sent.add(k)
+                state["interest"].append(k)
+        elif key:
+            deals[key] = stage_rank(brief)
+        print(f"sent ({brief.kind}): {brief.player} — "
+              f"{brief.from_club} -> {brief.to_club}")
 
     save_state(state)
     print(f"done. {sent_count} briefing(s) sent, {len(articles)} scanned.")

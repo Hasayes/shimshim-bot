@@ -189,6 +189,32 @@ class TransferBrief(BaseModel):
     source: str        # journalist/outlet credited with the report (or "—")
 
 
+CLASSIFY_SYSTEM = (
+    "You are a football transfer analyst. You receive a news headline and "
+    "summary. Classify the story and extract a briefing FROM THE TEXT.\n"
+    "- kind='deal' when it reports a transfer that is done or effectively "
+    "done: a completed or officially announced signing; a 'here we go' call; "
+    "a total/full agreement reached between all parties; a medical that is "
+    "booked, underway or passed. Deals to ANY club qualify.\n"
+    "- kind='interest' when it credibly reports that one of these watched "
+    "clubs is interested in, targeting, bidding for or in talks to sign a "
+    f"player, but the deal is not yet agreed: {', '.join(WATCHED_CLUBS)}. "
+    "Interest from any other club does NOT count.\n"
+    "- kind='none' for everything else: contract renewals/extensions, "
+    "injuries, interest from non-watched clubs, or transfer-window chatter.\n"
+    "- stage: for kind='deal' — 'Here we go', 'Medical', or 'Completed'; "
+    "'—' otherwise.\n"
+    "- Facts (clubs, fee, age, position): take them from the article text "
+    "first; your background knowledge may be stale — when the article "
+    "doesn't state a fact and you aren't confident, use '—' "
+    "('Undisclosed' for the fee). Deal facts get verified separately, "
+    "so a '—' is always better than a guess.\n"
+    "- style/fit: one concise sentence each from your football knowledge.\n"
+    "- source: the journalist or outlet credited; '—' if not clear.\n"
+    "Be factual and concise."
+)
+
+
 RESEARCH_SYSTEM = (
     "You are a football transfer fact-checker. Given a headline and summary "
     "about a possible transfer, use web search to verify:\n"
@@ -420,18 +446,38 @@ def is_relevant(article):
     return bool(CLUB_RE.search(text)) and any(k in text for k in INTEREST_KEYWORDS)
 
 
-def brief_article(client, article):
+def _article_prompt(article):
+    return (
+        f"Headline: {article['title']}\n"
+        f"Summary: {article['desc']}\n"
+        f"Source: {article['source']}"
+    )
+
+
+def classify_article(client, article):
+    """Cheap first pass, no web search: classify + extract from the text.
+
+    Non-deals stop here (~1/10th the cost of a verified briefing). Deals go
+    on to verify_deal() before publishing.
+    """
+    resp = client.messages.parse(
+        model=CLAUDE_MODEL,
+        max_tokens=1024,
+        system=CLASSIFY_SYSTEM,
+        messages=[{"role": "user", "content": _article_prompt(article)}],
+        output_format=TransferBrief,
+    )
+    return resp.parsed_output
+
+
+def verify_deal(client, article):
     """Fact-check the article with web search, then extract a briefing.
 
     Two calls on purpose: combining the server-side web search tool with
     parsed structured output in a single request scrambles the parsed
     fields, so research and extraction are separated.
     """
-    prompt = (
-        f"Headline: {article['title']}\n"
-        f"Summary: {article['desc']}\n"
-        f"Source: {article['source']}"
-    )
+    prompt = _article_prompt(article)
     messages = [{"role": "user", "content": prompt}]
     tools = [{"type": "web_search_20260209", "name": "web_search", "max_uses": 3}]
     research = client.messages.create(
@@ -465,7 +511,7 @@ def brief_article(client, article):
 
 
 def load_state():
-    state = {"sent": [], "deals": {}, "interest": []}
+    state = {"sent": [], "deals": {}, "interest": [], "titles": []}
     if STATE_FILE.exists():
         try:
             state.update(json.loads(STATE_FILE.read_text()))
@@ -475,11 +521,13 @@ def load_state():
         # migrate pre-stage format (one entry per deal, no rank) to key->rank
         state["deals"] = {k: STAGE_RANK["completed"] for k in state["deals"]}
     state.setdefault("interest", [])
+    state.setdefault("titles", [])
     return state
 
 
 def save_state(state):
     state["sent"] = state["sent"][-MAX_STATE:]
+    state["titles"] = state["titles"][-300:]
     state["deals"] = dict(list(state["deals"].items())[-MAX_STATE:])
     state["interest"] = state["interest"][-MAX_STATE:]
     STATE_FILE.write_text(json.dumps(state, indent=2))
@@ -629,7 +677,8 @@ def main():
         sys.exit(1)
 
     sent_count = 0
-    briefed_titles = set()  # same story from several outlets: brief it once per run
+    # same story from several outlets or several runs: brief it once
+    briefed_titles = set(state["titles"])
     # oldest first so messages arrive in chronological order
     for article in reversed(articles):
         if not article["id"] or article["id"] in seen:
@@ -644,7 +693,19 @@ def main():
             print(f"skipped (duplicate headline this run): {article['title']}")
             continue
         try:
-            brief = brief_article(client, article)
+            brief = classify_article(client, article)
+            if brief.kind == "deal":
+                key = deal_key(brief)
+                if key and stage_rank(brief) <= deals.get(key, 0):
+                    # already carded this deal at this stage — don't pay for
+                    # web verification just to re-suppress it
+                    seen.add(article["id"])
+                    state["sent"].append(article["id"])
+                    briefed_titles.add(title_key)
+                    state["titles"].append(title_key)
+                    print(f"skipped (stage already sent, pre-verify, {key}): {article['title']}")
+                    continue
+                brief = verify_deal(client, article)
         except Exception as e:  # noqa: BLE001 — leave unprocessed, retry next run
             if "credit balance" in str(e).lower():
                 # Billing outage: alert the user (at most once per 12h) and stop
@@ -668,6 +729,7 @@ def main():
             print(f"claude error on '{article['title']}': {e}", file=sys.stderr)
             continue
         briefed_titles.add(title_key)
+        state["titles"].append(title_key)
         if state.pop("billing_alert_ts", None):
             try:  # first successful brief after an outage — all clear
                 send_plain_telegram("✅ ShimShim is back: Anthropic credits restored, catching up on pending stories.")

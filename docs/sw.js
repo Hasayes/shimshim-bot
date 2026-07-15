@@ -1,4 +1,4 @@
-const CACHE = "shimshim-v6";
+const CACHE = "shimshim-v7";
 const SHELL = ["./", "index.html", "style.css", "app.js", "manifest.webmanifest", "icon-192.png", "icon-512.png"];
 
 self.addEventListener("install", (e) => {
@@ -46,5 +46,11 @@ self.addEventListener("push", (e) => {
 
 self.addEventListener("notificationclick", (e) => {
   e.notification.close();
-  e.waitUntil(clients.openWindow(e.notification.data?.url || "./"));
+  // open the app: focus it if it's already running, else launch it
+  e.waitUntil(
+    clients.matchAll({ type: "window", includeUncontrolled: true }).then((list) => {
+      for (const c of list) if ("focus" in c) return c.focus();
+      return clients.openWindow("./");
+    })
+  );
 });

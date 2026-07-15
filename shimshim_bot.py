@@ -599,7 +599,7 @@ def send_web_push(article, brief):
     payload = json.dumps({
         "title": title,
         "body": " · ".join(x for x in (brief.fee, brief.source) if x.strip() not in ("", "—")),
-        "url": article["url"] or "./",
+        "url": "./",  # tapping the notification opens the app, not the article
     })
     for sub in json.loads(subs_raw):
         try:

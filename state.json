@@ -106,7 +106,26 @@
     "31b61717faa2aa9ef486fbdcc956de7a",
     "5574de38e88bb717614e84aaa376a400",
     "9f9b5503900b4809915e633297f4e486",
-    "c856bae1f52da62b4b3265e26dbf18d4"
+    "c856bae1f52da62b4b3265e26dbf18d4",
+    "5b20ec398a3ac271142345fdcc779e63",
+    "0d6d1fb116c204dbdbafbdd486da4be5",
+    "0f205cac562342b04804b19a5a3447e7",
+    "1d04299990f87bcd710314fc61cb76ec",
+    "21a0776887a6f65f760a46fc85fc23dc",
+    "13753206a89be94ab05b555ac680707a",
+    "f94631b8aea61884c58f68ef924aceac",
+    "9fb2ba79783b0ab298d6f82cef539885",
+    "0ce17fd5be4d337a83e99463bb959172",
+    "056827507e148c4ac75669b522adeebb",
+    "abb6c9a6a166bf0afd1f93d3ac683f4c",
+    "8069b00954d08edb9e6e88f6eb041dbb",
+    "d05bf98f2402536c3405cd51726ea8b4",
+    "c42b278118608f89481ebc5def9a6893",
+    "tg:FabrizioRomanoTG/63028",
+    "tg:FabrizioRomanoTG/63032",
+    "tg:FabrizioRomanoTG/63033",
+    "tg:FabrizioRomanoTG/63034",
+    "tg:FabrizioRomanoTG/63036"
   ],
   "deals": {
     "thompson -> arsenal": 3,
@@ -183,7 +202,11 @@
     "simeone -> torino": 3,
     "kiwior -> fc porto": 3,
     "akanji -> inter": 3,
-    "h\u00f8jlund -> napoli": 3
+    "h\u00f8jlund -> napoli": 3,
+    "muharemovic -> leeds united": 1,
+    "greenwood -> fenerbahce": 3,
+    "dobbin -> southampton": 3,
+    "silva -> bournemouth": 1
   },
   "interest": [
     "interest: alvarez -> arsenal",
@@ -206,7 +229,9 @@
     "interest: trossard -> besiktas",
     "interest: derry -> bayern munich",
     "interest: gomes -> manchester united",
-    "interest: gomes -> liverpool"
-  ],
-  "billing_alert_ts": "2026-07-15T07:43:16+00:00"
+    "interest: gomes -> liverpool",
+    "interest: romero -> inter",
+    "interest: romero -> barcelona",
+    "interest: spence -> inter"
+  ]
 }

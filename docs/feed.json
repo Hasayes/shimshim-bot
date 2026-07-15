@@ -1,5 +1,23 @@
 [
  {
+  "id": "1242beb0f28d982ebdaac818ec8f647b",
+  "ts": "2026-07-15T17:46:23+00:00",
+  "kind": "interest",
+  "stage": "\u2014",
+  "player": "Eduardo Camavinga",
+  "position": "Central midfielder",
+  "age": "23",
+  "from_club": "Real Madrid",
+  "to_club": "Manchester United",
+  "fee": "Undisclosed",
+  "style": "A dynamic, box-to-box midfielder known for his tenacity, pressing intensity, ball-winning ability, and quick transitions.",
+  "fit": "United are seeking a combative midfield presence to handle defensive duties, and Camavinga's energy and work rate suit that 'dirty job' role; however, his desire to remain at Real Madrid makes this a highly uncertain prospect.",
+  "source": "Fabrizio Romano",
+  "outlet": "yahoo",
+  "url": "https://sports.yahoo.com/articles/camavinga-fabrizio-romano-said-united-054000959.html",
+  "title": "Camavinga: What Fabrizio Romano has said about United\u2019s move for Real Madrid star"
+ },
+ {
   "id": "tg:FabrizioRomanoTG/63050",
   "ts": "2026-07-15T17:39:30+00:00",
   "kind": "deal",

@@ -186,7 +186,7 @@ RESEARCH_SYSTEM = (
     "3. The buying or interested club(s).\n"
     "4. The reported fee.\n"
     "5. The journalist/outlet credited with the story.\n"
-    "You have a budget of at most 5 web searches — plan them so you don't "
+    "You have a budget of at most 3 web searches — plan them so you don't "
     "run out mid-task. When you finish searching (or hit the limit), you "
     "MUST end with your bullet-point findings based on whatever you found "
     "so far — never end the turn without findings. Explicitly mark any fact "
@@ -401,7 +401,7 @@ def brief_article(client, article):
         f"Source: {article['source']}"
     )
     messages = [{"role": "user", "content": prompt}]
-    tools = [{"type": "web_search_20260209", "name": "web_search", "max_uses": 5}]
+    tools = [{"type": "web_search_20260209", "name": "web_search", "max_uses": 3}]
     research = client.messages.create(
         model=CLAUDE_MODEL,
         max_tokens=4096,
@@ -530,6 +530,20 @@ def append_feed(article, brief):
     FEED_FILE.write_text(json.dumps(feed[:MAX_FEED], indent=1))
 
 
+def send_plain_telegram(text):
+    """Bare Telegram message for operational alerts — no Claude involved."""
+    payload = urllib.parse.urlencode({
+        "chat_id": os.environ["TELEGRAM_CHAT_ID"],
+        "text": text,
+    }).encode()
+    req = urllib.request.Request(
+        f"https://api.telegram.org/bot{os.environ['TELEGRAM_BOT_TOKEN']}/sendMessage",
+        data=payload,
+    )
+    with urllib.request.urlopen(req, timeout=30) as resp:
+        return json.loads(resp.read().decode())
+
+
 def send_web_push(article, brief):
     """Push the card to every subscribed browser (the installed PWA).
 
@@ -583,17 +597,50 @@ def main():
         sys.exit(1)
 
     sent_count = 0
+    briefed_titles = set()  # same story from several outlets: brief it once per run
     # oldest first so messages arrive in chronological order
     for article in reversed(articles):
         if not article["id"] or article["id"] in seen:
             continue
         if not is_relevant(article):
             continue  # keyword prefilter — don't waste a Claude call
+        title_key = _norm(article["title"])[:80]
+        if title_key in briefed_titles:
+            # duplicate headline this run — the first copy carries the story
+            seen.add(article["id"])
+            state["sent"].append(article["id"])
+            print(f"skipped (duplicate headline this run): {article['title']}")
+            continue
         try:
             brief = brief_article(client, article)
         except Exception as e:  # noqa: BLE001 — leave unprocessed, retry next run
+            if "credit balance" in str(e).lower():
+                # Billing outage: alert the user (at most once per 12h) and stop
+                # hammering the API — unprocessed articles retry next run.
+                print("Anthropic credits exhausted — aborting run", file=sys.stderr)
+                last = state.get("billing_alert_ts", "")
+                now = datetime.now(timezone.utc)
+                stale = (not last or (now - datetime.fromisoformat(last)).total_seconds() > 12 * 3600)
+                if stale:
+                    try:
+                        send_plain_telegram(
+                            "⚠️ ShimShim is paused: the Anthropic API credit balance "
+                            "is exhausted, so stories can't be briefed. Top up at "
+                            "console.anthropic.com → Plans & Billing. Pending stories "
+                            "will be processed automatically once credits return."
+                        )
+                        state["billing_alert_ts"] = now.isoformat(timespec="seconds")
+                    except Exception as te:  # noqa: BLE001
+                        print(f"billing alert failed: {te}", file=sys.stderr)
+                break
             print(f"claude error on '{article['title']}': {e}", file=sys.stderr)
             continue
+        briefed_titles.add(title_key)
+        if state.pop("billing_alert_ts", None):
+            try:  # first successful brief after an outage — all clear
+                send_plain_telegram("✅ ShimShim is back: Anthropic credits restored, catching up on pending stories.")
+            except Exception as te:  # noqa: BLE001
+                print(f"all-clear alert failed: {te}", file=sys.stderr)
         # Mark processed regardless of verdict so we don't re-evaluate it.
         seen.add(article["id"])
         state["sent"].append(article["id"])

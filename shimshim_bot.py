@@ -152,6 +152,9 @@ PROVIDER = os.environ.get("NEWS_PROVIDER", "newsdata").lower()
 # Pages fetched per poll from newsdata (each page = 10 articles = 1 API
 # credit). 2 keeps a full 96-runs/day schedule under the 200-credit free tier.
 NEWSDATA_PAGES = int(os.environ.get("NEWSDATA_PAGES", "2"))
+# Articles older than this are dropped: news feeds sometimes resurface
+# years-old stories (a 2022 Pulisic swap rumour arrived as "news").
+MAX_ARTICLE_AGE_DAYS = int(os.environ.get("MAX_ARTICLE_AGE_DAYS", "3"))
 
 # Public Telegram channels mirroring journalists' posts, read via the t.me/s/
 # web preview (no auth, no API key). Primary fast source; news articles from
@@ -201,7 +204,9 @@ CLASSIFY_SYSTEM = (
     f"player, but the deal is not yet agreed: {', '.join(WATCHED_CLUBS)}. "
     "Interest from any other club does NOT count.\n"
     "- kind='none' for everything else: contract renewals/extensions, "
-    "injuries, interest from non-watched clubs, or transfer-window chatter.\n"
+    "injuries, interest from non-watched clubs, or transfer-window chatter. "
+    "ALSO kind='none' if the story looks like recycled OLD news — e.g. the "
+    "player demonstrably left the stated club in an earlier season.\n"
     "- stage: for kind='deal' — 'Here we go', 'Medical', or 'Completed'; "
     "'—' otherwise.\n"
     "- Facts (clubs, fee, age, position): take them from the article text "
@@ -216,8 +221,13 @@ CLASSIFY_SYSTEM = (
 
 
 RESEARCH_SYSTEM = (
-    "You are a football transfer fact-checker. Given a headline and summary "
-    "about a possible transfer, use web search to verify:\n"
+    "You are a football transfer fact-checker. Today is July 2026. Given a "
+    "headline and summary about a possible transfer, use web search to "
+    "verify:\n"
+    "0. FIRST: is this story CURRENT? News feeds resurface old articles — "
+    "if the report actually dates from a previous season, or the player "
+    "already plays for a different club than the story implies, state "
+    "'STALE STORY' prominently in your findings.\n"
     "1. Is this a completed/effectively-done deal (here we go / medical / "
     "official), rumour-stage interest, or something else entirely?\n"
     "2. The player's full name, the club he is CURRENTLY leaving in this "
@@ -240,7 +250,9 @@ BRIEF_SYSTEM = (
     "live web search. Classify the story and extract a briefing.\n"
     "Trust the research notes and the article over your training memory — "
     "squads change. Any fact marked UNVERIFIED in the notes or absent from "
-    "them must be '—' (or 'Undisclosed' for the fee) — never a guess.\n"
+    "them must be '—' (or 'Undisclosed' for the fee) — never a guess. If "
+    "the notes say the story is STALE (recycled old news), set "
+    "kind='none'.\n"
     "- kind='deal' when it reports a transfer that is done or effectively "
     "done: a completed or officially announced signing; a 'here we go' call; "
     "a total/full agreement reached between all parties; a medical that is "
@@ -318,6 +330,15 @@ def fetch_articles():
         if data.get("status") != "success":
             raise RuntimeError(f"newsdata error: {data}")
         for a in data.get("results", []):
+            pub = a.get("pubDate") or ""
+            if pub:
+                try:
+                    age = datetime.now(timezone.utc) - datetime.strptime(
+                        pub, "%Y-%m-%d %H:%M:%S").replace(tzinfo=timezone.utc)
+                    if age.days >= MAX_ARTICLE_AGE_DAYS:
+                        continue  # resurfaced old story — not news
+                except ValueError:
+                    pass
             out.append({
                 "id": a.get("article_id") or a.get("link"),
                 "title": a.get("title") or "",
@@ -694,16 +715,22 @@ def main():
             continue
         try:
             brief = classify_article(client, article)
-            if brief.kind == "deal":
-                key = deal_key(brief)
-                if key and stage_rank(brief) <= deals.get(key, 0):
-                    # already carded this deal at this stage — don't pay for
-                    # web verification just to re-suppress it
+            if brief.kind != "none":
+                # anything that would publish gets web-verified — but not
+                # before checking it isn't already carded (don't pay to
+                # re-suppress duplicates)
+                if brief.kind == "deal":
+                    key = deal_key(brief)
+                    dup = key and stage_rank(brief) <= deals.get(key, 0)
+                else:
+                    keys = interest_keys(brief)
+                    dup = keys and all(k in interest_sent for k in keys)
+                if dup:
                     seen.add(article["id"])
                     state["sent"].append(article["id"])
                     briefed_titles.add(title_key)
                     state["titles"].append(title_key)
-                    print(f"skipped (stage already sent, pre-verify, {key}): {article['title']}")
+                    print(f"skipped (already carded, pre-verify): {article['title']}")
                     continue
                 brief = verify_deal(client, article)
         except Exception as e:  # noqa: BLE001 — leave unprocessed, retry next run

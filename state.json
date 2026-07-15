@@ -143,7 +143,10 @@
     "tg:FabrizioRomanoTG/63006",
     "tg:FabrizioRomanoTG/63008",
     "tg:FabrizioRomanoTG/63027",
-    "tg:FabrizioRomanoTG/63037"
+    "tg:FabrizioRomanoTG/63037",
+    "cad30467b0d54362e466a5a899faf0e6",
+    "ab43706672db9ff20181de26cfc825d8",
+    "tg:FabrizioRomanoTG/63038"
   ],
   "deals": {
     "thompson -> arsenal": 3,
@@ -252,6 +255,9 @@
     "interest: gomes -> liverpool",
     "interest: romero -> inter",
     "interest: romero -> barcelona",
-    "interest: spence -> inter"
+    "interest: spence -> inter",
+    "interest: mbaye -> borussia dortmund",
+    "interest: mbaye -> manchester united",
+    "interest: mbaye -> tottenham"
   ]
 }

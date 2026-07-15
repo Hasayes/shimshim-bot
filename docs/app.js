@@ -96,7 +96,9 @@ function bindPlayerClicks(root) {
 // ---------- feed ----------
 async function loadFeed() {
   try {
-    const r = await fetch("feed.json", { cache: "no-cache" });
+    // unique query defeats the Pages CDN cache (~10 min) — cards show the
+    // moment the bot commits them
+    const r = await fetch(`feed.json?t=${Date.now()}`, { cache: "no-cache" });
     feed = await r.json();
   } catch {
     feed = [];
@@ -234,10 +236,20 @@ function urlB64(s) {
 
 // ---------- boot ----------
 renderFeedChips();
-if ("serviceWorker" in navigator) navigator.serviceWorker.register("sw.js");
+if ("serviceWorker" in navigator) {
+  navigator.serviceWorker.register("sw.js");
+  // a push arrived while the app is open — show the new card immediately
+  navigator.serviceWorker.addEventListener("message", (e) => {
+    if (e.data === "refresh-feed") loadFeed();
+  });
+}
+// refresh whenever the app comes back to the foreground
+document.addEventListener("visibilitychange", () => {
+  if (!document.hidden) loadFeed();
+});
 loadFeed().then(() => {
   if (location.hash === "#clubs") document.querySelector('nav button[data-tab="clubs"]').click();
   else if (location.hash.startsWith("#club=")) openClub(decodeURIComponent(location.hash.slice(6)));
 });
 setInterval(loadFeed, 5 * 60 * 1000); // refresh while open
-$("#version").textContent = "ShimShim v2.2";
+$("#version").textContent = "ShimShim v2.3";

@@ -1,4 +1,4 @@
-const CACHE = "shimshim-v8";
+const CACHE = "shimshim-v9";
 const SHELL = ["./", "index.html", "style.css", "app.js", "manifest.webmanifest", "icon-192.png", "icon-512.png"];
 
 self.addEventListener("install", (e) => {
@@ -34,14 +34,17 @@ self.addEventListener("fetch", (e) => {
 self.addEventListener("push", (e) => {
   let d = {};
   try { d = e.data.json(); } catch { /* empty push */ }
-  e.waitUntil(
-    self.registration.showNotification(d.title || "Transfer news", {
+  e.waitUntil((async () => {
+    await self.registration.showNotification(d.title || "Transfer news", {
       body: d.body || "",
       icon: "icon-192.png",
       badge: "icon-192.png",
       data: { url: d.url || "./" },
-    })
-  );
+    });
+    // if the app is open, refresh its feed right away
+    const list = await clients.matchAll({ type: "window" });
+    for (const c of list) c.postMessage("refresh-feed");
+  })());
 });
 
 self.addEventListener("notificationclick", (e) => {

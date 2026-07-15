@@ -26,7 +26,11 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Poll and notify
+      # GitHub fires the cron unreliably (observed 1-3h gaps despite the
+      # 15-min schedule). Each fire therefore covers ~27 minutes with three
+      # polling passes, and the concurrency group keeps one run queued, so
+      # coverage is near-continuous while fires keep coming.
+      - name: Poll and notify (3 passes)
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
@@ -40,22 +44,29 @@ jobs:
             echo "$VAPID_PRIVATE_KEY_PEM" > "$RUNNER_TEMP/vapid.pem"
             export VAPID_PEM_FILE="$RUNNER_TEMP/vapid.pem"
           fi
-          python shimshim_bot.py
-
-      - name: Persist state
-        run: |
-          if [[ -n "$(git status --porcelain state.json docs/feed.json)" ]]; then
-            git config user.name "shimshim-bot"
-            git config user.email "bot@users.noreply.github.com"
-            git add state.json docs/feed.json
-            git commit -m "update state [skip ci]"
-            # main may have moved while the poll ran — rebase and retry, else
-            # sent cards are never persisted and the next run re-sends them
-            n=0
-            until git push; do
-              n=$((n+1)); [ "$n" -gt 3 ] && exit 1
-              git pull --rebase -X theirs origin main
-            done
-          else
-            echo "no state change"
-          fi
+          git config user.name "shimshim-bot"
+          git config user.email "bot@users.noreply.github.com"
+          persist() {
+            if [[ -n "$(git status --porcelain state.json docs/feed.json)" ]]; then
+              git add state.json docs/feed.json
+              git commit -m "update state [skip ci]"
+              # main may have moved while the poll ran — rebase and retry,
+              # else sent cards are lost and the next run re-sends them
+              n=0
+              until git push; do
+                n=$((n+1)); [ "$n" -gt 3 ] && return 1
+                git pull --rebase -X theirs origin main
+              done
+            else
+              echo "no state change"
+            fi
+          }
+          for pass in 1 2 3; do
+            echo "=== pass $pass ==="
+            python shimshim_bot.py || echo "pass $pass failed" >&2
+            persist
+            if [ "$pass" -lt 3 ]; then
+              sleep 780
+              git pull --rebase -q origin main || true
+            fi
+          done

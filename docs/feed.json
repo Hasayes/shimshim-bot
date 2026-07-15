@@ -360,24 +360,6 @@
   "title": "Luka Vu\u0161kovi\u0107: Tottenham Hotspur to Brighton & Hove Albion"
  },
  {
-  "id": "backfill-7",
-  "ts": "2026-07-08T12:00:00+00:00",
-  "kind": "deal",
-  "stage": "Completed",
-  "player": "Yan Couto",
-  "position": "Right-back",
-  "age": "24",
-  "from_club": "Borussia Dortmund",
-  "to_club": "Como 1907",
-  "fee": "Loan (with purchase option)",
-  "style": "Small, quick, technically bright Brazilian full-back who overlaps constantly and plays best in possession-heavy teams.",
-  "fit": "Loaned to Como for regular minutes in F\u00e0bregas's expansive system after falling down the BVB pecking order.",
-  "source": "",
-  "outlet": "",
-  "url": "https://dailysports.net/team/borussia-dortmund/transfers/",
-  "title": "Yan Couto: Borussia Dortmund to Como 1907"
- },
- {
   "id": "backfill-8",
   "ts": "2026-07-08T12:00:00+00:00",
   "kind": "deal",
@@ -1089,7 +1071,7 @@
   "age": "29",
   "from_club": "Bayern Munich",
   "to_club": "Besiktas",
-  "fee": "Undisclosed",
+  "fee": "\u20ac6.5m (plus up to \u20ac5m in bonuses)",
   "style": "Tall, commanding keeper with strong reflexes who never displaced Neuer despite years of loans.",
   "fit": "Finally leaves Bayern permanently for a No. 1 role and a \u20ac5m-plus net salary in Istanbul.",
   "source": "",

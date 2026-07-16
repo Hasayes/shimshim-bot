@@ -1,5 +1,23 @@
 [
  {
+  "id": "ed6bbc5f38859aa2ab124eb5fc4215fa",
+  "ts": "2026-07-16T10:31:45+00:00",
+  "kind": "interest",
+  "stage": "\u2014",
+  "player": "Ibrahim Mbaye",
+  "position": "Right winger",
+  "age": "18",
+  "from_club": "Paris Saint-Germain",
+  "to_club": "Manchester City, Tottenham Hotspur",
+  "fee": "\u20ac40m\u2013\u20ac50m",
+  "style": "An explosive, direct teenage winger who uses pace and skill to beat defenders in one-on-one situations.",
+  "fit": "His ability to run in behind and create overloads on the right flank fits pressing-intensive systems that demand width and verticality.",
+  "source": "Goal.com (citing L'\u00c9quipe, Foot Mercato)",
+  "outlet": "bundle_app",
+  "url": "https://www.bundle.app/en/sports/psg-set-50m-demand-as-man-city-tottenham-and-aston-villa-target-wants-summer-transfer-6ED68BA4-48A9-444E-9777-5E9650EDF516",
+  "title": "PSG set a\u0302\u0082\u00ac50m demand as Man City, Tottenham and Aston Villa target wants summer transfer"
+ },
+ {
   "id": "tg:FabrizioRomanoTG/63125",
   "ts": "2026-07-16T09:16:42+00:00",
   "kind": "deal",

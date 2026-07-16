@@ -655,7 +655,10 @@ def send_web_push(article, brief):
     subs_raw = os.environ.get("PUSH_SUBSCRIPTIONS", "")
     pem_file = os.environ.get("VAPID_PEM_FILE", "")
     if not subs_raw or not pem_file:
+        print("web push skipped: PUSH_SUBSCRIPTIONS/VAPID_PEM_FILE not set", file=sys.stderr)
         return
+    if brief.kind == "deal" and _norm(brief.stage) == "medical":
+        return  # notify on rumours / here we go / completed; medicals are feed-only
     try:
         from pywebpush import webpush, WebPushException
     except ImportError:
@@ -670,12 +673,19 @@ def send_web_push(article, brief):
         "body": " · ".join(x for x in (brief.fee, brief.source) if x.strip() not in ("", "—")),
         "url": "./",  # tapping the notification opens the app, not the article
     })
+    sent = 0
     for sub in json.loads(subs_raw):
         try:
+            # ttl matters: the default of 0 means "deliver this instant or
+            # drop" — pushes to a sleeping phone silently vanished. 24h TTL
+            # lets the push service hold it until the device is reachable.
             webpush(sub, payload, vapid_private_key=pem_file,
-                    vapid_claims={"sub": "mailto:yuval0156@gmail.com"})
+                    vapid_claims={"sub": "mailto:yuval0156@gmail.com"},
+                    ttl=86400, headers={"Urgency": "high"})
+            sent += 1
         except WebPushException as e:
             print(f"web push error: {e}", file=sys.stderr)
+    print(f"push sent to {sent} subscription(s): {title}")
 
 
 def main():

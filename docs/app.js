@@ -76,7 +76,7 @@ function cardHTML(i, forClub) {
     ? `${known(i.from_club) ? "🏟 " + esc(i.from_club) + " · " : ""}🎯 ${esc(i.to_club)}`
     : `🔄 ${esc(i.from_club)} → ${esc(i.to_club)}`;
   return `<div class="card">
-    <div class="top"><span class="player" data-player="${esc(i.player)}">${esc(i.player)}</span>
+    <div class="top"><span class="player">${esc(i.player)}</span>
       <span class="when">${ago(i.ts)} ago</span></div>
     ${meta ? `<div class="meta">📍 ${esc(meta)}</div>` : ""}
     <div class="move">${move}${badge}${tag}</div>
@@ -86,11 +86,6 @@ function cardHTML(i, forClub) {
     <div class="foot">${known(i.source) ? "🗞 " + esc(i.source) + " · " : ""}${esc(i.outlet || "")}
       ${i.url ? ` · <a href="${esc(i.url)}" target="_blank" rel="noopener">Read more</a>` : ""}</div>
   </div>`;
-}
-
-function bindPlayerClicks(root) {
-  // player names are plain labels now — the feed filters by stage only
-  void root;
 }
 
 // ---------- feed ----------
@@ -131,7 +126,6 @@ function renderFeed() {
   const items = feed.filter((i) => matchesStage(i, feedStage));
   $("#cards").innerHTML = items.map((i) => cardHTML(i)).join("");
   $("#feed-empty").hidden = items.length > 0;
-  bindPlayerClicks($("#cards"));
 }
 
 // ---------- clubs ----------
@@ -192,7 +186,6 @@ function renderClubCards(club) {
   const items = feed.filter((i) => clubsOf(i).includes(club) && matchesStage(i, clubStage));
   $("#club-cards").innerHTML =
     items.map((i) => cardHTML(i, club)).join("") || '<p class="empty">Nothing here yet.</p>';
-  bindPlayerClicks($("#club-cards"));
 }
 
 $("#club-back").addEventListener("click", renderClubs);
@@ -234,6 +227,31 @@ function urlB64(s) {
   return Uint8Array.from([...raw].map((c) => c.charCodeAt(0)));
 }
 
+// ---------- push subscription health ----------
+// iOS occasionally rotates the push subscription; the paired one then goes
+// stale and pushes vanish silently. Compare our endpoint's hash against the
+// published pairing list and warn instead of staying quiet.
+async function checkPushHealth() {
+  try {
+    if (!("serviceWorker" in navigator) || !("PushManager" in window)) return;
+    if (Notification.permission !== "granted") return;
+    const reg = await navigator.serviceWorker.ready;
+    const sub = await reg.pushManager.getSubscription();
+    if (!sub) return;
+    const r = await fetch(`push-meta.json?t=${Date.now()}`, { cache: "no-cache" });
+    if (!r.ok) return;
+    const meta = await r.json();
+    const buf = await crypto.subtle.digest("SHA-256", new TextEncoder().encode(sub.endpoint));
+    const hex = [...new Uint8Array(buf)].map((b) => b.toString(16).padStart(2, "0")).join("").slice(0, 16);
+    if (!meta.endpoints.includes(hex)) {
+      $("#push-status").textContent =
+        "⚠️ Notifications are broken: this device's subscription is no longer paired. " +
+        "Tap Enable notifications and send the new code to Claude.";
+      document.querySelector('nav button[data-tab="settings"]').classList.add("attention");
+    }
+  } catch { /* diagnostics must never break the app */ }
+}
+
 // ---------- boot ----------
 renderFeedChips();
 if ("serviceWorker" in navigator) {
@@ -247,9 +265,10 @@ if ("serviceWorker" in navigator) {
 document.addEventListener("visibilitychange", () => {
   if (!document.hidden) loadFeed();
 });
+checkPushHealth();
 loadFeed().then(() => {
   if (location.hash === "#clubs") document.querySelector('nav button[data-tab="clubs"]').click();
   else if (location.hash.startsWith("#club=")) openClub(decodeURIComponent(location.hash.slice(6)));
 });
 setInterval(loadFeed, 5 * 60 * 1000); // refresh while open
-$("#version").textContent = "ShimShim v2.3";
+$("#version").textContent = "ShimShim v2.4";

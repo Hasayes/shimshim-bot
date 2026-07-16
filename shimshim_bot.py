@@ -132,18 +132,8 @@ INTEREST_KEYWORDS = [
     "scouting",
 ]
 
-# Journalists we follow (for reference / display). The actual API search uses
-# NEWS_QUERY below. NOTE: newsdata.io's free tier caps the q string at 100
-# chars, so Romano is fully qualified and the rest use their (distinctive)
-# surnames to stay under the limit while still matching.
-JOURNALISTS = [
-    "Fabrizio Romano",
-    "David Ornstein",
-    "Gianluca Di Marzio",
-    "Matteo Moretto",
-    "David Amoyal",
-    "Florian Plettenberg",
-]
+# newsdata.io free tier caps q at 100 chars — Romano fully qualified, rest
+# surnames. Override with NEWS_QUERY if needed.
 NEWS_QUERY = os.environ.get(
     "NEWS_QUERY",
     '"Fabrizio Romano" OR Ornstein OR "Di Marzio" OR Moretto OR Amoyal OR Plettenberg',
@@ -172,6 +162,7 @@ MAX_STATE = 500  # cap remembered IDs so state.json doesn't grow forever
 # The PWA (served from docs/ via GitHub Pages) reads this feed; every card
 # that goes to Telegram is also appended here, newest first.
 FEED_FILE = Path(os.environ.get("FEED_FILE", Path(__file__).with_name("docs") / "feed.json"))
+PUSH_META_FILE = Path(os.environ.get("FEED_FILE", Path(__file__).with_name("docs") / "feed.json")).with_name("push-meta.json")
 MAX_FEED = 500
 
 
@@ -352,18 +343,19 @@ def fetch_articles():
     return out
 
 
-def fetch_telegram_posts(max_pages=None):
+def fetch_telegram_posts(max_pages=None, seen=None):
     """Return recent posts from the mirror channels as article dicts.
 
     Reads the public t.me/s/<channel> web preview — server-rendered HTML,
-    no auth or API key. Each page shows ~20 posts; we always walk
-    TELEGRAM_PAGES pages back (?before=<msg_id>, ~60 posts ≈ 1.5 days of
-    Romano), so posts that scrolled past the first page during an outage
-    or a long cron gap are still picked up. Per-post dedup via state.json
-    keeps re-reads free.
+    no auth or API key. Each page shows ~20 posts; we walk up to
+    TELEGRAM_PAGES pages back (?before=<msg_id>) so posts that scrolled
+    past the first page during an outage or long cron gap are still
+    picked up. Stops early once a page's post ids are all already in
+    seen (state.json), so steady-state polls usually fetch one page.
     """
     if max_pages is None:
         max_pages = int(os.environ.get("TELEGRAM_PAGES", "3"))
+    seen = seen or set()
     out = []
     for channel in [c.strip() for c in TELEGRAM_CHANNELS.split(",") if c.strip()]:
         before = None
@@ -397,6 +389,9 @@ def fetch_telegram_posts(max_pages=None):
             if not ids:
                 break
             out.extend(page)
+            # Older pages only have older posts — stop once this page is fully known.
+            if all(f"tg:{channel}/{i}" in seen for i in ids):
+                break
             before = min(ids)
     # newest first, matching the news provider's ordering
     out.sort(key=lambda p: int(p["id"].rsplit("/", 1)[1]), reverse=True)
@@ -631,6 +626,31 @@ def append_feed(article, brief):
     FEED_FILE.write_text(json.dumps(feed[:MAX_FEED], indent=1))
 
 
+def write_push_meta():
+    """Publish hash prefixes of the paired push endpoints for the app.
+
+    The app hashes its own subscription endpoint and checks membership; a
+    miss means iOS rotated the subscription and pushes are going nowhere —
+    the app can then tell the user to re-pair instead of failing silently.
+    Hash prefixes reveal nothing about the endpoints themselves.
+    """
+    import hashlib
+    subs_raw = os.environ.get("PUSH_SUBSCRIPTIONS", "")
+    if not subs_raw:
+        return
+    try:
+        hashes = sorted(
+            hashlib.sha256(s["endpoint"].encode()).hexdigest()[:16]
+            for s in json.loads(subs_raw)
+        )
+    except (json.JSONDecodeError, KeyError, TypeError):
+        return
+    meta = json.dumps({"endpoints": hashes})
+    if not PUSH_META_FILE.exists() or PUSH_META_FILE.read_text() != meta:
+        PUSH_META_FILE.parent.mkdir(parents=True, exist_ok=True)
+        PUSH_META_FILE.write_text(meta)
+
+
 def send_plain_telegram(text):
     """Bare Telegram message for operational alerts — no Claude involved."""
     payload = urllib.parse.urlencode({
@@ -690,13 +710,14 @@ def send_web_push(article, brief):
 
 def main():
     state = load_state()
+    write_push_meta()
     seen = set(state["sent"])
     deals = state["deals"]  # deal key -> highest stage rank already sent
     interest_sent = set(state["interest"])
     client = anthropic.Anthropic()  # reads ANTHROPIC_API_KEY from the env
     articles = []
     try:
-        articles += fetch_telegram_posts()
+        articles += fetch_telegram_posts(seen=seen)
     except Exception as e:  # noqa: BLE001 — one source down must not kill the other
         print(f"telegram fetch failed: {e}", file=sys.stderr)
     try:

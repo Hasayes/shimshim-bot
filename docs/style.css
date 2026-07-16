@@ -124,3 +124,5 @@ button#push-btn, button#push-copy {
 }
 textarea { font-family: ui-monospace, monospace; font-size: 12px; margin-top: 8px; }
 code { background: #e8f2ed; padding: 1px 6px; border-radius: 6px; font-size: 13px; }
+
+nav button.attention::after { content: " \26A0\FE0F"; font-size: 12px; }

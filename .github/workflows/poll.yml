@@ -46,8 +46,8 @@ jobs:
           git config user.name "shimshim-bot"
           git config user.email "bot@users.noreply.github.com"
           persist() {
-            if [[ -n "$(git status --porcelain state.json docs/feed.json)" ]]; then
-              git add state.json docs/feed.json
+            if [[ -n "$(git status --porcelain state.json docs/feed.json docs/push-meta.json)" ]]; then
+              git add state.json docs/feed.json docs/push-meta.json
               git commit -m "update state [skip ci]"
               # main may have moved while the poll ran — rebase and retry,
               # else sent cards are lost and the next run re-sends them

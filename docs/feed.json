@@ -1,5 +1,23 @@
 [
  {
+  "id": "199776d6dd7184abfa6965991f0a49d0",
+  "ts": "2026-07-17T02:01:35+00:00",
+  "kind": "deal",
+  "stage": "Completed",
+  "player": "Christos Tzolis",
+  "position": "Left winger",
+  "age": "24",
+  "from_club": "Club Brugge",
+  "to_club": "Arsenal",
+  "fee": "\u00a334m",
+  "style": "A dynamic, direct left winger with sharp dribbling ability, an eye for goal and exceptional creativity, capable of operating across the front line.",
+  "fit": "Fills Arsenal's need for a high-output wide attacker following Trossard's departure, offering Arteta pace, goals and assists on the left flank.",
+  "source": "The Athletic",
+  "outlet": "yahoo",
+  "url": "https://sports.yahoo.com/articles/deal-agreed-arsenal-sign-winger-135000995.html",
+  "title": "Deal agreed for Arsenal to sign winger \u2013 latest transfer news"
+ },
+ {
   "id": "33b2987c9592d47b2478748cd3f80a32",
   "ts": "2026-07-17T01:17:57+00:00",
   "kind": "interest",

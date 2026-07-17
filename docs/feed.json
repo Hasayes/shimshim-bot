@@ -1,5 +1,23 @@
 [
  {
+  "id": "8d57ca395825f50675e890fbcf3a2aef",
+  "ts": "2026-07-17T17:46:27+00:00",
+  "kind": "deal",
+  "stage": "Completed",
+  "player": "Trevoh Chalobah",
+  "position": "Centre-back",
+  "age": "27",
+  "from_club": "Chelsea",
+  "to_club": "Como",
+  "fee": "\u20ac32m",
+  "style": "Versatile and physical centre-back comfortable in a back four or a three-man defence, capable of carrying the ball and contributing in the final third.",
+  "fit": "Como's Champions League campaign under Fabregas demands defensive depth and adaptability; Chalobah's versatility and experience at a top-six Premier League club make him well-suited to anchor their backline across multiple systems.",
+  "source": "Gianluca Di Marzio / Sky Sport Italia",
+  "outlet": "yahoo",
+  "url": "https://sports.yahoo.com/articles/trevoh-chalobah-talks-continue-between-054002553.html",
+  "title": "Trevoh Chalobah \u2018talks continue\u2019 between Como and Chelsea \u2014 report"
+ },
+ {
   "id": "tg:FabrizioRomanoTG/63188",
   "ts": "2026-07-17T17:31:47+00:00",
   "kind": "deal",

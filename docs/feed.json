@@ -1,5 +1,23 @@
 [
  {
+  "id": "63f1c925146d133c3877c7e70c8c7577",
+  "ts": "2026-07-17T04:46:24+00:00",
+  "kind": "deal",
+  "stage": "Completed",
+  "player": "Cristian Orozco",
+  "position": "Midfielder",
+  "age": "18",
+  "from_club": "Fortaleza",
+  "to_club": "Manchester United",
+  "fee": "$1m",
+  "style": "A young Colombian central midfielder known for his technical ability and composure in possession, regarded as a promising developmental talent.",
+  "fit": "United have signed him as a long-term academy project; his prior visit to Carrington aids acclimatisation and he could feature in pre-season friendlies as he develops.",
+  "source": "GiveMeSport / Manchester Evening News",
+  "outlet": "givemesport",
+  "url": "https://www.givemesport.com/man-utd-complete-another-signing-cristian-orozco/",
+  "title": "Man Utd Complete Another Signing Under the Radar"
+ },
+ {
   "id": "199776d6dd7184abfa6965991f0a49d0",
   "ts": "2026-07-17T02:01:35+00:00",
   "kind": "deal",

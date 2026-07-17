@@ -1,5 +1,23 @@
 [
  {
+  "id": "09756cbfa95253fac14c40067340aa9f",
+  "ts": "2026-07-17T19:16:27+00:00",
+  "kind": "deal",
+  "stage": "Medical",
+  "player": "Savinho",
+  "position": "Winger",
+  "age": "22",
+  "from_club": "Manchester City",
+  "to_club": "Tottenham Hotspur",
+  "fee": "\u00a360m",
+  "style": "Direct, explosive left winger who thrives on dribbling, quick transitions and creating chances in wide areas.",
+  "fit": "Fits De Zerbi's high-energy, possession-based system as a dynamic wide attacker capable of stretching defences and contributing directly to goals.",
+  "source": "Fabrizio Romano",
+  "outlet": "sportsmole",
+  "url": "https://www.sportsmole.co.uk/football/spurs/transfer-talk/news/fabrizio-romano-reveals-next-spurs-target-in-exciting-update-amid-gbp60m-pursuit_601363.html",
+  "title": "\"Let's see...\" - Fabrizio Romano reveals next Tottenham target in exciting update amid \u00a360m pursuit"
+ },
+ {
   "id": "40f8731c54e95db84493dc158c7cc560",
   "ts": "2026-07-17T18:46:38+00:00",
   "kind": "interest",

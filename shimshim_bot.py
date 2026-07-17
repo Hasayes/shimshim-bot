@@ -19,7 +19,11 @@ Optional:
   NEWSDATA_PAGES       newsdata pages per poll, 1 credit each (default 2)
   TELEGRAM_CHANNELS    comma-separated t.me channels to mirror
                        (default "fabrizioromanotg" — Fabrizio Romano)
-  CLAUDE_MODEL         Model id (default "claude-sonnet-4-6")
+  CLAUDE_MODEL         Model for web-verify step (default "claude-sonnet-4-6")
+  CLASSIFY_MODEL       Model for classify step (default "claude-haiku-4-5")
+  VERIFY_INTEREST      "1" to web-verify rumours (default "0" — classify only)
+  SKIP_VERIFY_TELEGRAM "0" to web-verify Telegram posts (default "1" — trust source)
+  WEB_SEARCH_MAX_USES  Web searches per verify (default 1)
   STATE_FILE           Path to state file (default state.json next to script)
 """
 import json
@@ -150,7 +154,11 @@ MAX_ARTICLE_AGE_DAYS = int(os.environ.get("MAX_ARTICLE_AGE_DAYS", "3"))
 # web preview (no auth, no API key). Primary fast source; news articles from
 # the provider above remain as the safety net.
 TELEGRAM_CHANNELS = os.environ.get("TELEGRAM_CHANNELS", "fabrizioromanotg")
+CLASSIFY_MODEL = os.environ.get("CLASSIFY_MODEL", "claude-haiku-4-5")
 CLAUDE_MODEL = os.environ.get("CLAUDE_MODEL", "claude-sonnet-4-6")
+VERIFY_INTEREST = os.environ.get("VERIFY_INTEREST", "0") == "1"
+SKIP_VERIFY_TELEGRAM = os.environ.get("SKIP_VERIFY_TELEGRAM", "1") == "1"
+WEB_SEARCH_MAX_USES = max(1, int(os.environ.get("WEB_SEARCH_MAX_USES", "1")))
 
 # Cards go to the app (feed + web push) only; set TELEGRAM_CARDS=1 to also
 # send them to the Telegram chat again. Rare operational alerts (e.g. billing
@@ -215,7 +223,7 @@ CLASSIFY_SYSTEM = (
 )
 
 
-RESEARCH_SYSTEM = (
+RESEARCH_SYSTEM_TEMPLATE = (
     "You are a football transfer fact-checker. Today is July 2026. Given a "
     "headline and summary about a possible transfer, use web search to "
     "verify:\n"
@@ -231,12 +239,16 @@ RESEARCH_SYSTEM = (
     "3. The buying or interested club(s).\n"
     "4. The reported fee.\n"
     "5. The journalist/outlet credited with the story.\n"
-    "You have a budget of at most 3 web searches — plan them so you don't "
-    "run out mid-task. When you finish searching (or hit the limit), you "
-    "MUST end with your bullet-point findings based on whatever you found "
+    "You have a budget of at most {max_uses} web search(es) — plan them so "
+    "you don't run out mid-task. When you finish searching (or hit the limit), "
+    "you MUST end with your bullet-point findings based on whatever you found "
     "so far — never end the turn without findings. Explicitly mark any fact "
     "you could not verify as UNVERIFIED. Never guess from memory."
 )
+
+
+def _research_system():
+    return RESEARCH_SYSTEM_TEMPLATE.format(max_uses=WEB_SEARCH_MAX_USES)
 
 
 BRIEF_SYSTEM = (
@@ -478,16 +490,28 @@ def classify_article(client, article):
     """Cheap first pass, no web search: classify + extract from the text.
 
     Non-deals stop here (~1/10th the cost of a verified briefing). Deals go
-    on to verify_deal() before publishing.
+    on to verify_deal() before publishing when needs_web_verify() says so.
     """
     resp = client.messages.parse(
-        model=CLAUDE_MODEL,
+        model=CLASSIFY_MODEL,
         max_tokens=1024,
         system=CLASSIFY_SYSTEM,
         messages=[{"role": "user", "content": _article_prompt(article)}],
         output_format=TransferBrief,
     )
     return resp.parsed_output
+
+
+def needs_web_verify(article, brief):
+    """Whether to run verify_deal() (web search) before publishing."""
+    if brief.kind == "interest" and not VERIFY_INTEREST:
+        return False
+    if SKIP_VERIFY_TELEGRAM and (
+        article["id"].startswith("tg:")
+        or "telegram" in _norm(article.get("source", ""))
+    ):
+        return False
+    return True
 
 
 def verify_deal(client, article):
@@ -499,11 +523,15 @@ def verify_deal(client, article):
     """
     prompt = _article_prompt(article)
     messages = [{"role": "user", "content": prompt}]
-    tools = [{"type": "web_search_20260209", "name": "web_search", "max_uses": 3}]
+    tools = [{
+        "type": "web_search_20260209",
+        "name": "web_search",
+        "max_uses": WEB_SEARCH_MAX_USES,
+    }]
     research = client.messages.create(
         model=CLAUDE_MODEL,
         max_tokens=4096,
-        system=RESEARCH_SYSTEM,
+        system=_research_system(),
         messages=messages,
         tools=tools,
     )
@@ -511,7 +539,7 @@ def verify_deal(client, article):
         research = client.messages.create(
             model=CLAUDE_MODEL,
             max_tokens=4096,
-            system=RESEARCH_SYSTEM,
+            system=_research_system(),
             messages=messages + [{"role": "assistant", "content": research.content}],
             tools=tools,
         )
@@ -792,7 +820,10 @@ def main():
                     state["titles"].append(title_key)
                     print(f"skipped (already carded, pre-verify): {article['title']}")
                     continue
-                brief = verify_deal(client, article)
+                if needs_web_verify(article, brief):
+                    brief = verify_deal(client, article)
+                else:
+                    print(f"skipped verify ({brief.kind}): {article['title']}")
         except Exception as e:  # noqa: BLE001 — leave unprocessed, retry next run
             if "credit balance" in str(e).lower():
                 # Billing outage: alert the user (at most once per 12h) and stop

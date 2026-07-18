@@ -1,5 +1,23 @@
 [
  {
+  "id": "5098e0c7f9ed422a9dcd681be6549a06",
+  "ts": "2026-07-18T10:31:26+00:00",
+  "kind": "deal",
+  "stage": "Medical",
+  "player": "Christ Inao Oulai",
+  "position": "Midfielder",
+  "age": "20",
+  "from_club": "Trabzonspor",
+  "to_club": "Fiorentina",
+  "fee": "\u20ac25m + \u20ac4m add-ons",
+  "style": "A dynamic and combative young central midfielder with strong pressing instincts and technical ability developed through French football before establishing himself in the Turkish S\u00fcper Lig.",
+  "fit": "Fiorentina gain a high-energy, box-to-box midfielder at peak developmental age who can add athleticism and intensity to their midfield while offering significant resale value given his age and international pedigree with Ivory Coast.",
+  "source": "Football Italia",
+  "outlet": "yahoo",
+  "url": "https://sports.yahoo.com/articles/done-deal-oulai-flies-fiorentina-222000791.html",
+  "title": "Done Deal: Oulai flies out for Fiorentina medical, \u20ac29m plus bonus from Trabzonspor"
+ },
+ {
   "id": "3dfa27209166abb8eade08c93d55190b",
   "ts": "2026-07-18T08:26:59+00:00",
   "kind": "interest",

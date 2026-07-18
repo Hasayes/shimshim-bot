@@ -1,5 +1,23 @@
 [
  {
+  "id": "00813f149135983c668b6ed569407382",
+  "ts": "2026-07-18T21:32:02+00:00",
+  "kind": "deal",
+  "stage": "Completed",
+  "player": "Elijah Upson",
+  "position": "Centre-back",
+  "age": "\u2014",
+  "from_club": "Tottenham Hotspur",
+  "to_club": "Arsenal",
+  "fee": "Undisclosed",
+  "style": "A composed, ball-playing centre-back who is comfortable in possession and reads the game well.",
+  "fit": "Arsenal's high defensive line and build-up play suit a technically assured centre-back capable of stepping into pressure; Upson offers long-term defensive depth for the academy-to-first-team pathway.",
+  "source": "Metro",
+  "outlet": "metro",
+  "url": "https://metro.co.uk/2026/07/18/son-former-england-world-cup-star-leaves-tottenham-sign-arsenal-29168084/",
+  "title": "Son of former England World Cup star leaves Tottenham to sign for Arsenal"
+ },
+ {
   "id": "472b606ed6f8e9ca5bbf05393a45b7b1",
   "ts": "2026-07-18T21:16:30+00:00",
   "kind": "interest",

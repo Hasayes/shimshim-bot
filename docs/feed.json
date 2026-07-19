@@ -1,5 +1,23 @@
 [
  {
+  "id": "1fdf0e9095345c707041ba1100bf80b2",
+  "ts": "2026-07-19T03:31:26+00:00",
+  "kind": "deal",
+  "stage": "Medical",
+  "player": "Samuel Mart\u00ednez",
+  "position": "Attacking Midfielder",
+  "age": "17",
+  "from_club": "Atl\u00e9tico Nacional",
+  "to_club": "Liverpool",
+  "fee": "\u00a3750,000",
+  "style": "A tall, right-footed attacking midfielder with creative flair and technical quality who impressed at the South American Under-17 Championship.",
+  "fit": "Liverpool secure a high-ceiling Colombian teen on a long-term deal, giving him time to develop at Atl\u00e9tico Nacional before integrating into their system.",
+  "source": "Fabrizio Romano / Florian Plettenberg / Football365",
+  "outlet": "football365",
+  "url": "https://www.football365.com/news/samuel-martinez-joining-liverpool-medical",
+  "title": "Liverpool \u2018medical\u2019 imminent as midfielder agrees \u2018historic transfer\u2019"
+ },
+ {
   "id": "9ee5f5a8b8824bb712178e6509fc7ddf",
   "ts": "2026-07-19T00:31:35+00:00",
   "kind": "interest",

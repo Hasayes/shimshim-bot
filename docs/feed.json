@@ -1,5 +1,23 @@
 [
  {
+  "id": "3fde456237d9bb5716219d8124a6965d",
+  "ts": "2026-07-19T09:16:34+00:00",
+  "kind": "deal",
+  "stage": "Medical",
+  "player": "Tynan Thompson",
+  "position": "Left winger",
+  "age": "18",
+  "from_club": "Tottenham Hotspur",
+  "to_club": "Manchester United",
+  "fee": "Undisclosed",
+  "style": "A dynamic young winger with pace and directness, capable of taking on defenders in wide areas.",
+  "fit": "An exciting academy prospect who fits Manchester United's focus on developing young English talent for the long term.",
+  "source": "The Secret Scout",
+  "outlet": "teamtalk",
+  "url": "https://www.teamtalk.com/manchester-united/latest-man-utd-transfer-news-amad-diallo-tynan-thompson-ben-nelson",
+  "title": "Fabrizio Romano reveals Man Utd \u2018stance\u2019 on selling Amad Diallo as Tottenham \u2018talks\u2019 begin over English gem"
+ },
+ {
   "id": "56e28b6fc25c819e557b561f2b2fe326",
   "ts": "2026-07-19T04:16:32+00:00",
   "kind": "interest",

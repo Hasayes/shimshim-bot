@@ -2,6 +2,12 @@ const VAPID_PUBLIC_KEY = "BDKwnexe_jAsbln6CFqhe9qMnjyh3tsOsIW5YcV9UN39-E7kjRjHGJ
 const $ = (s) => document.querySelector(s);
 let feed = [];
 
+// ---------- theme (follows the system; ?theme=dark|light overrides) ----------
+{
+  const t = new URLSearchParams(location.search).get("theme") || localStorage.getItem("theme");
+  if (t === "dark" || t === "light") document.documentElement.dataset.theme = t;
+}
+
 // ---------- tabs ----------
 document.querySelectorAll("nav button").forEach((b) =>
   b.addEventListener("click", () => {
@@ -15,13 +21,6 @@ document.querySelectorAll("nav button").forEach((b) =>
 const known = (v) => v && v.trim() !== "" && v.trim() !== "—";
 const esc = (s) =>
   String(s).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
-
-function ago(ts) {
-  const m = Math.max(0, (Date.now() - new Date(ts)) / 60000);
-  if (m < 60) return Math.round(m) + "m";
-  if (m < 60 * 24) return Math.round(m / 60) + "h";
-  return Math.round(m / 60 / 24) + "d";
-}
 
 // Same alias canonicalization as the bot, so "Barça"/"FC Barcelona" group together.
 const CLUB_CANON = [
@@ -49,7 +48,6 @@ function canonClub(raw) {
   return raw.trim().replace(/\s+(FC|CF|AFC)$/i, "");
 }
 
-// All clubs an item involves: destination(s) + origin.
 function clubsOf(i) {
   const out = new Set();
   if (known(i.to_club)) i.to_club.split(",").forEach((c) => known(c) && out.add(canonClub(c)));
@@ -57,42 +55,102 @@ function clubsOf(i) {
   return [...out];
 }
 
-// Unified stage of an item: "rumour" for the interest track, else its deal stage.
 const stageOf = (i) => (i.kind === "interest" ? "rumour" : known(i.stage) ? i.stage : "Completed");
+
+function matchesStage(i, want) {
+  if (!want) return true;
+  return stageOf(i) === want;
+}
+
+const PALETTE = ["#c0392b", "#1a5fb4", "#1c7c43", "#7b2d8b", "#b8860b", "#0f7173", "#a13d63", "#34495e", "#d35400", "#2d6a4f"];
+// real colors for the watched clubs (white-text-safe tones); others hash into the palette
+const CLUB_COLORS = {
+  "Real Madrid": "#b09037", "Barcelona": "#a50044", "Atlético Madrid": "#cb3524",
+  "Arsenal": "#c00a1d", "Chelsea": "#0348a4", "Liverpool": "#c8102e",
+  "Manchester City": "#2a7fbc", "Manchester United": "#b0201a", "Tottenham": "#131f3c",
+  "Bayern Munich": "#b00520", "Borussia Dortmund": "#a08000", "PSG": "#004170",
+  "Juventus": "#26282a", "Inter": "#0068a8", "AC Milan": "#ac1620", "Napoli": "#0f7fb0",
+};
+function avatarHTML(club) {
+  const words = club.replace(/[^\p{L}\s]/gu, "").split(/\s+/).filter(Boolean);
+  const ini = (words.length >= 2 ? words[0][0] + words[1][0] : club.slice(0, 3)).toUpperCase();
+  const canon = canonClub(club);
+  let color = CLUB_COLORS[canon];
+  if (!color) {
+    let h = 0;
+    for (const ch of canon) h = (h * 31 + ch.charCodeAt(0)) >>> 0;
+    color = PALETTE[h % PALETTE.length];
+  }
+  return `<div class="ava" style="background:${color}">${esc(ini)}</div>`;
+}
+
+function dayLabel(ts) {
+  const d = new Date(ts);
+  const days = Math.floor((new Date().setHours(0, 0, 0, 0) - new Date(d).setHours(0, 0, 0, 0)) / 864e5);
+  if (days <= 0) return "Today";
+  if (days === 1) return "Yesterday";
+  return d.toLocaleDateString("en-GB", { weekday: "long", day: "numeric", month: "short" });
+}
+
+function stageBadge(i) {
+  if (i.kind === "interest") return '<span class="badge s-rumour">👀 Rumour</span>';
+  const map = { "Completed": ["s-completed", "✓ Completed"], "Here we go": ["s-herewego", "Here we go"], "Medical": ["s-medical", "Medical"] };
+  const [cls, txt] = map[i.stage] || ["s-completed", "Deal"];
+  return `<span class="badge ${cls}">${txt}</span>`;
+}
 
 // ---------- cards ----------
 function cardHTML(i, forClub) {
   const isRumour = i.kind === "interest";
-  const badge = isRumour
-    ? '<span class="badge interest">👀 Rumour</span>'
-    : `<span class="badge deal">${esc(stageOf(i))}</span>`;
-  let tag = "";
+  const mainClub = isRumour ? i.to_club.split(",")[0] : (known(i.to_club) ? i.to_club : i.from_club);
+  const move = isRumour
+    ? `${esc(i.to_club)} in for the ${known(i.from_club) ? esc(i.from_club) + " " : ""}man`
+    : `${esc(i.from_club)} → ${esc(i.to_club)}`;
+  let inout = "";
   if (forClub && !isRumour) {
     const joined = known(i.to_club) && canonClub(i.to_club) === forClub;
-    tag = `<span class="badge ${joined ? "in" : "out"}">${joined ? "⬅ In" : "➡ Out"}</span>`;
+    inout = `<span class="badge ${joined ? "in" : "out"}">${joined ? "⬅ In" : "➡ Out"}</span>`;
   }
   const meta = [i.position, i.age].filter(known).join(" · ");
-  const move = isRumour
-    ? `${known(i.from_club) ? "🏟 " + esc(i.from_club) + " · " : ""}🎯 ${esc(i.to_club)}`
-    : `🔄 ${esc(i.from_club)} → ${esc(i.to_club)}`;
+  const detail = [
+    meta && `<p>📍 ${esc(meta)}</p>`,
+    known(i.style) && `<p>🎮 ${esc(i.style)}</p>`,
+    known(i.fit) && `<p>🧩 ${esc(i.fit)}</p>`,
+    `<p class="src">${known(i.source) ? "🗞 " + esc(i.source) : ""}${known(i.source) && i.outlet ? " · " : ""}${esc(i.outlet || "")}` +
+      `${i.url ? ` · <a href="${esc(i.url)}" target="_blank" rel="noopener">Read more</a>` : ""}</p>`,
+  ].filter(Boolean).join("");
   return `<div class="card">
-    <div class="top"><span class="player">${esc(i.player)}</span>
-      <span class="when">${ago(i.ts)} ago</span></div>
-    ${meta ? `<div class="meta">📍 ${esc(meta)}</div>` : ""}
-    <div class="move">${move}${badge}${tag}</div>
-    ${known(i.fee) ? `<div class="line"><b>💰 Fee:</b> ${esc(i.fee)}</div>` : ""}
-    ${known(i.style) ? `<div class="line"><b>🎮 Style:</b> ${esc(i.style)}</div>` : ""}
-    ${known(i.fit) ? `<div class="line"><b>🧩 Fit:</b> ${esc(i.fit)}</div>` : ""}
-    <div class="foot">${known(i.source) ? "🗞 " + esc(i.source) + " · " : ""}${esc(i.outlet || "")}
-      ${i.url ? ` · <a href="${esc(i.url)}" target="_blank" rel="noopener">Read more</a>` : ""}</div>
+    <div class="head">${avatarHTML(mainClub)}
+      <div class="who"><div class="player">${esc(i.player)}</div><div class="move">${move}</div></div>
+      ${stageBadge(i)}${inout}</div>
+    ${known(i.fee) ? `<div class="fee">💰 ${esc(i.fee)}</div>` : ""}
+    <div class="morelink">More ›</div>
+    <div class="detail">${detail}</div>
   </div>`;
 }
+
+function renderCards(items, container, forClub) {
+  let html = "", lastDay = "";
+  for (const i of items) {
+    const day = dayLabel(i.ts);
+    if (day !== lastDay) { html += `<div class="day">${day}</div>`; lastDay = day; }
+    html += cardHTML(i, forClub);
+  }
+  container.innerHTML = html;
+}
+
+// expand/collapse via delegation; links inside cards still work
+document.addEventListener("click", (e) => {
+  if (e.target.closest("a")) return;
+  const card = e.target.closest(".card");
+  if (card) card.classList.toggle("open");
+});
 
 // ---------- feed ----------
 async function loadFeed() {
   try {
-    // unique query defeats the Pages CDN cache (~10 min) — cards show the
-    // moment the bot commits them
+    // unique query defeats the Pages CDN cache — cards show as soon as
+    // the bot commits them
     const r = await fetch(`feed.json?t=${Date.now()}`, { cache: "no-cache" });
     feed = await r.json();
   } catch {
@@ -101,12 +159,13 @@ async function loadFeed() {
   renderFeed();
 }
 
-function matchesStage(i, want) {
-  if (!want) return true;
-  return stageOf(i) === want;
-}
-
-// The feed is filtered by stage only — chips shared with the club pages.
+const STAGE_CHIPS = [
+  ["", "All"],
+  ["rumour", "👀 Rumours"],
+  ["Here we go", "🚦 Here we go"],
+  ["Medical", "🩺 Medical"],
+  ["Completed", "✅ Completed"],
+];
 let feedStage = "";
 
 function renderFeedChips() {
@@ -114,7 +173,8 @@ function renderFeedChips() {
     ([v, label]) => `<button class="chip${v === feedStage ? " active" : ""}" data-stage="${v}">${label}</button>`
   ).join("");
   $("#feed-chips").querySelectorAll(".chip").forEach((ch) =>
-    ch.addEventListener("click", () => {
+    ch.addEventListener("click", (e) => {
+      e.stopPropagation();
       feedStage = ch.dataset.stage;
       renderFeedChips();
       renderFeed();
@@ -124,7 +184,7 @@ function renderFeedChips() {
 
 function renderFeed() {
   const items = feed.filter((i) => matchesStage(i, feedStage));
-  $("#cards").innerHTML = items.map((i) => cardHTML(i)).join("");
+  renderCards(items, $("#cards"));
   $("#feed-empty").hidden = items.length > 0;
 }
 
@@ -144,9 +204,9 @@ function renderClubs() {
       const deals = items.filter((i) => i.kind !== "interest").length;
       const rumours = items.length - deals;
       const sub = `${deals} deal${deals === 1 ? "" : "s"}` + (rumours ? ` · ${rumours} rumour${rumours === 1 ? "" : "s"}` : "");
-      return `<div class="player-row" data-club="${esc(club)}">
-        <div><div class="n">${esc(club)}</div><div class="sub">${sub}</div></div>
-        <div>›</div></div>`;
+      return `<div class="player-row" data-club="${esc(club)}">${avatarHTML(club)}
+        <div class="grow"><div class="n">${esc(club)}</div><div class="sub">${sub}</div></div>
+        <div class="chev">›</div></div>`;
     });
   $("#club-list").innerHTML = rows.join("") || '<p class="empty">No clubs yet.</p>';
   $("#club-list").querySelectorAll(".player-row").forEach((el) =>
@@ -154,13 +214,6 @@ function renderClubs() {
   );
 }
 
-const STAGE_CHIPS = [
-  ["", "All"],
-  ["rumour", "👀 Rumours"],
-  ["Here we go", "🚦 Here we go"],
-  ["Medical", "🩺 Medical"],
-  ["Completed", "✅ Completed"],
-];
 let clubStage = "";
 
 function openClub(club) {
@@ -173,7 +226,8 @@ function openClub(club) {
     ([v, label]) => `<button class="chip${v === "" ? " active" : ""}" data-stage="${v}">${label}</button>`
   ).join("");
   $("#club-chips").querySelectorAll(".chip").forEach((ch) =>
-    ch.addEventListener("click", () => {
+    ch.addEventListener("click", (e) => {
+      e.stopPropagation();
       clubStage = ch.dataset.stage;
       $("#club-chips").querySelectorAll(".chip").forEach((x) => x.classList.toggle("active", x === ch));
       renderClubCards(club);
@@ -184,8 +238,8 @@ function openClub(club) {
 
 function renderClubCards(club) {
   const items = feed.filter((i) => clubsOf(i).includes(club) && matchesStage(i, clubStage));
-  $("#club-cards").innerHTML =
-    items.map((i) => cardHTML(i, club)).join("") || '<p class="empty">Nothing here yet.</p>';
+  if (items.length) renderCards(items, $("#club-cards"), club);
+  else $("#club-cards").innerHTML = '<p class="empty">Nothing here yet.</p>';
 }
 
 $("#club-back").addEventListener("click", renderClubs);
@@ -228,9 +282,6 @@ function urlB64(s) {
 }
 
 // ---------- push subscription health ----------
-// iOS occasionally rotates the push subscription; the paired one then goes
-// stale and pushes vanish silently. Compare our endpoint's hash against the
-// published pairing list and warn instead of staying quiet.
 async function checkPushHealth() {
   try {
     if (!("serviceWorker" in navigator) || !("PushManager" in window)) return;
@@ -256,12 +307,10 @@ async function checkPushHealth() {
 renderFeedChips();
 if ("serviceWorker" in navigator) {
   navigator.serviceWorker.register("sw.js");
-  // a push arrived while the app is open — show the new card immediately
   navigator.serviceWorker.addEventListener("message", (e) => {
     if (e.data === "refresh-feed") loadFeed();
   });
 }
-// refresh whenever the app comes back to the foreground
 document.addEventListener("visibilitychange", () => {
   if (!document.hidden) {
     loadFeed();
@@ -274,5 +323,5 @@ loadFeed().then(() => {
   if (location.hash === "#clubs") document.querySelector('nav button[data-tab="clubs"]').click();
   else if (location.hash.startsWith("#club=")) openClub(decodeURIComponent(location.hash.slice(6)));
 });
-setInterval(loadFeed, 5 * 60 * 1000); // refresh while open
-$("#version").textContent = "ShimShim v2.5";
+setInterval(loadFeed, 5 * 60 * 1000);
+$("#version").textContent = "ShimShim v3.0";

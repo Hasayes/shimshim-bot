@@ -319,15 +319,24 @@ async function checkPushHealth() {
 
 // ---------- boot ----------
 renderFeedChips();
+let swReg = null;
 if ("serviceWorker" in navigator) {
-  navigator.serviceWorker.register("sw.js");
+  navigator.serviceWorker.register("sw.js").then((reg) => { swReg = reg; });
   navigator.serviceWorker.addEventListener("message", (e) => {
     if (e.data === "refresh-feed") loadFeed();
+  });
+  // Auto-update: when a new service worker takes control, reload once so
+  // the fresh version applies immediately — no more being one open behind.
+  let hadController = !!navigator.serviceWorker.controller;
+  navigator.serviceWorker.addEventListener("controllerchange", () => {
+    if (!hadController) { hadController = true; return; } // first-ever install
+    location.reload();
   });
 }
 document.addEventListener("visibilitychange", () => {
   if (!document.hidden) {
     loadFeed();
+    if (swReg) swReg.update().catch(() => {}); // check for app updates on focus
     if (navigator.clearAppBadge) navigator.clearAppBadge().catch(() => {});
   }
 });
@@ -338,4 +347,4 @@ loadFeed().then(() => {
   else if (location.hash.startsWith("#club=")) openClub(decodeURIComponent(location.hash.slice(6)));
 });
 setInterval(loadFeed, 5 * 60 * 1000);
-$("#version").textContent = "ShimShim v3.0";
+$("#version").textContent = "ShimShim v3.1";

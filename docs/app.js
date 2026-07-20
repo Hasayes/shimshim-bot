@@ -38,7 +38,7 @@ const CLUB_CANON = [
   ["Borussia Dortmund", /dortmund/],
   ["PSG", /paris saint[- ]germain|\bpsg\b/],
   ["Juventus", /juventus|\bjuve\b/],
-  ["Inter", /\binter\b/],
+  ["Inter", /\binter\b(?!\s+miami)/],
   ["AC Milan", /\bmilan\b/],
   ["Napoli", /napoli/],
 ];

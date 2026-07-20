@@ -107,11 +107,12 @@ CLUB_CANON = [
     ("borussia dortmund", r"dortmund"),
     ("psg", r"paris saint[- ]germain|\bpsg\b"),
     ("juventus", r"juventus|\bjuve\b"),
-    ("inter", r"\binter\b"),
+    ("inter", r"\binter\b(?!\s+miami)"),
     ("milan", r"\bmilan\b"),
     ("napoli", r"napoli"),
 ]
 CLUB_RE = re.compile("|".join(pat for _, pat in CLUB_CANON))
+WATCHED_CANON = {canon for canon, _ in CLUB_CANON}
 
 # Interest-stage wording that lets an article through to Claude when a
 # watched club is mentioned (deal-stage KEYWORDS above still apply to all).
@@ -203,8 +204,11 @@ CLASSIFY_SYSTEM = (
     "a total/full agreement reached between all parties; a medical that is "
     "booked, underway or passed. Deals to ANY club qualify.\n"
     "- kind='interest' when it credibly reports that one of these watched "
-    "clubs is interested in, targeting, bidding for or in talks to sign a "
-    f"player, but the deal is not yet agreed: {', '.join(WATCHED_CLUBS)}. "
+    "clubs is trying to SIGN the player FROM another club — interested, "
+    "targeting, bidding or in talks: a story about a watched club setting "
+    "an asking price for its OWN player is NOT interest (the buyer matters, "
+    "not the seller). The watched clubs, for deals not yet agreed: "
+    f"{', '.join(WATCHED_CLUBS)}. "
     "Interest from any other club does NOT count.\n"
     "- kind='none' for everything else: contract renewals/extensions, "
     "injuries, interest from non-watched clubs, or transfer-window chatter. "
@@ -266,8 +270,11 @@ BRIEF_SYSTEM = (
     "booked, underway or passed. A 'here we go' or medical counts even "
     "though the paperwork is not finished yet. Deals to ANY club qualify.\n"
     "- kind='interest' when it credibly reports that one of these watched "
-    "clubs is interested in, targeting, bidding for or in talks to sign a "
-    f"player, but the deal is not yet agreed: {', '.join(WATCHED_CLUBS)}. "
+    "clubs is trying to SIGN the player FROM another club — interested, "
+    "targeting, bidding or in talks: a story about a watched club setting "
+    "an asking price for its OWN player is NOT interest (the buyer matters, "
+    "not the seller). The watched clubs, for deals not yet agreed: "
+    f"{', '.join(WATCHED_CLUBS)}. "
     "Interest from any other club does NOT count.\n"
     "- kind='none' for everything else: contract renewals/extensions, "
     "injuries, interest from non-watched clubs, players only being offered "
@@ -419,6 +426,10 @@ def _norm(s):
     s = unicodedata.normalize("NFKD", s)
     s = "".join(c for c in s if not unicodedata.combining(c))
     return " ".join(s.lower().replace(".", " ").split())
+
+
+def known_club(club):
+    return bool(club) and club.strip() not in ("", "—")
 
 
 def _norm_club(club):
@@ -856,6 +867,22 @@ def main():
         # Mark processed regardless of verdict so we don't re-evaluate it.
         seen.add(article["id"])
         state["sent"].append(article["id"])
+        if brief.kind == "interest":
+            # Sanity guards the model kept violating: a club cannot pursue
+            # its own player (misparsed asking-price stories produced
+            # "Chelsea -> Chelsea"), and interest cards are only for the
+            # watched clubs (Roma/Villa/Newcastle suitors slipped through).
+            suitors = [c.strip() for c in brief.to_club.split(",") if c.strip()]
+            if known_club(brief.from_club):
+                suitors = [c for c in suitors if _norm_club(c) != _norm_club(brief.from_club)]
+            suitors = [c for c in suitors if _norm_club(c) in WATCHED_CANON]
+            if suitors:
+                brief.to_club = ", ".join(suitors)
+            else:
+                brief.kind = "none"
+        if brief.kind == "deal" and known_club(brief.from_club) and \
+                _norm_club(brief.from_club) == _norm_club(brief.to_club):
+            brief.kind = "none"  # same-club "transfer" is a parse error
         if brief.kind == "none":
             print(f"skipped (no deal or watched-club interest): {article['title']}")
             continue

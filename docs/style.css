@@ -106,7 +106,14 @@ main { padding: 4px 14px 48px; max-width: 640px; margin: 0 auto; }
   width: 46px; height: 46px; border-radius: 14px; color: #fff;
   font-weight: 900; font-size: 15px; letter-spacing: .5px;
   display: flex; align-items: center; justify-content: center; flex-shrink: 0;
+  position: relative; overflow: hidden;
 }
+.ava img {
+  position: absolute; inset: 0; width: 100%; height: 100%;
+  object-fit: contain; padding: 5px; background: #fff;
+  border-radius: inherit; box-sizing: border-box;
+}
+[data-theme="dark"] .ava img { background: #f2f2ee; }
 .card .who { flex: 1; min-width: 0; }
 .card .player { font-size: 17px; font-weight: 800; }
 .card .move { font-size: 13px; color: var(--muted); margin-top: 1px; }

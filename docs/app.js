@@ -71,6 +71,16 @@ const CLUB_COLORS = {
   "Bayern Munich": "#b00520", "Borussia Dortmund": "#a08000", "PSG": "#004170",
   "Juventus": "#26282a", "Inter": "#0068a8", "AC Milan": "#ac1620", "Napoli": "#0f7fb0",
 };
+// official crests via football-data.org's public CDN (hotlinked, not
+// committed — trademarked artwork stays out of the repo); the colored
+// monogram beneath doubles as the automatic fallback
+const CLUB_CRESTS = {
+  "Arsenal": 57, "Chelsea": 61, "Liverpool": 64, "Manchester City": 65,
+  "Manchester United": 66, "Tottenham": 73, "Atlético Madrid": 78,
+  "Barcelona": 81, "Real Madrid": 86, "Bayern Munich": 5,
+  "Borussia Dortmund": 4, "PSG": 524, "Juventus": 109, "Inter": 108,
+  "AC Milan": 98, "Napoli": 113,
+};
 function avatarHTML(club) {
   const words = club.replace(/[^\p{L}\s]/gu, "").split(/\s+/).filter(Boolean);
   const ini = (words.length >= 2 ? words[0][0] + words[1][0] : club.slice(0, 3)).toUpperCase();
@@ -81,7 +91,11 @@ function avatarHTML(club) {
     for (const ch of canon) h = (h * 31 + ch.charCodeAt(0)) >>> 0;
     color = PALETTE[h % PALETTE.length];
   }
-  return `<div class="ava" style="background:${color}">${esc(ini)}</div>`;
+  const crest = CLUB_CRESTS[canon];
+  const img = crest
+    ? `<img src="https://crests.football-data.org/${crest}.png" alt="" loading="lazy" onerror="this.remove()">`
+    : "";
+  return `<div class="ava" style="background:${color}"><span>${esc(ini)}</span>${img}</div>`;
 }
 
 function dayLabel(ts) {

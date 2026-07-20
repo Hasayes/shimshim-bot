@@ -3,7 +3,13 @@ name: Weekly feed audit
 on:
   schedule:
     - cron: "0 6 * * 0"   # Sundays 06:00 UTC
-  workflow_dispatch: {}
+  workflow_dispatch:
+    inputs:
+      dry:
+        description: "Log verdicts only; no Telegram alert"
+        required: false
+        default: false
+        type: boolean
 
 jobs:
   audit:
@@ -19,4 +25,6 @@ jobs:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          AUDIT_DRY: ${{ github.event.inputs.dry == 'true' && '1' || '0' }}
         run: python audit_feed.py
+        # set AUDIT_DRY=1 via env for silent test runs

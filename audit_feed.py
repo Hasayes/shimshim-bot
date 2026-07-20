@@ -71,15 +71,28 @@ def main():
         max_tokens=4096,
         system=(
             "Convert the audit findings into verdicts for each numbered card. "
-            "verdict 'wrong' only when the findings give concrete evidence; "
-            "'unsure' when the findings flag doubt; otherwise 'ok'."
+            "verdict 'wrong' ONLY when the findings cite concrete evidence "
+            "that the card misstates reality (deal never happened, wrong "
+            "clubs, recycled old story, clearly wrong fee). 'unsure' ONLY "
+            "when the findings raise a specific substantive doubt. A card "
+            "the audit simply didn't check, or found nothing against, is "
+            "'ok' — lack of confirmation is NOT a problem."
         ),
         messages=[{"role": "user", "content": f"Cards:\n{listing}\n\nFindings:\n{notes}"}],
         output_format=Audit,
     )
     verdicts = resp.parsed_output.verdicts
-    problems = [v for v in verdicts if v.verdict != "ok" and 0 <= v.index < len(cards)]
-    print(f"audited {len(cards)} cards, {len(problems)} flagged")
+    for v in verdicts:  # full transparency in the run log
+        if 0 <= v.index < len(cards):
+            c = cards[v.index]
+            print(f"[{v.verdict.upper():6}] {c['player']} ({c['from_club']} -> {c['to_club']})"
+                  + (f" — {v.note}" if v.note else ""))
+    # alert only on evidence-backed problems; 'unsure' stays in the log
+    problems = [v for v in verdicts if v.verdict == "wrong" and 0 <= v.index < len(cards)]
+    print(f"audited {len(cards)} cards, {len(problems)} wrong")
+    if os.environ.get("AUDIT_DRY", "0") == "1":
+        print("[dry] telegram alert suppressed")
+        return
     if problems:
         msg_lines = ["🔎 ShimShim weekly audit flagged some cards:"]
         for v in problems:

@@ -210,6 +210,8 @@ CLASSIFY_SYSTEM = (
     "not the seller). The watched clubs, for deals not yet agreed: "
     f"{', '.join(WATCHED_CLUBS)}. "
     "Interest from any other club does NOT count.\n"
+    "- ONE briefing = ONE player. If the story covers several players' "
+    "moves, extract only the most newsworthy single player.\n"
     "- kind='none' for everything else: contract renewals/extensions, "
     "injuries, interest from non-watched clubs, or transfer-window chatter. "
     "ALSO kind='none' if the story looks like recycled OLD news — e.g. the "
@@ -276,6 +278,8 @@ BRIEF_SYSTEM = (
     "not the seller). The watched clubs, for deals not yet agreed: "
     f"{', '.join(WATCHED_CLUBS)}. "
     "Interest from any other club does NOT count.\n"
+    "- ONE briefing = ONE player. If the story covers several players' "
+    "moves, extract only the most newsworthy single player.\n"
     "- kind='none' for everything else: contract renewals/extensions, "
     "injuries, interest from non-watched clubs, players only being offered "
     "or made available, or general transfer-window chatter.\n"
@@ -867,6 +871,12 @@ def main():
         # Mark processed regardless of verdict so we don't re-evaluate it.
         seen.add(article["id"])
         state["sent"].append(article["id"])
+        if any(sep in brief.player for sep in (",", ";", " & ")):
+            # "player" holding several names means a merged multi-player card
+            # (a £246m "double deal" article produced one); the schema is one
+            # player per card
+            print(f"skipped (multi-player parse): {brief.player[:60]}")
+            brief.kind = "none"
         if brief.kind == "interest":
             # Sanity guards the model kept violating: a club cannot pursue
             # its own player (misparsed asking-price stories produced

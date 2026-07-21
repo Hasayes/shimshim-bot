@@ -1,10 +1,5 @@
 {
   "sent": [
-    "1131f7e2a1e7804a8c16966079aa5bdf",
-    "3eddc8689bd1374a062e7267fbd5728a",
-    "tg:FabrizioRomanoTG/62984",
-    "tg:FabrizioRomanoTG/62985",
-    "tg:FabrizioRomanoTG/62986",
     "tg:FabrizioRomanoTG/62989",
     "tg:FabrizioRomanoTG/62995",
     "tg:FabrizioRomanoTG/62999",
@@ -499,7 +494,12 @@
     "6efc05470951ae0c2c83e5f338f1978a",
     "404e2b8d00a4626a4900b154125227b8",
     "a9ef6513e3b8637cb3a74ed02fec6538",
-    "66c364da0efba0c51a230ceb9d3d82eb"
+    "66c364da0efba0c51a230ceb9d3d82eb",
+    "bf759a19311dfab02ce35cb679b85833",
+    "55dadb2f8d8ff2a391ce1a4815498add",
+    "71c29b2d4826bee16ce3d911b9c17b1a",
+    "21d76631919ffd6be47ff9ac70c8cd6d",
+    "68e931f2dbc021d32ab33196db809e12"
   ],
   "deals": {
     "thompson -> arsenal": 3,
@@ -705,14 +705,12 @@
     "interest: nelson -> manchester united",
     "interest: barcola -> manchester united",
     "interest: stones -> arsenal",
-    "interest: sarr -> manchester united"
+    "interest: sarr -> manchester united",
+    "interest: scott -> arsenal",
+    "interest: scott -> chelsea",
+    "interest: scott -> manchester united"
   ],
   "titles": [
-    "chelsea could thwart united with kone bid, szoboszlai future decided - euro tran",
-    "liverpool transfer news: dominik szoboszlai agrees to five-year extension amid r",
-    "man utd complete another signing under the radar",
-    "\u201cagreement in place\u201d \u2013 fabrizio romano confirms liverpool have secured five year",
-    "manchester united identify this serie a midfielder as a target: should carrick g",
     "no 1 tottenham winger target named by fabrizio romano as \u00a360m star greenlights m",
     "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f rc strasbourg sign ibrahima ba from famalicao, here we go! deal done for ",
     "chelsea are still hoping to land this crystal palace star: should alonso move in",
@@ -1007,7 +1005,12 @@
     "liverpool must tick these four giant boxes if they are to pull off sensational b",
     "liverpool 'officially submit barcola bid'; ornstein reveals arsenal update - 'in",
     "man utd have upper hand over arsenal for priority target after holding initial d",
-    "transfer news live: arsenal target williams; rogers 'signs' chelsea deal; sarr t"
+    "transfer news live: arsenal target williams; rogers 'signs' chelsea deal; sarr t",
+    "alex scott: bournemouth midfielder rejects new contract amid strong interest fro",
+    "man utd make first move to sign midfielder no 3 as respected paper directly oppo",
+    "chelsea enter advanced talks for next signing after rogers as romano issues upda",
+    "sunderland and leeds united linked with \u00a330m liverpool transfer as decision loom",
+    "arsenal news: \u00a3116m 'active movements' update as mikel arteta beats rivals to tr"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1142,6 +1145,7 @@
     "eliezer mayenda": "https://r2.thesportsdb.com/images/media/player/cutout/g5icfr1756904169.png/small",
     "loum tchaouna": "https://r2.thesportsdb.com/images/media/player/cutout/t8itlf1757174754.png/small",
     "mario martin": "",
-    "takato yamamoto": ""
+    "takato yamamoto": "",
+    "alex scott": "https://r2.thesportsdb.com/images/media/player/cutout/0z6n9e1687372961.png/small"
   }
 }

@@ -1,4 +1,4 @@
-const CACHE = "shimshim-v15";
+const CACHE = "shimshim-v16";
 const SHELL = ["./", "index.html", "style.css", "app.js", "manifest.webmanifest", "icon-192.png", "icon-512.png"];
 
 self.addEventListener("install", (e) => {
@@ -67,7 +67,7 @@ self.addEventListener("notificationclick", (e) => {
 self.addEventListener("pushsubscriptionchange", (e) => {
   e.waitUntil(
     self.registration.showNotification("⚠️ ShimShim needs re-pairing", {
-      body: "iOS renewed the push subscription. Open Settings → Enable notifications and send the new code.",
+      body: "iOS renewed the push subscription. Open Settings → Enable notifications and send the code to @Kahab_bot.",
       icon: "icon-192.png",
     })
   );

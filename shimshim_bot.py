@@ -673,7 +673,7 @@ def append_feed(article, brief):
     FEED_FILE.write_text(json.dumps(feed[:MAX_FEED], indent=1))
 
 
-def write_push_meta():
+def write_push_meta(subs):
     """Publish hash prefixes of the paired push endpoints for the app.
 
     The app hashes its own subscription endpoint and checks membership; a
@@ -682,20 +682,91 @@ def write_push_meta():
     Hash prefixes reveal nothing about the endpoints themselves.
     """
     import hashlib
-    subs_raw = os.environ.get("PUSH_SUBSCRIPTIONS", "")
-    if not subs_raw:
+    if not subs:
         return
     try:
         hashes = sorted(
             hashlib.sha256(s["endpoint"].encode()).hexdigest()[:16]
-            for s in json.loads(subs_raw)
+            for s in subs
         )
-    except (json.JSONDecodeError, KeyError, TypeError):
+    except (KeyError, TypeError):
         return
     meta = json.dumps({"endpoints": hashes})
     if not PUSH_META_FILE.exists() or PUSH_META_FILE.read_text() != meta:
         PUSH_META_FILE.parent.mkdir(parents=True, exist_ok=True)
         PUSH_META_FILE.write_text(meta)
+
+
+PUSH_SUBS_FILE = Path(os.environ.get("PUSH_SUBS_FILE", Path(__file__).with_name("push-subs.enc")))
+
+
+def _fernet():
+    key = os.environ.get("PUSH_ENC_KEY", "")
+    if not key:
+        return None
+    from cryptography.fernet import Fernet
+    return Fernet(key.encode())
+
+
+def load_push_subs():
+    """Subscription store: encrypted file in the repo (public repo — endpoints
+    must not be plaintext), falling back to the legacy secret."""
+    f = _fernet()
+    if f and PUSH_SUBS_FILE.exists():
+        try:
+            return json.loads(f.decrypt(PUSH_SUBS_FILE.read_bytes()).decode())
+        except Exception as e:  # noqa: BLE001
+            print(f"push store decrypt failed: {e}", file=sys.stderr)
+    raw = os.environ.get("PUSH_SUBSCRIPTIONS", "")
+    try:
+        return json.loads(raw) if raw else []
+    except json.JSONDecodeError:
+        return []
+
+
+def save_push_subs(subs):
+    f = _fernet()
+    if f:
+        PUSH_SUBS_FILE.write_bytes(f.encrypt(json.dumps(subs).encode()))
+
+
+def collect_new_subscriptions(state):
+    """Self-service re-pairing: iOS rotates push subscriptions after service
+    worker updates; the user pastes the new code to the Telegram bot and this
+    picks it up on the next poll — no manual secret updates.
+
+    Only messages from the owner's chat are honoured.
+    """
+    token = os.environ.get("TELEGRAM_BOT_TOKEN", "")
+    chat_id = os.environ.get("TELEGRAM_CHAT_ID", "")
+    if not token or not chat_id:
+        return []
+    offset = state.get("tg_update_offset", 0)
+    try:
+        with urllib.request.urlopen(
+            f"https://api.telegram.org/bot{token}/getUpdates?offset={offset + 1}&timeout=0",
+            timeout=30,
+        ) as resp:
+            updates = json.loads(resp.read().decode()).get("result", [])
+    except Exception as e:  # noqa: BLE001
+        print(f"getUpdates failed: {e}", file=sys.stderr)
+        return []
+    found = []
+    for u in updates:
+        state["tg_update_offset"] = max(state.get("tg_update_offset", 0), u.get("update_id", 0))
+        msg = u.get("message") or {}
+        if str((msg.get("chat") or {}).get("id", "")) != str(chat_id):
+            continue  # pairing codes are only accepted from the owner
+        text = (msg.get("text") or "").strip()
+        if not (text.startswith("{") and '"endpoint"' in text):
+            continue
+        try:
+            sub = json.loads(text)
+            if sub["endpoint"].startswith("https://") and sub["keys"]["p256dh"] and sub["keys"]["auth"]:
+                found.append(sub)
+        except (json.JSONDecodeError, KeyError, TypeError):
+            continue
+    return found
 
 
 def send_plain_telegram(text):
@@ -712,7 +783,7 @@ def send_plain_telegram(text):
         return json.loads(resp.read().decode())
 
 
-def send_web_push(article, brief, state):
+def send_web_push(article, brief, state, subs):
     """Push the card to every subscribed browser (the installed PWA).
 
     Subscriptions live in the PUSH_SUBSCRIPTIONS secret (JSON array) rather
@@ -721,10 +792,9 @@ def send_web_push(article, brief, state):
     (404/410 from the push service) triggers a Telegram re-pair alert, at
     most once per 12h — notifications must never fail silently.
     """
-    subs_raw = os.environ.get("PUSH_SUBSCRIPTIONS", "")
     pem_file = os.environ.get("VAPID_PEM_FILE", "")
-    if not subs_raw or not pem_file:
-        print("web push skipped: PUSH_SUBSCRIPTIONS/VAPID_PEM_FILE not set", file=sys.stderr)
+    if not subs or not pem_file:
+        print("web push skipped: no subscriptions or VAPID_PEM_FILE not set", file=sys.stderr)
         return
     if brief.kind == "deal" and _norm(brief.stage) == "medical":
         return  # notify on rumours / here we go / completed; medicals are feed-only
@@ -746,7 +816,7 @@ def send_web_push(article, brief, state):
         "tag": _norm(brief.player)[:40] if _norm(brief.player) not in ("", "—") else None,
     })
     sent, dead = 0, []
-    for sub in json.loads(subs_raw):
+    for sub in list(subs):
         try:
             # ttl matters: the default of 0 means "deliver this instant or
             # drop" — pushes to a sleeping phone silently vanished. 24h TTL
@@ -760,6 +830,8 @@ def send_web_push(article, brief, state):
             print(f"web push error ({code}): {e}", file=sys.stderr)
             if code in (404, 410):
                 dead.append(sub["endpoint"].split("/")[2])
+                subs.remove(sub)  # dead endpoint — prune from the store
+                save_push_subs(subs)
     print(f"push sent to {sent} subscription(s): {title}")
     if dead:
         last = state.get("push_alert_ts", "")
@@ -778,8 +850,22 @@ def send_web_push(article, brief, state):
 
 def main():
     state = load_state()
+    subs = load_push_subs()
     if not DRY_RUN:
-        write_push_meta()
+        new_subs = collect_new_subscriptions(state)
+        if new_subs:
+            for sub in new_subs:
+                subs = [s for s in subs if s["endpoint"] != sub["endpoint"]]
+                subs.append(sub)
+            subs = subs[-5:]  # at most a handful of devices
+            save_push_subs(subs)
+            try:
+                send_plain_telegram(
+                    f"✅ ShimShim: {len(new_subs)} device(s) paired for notifications."
+                )
+            except Exception as e:  # noqa: BLE001
+                print(f"pairing confirmation failed: {e}", file=sys.stderr)
+        write_push_meta(subs)
     seen = set(state["sent"])
     deals = state["deals"]  # deal key -> highest stage rank already sent
     interest_sent = set(state["interest"])
@@ -910,7 +996,7 @@ def main():
         # chat card is opt-in via TELEGRAM_CARDS.
         append_feed(article, brief)
         try:
-            send_web_push(article, brief, state)
+            send_web_push(article, brief, state, subs)
         except Exception as e:  # noqa: BLE001 — push failure must not block the feed
             print(f"web push error: {e}", file=sys.stderr)
         if TELEGRAM_CARDS:

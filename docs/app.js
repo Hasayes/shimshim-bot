@@ -311,7 +311,7 @@ async function checkPushHealth() {
     if (!meta.endpoints.includes(hex)) {
       $("#push-status").textContent =
         "⚠️ Notifications are broken: this device's subscription is no longer paired. " +
-        "Tap Enable notifications and send the new code to Claude.";
+        "Tap Enable notifications, copy the code, and send it to @Kahab_bot on Telegram.";
       document.querySelector('nav button[data-tab="settings"]').classList.add("attention");
     }
   } catch { /* diagnostics must never break the app */ }
@@ -347,4 +347,4 @@ loadFeed().then(() => {
   else if (location.hash.startsWith("#club=")) openClub(decodeURIComponent(location.hash.slice(6)));
 });
 setInterval(loadFeed, 5 * 60 * 1000);
-$("#version").textContent = "ShimShim v3.1";
+$("#version").textContent = "ShimShim v3.2";

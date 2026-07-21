@@ -44,6 +44,7 @@ jobs:
           NEWS_PROVIDER: ${{ vars.NEWS_PROVIDER || 'newsdata' }}
           VAPID_PRIVATE_KEY_PEM: ${{ secrets.VAPID_PRIVATE_KEY_PEM }}
           PUSH_SUBSCRIPTIONS: ${{ secrets.PUSH_SUBSCRIPTIONS }}
+          PUSH_ENC_KEY: ${{ secrets.PUSH_ENC_KEY }}
           DRY_RUN: ${{ github.event.inputs.dry_run == 'true' && '1' || '0' }}
         run: |
           if [[ -n "$VAPID_PRIVATE_KEY_PEM" ]]; then
@@ -53,8 +54,8 @@ jobs:
           git config user.name "shimshim-bot"
           git config user.email "bot@users.noreply.github.com"
           persist() {
-            if [[ -n "$(git status --porcelain state.json docs/feed.json docs/push-meta.json)" ]]; then
-              git add state.json docs/feed.json docs/push-meta.json
+            if [[ -n "$(git status --porcelain state.json docs/feed.json docs/push-meta.json push-subs.enc)" ]]; then
+              git add state.json docs/feed.json docs/push-meta.json push-subs.enc
               git commit -m "update state [skip ci]"
               # main may have moved while the poll ran — rebase and retry,
               # else sent cards are lost and the next run re-sends them

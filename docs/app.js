@@ -81,6 +81,22 @@ const CLUB_CRESTS = {
   "Borussia Dortmund": 4, "PSG": 524, "Juventus": 109, "Inter": 108,
   "AC Milan": 98, "Napoli": 113,
 };
+function crestURL(club) {
+  const id = CLUB_CRESTS[canonClub(club)];
+  return id ? `https://crests.football-data.org/${id}.png` : "";
+}
+
+function cardAvatarHTML(i, mainClub, color) {
+  if (i.photo) {
+    const crest = crestURL(mainClub);
+    return `<div class="ava pf" style="background:${color}">
+      <img class="pimg" src="${esc(i.photo)}" alt="" loading="lazy" onerror="this.closest('.ava').classList.remove('pf'); this.remove()">
+      ${crest ? `<span class="crest-mini"><img src="${crest}" alt="" loading="lazy" onerror="this.parentNode.remove()"></span>` : ""}
+    </div>`;
+  }
+  return avatarHTML(mainClub);
+}
+
 function avatarHTML(club) {
   const words = club.replace(/[^\p{L}\s]/gu, "").split(/\s+/).filter(Boolean);
   const ini = (words.length >= 2 ? words[0][0] + words[1][0] : club.slice(0, 3)).toUpperCase();
@@ -133,8 +149,15 @@ function cardHTML(i, forClub) {
     `<p class="src">${known(i.source) ? "🗞 " + esc(i.source) : ""}${known(i.source) && i.outlet ? " · " : ""}${esc(i.outlet || "")}` +
       `${i.url ? ` · <a href="${esc(i.url)}" target="_blank" rel="noopener">Read more</a>` : ""}</p>`,
   ].filter(Boolean).join("");
+  const canon = canonClub(mainClub);
+  let avaColor = CLUB_COLORS[canon];
+  if (!avaColor) {
+    let h = 0;
+    for (const ch of canon) h = (h * 31 + ch.charCodeAt(0)) >>> 0;
+    avaColor = PALETTE[h % PALETTE.length];
+  }
   return `<div class="card">
-    <div class="head">${avatarHTML(mainClub)}
+    <div class="head">${cardAvatarHTML(i, mainClub, avaColor)}
       <div class="who"><div class="player">${esc(i.player)}</div><div class="move">${move}</div></div>
       ${stageBadge(i)}${inout}</div>
     ${known(i.fee) ? `<div class="fee">💰 ${esc(i.fee)}</div>` : ""}
@@ -347,4 +370,4 @@ loadFeed().then(() => {
   else if (location.hash.startsWith("#club=")) openClub(decodeURIComponent(location.hash.slice(6)));
 });
 setInterval(loadFeed, 5 * 60 * 1000);
-$("#version").textContent = "ShimShim v3.2";
+$("#version").textContent = "ShimShim v3.3";

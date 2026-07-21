@@ -643,7 +643,55 @@ def _esc(s):
     return s.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
 
 
-def append_feed(article, brief):
+def lookup_player_photo(player, clubs_text, state):
+    """Best-effort player photo from TheSportsDB (free tier).
+
+    Accuracy first: a unique search hit is accepted; with several hits we
+    require the database's team to match one of the card's clubs, else no
+    photo (the crest fallback looks fine, a wrong face does not). Results
+    (including misses) are cached in state to avoid repeat lookups.
+    """
+    name = _norm(player)
+    if not name or name == "—":
+        return ""
+    cache = state.setdefault("photos", {})
+    if name in cache:
+        return cache[name]
+    photo = ""
+    try:
+        data = _get_json(
+            "https://www.thesportsdb.com/api/v1/json/3/searchplayers.php?p="
+            + urllib.parse.quote(player)
+        )
+        players = data.get("player") or []
+        cand = None
+        if len(players) == 1:
+            cand = players[0]
+        else:
+            want_canon = {_norm_club(c) for c in clubs_text.split("|") if c.strip()}
+            want_words = {w for w in _norm(clubs_text.replace("|", " ")).split() if len(w) > 3}
+            for p in players:
+                team = p.get("strTeam") or ""
+                if not team:
+                    continue
+                if _norm_club(team) in want_canon or \
+                        any(w in want_words for w in _norm(team).split() if len(w) > 3):
+                    cand = p
+                    break
+        if cand:
+            pic = cand.get("strCutout") or cand.get("strThumb") or ""
+            photo = pic + "/small" if pic else ""
+    except Exception as e:  # noqa: BLE001 — photos are decoration, never fatal
+        print(f"photo lookup failed for {player}: {e}", file=sys.stderr)
+        return ""  # transient failure (e.g. rate limit) — do NOT cache as a miss
+    cache[name] = photo
+    if len(cache) > 300:
+        for k in list(cache)[: len(cache) - 300]:
+            del cache[k]
+    return photo
+
+
+def append_feed(article, brief, photo=""):
     """Prepend this card to the JSON feed the PWA reads."""
     feed = []
     if FEED_FILE.exists():
@@ -655,6 +703,7 @@ def append_feed(article, brief):
         "id": article["id"],
         "ts": datetime.now(timezone.utc).isoformat(timespec="seconds"),
         "kind": brief.kind,
+        "photo": photo,
         "stage": brief.stage,
         "player": brief.player,
         "position": brief.position,
@@ -994,7 +1043,8 @@ def main():
                 continue
         # The app (feed + web push) is the delivery channel; the Telegram
         # chat card is opt-in via TELEGRAM_CARDS.
-        append_feed(article, brief)
+        photo = lookup_player_photo(brief.player, f"{brief.from_club}|{brief.to_club}", state)
+        append_feed(article, brief, photo)
         try:
             send_web_push(article, brief, state, subs)
         except Exception as e:  # noqa: BLE001 — push failure must not block the feed

@@ -11,6 +11,9 @@ import sys
 from datetime import datetime, timedelta, timezone
 from typing import Literal
 
+import base64
+import urllib.request
+
 import anthropic
 from pydantic import BaseModel
 
@@ -18,6 +21,87 @@ from shimshim_bot import CLAUDE_MODEL, FEED_FILE, send_plain_telegram
 
 AUDIT_DAYS = int(os.environ.get("AUDIT_DAYS", "7"))
 MAX_CARDS = int(os.environ.get("AUDIT_MAX_CARDS", "25"))
+
+
+class PhotoVerdict(BaseModel):
+    index: int
+    plausible: bool
+    note: str  # why it's suspicious ("" when plausible)
+
+
+class PhotoAudit(BaseModel):
+    verdicts: list[PhotoVerdict]
+
+
+def visual_photo_check(client, cards):
+    """Claude eyeballs the week's new photos like a human reviewer would.
+
+    Sends the actual images with the card facts and asks for plausibility:
+    right sport, age matches the card, kit consistent with the clubs. This
+    is the check that caught a father's photo on his son's card.
+    """
+    subjects = []
+    seen_urls = set()
+    for c in cards:
+        url = c.get("photo", "")
+        if not url or url in seen_urls:
+            continue
+        seen_urls.add(url)
+        subjects.append(c)
+    subjects = subjects[:20]
+    if not subjects:
+        return []
+
+    content = []
+    lines = []
+    loaded = []
+    for c in subjects:
+        try:
+            req = urllib.request.Request(c["photo"], headers={"User-Agent": "shimshim-audit/1.0"})
+            with urllib.request.urlopen(req, timeout=30) as resp:
+                raw = resp.read()
+        except Exception as e:  # noqa: BLE001
+            print(f"photo fetch failed for {c['player']}: {e}", file=sys.stderr)
+            continue
+        media = "image/png" if raw[:8].startswith(b"\x89PNG") else "image/jpeg"
+        n = len(loaded)
+        loaded.append(c)
+        content.append({"type": "image", "source": {
+            "type": "base64", "media_type": media,
+            "data": base64.standard_b64encode(raw).decode()}})
+        age = c.get("age", "") or "unknown"
+        lines.append(f"Image {n}: claimed to be {c['player']} "
+                     f"(age {age}, {c.get('position') or 'position unknown'}, "
+                     f"clubs: {c['from_club']} / {c['to_club']})")
+    if not loaded:
+        return []
+    content.append({"type": "text", "text": (
+        "You are auditing a football news app's player photos, in the order "
+        "given:\n" + "\n".join(lines) + "\n\n"
+        "For each image judge PLAUSIBILITY, flagging only real red flags:\n"
+        "- not a football player (different sport, non-athlete, mascot)\n"
+        "- apparent age wildly inconsistent with the claimed age (e.g. a "
+        "40-something for a listed 19-year-old)\n"
+        "- visible kit/branding clearly belonging to none of the listed "
+        "clubs' colours (allow national teams, training wear, old clubs)\n"
+        "- obviously the wrong famous person\n"
+        "Unremarkable or ambiguous photos are plausible — only flag clear "
+        "mismatches.")})
+    resp = client.messages.parse(
+        model=CLAUDE_MODEL,
+        max_tokens=2048,
+        messages=[{"role": "user", "content": content}],
+        output_format=PhotoAudit,
+    )
+    flagged = []
+    for v in resp.parsed_output.verdicts:
+        if not v.plausible and 0 <= v.index < len(loaded):
+            c = loaded[v.index]
+            flagged.append(f"• {c['player']} ({c['from_club']} → {c['to_club']}): {v.note}")
+            print(f"[PHOTO?] {c['player']} — {v.note}")
+        elif 0 <= v.index < len(loaded):
+            print(f"[photo ok] {loaded[v.index]['player']}")
+    return flagged
 
 
 class Verdict(BaseModel):
@@ -55,6 +139,13 @@ def main():
     if not cards:
         print("nothing to audit")
         return
+    client = anthropic.Anthropic()
+
+    photo_flags = visual_photo_check(client, [c for c in cards if c.get("photo")])
+    if photo_flags and os.environ.get("AUDIT_DRY", "0") != "1":
+        send_plain_telegram("🖼 ShimShim photo audit — these faces look wrong:\n"
+                            + "\n".join(photo_flags[:10])
+                            + "\nAsk Claude to verify and fix.")
 
     lines = []
     for n, c in enumerate(cards):
@@ -64,7 +155,6 @@ def main():
                      f"published {c['ts'][:10]}")
     listing = "\n".join(lines)
 
-    client = anthropic.Anthropic()
     research = client.messages.create(
         model=CLAUDE_MODEL,
         max_tokens=8192,

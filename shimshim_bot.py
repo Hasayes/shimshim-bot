@@ -694,20 +694,23 @@ def lookup_player_photo(player, clubs_text, state):
             + urllib.parse.quote(player)
         )
         players = data.get("player") or []
+        # STRICT match, no unique-hit shortcut: a lone result can still be
+        # the wrong person (an "Alex Scott" search once returned a baseball
+        # pitcher). Requirements: sport is Soccer AND the DB team matches
+        # one of the card's clubs. No confident match -> no photo.
+        want_canon = {_norm_club(c) for c in clubs_text.split("|") if c.strip()}
+        want_words = {w for w in _norm(clubs_text.replace("|", " ")).split() if len(w) > 3}
         cand = None
-        if len(players) == 1:
-            cand = players[0]
-        else:
-            want_canon = {_norm_club(c) for c in clubs_text.split("|") if c.strip()}
-            want_words = {w for w in _norm(clubs_text.replace("|", " ")).split() if len(w) > 3}
-            for p in players:
-                team = p.get("strTeam") or ""
-                if not team:
-                    continue
-                if _norm_club(team) in want_canon or \
-                        any(w in want_words for w in _norm(team).split() if len(w) > 3):
-                    cand = p
-                    break
+        for p in players:
+            if (p.get("strSport") or "") != "Soccer":
+                continue
+            team = p.get("strTeam") or ""
+            if not team:
+                continue
+            if _norm_club(team) in want_canon or \
+                    any(w in want_words for w in _norm(team).split() if len(w) > 3):
+                cand = p
+                break
         if cand:
             pic = cand.get("strCutout") or cand.get("strThumb") or ""
             photo = pic + "/small" if pic else ""

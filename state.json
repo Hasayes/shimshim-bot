@@ -1,7 +1,5 @@
 {
   "sent": [
-    "41c87080933afec49705f62e2a26af22",
-    "c6681b6be6122705b2c0f0017c8f2642",
     "8ddd19c9ae15b454f9cf0f7951fa5390",
     "1ac05d8cc3200627ef6a907ced6e54e4",
     "3d60a047e832c05ceb4e85029b288264",
@@ -499,7 +497,9 @@
     "eed084fdaf978038471e85ef329959c5",
     "7963e8ff1a24bb200330795a9bc491af",
     "tg:FabrizioRomanoTG/63435",
-    "eda4317844b5377f23aa445edd0f1f92"
+    "eda4317844b5377f23aa445edd0f1f92",
+    "d26b3d7df1cc4619814d2ebd820dcc17",
+    "14fb41752d54f4bbca553e93c8910d23"
   ],
   "deals": {
     "thompson -> arsenal": 3,
@@ -714,10 +714,12 @@
     "interest: rodri -> real madrid",
     "interest: ndiaye -> manchester united",
     "interest: schjelderup -> tottenham",
-    "interest: schlotterbeck -> real madrid"
+    "interest: schlotterbeck -> real madrid",
+    "interest: rashford -> chelsea",
+    "interest: rashford -> arsenal",
+    "interest: rashford -> tottenham"
   ],
   "titles": [
-    "tottenham on verge of \u00a365m winger signing with deal being \u2018closed\u2019",
     "tottenham on verge of \u00a365m winger signing as deal being 'closed' - teamtalk",
     "'here we go': liverpool agree 5-year dominik szoboszlai contract",
     "psg in advanced talks over transfer that could pave way for liverpool to sign br",
@@ -1016,7 +1018,8 @@
     "richard hughes given green light for incredible liverpool parting gift",
     "morgan rogers completes \u00a3117m chelsea transfer as arsenal miss out on aston vill",
     "\ud83d\udea8 \ud83c\udde6\ud83c\uddf7 real madrid are ready to give the green light to franco mastantuono\u2019s exit ",
-    "zidane signs deal to become france coach: report"
+    "zidane signs deal to become france coach: report",
+    "chelsea, arsenal and spurs all want rashford - wednesday's gossip"
   ],
   "tg_update_offset": 263617426,
   "photos": {

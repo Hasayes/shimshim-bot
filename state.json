@@ -1,14 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/63043",
-    "tg:FabrizioRomanoTG/63046",
-    "tg:FabrizioRomanoTG/63047",
-    "03b83a09cc6800e27a0b26e5086d37a8",
-    "tg:FabrizioRomanoTG/63049",
-    "34d92538e8a5a1c74ad47d3692684012",
-    "tg:FabrizioRomanoTG/63050",
-    "1242beb0f28d982ebdaac818ec8f647b",
-    "tg:FabrizioRomanoTG/63054",
     "tg:FabrizioRomanoTG/63055",
     "8d7cf6d5b38d014e6c69b5c737344be7",
     "a989abe1fbbc95a358ea21842beea7c2",
@@ -499,7 +490,16 @@
     "c9f89897ae4c9847c1f8454721e958bc",
     "6a99a2ddb7bf131fdeed98aa933e53e8",
     "tg:FabrizioRomanoTG/63416",
-    "tg:FabrizioRomanoTG/63418"
+    "tg:FabrizioRomanoTG/63418",
+    "7533a7387c985bf3bc232a050d054f76",
+    "ae81271a74eadd81c7af5ddeedcf969f",
+    "3b2be6131c01eef43586c0be81b43020",
+    "d60cb2902a3ba221dcc36d34ee341d32",
+    "34c860b92ec9bb3466b956444664c355",
+    "12cfef2799d578b8eed129f9eab460b6",
+    "a8e2e3f9a21e75e01027d6088b49b367",
+    "f73e261f94e2fd804052a9f89b87ea94",
+    "6772d906c2026ebf1fcd48ca38fb0533"
   ],
   "deals": {
     "thompson -> arsenal": 3,
@@ -613,7 +613,8 @@
     "digne -> psg": 3,
     "barco -> chelsea": 1,
     "bisiwu -> barcelona": 1,
-    "lankshear -> middlesbrough": 3
+    "lankshear -> middlesbrough": 3,
+    "adeyemi -> barcelona": 3
   },
   "interest": [
     "interest: alvarez -> arsenal",
@@ -712,15 +713,6 @@
     "interest: rodri -> real madrid"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f atletico ceo gil: \u201ci spoke to laporta personally i told him: please, just",
-    "\ud83d\udea8 \ud83d\udc8d official: fifa to award the winners of the world cup with championship rings",
-    "\ud83d\udea8 \ud83c\udded\ud83c\uddfa official: dominik szoboszlai and liverpool, together on longer and improved",
-    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f jhon duran to benfica, here we go! deal done for colombian forward to joi",
-    "man utd news: fee 'agreed' for france star as transfer target leaves training ca",
-    "\ud83d\udcfa new youtube video uploaded! \ud83c\udfac \ud83d\udea8 \ud83d\udca3 big bombas! julian next! salah bid, olise & ",
-    "bayern munich news: liverpool, fc bayern battling over psg\u2019s bradley barcola?; i",
-    "rt @fabrizioromano : \ud83d\udea8 \ud83d\udd34 \ud83d\udd35 paris saint-germain remain in active talks to sign ma",
-    "man united latest: \u00a345m fee 'agreed' for world cup ace as transfer target's medi",
     "\ud83d\udea8 \ud83c\uddeb\ud83c\uddf7 zinedine zidane will be france next head coach, never in doubt since novemb",
     "\ud83d\udea8 breaking: ederson signs new deal at atalanta until june 2031 \u26ab\ufe0f \ud83d\udd35 \ud83c\udde7\ud83c\uddf7 confirms ",
     "transfer: arsenal ready to complete move for morgan rogers",
@@ -1011,7 +1003,16 @@
     "man city: fabrizio romano reveals \u2018main obstacle\u2019 blocking rodri\u2019s \u2018dream\u2019 trans",
     "here we go: barcelona set to sign belgian teenage prodigy in \u20ac8 5 million deal",
     "\ud83d\udd35 \u26aa\ufe0f \ud83c\uddf8\ud83c\udde6 exclusive story, official and confirmed: malang sarr signs in as new neo",
-    "\ud83d\udea8 \u26a0\ufe0f summerville deal: al hilal agreed fee with west ham but still waiting on pl"
+    "\ud83d\udea8 \u26a0\ufe0f summerville deal: al hilal agreed fee with west ham but still waiting on pl",
+    "man utd want new striker in sublime triple deal with superstar among six targets",
+    "zidane returns! france legend to replace deschamps as new boss after fifa wc 202",
+    "barcelona transfer news: barca land surprise \u00a37m signing while adeyemi deal is f",
+    "real madrid reconsider position on move for man city superstar despite perez rel",
+    "man utd get green light to complete \u00a380m deal",
+    "antonio silva set for bournemouth move after milan speculation",
+    "barcelona seal \u20ac8 5m signing of jesse bisiwu",
+    "zidane set to take over as french team manager",
+    "arsenal to bid again for guimaraes"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1148,6 +1149,7 @@
     "mario martin": "",
     "takato yamamoto": "",
     "alex scott": "https://r2.thesportsdb.com/images/media/player/cutout/0z6n9e1687372961.png/small",
-    "rodri": "https://r2.thesportsdb.com/images/media/player/cutout/0ml2zi1761148957.png/small"
+    "rodri": "https://r2.thesportsdb.com/images/media/player/cutout/0ml2zi1761148957.png/small",
+    "karim adeyemi": "https://r2.thesportsdb.com/images/media/player/cutout/go6jti1756325880.png/small"
   }
 }

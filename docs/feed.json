@@ -1,5 +1,24 @@
 [
  {
+  "id": "3b2be6131c01eef43586c0be81b43020",
+  "ts": "2026-07-22T00:31:18+00:00",
+  "kind": "deal",
+  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/go6jti1756325880.png/small",
+  "stage": "Completed",
+  "player": "Karim Adeyemi",
+  "position": "Left winger",
+  "age": "24",
+  "from_club": "Borussia Dortmund",
+  "to_club": "FC Barcelona",
+  "fee": "Undisclosed",
+  "style": "Explosive left winger with electric pace, direct dribbling, and a clinical edge in front of goal.",
+  "fit": "Provides Barcelona with a dynamic wide threat capable of stretching defences in behind, complementing their possession-based system with verticality and transition danger.",
+  "source": "Sports Mole",
+  "outlet": "sportsmole",
+  "url": "https://www.sportsmole.co.uk/football/barcelona/transfer-talk/news/barcelona-land-surprise-gbp7m-signing-while-adeyemi-deal-is-finalised_601599.html",
+  "title": "Barcelona transfer news: Barca land surprise \u00a37m signing while Adeyemi deal is finalised"
+ },
+ {
   "id": "c9f89897ae4c9847c1f8454721e958bc",
   "ts": "2026-07-21T21:30:45+00:00",
   "kind": "interest",

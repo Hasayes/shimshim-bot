@@ -1,7 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/63135",
-    "4286f167d4f6f380fabd530c9faa0e5a",
     "29b5309dd85553fe067917841972a472",
     "b98f8ee029b4487a6295247f7cbcc1ae",
     "8cf9067f482f4f69071b087023e8ad3b",
@@ -499,7 +497,9 @@
     "ff8689aa50528bdada31d051a0e9f6f7",
     "029fabb3a6f8be0f5568392057679116",
     "tg:FabrizioRomanoTG/63460",
-    "tg:FabrizioRomanoTG/63461"
+    "tg:FabrizioRomanoTG/63461",
+    "a60ce3abf0c84949760419f89e625ffe",
+    "18ba7cdc149a0ff9925491796d3c2060"
   ],
   "deals": {
     "thompson -> arsenal": 3,
@@ -721,11 +721,10 @@
     "interest: rashford -> arsenal",
     "interest: rashford -> tottenham",
     "interest: zaire-emery -> manchester united",
-    "interest: asencio -> liverpool"
+    "interest: asencio -> liverpool",
+    "interest: mastantuono -> tottenham"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83d\udd35 breaking: morgan rogers to chelsea, here we go! club to club agreement reach",
-    "\ud83d\udea8 \ud83d\udd35 morgan rogers will be in london on monday for medical tests and contract sig",
     "david ornstein: newcastle united have \u00a346m bid rejected for top transfer target",
     "joao palhinha not headed to aston villa?",
     "\ud83d\udea8 \ud83c\udded\ud83c\uddf7 alen halilovic, close to signing for persepolis with negotiations underway ",
@@ -1023,7 +1022,9 @@
     "transfer news and rumours today: man united-linked crysencio summerville's futur",
     "andoni iraola makes alexis mac allister sale stance clear amid \u00a385m transfer rum",
     "\ud83d\udea8 \ud83d\udd35 all documents are signed for valentin barco to join chelsea from strasbourg ",
-    "\ud83d\udea8 \ud83d\udd35 negotiations continue between chelsea and crystal palace for maxence lacroix"
+    "\ud83d\udea8 \ud83d\udd35 negotiations continue between chelsea and crystal palace for maxence lacroix",
+    "real madrid eyeing move for spain\u2019s world cup hero from rivals barcelona amid th",
+    "fabrizio romano reveals \u201cgreen light\u201d for tottenham transfer target to move this"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1165,6 +1166,7 @@
     "mario martin": "",
     "takato yamamoto": "",
     "warren zaire-emery": "https://r2.thesportsdb.com/images/media/player/cutout/fjxbac1766335583.png/small",
-    "raul asencio": "https://r2.thesportsdb.com/images/media/player/cutout/7pk52z1768499125.png/small"
+    "raul asencio": "https://r2.thesportsdb.com/images/media/player/cutout/7pk52z1768499125.png/small",
+    "franco mastantuono": "https://r2.thesportsdb.com/images/media/player/cutout/pgq83k1762604333.png/small"
   }
 }

@@ -1,7 +1,5 @@
 {
   "sent": [
-    "70a9860656591dcc5093773664f35672",
-    "863f13696c0d59c81abbd35819ee1234",
     "tg:FabrizioRomanoTG/63119",
     "6b9b05802c12205a3761073afb6c0231",
     "43fde7e0aae3c9fbf3b06e18a1fad394",
@@ -499,7 +497,9 @@
     "tg:FabrizioRomanoTG/63449",
     "8daea144bb0fe2c9d3f6a4e2ff1d9db3",
     "c7563c7c6d0f6befe6b77b1de85da2d0",
-    "c6eccad5b4a0913705c617d0d21eec18"
+    "c6eccad5b4a0913705c617d0d21eec18",
+    "326646fd322eded43172a384a9ceb0c0",
+    "tg:FabrizioRomanoTG/63450"
   ],
   "deals": {
     "thompson -> arsenal": 3,
@@ -615,7 +615,8 @@
     "bisiwu -> barcelona": 1,
     "lankshear -> middlesbrough": 3,
     "adeyemi -> barcelona": 3,
-    "summerville -> al-hilal": 2
+    "summerville -> al-hilal": 2,
+    "garnacho -> aston villa": 2
   },
   "interest": [
     "interest: alvarez -> arsenal",
@@ -720,8 +721,6 @@
     "interest: rashford -> tottenham"
   ],
   "titles": [
-    "arsenal set to submit record-breaking offer for morgan rogers",
-    "barcelona-linked south american forward closing in on benfica move \u2013 romano",
     "ederson: maurizio sarri provides update on united target\u2019s future",
     "ederson officially signs new contract",
     "\u2018will leave psg this summer\u2019: fabrizio romano reveals exciting liverpool transfe",
@@ -1019,7 +1018,9 @@
     "\ud83d\udea8 \ud83c\uddfa\ud83c\uddf8 official, confirmed: casemiro joins inter miami on a free transfer \ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udffc \ud83c\udde7\ud83c\uddf7",
     "rt @fabrizioromano : \ud83d\udea8 \ud83d\udfe3 \ud83d\udd35 exclusive: aston villa agree deal to sign alejandro g",
     "tottenham striker will lankshear set to join middlesbrough",
-    "either way, manchester city need a speedy resolution to the rodri situation"
+    "either way, manchester city need a speedy resolution to the rodri situation",
+    "romano rules out three man utd transfers after west ham accept \u00a360m summerville ",
+    "\ud83d\udea8 \ud83d\udfe3 \ud83d\udd35 more on garnacho and aston villa exclusive story: the obligation to buy cl"
   ],
   "tg_update_offset": 263617426,
   "photos": {

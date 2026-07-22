@@ -1,7 +1,5 @@
 {
   "sent": [
-    "79b26b43b1a51a375de53ebdde403a95",
-    "4383d5e126511cf3a6800fe6308c586a",
     "aecd98b4e766bc36b7df488d468f317f",
     "1161dde12feab966f868539ef6fb264d",
     "fc5801cf051f8e3fee6bc03fb1f2173e",
@@ -499,7 +497,9 @@
     "tg:FabrizioRomanoTG/63454",
     "95ff187332af55df5d132d7bc1837f26",
     "e366cc83913ddc0e4a23fee4ae6be0e5",
-    "tg:FabrizioRomanoTG/63456"
+    "tg:FabrizioRomanoTG/63456",
+    "a311b6ee70e7604371ac0ab32d4a6890",
+    "e59178f5ca8dad3eae68569123fc17fc"
   ],
   "deals": {
     "thompson -> arsenal": 3,
@@ -719,11 +719,10 @@
     "interest: schlotterbeck -> real madrid",
     "interest: rashford -> chelsea",
     "interest: rashford -> arsenal",
-    "interest: rashford -> tottenham"
+    "interest: rashford -> tottenham",
+    "interest: zaire-emery -> manchester united"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f elijah upson to arsenal, here we go! agreement signed today for 18 year o",
-    "brilliant, andoni iraola confirms liverpool working on massive deal",
     "fabrizio romano confirms where contract deal puts dominik szoboszlai on liverpoo",
     "\ud83d\udde3\ufe0f \u201cyour career is like a video game, you keep unlocking new levels until you re",
     "ornstein confirms rejected newcastle offer for tottenham maestro but agreement l",
@@ -1021,7 +1020,9 @@
     "\ud83d\udea8 \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc73\udb40\udc63\udb40\udc74\udb40\udc7f excl: st mirren have agreed a deal to sign ghana u20 international abd",
     "florentino perez open to signing world cup winner for real madrid \u2013 report",
     "rodri greenlights man city exit as world cup winning midfielder looks for new ad",
-    "\ud83d\udea8 \ud83d\udd35 breaking: crysencio summerville to al hilal, here we go! verbal agreement do"
+    "\ud83d\udea8 \ud83d\udd35 breaking: crysencio summerville to al hilal, here we go! verbal agreement do",
+    "romano reveals new \u2018dream\u2019 man utd midfield signing \u2013 it\u2019s not kone or a real ma",
+    "man utd draw up six man shortlist for final midfielder transfer as fabrizio roma"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1161,6 +1162,7 @@
     "zadok yohanna": "",
     "emersonn": "",
     "mario martin": "",
-    "takato yamamoto": ""
+    "takato yamamoto": "",
+    "warren zaire-emery": "https://r2.thesportsdb.com/images/media/player/cutout/fjxbac1766335583.png/small"
   }
 }

@@ -1,5 +1,24 @@
 [
  {
+  "id": "a46f1ce9738ef42c030ca17d87094d33",
+  "ts": "2026-07-22T00:45:37+00:00",
+  "kind": "interest",
+  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/rten2t1756977078.png/small",
+  "stage": "\u2014",
+  "player": "Iliman Ndiaye",
+  "position": "Winger",
+  "age": "\u2014",
+  "from_club": "Everton",
+  "to_club": "Manchester United",
+  "fee": "\u00a370m",
+  "style": "Left-sided attacker with pace and technical ability.",
+  "fit": "United need reinforcement on the left flank but are hindered by Rashford's presence in the squad.",
+  "source": "CaughtOffside",
+  "outlet": "caughtoffside",
+  "url": "https://www.caughtoffside.com/2026/07/21/man-united-struggle-winger-due-to-offload-rashford/",
+  "title": "Man United struggle in pursuit of \u00a370m winger due to their inability to offload Rashford"
+ },
+ {
   "id": "3b2be6131c01eef43586c0be81b43020",
   "ts": "2026-07-22T00:31:18+00:00",
   "kind": "deal",

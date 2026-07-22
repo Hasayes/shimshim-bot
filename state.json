@@ -1,7 +1,5 @@
 {
   "sent": [
-    "7a4dce382294970fe0824a711cdda725",
-    "4c506b1e207dbac0dd06a4cf82af104e",
     "2fac85da2038b01c5f306340f2fd8ff7",
     "7f2bc88dd67ce6f2d7d2c80acce6971c",
     "8c0707d9e2e66b3427885d1a096f7b41",
@@ -499,7 +497,9 @@
     "3426f2f6b11413e5d13e0cf7b37871bb",
     "4385901327fe4f328d6c8b3bfa031938",
     "tg:FabrizioRomanoTG/63432",
-    "tg:FabrizioRomanoTG/63433"
+    "tg:FabrizioRomanoTG/63433",
+    "0fad03dd2d1b4ac42b0f854435eb3bad",
+    "28e73f6a811841e0b798f6339bde68a7"
   ],
   "deals": {
     "thompson -> arsenal": 3,
@@ -713,11 +713,10 @@
     "interest: scott -> manchester united",
     "interest: rodri -> real madrid",
     "interest: ndiaye -> manchester united",
-    "interest: schjelderup -> tottenham"
+    "interest: schjelderup -> tottenham",
+    "interest: schlotterbeck -> real madrid"
   ],
   "titles": [
-    "inter target spurs pair spence and romero in double swoop",
-    "liverpool secure dominik szoboszlai with long-term contract extension amid busy ",
     "michael olise transfer situation could soon get very interesting, says expert",
     "serie a transfer: monza and inter milan working out deal for super eagles star",
     "'sounds strange' - tottenham considering selling djed spence this summer",
@@ -1015,7 +1014,9 @@
     "ayyoub bouaddi 'reaches transfer agreement' after man city, man utd and arsenal ",
     "aston villa bid for alejandro garnacho loan from chelsea - reports - espn",
     "\ud83d\udea8 \ud83c\udde6\ud83c\uddf7 cuti romero will 100% leave spurs this summer, story from last week confirm",
-    "\ud83d\udea8 \ud83d\udc9b \ud83d\udc99 exclusive story confirmed: al nassr are making progress in talks to sign s"
+    "\ud83d\udea8 \ud83d\udc9b \ud83d\udc99 exclusive story confirmed: al nassr are making progress in talks to sign s",
+    "a manchester city pillar wants a move to real madrid, but there seems to be a ma",
+    "real madrid keeping eye on borussia dortmund\u2019s nico schlotterbeck and felix nmec"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1155,6 +1156,7 @@
     "rodri": "https://r2.thesportsdb.com/images/media/player/cutout/0ml2zi1761148957.png/small",
     "karim adeyemi": "https://r2.thesportsdb.com/images/media/player/cutout/go6jti1756325880.png/small",
     "iliman ndiaye": "https://r2.thesportsdb.com/images/media/player/cutout/rten2t1756977078.png/small",
-    "andreas schjelderup": "https://r2.thesportsdb.com/images/media/player/cutout/ihgav61758216246.png/small"
+    "andreas schjelderup": "https://r2.thesportsdb.com/images/media/player/cutout/ihgav61758216246.png/small",
+    "nico schlotterbeck": "https://r2.thesportsdb.com/images/media/player/cutout/fw07jw1756326507.png/small"
   }
 }

@@ -1,7 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/63170",
-    "190efd13c269bef7a880f86019d0e94c",
     "73d76c54bc382362878fa658dfdd5986",
     "c0a51568177c2902325a8c3e14627a5c",
     "tg:FabrizioRomanoTG/63172",
@@ -499,7 +497,9 @@
     "tg:FabrizioRomanoTG/63493",
     "eaf08e9ef36c76534f8fe608e4d4c27f",
     "tg:FabrizioRomanoTG/63495",
-    "d27507cf24303fd0353ff0edfb5fa045"
+    "d27507cf24303fd0353ff0edfb5fa045",
+    "e7e8833bb9fbcbf9bd3fa1e80286b020",
+    "tg:FabrizioRomanoTG/63497"
   ],
   "deals": {
     "thompson -> arsenal": 3,
@@ -619,7 +619,8 @@
     "garnacho -> aston villa": 2,
     "summerville -> al hilal": 1,
     "nduka -> manchester city": 3,
-    "flowers -> chelsea": 1
+    "flowers -> chelsea": 1,
+    "healy -> newcastle": 3
   },
   "interest": [
     "interest: alvarez -> arsenal",
@@ -728,11 +729,10 @@
     "interest: akliouche -> liverpool",
     "interest: cancelo -> barcelona",
     "interest: torres -> liverpool",
-    "interest: ketelaere -> bayern munich"
+    "interest: ketelaere -> bayern munich",
+    "interest: williams -> arsenal"
   ],
   "titles": [
-    "chelsea seal british record deal for manchester city target with medical schedul",
-    "transfer rumors, news: barcelona set deadline for",
     "transfer news live: arsenal enter diomande race; rogers set for chelsea medical;",
     "arteta has a plan to deal with saliba injury as serious defensive option emerges",
     "chelsea now just \u00a33m away from signing star who\u2019s \u2018keen on a move\u2019 after morgan ",
@@ -1030,7 +1030,9 @@
     "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 breaking: frenkie de jong is suffering from a tear in the medial collatera",
     "what next for enzo fernandez? chelsea's world cup villain finds himself in trans",
     "\ud83d\udd34 \ud83d\udd35 \ud83c\udde6\ud83c\uddf7 mikel amondarain to bologna: \u20ac10m plus \u20ac2m add-ons to estudiantes, deal s",
-    "al-ittihad join eintracht frankfurt in race for onyedika"
+    "al-ittihad join eintracht frankfurt in race for onyedika",
+    "forget rogers: arsenal hold talks to sign nico williams",
+    "\u26aa\ufe0f \u26ab\ufe0f newcastle have completed kyle healy deal today for the academy as young fu"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1178,6 +1180,8 @@
     "joao cancelo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Joao_Cancelo_Croatia_v_Portugal_2_July_2026-002.jpg/330px-Joao_Cancelo_Croatia_v_Portugal_2_July_2026-002.jpg",
     "ferran torres": "",
     "benji flowers": "",
-    "charles de ketelaere": "https://r2.thesportsdb.com/images/media/player/cutout/wqo9ia1695157273.png/small"
+    "charles de ketelaere": "https://r2.thesportsdb.com/images/media/player/cutout/wqo9ia1695157273.png/small",
+    "nico williams": "https://r2.thesportsdb.com/images/media/player/cutout/8lg7941629190551.png/small",
+    "kyle healy": ""
   }
 }

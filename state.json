@@ -1,6 +1,5 @@
 {
   "sent": [
-    "b87ffc7c83a0c91a9698e33081e696bf",
     "82cf5f173142155e1f9affcdddfd6477",
     "18ebb05da053c4030d07457c6490e446",
     "58d474211249c7145a2c0a81ba3ca518",
@@ -499,7 +498,8 @@
     "482d1146c71e7d8cf48280f835a927ce",
     "4935bd117208f2d26b91b53c872d9e85",
     "b125a3402d1c566962894cfab9bc609d",
-    "c1b7378a40ef77bc6422548c48a47930"
+    "c1b7378a40ef77bc6422548c48a47930",
+    "tg:FabrizioRomanoTG/63503"
   ],
   "deals": {
     "thompson -> arsenal": 3,
@@ -620,7 +620,8 @@
     "summerville -> al hilal": 1,
     "nduka -> manchester city": 3,
     "flowers -> chelsea": 1,
-    "healy -> newcastle": 3
+    "healy -> newcastle": 3,
+    "diawara -> milan": 1
   },
   "interest": [
     "interest: alvarez -> arsenal",
@@ -735,7 +736,6 @@
     "interest: debast -> arsenal"
   ],
   "titles": [
-    "chelsea set to reject all joao pedro bids this summer, even offers exceeding \u00a310",
     "alejandro garnacho: man united eyeing aston villa\u2019s plan for chelsea star",
     "\u201con his way to liverpool\u201d \u2013 reporter confirms new midfield signing",
     "alejandro garnacho does man utd a favour as 'next club picked' after swap deal t",
@@ -1034,7 +1034,8 @@
     "\u201cstarted discussing \u201d \u2013 arsenal given possible positive julian alvarez transfer ",
     "psg star bradley barcola on liverpool shortlist with reds showing \u2018most concrete",
     "\u2018what i can tell you \u2019 \u2013 fabrizio romano \u2018sure\u2019 about one thing regarding barcol",
-    "sources: arsenal offered bargain \u20ac40m deal for former man united transfer target"
+    "sources: arsenal offered bargain \u20ac40m deal for former man united transfer target",
+    "\ud83d\udea8 \ud83d\udd34 \u26ab\ufe0f ac milan agree deal to sign sankhoun diawara as new defender, here we go!"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1186,6 +1187,7 @@
     "nico williams": "https://r2.thesportsdb.com/images/media/player/cutout/8lg7941629190551.png/small",
     "kyle healy": "",
     "aurelien tchouameni": "https://r2.thesportsdb.com/images/media/player/cutout/4o417k1733653668.png/small",
-    "zeno debast": "https://r2.thesportsdb.com/images/media/player/cutout/xlp81e1716408284.png/small"
+    "zeno debast": "https://r2.thesportsdb.com/images/media/player/cutout/xlp81e1716408284.png/small",
+    "sankhoun diawara": ""
   }
 }

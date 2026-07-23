@@ -1,6 +1,5 @@
 {
   "sent": [
-    "8d57ca395825f50675e890fbcf3a2aef",
     "b87ffc7c83a0c91a9698e33081e696bf",
     "82cf5f173142155e1f9affcdddfd6477",
     "18ebb05da053c4030d07457c6490e446",
@@ -499,7 +498,8 @@
     "fd118a19877eac322ea9c637803db0de",
     "482d1146c71e7d8cf48280f835a927ce",
     "4935bd117208f2d26b91b53c872d9e85",
-    "b125a3402d1c566962894cfab9bc609d"
+    "b125a3402d1c566962894cfab9bc609d",
+    "c1b7378a40ef77bc6422548c48a47930"
   ],
   "deals": {
     "thompson -> arsenal": 3,
@@ -731,10 +731,10 @@
     "interest: torres -> liverpool",
     "interest: ketelaere -> bayern munich",
     "interest: williams -> arsenal",
-    "interest: tchouameni -> manchester united"
+    "interest: tchouameni -> manchester united",
+    "interest: debast -> arsenal"
   ],
   "titles": [
-    "tottenham confident in signing manchester city winger \u2013 latest transfer reports",
     "chelsea set to reject all joao pedro bids this summer, even offers exceeding \u00a310",
     "alejandro garnacho: man united eyeing aston villa\u2019s plan for chelsea star",
     "\u201con his way to liverpool\u201d \u2013 reporter confirms new midfield signing",
@@ -1033,7 +1033,8 @@
     "real madrid midfielder determined to impress jose mourinho amid manchester unite",
     "\u201cstarted discussing \u201d \u2013 arsenal given possible positive julian alvarez transfer ",
     "psg star bradley barcola on liverpool shortlist with reds showing \u2018most concrete",
-    "\u2018what i can tell you \u2019 \u2013 fabrizio romano \u2018sure\u2019 about one thing regarding barcol"
+    "\u2018what i can tell you \u2019 \u2013 fabrizio romano \u2018sure\u2019 about one thing regarding barcol",
+    "sources: arsenal offered bargain \u20ac40m deal for former man united transfer target"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1184,6 +1185,7 @@
     "charles de ketelaere": "https://r2.thesportsdb.com/images/media/player/cutout/wqo9ia1695157273.png/small",
     "nico williams": "https://r2.thesportsdb.com/images/media/player/cutout/8lg7941629190551.png/small",
     "kyle healy": "",
-    "aurelien tchouameni": "https://r2.thesportsdb.com/images/media/player/cutout/4o417k1733653668.png/small"
+    "aurelien tchouameni": "https://r2.thesportsdb.com/images/media/player/cutout/4o417k1733653668.png/small",
+    "zeno debast": "https://r2.thesportsdb.com/images/media/player/cutout/xlp81e1716408284.png/small"
   }
 }

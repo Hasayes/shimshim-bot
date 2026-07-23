@@ -1,8 +1,5 @@
 {
   "sent": [
-    "26531d425ac401521102e312aa354ba1",
-    "tg:FabrizioRomanoTG/63173",
-    "3d1298da6675058cd2dbc18d84cd620e",
     "eb218c27eae7ee93f6e75461466f9eff",
     "tg:FabrizioRomanoTG/63175",
     "tg:FabrizioRomanoTG/63177",
@@ -499,7 +496,10 @@
     "tg:FabrizioRomanoTG/63497",
     "7bebad5572728647d269fa7f61bd1051",
     "649cd5082105321254c65f0825b41010",
-    "ed2ea7b00544dadcf526c60732ef39e4"
+    "ed2ea7b00544dadcf526c60732ef39e4",
+    "e19eabd684ef0403e59a5eda7f87f169",
+    "942760e0774dc6632389683d37982394",
+    "692620c832609292b57693e7c2d051f5"
   ],
   "deals": {
     "thompson -> arsenal": 3,
@@ -730,12 +730,10 @@
     "interest: cancelo -> barcelona",
     "interest: torres -> liverpool",
     "interest: ketelaere -> bayern munich",
-    "interest: williams -> arsenal"
+    "interest: williams -> arsenal",
+    "interest: tchouameni -> manchester united"
   ],
   "titles": [
-    "man utd issue rashford transfer stance as 'plan revealed' - london evening stand",
-    "\ud83e\udd88 \ud83c\uddea\ud83c\uddf8 official: ferran torres, man of the match https://t co/t47fjtieil \u2014 fabrizi",
-    "\ud83d\udea8 \u2b50\ufe0f official: pau cubarsi wins young player of the tournament award at the 2026",
     "\ud83d\udea8 \u2b50\ufe0f official: unai simon wins best gk award at 2026 world cup! \ud83c\uddea\ud83c\uddf8 https://t co/",
     "\ud83d\udea8 \u2b50\ufe0f official: rodri wins best player of the tournament award at 2026 world cup ",
     "spurs confident of savinho deal but man city hold the key",
@@ -1032,7 +1030,10 @@
     "\u26aa\ufe0f \u26ab\ufe0f newcastle have completed kyle healy deal today for the academy as young fu",
     "something doesn\u2019t add up: arsenal tipped as favourites to sign chelsea & man utd",
     "transfer: al-ittihad rival eintracht frankfurt for onyedika",
-    "new: liverpool \u201cconfident\u201d of signing dream salah replacement for \u00a3100m in anoth"
+    "new: liverpool \u201cconfident\u201d of signing dream salah replacement for \u00a3100m in anoth",
+    "fabrizio romano reacts to man utd enquiring about aurelien tchouameni after new ",
+    "fabrizio romano drops aurelien tchouameni to man utd bombshell with decision mad",
+    "barcelona begin exploring alternatives to hansi flick\u2019s preferred target \u2013 roman"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1182,6 +1183,7 @@
     "benji flowers": "",
     "charles de ketelaere": "https://r2.thesportsdb.com/images/media/player/cutout/wqo9ia1695157273.png/small",
     "nico williams": "https://r2.thesportsdb.com/images/media/player/cutout/8lg7941629190551.png/small",
-    "kyle healy": ""
+    "kyle healy": "",
+    "aurelien tchouameni": "https://r2.thesportsdb.com/images/media/player/cutout/4o417k1733653668.png/small"
   }
 }

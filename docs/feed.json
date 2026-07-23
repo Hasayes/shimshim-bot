@@ -1,5 +1,24 @@
 [
  {
+  "id": "9057030f2087049d00e3356cf3774ddd",
+  "ts": "2026-07-23T03:30:33+00:00",
+  "kind": "interest",
+  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/2x2cfx1766237890.png/small",
+  "stage": "\u2014",
+  "player": "Maghnes Akliouche",
+  "position": "\u2014",
+  "age": "\u2014",
+  "from_club": "\u2014",
+  "to_club": "Liverpool",
+  "fee": "\u2014",
+  "style": "\u2014",
+  "fit": "\u2014",
+  "source": "Yahoo",
+  "outlet": "yahoo",
+  "url": "https://sports.yahoo.com/articles/source-close-liverpool-reveals-significant-153000730.html",
+  "title": "Source close to Liverpool reveals significant Maghnes Akliouche development"
+ },
+ {
   "id": "e9f841491f15a9e1b777ddda77d33c9d",
   "ts": "2026-07-23T00:31:10+00:00",
   "kind": "deal",

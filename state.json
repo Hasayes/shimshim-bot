@@ -1,8 +1,5 @@
 {
   "sent": [
-    "10f54d6d271fc4fc82879c8c91444ca0",
-    "tg:FabrizioRomanoTG/63165",
-    "2e8d69c3c4ae904a6b4d981ad7731155",
     "59a54347a88f1cd41894b5b51d5bd99e",
     "5c8e5f0eeefce3941abba89d9578f5e8",
     "tg:FabrizioRomanoTG/63168",
@@ -499,7 +496,10 @@
     "tg:FabrizioRomanoTG/63483",
     "tg:FabrizioRomanoTG/63484",
     "tg:FabrizioRomanoTG/63487",
-    "tg:FabrizioRomanoTG/63488"
+    "tg:FabrizioRomanoTG/63488",
+    "4e936d36c18b3b733cf68fec549956e5",
+    "8a75d78e2b9d5f0d260a37bc55dddf4c",
+    "tg:FabrizioRomanoTG/63489"
   ],
   "deals": {
     "thompson -> arsenal": 3,
@@ -727,10 +727,10 @@
     "interest: mastantuono -> tottenham",
     "interest: akliouche -> liverpool",
     "interest: cancelo -> barcelona",
-    "interest: torres -> liverpool"
+    "interest: torres -> liverpool",
+    "interest: ketelaere -> bayern munich"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83c\udde9\ud83c\uddea jurgen klopp, set to sign his official four year contract as new germany he",
     "\ud83d\udea8 official: pedri on the bench again for spain, fabian ruiz starts \ud83c\uddea\ud83c\uddf8 https://t ",
     "\ud83d\udea8 \ud83c\udde6\ud83c\uddf7 official: julian alvarez starts for argentina, lautaro martinez on the benc",
     "\ud83d\udea8 \ud83c\uddea\ud83c\uddf8 official: spain starting xi unai simon; porro, cubarsi, laporte, cucurella;",
@@ -1029,7 +1029,8 @@
     "\ud83d\udfe3 \ud83d\udd35 \ud83c\udde6\ud83c\uddf7 exclusive story, confirmed: alejandro garnacho joins aston villa from che",
     "\ud83d\udea8 \ud83c\udde8\ud83c\uddf2 napoli director giovanni manna: \u201cwe trust zambo anguissa he\u2019s key player fo",
     "\ud83d\udea8 \ud83c\udde6\ud83c\uddf7 napoli have verbal agreement in place with exequiel zeballos on personal te",
-    "\ud83d\udea8 \ud83d\udd35 chelsea have agreed to sign usa talented winger benji flowers for their acad"
+    "\ud83d\udea8 \ud83d\udd35 chelsea have agreed to sign usa talented winger benji flowers for their acad",
+    "bayern munich news: psg, fc bayern linked to atalanta\u2019s charles de ketelaere; tw"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1176,6 +1177,7 @@
     "mishel nduka": "",
     "joao cancelo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Joao_Cancelo_Croatia_v_Portugal_2_July_2026-002.jpg/330px-Joao_Cancelo_Croatia_v_Portugal_2_July_2026-002.jpg",
     "ferran torres": "",
-    "benji flowers": ""
+    "benji flowers": "",
+    "charles de ketelaere": "https://r2.thesportsdb.com/images/media/player/cutout/wqo9ia1695157273.png/small"
   }
 }

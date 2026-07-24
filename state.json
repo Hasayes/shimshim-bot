@@ -1,7 +1,5 @@
 {
   "sent": [
-    "2275a529a054c5836cecc4ce6afad823",
-    "9a0c70281c1ba05cc067c39badaa37d3",
     "4b8b187c0a9e07d41f9e43a57a6a32cd",
     "dc0365b0717bd8178920ecf5656e725a",
     "3159127b40ac7944a6b19ad9d7219e54",
@@ -499,7 +497,9 @@
     "ccedd27996af0d7f91f82421609a3e68",
     "5a6a53314a44994b5e2386fbdeb368aa",
     "8213be6cb45ee0231d92e244f8099320",
-    "f8076f60e401c3625edba6cca4499a6b"
+    "f8076f60e401c3625edba6cca4499a6b",
+    "3aec4969b9b3a5eb5586b99e77e49b23",
+    "82499c3a50aa152e85ac82fdaf2f1f53"
   ],
   "deals": {
     "thompson -> arsenal": 3,
@@ -739,8 +739,6 @@
     "interest: fernandez -> manchester city"
   ],
   "titles": [
-    "journalist claims other clubs are still in mix for liverpool linked attacker",
-    "\u2018agreed personal terms\u2019 \u2013 fabrizio hints at surprise liverpool transfer twist on",
     "man utd offered chance to sign top liverpool, arsenal target as psg make huge u-",
     "arsenal want shock free transfer from pl rivals as tzolis medical timeline is re",
     "joao gomes officially signs for aston villa",
@@ -1038,7 +1036,9 @@
     "official: nigeria\u2019s \u2018fufu\u2019 man joins barcelona from dortmund",
     "deal now close: arsenal putting finishing touches on potential \u00a380m transfer",
     "maldini and leonardo reveal italy talks with guardiola and ancelotti",
-    "arsenal complete signing of christos tzolis from club brugge for 40 million fee;"
+    "arsenal complete signing of christos tzolis from club brugge for 40 million fee;",
+    "al-hilal drop raphinha chase after signing summerville",
+    "celtic talks with bod\u00f8/glimt over kasper hogh transfer confirmed"
   ],
   "tg_update_offset": 263617426,
   "photos": {

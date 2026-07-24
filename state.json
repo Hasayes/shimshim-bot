@@ -1,6 +1,5 @@
 {
   "sent": [
-    "0629a9f0ec88411c7dcc57ba40f49a5f",
     "86c30841097ab42290e5fcf8da9fd7f4",
     "9ac2e1a5352cb9008e9ec38fe4a81f91",
     "602ab5e71d671d736d1f560fe0a20350",
@@ -499,7 +498,8 @@
     "tg:FabrizioRomanoTG/63507",
     "4367993970ad269ddddda828eab5eef2",
     "0f0f252f5fa5e41906d44afeb2600a5e",
-    "75c570f995dd8a80eb5cf6d2317e228e"
+    "75c570f995dd8a80eb5cf6d2317e228e",
+    "4784f011360200bdd9a348e5a51e3cbf"
   ],
   "deals": {
     "thompson -> arsenal": 3,
@@ -735,10 +735,10 @@
     "interest: tchouameni -> manchester united",
     "interest: debast -> arsenal",
     "interest: olise -> liverpool",
-    "interest: alajbegovic -> chelsea"
+    "interest: alajbegovic -> chelsea",
+    "interest: fernandez -> manchester city"
   ],
   "titles": [
-    "alejandro garnacho decides his next club as chelsea look to offload the young wi",
     "morgan rogers on verge of completing historic \u00a3117m switch to chelsea",
     "man utd transfer news: fabrizio romano hints at next midfield target in exciting",
     "sunderland, manchester united and west ham linked with \u00a312m leicester city trans",
@@ -1037,7 +1037,8 @@
     "\ud83d\udea8 \ud83c\udde7\ud83c\udde6 chelsea and italian clubs are keen on kerim alajbegovic as he\u2019s gonna leave",
     "romano: liverpool now pushing hard to sign barcola in mega money deal",
     "arsenal pursuit of real madrid star has clear ending after fabrizio romano revea",
-    "man utd agree personal terms with third midfield signing and now ready to bid \u20ac5"
+    "man utd agree personal terms with third midfield signing and now ready to bid \u20ac5",
+    "sources: manchester city prepare approach over signing chelsea duo"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1191,6 +1192,7 @@
     "aurelien tchouameni": "https://r2.thesportsdb.com/images/media/player/cutout/4o417k1733653668.png/small",
     "zeno debast": "https://r2.thesportsdb.com/images/media/player/cutout/xlp81e1716408284.png/small",
     "sankhoun diawara": "",
-    "kerim alajbegovic": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Jahresbeginnfeier_FC_RB_Salzburg_%282026-01-25_RB_Arena%29_10.jpg/330px-Jahresbeginnfeier_FC_RB_Salzburg_%282026-01-25_RB_Arena%29_10.jpg"
+    "kerim alajbegovic": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Jahresbeginnfeier_FC_RB_Salzburg_%282026-01-25_RB_Arena%29_10.jpg/330px-Jahresbeginnfeier_FC_RB_Salzburg_%282026-01-25_RB_Arena%29_10.jpg",
+    "enzo fernandez": "https://r2.thesportsdb.com/images/media/player/cutout/b71vun1757003115.png/small"
   }
 }

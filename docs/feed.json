@@ -1,5 +1,24 @@
 [
  {
+  "id": "c4a3f905863e149308471d086e3bfda6",
+  "ts": "2026-07-24T06:01:27+00:00",
+  "kind": "deal",
+  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/69y34j1757003249.png/small",
+  "stage": "Completed",
+  "player": "Alejandro Garnacho",
+  "position": "Winger",
+  "age": "21",
+  "from_club": "Chelsea",
+  "to_club": "Aston Villa",
+  "fee": "Loan (with conditional obligation to buy)",
+  "style": "A direct, pacey wide attacker who loves to run at defenders, cut inside and create chances with his dribbling and flair.",
+  "fit": "Garnacho brings electric wing play and Premier League experience to Villa, offering a dynamic attacking outlet who can unlock defences with his pace and skill.",
+  "source": "Sky Sports",
+  "outlet": "newseisamay",
+  "url": "https://newseisamay.com/sports/football/garnacho-joins-aston-villa-on-loan",
+  "title": "Alejandro Garnacho joins Aston Villa on loan from Chelsea until the end of 2026-27 season"
+ },
+ {
   "id": "b93273fdb442c3ddeeafdced0ded1824",
   "ts": "2026-07-24T04:40:27+00:00",
   "kind": "deal",

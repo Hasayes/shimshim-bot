@@ -1,8 +1,5 @@
 {
   "sent": [
-    "1a1e8098463bbe227c0ab573f3a1aab2",
-    "b15353f2e282b606bc1177f9a8a56134",
-    "f3453f4e30011081339a8f3617879e09",
     "fa69cd65bbd30cc47dabc804d9d81384",
     "0de54d48c9abd2888165aefba0097c41",
     "tg:FabrizioRomanoTG/63212",
@@ -499,7 +496,10 @@
     "87e62d3dda1f8451a076d4ed5652079a",
     "b93273fdb442c3ddeeafdced0ded1824",
     "58a01222e60fcc194f61ed2fe5cb5fef",
-    "tg:FabrizioRomanoTG/63508"
+    "tg:FabrizioRomanoTG/63508",
+    "414f5d7ba0033da0ce4ef9c57cf098bf",
+    "c4a3f905863e149308471d086e3bfda6",
+    "69025f23fac48efab98b68965c147d7e"
   ],
   "deals": {
     "thompson -> arsenal": 3,
@@ -616,7 +616,7 @@
     "lankshear -> middlesbrough": 3,
     "adeyemi -> barcelona": 3,
     "summerville -> al-hilal": 2,
-    "garnacho -> aston villa": 2,
+    "garnacho -> aston villa": 3,
     "summerville -> al hilal": 1,
     "nduka -> manchester city": 3,
     "flowers -> chelsea": 1,
@@ -740,9 +740,6 @@
     "interest: fernandez -> manchester city"
   ],
   "titles": [
-    "\u201ci can confirm \u201d \u2013 romano claims man united have plans to sign \u2018defensive\u2019 midfi",
-    "ricci offered to juventus and atalanta as amorim reshapes milan midfield",
-    "genk reach agreement with pisa for durosinmi",
     "man utd announce they\u2019ve signed winger from tottenham as transfer fee revealed",
     "atletico madrid have no plans to sell julian alvarez to arsenal",
     "man utd's interest in roma midfielder manu kone: transfer update",
@@ -1039,7 +1036,10 @@
     "jurgen klopp set to be named german national team coach",
     "done deal: bologna secure amondarain despite nottingham forest interest",
     "james pearce: liverpool want bradley barcola in 'massively exciting' deal",
-    "\ud83d\udea8 \ud83c\uddf6\ud83c\udde6 excl: al gharafa now leading the race to sign ismael bennacer from ac milan"
+    "\ud83d\udea8 \ud83c\uddf6\ud83c\udde6 excl: al gharafa now leading the race to sign ismael bennacer from ac milan",
+    "barcelona signs forward karim adeyemi from borussia dortmund until 2031",
+    "alejandro garnacho joins aston villa on loan from chelsea until the end of 2026-",
+    "transfer round-up: milan done deal and double contract extension, roma in nusa t"
   ],
   "tg_update_offset": 263617426,
   "photos": {

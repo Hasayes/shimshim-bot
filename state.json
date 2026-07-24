@@ -1,8 +1,5 @@
 {
   "sent": [
-    "7d98b961600d7ef7f99da578b4ace15a",
-    "df3a3e2263e40dfd08f8d8626de24f8d",
-    "tg:FabrizioRomanoTG/63250",
     "tg:FabrizioRomanoTG/63251",
     "c69dcf6380f0f517972034d9fc430c70",
     "dee5805e8d448e90199bb1bd9e40d5b2",
@@ -499,7 +496,10 @@
     "3439041d35485204deb864b098606ea1",
     "fab9136196d0017d30cb43e12be2228b",
     "46c5bd4b2fd755283871ead05867e434",
-    "0818f549b7aacb228d7a96c71763eba8"
+    "0818f549b7aacb228d7a96c71763eba8",
+    "7892a112220dc9d003014c9f1a9edd89",
+    "2f5226d0b77c103fd30ac4560427e3e6",
+    "189678adf9a936b2e3b73bbae212855d"
   ],
   "deals": {
     "thompson -> arsenal": 3,
@@ -617,13 +617,14 @@
     "adeyemi -> barcelona": 3,
     "summerville -> al-hilal": 3,
     "garnacho -> aston villa": 3,
-    "summerville -> al hilal": 1,
+    "summerville -> al hilal": 3,
     "nduka -> manchester city": 3,
     "flowers -> chelsea": 1,
     "healy -> newcastle": 3,
     "diawara -> milan": 1,
     "amondarain -> bologna": 3,
-    "lacroix -> chelsea": 2
+    "lacroix -> chelsea": 2,
+    "guimaraes -> arsenal": 2
   },
   "interest": [
     "interest: alvarez -> arsenal",
@@ -741,9 +742,6 @@
     "interest: fernandez -> manchester city"
   ],
   "titles": [
-    "sunderland and leeds united linked with \u00a330m liverpool transfer as decision loom",
-    "arsenal news: \u00a3116m 'active movements' update as mikel arteta beats rivals to tr",
-    "florentino perez standing in the way of real madrid signing 2026 fifa world cup ",
     "rt @fabrizioromano : \ud83d\udea8 \ud83c\udde6\ud83c\uddf7 exclusive: cuti romero to leave tottenham this summer,",
     "transfer rumour roundup: arsenal chase alvarez and bouaddi after rogers blow, in",
     "aston villa interest in \u00a3105m chelsea duo confirmed as unai emery plays ace card",
@@ -1040,7 +1038,10 @@
     "crystal palace\u2019s maxence lacroix to undergo chelsea medical",
     "transfer rumors, news: arsenal agree bruno guimaraes personal terms - espn",
     "fabrizio romano confirms premier league return for west ham starlet with exit de",
-    "romano reveals next top chelsea target as seventh signing heads for blues \u2018medic"
+    "romano reveals next top chelsea target as seventh signing heads for blues \u2018medic",
+    "fabrizio romano confirms new arsenal bid for bruno guimaraes coming as star \u2018say",
+    "transfer news live: arsenal done deal, guimaraes boost; man utd twist - london e",
+    "al hilal complete summerville signing from west ham"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1196,6 +1197,7 @@
     "sankhoun diawara": "",
     "kerim alajbegovic": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Jahresbeginnfeier_FC_RB_Salzburg_%282026-01-25_RB_Arena%29_10.jpg/330px-Jahresbeginnfeier_FC_RB_Salzburg_%282026-01-25_RB_Arena%29_10.jpg",
     "enzo fernandez": "https://r2.thesportsdb.com/images/media/player/cutout/b71vun1757003115.png/small",
-    "mikel amondarain": "https://r2.thesportsdb.com/images/media/player/cutout/rfxt551763386386.png/small"
+    "mikel amondarain": "https://r2.thesportsdb.com/images/media/player/cutout/rfxt551763386386.png/small",
+    "bruno guimaraes": "https://r2.thesportsdb.com/images/media/player/cutout/qr8gk01766824971.png/small"
   }
 }

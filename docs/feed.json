@@ -1,5 +1,24 @@
 [
  {
+  "id": "30c8e4fe96721e5bef1815c8ede1083c",
+  "ts": "2026-07-25T00:30:38+00:00",
+  "kind": "interest",
+  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/52x9bk1756994205.png/small",
+  "stage": "\u2014",
+  "player": "Carlos Baleba",
+  "position": "Midfielder",
+  "age": "\u2014",
+  "from_club": "Brighton & Hove Albion",
+  "to_club": "Manchester United",
+  "fee": "\u2014",
+  "style": "Mobile, ball-progressing midfielder with press resistance and technical security.",
+  "fit": "Could provide midfield depth and competition for Manchester United's central midfield options.",
+  "source": "Fabrizio Romano via Sportsmole",
+  "outlet": "sportsmole",
+  "url": "https://www.sportsmole.co.uk/football/man-utd/transfer-talk/news/been-in-contact-again-romano-issues-major-update-on-man-uniteds-midfielder-pursuit_601778.html",
+  "title": "Man United transfer news: Fabrizio Romano issues major update on English club's midfielder pursuit"
+ },
+ {
   "id": "855839dc1cbb2345727fcaf513eae951",
   "ts": "2026-07-24T21:16:16+00:00",
   "kind": "deal",

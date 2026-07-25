@@ -1,17 +1,5 @@
 {
   "sent": [
-    "9ee5f5a8b8824bb712178e6509fc7ddf",
-    "086c7e23f2e59ba6cd3f8d9b6c98f8e8",
-    "b2c9b4c564836a4c9b22bc8d3c94a86d",
-    "b0c21c707132d069fb2195b9268fa40e",
-    "5b01498688f300700f8434365eb00db3",
-    "774311bea98afe0bc24e3b80c5bea8cd",
-    "4a4ed6d44d740bd48a638645bac9b5f4",
-    "a98dcdb3111a44fd0da1e1c5e03877ee",
-    "tg:FabrizioRomanoTG/63272",
-    "53429f7c0696c77cb6ce40a5f2261334",
-    "1fdf0e9095345c707041ba1100bf80b2",
-    "56e28b6fc25c819e557b561f2b2fe326",
     "020eb29ef253d61195236bc08d16ff13",
     "240e1bddcf04451ac30234ea5d0da062",
     "575615f6104ce714d1e39fde75d0b01f",
@@ -499,7 +487,19 @@
     "4050650cce2ce0638c6f18b08d9717ca",
     "964202475b02b729d90296517138e76d",
     "b6b3bb679fc40afecaa0ced129c5bf82",
-    "0d250f7831d495d1769410ba35b6874a"
+    "0d250f7831d495d1769410ba35b6874a",
+    "d1b5d851a31644bf26ad1b78f6325408",
+    "30c8e4fe96721e5bef1815c8ede1083c",
+    "35424dffd87f06209ef7a20ad660be4c",
+    "ec9db8298734eff34a2d3c0e2b0061a7",
+    "d1ff28d298eeebbcd6915ea11d62f87b",
+    "1b2a62a93f486d5df2e74b1bc7822a26",
+    "0c37edba1c5b07d8ca9220548d136bf9",
+    "57156a13ad523561fbd60b3500396580",
+    "e859dd4afc4687e0fcd7885762fa6314",
+    "2bd7bfd2cda47b3d244b12a1f2de391e",
+    "ccfd2e5656e91ba47ec9055a4f7f240a",
+    "tg:FabrizioRomanoTG/63541"
   ],
   "deals": {
     "thompson -> arsenal": 3,
@@ -740,20 +740,10 @@
     "interest: debast -> arsenal",
     "interest: olise -> liverpool",
     "interest: alajbegovic -> chelsea",
-    "interest: fernandez -> manchester city"
+    "interest: fernandez -> manchester city",
+    "interest: baleba -> manchester united"
   ],
   "titles": [
-    "report: zidane signs deal to become france coach",
-    "arsenal accelerate dream double signing as berta intervenes and new bid \u2018likely\u2019",
-    "man city: fabrizio romano reveals \u2018main obstacle\u2019 blocking rodri\u2019s \u2018dream\u2019 trans",
-    "here we go: barcelona set to sign belgian teenage prodigy in \u20ac8 5 million deal",
-    "\ud83d\udd35 \u26aa\ufe0f \ud83c\uddf8\ud83c\udde6 exclusive story, official and confirmed: malang sarr signs in as new neo",
-    "\ud83d\udea8 \u26a0\ufe0f summerville deal: al hilal agreed fee with west ham but still waiting on pl",
-    "man utd want new striker in sublime triple deal with superstar among six targets",
-    "zidane returns! france legend to replace deschamps as new boss after fifa wc 202",
-    "barcelona transfer news: barca land surprise \u00a37m signing while adeyemi deal is f",
-    "real madrid reconsider position on move for man city superstar despite perez rel",
-    "man utd get green light to complete \u00a380m deal",
     "antonio silva set for bournemouth move after milan speculation",
     "barcelona seal \u20ac8 5m signing of jesse bisiwu",
     "zidane set to take over as french team manager",
@@ -1042,7 +1032,18 @@
     "chelsea thunder towards \u00a389 5m triple deal as romano gives \u2018here we go\u2019",
     "ex-man city manager pep guardiola turns down new coaching job",
     "jurgen klopp returns to football, confirmed germany head coach",
-    "real madrid star reaches decision on man utd transfer after red devils make offe"
+    "real madrid star reaches decision on man utd transfer after red devils make offe",
+    "guardiola rejects italy job as klopp takes over germany",
+    "man united transfer news: fabrizio romano issues major update on english club's ",
+    "man utd: contact made as fabrizio romano reveals \u00a370m midfielder \u2018crazy\u2019 about j",
+    "chelsea transfer news: 'improved' trevoh chalobah bid made by serie a club",
+    "como submit new offer for chalobah as chelsea seal lacroix deal",
+    "crystal palace eye nwaiwu as replacement for chelsea-bound defender",
+    "hsv and arsenal remain in regular contact over fabio vieira talks",
+    "transfer: crystal palace line up nwaiwu to replace chelsea-bound lacroix",
+    "meeting planned to finalise cristian romero\u2019s tottenham escape as strongest cont",
+    "aston villa prepare to make record signing as busy summer of transfers continues",
+    "rt @fabrizioromano : \ud83d\udea8 \u26aa\ufe0f breaking: real madrid submit initial bid for yan dioma"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1200,6 +1201,7 @@
     "enzo fernandez": "https://r2.thesportsdb.com/images/media/player/cutout/b71vun1757003115.png/small",
     "mikel amondarain": "https://r2.thesportsdb.com/images/media/player/cutout/rfxt551763386386.png/small",
     "bruno guimaraes": "https://r2.thesportsdb.com/images/media/player/cutout/qr8gk01766824971.png/small",
-    "aladji bamba": "https://r2.thesportsdb.com/images/media/player/cutout/iuhmcr1766237924.png/small"
+    "aladji bamba": "https://r2.thesportsdb.com/images/media/player/cutout/iuhmcr1766237924.png/small",
+    "carlos baleba": "https://r2.thesportsdb.com/images/media/player/cutout/52x9bk1756994205.png/small"
   }
 }

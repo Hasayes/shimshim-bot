@@ -1,10 +1,5 @@
 {
   "sent": [
-    "36195b6c00a1bd4b35d0741ca3be6b0e",
-    "tg:FabrizioRomanoTG/63280",
-    "f2c98c27c73ee9dd1b7abb3252eec388",
-    "8ea1627e026eb7ab98fecd8c684535a4",
-    "26ac19c41126c03942c5ddce89c358e3",
     "307cc01c7261b7fbaa0538b10c6d261a",
     "0a2171403ebbe5f82b63b461f7045f98",
     "96e265710f6ff285e3226f95fc44d878",
@@ -499,7 +494,12 @@
     "tg:FabrizioRomanoTG/63541",
     "tg:FabrizioRomanoTG/63542",
     "tg:FabrizioRomanoTG/63543",
-    "cf335cc51b768dd597b23818a233c861"
+    "cf335cc51b768dd597b23818a233c861",
+    "96ae46639b990f2a184b8a21a6afa462",
+    "cca3c44402e64dd269d1f9a42c81085c",
+    "ef47e5db01c41f12b174aff33819effe",
+    "c036df1c376bbfae034d302317b8026f",
+    "7c216d61ebea245881ed422d6752a716"
   ],
   "deals": {
     "thompson -> arsenal": 3,
@@ -741,14 +741,10 @@
     "interest: olise -> liverpool",
     "interest: alajbegovic -> chelsea",
     "interest: fernandez -> manchester city",
-    "interest: baleba -> manchester united"
+    "interest: baleba -> manchester united",
+    "interest: rowe -> manchester united"
   ],
   "titles": [
-    "arsenal to bid again for guimaraes",
-    "is arsenal really in the race to sign maxence lacroix?",
-    "zidane signs as new france coach until 2030",
-    "man united struggle in pursuit of \u00a370m winger due to their inability to offload ",
-    "\ud83d\udea8 \ud83d\udfe3 \ud83d\udd35 aston villa are progressing in talks to sign alejandro garnacho after offi",
     "man city agree terms with \u00a385m star as ornstein reveals medical for arsenal man ",
     "man united could get immediate cashback after manu kone transfer",
     "real madrid transfer news: rodri\u2019s move blocked by florentino perez, michael oli",
@@ -1043,7 +1039,12 @@
     "rt @fabrizioromano : \ud83d\udea8 \u26aa\ufe0f breaking: real madrid submit initial bid for yan dioma",
     "\ud83d\udea8 \ud83c\udde8\ud83c\uddfb vozinha to colo colo, here we go! verbal agreement in place for cape verde ",
     "\ud83d\udcfa new youtube video uploaded! \ud83c\udfac \ud83d\udea8 \ud83d\udca3 bomba diomande! 2 pl clubs hijack and \u20ac100m ",
-    "man utd take strongest stance possible on bruno fernandes amid shock exit report"
+    "man utd take strongest stance possible on bruno fernandes amid shock exit report",
+    "latest tchouameni transfer update as season ticket fiasco fallout rages on - the",
+    "man utd sirens are blaring for ex-norwich winger with liverpool confident of sea",
+    "journalist claims mikel arteta is 'pushing' arsenal to sign star he considers a ",
+    "premier league midfielder's agent want manchester united to launch move this sum",
+    "man utd hold new talks to sign \u00a3100m star after agreeing terms with arsenal targ"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1202,6 +1203,7 @@
     "mikel amondarain": "https://r2.thesportsdb.com/images/media/player/cutout/rfxt551763386386.png/small",
     "bruno guimaraes": "https://r2.thesportsdb.com/images/media/player/cutout/qr8gk01766824971.png/small",
     "aladji bamba": "https://r2.thesportsdb.com/images/media/player/cutout/iuhmcr1766237924.png/small",
-    "carlos baleba": "https://r2.thesportsdb.com/images/media/player/cutout/52x9bk1756994205.png/small"
+    "carlos baleba": "https://r2.thesportsdb.com/images/media/player/cutout/52x9bk1756994205.png/small",
+    "jonathan rowe": "https://r2.thesportsdb.com/images/media/player/cutout/4m6nhs1758897233.png/small"
   }
 }

@@ -1,5 +1,24 @@
 [
  {
+  "id": "c63b5f3c3bc5ff811b3836e815041f3e",
+  "ts": "2026-07-26T21:00:40+00:00",
+  "kind": "interest",
+  "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Rodri_France_v_Spain_7.24.26-096_%28cropped%29.jpg/330px-Rodri_France_v_Spain_7.24.26-096_%28cropped%29.jpg",
+  "stage": "\u2014",
+  "player": "Rodri",
+  "position": "\u2014",
+  "age": "\u2014",
+  "from_club": "Manchester City",
+  "to_club": "PSG",
+  "fee": "\u2014",
+  "style": "Ball-progressing midfielder with elite technical ability and press resistance.",
+  "fit": "PSG would gain a world-class midfield anchor but the move appears speculative rather than imminent.",
+  "source": "Yahoo",
+  "outlet": "yahoo",
+  "url": "https://sports.yahoo.com/articles/psg-rodri-pursuit-seen-reaction-085500337.html",
+  "title": "PSG\u2019s Rodri pursuit seen as \u2018reaction\u2019 to Real Madrid\u2019s Yan Diomande move"
+ },
+ {
   "id": "9d8e51b18bfba29a55cd3e257b6e5b04",
   "ts": "2026-07-26T20:02:16+00:00",
   "kind": "deal",

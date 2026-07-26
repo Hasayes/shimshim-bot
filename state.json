@@ -1,9 +1,5 @@
 {
   "sent": [
-    "9ec250fc964beaf2bcb226c8eabb07da",
-    "1287a09eb8f0d1062f5318aa844c9419",
-    "tg:FabrizioRomanoTG/63406",
-    "tg:FabrizioRomanoTG/63407",
     "tg:FabrizioRomanoTG/63408",
     "ffeb656ec7746804625c7a29ef1d5c7e",
     "f5a9c1013db0c53d2f2852d627a6c1da",
@@ -499,7 +495,11 @@
     "1626a6e684e4efbde6e8b4cec57e1e4b",
     "tg:FabrizioRomanoTG/63622",
     "tg:FabrizioRomanoTG/63623",
-    "tg:FabrizioRomanoTG/63624"
+    "tg:FabrizioRomanoTG/63624",
+    "988e4ccc903a2ba16dd21e2772154c6e",
+    "99e2d5976f17b4936ec0b26ef67aaf08",
+    "c63b5f3c3bc5ff811b3836e815041f3e",
+    "81c01f6e8e26ec356e73a10b277d9e37"
   ],
   "deals": {
     "thompson -> arsenal": 3,
@@ -754,13 +754,10 @@
     "interest: meunier -> manchester united",
     "interest: junior -> arsenal",
     "interest: danilo -> manchester united",
-    "interest: jr -> arsenal"
+    "interest: jr -> arsenal",
+    "interest: rodri -> psg"
   ],
   "titles": [
-    "\ud83d\udea8 barcelona remain confident to get joao cancelo deal done with talks to continu",
-    "man utd plot stunning tottenham raid as enquiry launched for real madrid star",
-    "jeremy doku all set to sign new long-term deal at manchester city",
-    "liverpool learn chances of bombshell ferran torres deal as new winger contacted",
     "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f aladji bamba to newcastle, here we go! deal done with as monaco for \u20ac41m",
     "\ud83d\udd35 \ud83d\udd34 official, confirmed karim adeyemi has joined barcelona from bvb \u26a1\ufe0f \u20ac22m plus",
     "fabrizio romano drops major chelsea transfer update as defender deal moves close",
@@ -1056,7 +1053,11 @@
     "transfer: axel donczew undergoes arsenal medical after deal agreed",
     "@blue_footy don\u2019t worry, diomande goes to real madrid as klopp went to germany a",
     "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f understand memphis depay has agreed all terms with corinthians over new ",
-    "\ud83d\udea8 \ud83d\udfe1 \ud83d\udd34 official: galatasaray announce all reports on jamal musiala deal on loan a"
+    "\ud83d\udea8 \ud83d\udfe1 \ud83d\udd34 official: galatasaray announce all reports on jamal musiala deal on loan a",
+    "mourinho reaches decision on selling vinicius junior to arsenal for \u00a3136m",
+    "chelsea will accept offers for five players as medical is confirmed for seventh ",
+    "psg\u2019s rodri pursuit seen as \u2018reaction\u2019 to real madrid\u2019s yan diomande move",
+    "bisseck commits to inter until 2031 as verbal deal agreed"
   ],
   "tg_update_offset": 263617426,
   "photos": {

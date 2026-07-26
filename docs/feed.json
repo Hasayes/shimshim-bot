@@ -1,5 +1,24 @@
 [
  {
+  "id": "a87e7dcf0ddd491b500fcd0707b4d773",
+  "ts": "2026-07-26T18:16:07+00:00",
+  "kind": "deal",
+  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/mrbdis1758896882.png/small",
+  "stage": "Here we go",
+  "player": "Santiago Castro",
+  "position": "Centre-forward",
+  "age": "21",
+  "from_club": "Bologna",
+  "to_club": "Roma",
+  "fee": "\u20ac30m plus bonuses",
+  "style": "A dynamic, energetic young striker who presses relentlessly, combines well in tight spaces, and is capable of sharp finishing inside the box.",
+  "fit": "Castro's movement and work rate suit Roma's pressing-oriented system, and his age profile aligns with a rebuild built around young South American talent.",
+  "source": "Fabrizio Romano",
+  "outlet": "yahoo",
+  "url": "https://sports.yahoo.com/articles/romano-roma-bologna-talks-castro-060500584.html",
+  "title": "Romano: Roma-Bologna talks for Castro at final stages, deal to be completed in next hours"
+ },
+ {
   "id": "tg:FabrizioRomanoTG/63609",
   "ts": "2026-07-26T17:30:37+00:00",
   "kind": "deal",

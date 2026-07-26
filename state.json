@@ -1,8 +1,5 @@
 {
   "sent": [
-    "3e721744c61cbb56f33dfbc573241fcd",
-    "9dd367cdd95fef0d787ed70a7a91f1a7",
-    "42ac36214ab52bf9d76a630f31c483c0",
     "2cb8cb7760c4d532ea4173b02d31ba86",
     "2c9f1326466889143ea6c4d12def1539",
     "9f59b70d8f3429f59ce715308b6e173f",
@@ -499,7 +496,10 @@
     "5f14251734bfea87e9c1c845fa17a9fa",
     "3a482d02650c69361d4de340d9964178",
     "23414261ec378a57056d4b8faef21e3c",
-    "tg:FabrizioRomanoTG/63606"
+    "tg:FabrizioRomanoTG/63606",
+    "1da262a8d54626388e86ce431c741035",
+    "tg:FabrizioRomanoTG/63607",
+    "tg:FabrizioRomanoTG/63609"
   ],
   "deals": {
     "thompson -> arsenal": 3,
@@ -628,7 +628,9 @@
     "bamba -> newcastle united": 1,
     "lee -> atletico madrid": 3,
     "openda -> olympique lyon": 2,
-    "donczew -> arsenal": 1
+    "donczew -> arsenal": 1,
+    "bennacer -> al gharafa": 2,
+    "ndiaye -> bayern munich": 3
   },
   "interest": [
     "interest: alvarez -> arsenal",
@@ -753,9 +755,6 @@
     "interest: jr -> arsenal"
   ],
   "titles": [
-    "man utd prepare \u00a351m bid for next midfield signing who is in a precarious positi",
-    "man utd transfer news: red devils dealt gutting double setback over \u201cdream\u201d \u00a368m",
-    "borussia dortmund increase karetsas offer to \u20ac30m+",
     "mishel nduka: manchester city reach agreement to sign super eagles eligible midf",
     "arsenal transfer news: the two 'impossible' alternatives to fix morgan rogers fa",
     "waiting on player\u2019s green light: romano drops afternoon bombshell catching liver",
@@ -1052,7 +1051,10 @@
     "vina\u00adcius jaonior to arsenal: five reasons the gunners want the real madrid star",
     "bayern munich news: the aftermath of fc bayern vs sv wehen wiesbaden; al-hilal t",
     "premier league champions arsenal eye real madrid forward vinicius jr",
-    "rt @fabrizioromano : \ud83d\udea8 \ud83c\udde8\ud83c\uddee real madrid\u2019s new bid to rb leipzig for yan diomande w"
+    "rt @fabrizioromano : \ud83d\udea8 \ud83c\udde8\ud83c\uddee real madrid\u2019s new bid to rb leipzig for yan diomande w",
+    "transfer: real madrid take final decision on signing olise from bayern munich",
+    "\ud83d\udea8 \ud83c\uddf6\ud83c\udde6 ismael bennacer has travelled to qatar for medical tests and contract signi",
+    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f fc bayern agree on deal to sign talent bara sapoko ndiaye on a permanent "
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1219,6 +1221,8 @@
     "vinicius junior": "https://r2.thesportsdb.com/images/media/player/cutout/ejuxsh1750271859.png/small",
     "danilo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Danilo_and_Bilal_El_Khannouss_at_2026_FIFA_World_Cup_by_YantsImages_%28cropped%29.jpg/330px-Danilo_and_Bilal_El_Khannouss_at_2026_FIFA_World_Cup_by_YantsImages_%28cropped%29.jpg",
     "axel donczew": "",
-    "vinicius jr": "https://r2.thesportsdb.com/images/media/player/cutout/ejuxsh1750271859.png/small"
+    "vinicius jr": "https://r2.thesportsdb.com/images/media/player/cutout/ejuxsh1750271859.png/small",
+    "ismael bennacer": "",
+    "bara sapoko ndiaye": "https://r2.thesportsdb.com/images/media/player/cutout/k40qsh1780567968.png/small"
   }
 }

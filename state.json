@@ -1,6 +1,5 @@
 {
   "sent": [
-    "a10340589180511aaecf6adb3f9c5f71",
     "a01add18ec6a6d029ff750c31751d023",
     "3e721744c61cbb56f33dfbc573241fcd",
     "9dd367cdd95fef0d787ed70a7a91f1a7",
@@ -499,7 +498,8 @@
     "tg:FabrizioRomanoTG/63602",
     "4ba45fa2eabd65e112d3661e7a8c7a70",
     "5f14251734bfea87e9c1c845fa17a9fa",
-    "3a482d02650c69361d4de340d9964178"
+    "3a482d02650c69361d4de340d9964178",
+    "23414261ec378a57056d4b8faef21e3c"
   ],
   "deals": {
     "thompson -> arsenal": 3,
@@ -749,10 +749,10 @@
     "interest: froholdt -> arsenal",
     "interest: meunier -> manchester united",
     "interest: junior -> arsenal",
-    "interest: danilo -> manchester united"
+    "interest: danilo -> manchester united",
+    "interest: jr -> arsenal"
   ],
   "titles": [
-    "psg reach decision on selling warren zaire-emery to manchester united",
     "hugo viana and man city pip arsenal to england superstar signing as summer rebui",
     "man utd prepare \u00a351m bid for next midfield signing who is in a precarious positi",
     "man utd transfer news: red devils dealt gutting double setback over \u201cdream\u201d \u00a368m",
@@ -1051,7 +1051,8 @@
     "man utd approaching now-or-never territory with manu kone transfer",
     "@carl_lewis_91 @atliverpool_ of course 3 months saying liverpool want barcola, z",
     "vina\u00adcius jaonior to arsenal: five reasons the gunners want the real madrid star",
-    "bayern munich news: the aftermath of fc bayern vs sv wehen wiesbaden; al-hilal t"
+    "bayern munich news: the aftermath of fc bayern vs sv wehen wiesbaden; al-hilal t",
+    "premier league champions arsenal eye real madrid forward vinicius jr"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1217,6 +1218,7 @@
     "thomas meunier": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Thomas_Meunier_USMNT_v_Belgium_Mar_28_2026-16_%28cropped%29.jpg/330px-Thomas_Meunier_USMNT_v_Belgium_Mar_28_2026-16_%28cropped%29.jpg",
     "vinicius junior": "https://r2.thesportsdb.com/images/media/player/cutout/ejuxsh1750271859.png/small",
     "danilo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Danilo_and_Bilal_El_Khannouss_at_2026_FIFA_World_Cup_by_YantsImages_%28cropped%29.jpg/330px-Danilo_and_Bilal_El_Khannouss_at_2026_FIFA_World_Cup_by_YantsImages_%28cropped%29.jpg",
-    "axel donczew": ""
+    "axel donczew": "",
+    "vinicius jr": "https://r2.thesportsdb.com/images/media/player/cutout/ejuxsh1750271859.png/small"
   }
 }

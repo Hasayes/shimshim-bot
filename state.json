@@ -1,9 +1,5 @@
 {
   "sent": [
-    "e59178f5ca8dad3eae68569123fc17fc",
-    "37bc9a9a97a56217a69188cdc787e033",
-    "tg:FabrizioRomanoTG/63457",
-    "baa6a6cc123f16e0cd4f3ca94cd24c2e",
     "c742f873cd115df78b05bca2dfa8354f",
     "fd4221f8261a78515d7f7e7d544c195f",
     "be61407ae1d3aff6047c68f0f5996710",
@@ -499,7 +495,11 @@
     "tg:FabrizioRomanoTG/63670",
     "ed748de795b745d9395b1861addc8f46",
     "tg:FabrizioRomanoTG/63672",
-    "tg:FabrizioRomanoTG/63674"
+    "tg:FabrizioRomanoTG/63674",
+    "4f38029c31f7ab0a1fd422ea79b21c91",
+    "8f9538919ee4cecca046a1760e5e6b07",
+    "tg:FabrizioRomanoTG/63676",
+    "tg:FabrizioRomanoTG/63677"
   ],
   "deals": {
     "thompson -> arsenal": 3,
@@ -762,12 +762,10 @@
     "interest: welbeck -> chelsea",
     "interest: suzuki -> psg",
     "interest: kroupi -> barcelona",
-    "interest: lucumi -> juventus"
+    "interest: lucumi -> juventus",
+    "interest: henderson -> chelsea"
   ],
   "titles": [
-    "\ud83d\udcfa new youtube video uploaded! \ud83c\udfac \ud83d\udea8 \ud83d\udca3 \u00a352m! here we go! united and baleba! \u20ac30m on",
-    "rt @fabrizioromano : \ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f excl: como send improved bid to chelsea for trevoh c",
-    "chairman helping negotiate \u00a352m-plus transfer for liverpool target as deal nears",
     "chelsea closing in on top target as fabrizio romano addresses potential swap dea",
     "arsenal news: gunners move for \u00a394m morgan rogers alternative as transfer announ",
     "newcastle transfer window to 'heat up' as deal agreed and talks continue",
@@ -1064,7 +1062,10 @@
     "@ale1712096 @ga7_official grazie ragazzi, qualcuno per fortuna ci arriva \ud83d\ude03 un ab",
     "man united latest: manu kone strikes 'agreement' as target requests transfer",
     "\ud83d\udea8 \ud83c\udde8\ud83c\uddf4 excl: como open talks for jhon lucumi as new target at centre back as colom",
-    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f as monaco agree deal to sign matthis abline from nantes, here we go! deal"
+    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f as monaco agree deal to sign matthis abline from nantes, here we go! deal",
+    "manchester city are facing frustration in their hunt for a winger, but that coul",
+    "rt @fabrizioromano : \ud83d\udea8 \u26ab\ufe0f \ud83d\udd35 understand inter are set to discuss a two year deal ",
+    "\ud83d\udea8 \ud83d\udd35 breaking: chelsea lead race to sign jordan henderson as new midfielder, anot"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1239,6 +1240,7 @@
     "danny welbeck": "",
     "zion suzuki": "https://r2.thesportsdb.com/images/media/player/cutout/24eahn1759780929.png/small",
     "eli junior kroupi": "https://r2.thesportsdb.com/images/media/player/cutout/7z9b4h1757017919.png/small",
-    "jhon lucumi": "https://r2.thesportsdb.com/images/media/player/cutout/kifz5o1758896707.png/small"
+    "jhon lucumi": "https://r2.thesportsdb.com/images/media/player/cutout/kifz5o1758896707.png/small",
+    "jordan henderson": "https://r2.thesportsdb.com/images/media/player/cutout/by7qs71756903473.png/small"
   }
 }

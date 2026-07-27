@@ -1,5 +1,24 @@
 [
  {
+  "id": "67e8f5fa17cea9d19a186baaadfcab84",
+  "ts": "2026-07-27T19:46:08+00:00",
+  "kind": "deal",
+  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/zbzyn51763561086.png/small",
+  "stage": "Completed",
+  "player": "Yan Diomande",
+  "position": "Central midfielder",
+  "age": "19",
+  "from_club": "RB Leipzig",
+  "to_club": "Real Madrid",
+  "fee": "Undisclosed",
+  "style": "A dynamic, box-to-box central midfielder known for his athleticism, pressing intensity and ability to drive forward with the ball.",
+  "fit": "Real Madrid's pursuit suggests they see him as a high-ceiling midfield prospect who can add energy and physicality to their engine room for the long term.",
+  "source": "Yahoo",
+  "outlet": "yahoo",
+  "url": "https://sports.yahoo.com/articles/psg-meddle-real-madrid-move-073500930.html",
+  "title": "PSG to meddle with Real Madrid move for Man City superstar after losing Yan Diomande battle"
+ },
+ {
   "id": "tg:FabrizioRomanoTG/63683",
   "ts": "2026-07-27T18:30:48+00:00",
   "kind": "deal",

@@ -1,10 +1,5 @@
 {
   "sent": [
-    "9a44127cf9f4868dfb1626496031ff11",
-    "f6173069b50df13a83a21bedd9ed0f2b",
-    "7128cb22d8746dd081e81b4f6642c7c2",
-    "e9f841491f15a9e1b777ddda77d33c9d",
-    "cfe2dde3f2af1c73ec5433b9fefc84d9",
     "e460aa8a35ce94ef7fdc79850374ba03",
     "6d6494d63be96b9ebfc46251f8beec72",
     "faec45f5415b5c671f64a07fa3e776bd",
@@ -499,7 +494,12 @@
     "85eb9cd8fbc3b7e49ce9033f72caf2c0",
     "39a04caaf398573d69e5dbb62fac8e9c",
     "tg:FabrizioRomanoTG/63688",
-    "tg:FabrizioRomanoTG/63691"
+    "tg:FabrizioRomanoTG/63691",
+    "67e8f5fa17cea9d19a186baaadfcab84",
+    "bb0684f083c9d29c8a7af365d15e57f7",
+    "a4856adbd4b54b4369c7f95fad245137",
+    "tg:FabrizioRomanoTG/63692",
+    "tg:FabrizioRomanoTG/63693"
   ],
   "deals": {
     "thompson -> arsenal": 3,
@@ -632,7 +632,7 @@
     "bennacer -> al gharafa": 2,
     "ndiaye -> bayern munich": 3,
     "castro -> roma": 1,
-    "diomande -> real madrid": 2,
+    "diomande -> real madrid": 3,
     "stones -> inter": 1
   },
   "interest": [
@@ -767,10 +767,6 @@
     "interest: henderson -> chelsea"
   ],
   "titles": [
-    "\ud83d\udd35 \u26aa\ufe0f \ud83c\uddf8\ud83c\udde6 official, confirmed crysencio summerville joins al hilal from west ham f",
-    "crystal palace\u2019s maxence lacroix to undergo chelsea medical",
-    "transfer rumors, news: arsenal agree bruno guimaraes personal terms - espn",
-    "fabrizio romano confirms premier league return for west ham starlet with exit de",
     "romano reveals next top chelsea target as seventh signing heads for blues \u2018medic",
     "fabrizio romano confirms new arsenal bid for bruno guimaraes coming as star \u2018say",
     "transfer news live: arsenal done deal, guimaraes boost; man utd twist - london e",
@@ -1066,7 +1062,11 @@
     "\ud83d\udea8 \ud83d\udfe1 \u26ab\ufe0f excl: aek athens verbally agree on deal to sign croatian midfielder lovro",
     "liverpool seal bradley barcola \u2018agreement\u2019 as first offer to psg is revealed",
     "al hilal move for ndiaye threatens to derail united\u2019s transfer plans",
-    "\ud83d\udea8 \ud83d\udfe1 \ud83d\udd35 fenerbahce are set to meet with ac milan and rafa leao representatives to "
+    "\ud83d\udea8 \ud83d\udfe1 \ud83d\udd35 fenerbahce are set to meet with ac milan and rafa leao representatives to ",
+    "psg to meddle with real madrid move for man city superstar after losing yan diom",
+    "chelsea considering \u2018submitting new bid\u2019 for confirmed arsenal target",
+    "ffp constraints keep ter stegen stuck in barcelona as ajax talks stall",
+    "\ud83d\udea8 \u26ab\ufe0f \ud83d\udd35 breaking: john stones to inter, here we go! approval on contract terms ju"
   ],
   "tg_update_offset": 263617426,
   "photos": {

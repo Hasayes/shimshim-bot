@@ -1,7 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/63447",
-    "tg:FabrizioRomanoTG/63448",
     "tg:FabrizioRomanoTG/63449",
     "8daea144bb0fe2c9d3f6a4e2ff1d9db3",
     "c7563c7c6d0f6befe6b77b1de85da2d0",
@@ -499,7 +497,9 @@
     "f1e412e0b4e6578f4a6271f4a3315c80",
     "d2072d8dfc06ac084bf64440c2bcbf02",
     "tg:FabrizioRomanoTG/63659",
-    "tg:FabrizioRomanoTG/63660"
+    "tg:FabrizioRomanoTG/63660",
+    "f0d74095a40f4b89bb57daaa1b67a995",
+    "tg:FabrizioRomanoTG/63661"
   ],
   "deals": {
     "thompson -> arsenal": 3,
@@ -759,11 +759,10 @@
     "interest: barcola -> bayern munich",
     "interest: martin -> milan",
     "interest: stones -> juventus",
-    "interest: welbeck -> chelsea"
+    "interest: welbeck -> chelsea",
+    "interest: suzuki -> psg"
   ],
   "titles": [
-    "arsenal to make \u00a370 million offer for bruno guimaraes: details",
-    "\ud83d\udea8 \ud83e\ude75 josko gvardiol has already signed new long term deal at manchester city jere",
     "arsenal transfer news: gunners agree personal terms with newcastle united star b",
     "fabrizio romano confirms liverpool hope to agree blockbuster \u00a3100m deal",
     "\ud83d\udea8 reports: saudi club signs oranje star for \u20ac70m",
@@ -1061,7 +1060,9 @@
     "'he only wants paris' - liverpool dealt blow as transfer target picks psg",
     "media wars: florian plettenberg and fabrizio romano go toe-to-toe over accusatio",
     "\ud83d\udea8 \ud83d\udd35 chelsea are considering a move for danny welbeck to add experience upfront f",
-    "\ud83d\udea8 \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f inter and juventus are both in talks with john stones\u2019 camp over poten"
+    "\ud83d\udea8 \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f inter and juventus are both in talks with john stones\u2019 camp over poten",
+    "liverpool submit \u20ac120m offer for psg winger bradley barcola: report",
+    "\ud83d\udea8 \ud83c\uddef\ud83c\uddf5 paris saint-germain and juventus are both in talks with parma for zion suzu"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1233,6 +1234,7 @@
     "bara sapoko ndiaye": "https://r2.thesportsdb.com/images/media/player/cutout/k40qsh1780567968.png/small",
     "santiago castro": "https://r2.thesportsdb.com/images/media/player/cutout/mrbdis1758896882.png/small",
     "martin": "",
-    "danny welbeck": ""
+    "danny welbeck": "",
+    "zion suzuki": "https://r2.thesportsdb.com/images/media/player/cutout/24eahn1759780929.png/small"
   }
 }

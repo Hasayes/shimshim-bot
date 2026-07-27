@@ -1,7 +1,5 @@
 {
   "sent": [
-    "8daea144bb0fe2c9d3f6a4e2ff1d9db3",
-    "c7563c7c6d0f6befe6b77b1de85da2d0",
     "c6eccad5b4a0913705c617d0d21eec18",
     "326646fd322eded43172a384a9ceb0c0",
     "tg:FabrizioRomanoTG/63450",
@@ -499,7 +497,9 @@
     "tg:FabrizioRomanoTG/63660",
     "f0d74095a40f4b89bb57daaa1b67a995",
     "tg:FabrizioRomanoTG/63661",
-    "fdc06976ea019c8a3a5f074a23f196bd"
+    "fdc06976ea019c8a3a5f074a23f196bd",
+    "tg:FabrizioRomanoTG/63663",
+    "tg:FabrizioRomanoTG/63665"
   ],
   "deals": {
     "thompson -> arsenal": 3,
@@ -760,11 +760,10 @@
     "interest: martin -> milan",
     "interest: stones -> juventus",
     "interest: welbeck -> chelsea",
-    "interest: suzuki -> psg"
+    "interest: suzuki -> psg",
+    "interest: kroupi -> barcelona"
   ],
   "titles": [
-    "fabrizio romano confirms liverpool hope to agree blockbuster \u00a3100m deal",
-    "\ud83d\udea8 reports: saudi club signs oranje star for \u20ac70m",
     "transfer: bruno guimaraes agrees arsenal deal as arteta pushes for midfielder",
     "transfer rumors, news: chelsea near move for palace's lacroix - espn singapore",
     "\ud83d\udea8 \ud83d\udd35 maxence lacroix to chelsea, here we go! agreement in place with official bid",
@@ -1062,7 +1061,9 @@
     "\ud83d\udea8 \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f inter and juventus are both in talks with john stones\u2019 camp over poten",
     "liverpool submit \u20ac120m offer for psg winger bradley barcola: report",
     "\ud83d\udea8 \ud83c\uddef\ud83c\uddf5 paris saint-germain and juventus are both in talks with parma for zion suzu",
-    "yan diomande to real madrid saga blows up, conflicting reports make social media"
+    "yan diomande to real madrid saga blows up, conflicting reports make social media",
+    "\ud83d\udea8 \ud83d\udd35 xabi alonso has approved danny welbeck as new experienced option upfront for",
+    "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 barcelona have explored eli junior kroupi as option over recent weeks in c"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1235,6 +1236,7 @@
     "santiago castro": "https://r2.thesportsdb.com/images/media/player/cutout/mrbdis1758896882.png/small",
     "martin": "",
     "danny welbeck": "",
-    "zion suzuki": "https://r2.thesportsdb.com/images/media/player/cutout/24eahn1759780929.png/small"
+    "zion suzuki": "https://r2.thesportsdb.com/images/media/player/cutout/24eahn1759780929.png/small",
+    "eli junior kroupi": "https://r2.thesportsdb.com/images/media/player/cutout/7z9b4h1757017919.png/small"
   }
 }

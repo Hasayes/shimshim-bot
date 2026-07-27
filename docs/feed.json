@@ -1,5 +1,24 @@
 [
  {
+  "id": "6249f721c20b28517b6a1e5b3c20f0d9",
+  "ts": "2026-07-27T07:47:36+00:00",
+  "kind": "deal",
+  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/zbzyn51763561086.png/small",
+  "stage": "Medical",
+  "player": "Yan Diomand\u00e9",
+  "position": "Winger",
+  "age": "19",
+  "from_club": "RB Leipzig",
+  "to_club": "Real Madrid",
+  "fee": "\u20ac100m+",
+  "style": "A dynamic, direct winger with pace and technical ability who can beat defenders in one-on-one situations.",
+  "fit": "His explosive speed and youthful energy suit Real Madrid's wide attacking roles, offering long-term potential to complement and eventually succeed the club's veteran wingers.",
+  "source": "Fabrizio Romano",
+  "outlet": "sportsnet",
+  "url": "https://www.sportsnet.ca/la-liga/article/report-real-madrid-signs-forward-yan-diomande-from-rb-leipzig/",
+  "title": "Report: Real Madrid signs forward Yan Diomande from RB Leipzig"
+ },
+ {
   "id": "7afc7c37a7a82c7546d4022609502421",
   "ts": "2026-07-27T06:15:30+00:00",
   "kind": "interest",

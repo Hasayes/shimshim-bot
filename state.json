@@ -1,8 +1,5 @@
 {
   "sent": [
-    "d81ab7f6759915b8c59afc387f477ab4",
-    "ba15daa54e1daf704b15e87e194877b3",
-    "2df25ce54c9d33d796a67b282183e485",
     "b3f4b1c3bf1c768b9d2794d6fc0ba57a",
     "72556f5f2b17db502f4d3ac3446fdfd4",
     "cd67a8d6264ec0dc129da2a50679c64b",
@@ -499,7 +496,10 @@
     "084fc1be63220d66aef7a2cbf5463d45",
     "d68b14f94e4fbd6ab93c7be76c5a51e1",
     "e851f297f768a4b7954b0d342bad82ea",
-    "bd22f686e7a90282d1948ebe6a8c5ee7"
+    "bd22f686e7a90282d1948ebe6a8c5ee7",
+    "1a0f0811f21a31f575fc8d3dbfdd1440",
+    "fefcc301b0a346d72e7283882bace091",
+    "cebdf70878d6a0762ed311a74e3b5531"
   ],
   "deals": {
     "thompson -> arsenal": 3,
@@ -756,12 +756,10 @@
     "interest: danilo -> manchester united",
     "interest: jr -> arsenal",
     "interest: rodri -> psg",
-    "interest: barcola -> bayern munich"
+    "interest: barcola -> bayern munich",
+    "interest: martin -> milan"
   ],
   "titles": [
-    "james trafford gives go-ahead for next club as manchester city enter formal talk",
-    "barcelona confirm signing of german forward \u2611\ufe0f",
-    "celtic\u2019s attempts to sign players \u2018slower than a snail in a plate of snotters\u2019",
     "barcelona officially sign borussia dortmund star linked with manchester united",
     "leeds united transfer state of play with james trafford update, julian brandt ho",
     "romano names the club with \u201cmost concrete interest\u201d in star psg winger who is co",
@@ -1058,7 +1056,10 @@
     "barcelona are not working on a move to sign german free agent \u2013 romano",
     "premier league side readying \u201chuge offer\u201d for real madrid forward",
     "forest\u2019s \u20ac20m bid for reid leaves man united scrambling",
-    "arsenal's two conditions for bruno guimaraes transfer as gunners set to make nex"
+    "arsenal's two conditions for bruno guimaraes transfer as gunners set to make nex",
+    "milan bid for marta\u00adn, lazio eye 2007-born, chevalier-juve \u00f0\u009f\u0091\u008e \u00f0\u009f\u00a4\u0091",
+    "tottenham threatened by euro giants in new fears surrounding \u00a360m man city raid",
+    "arsenal agree deal for cardiff wonderkid axel donczew"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1228,6 +1229,7 @@
     "vinicius jr": "https://r2.thesportsdb.com/images/media/player/cutout/ejuxsh1750271859.png/small",
     "ismael bennacer": "",
     "bara sapoko ndiaye": "https://r2.thesportsdb.com/images/media/player/cutout/k40qsh1780567968.png/small",
-    "santiago castro": "https://r2.thesportsdb.com/images/media/player/cutout/mrbdis1758896882.png/small"
+    "santiago castro": "https://r2.thesportsdb.com/images/media/player/cutout/mrbdis1758896882.png/small",
+    "martin": ""
   }
 }

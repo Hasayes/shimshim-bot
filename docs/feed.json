@@ -1,5 +1,24 @@
 [
  {
+  "id": "0293d70ee9a8eb8b8cef1c630ba819d8",
+  "ts": "2026-07-28T03:45:36+00:00",
+  "kind": "interest",
+  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/h32wk91766827067.png/small",
+  "stage": "\u2014",
+  "player": "Joshua Zirkzee",
+  "position": "Forward",
+  "age": "25",
+  "from_club": "Manchester United",
+  "to_club": "Juventus",
+  "fee": "\u2014",
+  "style": "Versatile forward with technical ability and physical presence in the final third.",
+  "fit": "Would provide depth and competition in Juventus's attacking options with proven Premier League experience.",
+  "source": "Fabrizio Romano",
+  "outlet": "yahoo",
+  "url": "https://sports.yahoo.com/articles/serie-join-juventus-race-sign-154500735.html",
+  "title": "New Serie A join Juventus in race to sign Manchester United forward Joshua Zirkzee"
+ },
+ {
   "id": "ee1c7a3ed722ab72abaad91cab29ca76",
   "ts": "2026-07-28T02:31:26+00:00",
   "kind": "deal",

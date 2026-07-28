@@ -1,6 +1,5 @@
 {
   "sent": [
-    "ed971892178d14f1ec54a1e1b8ea94db",
     "fd118a19877eac322ea9c637803db0de",
     "482d1146c71e7d8cf48280f835a927ce",
     "4935bd117208f2d26b91b53c872d9e85",
@@ -499,7 +498,8 @@
     "88230cb535c1d4bb390f36ff42ea8ccf",
     "7c726283ae96dba3b580489a63185980",
     "071a5255831894e655e3930d6926a523",
-    "6305a6c5faff3431a8b7fd7e6e65e235"
+    "6305a6c5faff3431a8b7fd7e6e65e235",
+    "0293d70ee9a8eb8b8cef1c630ba819d8"
   ],
   "deals": {
     "thompson -> arsenal": 3,
@@ -766,10 +766,10 @@
     "interest: kroupi -> barcelona",
     "interest: lucumi -> juventus",
     "interest: henderson -> chelsea",
-    "interest: ndiaye -> liverpool"
+    "interest: ndiaye -> liverpool",
+    "interest: zirkzee -> juventus"
   ],
   "titles": [
-    "'if you go after my family, i'm gone': jurgen klopp takes germany job with bold ",
     "real madrid confident of signing rodri - saturday's gossip",
     "enzo maresca confirms rodri\u2019s back surgery: for how long will the manchester cit",
     "pirlo set to lead italy after guardiola, ancelotti snub",
@@ -1068,7 +1068,8 @@
     "yan diomande back at rb leipzig as real madrid increase offer for ivory coast wi",
     "chelsea pair removed from \u2018untouchable\u2019 list despite completing transfers just 1",
     "ipswich town transfer news: tractor boys closing in on high-profile goalkeeper s",
-    "barcelona forced to change transfer plans as fabrizio romano reveals \u2018crucial\u2019 p"
+    "barcelona forced to change transfer plans as fabrizio romano reveals \u2018crucial\u2019 p",
+    "new serie a join juventus in race to sign manchester united forward joshua zirkz"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1245,6 +1246,7 @@
     "eli junior kroupi": "https://r2.thesportsdb.com/images/media/player/cutout/7z9b4h1757017919.png/small",
     "jhon lucumi": "https://r2.thesportsdb.com/images/media/player/cutout/kifz5o1758896707.png/small",
     "jordan henderson": "https://r2.thesportsdb.com/images/media/player/cutout/by7qs71756903473.png/small",
-    "tolu arokodare": "https://r2.thesportsdb.com/images/media/player/cutout/oc10t41756976097.png/small"
+    "tolu arokodare": "https://r2.thesportsdb.com/images/media/player/cutout/oc10t41756976097.png/small",
+    "joshua zirkzee": "https://r2.thesportsdb.com/images/media/player/cutout/h32wk91766827067.png/small"
   }
 }

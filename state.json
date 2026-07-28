@@ -1,9 +1,5 @@
 {
   "sent": [
-    "b1d1f8e66bb0eaac29da0aed914dffe1",
-    "f9493fe53d5c48c1d714c7befd3ccb92",
-    "tg:FabrizioRomanoTG/63536",
-    "3439041d35485204deb864b098606ea1",
     "fab9136196d0017d30cb43e12be2228b",
     "46c5bd4b2fd755283871ead05867e434",
     "0818f549b7aacb228d7a96c71763eba8",
@@ -499,7 +495,11 @@
     "64bd9f7cb9329d07c91101c6db1372ad",
     "55f149386c40128dbf0e352c1fbd1da1",
     "32d41d77f9b1560731a630a2a578b28f",
-    "d1606336845968e103913dcb4a2e7a75"
+    "d1606336845968e103913dcb4a2e7a75",
+    "6e4ac95720145d7663d9a769de26ff81",
+    "6e01e89f0c5d75c73993ba1cbe00358b",
+    "2389ecb05b308819fbdd09b08d17ba51",
+    "cacce4db7d470618a416504e994d43e4"
   ],
   "deals": {
     "thompson -> arsenal": 3,
@@ -774,13 +774,10 @@
     "interest: rodri -> barcelona",
     "interest: rodri -> psg",
     "interest: leao -> tottenham",
-    "interest: ndiaye -> bayern munich"
+    "interest: ndiaye -> bayern munich",
+    "interest: bergvall -> manchester united"
   ],
   "titles": [
-    "\ud83d\udea8 \u26aa\ufe0f the fee for yan diomande to real madrid will be well in excess of \u20ac100m all",
-    "medical completed: fabrizio romano confirms arsenal \u201chere we go\u201d in major mornin",
-    "yan diomande transfer news: real madrid in pole position for rb leipzig winger a",
-    "@hassanmcojwang i\u2019m not into any war my friend there were reports of man city re",
     "@like_a_sire yea fact check if man city sent \u20ac100m bid yesterday when real madri",
     "real madrid rule out michael olise move to preserve bayern munich relationship \u2013",
     "yan diomande double \u2018verbal agreement\u2019 reached as arsenal get boost in vinicius ",
@@ -1076,7 +1073,11 @@
     "tolu arokadare joins ajax, set for medicals",
     "henderson open to chelsea transfer as blues eye brentford veteran",
     "chelsea have completed changed direction",
-    "transfer news and rumours today: sunderland near historic methalie deal, bayern "
+    "transfer news and rumours today: sunderland near historic methalie deal, bayern ",
+    "unai emery eyes nicolas jackson reunion at aston villa, but only a permanent tra",
+    "epl: man united open talks with tottenham over bergvall transfer",
+    "why bradley barcola move to liverpool won't be straightforward: report",
+    "'here we go' - leeds united transfer imminent after newcastle united agreed pers"
   ],
   "tg_update_offset": 263617426,
   "photos": {

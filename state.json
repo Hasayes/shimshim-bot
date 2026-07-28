@@ -1,9 +1,5 @@
 {
   "sent": [
-    "2950982e31f19a1cca75a9398f42b9f4",
-    "tg:FabrizioRomanoTG/63501",
-    "433875c224df7798721e95c077e43aca",
-    "455b881b1a9a405e57e0923983d39ed6",
     "81e665b7c0baf6c26feb2464780f1388",
     "51ffb37495093afc1f2f96aa20850d62",
     "a173ba322307a408643fd02a3cca726e",
@@ -499,7 +495,11 @@
     "bc569ecb7e7f595143515720ec862096",
     "c6e2b20c229e844d0611d2c222c17a5c",
     "54d9e5856681625518a0ddbebef13d5e",
-    "98cfb5805dbeac461ec0ecc5bfde86cc"
+    "98cfb5805dbeac461ec0ecc5bfde86cc",
+    "799835585aa5833044204d12c05e7d8c",
+    "f21f59ed7d41ad4289eade62558be58d",
+    "4e4922dc4d3509bfda689d28681996d9",
+    "ee1c7a3ed722ab72abaad91cab29ca76"
   ],
   "deals": {
     "thompson -> arsenal": 3,
@@ -633,7 +633,8 @@
     "ndiaye -> bayern munich": 3,
     "castro -> roma": 1,
     "diomande -> real madrid": 3,
-    "stones -> inter": 1
+    "stones -> inter": 1,
+    "arokodare -> ajax": 3
   },
   "interest": [
     "interest: alvarez -> arsenal",
@@ -768,10 +769,6 @@
     "interest: ndiaye -> liverpool"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83d\udd35 maxence lacroix completed his medical in london as new chelsea player clubs ",
-    "arsenal must make 'huge offer' to sign victor froholdt",
-    "romano: man utd contacted by agents of carlos baleba, he wants to join",
-    "chelsea transfer news: blues 'in talks' to sign bundesliga attacker",
     "\ud83d\udea8 \u26aa\ufe0f understand yan diomande has opened doors to real madrid move as positive ta",
     "\ud83d\udcfa new youtube video uploaded! \ud83c\udfac \ud83d\udea8 \ud83d\udca3 diomande decision! new bid! rodri, olise and",
     "\ud83d\udd34 \u26aa\ufe0f \ud83c\uddf0\ud83c\uddf7 official, confirmed kang-in lee joins atletico madrid from paris st germ",
@@ -1067,7 +1064,11 @@
     "chelsea linked with brighton striker danny welbeck",
     "ajax set to sign tolu arokodare on loan from wolves",
     "inter and juventus working on john stones deal after chelsea and arsenal interes",
-    "real madrid target trains with current club even as \u20ac115 million move nears \u2013 re"
+    "real madrid target trains with current club even as \u20ac115 million move nears \u2013 re",
+    "fulham transfer news: cottagers to 'approach' real madrid over garcia deal with ",
+    "romano: barcelona open talks to sign tottenham target junior kroupi",
+    "romano, plettenberg clash over diomande-to-real madrid transfer amid conflicting",
+    "super eagles star tolu arokodare joins 4-time ucl winners"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1243,6 +1244,7 @@
     "zion suzuki": "https://r2.thesportsdb.com/images/media/player/cutout/24eahn1759780929.png/small",
     "eli junior kroupi": "https://r2.thesportsdb.com/images/media/player/cutout/7z9b4h1757017919.png/small",
     "jhon lucumi": "https://r2.thesportsdb.com/images/media/player/cutout/kifz5o1758896707.png/small",
-    "jordan henderson": "https://r2.thesportsdb.com/images/media/player/cutout/by7qs71756903473.png/small"
+    "jordan henderson": "https://r2.thesportsdb.com/images/media/player/cutout/by7qs71756903473.png/small",
+    "tolu arokodare": "https://r2.thesportsdb.com/images/media/player/cutout/oc10t41756976097.png/small"
   }
 }

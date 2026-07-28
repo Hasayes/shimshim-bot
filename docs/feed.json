@@ -1,5 +1,24 @@
 [
  {
+  "id": "ee1c7a3ed722ab72abaad91cab29ca76",
+  "ts": "2026-07-28T02:31:26+00:00",
+  "kind": "deal",
+  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/oc10t41756976097.png/small",
+  "stage": "Completed",
+  "player": "Tolu Arokodare",
+  "position": "Striker",
+  "age": "26",
+  "from_club": "Wolverhampton Wanderers",
+  "to_club": "Ajax",
+  "fee": "Loan (\u20ac22m option to buy)",
+  "style": "A powerful, direct Nigerian international striker who uses his physicality and movement to lead the line.",
+  "fit": "Provides Ajax with an imposing centre-forward option capable of leading their attack in the Eredivisie and European competition.",
+  "source": "THEWILL NEWS MEDIA",
+  "outlet": "thewillnews",
+  "url": "https://thewillnews.com/super-eagles-star-tolu-arokodare-joins-4-time-ucl-winners/",
+  "title": "Super Eagles Star Tolu Arokodare Joins 4-Time UCL Winners"
+ },
+ {
   "id": "4496f35d2e980d56e25d3d4788118f25",
   "ts": "2026-07-28T01:16:02+00:00",
   "kind": "interest",

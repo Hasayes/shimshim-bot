@@ -1,5 +1,24 @@
 [
  {
+  "id": "8ed747acb2cc932fc96546cb1dc03d1e",
+  "ts": "2026-07-28T05:15:50+00:00",
+  "kind": "interest",
+  "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Rodri_France_v_Spain_7.24.26-096_%28cropped%29.jpg/330px-Rodri_France_v_Spain_7.24.26-096_%28cropped%29.jpg",
+  "stage": "\u2014",
+  "player": "Rodri",
+  "position": "\u2014",
+  "age": "\u2014",
+  "from_club": "Manchester City",
+  "to_club": "Real Madrid, Barcelona, PSG",
+  "fee": "\u2014",
+  "style": "\u2014",
+  "fit": "\u2014",
+  "source": "Eurosport",
+  "outlet": "eurosport_com",
+  "url": "https://www.tntsports.co.uk/football/transfers/2026-2027/euro-news-manchester-city-rodri-asking-price-real-madrid-barcelona-paris-saint-germain_sto23323226/story.shtml",
+  "title": "Man City set Rodri asking price amid Madrid, Barca, PSG interest - Euro Transfer News"
+ },
+ {
   "id": "679363d6ed3bbb199a2232a073624d4c",
   "ts": "2026-07-28T05:00:47+00:00",
   "kind": "interest",

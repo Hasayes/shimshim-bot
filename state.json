@@ -1,7 +1,5 @@
 {
   "sent": [
-    "c258a9257a2b1794c77a83605b2af92a",
-    "45c88cb29f8cf91acda9faaa78778045",
     "28fe9c4bf8987dbb988e12410a7a4b67",
     "cb5eba264973bf8febb8b73e65efb3dc",
     "33e69bb4c77c58c67981da88c26b9064",
@@ -499,7 +497,9 @@
     "86d5eb81e7c5ab7b2767c132f53fb208",
     "07e6e5a4d61c666f4a915280a79e6047",
     "f32434209bb13f8651c50f46cd6c2987",
-    "679363d6ed3bbb199a2232a073624d4c"
+    "679363d6ed3bbb199a2232a073624d4c",
+    "8ed747acb2cc932fc96546cb1dc03d1e",
+    "83e112c93dc830597491b5f4073cfd13"
   ],
   "deals": {
     "thompson -> arsenal": 3,
@@ -768,11 +768,12 @@
     "interest: henderson -> chelsea",
     "interest: ndiaye -> liverpool",
     "interest: zirkzee -> juventus",
-    "interest: kroupi -> manchester city"
+    "interest: kroupi -> manchester city",
+    "interest: rodri -> real madrid",
+    "interest: rodri -> barcelona",
+    "interest: rodri -> psg"
   ],
   "titles": [
-    "real madrid submit bid for \u00a3102 5m-rated winger as liverpool chances change agai",
-    "yan diomande: real madrid attempt shock hijack for liverpool and psg target with",
     "david ornstein: real madrid enter race for wanted world cup star",
     "yan diomande latest: liverpool and psg face competition as european giant 'rejec",
     "arsenal and liverpool dealt huge transfer blow as real madrid make blockbuster m",
@@ -1070,7 +1071,9 @@
     "ac milan planning loan offer featuring mandatory buyout clause worth \u20ac50-55m for",
     "zion suzuki future: paris saint-germain 'in talks' with japan world cup star lin",
     "report como enter lucumi fray after juventus hesitation",
-    "man city also interested in barcelona target eli junior kroupi"
+    "man city also interested in barcelona target eli junior kroupi",
+    "man city set rodri asking price amid madrid, barca, psg interest - euro transfer",
+    "inter milan close in on arsenal and chelsea target as fabrizio romano confirms \u2018"
   ],
   "tg_update_offset": 263617426,
   "photos": {

@@ -1,8 +1,5 @@
 {
   "sent": [
-    "d4e34a3adad5a1525a1ceea873c856b1",
-    "a0f9aa41b0ec069a4159f49771c41823",
-    "tg:FabrizioRomanoTG/63535",
     "a4ef066bca9610d34c770d092057196e",
     "3c35bd66f7ca1b8ec6b5a515a5d4a029",
     "b9b8f942fcdec0cd2834e83518d6b256",
@@ -499,7 +496,10 @@
     "adfb6470af6a6e0c827feb7ae5c978fd",
     "4ba339fe0b6f554b26fc5df9672277e6",
     "273e106a97928561de69810ee147ea5e",
-    "8fe5851abb1762e7d2420d7a2df4be6f"
+    "8fe5851abb1762e7d2420d7a2df4be6f",
+    "c682ac9f91cdd3cd749bf2dca9f36479",
+    "25cf980da564c24599efce95d38f6981",
+    "794dca78d46e147dd662785b86910498"
   ],
   "deals": {
     "thompson -> arsenal": 3,
@@ -634,7 +634,8 @@
     "castro -> roma": 1,
     "diomande -> real madrid": 3,
     "stones -> inter": 3,
-    "arokodare -> ajax": 3
+    "arokodare -> ajax": 3,
+    "trafford -> leeds united": 3
   },
   "interest": [
     "interest: alvarez -> arsenal",
@@ -771,12 +772,10 @@
     "interest: kroupi -> manchester city",
     "interest: rodri -> real madrid",
     "interest: rodri -> barcelona",
-    "interest: rodri -> psg"
+    "interest: rodri -> psg",
+    "interest: leao -> tottenham"
   ],
   "titles": [
-    "man united hold talks with kone\u2019s entourage",
-    "transfer news live: arsenal\u2019s shock move for vinicius jr hits hurdle, man utd cl",
-    "fabrizio romano issues 'here we go' for arsenal's 'exciting' left-winger transfe",
     "fabrizio romano issues 'here we go' for arsenal's axel donczew transfer",
     "fabrizio romano says arsenal \u2018agree deal\u2019 for record-breaking midfielder and \u2018me",
     "\"arsenal have not got that pull\" - rivals fans in denial as gunners explore move",
@@ -1073,7 +1072,10 @@
     "arsenal news: mikel arteta given vinicius jr green light as \u00a3103m decision made",
     "fabrizio romano tells liverpool fans what to expect from bradley barcola pursuit",
     "\"it's like getting stabbed in the heart\" - liverpool fans left fuming as former ",
-    "real madrid make first move as arsenal prepare bid for vinicius jr - reports"
+    "real madrid make first move as arsenal prepare bid for vinicius jr - reports",
+    "james trafford to leeds: fourth-most expensive goalkeeper in history is viewed a",
+    "chelsea consider shock swoop for brighton\u2019s danny welbeck",
+    "tottenham get final answer on rafael leao as fabrizio romano sets record straigh"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1251,6 +1253,8 @@
     "jhon lucumi": "https://r2.thesportsdb.com/images/media/player/cutout/kifz5o1758896707.png/small",
     "jordan henderson": "https://r2.thesportsdb.com/images/media/player/cutout/by7qs71756903473.png/small",
     "tolu arokodare": "https://r2.thesportsdb.com/images/media/player/cutout/oc10t41756976097.png/small",
-    "joshua zirkzee": "https://r2.thesportsdb.com/images/media/player/cutout/h32wk91766827067.png/small"
+    "joshua zirkzee": "https://r2.thesportsdb.com/images/media/player/cutout/h32wk91766827067.png/small",
+    "james trafford": "https://r2.thesportsdb.com/images/media/player/cutout/bzm62v1769183340.png/small",
+    "rafael leao": "https://r2.thesportsdb.com/images/media/player/cutout/tlgrvf1758892567.png/small"
   }
 }

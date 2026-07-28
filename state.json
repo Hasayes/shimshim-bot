@@ -1,7 +1,5 @@
 {
   "sent": [
-    "c3b83c04708f093694731dfe6cd17db4",
-    "d99c468ef7d567d3eb4e553c439c0a45",
     "tg:FabrizioRomanoTG/63509",
     "tg:FabrizioRomanoTG/63510",
     "91b87705bc2aaa294292c5e52c2dc992",
@@ -499,7 +497,9 @@
     "838152c1d13bf1baf681f8f02fd3ffce",
     "8f10d5f7f39ea310361f41a8196f9814",
     "tg:FabrizioRomanoTG/63713",
-    "tg:FabrizioRomanoTG/63714"
+    "tg:FabrizioRomanoTG/63714",
+    "tg:FabrizioRomanoTG/63715",
+    "tg:FabrizioRomanoTG/63716"
   ],
   "deals": {
     "thompson -> arsenal": 3,
@@ -633,7 +633,7 @@
     "ndiaye -> bayern munich": 3,
     "castro -> roma": 1,
     "diomande -> real madrid": 3,
-    "stones -> inter": 1,
+    "stones -> inter": 3,
     "arokodare -> ajax": 3
   },
   "interest": [
@@ -774,8 +774,6 @@
     "interest: rodri -> psg"
   ],
   "titles": [
-    "\ud83d\udd34 \u26aa\ufe0f \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc77\udb40\udc6c\udb40\udc73\udb40\udc7f arsenal agree deal to sign 16 year old talent axel donczew from car",
-    "real madrid and diomande reach 'verbal agreement' on personal terms - tribalfoot",
     "botafogo midfielder offered to manchester united",
     "fabrizio romano says tottenham \u2018absolutely want\u2019 to sign \u00a360m winger for roberto",
     "depending how one situation at manchester city plays out it may offer another mi",
@@ -1073,7 +1071,9 @@
     "\ud83d\udea8 \u26d4\ufe0f barcelona are not proceeding in talks to sign eli junior kroupi at this sta",
     "arokodare set for ajax medical",
     "italy: maldini and leonardo resigned from their positions in the federation afte",
-    "\ud83d\udea8 \ud83c\uddee\ud83c\uddf9 breaking: italy have appointed claudio ranieri as new technical director, h"
+    "\ud83d\udea8 \ud83c\uddee\ud83c\uddf9 breaking: italy have appointed claudio ranieri as new technical director, h",
+    "rt @fabrizioromano : \ud83d\udea8 \ud83d\udca3 breaking: yan diomande to real madrid, here we go! \u26aa\ufe0f \u2728",
+    "\ud83d\udd03 \ud83c\uddee\ud83c\uddf9 fenerbahce mission for leao, stones to join inter on two year deal, suzuki "
   ],
   "tg_update_offset": 263617426,
   "photos": {

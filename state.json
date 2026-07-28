@@ -1,7 +1,5 @@
 {
   "sent": [
-    "fd118a19877eac322ea9c637803db0de",
-    "482d1146c71e7d8cf48280f835a927ce",
     "4935bd117208f2d26b91b53c872d9e85",
     "b125a3402d1c566962894cfab9bc609d",
     "c1b7378a40ef77bc6422548c48a47930",
@@ -499,7 +497,9 @@
     "7c726283ae96dba3b580489a63185980",
     "071a5255831894e655e3930d6926a523",
     "6305a6c5faff3431a8b7fd7e6e65e235",
-    "0293d70ee9a8eb8b8cef1c630ba819d8"
+    "0293d70ee9a8eb8b8cef1c630ba819d8",
+    "c873e144af39a59ec2e11b0d85e9df82",
+    "c339c701560818aa9da9f837c715805d"
   ],
   "deals": {
     "thompson -> arsenal": 3,
@@ -770,8 +770,6 @@
     "interest: zirkzee -> juventus"
   ],
   "titles": [
-    "real madrid confident of signing rodri - saturday's gossip",
-    "enzo maresca confirms rodri\u2019s back surgery: for how long will the manchester cit",
     "pirlo set to lead italy after guardiola, ancelotti snub",
     "liverpool given fresh hope of diomande deal amid fiasco as euro giants threaten ",
     "gallas tells chelsea they \u2018have to get\u2019 arsenal centre-back target after lacroix",
@@ -1069,7 +1067,9 @@
     "chelsea pair removed from \u2018untouchable\u2019 list despite completing transfers just 1",
     "ipswich town transfer news: tractor boys closing in on high-profile goalkeeper s",
     "barcelona forced to change transfer plans as fabrizio romano reveals \u2018crucial\u2019 p",
-    "new serie a join juventus in race to sign manchester united forward joshua zirkz"
+    "new serie a join juventus in race to sign manchester united forward joshua zirkz",
+    "ajax reach agreement with wolves for arokodare as nigerian forward closes in on ",
+    "real madrid transfer news: yan diomande medical booked as \u00a385 5m agreement 'clos"
   ],
   "tg_update_offset": 263617426,
   "photos": {

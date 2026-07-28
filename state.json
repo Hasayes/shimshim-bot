@@ -1,8 +1,5 @@
 {
   "sent": [
-    "b9b8f942fcdec0cd2834e83518d6b256",
-    "43a8bb123dc186042426b44f2f9caf85",
-    "fab13cbceace6c72929012738d1120ef",
     "b1d1f8e66bb0eaac29da0aed914dffe1",
     "f9493fe53d5c48c1d714c7befd3ccb92",
     "tg:FabrizioRomanoTG/63536",
@@ -499,7 +496,10 @@
     "25cf980da564c24599efce95d38f6981",
     "794dca78d46e147dd662785b86910498",
     "tg:FabrizioRomanoTG/63730",
-    "64bd9f7cb9329d07c91101c6db1372ad"
+    "64bd9f7cb9329d07c91101c6db1372ad",
+    "55f149386c40128dbf0e352c1fbd1da1",
+    "32d41d77f9b1560731a630a2a578b28f",
+    "d1606336845968e103913dcb4a2e7a75"
   ],
   "deals": {
     "thompson -> arsenal": 3,
@@ -773,12 +773,10 @@
     "interest: rodri -> real madrid",
     "interest: rodri -> barcelona",
     "interest: rodri -> psg",
-    "interest: leao -> tottenham"
+    "interest: leao -> tottenham",
+    "interest: ndiaye -> bayern munich"
   ],
   "titles": [
-    "\"arsenal have not got that pull\" - rivals fans in denial as gunners explore move",
-    "barcelona and psg interested in hijacking real madrid\u2019s move for pl star - repor",
-    "fabrizio romano reveals man united\u2019s \u201cconcrete conversations\u201d with agents of \u20ac50",
     "\ud83d\udea8 \u26aa\ufe0f the fee for yan diomande to real madrid will be well in excess of \u20ac100m all",
     "medical completed: fabrizio romano confirms arsenal \u201chere we go\u201d in major mornin",
     "yan diomande transfer news: real madrid in pole position for rb leipzig winger a",
@@ -1075,7 +1073,10 @@
     "chelsea consider shock swoop for brighton\u2019s danny welbeck",
     "tottenham get final answer on rafael leao as fabrizio romano sets record straigh",
     "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f juventus keep advancing in talks to sign randal kolo muani from psg with",
-    "tolu arokadare joins ajax, set for medicals"
+    "tolu arokadare joins ajax, set for medicals",
+    "henderson open to chelsea transfer as blues eye brentford veteran",
+    "chelsea have completed changed direction",
+    "transfer news and rumours today: sunderland near historic methalie deal, bayern "
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1255,6 +1256,7 @@
     "tolu arokodare": "https://r2.thesportsdb.com/images/media/player/cutout/oc10t41756976097.png/small",
     "joshua zirkzee": "https://r2.thesportsdb.com/images/media/player/cutout/h32wk91766827067.png/small",
     "james trafford": "https://r2.thesportsdb.com/images/media/player/cutout/bzm62v1769183340.png/small",
-    "rafael leao": "https://r2.thesportsdb.com/images/media/player/cutout/tlgrvf1758892567.png/small"
+    "rafael leao": "https://r2.thesportsdb.com/images/media/player/cutout/tlgrvf1758892567.png/small",
+    "ousmane ndiaye": ""
   }
 }

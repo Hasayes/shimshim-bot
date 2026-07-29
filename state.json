@@ -1,7 +1,5 @@
 {
   "sent": [
-    "57156a13ad523561fbd60b3500396580",
-    "e859dd4afc4687e0fcd7885762fa6314",
     "2bd7bfd2cda47b3d244b12a1f2de391e",
     "ccfd2e5656e91ba47ec9055a4f7f240a",
     "tg:FabrizioRomanoTG/63541",
@@ -499,7 +497,9 @@
     "b32ffe96367e4b9864e0311f53df1a8f",
     "df2a12412b0f359fd9fc30049ca21f14",
     "96e3d5c6b034b6935a43a68fd8f1d74a",
-    "8e2e691f8648a6ca46242d4c6cf08cc6"
+    "8e2e691f8648a6ca46242d4c6cf08cc6",
+    "3e9c242c6e15efa6e61ec8e4dc4cb1a3",
+    "1add92d3e7cebf3bfcf309fcfd4920cc"
   ],
   "deals": {
     "thompson -> arsenal": 3,
@@ -777,10 +777,10 @@
     "interest: leao -> tottenham",
     "interest: ndiaye -> bayern munich",
     "interest: bergvall -> manchester united",
-    "interest: soule -> milan"
+    "interest: soule -> milan",
+    "interest: badiashile -> napoli"
   ],
   "titles": [
-    "arsenal must sell \u00a3180,000-a-week star if vinicius junior completes shock transf",
     "tottenham maintain active conversations for 22yo pl winger as deal stays live pe",
     "@alflusennnnn i never wrote \u201cbidding\u201d, and they were never \u201cready to bid\u201d yester",
     "\u00a390m arsenal & man utd target now open to chelsea transfer after being given ass",
@@ -1079,7 +1079,8 @@
     "report: 8-cap super eagles defender joins akor adams in serie a",
     "leeds united transfer news: whites 'closing in' on james trafford capture for ey",
     "tottenham handed major boost as top target 'hands in transfer request'",
-    "tottenham hotspur target savinho tells manchester city he wants to leave this su"
+    "tottenham hotspur target savinho tells manchester city he wants to leave this su",
+    "badiashile targeted by napoli, but chelsea agreement unlikely at \u20ac30m"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1262,6 +1263,7 @@
     "rafael leao": "https://r2.thesportsdb.com/images/media/player/cutout/tlgrvf1758892567.png/small",
     "ousmane ndiaye": "",
     "mateo soule": "",
-    "filip jorgensen": ""
+    "filip jorgensen": "",
+    "benoit badiashile": "https://r2.thesportsdb.com/images/media/player/cutout/59w2v01757002174.png/small"
   }
 }

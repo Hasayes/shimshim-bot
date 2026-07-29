@@ -1,5 +1,24 @@
 [
  {
+  "id": "3e9c242c6e15efa6e61ec8e4dc4cb1a3",
+  "ts": "2026-07-29T03:15:33+00:00",
+  "kind": "interest",
+  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/59w2v01757002174.png/small",
+  "stage": "\u2014",
+  "player": "Benoit Badiashile",
+  "position": "\u2014",
+  "age": "\u2014",
+  "from_club": "Chelsea",
+  "to_club": "Napoli",
+  "fee": "\u20ac30m",
+  "style": "\u2014",
+  "fit": "\u2014",
+  "source": "football-italia",
+  "outlet": "football-italia",
+  "url": "https://football-italia.net/badiashile-targeted-by-napoli-chelsea-unlikely/",
+  "title": "Badiashile targeted by Napoli, but Chelsea agreement unlikely at \u20ac30m"
+ },
+ {
   "id": "tg:FabrizioRomanoTG/63734",
   "ts": "2026-07-29T01:00:38+00:00",
   "kind": "deal",

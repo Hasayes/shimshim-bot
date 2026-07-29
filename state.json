@@ -1,8 +1,5 @@
 {
   "sent": [
-    "63b533beabea2d5e3659349f5520a72c",
-    "abc92afb927b997162638857336f7409",
-    "ba0879e1657254fac605d40760592e02",
     "ddf231901eb33ca0ac062a9a11549017",
     "a4f032a97a5e370e4df83d45eabb44d7",
     "4d72a01ef48dcb518a44c4c9cc005c64",
@@ -499,7 +496,10 @@
     "f3eee65a349ee432a15a43da4078a484",
     "0da6c3b778a3c9ba789eabb1e38333e3",
     "4250ff76ba375afcff93acbf8528526a",
-    "82153155f042ece38d8f275e92576669"
+    "82153155f042ece38d8f275e92576669",
+    "c2172782310d74baa9fbd72722f93f8f",
+    "5fb418cb975f0d50a9eb8893e12126e3",
+    "tg:FabrizioRomanoTG/63776"
   ],
   "deals": {
     "thompson -> arsenal": 3,
@@ -641,7 +641,8 @@
     "fitz-jim -> torino": 1,
     "muani -> juventus": 1,
     "henderson -> chelsea": 1,
-    "alajbegovic -> juventus": 1
+    "alajbegovic -> juventus": 1,
+    "akinsanmiro -> monza": 3
   },
   "interest": [
     "interest: alvarez -> arsenal",
@@ -790,9 +791,6 @@
     "interest: kroupi -> tottenham"
   ],
   "titles": [
-    "not barcola: liverpool make enquiry to sign psg attacking 'phenomenon'",
-    "not barcola: liverpool make enquiry to sign psg forward ibrahim mbaye",
-    "breaking: real madrid reach agreement with rb leipzig for diomande as psg withdr",
     "\ud83d\udea8 \ud83c\uddf2\ud83c\udde6 manchester city remain in direct club to club talks with lille for ayyoub b",
     "real madrid agree yan diomande deal in blow to liverpool, arsenal and man utd",
     "report: real madrid signs forward yan diomande from rb leipzig",
@@ -1089,7 +1087,10 @@
     "transfer news live: arsenal get vinicius jr hope; guimaraes update; chelsea medi",
     "romano issues \u2018here we go\u2019 update on chelsea transfer after formal request from ",
     "romano reveals why real madrid\u2019s latest signing is yet to be announced",
-    "romano gives chelsea \u2018here we go\u2019 to eighth signing as ninth transfer is \u2018agreed"
+    "romano gives chelsea \u2018here we go\u2019 to eighth signing as ninth transfer is \u2018agreed",
+    "danny welbeck to chelsea given the 'here we go' by fabrizio romano",
+    "danny welbeck to chelsea: 'here we go' says fabrizio romano",
+    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f monza agree deal to sign ebenezer akinsanmiro from inter on permanent mov"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1278,6 +1279,7 @@
     "kian fitz-jim": "https://r2.thesportsdb.com/images/media/player/cutout/c8pm8v1722883221.png/small",
     "kerem alajbegovic": "",
     "harry kane": "https://r2.thesportsdb.com/images/media/player/cutout/j4ouvd1756408895.png/small",
-    "junior kroupi": ""
+    "junior kroupi": "",
+    "ebenezer akinsanmiro": ""
   }
 }

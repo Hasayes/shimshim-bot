@@ -1,7 +1,5 @@
 {
   "sent": [
-    "3901dcd9ccba7de31a0d4abae053f3e5",
-    "2be1a87b981bb0dc7ecd00c3105ef968",
     "c9ee788d84aacccd06e2db167944f367",
     "c6ec981508ce57b14d7b743f34da9121",
     "tg:FabrizioRomanoTG/63552",
@@ -499,7 +497,9 @@
     "a477876484c2fc54e437b89cc4be6750",
     "bfa8567075f6763da708c02a6c1b536a",
     "tg:FabrizioRomanoTG/63750",
-    "tg:FabrizioRomanoTG/63752"
+    "tg:FabrizioRomanoTG/63752",
+    "tg:FabrizioRomanoTG/63755",
+    "tg:FabrizioRomanoTG/63756"
   ],
   "deals": {
     "thompson -> arsenal": 3,
@@ -638,7 +638,8 @@
     "trafford -> leeds united": 3,
     "jorgensen -> rc strasbourg": 1,
     "welbeck -> chelsea": 1,
-    "fitz-jim -> torino": 1
+    "fitz-jim -> torino": 1,
+    "muani -> juventus": 1
   },
   "interest": [
     "interest: alvarez -> arsenal",
@@ -784,8 +785,6 @@
     "interest: palacios -> real madrid"
   ],
   "titles": [
-    "@plettigoal florian, attacking me for a here we go (and it was after a medical i",
-    "milan bid for martin, lazio eye 2007-born, chevalier-juve \ud83d\udc4e \ud83e\udd11",
     "50-goal liverpool star will be casualty of enormous barcola transfer \u2013 journalis",
     "- liverpool lead race for psg\u2019s bradley barcola as winger gives transfer green l",
     "yan diomande deal 'done' as liverpool handed transfer update on winger",
@@ -1083,7 +1082,9 @@
     "liverpool have received a major boost in their pursuit of bradley barcola",
     "chelsea could announce incredible double signing in next few days after both pla",
     "rt @fabrizioromano : \ud83d\udea8 \u26ab\ufe0f \ud83d\udd35 inter have reached verbal agreement with yan bisseck",
-    "\u26ab\ufe0f \ud83d\udd35 \ud83c\udde9\ud83c\uddea official statement to follow next for yan bisseck new contract as it\u2019s b"
+    "\u26ab\ufe0f \ud83d\udd35 \ud83c\udde9\ud83c\uddea official statement to follow next for yan bisseck new contract as it\u2019s b",
+    "\ud83d\udea8 \ud83c\uddf2\ud83c\udde6 manchester city are confident to get deal done for ayyoub bouaddi in the ne",
+    "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f randal kolo muani to juventus, here we go! deal in place for total packa"
   ],
   "tg_update_offset": 263617426,
   "photos": {

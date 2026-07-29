@@ -1,9 +1,5 @@
 {
   "sent": [
-    "ac1db7afad50a0ae6e7372b1abb51222",
-    "85a42a5f23b1745a9e3623b7231d189a",
-    "64c17fa28b183a987792628db4a79bee",
-    "68fa90051a3ffcdc13c7c9c9a6d38120",
     "810db99d7192aa0b15c21ad548fb4f47",
     "c172be8bcc7b82e82fee9f378ff5f2b6",
     "b598ce2b4868120804ef8bfdefafd0d6",
@@ -499,7 +495,11 @@
     "d7fdc17a7a07ce24a86c4c4e69a54c4b",
     "25580eaf2266719356ea694d8a7d14ce",
     "tg:FabrizioRomanoTG/63766",
-    "tg:FabrizioRomanoTG/63767"
+    "tg:FabrizioRomanoTG/63767",
+    "tg:FabrizioRomanoTG/63769",
+    "tg:FabrizioRomanoTG/63770",
+    "tg:FabrizioRomanoTG/63771",
+    "tg:FabrizioRomanoTG/63772"
   ],
   "deals": {
     "thompson -> arsenal": 3,
@@ -623,7 +623,7 @@
     "healy -> newcastle": 3,
     "diawara -> milan": 1,
     "amondarain -> bologna": 3,
-    "lacroix -> chelsea": 2,
+    "lacroix -> chelsea": 3,
     "guimaraes -> arsenal": 2,
     "bamba -> newcastle united": 1,
     "lee -> atletico madrid": 3,
@@ -789,10 +789,6 @@
     "interest: kane -> bayern munich"
   ],
   "titles": [
-    "arsenal agree deal for cardiff wonderkid axel donczew",
-    "\ud83d\udea8 \ud83c\uddea\ud83c\uddf8 dani ceballos, available as free agent and exploring opportunities as be ha",
-    "report stones targeted by juventus for genuine proposal",
-    "real madrid agree blockbuster yan diomande transfer as rb leipzig star pencilled",
     "bombshell: fabrizio romano confirms \u20ac170m liverpool talks",
     "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f fulham are set to approach real madrid to negotiate for gonzalo garcia a",
     "romano: liverpool target barcola 'open' to move after rejecting deal",
@@ -1088,7 +1084,11 @@
     "bayern munich news: fc bayern, harry kane set to begin talks shortly; a swap dea",
     "frosinone seal akpoguma deal after hoffenheim exit",
     "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f fulham are closing in on cesar palacios deal from real madrid as details",
-    "rt @fabrizioromano : \ud83d\udea8 \ud83d\udca3 breaking: jordan henderson to chelsea, here we go! \ud83d\udd35 \ud83c\udff4\udb40\udc67"
+    "rt @fabrizioromano : \ud83d\udea8 \ud83d\udca3 breaking: jordan henderson to chelsea, here we go! \ud83d\udd35 \ud83c\udff4\udb40\udc67",
+    "\ud83d\udea8 \ud83d\udd35 chelsea and crystal palace are set for all formal steps on maxence lacroix d",
+    "\ud83d\udd34 \ud83d\udd35 \ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udffc mikel amondarain officially joins bologna from estudiantes for \u20ac10m pl",
+    "\ud83d\udea8 \ud83d\udd34 liverpool are in talks with paris saint-germain for bradley barcola deal to ",
+    "\ud83d\udea8 \u26d4\ufe0f official: eli junior kroupi undergoes surgery after suffering a fifth metat"
   ],
   "tg_update_offset": 263617426,
   "photos": {

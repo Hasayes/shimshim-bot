@@ -1,17 +1,5 @@
 {
   "sent": [
-    "fab9136196d0017d30cb43e12be2228b",
-    "46c5bd4b2fd755283871ead05867e434",
-    "0818f549b7aacb228d7a96c71763eba8",
-    "7892a112220dc9d003014c9f1a9edd89",
-    "2f5226d0b77c103fd30ac4560427e3e6",
-    "189678adf9a936b2e3b73bbae212855d",
-    "3319768d097c890274e14b743c6ca006",
-    "165ab3eb4b30dee78d9699ed778f6251",
-    "f4dd9fdda7aee8cd4ef3596d1655c11f",
-    "855839dc1cbb2345727fcaf513eae951",
-    "ff1159732d7d77789bd91734166dd274",
-    "tg:FabrizioRomanoTG/63537",
     "166fc68630c84453f5b45a515f9bcb82",
     "tg:FabrizioRomanoTG/63538",
     "982676f29ce8bda027ece630bb4b6b3e",
@@ -499,7 +487,19 @@
     "6e4ac95720145d7663d9a769de26ff81",
     "6e01e89f0c5d75c73993ba1cbe00358b",
     "2389ecb05b308819fbdd09b08d17ba51",
-    "cacce4db7d470618a416504e994d43e4"
+    "cacce4db7d470618a416504e994d43e4",
+    "3d77e46c1bdf434021efda70a225fcb6",
+    "4fb036f4ded1a1ce51009fa0a537364c",
+    "77060cd5b1d52d25fa60cf5dbd219158",
+    "5f63e1702eef829a2a8fe7c1d9da585f",
+    "beda7089e0c14244c8f1bd47e71ad69e",
+    "55d23dc9d9d62c13ca4f04e450c209c8",
+    "dcb95c7e0cf30d43ea15eb978c9c7511",
+    "bb05cac34d6ee8b4de6dadebe4c10102",
+    "d9f3852552d1de03ce56a5867ae9beac",
+    "e8857c14fcc8cc6eb2c206f996259d32",
+    "40963a3fe2c4e5ad0615c1ab43001271",
+    "316641acdfebf0b4fce1981b0c311bc3"
   ],
   "deals": {
     "thompson -> arsenal": 3,
@@ -775,19 +775,10 @@
     "interest: rodri -> psg",
     "interest: leao -> tottenham",
     "interest: ndiaye -> bayern munich",
-    "interest: bergvall -> manchester united"
+    "interest: bergvall -> manchester united",
+    "interest: soule -> milan"
   ],
   "titles": [
-    "@like_a_sire yea fact check if man city sent \u20ac100m bid yesterday when real madri",
-    "real madrid rule out michael olise move to preserve bayern munich relationship \u2013",
-    "yan diomande double \u2018verbal agreement\u2019 reached as arsenal get boost in vinicius ",
-    "\ud83d\udea8 \ud83c\udde9\ud83c\uddea leon goretzka will decide his future club soon but no negotiations with bar",
-    "\ud83d\udea8 paris saint-germain, very upset about yan diomande saga behind the scenes yan ",
-    "transfer: axel donczew undergoes arsenal medical after deal agreed",
-    "@blue_footy don\u2019t worry, diomande goes to real madrid as klopp went to germany a",
-    "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f understand memphis depay has agreed all terms with corinthians over new ",
-    "\ud83d\udea8 \ud83d\udfe1 \ud83d\udd34 official: galatasaray announce all reports on jamal musiala deal on loan a",
-    "mourinho reaches decision on selling vinicius junior to arsenal for \u00a3136m",
     "chelsea will accept offers for five players as medical is confirmed for seventh ",
     "psg\u2019s rodri pursuit seen as \u2018reaction\u2019 to real madrid\u2019s yan diomande move",
     "bisseck commits to inter until 2031 as verbal deal agreed",
@@ -1077,7 +1068,17 @@
     "unai emery eyes nicolas jackson reunion at aston villa, but only a permanent tra",
     "epl: man united open talks with tottenham over bergvall transfer",
     "why bradley barcola move to liverpool won't be straightforward: report",
-    "'here we go' - leeds united transfer imminent after newcastle united agreed pers"
+    "'here we go' - leeds united transfer imminent after newcastle united agreed pers",
+    "fabrizio romano clears the air on tottenham\u2019s interest in \u2018exit-bound\u2019 ac milan ",
+    "reports claim danny welbeck 'agrees' personal terms with chelsea",
+    "zinedine zidane appointed france head coach until 2030",
+    "euro 2020-winning boss roberto mancini, 61, agrees to return as italy manager af",
+    "chelsea transfer news: filip jorgensen leaves pre-season tour amid 'interest' fr",
+    "\ud83d\udea8 official: italy have their new manager!",
+    "soule proposed to milan as possible leao replacement",
+    "arsenal ready to make formal bid to sign reak madrid star vinicius jr",
+    "aston villa keen on signing chelsea's nicolas jackson, despite loan rumors",
+    "djed spence to liverpool transfer reality as tottenham has '$45m asking price'"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1258,6 +1259,7 @@
     "joshua zirkzee": "https://r2.thesportsdb.com/images/media/player/cutout/h32wk91766827067.png/small",
     "james trafford": "https://r2.thesportsdb.com/images/media/player/cutout/bzm62v1769183340.png/small",
     "rafael leao": "https://r2.thesportsdb.com/images/media/player/cutout/tlgrvf1758892567.png/small",
-    "ousmane ndiaye": ""
+    "ousmane ndiaye": "",
+    "mateo soule": ""
   }
 }

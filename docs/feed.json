@@ -1,5 +1,24 @@
 [
  {
+  "id": "d9f3852552d1de03ce56a5867ae9beac",
+  "ts": "2026-07-29T00:30:52+00:00",
+  "kind": "interest",
+  "photo": "",
+  "stage": "\u2014",
+  "player": "Mateo Soule",
+  "position": "\u2014",
+  "age": "\u2014",
+  "from_club": "\u2014",
+  "to_club": "AC Milan",
+  "fee": "\u2014",
+  "style": "\u2014",
+  "fit": "Proposed as a potential replacement for Rafael Leao, suggesting attacking/winger capability.",
+  "source": "yahoo",
+  "outlet": "yahoo",
+  "url": "https://sports.yahoo.com/articles/soule-proposed-milan-possible-leao-121000953.html",
+  "title": "Soule proposed to Milan as possible Leao replacement"
+ },
+ {
   "id": "6e01e89f0c5d75c73993ba1cbe00358b",
   "ts": "2026-07-28T22:30:41+00:00",
   "kind": "interest",

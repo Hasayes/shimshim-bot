@@ -1,7 +1,5 @@
 {
   "sent": [
-    "982676f29ce8bda027ece630bb4b6b3e",
-    "4050650cce2ce0638c6f18b08d9717ca",
     "964202475b02b729d90296517138e76d",
     "b6b3bb679fc40afecaa0ced129c5bf82",
     "0d250f7831d495d1769410ba35b6874a",
@@ -499,7 +497,9 @@
     "40963a3fe2c4e5ad0615c1ab43001271",
     "316641acdfebf0b4fce1981b0c311bc3",
     "a67252f5d3f29c7cddd09253db5a0bd8",
-    "tg:FabrizioRomanoTG/63732"
+    "tg:FabrizioRomanoTG/63732",
+    "tg:FabrizioRomanoTG/63734",
+    "tg:FabrizioRomanoTG/63735"
   ],
   "deals": {
     "thompson -> arsenal": 3,
@@ -635,7 +635,8 @@
     "diomande -> real madrid": 3,
     "stones -> inter": 3,
     "arokodare -> ajax": 3,
-    "trafford -> leeds united": 3
+    "trafford -> leeds united": 3,
+    "jorgensen -> rc strasbourg": 1
   },
   "interest": [
     "interest: alvarez -> arsenal",
@@ -779,8 +780,6 @@
     "interest: soule -> milan"
   ],
   "titles": [
-    "bisseck commits to inter until 2031 as verbal deal agreed",
-    "\ud83d\udea8 \ud83c\udf33 nottingham forest send new official bid to feyenoord for givairo read worth ",
     "arsenal dealt vinicius junior transfer blow as fresh update emerges",
     "@plettigoal @hassanmcojwang \u201cdon\u2019t portray it as if we reported that manchester ",
     "arsenal transfer round-up: done deals and rumours",
@@ -1078,7 +1077,9 @@
     "aston villa keen on signing chelsea's nicolas jackson, despite loan rumors",
     "djed spence to liverpool transfer reality as tottenham has '$45m asking price'",
     "psg considered 4 factors before setting record transfer valuation for bradley ba",
-    "\ud83d\udea8 \u26aa\ufe0f tottenham keep considering savinho their top priority with brazilian winger"
+    "\ud83d\udea8 \u26aa\ufe0f tottenham keep considering savinho their top priority with brazilian winger",
+    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f filip jorgensen to rc strasbourg, story confirmed and deal being closed t",
+    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f coventry city agree all details of carl rushworth deal with medical booke"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1260,6 +1261,7 @@
     "james trafford": "https://r2.thesportsdb.com/images/media/player/cutout/bzm62v1769183340.png/small",
     "rafael leao": "https://r2.thesportsdb.com/images/media/player/cutout/tlgrvf1758892567.png/small",
     "ousmane ndiaye": "",
-    "mateo soule": ""
+    "mateo soule": "",
+    "filip jorgensen": ""
   }
 }

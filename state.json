@@ -1,6 +1,5 @@
 {
   "sent": [
-    "e4cabcbbb51b665c0217fcd95d0019f2",
     "018b6dad5a1ad6c6dc0b0a709075f008",
     "a6b8e43b23046bace76d1d08c485fb0a",
     "c923d0045339706907512fd59def9304",
@@ -499,7 +498,8 @@
     "tg:FabrizioRomanoTG/63760",
     "tg:FabrizioRomanoTG/63761",
     "tg:FabrizioRomanoTG/63763",
-    "1e2a5b6fe4d070d4c2566ee546fda711"
+    "1e2a5b6fe4d070d4c2566ee546fda711",
+    "d7fdc17a7a07ce24a86c4c4e69a54c4b"
   ],
   "deals": {
     "thompson -> arsenal": 3,
@@ -785,10 +785,10 @@
     "interest: soule -> milan",
     "interest: badiashile -> napoli",
     "interest: palacios -> real madrid",
-    "interest: alajbegovic -> juventus"
+    "interest: alajbegovic -> juventus",
+    "interest: kane -> bayern munich"
   ],
   "titles": [
-    "forest\u2019s \u20ac20m bid for reid leaves man united scrambling",
     "arsenal's two conditions for bruno guimaraes transfer as gunners set to make nex",
     "milan bid for marta\u00adn, lazio eye 2007-born, chevalier-juve \u00f0\u009f\u0091\u008e \u00f0\u009f\u00a4\u0091",
     "tottenham threatened by euro giants in new fears surrounding \u00a360m man city raid",
@@ -1087,7 +1087,8 @@
     "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f juventus are in advanced talks to sign kerem alajbegovic after randal ko",
     "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f juventus are waiting for kerim alajbegovic final approval after advanced",
     "rt @fabrizioromano : \ud83d\udea8 understand liverpool remain the club showing most concret",
-    "transfer rumors, news: vinicius jr set to stay at real madrid, despite arsenal i"
+    "transfer rumors, news: vinicius jr set to stay at real madrid, despite arsenal i",
+    "bayern munich news: fc bayern, harry kane set to begin talks shortly; a swap dea"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1274,6 +1275,7 @@
     "benoit badiashile": "https://r2.thesportsdb.com/images/media/player/cutout/59w2v01757002174.png/small",
     "cesar palacios": "",
     "kian fitz-jim": "https://r2.thesportsdb.com/images/media/player/cutout/c8pm8v1722883221.png/small",
-    "kerem alajbegovic": ""
+    "kerem alajbegovic": "",
+    "harry kane": "https://r2.thesportsdb.com/images/media/player/cutout/j4ouvd1756408895.png/small"
   }
 }

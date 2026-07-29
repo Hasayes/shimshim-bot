@@ -1,8 +1,5 @@
 {
   "sent": [
-    "6c91762dc666493eee14d263fc2deac2",
-    "7f7c83d9446223f8445920884394aa88",
-    "87dbb2d54674dc60c681c3f97880bb33",
     "beb6b7c4be03e98594ba27ca9f1a5c45",
     "0221e3ea730f80821debf879a4eda836",
     "3c726f37164a7bdd66b4faeec34b9206",
@@ -499,7 +496,10 @@
     "tg:FabrizioRomanoTG/63743",
     "7d2179fc5df2da1e0cd69a11d057cf12",
     "tg:FabrizioRomanoTG/63745",
-    "66110a5b35117e4ddbe1a74bf1a60816"
+    "66110a5b35117e4ddbe1a74bf1a60816",
+    "7657563d48386bc4d2ba9b503f9db721",
+    "5d52fde88729d8713e84d4c679802c84",
+    "tg:FabrizioRomanoTG/63747"
   ],
   "deals": {
     "thompson -> arsenal": 3,
@@ -637,7 +637,8 @@
     "arokodare -> ajax": 3,
     "trafford -> leeds united": 3,
     "jorgensen -> rc strasbourg": 1,
-    "welbeck -> chelsea": 1
+    "welbeck -> chelsea": 1,
+    "fitz-jim -> torino": 1
   },
   "interest": [
     "interest: alvarez -> arsenal",
@@ -783,9 +784,6 @@
     "interest: palacios -> real madrid"
   ],
   "titles": [
-    "atalanta\u2019s social media rebuttal after \u00a335m ederson medical failure",
-    "bradley barcola transfer: liverpool hold talks as psg demand \u20ac170m | report",
-    "fabrizio romano details roberto de zerbi stance on savinho transfer amid tottenh",
     "bradley barcola rejects psg contract extension; liverpool emerge as frontrunners",
     "how vinicius junior feels about arsenal transfer, next few days should be crucia",
     "bradley barcola 'makes decision on \u00a3145m liverpool transfer' after reds hold tal",
@@ -1082,7 +1080,10 @@
     "\ud83d\udea8 \u26aa\ufe0f real madrid have approached manchester city for rodri for the first time ne",
     "chelsea are eyeing a move for this brentford midfielder: good choice for alonso?",
     "rt @fabrizioromano : \ud83d\udea8 \ud83c\uddf2\ud83c\udde6 manchester city remain in direct club to club talks wi",
-    "luis diaz reportedly turns down al hilal\u2019s \u20ac25m offer, choosing to stay with bay"
+    "luis diaz reportedly turns down al hilal\u2019s \u20ac25m offer, choosing to stay with bay",
+    "manchester city are in talks to land this ligue 1 midfielder: should maresca lau",
+    "watch: joao pedro scores stunning nine-minute hat-trick as xabi alonso wins chel",
+    "\ud83d\udea8 \ud83d\udc02 kian fitz-jim travels to italy today to sign in as new torino player from aj"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1267,6 +1268,7 @@
     "mateo soule": "",
     "filip jorgensen": "",
     "benoit badiashile": "https://r2.thesportsdb.com/images/media/player/cutout/59w2v01757002174.png/small",
-    "cesar palacios": ""
+    "cesar palacios": "",
+    "kian fitz-jim": "https://r2.thesportsdb.com/images/media/player/cutout/c8pm8v1722883221.png/small"
   }
 }

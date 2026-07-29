@@ -1,7 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/63552",
-    "tg:FabrizioRomanoTG/63553",
     "tg:FabrizioRomanoTG/63554",
     "e4cabcbbb51b665c0217fcd95d0019f2",
     "018b6dad5a1ad6c6dc0b0a709075f008",
@@ -499,7 +497,9 @@
     "tg:FabrizioRomanoTG/63755",
     "tg:FabrizioRomanoTG/63756",
     "tg:FabrizioRomanoTG/63757",
-    "tg:FabrizioRomanoTG/63760"
+    "tg:FabrizioRomanoTG/63760",
+    "tg:FabrizioRomanoTG/63761",
+    "tg:FabrizioRomanoTG/63763"
   ],
   "deals": {
     "thompson -> arsenal": 3,
@@ -640,7 +640,8 @@
     "welbeck -> chelsea": 1,
     "fitz-jim -> torino": 1,
     "muani -> juventus": 1,
-    "henderson -> chelsea": 1
+    "henderson -> chelsea": 1,
+    "alajbegovic -> juventus": 1
   },
   "interest": [
     "interest: alvarez -> arsenal",
@@ -787,8 +788,6 @@
     "interest: alajbegovic -> juventus"
   ],
   "titles": [
-    "yan diomande deal 'done' as liverpool handed transfer update on winger",
-    "barcelona are not working on a move to sign german free agent \u2013 romano",
     "premier league side readying \u201chuge offer\u201d for real madrid forward",
     "forest\u2019s \u20ac20m bid for reid leaves man united scrambling",
     "arsenal's two conditions for bruno guimaraes transfer as gunners set to make nex",
@@ -1086,7 +1085,9 @@
     "\ud83d\udea8 \ud83c\uddf2\ud83c\udde6 manchester city are confident to get deal done for ayyoub bouaddi in the ne",
     "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f randal kolo muani to juventus, here we go! deal in place for total packa",
     "\ud83d\udea8 \ud83d\udca3 breaking: jordan henderson to chelsea, here we go! \ud83d\udd35 \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f former liverpoo",
-    "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f juventus are in advanced talks to sign kerem alajbegovic after randal ko"
+    "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f juventus are in advanced talks to sign kerem alajbegovic after randal ko",
+    "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f juventus are waiting for kerim alajbegovic final approval after advanced",
+    "rt @fabrizioromano : \ud83d\udea8 understand liverpool remain the club showing most concret"
   ],
   "tg_update_offset": 263617426,
   "photos": {

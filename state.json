@@ -1,6 +1,5 @@
 {
   "sent": [
-    "c6ec981508ce57b14d7b743f34da9121",
     "tg:FabrizioRomanoTG/63552",
     "tg:FabrizioRomanoTG/63553",
     "tg:FabrizioRomanoTG/63554",
@@ -499,7 +498,8 @@
     "tg:FabrizioRomanoTG/63752",
     "tg:FabrizioRomanoTG/63755",
     "tg:FabrizioRomanoTG/63756",
-    "tg:FabrizioRomanoTG/63757"
+    "tg:FabrizioRomanoTG/63757",
+    "tg:FabrizioRomanoTG/63760"
   ],
   "deals": {
     "thompson -> arsenal": 3,
@@ -783,10 +783,10 @@
     "interest: bergvall -> manchester united",
     "interest: soule -> milan",
     "interest: badiashile -> napoli",
-    "interest: palacios -> real madrid"
+    "interest: palacios -> real madrid",
+    "interest: alajbegovic -> juventus"
   ],
   "titles": [
-    "- liverpool lead race for psg\u2019s bradley barcola as winger gives transfer green l",
     "yan diomande deal 'done' as liverpool handed transfer update on winger",
     "barcelona are not working on a move to sign german free agent \u2013 romano",
     "premier league side readying \u201chuge offer\u201d for real madrid forward",
@@ -1085,7 +1085,8 @@
     "\u26ab\ufe0f \ud83d\udd35 \ud83c\udde9\ud83c\uddea official statement to follow next for yan bisseck new contract as it\u2019s b",
     "\ud83d\udea8 \ud83c\uddf2\ud83c\udde6 manchester city are confident to get deal done for ayyoub bouaddi in the ne",
     "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f randal kolo muani to juventus, here we go! deal in place for total packa",
-    "\ud83d\udea8 \ud83d\udca3 breaking: jordan henderson to chelsea, here we go! \ud83d\udd35 \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f former liverpoo"
+    "\ud83d\udea8 \ud83d\udca3 breaking: jordan henderson to chelsea, here we go! \ud83d\udd35 \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f former liverpoo",
+    "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f juventus are in advanced talks to sign kerem alajbegovic after randal ko"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1271,6 +1272,7 @@
     "filip jorgensen": "",
     "benoit badiashile": "https://r2.thesportsdb.com/images/media/player/cutout/59w2v01757002174.png/small",
     "cesar palacios": "",
-    "kian fitz-jim": "https://r2.thesportsdb.com/images/media/player/cutout/c8pm8v1722883221.png/small"
+    "kian fitz-jim": "https://r2.thesportsdb.com/images/media/player/cutout/c8pm8v1722883221.png/small",
+    "kerem alajbegovic": ""
   }
 }

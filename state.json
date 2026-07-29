@@ -1,10 +1,5 @@
 {
   "sent": [
-    "6f9c83907fcdebca4a4d72fb258a3a24",
-    "11acb59cc719e316b96eb8213053a026",
-    "tg:FabrizioRomanoTG/63557",
-    "tg:FabrizioRomanoTG/63559",
-    "tg:FabrizioRomanoTG/63561",
     "tg:FabrizioRomanoTG/63565",
     "tg:FabrizioRomanoTG/63567",
     "tg:FabrizioRomanoTG/63568",
@@ -499,7 +494,12 @@
     "8dc8ef965d3a6d9a89e7592c547ef17f",
     "9beaf3c3ec9c14d84c2fa9519eba6a3a",
     "defe0251c0fa0dc966d053d643a4f038",
-    "63438341dec4f502486f5c44823a35f8"
+    "63438341dec4f502486f5c44823a35f8",
+    "1a5cf67fb511adc08a0afccae24d5a3c",
+    "744a09422597bca730d978e297ee2030",
+    "3d2c452d30a7953f1e0662eb18dbcd99",
+    "b23c62cdf1c0095d38ccadb5b695d12b",
+    "tg:FabrizioRomanoTG/63782"
   ],
   "deals": {
     "thompson -> arsenal": 3,
@@ -791,14 +791,10 @@
     "interest: kroupi -> tottenham",
     "interest: rayan -> liverpool",
     "interest: watkins -> manchester united",
-    "interest: kounde -> tottenham"
+    "interest: kounde -> tottenham",
+    "interest: rulli -> manchester city"
   ],
   "titles": [
-    "real madrid closing in on bumper diomande signing",
-    "liverpool \u2018compromise\u2019 sought with bradley barcola talks planned \u2018today\u2019 as psg ",
-    "chelsea set to lodge another bid for alex scott",
-    "\ud83d\udd34 \u26aa\ufe0f \ud83d\udca5 more on tolu arokodare to ajax exclusive story: loan with salary fully co",
-    "'he only wants paris' - liverpool dealt blow as transfer target picks psg",
     "media wars: florian plettenberg and fabrizio romano go toe-to-toe over accusatio",
     "\ud83d\udea8 \ud83d\udd35 chelsea are considering a move for danny welbeck to add experience upfront f",
     "\ud83d\udea8 \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f inter and juventus are both in talks with john stones\u2019 camp over poten",
@@ -1093,7 +1089,12 @@
     "rodri transfer update: real madrid approach man city, ready to spend \u20ac50 million",
     "transfer rumour roundup: newcastle dig in over guimaraes; real madrid launch rod",
     "eduardo camavinga goes against real madrid as man united could save millions on ",
-    "romano reveals first real madrid move for rodri as man city eye \u2018another attacke"
+    "romano reveals first real madrid move for rodri as man city eye \u2018another attacke",
+    "psg reach decision on hijacking real madrid deal for yan diomande \u2013 fabrizio rom",
+    "real madrid transfer news: 'major' update in spanish club's pursuit of man city ",
+    "welbeck set for chelsea medical as deal agreed",
+    "real madrid open rodri talks with manchester city",
+    "\ud83d\udea8 \ud83e\ude75 exclusive: manchester city want geronimo rulli as new backup goalkeeper to r"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1286,6 +1287,7 @@
     "ebenezer akinsanmiro": "",
     "rayan": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Rayan_Brazil_V_Morocco_13_June_2026-142.jpg/330px-Rayan_Brazil_V_Morocco_13_June_2026-142.jpg",
     "ollie watkins": "https://r2.thesportsdb.com/images/media/player/cutout/w6dir11756987347.png/small",
-    "jules kounde": "https://r2.thesportsdb.com/images/media/player/cutout/qea88i1726509803.png/small"
+    "jules kounde": "https://r2.thesportsdb.com/images/media/player/cutout/qea88i1726509803.png/small",
+    "geronimo rulli": "https://r2.thesportsdb.com/images/media/player/cutout/cpkkmg1766153528.png/small"
   }
 }

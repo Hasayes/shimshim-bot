@@ -1,6 +1,5 @@
 {
   "sent": [
-    "810db99d7192aa0b15c21ad548fb4f47",
     "c172be8bcc7b82e82fee9f378ff5f2b6",
     "b598ce2b4868120804ef8bfdefafd0d6",
     "bf018305d4fadfb045c2032ddcef76ac",
@@ -499,7 +498,8 @@
     "tg:FabrizioRomanoTG/63769",
     "tg:FabrizioRomanoTG/63770",
     "tg:FabrizioRomanoTG/63771",
-    "tg:FabrizioRomanoTG/63772"
+    "tg:FabrizioRomanoTG/63772",
+    "073ad6558bf455d48226aadf765a2ca7"
   ],
   "deals": {
     "thompson -> arsenal": 3,
@@ -786,10 +786,10 @@
     "interest: badiashile -> napoli",
     "interest: palacios -> real madrid",
     "interest: alajbegovic -> juventus",
-    "interest: kane -> bayern munich"
+    "interest: kane -> bayern munich",
+    "interest: kroupi -> tottenham"
   ],
   "titles": [
-    "bombshell: fabrizio romano confirms \u20ac170m liverpool talks",
     "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f fulham are set to approach real madrid to negotiate for gonzalo garcia a",
     "romano: liverpool target barcola 'open' to move after rejecting deal",
     "\ud83d\udea8 \ud83c\uddf2\ud83c\udde6 manchester united fullback noussair mazraoui has picked panthera as new age",
@@ -1088,7 +1088,8 @@
     "\ud83d\udea8 \ud83d\udd35 chelsea and crystal palace are set for all formal steps on maxence lacroix d",
     "\ud83d\udd34 \ud83d\udd35 \ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udffc mikel amondarain officially joins bologna from estudiantes for \u20ac10m pl",
     "\ud83d\udea8 \ud83d\udd34 liverpool are in talks with paris saint-germain for bradley barcola deal to ",
-    "\ud83d\udea8 \u26d4\ufe0f official: eli junior kroupi undergoes surgery after suffering a fifth metat"
+    "\ud83d\udea8 \u26d4\ufe0f official: eli junior kroupi undergoes surgery after suffering a fifth metat",
+    "tottenham planning to make serious move for junior kroupi after savinho"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1276,6 +1277,7 @@
     "cesar palacios": "",
     "kian fitz-jim": "https://r2.thesportsdb.com/images/media/player/cutout/c8pm8v1722883221.png/small",
     "kerem alajbegovic": "",
-    "harry kane": "https://r2.thesportsdb.com/images/media/player/cutout/j4ouvd1756408895.png/small"
+    "harry kane": "https://r2.thesportsdb.com/images/media/player/cutout/j4ouvd1756408895.png/small",
+    "junior kroupi": ""
   }
 }

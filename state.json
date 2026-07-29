@@ -1,6 +1,5 @@
 {
   "sent": [
-    "5a0a78322b07a8fc5164aa80e76d92cd",
     "64baa4acbc94357e8490ab4a73fbfa4d",
     "54d892fb289c5f8b9941d0a4b387b796",
     "68a37454c6306742fb4506e6ac2bb188",
@@ -499,7 +498,8 @@
     "733e20c48a6ea754a469329c7f201a24",
     "d453b3909a078cd02cde46c8e7ea577a",
     "9e8c43f6d78311d38216ff5433da3c41",
-    "tg:FabrizioRomanoTG/63781"
+    "tg:FabrizioRomanoTG/63781",
+    "f95c8a69499358301aa635b866c97c21"
   ],
   "deals": {
     "thompson -> arsenal": 3,
@@ -790,10 +790,10 @@
     "interest: kane -> bayern munich",
     "interest: kroupi -> tottenham",
     "interest: rayan -> liverpool",
-    "interest: watkins -> manchester united"
+    "interest: watkins -> manchester united",
+    "interest: kounde -> tottenham"
   ],
   "titles": [
-    "after moving close to real madrid: paris issue an official statement regarding t",
     "psg want \u00a3145m for barcola - monday's gossip",
     "totally excessive: top club pulls out of race for diomande",
     "\ud83d\udea8 \ud83d\ude9c kjell scherpen has completed his medical at ipswich town today ahead of \u20ac10m",
@@ -1092,7 +1092,8 @@
     "epl: chelsea prepare welbeck medical ahead of transfer",
     "man utd learn chances of ollie watkins transfer as sale of \u00a336 5m flop unlocks n",
     "danny welbeck: numbers behind chelsea\u2019s chase for the proven target man",
-    "rt @fabrizioromano : \ud83d\udea8 bradley barcola wants to join liverpool and there\u2019s no do"
+    "rt @fabrizioromano : \ud83d\udea8 bradley barcola wants to join liverpool and there\u2019s no do",
+    "tottenham preparing \u20ac65 million move for barcelona defender \u2013 report - barca uni"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1284,6 +1285,7 @@
     "junior kroupi": "",
     "ebenezer akinsanmiro": "",
     "rayan": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Rayan_Brazil_V_Morocco_13_June_2026-142.jpg/330px-Rayan_Brazil_V_Morocco_13_June_2026-142.jpg",
-    "ollie watkins": "https://r2.thesportsdb.com/images/media/player/cutout/w6dir11756987347.png/small"
+    "ollie watkins": "https://r2.thesportsdb.com/images/media/player/cutout/w6dir11756987347.png/small",
+    "jules kounde": "https://r2.thesportsdb.com/images/media/player/cutout/qea88i1726509803.png/small"
   }
 }

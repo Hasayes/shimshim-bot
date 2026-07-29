@@ -1,10 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/63555",
-    "tg:FabrizioRomanoTG/63556",
-    "c058edbb685e95e3c7109b12919ec814",
-    "2271a84f5d159a86651e10adcd413bc7",
-    "4845074de2751a956c842146e4f2ed63",
     "d8389b73031c48e52559b4d115886f19",
     "b6957e9d725935031df5e8e05d7d52d5",
     "5a0a78322b07a8fc5164aa80e76d92cd",
@@ -499,7 +494,12 @@
     "tg:FabrizioRomanoTG/63778",
     "621fbfd0e1fb9e54cdf83d7f03f690a3",
     "1a48355cea085b26ee5d8336920f4115",
-    "cf8569c1f0f40b9fd2571dca4ad48b97"
+    "cf8569c1f0f40b9fd2571dca4ad48b97",
+    "5d751680fef295b3be567303cc14fe7d",
+    "aa0af63866dd1888e52e8606dd4eae1c",
+    "78316774dbf254f1f02228d5d96dde28",
+    "733e20c48a6ea754a469329c7f201a24",
+    "d453b3909a078cd02cde46c8e7ea577a"
   ],
   "deals": {
     "thompson -> arsenal": 3,
@@ -637,7 +637,7 @@
     "arokodare -> ajax": 3,
     "trafford -> leeds united": 3,
     "jorgensen -> rc strasbourg": 1,
-    "welbeck -> chelsea": 1,
+    "welbeck -> chelsea": 2,
     "fitz-jim -> torino": 1,
     "muani -> juventus": 1,
     "henderson -> chelsea": 1,
@@ -788,14 +788,11 @@
     "interest: palacios -> real madrid",
     "interest: alajbegovic -> juventus",
     "interest: kane -> bayern munich",
-    "interest: kroupi -> tottenham"
+    "interest: kroupi -> tottenham",
+    "interest: rayan -> liverpool",
+    "interest: watkins -> manchester united"
   ],
   "titles": [
-    "arsenal to let winger join liverpool, deal could move fast",
-    "liverpool forward wants \u2018fresh start\u2019 as casualty of barcola pursuit revealed",
-    "\ud83d\udea8 \ud83c\uddee\ud83c\uddf9 official: andrea pirlo appointment as new italian national team head coach ",
-    "\ud83d\udea8 \ud83d\udfe1 \u26ab\ufe0f borussia dortmund are set for direct meeting with genk today to try advan",
-    "fabrizio romano confirms another superstar wants to join liverpool",
     "john stones: juventus make initial contact for ex-manchester city player",
     "\ud83d\udea8 \ud83d\udfe1 \ud83d\udd34 as roma agree deal to sign santiago castro as new striker, here we go! dea",
     "after moving close to real madrid: paris issue an official statement regarding t",
@@ -1090,7 +1087,12 @@
     "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 alejandro balde on links with an exit this summer: \u201ci am not leaving barca",
     "galatasaray, fenerbahce locked in intense race for rafael leao",
     "romano has good news for liverpool about signing barcola as fsg plan record-brea",
-    "transfer: welbeck set to undergo chelsea medicals"
+    "transfer: welbeck set to undergo chelsea medicals",
+    "liverpool and arsenal transfer target asks to leave current club in summer trans",
+    "napoli target benoit badiashile in potential \u20ac30m transfer from chelsea",
+    "liverpool eye dream alternative to barcola as personal terms agreement is reject",
+    "epl: chelsea prepare welbeck medical ahead of transfer",
+    "man utd learn chances of ollie watkins transfer as sale of \u00a336 5m flop unlocks n"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1280,6 +1282,8 @@
     "kerem alajbegovic": "",
     "harry kane": "https://r2.thesportsdb.com/images/media/player/cutout/j4ouvd1756408895.png/small",
     "junior kroupi": "",
-    "ebenezer akinsanmiro": ""
+    "ebenezer akinsanmiro": "",
+    "rayan": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Rayan_Brazil_V_Morocco_13_June_2026-142.jpg/330px-Rayan_Brazil_V_Morocco_13_June_2026-142.jpg",
+    "ollie watkins": "https://r2.thesportsdb.com/images/media/player/cutout/w6dir11756987347.png/small"
   }
 }

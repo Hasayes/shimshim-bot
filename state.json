@@ -1,8 +1,5 @@
 {
   "sent": [
-    "91531626dac66cff7dea2dbef77ba439",
-    "tg:FabrizioRomanoTG/63630",
-    "c59e05d5127db0b137f000584dea5707",
     "55cbcea7176b598c71f13aa8207aa7a5",
     "tg:FabrizioRomanoTG/63631",
     "435ceda4213366e8fdf02176fa4415e0",
@@ -499,7 +496,10 @@
     "6d5a1cd1676af79e37ce87e737c6b4d1",
     "tg:FabrizioRomanoTG/63809",
     "tg:FabrizioRomanoTG/63810",
-    "d83098d32c5ac895fcd71d945ec06c0b"
+    "d83098d32c5ac895fcd71d945ec06c0b",
+    "tg:FabrizioRomanoTG/63811",
+    "tg:FabrizioRomanoTG/63812",
+    "tg:FabrizioRomanoTG/63813"
   ],
   "deals": {
     "thompson -> arsenal": 3,
@@ -642,7 +642,8 @@
     "muani -> juventus": 1,
     "henderson -> chelsea": 1,
     "alajbegovic -> juventus": 1,
-    "akinsanmiro -> monza": 3
+    "akinsanmiro -> monza": 3,
+    "koulierakis -> as roma": 1
   },
   "interest": [
     "interest: alvarez -> arsenal",
@@ -802,9 +803,6 @@
     "interest: torres -> psg"
   ],
   "titles": [
-    "man city 'now poised to sell savinho to tottenham' and boost enzo maresca\u2019s tran",
-    "liverpool to hold talks to sign psg winger bradley barcola",
-    "man utd eye everton forward iliman ndiaye in summer transfer window",
     "sky sports: chelsea preparing to submit new bid to sign alex scott",
     "real madrid sign yan diomande after psg pull out of race",
     "real madrid sets massive price for vinicius jr amid arsenal interest",
@@ -1101,7 +1099,10 @@
     "manchester city target marseille goalkeeper gera3nimo rulli",
     "\ud83d\udea8 \ud83c\udde6\ud83c\uddf7 franco mastantuono, still expected to go out on loan with fiorentina and as",
     "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f kerim alajbegovic to juventus, here we go! deal in place between all par",
-    "fabrizio romano squashes 27yo barcelona star to tottenham rumors: \u2018no interest, "
+    "fabrizio romano squashes 27yo barcelona star to tottenham rumors: \u2018no interest, ",
+    "\ud83d\udea8 \ud83d\udfe1 \ud83d\udd34 konstantinos koulierakis to as roma, here we go! agreement in place with w",
+    "\ud83d\udea8 \ud83d\udd35 official, confirmed maxence lacroix joins chelsea on \u00a352m deal from crystal ",
+    "\ud83d\udd35 \ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udffc maxence lacroix: \u201chere at chelsea we want to win\u201d \u201ci am really happy to "
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1300,6 +1301,7 @@
     "cody gakpo": "https://r2.thesportsdb.com/images/media/player/cutout/lwkl5n1757088091.png/small",
     "renato veiga": "https://r2.thesportsdb.com/images/media/player/cutout/rxefp81762889381.png/small",
     "leon goretzka": "https://r2.thesportsdb.com/images/media/player/cutout/hnokj01756409111.png/small",
-    "luis diaz": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/FC_RB_Salzburg_gegen_FC_Bayern_M%C3%BCnchen_%282026-01-06_Testspiel%29_40_%28Luiz_D%C3%ADaz%29.jpg/330px-FC_RB_Salzburg_gegen_FC_Bayern_M%C3%BCnchen_%282026-01-06_Testspiel%29_40_%28Luiz_D%C3%ADaz%29.jpg"
+    "luis diaz": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/FC_RB_Salzburg_gegen_FC_Bayern_M%C3%BCnchen_%282026-01-06_Testspiel%29_40_%28Luiz_D%C3%ADaz%29.jpg/330px-FC_RB_Salzburg_gegen_FC_Bayern_M%C3%BCnchen_%282026-01-06_Testspiel%29_40_%28Luiz_D%C3%ADaz%29.jpg",
+    "konstantinos koulierakis": "https://r2.thesportsdb.com/images/media/player/cutout/h9a8ov1763669363.png/small"
   }
 }

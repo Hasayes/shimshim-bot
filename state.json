@@ -1,7 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/63615",
-    "9d8e51b18bfba29a55cd3e257b6e5b04",
     "08e3f9cd23f1e14ba538fe0d39fed230",
     "tg:FabrizioRomanoTG/63617",
     "tg:FabrizioRomanoTG/63618",
@@ -499,7 +497,9 @@
     "f357fc2b9d8d9fc09c1145f163af259f",
     "287419022e8740edc5bc8bbf75a4b849",
     "173fe3fa05b66a7d97ce60398be489de",
-    "tg:FabrizioRomanoTG/63792"
+    "tg:FabrizioRomanoTG/63792",
+    "ceb132e429db1334b38fae8320a475ba",
+    "961eafb67408c46fd8dfb6b3011c246b"
   ],
   "deals": {
     "thompson -> arsenal": 3,
@@ -797,11 +797,10 @@
     "interest: gakpo -> tottenham",
     "interest: barcola -> chelsea",
     "interest: veiga -> real madrid",
-    "interest: goretzka -> barcelona"
+    "interest: goretzka -> barcelona",
+    "interest: diaz -> tottenham"
   ],
   "titles": [
-    "noussair mazraoui signs with new agency, joining anthony elanga and teden mengi",
-    "major blow to man united as al hilal open talks to sign premier league winger",
     "furious sky rival at war with transfer guru fabrizio romano \u2013 'deleting false he",
     "cardiff city exit imminent as midfielder has medical at premier league giants",
     "nottingham forest handed transfer 'green light' amid third bid for \u00a321m-rated ac",
@@ -1099,7 +1098,9 @@
     "a german star offers his services to barcelona: flick is the key",
     "chelsea striker signing hijacked \u2013 \u2018deal done\u2019 and \u2018race won\u2019",
     "manchester city negotiates with ayyoub bouaddi from lille to replace rodri for r",
-    "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 excl: paris saint-germain and as monaco reach breakthrough in talks for ma"
+    "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 excl: paris saint-germain and as monaco reach breakthrough in talks for ma",
+    "romano: tottenham eyeing move to sign liverpool star gakpo alongside savinho",
+    "alongside savinho: tottenham eyeing move to sign \u00a3250,000-a-week liverpool star "
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1297,6 +1298,7 @@
     "rodri hernandez": "",
     "cody gakpo": "https://r2.thesportsdb.com/images/media/player/cutout/lwkl5n1757088091.png/small",
     "renato veiga": "https://r2.thesportsdb.com/images/media/player/cutout/rxefp81762889381.png/small",
-    "leon goretzka": "https://r2.thesportsdb.com/images/media/player/cutout/hnokj01756409111.png/small"
+    "leon goretzka": "https://r2.thesportsdb.com/images/media/player/cutout/hnokj01756409111.png/small",
+    "luis diaz": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/FC_RB_Salzburg_gegen_FC_Bayern_M%C3%BCnchen_%282026-01-06_Testspiel%29_40_%28Luiz_D%C3%ADaz%29.jpg/330px-FC_RB_Salzburg_gegen_FC_Bayern_M%C3%BCnchen_%282026-01-06_Testspiel%29_40_%28Luiz_D%C3%ADaz%29.jpg"
   }
 }

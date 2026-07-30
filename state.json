@@ -1,8 +1,5 @@
 {
   "sent": [
-    "57337c67d88edc3c07f9c3905f827c23",
-    "ab4849f3cd8c0d83f1beed33f78d24c8",
-    "1ea2600c6195be78261701c076e2ddbc",
     "3bc04c45878fb9dd7c2d99b7803c5678",
     "fb8110d022d569595980a614fc10a3dd",
     "a25f19a0c4d02f70e2a3c60b6f8eb8ff",
@@ -499,7 +496,10 @@
     "864410c760ff82cc2ab0bca06fb939ea",
     "a9e88ad1a4e1651217e776f82f053d25",
     "31d553d396ed282465378c3127a16334",
-    "tg:FabrizioRomanoTG/63832"
+    "tg:FabrizioRomanoTG/63832",
+    "b287e478e27742801e07d918afd371a1",
+    "66ce38d3211f81885a6baefe1522dc58",
+    "e01103bd7e37de24dfb704d5a7bd5e7e"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -806,9 +806,6 @@
     "interest: espi -> real madrid"
   ],
   "titles": [
-    "super eagles star tolu arokodare joins 4-time ucl winners",
-    "yan diomande back at rb leipzig as real madrid increase offer for ivory coast wi",
-    "chelsea pair removed from \u2018untouchable\u2019 list despite completing transfers just 1",
     "ipswich town transfer news: tractor boys closing in on high-profile goalkeeper s",
     "barcelona forced to change transfer plans as fabrizio romano reveals \u2018crucial\u2019 p",
     "new serie a join juventus in race to sign manchester united forward joshua zirkz",
@@ -1105,7 +1102,10 @@
     "\ud83d\udea8 \u26d4\ufe0f bayern\u2019s uli hoene\u00df: \u201creal madrid wanted olise? i laughed my head off\u201d \u201cthe",
     "roma submit \u20ac25 million offer for feynoord\u2019s read",
     "did leon goretzka offer himself to fc barcelona?",
-    "\ud83d\udea8 \ud83d\udca3 breaking: real madrid sign carlos espi as new striker, here we go! \ud83d\udca5 \u20ac25m re"
+    "\ud83d\udea8 \ud83d\udca3 breaking: real madrid sign carlos espi as new striker, here we go! \ud83d\udca5 \u20ac25m re",
+    "liverpool have major advantage to exploit in bradley barcola transfer talks",
+    "psg near agreement with monaco to secure maghnes akliouche signing",
+    "psg close in on maghnes akliouche transfer despite rejected approaches"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1275,7 +1275,6 @@
     "cesar palacios": "https://images.fotmob.com/image_resources/playerimages/1403691.png",
     "gonzalo garcia": "https://images.fotmob.com/image_resources/playerimages/1413847.png",
     "ferran torres": "https://r2.thesportsdb.com/images/media/player/cutout/feey201726510461.png/small",
-    "rodri hernandez": "",
     "danny welbeck": "https://r2.thesportsdb.com/images/media/player/cutout/lfaen21756998493.png/small",
     "ebenezer akinsanmiro": "https://images.fotmob.com/image_resources/playerimages/1481909.png",
     "filip jorgensen": "https://r2.thesportsdb.com/images/media/player/cutout/t23n5c1757003654.png/small",
@@ -1308,9 +1307,10 @@
     "mishel nduka": "",
     "samuel martinez": "",
     "ibrahima ba": "",
-    "cristian orozco": ""
+    "cristian orozco": "",
+    "rodri hernandez": ""
   },
-  "photo_repair_idx": 15,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

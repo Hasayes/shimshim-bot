@@ -734,6 +734,54 @@ def _wikipedia_photo(player, clubs_text):
     return ""
 
 
+def _fotmob_photo(player, clubs_text):
+    """Third-chance lookup: FotMob covers academy/youth players the other
+    sources miss. Same discipline: the suggestion's team (with U18/U21/U23
+    suffixes stripped) must match one of the card's clubs, and the name
+    must match first+last — otherwise no photo.
+    """
+    name_parts = _norm(player).split()
+    if not name_parts:
+        return ""
+    surname, first = name_parts[-1], name_parts[0] if len(name_parts) > 1 else ""
+    want_canon = {_norm_club(c) for c in clubs_text.split("|") if c.strip()}
+    want_words = {w for w in _norm(clubs_text.replace("|", " ")).split() if len(w) > 3}
+    try:
+        data = _get_json(
+            "https://apigw.fotmob.com/searchapi/suggest?lang=en&term="
+            + urllib.parse.quote(player)
+        )
+        for group in data.get("squadMemberSuggest") or []:
+            for opt in group.get("options") or []:
+                payload = opt.get("payload") or {}
+                if payload.get("isCoach"):
+                    continue
+                text = _norm((opt.get("text") or "").split("|")[0])
+                if surname not in text or (first and first not in text):
+                    continue
+                team = re.sub(r"\s+u\d{2}$", "", _norm(payload.get("teamName") or ""))
+                if not team:
+                    continue
+                if _norm_club(team) not in want_canon and \
+                        not any(w in want_words for w in team.split() if len(w) > 3):
+                    continue
+                pid = payload.get("id")
+                if not pid:
+                    continue
+                url = f"https://images.fotmob.com/image_resources/playerimages/{pid}.png"
+                req = urllib.request.Request(url, method="HEAD",
+                                             headers={"User-Agent": "shimshim-bot/1.0"})
+                try:
+                    with urllib.request.urlopen(req, timeout=15) as resp:
+                        if resp.status == 200:
+                            return url
+                except Exception:  # noqa: BLE001
+                    continue
+    except Exception as e:  # noqa: BLE001
+        print(f"fotmob photo lookup failed for {player}: {e}", file=sys.stderr)
+    return ""
+
+
 def lookup_player_photo(player, clubs_text, state):
     """Best-effort player photo from TheSportsDB (free tier).
 
@@ -777,6 +825,8 @@ def lookup_player_photo(player, clubs_text, state):
             photo = pic + "/small" if pic else ""
         if not photo:
             photo = _wikipedia_photo(player, clubs_text)
+        if not photo:
+            photo = _fotmob_photo(player, clubs_text)
     except Exception as e:  # noqa: BLE001 — photos are decoration, never fatal
         print(f"photo lookup failed for {player}: {e}", file=sys.stderr)
         return ""  # transient failure (e.g. rate limit) — do NOT cache as a miss
@@ -992,6 +1042,35 @@ def send_web_push(article, brief, state, subs):
                 print(f"push re-pair alert failed: {te}", file=sys.stderr)
 
 
+def repair_one_photo(state):
+    """Each poll, retry the photo lookup for one recent photo-less card.
+
+    Youth players get photos as they break through; cached misses would
+    otherwise freeze the crest fallback forever. One per run keeps it free.
+    """
+    try:
+        feed = json.loads(FEED_FILE.read_text())
+    except Exception:  # noqa: BLE001
+        return
+    cutoff = (datetime.now(timezone.utc).timestamp() - 14 * 86400)
+    todo = [i for i in feed
+            if not i.get("photo") and i.get("player", "").strip() not in ("", "—")
+            and datetime.fromisoformat(i["ts"]).timestamp() > cutoff]
+    if not todo:
+        return
+    idx = state.get("photo_repair_idx", 0) % len(todo)
+    state["photo_repair_idx"] = idx + 1
+    card = todo[idx]
+    state.setdefault("photos", {}).pop(_norm(card["player"]), None)  # allow retry
+    photo = lookup_player_photo(card["player"], f"{card['from_club']}|{card['to_club']}", state)
+    if photo:
+        for i in feed:
+            if i["player"] == card["player"] and not i.get("photo"):
+                i["photo"] = photo
+        FEED_FILE.write_text(json.dumps(feed, indent=1))
+        print(f"photo repaired: {card['player']}")
+
+
 def main():
     state = load_state()
     subs = load_push_subs()
@@ -1167,6 +1246,7 @@ def main():
               f"{brief.from_club} -> {brief.to_club}")
 
     if not DRY_RUN:
+        repair_one_photo(state)
         save_state(state)
     print(f"done. {sent_count} briefing(s) sent, {len(articles)} scanned."
           + (" [dry run]" if DRY_RUN else ""))

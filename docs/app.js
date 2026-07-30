@@ -81,9 +81,14 @@ const CLUB_CRESTS = {
   "Borussia Dortmund": 4, "PSG": 524, "Juventus": 109, "Inter": 108,
   "AC Milan": 98, "Napoli": 113,
 };
+let dynamicCrests = {};  // published by the bot: any club seen in the feed
+const crestKey = (club) =>
+  canonClub(club).normalize("NFD").replace(/\p{Diacritic}/gu, "").toLowerCase();
+
 function crestURL(club) {
   const id = CLUB_CRESTS[canonClub(club)];
-  return id ? `https://crests.football-data.org/${id}.png` : "";
+  if (id) return `https://crests.football-data.org/${id}.png`;
+  return dynamicCrests[crestKey(club)] || "";
 }
 
 function cardAvatarHTML(i, mainClub, color) {
@@ -107,9 +112,9 @@ function avatarHTML(club) {
     for (const ch of canon) h = (h * 31 + ch.charCodeAt(0)) >>> 0;
     color = PALETTE[h % PALETTE.length];
   }
-  const crest = CLUB_CRESTS[canon];
+  const crest = crestURL(club);
   const img = crest
-    ? `<img src="https://crests.football-data.org/${crest}.png" alt="" loading="lazy" onerror="this.remove()">`
+    ? `<img src="${crest}" alt="" loading="lazy" onerror="this.remove()">`
     : "";
   return `<div class="ava" style="background:${color}"><span>${esc(ini)}</span>${img}</div>`;
 }
@@ -188,6 +193,10 @@ async function loadFeed() {
   try {
     // unique query defeats the Pages CDN cache — cards show as soon as
     // the bot commits them
+    try {
+      const cr = await fetch(`crests.json?t=${Date.now()}`, { cache: "no-cache" });
+      if (cr.ok) dynamicCrests = await cr.json();
+    } catch { /* badges are decoration */ }
     const r = await fetch(`feed.json?t=${Date.now()}`, { cache: "no-cache" });
     feed = await r.json();
     // last-resort shield: never render a structurally broken card
@@ -371,4 +380,4 @@ loadFeed().then(() => {
   else if (location.hash.startsWith("#club=")) openClub(decodeURIComponent(location.hash.slice(6)));
 });
 setInterval(loadFeed, 5 * 60 * 1000);
-$("#version").textContent = "ShimShim v3.5";
+$("#version").textContent = "ShimShim v3.6";

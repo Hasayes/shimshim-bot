@@ -1,8 +1,5 @@
 {
   "sent": [
-    "a7314c73572d4a683a64c8c31992aa4e",
-    "8f73055167114f6ddf592936e4f569d3",
-    "f043105373ac1a5b1a308380a7f98d06",
     "18851bb286283a8982d8147833a92f8b",
     "tg:FabrizioRomanoTG/63640",
     "594d8b5987b0cf3d74fc974cc121dcca",
@@ -499,7 +496,10 @@
     "tg:FabrizioRomanoTG/63799",
     "tg:FabrizioRomanoTG/63800",
     "6f7f48bc7d43297f4e6368e338dc0735",
-    "tg:FabrizioRomanoTG/63829"
+    "tg:FabrizioRomanoTG/63829",
+    "2c5320bd1a39cbc1bf9185b9b640c0fd",
+    "tg:FabrizioRomanoTG/63830",
+    "tg:FabrizioRomanoTG/63831"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -805,9 +805,6 @@
     "interest: espi -> real madrid"
   ],
   "titles": [
-    "ajax set to sign tolu arokodare on loan from wolves",
-    "inter and juventus working on john stones deal after chelsea and arsenal interes",
-    "real madrid target trains with current club even as \u20ac115 million move nears \u2013 re",
     "fulham transfer news: cottagers to 'approach' real madrid over garcia deal with ",
     "romano: barcelona open talks to sign tottenham target junior kroupi",
     "romano, plettenberg clash over diomande-to-real madrid transfer amid conflicting",
@@ -1104,7 +1101,10 @@
     "\ud83d\udea8 \ud83d\udca3 exclusive: eddie howe set to part ways with newcastle with immediate effect ",
     "\ud83d\udea8 \ud83d\udca3 exclusive: matthias jaissle, top candidate and in advanced talks to become n",
     "psg reach breakthrough with monaco in maghnes akliouche talks",
-    "\ud83d\udea8 \u26aa\ufe0f real madrid have asked carlos espi today to wait before signing with premie"
+    "\ud83d\udea8 \u26aa\ufe0f real madrid have asked carlos espi today to wait before signing with premie",
+    "manchester city line up 34 year old geronimo rulli as experienced cover with tra",
+    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f bayern\u2019s uli hoene\u00df on harry kane contract talks: \u201ci haven't spoken direc",
+    "\ud83d\udea8 \u26d4\ufe0f bayern\u2019s uli hoene\u00df: \u201creal madrid wanted olise? i laughed my head off\u201d \u201cthe"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1280,7 +1280,6 @@
     "filip jorgensen": "https://r2.thesportsdb.com/images/media/player/cutout/t23n5c1757003654.png/small",
     "ismael bennacer": "https://images.fotmob.com/image_resources/playerimages/609624.png",
     "sankhoun diawara": "https://images.fotmob.com/image_resources/playerimages/1669433.png",
-    "mishel nduka": "",
     "will lankshear": "https://r2.thesportsdb.com/images/media/player/cutout/bpp6ur1778011312.png/small",
     "jesse bisiwu": "https://images.fotmob.com/image_resources/playerimages/1656591.png",
     "tynan thompson": "https://images.fotmob.com/image_resources/playerimages/1681978.png",
@@ -1307,9 +1306,10 @@
     "victor froholdt": "",
     "kyle healy": "",
     "carlos espi": "https://images.fotmob.com/image_resources/playerimages/1610744.png",
-    "benji flowers": ""
+    "benji flowers": "",
+    "mishel nduka": ""
   },
-  "photo_repair_idx": 10,
+  "photo_repair_idx": 11,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

@@ -1,0 +1,46 @@
+name: regression-test (temporary)
+
+on:
+  workflow_dispatch: {}
+
+jobs:
+  regression:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - name: "Regression: opinion and vague links are not rumours"
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          python - <<'PYEOF'
+          import anthropic
+          from shimshim_bot import classify_article
+
+          client = anthropic.Anthropic()
+          cases = [
+              ({"title": "Paul Merson urges Arsenal to sign Victor Osimhen this summer",
+                "desc": "Pundit Paul Merson says Arsenal should make a statement and sign the striker. 'He'd be perfect for them', Merson told Sky Sports.",
+                "source": "Sky Sports"}, "none", "pundit opinion"),
+              ({"title": "Five strikers Chelsea could target after Jackson exit talk",
+                "desc": "We look at five names Chelsea could consider up front, including Benjamin Sesko and Dusan Vlahovic.",
+                "source": "GiveMeSport"}, "none", "listicle speculation"),
+              ({"title": "Ekitike keen on a move to the Premier League, says agent",
+                "desc": "The striker's agent says his client dreams of playing in England one day. No clubs are reported to be in talks.",
+                "source": "TEAMtalk"}, "none", "player/agent wish, no club action"),
+              ({"title": "Romano: Manchester United open talks with Palmeiras over Estevao clause",
+                "desc": "Fabrizio Romano reports Manchester United have made direct contact with Palmeiras and the player's camp over a summer move, with a bid being prepared.",
+                "source": "Fabrizio Romano"}, "interest", "reported concrete step"),
+          ]
+          fails = 0
+          for article, want, label in cases:
+              b = classify_article(client, article)
+              ok = (b.kind == want)
+              print(("OK  " if ok else "FAIL"), label, "->", b.kind, "|", b.player, "|", b.to_club)
+              fails += not ok
+          assert fails == 0, f"{fails} case(s) misclassified"
+          print("PASS: rumour bar holds")
+          PYEOF

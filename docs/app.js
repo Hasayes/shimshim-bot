@@ -190,6 +190,7 @@ document.addEventListener("click", (e) => {
 
 // ---------- feed ----------
 async function loadFeed() {
+  if (liveFeed !== null) return;  // viewing an archive — don't clobber it
   try {
     // unique query defeats the Pages CDN cache — cards show as soon as
     // the bot commits them
@@ -350,8 +351,56 @@ async function checkPushHealth() {
   } catch { /* diagnostics must never break the app */ }
 }
 
+// ---------- archive browser ----------
+let liveFeed = null;  // stash of the live feed while viewing an archive
+
+async function loadArchiveIndex() {
+  try {
+    const r = await fetch(`archive/index.json?t=${Date.now()}`, { cache: "no-cache" });
+    if (!r.ok) return;
+    const idx = await r.json();
+    if (!idx.windows || !idx.windows.length) return;
+    $("#archive-list").innerHTML = idx.windows.map((w) => {
+      const [y, season] = w.id.split("-");
+      const label = `${season === "summer" ? "☀️ Summer" : "❄️ Winter"} ${y}`;
+      return `<div class="player-row" data-window="${esc(w.id)}">
+        <div class="grow"><div class="n">${label}</div>
+        <div class="sub">${w.cards} card${w.cards === 1 ? "" : "s"}</div></div>
+        <div class="chev">›</div></div>`;
+    }).join("");
+    $("#archive-list").querySelectorAll(".player-row").forEach((el) =>
+      el.addEventListener("click", () => openArchive(el.dataset.window))
+    );
+  } catch { /* archive is optional */ }
+}
+
+async function openArchive(windowId) {
+  try {
+    const r = await fetch(`archive/${windowId}.json?t=${Date.now()}`, { cache: "no-cache" });
+    if (!r.ok) return;
+    if (liveFeed === null) liveFeed = feed;
+    feed = await r.json();
+    const [y, season] = windowId.split("-");
+    $("#feed-banner").innerHTML =
+      `Viewing the ${season} ${y} archive · <a href="#" id="back-live">back to live</a>`;
+    $("#feed-banner").hidden = false;
+    $("#back-live").addEventListener("click", (e) => {
+      e.preventDefault();
+      feed = liveFeed;
+      liveFeed = null;
+      $("#feed-banner").hidden = true;
+      renderFeed();
+    });
+    document.querySelector('nav button[data-tab="feed"]').click();
+    feedStage = "";
+    renderFeedChips();
+    renderFeed();
+  } catch { /* stay on live */ }
+}
+
 // ---------- boot ----------
 renderFeedChips();
+loadArchiveIndex();
 let swReg = null;
 if ("serviceWorker" in navigator) {
   navigator.serviceWorker.register("sw.js").then((reg) => { swReg = reg; });
@@ -380,4 +429,4 @@ loadFeed().then(() => {
   else if (location.hash.startsWith("#club=")) openClub(decodeURIComponent(location.hash.slice(6)));
 });
 setInterval(loadFeed, 5 * 60 * 1000);
-$("#version").textContent = "ShimShim v3.6";
+$("#version").textContent = "ShimShim v3.7";

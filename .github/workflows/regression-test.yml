@@ -12,7 +12,7 @@ jobs:
         with:
           python-version: "3.12"
       - run: pip install -r requirements.txt
-      - name: Regression: rejected suitor must not become the seller
+      - name: "Regression: rejected suitor must not become the seller"
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: |

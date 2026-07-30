@@ -124,7 +124,7 @@ function dayLabel(ts) {
 
 function stageBadge(i) {
   if (i.kind === "interest") return '<span class="badge s-rumour">👀 Rumour</span>';
-  const map = { "Completed": ["s-completed", "✓ Completed"], "Here we go": ["s-herewego", "Here we go"], "Medical": ["s-medical", "Medical"] };
+  const map = { "Completed": ["s-completed", "✓ Confirmed"], "Here we go": ["s-herewego", "Here we go"] };
   const [cls, txt] = map[i.stage] || ["s-completed", "Deal"];
   return `<span class="badge ${cls}">${txt}</span>`;
 }
@@ -202,8 +202,7 @@ const STAGE_CHIPS = [
   ["", "All"],
   ["rumour", "👀 Rumours"],
   ["Here we go", "🚦 Here we go"],
-  ["Medical", "🩺 Medical"],
-  ["Completed", "✅ Completed"],
+  ["Completed", "✅ Confirmed"],
 ];
 let feedStage = "";
 
@@ -372,4 +371,4 @@ loadFeed().then(() => {
   else if (location.hash.startsWith("#club=")) openClub(decodeURIComponent(location.hash.slice(6)));
 });
 setInterval(loadFeed, 5 * 60 * 1000);
-$("#version").textContent = "ShimShim v3.4";
+$("#version").textContent = "ShimShim v3.5";

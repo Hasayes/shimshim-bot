@@ -184,7 +184,7 @@ class TransferBrief(BaseModel):
 
     kind: Literal["deal", "interest", "none"]  # deal = done/effectively done;
                        # interest = watched club pursuing a player; none = skip
-    stage: str         # "Here we go", "Medical" or "Completed" ("—" if not a deal)
+    stage: str         # "Here we go" or "Completed" ("—" if not a deal)
     player: str        # the player involved
     position: str      # playing position, e.g. "Right winger" (or "—")
     age: str           # age in years, e.g. "21" (or "—" if unknown)
@@ -218,8 +218,9 @@ CLASSIFY_SYSTEM = (
     "injuries, interest from non-watched clubs, or transfer-window chatter. "
     "ALSO kind='none' if the story looks like recycled OLD news — e.g. the "
     "player demonstrably left the stated club in an earlier season.\n"
-    "- stage: for kind='deal' — 'Here we go', 'Medical', or 'Completed'; "
-    "'—' otherwise.\n"
+    "- stage: for kind='deal' — 'Here we go' (agreed / here-we-go call / "
+    "medical booked, underway or passed) or 'Completed' (official, "
+    "announced, done); '—' otherwise.\n"
     "- Facts (clubs, fee, age, position): take them from the article text "
     "first; your background knowledge may be stale — when the article "
     "doesn't state a fact and you aren't confident, use '—' "
@@ -288,8 +289,8 @@ BRIEF_SYSTEM = (
     "injuries, interest from non-watched clubs, players only being offered "
     "or made available, or general transfer-window chatter.\n"
     "- stage: for kind='deal' the furthest stage the article supports — "
-    "'Here we go', 'Medical', or 'Completed' (use 'Completed' for "
-    "official/announced/done deals); '—' otherwise.\n"
+    "'Here we go' (agreed / here-we-go call / medical booked, underway or "
+    "passed) or 'Completed' (official/announced/done); '—' otherwise.\n"
     "- from_club: the club the player is leaving in this deal, per the "
     "research notes; '—' if unknown. "
     "to_club: the buying club; for kind='interest', the watched club(s) "
@@ -481,11 +482,11 @@ def interest_keys(brief):
 # A deal message is sent when its stage outranks what was already sent for
 # that deal — so here we go -> medical -> completed gives three messages,
 # but a late lower-stage article after a completed one is suppressed.
-STAGE_RANK = {"here we go": 1, "medical": 2, "completed": 3}
+STAGE_RANK = {"here we go": 1, "completed": 2}
 
 
 def stage_rank(brief):
-    return STAGE_RANK.get(_norm(brief.stage), 3)
+    return STAGE_RANK.get(_norm(brief.stage), 2)
 
 
 def is_relevant(article):
@@ -505,7 +506,7 @@ def _article_prompt(article):
     )
 
 
-VALID_STAGES = {"here we go", "medical", "completed"}
+VALID_STAGES = {"here we go", "completed"}
 
 
 def brief_problems(brief):
@@ -930,8 +931,6 @@ def send_web_push(article, brief, state, subs):
     if not subs or not pem_file:
         print("web push skipped: no subscriptions or VAPID_PEM_FILE not set", file=sys.stderr)
         return
-    if brief.kind == "deal" and _norm(brief.stage) == "medical":
-        return  # notify on rumours / here we go / completed; medicals are feed-only
     try:
         from pywebpush import webpush, WebPushException
     except ImportError:
@@ -940,7 +939,8 @@ def send_web_push(article, brief, state, subs):
     if brief.kind == "interest":
         title = f"👀 {brief.to_club} interested in {brief.player}"
     else:
-        title = f"⚽️ {brief.player} → {brief.to_club} · {brief.stage}"
+        shown = "Confirmed" if _norm(brief.stage) == "completed" else brief.stage
+        title = f"⚽️ {brief.player} → {brief.to_club} · {shown}"
     payload = json.dumps({
         "title": title,
         "body": " · ".join(x for x in (brief.fee, brief.source) if x.strip() not in ("", "—")),

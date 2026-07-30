@@ -1,6 +1,5 @@
 {
   "sent": [
-    "98cbd8c457699facaf99fa37ff191d59",
     "beb45e5b5f191665f67e6df9eaf05702",
     "5c9202e6d1b9c90688a0ae112793bd11",
     "tg:FabrizioRomanoTG/63637",
@@ -499,7 +498,8 @@
     "tg:FabrizioRomanoTG/63823",
     "tg:FabrizioRomanoTG/63825",
     "tg:FabrizioRomanoTG/63826",
-    "6610caa0b23cc179f3edd9c2958dbf30"
+    "6610caa0b23cc179f3edd9c2958dbf30",
+    "7fd3f0d2dcb2f0df4f7334501511b2f3"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -804,7 +804,6 @@
     "interest: torres -> psg"
   ],
   "titles": [
-    "who is bara sapoko ndiaye? meet the 18-year-old senegalese midfield prodigy who ",
     "interest intensifies as psg initiate talks with parma over juventus target zion ",
     "psg ask for details on 23 year old who could instantly upgrade first team in key",
     "chelsea eye brighton's welbeck in surprise summer transfer",
@@ -1103,7 +1102,8 @@
     "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f cesar palacios to fulham, here we go! deal agreed on both player and clu",
     "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f newcastle have reached a verbal agreement with matthias jaissle to becom",
     "\u26ab\ufe0f \ud83d\udd35 \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f john stones has signed his two year contract at inter https://t co/",
-    "de zerbi delivers \u2018honest\u2019 transfer message to tottenham star lucas bergvall \u2013 \u2018"
+    "de zerbi delivers \u2018honest\u2019 transfer message to tottenham star lucas bergvall \u2013 \u2018",
+    "barcelona not in talks with any club over the sale of psg-linked attacker \u2013 roma"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1277,7 +1277,6 @@
     "danny welbeck": "https://r2.thesportsdb.com/images/media/player/cutout/lfaen21756998493.png/small",
     "ebenezer akinsanmiro": "https://images.fotmob.com/image_resources/playerimages/1481909.png",
     "filip jorgensen": "https://r2.thesportsdb.com/images/media/player/cutout/t23n5c1757003654.png/small",
-    "mateo soule": "",
     "ousmane ndiaye": "",
     "martin": "",
     "axel donczew": "",
@@ -1305,9 +1304,10 @@
     "mario martin": "https://images.fotmob.com/image_resources/playerimages/1321605.png",
     "takato yamamoto": "",
     "junior kroupi": "",
-    "kerem alajbegovic": ""
+    "kerem alajbegovic": "",
+    "mateo soule": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

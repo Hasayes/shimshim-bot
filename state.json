@@ -1,11 +1,5 @@
 {
   "sent": [
-    "e7bc5d076736952ca3856cd6db856938",
-    "8adb70a4999adcbb1412b0d1f76d4b10",
-    "tg:FabrizioRomanoTG/63638",
-    "1dca3ac2c31ed92feabfd090c692e129",
-    "f8735ea8c9efb9c302f9ee3b1719882e",
-    "84c9ca60ecca114b34897d60b4a3c342",
     "38d24f285ae8702108cbb6ca8b7708f6",
     "6a68e755c474c3f5e8e6ac5ad9939e3f",
     "a7314c73572d4a683a64c8c31992aa4e",
@@ -499,7 +493,13 @@
     "e140f0d4e3604a2bff89cde35035008d",
     "962b185ecb734ee7b232d5294a37c702",
     "5281e069f36203189aad5f2cea13e43c",
-    "be726b768ab318cfa55dfc8119889ee1"
+    "be726b768ab318cfa55dfc8119889ee1",
+    "5182e9801dbc483007def30e1299efa7",
+    "3181db328181622adc0f0316324edca1",
+    "91a816efba5e94d398df68725de2e597",
+    "tg:FabrizioRomanoTG/63773",
+    "tg:FabrizioRomanoTG/63799",
+    "tg:FabrizioRomanoTG/63800"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -804,11 +804,6 @@
     "interest: torres -> psg"
   ],
   "titles": [
-    "nick woltemade to stay put for now amid silly season craziness",
-    "why ajax signed tolu arokodare: super eagles striker gets fresh start after wolv",
-    "chelsea eyeing shock transfer move for ex-arsenal and man utd forward",
-    "liverpool eye everton star as barcola alternative as target \u2018wants to join\u2019 anot",
-    "transfer updates: barcola, vinicius, guimaraes, ndiaye, zirkzee, salah, others",
     "andrea pirlo out of running for italy coach job due to russian betting links",
     "chelsea linked with brighton striker danny welbeck",
     "ajax set to sign tolu arokodare on loan from wolves",
@@ -1103,7 +1098,12 @@
     "barcelona not in talks with any club over the sale of psg-linked attacker \u2013 roma",
     "fabrizio romano confirms sensational star now wants to join liverpool",
     "man city want geronimo rulli to replace leeds-bound james trafford",
-    "barcelona still waiting out for top attacking target despite exploring other opt"
+    "barcelona still waiting out for top attacking target despite exploring other opt",
+    "real sociedad hold talks to sign west ham star edson alvarez",
+    "liverpool transfer news: man city dithering opens door to \u00a360m forward deal as f",
+    "\ud83d\udea8 \ud83c\uddf8\ud83c\udde6 al hilal are in talks to sign iliman ndiaye as exclusively revealed on mond",
+    "\ud83d\udea8 \ud83d\udca3 exclusive: eddie howe set to part ways with newcastle with immediate effect ",
+    "\ud83d\udea8 \ud83d\udca3 exclusive: matthias jaissle, top candidate and in advanced talks to become n"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1278,7 +1278,6 @@
     "ebenezer akinsanmiro": "https://images.fotmob.com/image_resources/playerimages/1481909.png",
     "filip jorgensen": "https://r2.thesportsdb.com/images/media/player/cutout/t23n5c1757003654.png/small",
     "ismael bennacer": "https://images.fotmob.com/image_resources/playerimages/609624.png",
-    "victor froholdt": "",
     "sankhoun diawara": "https://images.fotmob.com/image_resources/playerimages/1669433.png",
     "kyle healy": "",
     "benji flowers": "",
@@ -1305,9 +1304,10 @@
     "mateo soule": "",
     "ousmane ndiaye": "",
     "martin": "",
-    "axel donczew": ""
+    "axel donczew": "",
+    "victor froholdt": ""
   },
-  "photo_repair_idx": 7,
+  "photo_repair_idx": 8,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

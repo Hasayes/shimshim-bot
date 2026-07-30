@@ -1,5 +1,24 @@
 [
  {
+  "id": "0b8c5aefdb2bc27703b3d1e0b9e26fda",
+  "ts": "2026-07-30T00:15:30+00:00",
+  "kind": "interest",
+  "photo": "",
+  "stage": "\u2014",
+  "player": "Rodri Hern\u00e1ndez",
+  "position": "Midfielder",
+  "age": "\u2014",
+  "from_club": "Manchester City",
+  "to_club": "Real Madrid",
+  "fee": "\u20ac50 million+",
+  "style": "Press-resistant ball carrier with excellent range of passing and positional intelligence; controls tempo from deep.",
+  "fit": "Real Madrid need a dominant, press-proof midfielder to anchor their midfield and transition play at the highest level.",
+  "source": "Fabrizio Romano",
+  "outlet": "yahoo",
+  "url": "https://sports.yahoo.com/articles/real-madrid-first-approach-manchester-103717858.html",
+  "title": "Real Madrid make first approach to Manchester City for Rodri -report"
+ },
+ {
   "id": "tg:FabrizioRomanoTG/63782",
   "ts": "2026-07-29T21:00:49+00:00",
   "kind": "interest",

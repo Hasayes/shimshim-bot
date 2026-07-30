@@ -1,13 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/63581",
-    "tg:FabrizioRomanoTG/63584",
-    "tg:FabrizioRomanoTG/63585",
-    "tg:FabrizioRomanoTG/63586",
-    "acbc25b82fdd2e3dea14458f76576c6e",
-    "f7dad04f02b40ff55be49ef9d3092d50",
-    "c54600edaadaa798924a8d80bfc12d84",
-    "5fb66918edf2715d01cc876ffef0a9dd",
     "686ead8d0e4b7a34e561952cef37f346",
     "26fac9c3d4ed6dec4c0695f9f1e3fae6",
     "ca56a056425a49246a92f00d636843f2",
@@ -499,7 +491,15 @@
     "c6d6bf23881b6cd91b41c411f44e0280",
     "c2d8b39592e03dba58ebb294e9d5b41d",
     "6b4182a64ffbc7357bbef95783a5e29a",
-    "tg:FabrizioRomanoTG/63784"
+    "tg:FabrizioRomanoTG/63784",
+    "0b8c5aefdb2bc27703b3d1e0b9e26fda",
+    "07b0bd7be7b6b988e582ca172e48f666",
+    "480314572857e714fad6ef8905fcff1c",
+    "3194249a6bd9a29727c3043ff62b8588",
+    "18e5e4b582c3ea6cfc19d7763f6c12e3",
+    "4ca491f5361188a99d02b3c7224a52c0",
+    "20d624b4ca31cdda64780144da2245a5",
+    "f9e09d445067a55fe59e0985c605b33f"
   ],
   "deals": {
     "thompson -> arsenal": 3,
@@ -792,17 +792,10 @@
     "interest: rayan -> liverpool",
     "interest: watkins -> manchester united",
     "interest: kounde -> tottenham",
-    "interest: rulli -> manchester city"
+    "interest: rulli -> manchester city",
+    "interest: hernandez -> real madrid"
   ],
   "titles": [
-    "\ud83d\udd34 \u26ab\ufe0f \u2708\ufe0f sankhoun diawara, set to fly to milano this week for medical at ac milan",
-    "yan diomande set for real madrid switch as \u20ac120m deal nears completion following",
-    "man utd news: manu kone agreement reached as player requests old trafford move",
-    "real madrid lead race for yan diomande amid public feud between top transfer jou",
-    "\u26aa\ufe0f \u26ab\ufe0f \u270d\ud83c\udffc harvey barnes has signed new deal at newcastle today, agreement complet",
-    "@ale1712096 @ga7_official grazie ragazzi, qualcuno per fortuna ci arriva \ud83d\ude03 un ab",
-    "man united latest: manu kone strikes 'agreement' as target requests transfer",
-    "\ud83d\udea8 \ud83c\udde8\ud83c\uddf4 excl: como open talks for jhon lucumi as new target at centre back as colom",
     "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f as monaco agree deal to sign matthis abline from nantes, here we go! deal",
     "manchester city are facing frustration in their hunt for a winger, but that coul",
     "rt @fabrizioromano : \ud83d\udea8 \u26ab\ufe0f \ud83d\udd35 understand inter are set to discuss a two year deal ",
@@ -1094,7 +1087,15 @@
     "romano issues update on \u2018top priority\u2019 for tottenham as winger is keen on a move",
     "tottenham in talks with two huge clubs over star\u2019s sale as international superst",
     "six vinicius jr transfer alternatives arsenal could get if he signs new real mad",
-    "rt @fabrizioromano : \ud83d\udea8 \u26aa\ufe0f real madrid have approached manchester city for rodri "
+    "rt @fabrizioromano : \ud83d\udea8 \u26aa\ufe0f real madrid have approached manchester city for rodri ",
+    "real madrid make first approach to manchester city for rodri -report",
+    "fabrizio romano confirms real madrid talks with manchester city over rodri deal",
+    "plettenberg: liverpool have 'already opened talks' with 'unique' barcola",
+    "liverpool agree terms with arsenal target, as real madrid begin rodri negotiatio",
+    "\u2018from what i hear\u2019 \u2013 liverpool \u2018priority\u2019 signing is not currently bradley barco",
+    "noussair mazraoui takes final stance on leaving man utd after \u2018direct conversati",
+    "\u00a370m midfielder wants to join man utd amid \u2018belief\u2019 he\u2019d \u2018transform\u2019 michael car",
+    "tottenham set deadline to man city for savinho deal with \u2018this\u2019 italian giant al"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1288,6 +1289,7 @@
     "rayan": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Rayan_Brazil_V_Morocco_13_June_2026-142.jpg/330px-Rayan_Brazil_V_Morocco_13_June_2026-142.jpg",
     "ollie watkins": "https://r2.thesportsdb.com/images/media/player/cutout/w6dir11756987347.png/small",
     "jules kounde": "https://r2.thesportsdb.com/images/media/player/cutout/qea88i1726509803.png/small",
-    "geronimo rulli": "https://r2.thesportsdb.com/images/media/player/cutout/cpkkmg1766153528.png/small"
+    "geronimo rulli": "https://r2.thesportsdb.com/images/media/player/cutout/cpkkmg1766153528.png/small",
+    "rodri hernandez": ""
   }
 }

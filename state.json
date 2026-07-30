@@ -1,6 +1,5 @@
 {
   "sent": [
-    "5f14251734bfea87e9c1c845fa17a9fa",
     "3a482d02650c69361d4de340d9964178",
     "23414261ec378a57056d4b8faef21e3c",
     "tg:FabrizioRomanoTG/63606",
@@ -499,7 +498,8 @@
     "38abec705fca940c80a5c68978c89839",
     "d4587ca9cf840cf418815f9cecedef52",
     "aa16a55674aca923d631fedc7f76df62",
-    "e1d127db5004e336b4a118850fc36695"
+    "e1d127db5004e336b4a118850fc36695",
+    "afe3ed1b50411f50c803171dc97845f9"
   ],
   "deals": {
     "thompson -> arsenal": 3,
@@ -793,10 +793,10 @@
     "interest: watkins -> manchester united",
     "interest: kounde -> tottenham",
     "interest: rulli -> manchester city",
-    "interest: hernandez -> real madrid"
+    "interest: hernandez -> real madrid",
+    "interest: gakpo -> tottenham"
   ],
   "titles": [
-    "liverpool set to do everything to land barcola, they could lodge a bid soon",
     "\ud83d\udea8 \ud83d\udd35 \u26ab\ufe0f inter are closing in on john stones deal to join as free agent, as reveal",
     "\u2018liverpool are aware \u2019 \u2013 sky reporter issues bradley barcola update as \u2018opening ",
     "juventus enter negotiations with john stones following manchester city departure",
@@ -1095,7 +1095,8 @@
     "us soccer gets massive boost as usmnt manager mauricio pochettino set to sign co",
     "manchester city agree five-year contract terms with ayyoub bouaddi as lille nego",
     "\ud83d\udd25 david-zirkzee, inter-napoli \u2694\ufe0f roma-koulierakis: today\u2019s transfer news \ud83e\udd11",
-    "reports state welbeck undergoing medical at chelsea"
+    "reports state welbeck undergoing medical at chelsea",
+    "tottenham target liverpool transfer as andoni iraola to make crucial decision"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1290,6 +1291,7 @@
     "ollie watkins": "https://r2.thesportsdb.com/images/media/player/cutout/w6dir11756987347.png/small",
     "jules kounde": "https://r2.thesportsdb.com/images/media/player/cutout/qea88i1726509803.png/small",
     "geronimo rulli": "https://r2.thesportsdb.com/images/media/player/cutout/cpkkmg1766153528.png/small",
-    "rodri hernandez": ""
+    "rodri hernandez": "",
+    "cody gakpo": "https://r2.thesportsdb.com/images/media/player/cutout/lwkl5n1757088091.png/small"
   }
 }

@@ -1,5 +1,24 @@
 [
  {
+  "id": "76dd8f18275aab472a34301c7c98a73f",
+  "ts": "2026-07-30T06:45:36+00:00",
+  "kind": "interest",
+  "photo": "",
+  "stage": "\u2014",
+  "player": "Ferran Torres",
+  "position": "Forward",
+  "age": "\u2014",
+  "from_club": "Barcelona",
+  "to_club": "PSG",
+  "fee": "\u2014",
+  "style": "Versatile attacker capable of playing across the front line with technical skill and composure in possession.",
+  "fit": "PSG seeking attacking reinforcement with a player who combines creativity with goal-threat in a front three.",
+  "source": "Yahoo",
+  "outlet": "yahoo",
+  "url": "https://sports.yahoo.com/articles/barcelona-firm-decision-future-world-184500034.html",
+  "title": "Barcelona make a firm decision on the future of World Cup sensation amid PSG interest"
+ },
+ {
   "id": "ceb132e429db1334b38fae8320a475ba",
   "ts": "2026-07-30T06:30:38+00:00",
   "kind": "interest",

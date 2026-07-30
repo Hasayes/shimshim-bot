@@ -175,6 +175,7 @@ MAX_STATE = 500  # cap remembered IDs so state.json doesn't grow forever
 # The PWA (served from docs/ via GitHub Pages) reads this feed; every card
 # that goes to Telegram is also appended here, newest first.
 FEED_FILE = Path(os.environ.get("FEED_FILE", Path(__file__).with_name("docs") / "feed.json"))
+CRESTS_FILE = Path(os.environ.get("FEED_FILE", Path(__file__).with_name("docs") / "feed.json")).with_name("crests.json")
 PUSH_META_FILE = Path(os.environ.get("FEED_FILE", Path(__file__).with_name("docs") / "feed.json")).with_name("push-meta.json")
 MAX_FEED = 500
 
@@ -837,6 +838,99 @@ def lookup_player_photo(player, clubs_text, state):
     return photo
 
 
+def ensure_club_crests(brief, state):
+    """Resolve badge URLs for any club on the card and publish docs/crests.json.
+
+    The app has static crests only for the 16 watched clubs; everything else
+    (Fulham, Como, ...) showed a plain monogram. TheSportsDB serves badges
+    for any club — matched strictly (Soccer + normalized name equality) and
+    cached in state so each club costs one lookup ever.
+    """
+    cache = state.setdefault("crests", {})
+    clubs = [brief.from_club] + brief.to_club.split(",")
+    changed = False
+    for raw in clubs:
+        club = raw.strip()
+        if club in ("", "—"):
+            continue
+        key = _norm_club(club)
+        if key in cache:
+            continue
+        url = ""
+        try:
+            data = _get_json(
+                "https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t="
+                + urllib.parse.quote(club)
+            )
+            NOISE = {"fc", "afc", "cf", "ac", "as", "rc", "sc", "cd", "ca",
+                     "ogc", "tsg", "krc", "bsc", "rb", "ud", "vfb", "vfl",
+                     "club", "cp", "olympique", "de", "city", "united", "town",
+                     "hotspur", "albion", "1907"}
+            def toks(s):
+                return {w for w in _norm(s).replace("&", " ").replace("-", " ").split()
+                        if w not in NOISE}
+            soccer = [t for t in data.get("teams") or []
+                      if (t.get("strSport") or "") == "Soccer"]
+            if not soccer:  # "AS Monaco" finds nothing; "Monaco" does
+                retry_q = " ".join(sorted(toks(club)))
+                if retry_q and _norm(retry_q) != _norm(club):
+                    data = _get_json(
+                        "https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t="
+                        + urllib.parse.quote(retry_q)
+                    )
+                    soccer = [t for t in data.get("teams") or []
+                              if (t.get("strSport") or "") == "Soccer"]
+            match = None
+            for t in soccer:  # pass 1: exact name or listed alternate name
+                names = [t.get("strTeam") or "", t.get("strTeamShort") or ""]
+                names += (t.get("strTeamAlternate") or "").split(",")
+                if any(_norm_club(n) == key for n in names if n.strip()):
+                    match = t
+                    break
+            if match is None:  # pass 2: core-token match, only if unambiguous
+                want = toks(club)
+                cands = [t for t in soccer
+                         if want and (want <= toks(t.get("strTeam") or "")
+                                      or toks(t.get("strTeam") or "") <= want)]
+                if len(cands) == 1:
+                    match = cands[0]
+            if match:
+                badge = match.get("strBadge") or ""
+                if badge:
+                    url = badge + "/small"
+            if not url:
+                # TheSportsDB free search returns one best match and can hand
+                # back a same-named netball/hockey club — FotMob covers the rest
+                fdata = _get_json(
+                    "https://apigw.fotmob.com/searchapi/suggest?lang=en&term="
+                    + urllib.parse.quote(club)
+                )
+                want = toks(club)
+                for group in fdata.get("teamSuggest") or []:
+                    for opt in group.get("options") or []:
+                        tname = (opt.get("text") or "").split("|")[0]
+                        tt = toks(tname)
+                        if not want or not (want <= tt or tt <= want):
+                            continue
+                        if re.search(r"u\d{2}$", _norm(tname)):
+                            continue  # senior badge, not the U18/U21 entry
+                        tid = (opt.get("payload") or {}).get("id")
+                        if tid:
+                            url = f"https://images.fotmob.com/image_resources/logo/teamlogo/{tid}.png"
+                        break
+                    if url:
+                        break
+        except Exception as e:  # noqa: BLE001 — badges are decoration
+            print(f"crest lookup failed for {club}: {e}", file=sys.stderr)
+            continue  # transient — don't cache
+        cache[key] = url
+        changed = True
+    if changed:
+        published = {k: v for k, v in cache.items() if v}
+        CRESTS_FILE.parent.mkdir(parents=True, exist_ok=True)
+        CRESTS_FILE.write_text(json.dumps(published, sort_keys=True))
+
+
 def append_feed(article, brief, photo=""):
     """Prepend this card to the JSON feed the PWA reads."""
     feed = []
@@ -1223,6 +1317,7 @@ def main():
         # The app (feed + web push) is the delivery channel; the Telegram
         # chat card is opt-in via TELEGRAM_CARDS.
         photo = lookup_player_photo(brief.player, f"{brief.from_club}|{brief.to_club}", state)
+        ensure_club_crests(brief, state)
         append_feed(article, brief, photo)
         try:
             send_web_push(article, brief, state, subs)

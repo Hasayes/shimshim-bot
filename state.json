@@ -1,6 +1,5 @@
 {
   "sent": [
-    "cd21e4968b9ed1b367d3f460c10c0793",
     "e7bc5d076736952ca3856cd6db856938",
     "8adb70a4999adcbb1412b0d1f76d4b10",
     "tg:FabrizioRomanoTG/63638",
@@ -499,7 +498,8 @@
     "7fd3f0d2dcb2f0df4f7334501511b2f3",
     "e140f0d4e3604a2bff89cde35035008d",
     "962b185ecb734ee7b232d5294a37c702",
-    "5281e069f36203189aad5f2cea13e43c"
+    "5281e069f36203189aad5f2cea13e43c",
+    "be726b768ab318cfa55dfc8119889ee1"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1277,7 +1277,6 @@
     "danny welbeck": "https://r2.thesportsdb.com/images/media/player/cutout/lfaen21756998493.png/small",
     "ebenezer akinsanmiro": "https://images.fotmob.com/image_resources/playerimages/1481909.png",
     "filip jorgensen": "https://r2.thesportsdb.com/images/media/player/cutout/t23n5c1757003654.png/small",
-    "axel donczew": "",
     "ismael bennacer": "https://images.fotmob.com/image_resources/playerimages/609624.png",
     "victor froholdt": "",
     "sankhoun diawara": "https://images.fotmob.com/image_resources/playerimages/1669433.png",
@@ -1305,9 +1304,10 @@
     "kerem alajbegovic": "",
     "mateo soule": "",
     "ousmane ndiaye": "",
-    "martin": ""
+    "martin": "",
+    "axel donczew": ""
   },
-  "photo_repair_idx": 6,
+  "photo_repair_idx": 7,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

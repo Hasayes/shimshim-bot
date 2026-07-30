@@ -1,0 +1,39 @@
+name: regression-test (temporary)
+
+on:
+  workflow_dispatch: {}
+
+jobs:
+  regression:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - name: "Regression: passing mention must not replace the subject"
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          python - <<'PYEOF'
+          import anthropic
+          from shimshim_bot import classify_article, verify_deal
+
+          article = {
+              "title": "Romano: Tottenham Eyeing Move to Sign Liverpool Star Gakpo Alongside Savinho",
+              "desc": "Fabrizio Romano reports Tottenham are eyeing a move for Liverpool forward Cody Gakpo alongside Savinho, as Spurs look to rebuild the attack Luis Diaz once terrorised from the left. Gakpo is open to talks.",
+              "source": "GiveMeSport",
+          }
+          client = anthropic.Anthropic()
+          c = classify_article(client, article)
+          print("classify:", c.kind, "|", c.player, "|", c.from_club, "->", c.to_club)
+          assert "diaz" not in c.player.lower().replace("í", "i"), f"passing mention won: {c.player}"
+          assert "gakpo" in c.player.lower(), f"wrong subject: {c.player}"
+          if c.kind != "none":
+              b = verify_deal(client, article)
+              print("verified:", b.kind, "|", b.player, "|", b.from_club, "->", b.to_club)
+              assert "diaz" not in b.player.lower().replace("í", "i"), f"verify picked passing mention: {b.player}"
+              assert "gakpo" in b.player.lower(), f"verify wrong subject: {b.player}"
+          print("PASS: subject extracted correctly")
+          PYEOF

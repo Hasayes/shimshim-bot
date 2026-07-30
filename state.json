@@ -1,6 +1,5 @@
 {
   "sent": [
-    "18851bb286283a8982d8147833a92f8b",
     "tg:FabrizioRomanoTG/63640",
     "594d8b5987b0cf3d74fc974cc121dcca",
     "e8b673f1c93998e9dc3b59cadec16898",
@@ -499,7 +498,8 @@
     "tg:FabrizioRomanoTG/63829",
     "2c5320bd1a39cbc1bf9185b9b640c0fd",
     "tg:FabrizioRomanoTG/63830",
-    "tg:FabrizioRomanoTG/63831"
+    "tg:FabrizioRomanoTG/63831",
+    "864410c760ff82cc2ab0bca06fb939ea"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -805,7 +805,6 @@
     "interest: espi -> real madrid"
   ],
   "titles": [
-    "fulham transfer news: cottagers to 'approach' real madrid over garcia deal with ",
     "romano: barcelona open talks to sign tottenham target junior kroupi",
     "romano, plettenberg clash over diomande-to-real madrid transfer amid conflicting",
     "super eagles star tolu arokodare joins 4-time ucl winners",
@@ -1104,7 +1103,8 @@
     "\ud83d\udea8 \u26aa\ufe0f real madrid have asked carlos espi today to wait before signing with premie",
     "manchester city line up 34 year old geronimo rulli as experienced cover with tra",
     "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f bayern\u2019s uli hoene\u00df on harry kane contract talks: \u201ci haven't spoken direc",
-    "\ud83d\udea8 \u26d4\ufe0f bayern\u2019s uli hoene\u00df: \u201creal madrid wanted olise? i laughed my head off\u201d \u201cthe"
+    "\ud83d\udea8 \u26d4\ufe0f bayern\u2019s uli hoene\u00df: \u201creal madrid wanted olise? i laughed my head off\u201d \u201cthe",
+    "roma submit \u20ac25 million offer for feynoord\u2019s read"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1283,7 +1283,6 @@
     "will lankshear": "https://r2.thesportsdb.com/images/media/player/cutout/bpp6ur1778011312.png/small",
     "jesse bisiwu": "https://images.fotmob.com/image_resources/playerimages/1656591.png",
     "tynan thompson": "https://images.fotmob.com/image_resources/playerimages/1681978.png",
-    "samuel martinez": "",
     "elijah upson": "https://images.fotmob.com/image_resources/playerimages/1800618.png",
     "zan celar": "https://images.fotmob.com/image_resources/playerimages/752558.png",
     "ibrahima ba": "",
@@ -1307,9 +1306,10 @@
     "kyle healy": "",
     "carlos espi": "https://images.fotmob.com/image_resources/playerimages/1610744.png",
     "benji flowers": "",
-    "mishel nduka": ""
+    "mishel nduka": "",
+    "samuel martinez": ""
   },
-  "photo_repair_idx": 12,
+  "photo_repair_idx": 13,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

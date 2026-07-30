@@ -1274,7 +1274,6 @@
     "cesar palacios": "https://images.fotmob.com/image_resources/playerimages/1403691.png",
     "gonzalo garcia": "https://images.fotmob.com/image_resources/playerimages/1413847.png",
     "ferran torres": "https://r2.thesportsdb.com/images/media/player/cutout/feey201726510461.png/small",
-    "rodri hernandez": "",
     "danny welbeck": "https://r2.thesportsdb.com/images/media/player/cutout/lfaen21756998493.png/small",
     "ebenezer akinsanmiro": "https://images.fotmob.com/image_resources/playerimages/1481909.png",
     "junior kroupi": "",
@@ -1306,6 +1305,8 @@
     "zadok yohanna": "https://images.fotmob.com/image_resources/playerimages/1782648.png",
     "emersonn": "https://images.fotmob.com/image_resources/playerimages/1320949.png",
     "mario martin": "https://images.fotmob.com/image_resources/playerimages/1321605.png",
-    "takato yamamoto": ""
-  }
+    "takato yamamoto": "",
+    "rodri hernandez": ""
+  },
+  "photo_repair_idx": 1
 }

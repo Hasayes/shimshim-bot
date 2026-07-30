@@ -1,0 +1,37 @@
+name: brief-test (temporary)
+
+on:
+  workflow_dispatch: {}
+
+jobs:
+  brief-test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - name: Regression: rejected suitor must not become the seller
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          python - <<'PYEOF'
+          import anthropic
+          from shimshim_bot import verify_deal, classify_article
+
+          article = {
+              "title": "🚨 🔵 ⚪️ Filip Jorgensen to RC Strasbourg, story confirmed and deal being closed tonight. Coventry City never concrete despite interest.",
+              "desc": "🚨 🔵 ⚪️ Filip Jorgensen to RC Strasbourg, story confirmed and deal being closed tonight. Coventry City never concrete despite interest.",
+              "source": "Telegram @fabrizioromanotg",
+          }
+          client = anthropic.Anthropic()
+          c = classify_article(client, article)
+          print("classify:", c.kind, "|", c.from_club, "->", c.to_club)
+          assert "coventry" not in c.from_club.lower(), f"classify cast suitor as seller: {c.from_club}"
+          b = verify_deal(client, article)
+          print("verified:", b.kind, "|", b.from_club, "->", b.to_club, "|", b.stage)
+          assert "coventry" not in b.from_club.lower(), f"verify cast suitor as seller: {b.from_club}"
+          assert "chelsea" in b.from_club.lower() or b.from_club.strip() == "—", f"unexpected from_club: {b.from_club}"
+          print("PASS: suitor not cast as seller; from_club:", b.from_club)
+          PYEOF

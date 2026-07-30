@@ -189,6 +189,73 @@ FEED_FILE = Path(os.environ.get("FEED_FILE", Path(__file__).with_name("docs") / 
 CRESTS_FILE = Path(os.environ.get("FEED_FILE", Path(__file__).with_name("docs") / "feed.json")).with_name("crests.json")
 PUSH_META_FILE = Path(os.environ.get("FEED_FILE", Path(__file__).with_name("docs") / "feed.json")).with_name("push-meta.json")
 MAX_FEED = 500
+ARCHIVE_DIR = Path(os.environ.get("FEED_FILE", Path(__file__).with_name("docs") / "feed.json")).parent / "archive"
+
+
+def window_of(ts):
+    """Map a card timestamp to its transfer window, e.g. '2026-summer'.
+
+    Summer: news from March-September belongs to that year's summer window
+    (pre-agreements included). Winter: October-February belongs to the
+    January window it feeds (Oct-Dec -> next year's winter).
+    """
+    d = datetime.fromisoformat(ts)
+    if 3 <= d.month <= 9:
+        return f"{d.year}-summer"
+    if d.month >= 10:
+        return f"{d.year + 1}-winter"
+    return f"{d.year}-winter"
+
+
+def _window_sort_key(w):
+    y, season = w.split("-")
+    return (int(y), 0 if season == "winter" else 1)
+
+
+def archive_cards(cards):
+    """Append cards to their windows' archive files (idempotent by id)."""
+    if not cards:
+        return
+    ARCHIVE_DIR.mkdir(parents=True, exist_ok=True)
+    by_window = {}
+    for c in cards:
+        by_window.setdefault(window_of(c["ts"]), []).append(c)
+    for window, group in by_window.items():
+        f = ARCHIVE_DIR / f"{window}.json"
+        try:
+            existing = json.loads(f.read_text()) if f.exists() else []
+        except json.JSONDecodeError:
+            existing = []
+        seen_ids = {c.get("id") for c in existing}
+        existing.extend(c for c in group if c.get("id") not in seen_ids)
+        existing.sort(key=lambda c: c["ts"], reverse=True)
+        f.write_text(json.dumps(existing, indent=1))
+    index = sorted((p.stem for p in ARCHIVE_DIR.glob("*.json") if p.stem != "index"),
+                   key=_window_sort_key, reverse=True)
+    counts = {}
+    for w in index:
+        try:
+            counts[w] = len(json.loads((ARCHIVE_DIR / f"{w}.json").read_text()))
+        except json.JSONDecodeError:
+            counts[w] = 0
+    (ARCHIVE_DIR / "index.json").write_text(
+        json.dumps({"windows": [{"id": w, "cards": counts[w]} for w in index]}, indent=1))
+
+
+def rotate_windows():
+    """Move cards from closed windows out of the live feed into the archive."""
+    try:
+        feed = json.loads(FEED_FILE.read_text())
+    except Exception:  # noqa: BLE001
+        return
+    now_window = window_of(datetime.now(timezone.utc).isoformat())
+    past = [c for c in feed if _window_sort_key(window_of(c["ts"])) < _window_sort_key(now_window)]
+    if not past:
+        return
+    archive_cards(past)
+    keep = [c for c in feed if c not in past]
+    FEED_FILE.write_text(json.dumps(keep, indent=1))
+    print(f"rotated {len(past)} card(s) into the archive")
 
 
 class TransferBrief(BaseModel):
@@ -1018,6 +1085,8 @@ def append_feed(article, brief, photo=""):
         "title": article["title"],
     })
     FEED_FILE.parent.mkdir(parents=True, exist_ok=True)
+    if len(feed) > MAX_FEED:
+        archive_cards(feed[MAX_FEED:])  # rolled-off cards keep their history
     FEED_FILE.write_text(json.dumps(feed[:MAX_FEED], indent=1))
 
 
@@ -1400,6 +1469,7 @@ def main():
               f"{brief.from_club} -> {brief.to_club}")
 
     if not DRY_RUN:
+        rotate_windows()
         repair_one_photo(state)
         save_state(state)
     print(f"done. {sent_count} briefing(s) sent, {len(articles)} scanned."

@@ -1,8 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/63640",
-    "594d8b5987b0cf3d74fc974cc121dcca",
-    "e8b673f1c93998e9dc3b59cadec16898",
     "57337c67d88edc3c07f9c3905f827c23",
     "ab4849f3cd8c0d83f1beed33f78d24c8",
     "1ea2600c6195be78261701c076e2ddbc",
@@ -499,7 +496,10 @@
     "2c5320bd1a39cbc1bf9185b9b640c0fd",
     "tg:FabrizioRomanoTG/63830",
     "tg:FabrizioRomanoTG/63831",
-    "864410c760ff82cc2ab0bca06fb939ea"
+    "864410c760ff82cc2ab0bca06fb939ea",
+    "a9e88ad1a4e1651217e776f82f053d25",
+    "31d553d396ed282465378c3127a16334",
+    "tg:FabrizioRomanoTG/63832"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -645,7 +645,8 @@
     "akinsanmiro -> monza": 2,
     "koulierakis -> as roma": 1,
     "garcia -> fulham": 2,
-    "palacios -> fulham": 1
+    "palacios -> fulham": 1,
+    "espi -> real madrid": 1
   },
   "interest": [
     "interest: alvarez -> arsenal",
@@ -805,8 +806,6 @@
     "interest: espi -> real madrid"
   ],
   "titles": [
-    "romano: barcelona open talks to sign tottenham target junior kroupi",
-    "romano, plettenberg clash over diomande-to-real madrid transfer amid conflicting",
     "super eagles star tolu arokodare joins 4-time ucl winners",
     "yan diomande back at rb leipzig as real madrid increase offer for ivory coast wi",
     "chelsea pair removed from \u2018untouchable\u2019 list despite completing transfers just 1",
@@ -1104,7 +1103,9 @@
     "manchester city line up 34 year old geronimo rulli as experienced cover with tra",
     "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f bayern\u2019s uli hoene\u00df on harry kane contract talks: \u201ci haven't spoken direc",
     "\ud83d\udea8 \u26d4\ufe0f bayern\u2019s uli hoene\u00df: \u201creal madrid wanted olise? i laughed my head off\u201d \u201cthe",
-    "roma submit \u20ac25 million offer for feynoord\u2019s read"
+    "roma submit \u20ac25 million offer for feynoord\u2019s read",
+    "did leon goretzka offer himself to fc barcelona?",
+    "\ud83d\udea8 \ud83d\udca3 breaking: real madrid sign carlos espi as new striker, here we go! \ud83d\udca5 \u20ac25m re"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1285,7 +1286,6 @@
     "tynan thompson": "https://images.fotmob.com/image_resources/playerimages/1681978.png",
     "elijah upson": "https://images.fotmob.com/image_resources/playerimages/1800618.png",
     "zan celar": "https://images.fotmob.com/image_resources/playerimages/752558.png",
-    "cristian orozco": "",
     "andres cuenca": "https://images.fotmob.com/image_resources/playerimages/1665439.png",
     "jesse derry": "",
     "alessandro longoni": "",
@@ -1307,9 +1307,10 @@
     "benji flowers": "",
     "mishel nduka": "",
     "samuel martinez": "",
-    "ibrahima ba": ""
+    "ibrahima ba": "",
+    "cristian orozco": ""
   },
-  "photo_repair_idx": 14,
+  "photo_repair_idx": 15,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

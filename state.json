@@ -1,6 +1,5 @@
 {
   "sent": [
-    "80be1cb814cfe2ce39e9b367e37d86a2",
     "2c2168134026e223644add936f950b43",
     "6a105b88b56c5fafd59966e0d8b898bd",
     "d66ea99da77856dd2a77255c070af939",
@@ -499,7 +498,8 @@
     "fddbbfec7f86fc4a42d06f9dd15ba41a",
     "29bb067bc474c09b4e9a60921c23447a",
     "17a238a2ef02e79243bcc49baee4c68c",
-    "tg:FabrizioRomanoTG/63789"
+    "tg:FabrizioRomanoTG/63789",
+    "6a891dd4ca491d41273f54a228f0b8c6"
   ],
   "deals": {
     "thompson -> arsenal": 3,
@@ -796,10 +796,10 @@
     "interest: hernandez -> real madrid",
     "interest: gakpo -> tottenham",
     "interest: barcola -> chelsea",
-    "interest: veiga -> real madrid"
+    "interest: veiga -> real madrid",
+    "interest: goretzka -> barcelona"
   ],
   "titles": [
-    "transfers: yan diomande set for real madrid move after \u20ac120m deal",
     "man utd news: carlos baleba requests transfer as manu kone 'agreement reached'",
     "man utd make \u00a368m \u2018offer\u2019 for \u2018dream signing\u2019 as they intensify pursuit of third",
     "man city transfer news: after arsenal, a new serie a suitor emerges for john sto",
@@ -1098,7 +1098,8 @@
     "rodri wants to join real madrid and the attraction is mutual",
     "liverpool transfer news: richard hughes willing to sell \u00a3250k per week forward f",
     "real madrid monitoring former chelsea utility man - euro transfer news",
-    "\ud83d\udea8 \ud83c\uddf9\ud83c\uddf7 rafa leao\u2019s future remains open with fenerbahce and galatasaray both keen a"
+    "\ud83d\udea8 \ud83c\uddf9\ud83c\uddf7 rafa leao\u2019s future remains open with fenerbahce and galatasaray both keen a",
+    "agents offer leon goretzka to fc barcelona for second time"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1295,6 +1296,7 @@
     "geronimo rulli": "https://r2.thesportsdb.com/images/media/player/cutout/cpkkmg1766153528.png/small",
     "rodri hernandez": "",
     "cody gakpo": "https://r2.thesportsdb.com/images/media/player/cutout/lwkl5n1757088091.png/small",
-    "renato veiga": "https://r2.thesportsdb.com/images/media/player/cutout/rxefp81762889381.png/small"
+    "renato veiga": "https://r2.thesportsdb.com/images/media/player/cutout/rxefp81762889381.png/small",
+    "leon goretzka": "https://r2.thesportsdb.com/images/media/player/cutout/hnokj01756409111.png/small"
   }
 }

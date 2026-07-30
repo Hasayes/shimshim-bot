@@ -110,6 +110,17 @@ CLUB_CANON = [
     ("inter", r"\binter\b(?!\s+miami)"),
     ("milan", r"\bmilan\b"),
     ("napoli", r"napoli"),
+    # non-watched clubs that appear often — alias-fold for dedup keys only
+    ("west ham", r"west ham"),
+    ("brighton", r"brighton"),
+    ("newcastle", r"newcastle"),
+    ("aston villa", r"aston villa"),
+    ("leeds", r"\bleeds\b"),
+    ("wolves", r"wolverhampton|\bwolves\b"),
+    ("al hilal", r"al.?hilal"),
+    ("al nassr", r"al.?nassr"),
+    ("marseille", r"marseille"),
+    ("sporting", r"sporting (cp|lisbon)|sporting clube"),
 ]
 CLUB_RE = re.compile("|".join(pat for _, pat in CLUB_CANON))
 WATCHED_CANON = {canon for canon, _ in CLUB_CANON}
@@ -480,10 +491,10 @@ def fetch_telegram_posts(max_pages=None, seen=None):
 
 
 def _norm(s):
-    """Lowercase, strip accents and extra spaces so outlet spellings match."""
+    """Lowercase, strip accents/hyphens and extra spaces so spellings match."""
     s = unicodedata.normalize("NFKD", s)
     s = "".join(c for c in s if not unicodedata.combining(c))
-    return " ".join(s.lower().replace(".", " ").split())
+    return " ".join(s.lower().replace(".", " ").replace("-", " ").split())
 
 
 def known_club(club):
@@ -969,6 +980,11 @@ def ensure_club_crests(brief, state):
         CRESTS_FILE.write_text(json.dumps(published, sort_keys=True))
 
 
+def _card_sig(kind, stage, player, to_club):
+    dests = frozenset(_norm_club(c) for c in to_club.split(",") if c.strip())
+    return (_norm(player), kind, _norm(stage), dests)
+
+
 def append_feed(article, brief, photo=""):
     """Prepend this card to the JSON feed the PWA reads."""
     feed = []
@@ -977,6 +993,11 @@ def append_feed(article, brief, photo=""):
             feed = json.loads(FEED_FILE.read_text())
         except json.JSONDecodeError:
             pass
+    sig = _card_sig(brief.kind, brief.stage, brief.player, brief.to_club)
+    if any(_card_sig(c["kind"], c.get("stage", ""), c["player"], c["to_club"]) == sig
+           for c in feed):
+        print(f"feed append skipped (identical card exists): {brief.player}")
+        return
     feed.insert(0, {
         "id": article["id"],
         "ts": datetime.now(timezone.utc).isoformat(timespec="seconds"),

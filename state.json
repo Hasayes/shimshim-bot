@@ -1,6 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/63637",
     "cd21e4968b9ed1b367d3f460c10c0793",
     "e7bc5d076736952ca3856cd6db856938",
     "8adb70a4999adcbb1412b0d1f76d4b10",
@@ -499,7 +498,8 @@
     "6610caa0b23cc179f3edd9c2958dbf30",
     "7fd3f0d2dcb2f0df4f7334501511b2f3",
     "e140f0d4e3604a2bff89cde35035008d",
-    "962b185ecb734ee7b232d5294a37c702"
+    "962b185ecb734ee7b232d5294a37c702",
+    "5281e069f36203189aad5f2cea13e43c"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -804,7 +804,6 @@
     "interest: torres -> psg"
   ],
   "titles": [
-    "chelsea eye brighton's welbeck in surprise summer transfer",
     "nick woltemade to stay put for now amid silly season craziness",
     "why ajax signed tolu arokodare: super eagles striker gets fresh start after wolv",
     "chelsea eyeing shock transfer move for ex-arsenal and man utd forward",
@@ -1103,7 +1102,8 @@
     "de zerbi delivers \u2018honest\u2019 transfer message to tottenham star lucas bergvall \u2013 \u2018",
     "barcelona not in talks with any club over the sale of psg-linked attacker \u2013 roma",
     "fabrizio romano confirms sensational star now wants to join liverpool",
-    "man city want geronimo rulli to replace leeds-bound james trafford"
+    "man city want geronimo rulli to replace leeds-bound james trafford",
+    "barcelona still waiting out for top attacking target despite exploring other opt"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1277,7 +1277,6 @@
     "danny welbeck": "https://r2.thesportsdb.com/images/media/player/cutout/lfaen21756998493.png/small",
     "ebenezer akinsanmiro": "https://images.fotmob.com/image_resources/playerimages/1481909.png",
     "filip jorgensen": "https://r2.thesportsdb.com/images/media/player/cutout/t23n5c1757003654.png/small",
-    "martin": "",
     "axel donczew": "",
     "ismael bennacer": "https://images.fotmob.com/image_resources/playerimages/609624.png",
     "victor froholdt": "",
@@ -1305,9 +1304,10 @@
     "junior kroupi": "",
     "kerem alajbegovic": "",
     "mateo soule": "",
-    "ousmane ndiaye": ""
+    "ousmane ndiaye": "",
+    "martin": ""
   },
-  "photo_repair_idx": 5,
+  "photo_repair_idx": 6,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

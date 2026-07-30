@@ -1,7 +1,5 @@
 {
   "sent": [
-    "38d24f285ae8702108cbb6ca8b7708f6",
-    "6a68e755c474c3f5e8e6ac5ad9939e3f",
     "a7314c73572d4a683a64c8c31992aa4e",
     "8f73055167114f6ddf592936e4f569d3",
     "f043105373ac1a5b1a308380a7f98d06",
@@ -499,7 +497,9 @@
     "91a816efba5e94d398df68725de2e597",
     "tg:FabrizioRomanoTG/63773",
     "tg:FabrizioRomanoTG/63799",
-    "tg:FabrizioRomanoTG/63800"
+    "tg:FabrizioRomanoTG/63800",
+    "6f7f48bc7d43297f4e6368e338dc0735",
+    "tg:FabrizioRomanoTG/63829"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -801,11 +801,10 @@
     "interest: barcola -> chelsea",
     "interest: veiga -> real madrid",
     "interest: goretzka -> barcelona",
-    "interest: torres -> psg"
+    "interest: torres -> psg",
+    "interest: espi -> real madrid"
   ],
   "titles": [
-    "andrea pirlo out of running for italy coach job due to russian betting links",
-    "chelsea linked with brighton striker danny welbeck",
     "ajax set to sign tolu arokodare on loan from wolves",
     "inter and juventus working on john stones deal after chelsea and arsenal interes",
     "real madrid target trains with current club even as \u20ac115 million move nears \u2013 re",
@@ -1103,7 +1102,9 @@
     "liverpool transfer news: man city dithering opens door to \u00a360m forward deal as f",
     "\ud83d\udea8 \ud83c\uddf8\ud83c\udde6 al hilal are in talks to sign iliman ndiaye as exclusively revealed on mond",
     "\ud83d\udea8 \ud83d\udca3 exclusive: eddie howe set to part ways with newcastle with immediate effect ",
-    "\ud83d\udea8 \ud83d\udca3 exclusive: matthias jaissle, top candidate and in advanced talks to become n"
+    "\ud83d\udea8 \ud83d\udca3 exclusive: matthias jaissle, top candidate and in advanced talks to become n",
+    "psg reach breakthrough with monaco in maghnes akliouche talks",
+    "\ud83d\udea8 \u26aa\ufe0f real madrid have asked carlos espi today to wait before signing with premie"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1279,7 +1280,6 @@
     "filip jorgensen": "https://r2.thesportsdb.com/images/media/player/cutout/t23n5c1757003654.png/small",
     "ismael bennacer": "https://images.fotmob.com/image_resources/playerimages/609624.png",
     "sankhoun diawara": "https://images.fotmob.com/image_resources/playerimages/1669433.png",
-    "benji flowers": "",
     "mishel nduka": "",
     "will lankshear": "https://r2.thesportsdb.com/images/media/player/cutout/bpp6ur1778011312.png/small",
     "jesse bisiwu": "https://images.fotmob.com/image_resources/playerimages/1656591.png",
@@ -1305,9 +1305,11 @@
     "martin": "",
     "axel donczew": "",
     "victor froholdt": "",
-    "kyle healy": ""
+    "kyle healy": "",
+    "carlos espi": "https://images.fotmob.com/image_resources/playerimages/1610744.png",
+    "benji flowers": ""
   },
-  "photo_repair_idx": 9,
+  "photo_repair_idx": 10,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",
@@ -1425,6 +1427,7 @@
     "estudiantes": "https://images.fotmob.com/image_resources/logo/teamlogo/10094.png",
     "lille": "https://images.fotmob.com/image_resources/logo/teamlogo/8639.png",
     "nottingham forest": "https://images.fotmob.com/image_resources/logo/teamlogo/10203.png",
-    "gambinos stars": ""
+    "gambinos stars": "",
+    "levante": "https://r2.thesportsdb.com/images/media/team/badge/xwtxsx1473503739.png/small"
   }
 }

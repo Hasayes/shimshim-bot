@@ -1,8 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/63614",
-    "ac4d128f955111d489354ba9a2adafb5",
-    "17a224e7d96769614699f501872f4cea",
     "80be1cb814cfe2ce39e9b367e37d86a2",
     "2c2168134026e223644add936f950b43",
     "6a105b88b56c5fafd59966e0d8b898bd",
@@ -499,7 +496,10 @@
     "4ed03685afeddb285ceec9c4eef49e98",
     "e8d566aabad5f7df853302c94ae4f0eb",
     "ce6ba392e0c8ceb87cf2a0cd552fd1d9",
-    "fddbbfec7f86fc4a42d06f9dd15ba41a"
+    "fddbbfec7f86fc4a42d06f9dd15ba41a",
+    "29bb067bc474c09b4e9a60921c23447a",
+    "17a238a2ef02e79243bcc49baee4c68c",
+    "tg:FabrizioRomanoTG/63789"
   ],
   "deals": {
     "thompson -> arsenal": 3,
@@ -795,12 +795,10 @@
     "interest: rulli -> manchester city",
     "interest: hernandez -> real madrid",
     "interest: gakpo -> tottenham",
-    "interest: barcola -> chelsea"
+    "interest: barcola -> chelsea",
+    "interest: veiga -> real madrid"
   ],
   "titles": [
-    "\ud83d\udea8 kompany gets his way! media: bayern snap up top target",
-    "man city transfer news today: done deals, live updates and rumours - july 27",
-    "transfer rumors, news: liverpool and psg to open b",
     "transfers: yan diomande set for real madrid move after \u20ac120m deal",
     "man utd news: carlos baleba requests transfer as manu kone 'agreement reached'",
     "man utd make \u00a368m \u2018offer\u2019 for \u2018dream signing\u2019 as they intensify pursuit of third",
@@ -1097,7 +1095,10 @@
     "chelsea beaten to striker signing with \u2018deal done\u2019 and final transfer fee reveal",
     "eli junior kroupi ruled out for 3-4 months amid arsenal and tottenham interest",
     "junior eli kroupi ruled out for 3-4 months amid arsenal and tottenham interest",
-    "rodri wants to join real madrid and the attraction is mutual"
+    "rodri wants to join real madrid and the attraction is mutual",
+    "liverpool transfer news: richard hughes willing to sell \u00a3250k per week forward f",
+    "real madrid monitoring former chelsea utility man - euro transfer news",
+    "\ud83d\udea8 \ud83c\uddf9\ud83c\uddf7 rafa leao\u2019s future remains open with fenerbahce and galatasaray both keen a"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1293,6 +1294,7 @@
     "jules kounde": "https://r2.thesportsdb.com/images/media/player/cutout/qea88i1726509803.png/small",
     "geronimo rulli": "https://r2.thesportsdb.com/images/media/player/cutout/cpkkmg1766153528.png/small",
     "rodri hernandez": "",
-    "cody gakpo": "https://r2.thesportsdb.com/images/media/player/cutout/lwkl5n1757088091.png/small"
+    "cody gakpo": "https://r2.thesportsdb.com/images/media/player/cutout/lwkl5n1757088091.png/small",
+    "renato veiga": "https://r2.thesportsdb.com/images/media/player/cutout/rxefp81762889381.png/small"
   }
 }

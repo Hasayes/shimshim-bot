@@ -153,8 +153,9 @@ def main():
     for n, c in enumerate(cards):
         what = ("interest from " + c["to_club"]) if c["kind"] == "interest" \
             else f"transfer to {c['to_club']} ({c['stage']})"
+        headline = (c.get("title") or "")[:110]
         lines.append(f"{n}. {c['player']} — {c['from_club']}: {what}, fee {c['fee']}, "
-                     f"published {c['ts'][:10]}")
+                     f"published {c['ts'][:10]}, source headline: \"{headline}\"")
     listing = "\n".join(lines)
 
     research = client.messages.create(
@@ -164,8 +165,11 @@ def main():
             "You audit a football transfer news feed. Today's date matters — "
             "use web search to spot-check the listed cards for: transfers that "
             "never actually happened or collapsed, wrong clubs or direction, "
-            "players at a different club than stated, clearly wrong fees, or "
-            "recycled old-season stories. You have at most 10 searches — "
+            "players at a different club than stated, clearly wrong fees, "
+            "recycled old-season stories, cards whose player is NOT the "
+            "subject of their own source headline (a passing mention was "
+            "extracted instead), or interest cards resting on opinion "
+            "pieces rather than reported interest. You have at most 10 searches — "
             "prioritise the most suspicious-looking entries and batch-check "
             "the rest with broad searches. End with bullet findings per card "
             "number: OK / WRONG (why) / UNSURE (why). Never end without the "

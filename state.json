@@ -1,6 +1,5 @@
 {
   "sent": [
-    "93cab8bd366b2917b93427f1b14e70ae",
     "tg:FabrizioRomanoTG/63645",
     "c161a697614a531c08dea3c5ee2e35cf",
     "f21aabbda97d3dfc7c478339d07de50e",
@@ -499,7 +498,8 @@
     "811680b8b30cae4ee449638f06dba912",
     "2fcaad76ee9f376801dcb0289def8d69",
     "tg:FabrizioRomanoTG/63840",
-    "83af9b4521b832cadbdcae647f2c75e4"
+    "83af9b4521b832cadbdcae647f2c75e4",
+    "96e7a7cc3d7dd6899a3bf126f09b516a"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -810,7 +810,6 @@
     "interest: nwaneri -> borussia dortmund"
   ],
   "titles": [
-    "arsenal and chelsea dealt transfer blow as 'agreement reached' for england star",
     "david ornstein: chelsea make move for premier league striker",
     "fabrizio romano reveals psg, juventus plans for aston villa target zion suzuki",
     "chelsea remain keen on signing this bournemouth midfielder: should alonso move i",
@@ -1109,7 +1108,8 @@
     "world cup star\u2019s agent confirms man utd contact, with next move \u2018close\u2019",
     "fabrizio romano: another liverpool deal could be on the cards after bradley barc",
     "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f brentford reach verbal agreement to sign mamadou sangare, here we go! san",
-    "man city reach transfer decision on real madrid target rodri as fabrizio romano "
+    "man city reach transfer decision on real madrid target rodri as fabrizio romano ",
+    "fabrizio romano drops fresh rodri to real madrid update as man city cling to one"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1301,7 +1301,6 @@
     "carlos espi": "https://images.fotmob.com/image_resources/playerimages/1610744.png",
     "ethan nwaneri": "https://r2.thesportsdb.com/images/media/player/cutout/duej621756983689.png/small",
     "angelino": "https://r2.thesportsdb.com/images/media/player/cutout/5pw52n1758816456.png/small",
-    "mishel nduka": "",
     "samuel martinez": "",
     "ibrahima ba": "",
     "cristian orozco": "",
@@ -1315,9 +1314,10 @@
     "victor froholdt": "",
     "mamadou sangare": "https://r2.thesportsdb.com/images/media/player/cutout/ybe69l1766006903.png/small",
     "kyle healy": "",
-    "benji flowers": ""
+    "benji flowers": "",
+    "mishel nduka": ""
   },
-  "photo_repair_idx": 10,
+  "photo_repair_idx": 11,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

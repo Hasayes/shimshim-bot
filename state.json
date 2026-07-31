@@ -1,6 +1,5 @@
 {
   "sent": [
-    "6a76f77a686b89a6425cf8d1f60fe555",
     "tg:FabrizioRomanoTG/63647",
     "af497e742436f54a38ea4363aaefe5f1",
     "6249f721c20b28517b6a1e5b3c20f0d9",
@@ -499,7 +498,8 @@
     "6933bf97b1a1050d843c0f1e0f811ddd",
     "7238d8ba72191dbaf60eaa7d30c7bfec",
     "c4e0356c78d7ab7d11fa59546df54ba0",
-    "07c592c5499fd54ebb53cf9c2f878975"
+    "07c592c5499fd54ebb53cf9c2f878975",
+    "tg:FabrizioRomanoTG/63844"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -810,7 +810,6 @@
     "interest: nwaneri -> borussia dortmund"
   ],
   "titles": [
-    "brighton midfielder is keen on joining manchester united: should carrick bring h",
     "john stones snubs liverpool and arsenal as fabrizio romano confirms inter milan ",
     "\ud83d\udea8 \ud83c\uddeb\ud83c\uddf7 official: zinedine zidane, new france head coach until world cup 2030 confi",
     "transfer: john stones\u2019 next club confirmed",
@@ -1109,7 +1108,8 @@
     "manchester city transfer target undergoes surgery as 100 day sideline spell begi",
     "liverpool transfer news psg close in on barcola replacement as inter could retur",
     "marcus rashford bids farewell message to barcelona amid cristiano ronaldo\u2019 al na",
-    "real madrid enter race for levante\u2019s espi as lazio priced out"
+    "real madrid enter race for levante\u2019s espi as lazio priced out",
+    "\ud83d\udea8 \ud83c\udf52 antonio silva to bournemouth, here we go! deal now signed between clubs for "
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1303,7 +1303,6 @@
     "angelino": "https://r2.thesportsdb.com/images/media/player/cutout/5pw52n1758816456.png/small",
     "ibrahima ba": "",
     "cristian orozco": "",
-    "axel donczew": "",
     "victor froholdt": "",
     "mamadou sangare": "https://r2.thesportsdb.com/images/media/player/cutout/ybe69l1766006903.png/small",
     "kyle healy": "",
@@ -1315,9 +1314,10 @@
     "kerem alajbegovic": "",
     "mateo soule": "",
     "ousmane ndiaye": "",
-    "martin": ""
+    "martin": "",
+    "axel donczew": ""
   },
-  "photo_repair_idx": 6,
+  "photo_repair_idx": 7,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

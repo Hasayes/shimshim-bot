@@ -1,15 +1,5 @@
 {
   "sent": [
-    "fb8110d022d569595980a614fc10a3dd",
-    "a25f19a0c4d02f70e2a3c60b6f8eb8ff",
-    "d548bc6526164ed6fcb785561ad16eef",
-    "a021ace52b8fab562596c2776a35c296",
-    "7189c3a773c9ec440d91d297365b29a6",
-    "tg:FabrizioRomanoTG/63641",
-    "3657963d8f204e008c78d90aeb08528b",
-    "279dc19aebdbfc2d50cf72b86257a772",
-    "37e64180c2b8cb2dca857aea39f7dae3",
-    "51d4e9f6ba32db51ddd3510b371cf18b",
     "084fc1be63220d66aef7a2cbf5463d45",
     "d68b14f94e4fbd6ab93c7be76c5a51e1",
     "e851f297f768a4b7954b0d342bad82ea",
@@ -499,7 +489,17 @@
     "b287e478e27742801e07d918afd371a1",
     "66ce38d3211f81885a6baefe1522dc58",
     "e01103bd7e37de24dfb704d5a7bd5e7e",
-    "tg:FabrizioRomanoTG/63833"
+    "tg:FabrizioRomanoTG/63833",
+    "42d441cf6540fbfa9e99a183a611cc63",
+    "e60e2f70adc0639dbd9ba12a9e1b05e9",
+    "d6f65dc30aade185d2049c89b79d4300",
+    "c86f7bb340de1f397cfc76c98883f450",
+    "65aa6e43bb397531fe40359e7932952d",
+    "91b1fff9bcf9391c9087387f3dbcb82d",
+    "7480a6209c94a3560dfbde21a6ab1f3a",
+    "73b2ec22cbc73f33cb950bb5e5e872a7",
+    "6463e011e5920016680b8ed3d49bb45b",
+    "cebc8e4959c06932829e85589ce9a8f1"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -646,7 +646,8 @@
     "koulierakis -> as roma": 1,
     "garcia -> fulham": 2,
     "palacios -> fulham": 1,
-    "espi -> real madrid": 1
+    "espi -> real madrid": 1,
+    "angelino -> deportivo": 1
   },
   "interest": [
     "interest: alvarez -> arsenal",
@@ -803,19 +804,10 @@
     "interest: veiga -> real madrid",
     "interest: goretzka -> barcelona",
     "interest: torres -> psg",
-    "interest: espi -> real madrid"
+    "interest: espi -> real madrid",
+    "interest: nwaneri -> milan"
   ],
   "titles": [
-    "barcelona forced to change transfer plans as fabrizio romano reveals \u2018crucial\u2019 p",
-    "new serie a join juventus in race to sign manchester united forward joshua zirkz",
-    "ajax reach agreement with wolves for arokodare as nigerian forward closes in on ",
-    "real madrid transfer news: yan diomande medical booked as \u00a385 5m agreement 'clos",
-    "premier league club slap \u20ac130 million price tag on barcelona\u2019s julian alvarez al",
-    "ac milan planning loan offer featuring mandatory buyout clause worth \u20ac50-55m for",
-    "zion suzuki future: paris saint-germain 'in talks' with japan world cup star lin",
-    "report como enter lucumi fray after juventus hesitation",
-    "man city also interested in barcelona target eli junior kroupi",
-    "man city set rodri asking price amid madrid, barca, psg interest - euro transfer",
     "inter milan close in on arsenal and chelsea target as fabrizio romano confirms \u2018",
     "liverpool handed bradley barcola transfer boost as 'deal agreed' for france star",
     "fabrizio romano: chelsea eyeing surprise move to sign jordan henderson",
@@ -1105,7 +1097,17 @@
     "liverpool have major advantage to exploit in bradley barcola transfer talks",
     "psg near agreement with monaco to secure maghnes akliouche signing",
     "psg close in on maghnes akliouche transfer despite rejected approaches",
-    "rt @fabrizioromano : \ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f newcastle have reached a verbal agreement with matt"
+    "rt @fabrizioromano : \ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f newcastle have reached a verbal agreement with matt",
+    "real madrid approve mastantuono\u2019s exit with three serie a clubs linked",
+    "arsenal target now set to join inter milan",
+    "\u201cmore movement\u201d \u2013 telegraph journalist says arsenal \u201cclosing in\u201d on another sign",
+    "ac milan contact arsenal about ethan nwaneri",
+    "\ud83d\udea8 reports: italy move sealed! bundesliga club sells talent for \u20ac35m",
+    "chelsea sign maxence lacroix from crystal palace in \u20ac60m deal",
+    "man utd chiefs choose baleba and manu kone as preferred midfield targets",
+    "confirmed: angelino leaves roma, ready to join deportivo",
+    "everton want to sign wonderkid, pl club are willing to sanction 'permanent deal'",
+    "romano: psg reach \u201cbreakthrough\u201d in talks with monaco over attacker transfer"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1295,7 +1297,6 @@
     "mario martin": "https://images.fotmob.com/image_resources/playerimages/1321605.png",
     "takato yamamoto": "",
     "carlos espi": "https://images.fotmob.com/image_resources/playerimages/1610744.png",
-    "mateo soule": "",
     "ousmane ndiaye": "",
     "martin": "",
     "axel donczew": "",
@@ -1308,9 +1309,12 @@
     "cristian orozco": "",
     "rodri hernandez": "",
     "junior kroupi": "",
-    "kerem alajbegovic": ""
+    "kerem alajbegovic": "",
+    "ethan nwaneri": "https://r2.thesportsdb.com/images/media/player/cutout/duej621756983689.png/small",
+    "angelino": "https://r2.thesportsdb.com/images/media/player/cutout/5pw52n1758816456.png/small",
+    "mateo soule": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",
@@ -1429,6 +1433,7 @@
     "lille": "https://images.fotmob.com/image_resources/logo/teamlogo/8639.png",
     "nottingham forest": "https://images.fotmob.com/image_resources/logo/teamlogo/10203.png",
     "gambinos stars": "",
-    "levante": "https://r2.thesportsdb.com/images/media/team/badge/xwtxsx1473503739.png/small"
+    "levante": "https://r2.thesportsdb.com/images/media/team/badge/xwtxsx1473503739.png/small",
+    "deportivo": "https://r2.thesportsdb.com/images/media/team/badge/isc2yu1580833286.png/small"
   }
 }

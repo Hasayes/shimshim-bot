@@ -1,6 +1,5 @@
 {
   "sent": [
-    "2f43e783506ee87fdc283f7983fedbf0",
     "c3b2d18b13f559fc54bd7820a5cba5d9",
     "tg:FabrizioRomanoTG/63644",
     "93cab8bd366b2917b93427f1b14e70ae",
@@ -499,7 +498,8 @@
     "8dc34db5966c156b6e11c70cbfd102ba",
     "e90138eb3b515da0790f1c3ff8d17590",
     "b82be799df68f6c0f35c4b9677c632d3",
-    "811680b8b30cae4ee449638f06dba912"
+    "811680b8b30cae4ee449638f06dba912",
+    "2fcaad76ee9f376801dcb0289def8d69"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -809,7 +809,6 @@
     "interest: nwaneri -> borussia dortmund"
   ],
   "titles": [
-    "liverpool \u201cdetermined\u201d to sign psg star: \u201ctop transfer target\u201d could cost them r",
     "tottenham's top transfer target after savinho is junior kroupi",
     "bradley barcola wants premier league move as liverpool and arsenal target inform",
     "arsenal and chelsea dealt transfer blow as 'agreement reached' for england star",
@@ -1108,7 +1107,8 @@
     "barcelona veteran\u2019s loan move to ajax back on track as tax issues resolved \u2013 rep",
     "ruben amorim pushing for record breaking arsenal star, with ac milan contact mad",
     "chelsea sign crystal palace defender maxence lacroix for \u00a352m",
-    "world cup star\u2019s agent confirms man utd contact, with next move \u2018close\u2019"
+    "world cup star\u2019s agent confirms man utd contact, with next move \u2018close\u2019",
+    "fabrizio romano: another liverpool deal could be on the cards after bradley barc"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1300,7 +1300,6 @@
     "carlos espi": "https://images.fotmob.com/image_resources/playerimages/1610744.png",
     "ethan nwaneri": "https://r2.thesportsdb.com/images/media/player/cutout/duej621756983689.png/small",
     "angelino": "https://r2.thesportsdb.com/images/media/player/cutout/5pw52n1758816456.png/small",
-    "victor froholdt": "",
     "kyle healy": "",
     "benji flowers": "",
     "mishel nduka": "",
@@ -1313,9 +1312,10 @@
     "mateo soule": "",
     "ousmane ndiaye": "",
     "martin": "",
-    "axel donczew": ""
+    "axel donczew": "",
+    "victor froholdt": ""
   },
-  "photo_repair_idx": 7,
+  "photo_repair_idx": 8,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

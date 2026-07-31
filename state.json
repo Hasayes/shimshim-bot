@@ -1,6 +1,5 @@
 {
   "sent": [
-    "c8676a39b3166f19ae06dde485359e38",
     "d69f163e82139bcebbe604f1e2aac3ad",
     "tg:FabrizioRomanoTG/63658",
     "c0f3b832023d9380eea795bd57f0cd27",
@@ -499,7 +498,8 @@
     "tg:FabrizioRomanoTG/63861",
     "tg:FabrizioRomanoTG/63862",
     "tg:FabrizioRomanoTG/63863",
-    "93efd1d2a8764831f005534a13b90c88"
+    "93efd1d2a8764831f005534a13b90c88",
+    "530c5bb9e5702ba5de8b0dab0feaf7af"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -812,7 +812,6 @@
     "interest: nwaneri -> borussia dortmund"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83c\udf33 ibrahim sangare signs new deal at nottingham forest valid until june 2029 ht",
     "arsenal transfer news: mikel arteta gets vinicius jr green light as \u00a3103m decisi",
     "\ud83d\udea8 \ud83c\udde7\ud83c\uddf7 excl: savinho informs manchester city about his desire to leave this summer",
     "diomande joins rb leipzig\u2019s pre-season training",
@@ -1111,7 +1110,8 @@
     "\ud83d\udfe1 \ud83d\udd35 ousmane diallo joins parma from borussia dortmund on permanent deal, agreeme",
     "\ud83d\udea8 \ud83d\udfe1 more on peter gulacsi and villarreal exclusive story the agreement is done o",
     "rt @fabrizioromano : \ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f como keep insisting to try get trevoh chalobah deal ",
-    "liverpool transfer news: one of the fastest players in the world could now repla"
+    "liverpool transfer news: one of the fastest players in the world could now repla",
+    "transfer: real madrid activate espi\u2019s release clause as mourinho gets new strike"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1321,7 +1321,7 @@
     "benji flowers": "",
     "mishel nduka": ""
   },
-  "photo_repair_idx": 11,
+  "photo_repair_idx": 12,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

@@ -1,8 +1,5 @@
 {
   "sent": [
-    "084fc1be63220d66aef7a2cbf5463d45",
-    "d68b14f94e4fbd6ab93c7be76c5a51e1",
-    "e851f297f768a4b7954b0d342bad82ea",
     "bd22f686e7a90282d1948ebe6a8c5ee7",
     "1a0f0811f21a31f575fc8d3dbfdd1440",
     "fefcc301b0a346d72e7283882bace091",
@@ -499,7 +496,10 @@
     "7480a6209c94a3560dfbde21a6ab1f3a",
     "73b2ec22cbc73f33cb950bb5e5e872a7",
     "6463e011e5920016680b8ed3d49bb45b",
-    "cebc8e4959c06932829e85589ce9a8f1"
+    "cebc8e4959c06932829e85589ce9a8f1",
+    "eac69f6f6ff31c510d185779f4d65413",
+    "c912075ab6a63a020bbed8adfa422829",
+    "1a24205d5b5efd9505194830202bb9b3"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -808,9 +808,6 @@
     "interest: nwaneri -> milan"
   ],
   "titles": [
-    "inter milan close in on arsenal and chelsea target as fabrizio romano confirms \u2018",
-    "liverpool handed bradley barcola transfer boost as 'deal agreed' for france star",
-    "fabrizio romano: chelsea eyeing surprise move to sign jordan henderson",
     "chelsea launch shock transfer swoop for former sunderland duo after failed grani",
     "report stones has verbal agreement for 2-year inter contract",
     "jordan henderson reacts after learning chelsea want to sign him",
@@ -1107,7 +1104,10 @@
     "man utd chiefs choose baleba and manu kone as preferred midfield targets",
     "confirmed: angelino leaves roma, ready to join deportivo",
     "everton want to sign wonderkid, pl club are willing to sanction 'permanent deal'",
-    "romano: psg reach \u201cbreakthrough\u201d in talks with monaco over attacker transfer"
+    "romano: psg reach \u201cbreakthrough\u201d in talks with monaco over attacker transfer",
+    "chelsea transfer update on maxence lacroix",
+    "manchester city submit offer for marseille goalkeeper geronimo rulli as agreemen",
+    "fulham agree \u20ac40m gonzalo garcia deal and close in on another real madrid signin"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1297,7 +1297,6 @@
     "mario martin": "https://images.fotmob.com/image_resources/playerimages/1321605.png",
     "takato yamamoto": "",
     "carlos espi": "https://images.fotmob.com/image_resources/playerimages/1610744.png",
-    "martin": "",
     "axel donczew": "",
     "victor froholdt": "",
     "kyle healy": "",
@@ -1312,9 +1311,10 @@
     "ethan nwaneri": "https://r2.thesportsdb.com/images/media/player/cutout/duej621756983689.png/small",
     "angelino": "https://r2.thesportsdb.com/images/media/player/cutout/5pw52n1758816456.png/small",
     "mateo soule": "",
-    "ousmane ndiaye": ""
+    "ousmane ndiaye": "",
+    "martin": ""
   },
-  "photo_repair_idx": 5,
+  "photo_repair_idx": 6,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

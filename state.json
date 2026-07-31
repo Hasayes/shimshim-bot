@@ -1,6 +1,5 @@
 {
   "sent": [
-    "1a0f0811f21a31f575fc8d3dbfdd1440",
     "fefcc301b0a346d72e7283882bace091",
     "cebdf70878d6a0762ed311a74e3b5531",
     "tg:FabrizioRomanoTG/63643",
@@ -499,7 +498,8 @@
     "eac69f6f6ff31c510d185779f4d65413",
     "c912075ab6a63a020bbed8adfa422829",
     "1a24205d5b5efd9505194830202bb9b3",
-    "c6dae69aaa925baaf2a33f18fcdac3da"
+    "c6dae69aaa925baaf2a33f18fcdac3da",
+    "4ec31abbfd299d2a3eac48f6178f76f3"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -805,10 +805,10 @@
     "interest: goretzka -> barcelona",
     "interest: torres -> psg",
     "interest: espi -> real madrid",
-    "interest: nwaneri -> milan"
+    "interest: nwaneri -> milan",
+    "interest: nwaneri -> borussia dortmund"
   ],
   "titles": [
-    "report stones has verbal agreement for 2-year inter contract",
     "jordan henderson reacts after learning chelsea want to sign him",
     "fabrizio romano: arsenal make approach to sign john stones",
     "chelsea in \u2018active talks\u2019 to sign 51-goal premier league star after alonso gives",
@@ -1107,7 +1107,8 @@
     "chelsea transfer update on maxence lacroix",
     "manchester city submit offer for marseille goalkeeper geronimo rulli as agreemen",
     "fulham agree \u20ac40m gonzalo garcia deal and close in on another real madrid signin",
-    "bruno guimaraes to arsenal finally \u201cprogressing\u201d and expected to go through \u201csoo"
+    "bruno guimaraes to arsenal finally \u201cprogressing\u201d and expected to go through \u201csoo",
+    "report confirms our exclusive on arsenal star being eyed for transfer to euro gi"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1297,7 +1298,6 @@
     "mario martin": "https://images.fotmob.com/image_resources/playerimages/1321605.png",
     "takato yamamoto": "",
     "carlos espi": "https://images.fotmob.com/image_resources/playerimages/1610744.png",
-    "benji flowers": "",
     "mishel nduka": "",
     "samuel martinez": "",
     "ibrahima ba": "",
@@ -1312,9 +1312,10 @@
     "martin": "",
     "axel donczew": "",
     "victor froholdt": "",
-    "kyle healy": ""
+    "kyle healy": "",
+    "benji flowers": ""
   },
-  "photo_repair_idx": 9,
+  "photo_repair_idx": 10,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

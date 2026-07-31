@@ -1,8 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/63645",
-    "c161a697614a531c08dea3c5ee2e35cf",
-    "f21aabbda97d3dfc7c478339d07de50e",
     "6e5bad919c312038c47fe3b47bd73522",
     "8ab3ef01738d2abe4242c02feb74ae54",
     "a82204b2cdac5370957e81659c14ef8c",
@@ -499,7 +496,10 @@
     "2fcaad76ee9f376801dcb0289def8d69",
     "tg:FabrizioRomanoTG/63840",
     "83af9b4521b832cadbdcae647f2c75e4",
-    "96e7a7cc3d7dd6899a3bf126f09b516a"
+    "96e7a7cc3d7dd6899a3bf126f09b516a",
+    "0855eb6f13fdb8fc2c499a3bd803fffd",
+    "8bebd8c6a3f72e5c8c7c405b0db0ec62",
+    "b825b2be99ae48064a11e0670aba2875"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -810,9 +810,6 @@
     "interest: nwaneri -> borussia dortmund"
   ],
   "titles": [
-    "david ornstein: chelsea make move for premier league striker",
-    "fabrizio romano reveals psg, juventus plans for aston villa target zion suzuki",
-    "chelsea remain keen on signing this bournemouth midfielder: should alonso move i",
     "man utd clear one hurdle for real madrid midfielder signing as two-year striker ",
     "xabi alonso\u2019s next chelsea signing could be this summer\u2019s most unexpected transf",
     "barcelona open talks with bournemouth youngster\u2019s entourage amid tottenham inter",
@@ -1109,7 +1106,10 @@
     "fabrizio romano: another liverpool deal could be on the cards after bradley barc",
     "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f brentford reach verbal agreement to sign mamadou sangare, here we go! san",
     "man city reach transfer decision on real madrid target rodri as fabrizio romano ",
-    "fabrizio romano drops fresh rodri to real madrid update as man city cling to one"
+    "fabrizio romano drops fresh rodri to real madrid update as man city cling to one",
+    "\u201cthat deal could get done\u201d \u2013 liverpool star could yet join premier league rivals",
+    "brentford transfer news: sangare set to replace henderson as bees reach 'verbal ",
+    "manchester city transfer target undergoes surgery as 100 day sideline spell begi"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1317,7 +1317,7 @@
     "benji flowers": "",
     "mishel nduka": ""
   },
-  "photo_repair_idx": 11,
+  "photo_repair_idx": 12,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

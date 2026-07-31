@@ -1,6 +1,5 @@
 {
   "sent": [
-    "76d0351f693dcd2c0d64627699359f5a",
     "tg:FabrizioRomanoTG/63669",
     "tg:FabrizioRomanoTG/63670",
     "ed748de795b745d9395b1861addc8f46",
@@ -499,7 +498,8 @@
     "be639a534b09f587c7f61a082a26e43c",
     "tg:FabrizioRomanoTG/63874",
     "tg:FabrizioRomanoTG/63875",
-    "531eeffb10f30dca8d19df4cdf3bc776"
+    "531eeffb10f30dca8d19df4cdf3bc776",
+    "tg:FabrizioRomanoTG/63876"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -810,10 +810,10 @@
     "interest: espi -> real madrid",
     "interest: nwaneri -> milan",
     "interest: nwaneri -> borussia dortmund",
-    "interest: engels -> west ham"
+    "interest: engels -> west ham",
+    "interest: godts -> psg"
   ],
   "titles": [
-    "maldini and leonardo quit italy roles after pirlo talks collapse",
     "rio ferdinand sends strong post reacting to chelsea's interest in danny welbeck",
     "chelsea transfer news today: done deals, live updates and rumours - july 28",
     "romano confirms chelsea \u2018here we go\u2019 coming \u2018very, very soon\u2019 as blues line up s",
@@ -1112,7 +1112,8 @@
     "medical booked for liverpool target ahead of \u00a341m transfer \u2013 fabrizio romano",
     "\u26aa\ufe0f \u26ab\ufe0f \ud83c\udde7\ud83c\uddf7 douglas luiz: \u201ci want to stay at juventus this summer\u201d \u201cthey are giving",
     "rt @fabrizioromano : \ud83d\udea8 \ud83e\udd85 raphael onyedika to eintracht frankfurt, here we go! ag",
-    "celtic in transfer 'talks' with cash rich english club as star's exit nears"
+    "celtic in transfer 'talks' with cash rich english club as star's exit nears",
+    "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 exclusive: paris saint germain open talks to sign mika godts from ajax as "
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1309,7 +1310,6 @@
     "mamadou sangare": "https://r2.thesportsdb.com/images/media/player/cutout/ybe69l1766006903.png/small",
     "ousmane diallo": "https://images.fotmob.com/image_resources/playerimages/1684415.png",
     "peter gulacsi": "https://r2.thesportsdb.com/images/media/player/cutout/f24kos1763561131.png/small",
-    "rodri hernandez": "",
     "junior kroupi": "",
     "kerem alajbegovic": "",
     "mateo soule": "",
@@ -1321,9 +1321,11 @@
     "benji flowers": "",
     "mishel nduka": "",
     "engels": "https://images.fotmob.com/image_resources/playerimages/1178443.png",
-    "samuel martinez": ""
+    "samuel martinez": "",
+    "mika godts": "https://r2.thesportsdb.com/images/media/player/cutout/e9ulvq1723380456.png/small",
+    "rodri hernandez": ""
   },
-  "photo_repair_idx": 13,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",
@@ -1445,6 +1447,7 @@
     "levante": "https://r2.thesportsdb.com/images/media/team/badge/xwtxsx1473503739.png/small",
     "deportivo": "https://r2.thesportsdb.com/images/media/team/badge/isc2yu1580833286.png/small",
     "rc lens": "https://r2.thesportsdb.com/images/media/team/badge/3pxoum1598797195.png/small",
-    "celtic": "https://r2.thesportsdb.com/images/media/team/badge/3uv1641758780002.png/small"
+    "celtic": "https://r2.thesportsdb.com/images/media/team/badge/3uv1641758780002.png/small",
+    "psg": "https://r2.thesportsdb.com/images/media/team/badge/rwqrrq1473504808.png/small"
   }
 }

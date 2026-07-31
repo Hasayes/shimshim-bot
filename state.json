@@ -1,11 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/63658",
-    "c0f3b832023d9380eea795bd57f0cd27",
-    "f1e412e0b4e6578f4a6271f4a3315c80",
-    "d2072d8dfc06ac084bf64440c2bcbf02",
-    "tg:FabrizioRomanoTG/63659",
-    "tg:FabrizioRomanoTG/63660",
     "f0d74095a40f4b89bb57daaa1b67a995",
     "tg:FabrizioRomanoTG/63661",
     "fdc06976ea019c8a3a5f074a23f196bd",
@@ -499,7 +493,13 @@
     "tg:FabrizioRomanoTG/63863",
     "93efd1d2a8764831f005534a13b90c88",
     "530c5bb9e5702ba5de8b0dab0feaf7af",
-    "b3524a0fba5c6a6202737ebbc92e92d5"
+    "b3524a0fba5c6a6202737ebbc92e92d5",
+    "08e2df4a7abf1d559728365ff2fd8ef8",
+    "8a7ec10f05c3ee798107cbc4d941ded4",
+    "tg:FabrizioRomanoTG/63865",
+    "tg:FabrizioRomanoTG/63867",
+    "tg:FabrizioRomanoTG/63868",
+    "tg:FabrizioRomanoTG/63869"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -612,7 +612,7 @@
     "diop -> ipswich town": 1,
     "digne -> psg": 2,
     "barco -> chelsea": 1,
-    "bisiwu -> barcelona": 1,
+    "bisiwu -> barcelona": 2,
     "lankshear -> middlesbrough": 2,
     "adeyemi -> barcelona": 2,
     "summerville -> al-hilal": 2,
@@ -812,11 +812,6 @@
     "interest: nwaneri -> borussia dortmund"
   ],
   "titles": [
-    "arsenal transfer news: mikel arteta gets vinicius jr green light as \u00a3103m decisi",
-    "\ud83d\udea8 \ud83c\udde7\ud83c\uddf7 excl: savinho informs manchester city about his desire to leave this summer",
-    "diomande joins rb leipzig\u2019s pre-season training",
-    "bayern munich news: details on the crazy al-hilal pursuit of luis diaz; aston vi",
-    "arokodare closes in on loan move to ajax",
     "\u26ab\ufe0f \ud83d\udd35 \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f john stones, expected to complete formal steps of his inter move on",
     "\ud83d\udd34 \ud83d\udd35 \u270d\ud83c\udffc official, confirmed lois openda has joined ol on loan deal from juventus ",
     "\u26ab\ufe0f \ud83d\udd35 \u2708\ufe0f confirmed: john stones will land in milano on thursday for medical and c",
@@ -1111,7 +1106,12 @@
     "\ud83d\udea8 \ud83d\udfe1 more on peter gulacsi and villarreal exclusive story the agreement is done o",
     "rt @fabrizioromano : \ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f como keep insisting to try get trevoh chalobah deal ",
     "liverpool transfer news: one of the fastest players in the world could now repla",
-    "transfer: real madrid activate espi\u2019s release clause as mourinho gets new strike"
+    "transfer: real madrid activate espi\u2019s release clause as mourinho gets new strike",
+    "romano confirms leeds target carlos espi has joined real madrid",
+    "man utd told tchouameni deal is \u2018possible\u2019 with decision on new real madrid cont",
+    "\ud83d\udea8 \ud83c\uddf9\ud83c\uddf7 abdellahmid sabiri has signed for eyupspor in turkyie after chapter closed ",
+    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f brighton agree deal to sign valentin joseph as talented striker for the f",
+    "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 official, confirmed 18 year old winger jesse bisiwu joins barcelona from c"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1306,7 +1306,6 @@
     "ibrahima ba": "",
     "cristian orozco": "",
     "mamadou sangare": "https://r2.thesportsdb.com/images/media/player/cutout/ybe69l1766006903.png/small",
-    "junior kroupi": "",
     "kerem alajbegovic": "",
     "ousmane diallo": "https://images.fotmob.com/image_resources/playerimages/1684415.png",
     "mateo soule": "",
@@ -1319,9 +1318,10 @@
     "benji flowers": "",
     "mishel nduka": "",
     "samuel martinez": "",
-    "rodri hernandez": ""
+    "rodri hernandez": "",
+    "junior kroupi": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

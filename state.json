@@ -1,6 +1,5 @@
 {
   "sent": [
-    "cebdf70878d6a0762ed311a74e3b5531",
     "tg:FabrizioRomanoTG/63643",
     "7afc7c37a7a82c7546d4022609502421",
     "d98ee78faba4769652129a94a1a7f6c5",
@@ -499,7 +498,8 @@
     "1a24205d5b5efd9505194830202bb9b3",
     "c6dae69aaa925baaf2a33f18fcdac3da",
     "4ec31abbfd299d2a3eac48f6178f76f3",
-    "dc2245c2b8cdbaa43b128751cab12d8a"
+    "dc2245c2b8cdbaa43b128751cab12d8a",
+    "8dc34db5966c156b6e11c70cbfd102ba"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -809,7 +809,6 @@
     "interest: nwaneri -> borussia dortmund"
   ],
   "titles": [
-    "fabrizio romano: arsenal make approach to sign john stones",
     "chelsea in \u2018active talks\u2019 to sign 51-goal premier league star after alonso gives",
     "inter nearing move for john stones, deal accelerating",
     "blockbuster transfer for vinicius junior would be \"the biggest deal in arsenal's",
@@ -1108,7 +1107,8 @@
     "fulham agree \u20ac40m gonzalo garcia deal and close in on another real madrid signin",
     "bruno guimaraes to arsenal finally \u201cprogressing\u201d and expected to go through \u201csoo",
     "report confirms our exclusive on arsenal star being eyed for transfer to euro gi",
-    "fulham complete \u20ac42m gonzalo garcia signing as real madrid secure sell on clause"
+    "fulham complete \u20ac42m gonzalo garcia signing as real madrid secure sell on clause",
+    "barcelona veteran\u2019s loan move to ajax back on track as tax issues resolved \u2013 rep"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1298,7 +1298,6 @@
     "mario martin": "https://images.fotmob.com/image_resources/playerimages/1321605.png",
     "takato yamamoto": "",
     "carlos espi": "https://images.fotmob.com/image_resources/playerimages/1610744.png",
-    "ibrahima ba": "",
     "cristian orozco": "",
     "rodri hernandez": "",
     "junior kroupi": "",
@@ -1313,9 +1312,10 @@
     "kyle healy": "",
     "benji flowers": "",
     "mishel nduka": "",
-    "samuel martinez": ""
+    "samuel martinez": "",
+    "ibrahima ba": ""
   },
-  "photo_repair_idx": 13,
+  "photo_repair_idx": 14,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

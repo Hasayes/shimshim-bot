@@ -1,6 +1,5 @@
 {
   "sent": [
-    "8f9538919ee4cecca046a1760e5e6b07",
     "tg:FabrizioRomanoTG/63676",
     "tg:FabrizioRomanoTG/63677",
     "tg:FabrizioRomanoTG/63678",
@@ -499,7 +498,8 @@
     "tg:FabrizioRomanoTG/63880",
     "a5bd4dfa40f5a4952d356d34ecefcf7b",
     "tg:FabrizioRomanoTG/63882",
-    "tg:FabrizioRomanoTG/63883"
+    "tg:FabrizioRomanoTG/63883",
+    "tg:FabrizioRomanoTG/63887"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -814,7 +814,6 @@
     "interest: godts -> psg"
   ],
   "titles": [
-    "arsenal news: mikel arteta given vinicius jr green light as \u00a3103m decision made",
     "fabrizio romano tells liverpool fans what to expect from bradley barcola pursuit",
     "\"it's like getting stabbed in the heart\" - liverpool fans left fuming as former ",
     "real madrid make first move as arsenal prepare bid for vinicius jr - reports",
@@ -1113,7 +1112,8 @@
     "\ud83d\udd34 \ud83d\udd35 \ud83d\udca5 more on mika godts and paris saint germain exclusive news paris saint germ",
     "como intensify pursuit of jhon lucumi as bologna demand \u20ac23m",
     "\ud83d\udea8 \u26aa\ufe0f \ud83d\udd35 excl: real sociedad sent official bid to wolves for czech defender ladisl",
-    "rt @fabrizioromano : \ud83d\udea8 \ud83d\udd34 \ud83d\udd35 exclusive: paris saint germain open talks to sign mik"
+    "rt @fabrizioromano : \ud83d\udea8 \ud83d\udd34 \ud83d\udd35 exclusive: paris saint germain open talks to sign mik",
+    "rt @fabrizioromano : \ud83d\udea8 \ud83d\udca3 breaking: yan diomande to real madrid, here we go! \u26aa\ufe0f \u2728"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1310,7 +1310,6 @@
     "mamadou sangare": "https://r2.thesportsdb.com/images/media/player/cutout/ybe69l1766006903.png/small",
     "ousmane diallo": "https://images.fotmob.com/image_resources/playerimages/1684415.png",
     "peter gulacsi": "https://r2.thesportsdb.com/images/media/player/cutout/f24kos1763561131.png/small",
-    "kyle healy": "",
     "benji flowers": "",
     "mishel nduka": "",
     "engels": "https://images.fotmob.com/image_resources/playerimages/1178443.png",
@@ -1323,9 +1322,10 @@
     "ousmane ndiaye": "",
     "martin": "",
     "axel donczew": "",
-    "victor froholdt": ""
+    "victor froholdt": "",
+    "kyle healy": ""
   },
-  "photo_repair_idx": 8,
+  "photo_repair_idx": 9,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

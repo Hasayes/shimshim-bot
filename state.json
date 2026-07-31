@@ -1,6 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/63655",
     "f9f78b954e5672e0dbce01fab70cb525",
     "f4c1a880911395515cb317762e4d894a",
     "2fddb35aa4e899cebbe0a2158e83b886",
@@ -499,7 +498,8 @@
     "tg:FabrizioRomanoTG/63855",
     "f98429eb6f2325b7c5c1cc9a34d36e18",
     "tg:FabrizioRomanoTG/63858",
-    "1ab17a61967c4894ca6ee5af3cd99a8b"
+    "1ab17a61967c4894ca6ee5af3cd99a8b",
+    "tg:FabrizioRomanoTG/63861"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -648,7 +648,8 @@
     "palacios -> fulham": 1,
     "espi -> real madrid": 1,
     "angelino -> deportivo": 1,
-    "sangare -> brentford": 1
+    "sangare -> brentford": 1,
+    "diallo -> parma": 2
   },
   "interest": [
     "interest: alvarez -> arsenal",
@@ -810,7 +811,6 @@
     "interest: nwaneri -> borussia dortmund"
   ],
   "titles": [
-    "rt @fabrizioromano : \ud83d\udea8 \ud83d\udca3 breaking: yan diomande to real madrid, here we go! \u26aa\ufe0f \u2728",
     "\ud83d\udd03 \ud83c\uddee\ud83c\uddf9 fenerbahce mission for leao, stones to join inter on two year deal, suzuki ",
     "\ud83d\udea8 \ud83c\uddee\ud83c\uddf9 official: roberto mancini has been appointed as new italy head coach, the f",
     "\ud83d\udea8 bradley barcola wants to join liverpool and there\u2019s no doubt on that, as repor",
@@ -1109,7 +1109,8 @@
     "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f como keep insisting to try get trevoh chalobah deal done with chelsea as ",
     "fabrizio romano is opening the door for a final rodri transfer twist the real ch",
     "\ud83d\udea8 \ud83d\udd35 official: mykhailo mudryk is clear to play again after doping accusations ca",
-    "report: argentina\u2019s geronimo rulli could return to manchester city nine years af"
+    "report: argentina\u2019s geronimo rulli could return to manchester city nine years af",
+    "\ud83d\udfe1 \ud83d\udd35 ousmane diallo joins parma from borussia dortmund on permanent deal, agreeme"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1304,7 +1305,6 @@
     "ibrahima ba": "",
     "cristian orozco": "",
     "mamadou sangare": "https://r2.thesportsdb.com/images/media/player/cutout/ybe69l1766006903.png/small",
-    "mateo soule": "",
     "ousmane ndiaye": "",
     "martin": "",
     "axel donczew": "",
@@ -1315,9 +1315,11 @@
     "samuel martinez": "",
     "rodri hernandez": "",
     "junior kroupi": "",
-    "kerem alajbegovic": ""
+    "kerem alajbegovic": "",
+    "ousmane diallo": "https://images.fotmob.com/image_resources/playerimages/1684415.png",
+    "mateo soule": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

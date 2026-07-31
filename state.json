@@ -1,6 +1,5 @@
 {
   "sent": [
-    "bd22f686e7a90282d1948ebe6a8c5ee7",
     "1a0f0811f21a31f575fc8d3dbfdd1440",
     "fefcc301b0a346d72e7283882bace091",
     "cebdf70878d6a0762ed311a74e3b5531",
@@ -499,7 +498,8 @@
     "cebc8e4959c06932829e85589ce9a8f1",
     "eac69f6f6ff31c510d185779f4d65413",
     "c912075ab6a63a020bbed8adfa422829",
-    "1a24205d5b5efd9505194830202bb9b3"
+    "1a24205d5b5efd9505194830202bb9b3",
+    "c6dae69aaa925baaf2a33f18fcdac3da"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -808,7 +808,6 @@
     "interest: nwaneri -> milan"
   ],
   "titles": [
-    "chelsea launch shock transfer swoop for former sunderland duo after failed grani",
     "report stones has verbal agreement for 2-year inter contract",
     "jordan henderson reacts after learning chelsea want to sign him",
     "fabrizio romano: arsenal make approach to sign john stones",
@@ -1107,7 +1106,8 @@
     "romano: psg reach \u201cbreakthrough\u201d in talks with monaco over attacker transfer",
     "chelsea transfer update on maxence lacroix",
     "manchester city submit offer for marseille goalkeeper geronimo rulli as agreemen",
-    "fulham agree \u20ac40m gonzalo garcia deal and close in on another real madrid signin"
+    "fulham agree \u20ac40m gonzalo garcia deal and close in on another real madrid signin",
+    "bruno guimaraes to arsenal finally \u201cprogressing\u201d and expected to go through \u201csoo"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1297,7 +1297,6 @@
     "mario martin": "https://images.fotmob.com/image_resources/playerimages/1321605.png",
     "takato yamamoto": "",
     "carlos espi": "https://images.fotmob.com/image_resources/playerimages/1610744.png",
-    "axel donczew": "",
     "victor froholdt": "",
     "kyle healy": "",
     "benji flowers": "",
@@ -1312,9 +1311,10 @@
     "angelino": "https://r2.thesportsdb.com/images/media/player/cutout/5pw52n1758816456.png/small",
     "mateo soule": "",
     "ousmane ndiaye": "",
-    "martin": ""
+    "martin": "",
+    "axel donczew": ""
   },
-  "photo_repair_idx": 6,
+  "photo_repair_idx": 7,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

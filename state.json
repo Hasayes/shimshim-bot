@@ -1,8 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/63672",
-    "tg:FabrizioRomanoTG/63674",
-    "4f38029c31f7ab0a1fd422ea79b21c91",
     "8f9538919ee4cecca046a1760e5e6b07",
     "tg:FabrizioRomanoTG/63676",
     "tg:FabrizioRomanoTG/63677",
@@ -499,7 +496,10 @@
     "tg:FabrizioRomanoTG/63876",
     "b0e6c39daaa61f45ded583e4d3815043",
     "tg:FabrizioRomanoTG/63877",
-    "tg:FabrizioRomanoTG/63880"
+    "tg:FabrizioRomanoTG/63880",
+    "a5bd4dfa40f5a4952d356d34ecefcf7b",
+    "tg:FabrizioRomanoTG/63882",
+    "tg:FabrizioRomanoTG/63883"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -814,9 +814,6 @@
     "interest: godts -> psg"
   ],
   "titles": [
-    "transfer rumors, news: real madrid offer vinicius",
-    "fabrizio romano confirms \u2018another surprise\u2019 transfer story liverpool fans won\u2019t ",
-    "arsenal \u2018preparing a first official offer\u2019 after late monday night claim from sk",
     "arsenal news: mikel arteta given vinicius jr green light as \u00a3103m decision made",
     "fabrizio romano tells liverpool fans what to expect from bradley barcola pursuit",
     "\"it's like getting stabbed in the heart\" - liverpool fans left fuming as former ",
@@ -1113,7 +1110,10 @@
     "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 exclusive: paris saint germain open talks to sign mika godts from ajax as ",
     "real madrid target levante forward carlos espi",
     "@psg_report club to club done as said yesterday some details to clarify before a",
-    "\ud83d\udd34 \ud83d\udd35 \ud83d\udca5 more on mika godts and paris saint germain exclusive news paris saint germ"
+    "\ud83d\udd34 \ud83d\udd35 \ud83d\udca5 more on mika godts and paris saint germain exclusive news paris saint germ",
+    "como intensify pursuit of jhon lucumi as bologna demand \u20ac23m",
+    "\ud83d\udea8 \u26aa\ufe0f \ud83d\udd35 excl: real sociedad sent official bid to wolves for czech defender ladisl",
+    "rt @fabrizioromano : \ud83d\udea8 \ud83d\udd34 \ud83d\udd35 exclusive: paris saint germain open talks to sign mik"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1310,7 +1310,6 @@
     "mamadou sangare": "https://r2.thesportsdb.com/images/media/player/cutout/ybe69l1766006903.png/small",
     "ousmane diallo": "https://images.fotmob.com/image_resources/playerimages/1684415.png",
     "peter gulacsi": "https://r2.thesportsdb.com/images/media/player/cutout/f24kos1763561131.png/small",
-    "mateo soule": "",
     "ousmane ndiaye": "",
     "martin": "",
     "axel donczew": "",
@@ -1323,9 +1322,10 @@
     "mika godts": "https://r2.thesportsdb.com/images/media/player/cutout/e9ulvq1723380456.png/small",
     "rodri hernandez": "",
     "junior kroupi": "",
-    "kerem alajbegovic": ""
+    "kerem alajbegovic": "",
+    "mateo soule": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

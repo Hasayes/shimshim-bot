@@ -1,7 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/63643",
-    "7afc7c37a7a82c7546d4022609502421",
     "d98ee78faba4769652129a94a1a7f6c5",
     "2f43e783506ee87fdc283f7983fedbf0",
     "c3b2d18b13f559fc54bd7820a5cba5d9",
@@ -499,7 +497,9 @@
     "c6dae69aaa925baaf2a33f18fcdac3da",
     "4ec31abbfd299d2a3eac48f6178f76f3",
     "dc2245c2b8cdbaa43b128751cab12d8a",
-    "8dc34db5966c156b6e11c70cbfd102ba"
+    "8dc34db5966c156b6e11c70cbfd102ba",
+    "e90138eb3b515da0790f1c3ff8d17590",
+    "b82be799df68f6c0f35c4b9677c632d3"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -809,8 +809,6 @@
     "interest: nwaneri -> borussia dortmund"
   ],
   "titles": [
-    "chelsea in \u2018active talks\u2019 to sign 51-goal premier league star after alonso gives",
-    "inter nearing move for john stones, deal accelerating",
     "blockbuster transfer for vinicius junior would be \"the biggest deal in arsenal's",
     "liverpool \u201cdetermined\u201d to sign psg star: \u201ctop transfer target\u201d could cost them r",
     "tottenham's top transfer target after savinho is junior kroupi",
@@ -1108,7 +1106,9 @@
     "bruno guimaraes to arsenal finally \u201cprogressing\u201d and expected to go through \u201csoo",
     "report confirms our exclusive on arsenal star being eyed for transfer to euro gi",
     "fulham complete \u20ac42m gonzalo garcia signing as real madrid secure sell on clause",
-    "barcelona veteran\u2019s loan move to ajax back on track as tax issues resolved \u2013 rep"
+    "barcelona veteran\u2019s loan move to ajax back on track as tax issues resolved \u2013 rep",
+    "ruben amorim pushing for record breaking arsenal star, with ac milan contact mad",
+    "chelsea sign crystal palace defender maxence lacroix for \u00a352m"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1298,7 +1298,6 @@
     "mario martin": "https://images.fotmob.com/image_resources/playerimages/1321605.png",
     "takato yamamoto": "",
     "carlos espi": "https://images.fotmob.com/image_resources/playerimages/1610744.png",
-    "cristian orozco": "",
     "rodri hernandez": "",
     "junior kroupi": "",
     "kerem alajbegovic": "",
@@ -1313,9 +1312,10 @@
     "benji flowers": "",
     "mishel nduka": "",
     "samuel martinez": "",
-    "ibrahima ba": ""
+    "ibrahima ba": "",
+    "cristian orozco": ""
   },
-  "photo_repair_idx": 14,
+  "photo_repair_idx": 15,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

@@ -1,6 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/63654",
     "e0967471c8c6509aabf55e5590c33e66",
     "tg:FabrizioRomanoTG/63655",
     "f9f78b954e5672e0dbce01fab70cb525",
@@ -499,7 +498,8 @@
     "tg:FabrizioRomanoTG/63853",
     "tg:FabrizioRomanoTG/63854",
     "tg:FabrizioRomanoTG/63855",
-    "f98429eb6f2325b7c5c1cc9a34d36e18"
+    "f98429eb6f2325b7c5c1cc9a34d36e18",
+    "tg:FabrizioRomanoTG/63858"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -810,7 +810,6 @@
     "interest: nwaneri -> borussia dortmund"
   ],
   "titles": [
-    "italy: maldini and leonardo resigned from their positions in the federation afte",
     "\ud83d\udea8 \ud83c\uddee\ud83c\uddf9 breaking: italy have appointed claudio ranieri as new technical director, h",
     "rt @fabrizioromano : \ud83d\udea8 \ud83d\udca3 breaking: yan diomande to real madrid, here we go! \u26aa\ufe0f \u2728",
     "\ud83d\udd03 \ud83c\uddee\ud83c\uddf9 fenerbahce mission for leao, stones to join inter on two year deal, suzuki ",
@@ -1109,7 +1108,8 @@
     "\ud83d\udea8 \ud83d\udd34 \u26ab\ufe0f bayer leverkusen have sent an official bid to napoli for miguel gutierrez",
     "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 albanian defender mario mitaj leaves al ittihad and joins genoa, deal agre",
     "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f como keep insisting to try get trevoh chalobah deal done with chelsea as ",
-    "fabrizio romano is opening the door for a final rodri transfer twist the real ch"
+    "fabrizio romano is opening the door for a final rodri transfer twist the real ch",
+    "\ud83d\udea8 \ud83d\udd35 official: mykhailo mudryk is clear to play again after doping accusations ca"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1304,7 +1304,6 @@
     "ibrahima ba": "",
     "cristian orozco": "",
     "mamadou sangare": "https://r2.thesportsdb.com/images/media/player/cutout/ybe69l1766006903.png/small",
-    "rodri hernandez": "",
     "junior kroupi": "",
     "kerem alajbegovic": "",
     "mateo soule": "",
@@ -1315,9 +1314,10 @@
     "kyle healy": "",
     "benji flowers": "",
     "mishel nduka": "",
-    "samuel martinez": ""
+    "samuel martinez": "",
+    "rodri hernandez": ""
   },
-  "photo_repair_idx": 13,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

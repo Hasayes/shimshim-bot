@@ -1,6 +1,5 @@
 {
   "sent": [
-    "2284b2368412cebe72a6538816593b21",
     "3cadc0bac6ecbefdd70646faecdf288c",
     "tg:FabrizioRomanoTG/63651",
     "9feb113372752c9aa552c1b658b4c9eb",
@@ -499,7 +498,8 @@
     "e30042f943920e70e97143a4b77bfcb9",
     "532c8f44870654de97c3ebfe07785098",
     "0e1187c64e1221ea824780d897fed169",
-    "tg:FabrizioRomanoTG/63851"
+    "tg:FabrizioRomanoTG/63851",
+    "tg:FabrizioRomanoTG/63852"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -810,7 +810,6 @@
     "interest: nwaneri -> borussia dortmund"
   ],
   "titles": [
-    "\u2018aston villa are still in direct talks\u2019 \u2013 sky sports man drops exciting aston vi",
     "chelsea transfer news: fabrizio romano clarifies xabi alonso and veterans' stanc",
     "\ud83d\udea8 \ud83d\udd35 breaking: roberto mancini has agreed to become new italy head coach, here we",
     "arokodare joins ajax on season-long loan",
@@ -1109,7 +1108,8 @@
     "liverpool target secures \u2018verbal agreement\u2019 ahead of likely \u00a3100m plus transfer",
     "manchester city set asking price for rodri sale amid real madrid links: reports",
     "'here we go' fabrizio romano confirms leeds transfer target has joined another c",
-    "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 after maghnes akliouche deal being sealed this weekend, paris saint germai"
+    "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 after maghnes akliouche deal being sealed this weekend, paris saint germai",
+    "\ud83d\udea8 \ud83c\udde6\ud83c\uddf7 franco mastantuono will leave real madrid on loan, decision confirmed on cl"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1304,7 +1304,6 @@
     "ibrahima ba": "",
     "cristian orozco": "",
     "mamadou sangare": "https://r2.thesportsdb.com/images/media/player/cutout/ybe69l1766006903.png/small",
-    "samuel martinez": "",
     "rodri hernandez": "",
     "junior kroupi": "",
     "kerem alajbegovic": "",
@@ -1315,9 +1314,10 @@
     "victor froholdt": "",
     "kyle healy": "",
     "benji flowers": "",
-    "mishel nduka": ""
+    "mishel nduka": "",
+    "samuel martinez": ""
   },
-  "photo_repair_idx": 12,
+  "photo_repair_idx": 13,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

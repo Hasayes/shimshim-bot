@@ -1,6 +1,5 @@
 {
   "sent": [
-    "a82204b2cdac5370957e81659c14ef8c",
     "82602a6ad6e9f33f00115451d227a221",
     "6a76f77a686b89a6425cf8d1f60fe555",
     "tg:FabrizioRomanoTG/63647",
@@ -499,7 +498,8 @@
     "8bebd8c6a3f72e5c8c7c405b0db0ec62",
     "b825b2be99ae48064a11e0670aba2875",
     "6933bf97b1a1050d843c0f1e0f811ddd",
-    "7238d8ba72191dbaf60eaa7d30c7bfec"
+    "7238d8ba72191dbaf60eaa7d30c7bfec",
+    "c4e0356c78d7ab7d11fa59546df54ba0"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -810,7 +810,6 @@
     "interest: nwaneri -> borussia dortmund"
   ],
   "titles": [
-    "xabi alonso\u2019s next chelsea signing could be this summer\u2019s most unexpected transf",
     "barcelona open talks with bournemouth youngster\u2019s entourage amid tottenham inter",
     "brighton midfielder is keen on joining manchester united: should carrick bring h",
     "john stones snubs liverpool and arsenal as fabrizio romano confirms inter milan ",
@@ -1109,7 +1108,8 @@
     "\u201cthat deal could get done\u201d \u2013 liverpool star could yet join premier league rivals",
     "brentford transfer news: sangare set to replace henderson as bees reach 'verbal ",
     "manchester city transfer target undergoes surgery as 100 day sideline spell begi",
-    "liverpool transfer news psg close in on barcola replacement as inter could retur"
+    "liverpool transfer news psg close in on barcola replacement as inter could retur",
+    "marcus rashford bids farewell message to barcelona amid cristiano ronaldo\u2019 al na"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1303,7 +1303,6 @@
     "angelino": "https://r2.thesportsdb.com/images/media/player/cutout/5pw52n1758816456.png/small",
     "ibrahima ba": "",
     "cristian orozco": "",
-    "mateo soule": "",
     "ousmane ndiaye": "",
     "martin": "",
     "axel donczew": "",
@@ -1315,9 +1314,10 @@
     "samuel martinez": "",
     "rodri hernandez": "",
     "junior kroupi": "",
-    "kerem alajbegovic": ""
+    "kerem alajbegovic": "",
+    "mateo soule": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

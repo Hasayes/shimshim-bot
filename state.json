@@ -1,7 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/63663",
-    "tg:FabrizioRomanoTG/63665",
     "tg:FabrizioRomanoTG/63666",
     "tg:FabrizioRomanoTG/63667",
     "05909600280c983984179f3255bba85a",
@@ -499,7 +497,9 @@
     "tg:FabrizioRomanoTG/63869",
     "adbf91a17bccff29d1582df2ce071901",
     "5500b2dd4d5c4d258335f5c4607407af",
-    "tg:FabrizioRomanoTG/63872"
+    "tg:FabrizioRomanoTG/63872",
+    "921e597e683c629bdd540c7bfe397926",
+    "0ff4dc420ec10c05a9f13a5a4f4e3e05"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -812,8 +812,6 @@
     "interest: nwaneri -> borussia dortmund"
   ],
   "titles": [
-    "arsenal preparing first official offer to sign vinicius junior",
-    "rio ferdinand tells star to \u2018ignore\u2019 chelsea and \u2018come\u2019 to man utd",
     "arsenal prepare first official bid for vinicius jr as real madrid improve renewa",
     "maldini and leonardo step down from figc after only 16 days amid managerial disp",
     "chelsea in talks to sign former liverpool star who got injured at fifa world cup",
@@ -1111,7 +1109,9 @@
     "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 official, confirmed 18 year old winger jesse bisiwu joins barcelona from c",
     "\u2018there\u2019s a verbal agreement\u2019 \u2013 jacobs reveals man utd \u2018leading target\u2019 for third",
     "transfer rumors, news: man united looking at pair of serie a wingers",
-    "\ud83d\udea8 \ud83e\udd85 raphael onyedika to eintracht frankfurt, here we go! agreement done for nige"
+    "\ud83d\udea8 \ud83e\udd85 raphael onyedika to eintracht frankfurt, here we go! agreement done for nige",
+    "\ud83e\udd1d barca give the green light, ter stegen joins michel's ajax",
+    "liverpool talks on barcola signing resume as fabrizio romano reveals \u2018real issue"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1308,7 +1308,6 @@
     "mamadou sangare": "https://r2.thesportsdb.com/images/media/player/cutout/ybe69l1766006903.png/small",
     "ousmane diallo": "https://images.fotmob.com/image_resources/playerimages/1684415.png",
     "peter gulacsi": "https://r2.thesportsdb.com/images/media/player/cutout/f24kos1763561131.png/small",
-    "benji flowers": "",
     "mishel nduka": "",
     "samuel martinez": "",
     "rodri hernandez": "",
@@ -1319,9 +1318,10 @@
     "martin": "",
     "axel donczew": "",
     "victor froholdt": "",
-    "kyle healy": ""
+    "kyle healy": "",
+    "benji flowers": ""
   },
-  "photo_repair_idx": 9,
+  "photo_repair_idx": 10,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

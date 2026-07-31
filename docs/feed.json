@@ -1,5 +1,24 @@
 [
  {
+  "id": "531eeffb10f30dca8d19df4cdf3bc776",
+  "ts": "2026-07-31T20:45:33+00:00",
+  "kind": "interest",
+  "photo": "https://images.fotmob.com/image_resources/playerimages/1178443.png",
+  "stage": "\u2014",
+  "player": "Engels",
+  "position": "Midfielder",
+  "age": "\u2014",
+  "from_club": "Celtic",
+  "to_club": "West Ham United",
+  "fee": "\u2014",
+  "style": "\u2014",
+  "fit": "\u2014",
+  "source": "Glasgow Times",
+  "outlet": "glasgowtimes",
+  "url": "https://www.glasgowtimes.co.uk/sport/26425593.celtic-in-talks-english-side-summer-transfer/",
+  "title": "Celtic in transfer 'talks' with cash-rich English club as star's exit nears"
+ },
+ {
   "id": "tg:FabrizioRomanoTG/63869",
   "ts": "2026-07-31T18:36:14+00:00",
   "kind": "deal",

@@ -1,6 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/63651",
     "9feb113372752c9aa552c1b658b4c9eb",
     "c99fc8f209ebc40920bcc712678e2a84",
     "96f2220a7f55359cee933c72b45fe6a3",
@@ -499,7 +498,8 @@
     "0e1187c64e1221ea824780d897fed169",
     "tg:FabrizioRomanoTG/63851",
     "tg:FabrizioRomanoTG/63852",
-    "ffc6946f0db947ad490dd34131d9a541"
+    "ffc6946f0db947ad490dd34131d9a541",
+    "efc32a24eef60b8f478a66da4a218928"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -810,7 +810,6 @@
     "interest: nwaneri -> borussia dortmund"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83d\udd35 breaking: roberto mancini has agreed to become new italy head coach, here we",
     "arokodare joins ajax on season-long loan",
     "chelsea danny welbeck transfer: why the 35-year-old striker is xabi alonso\u2019s sur",
     "\ud83d\udea8 \ud83c\udded\ud83c\uddf7 official, confirmed since june josko gvardiol has signed new long term deal",
@@ -1109,7 +1108,8 @@
     "'here we go' fabrizio romano confirms leeds transfer target has joined another c",
     "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 after maghnes akliouche deal being sealed this weekend, paris saint germai",
     "\ud83d\udea8 \ud83c\udde6\ud83c\uddf7 franco mastantuono will leave real madrid on loan, decision confirmed on cl",
-    "tyneside turnover could present lewis hall opportunity for manchester united"
+    "tyneside turnover could present lewis hall opportunity for manchester united",
+    "liverpool target secures a\u0080\u0098verbal agreementa\u0080\u0099 ahead of likely a\u00a3100m plus tran"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1304,7 +1304,6 @@
     "ibrahima ba": "",
     "cristian orozco": "",
     "mamadou sangare": "https://r2.thesportsdb.com/images/media/player/cutout/ybe69l1766006903.png/small",
-    "junior kroupi": "",
     "kerem alajbegovic": "",
     "mateo soule": "",
     "ousmane ndiaye": "",
@@ -1315,9 +1314,10 @@
     "benji flowers": "",
     "mishel nduka": "",
     "samuel martinez": "",
-    "rodri hernandez": ""
+    "rodri hernandez": "",
+    "junior kroupi": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

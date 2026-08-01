@@ -1053,7 +1053,12 @@ def _card_sig(kind, stage, player, to_club):
 
 
 def append_feed(article, brief, photo=""):
-    """Prepend this card to the JSON feed the PWA reads."""
+    """Upsert the card: one card per transfer journey, moving through stages.
+
+    Rumour -> Here we go -> Confirmed is ONE card that upgrades in place
+    (suitors collapse to the winning club when a deal stage arrives) and
+    jumps to the top of the feed. A brand-new story appends a new card.
+    """
     feed = []
     if FEED_FILE.exists():
         try:
@@ -1064,6 +1069,58 @@ def append_feed(article, brief, photo=""):
     if any(_card_sig(c["kind"], c.get("stage", ""), c["player"], c["to_club"]) == sig
            for c in feed):
         print(f"feed append skipped (identical card exists): {brief.player}")
+        return
+
+    player_key = _norm(brief.player)
+    existing = None
+    if brief.kind == "deal":
+        dest = _norm_club(brief.to_club)
+        for c in feed:
+            if _norm(c["player"]) != player_key:
+                continue
+            if c["kind"] == "interest":
+                existing = c  # the rumour that became a deal
+                break
+            if c["kind"] == "deal" and _norm_club(c["to_club"]) == dest \
+                    and STAGE_RANK.get(_norm(c.get("stage", "")), 0) < stage_rank(brief):
+                existing = c  # the same journey at a lower stage
+                break
+    elif brief.kind == "interest":
+        for c in feed:
+            if _norm(c["player"]) == player_key and c["kind"] == "interest":
+                existing = c  # merge the new suitor(s) into the player's card
+                break
+
+    if existing is not None:
+        if brief.kind == "interest":
+            seen_clubs, suitors = set(), []
+            for raw in (existing["to_club"] + "," + brief.to_club).split(","):
+                s = raw.strip()
+                if s and s != "—" and _norm_club(s) not in seen_clubs:
+                    seen_clubs.add(_norm_club(s))
+                    suitors.append(s)
+            existing["to_club"] = ", ".join(suitors)
+        else:
+            existing["kind"] = "deal"
+            existing["stage"] = brief.stage
+            existing["to_club"] = brief.to_club
+        for field, val in (("from_club", brief.from_club), ("fee", brief.fee),
+                           ("position", brief.position), ("age", brief.age),
+                           ("style", brief.style), ("fit", brief.fit),
+                           ("source", brief.source)):
+            if (val or "").strip() not in ("", "—"):
+                existing[field] = val
+        if photo and not existing.get("photo"):
+            existing["photo"] = photo
+        existing["ts"] = datetime.now(timezone.utc).isoformat(timespec="seconds")
+        existing["outlet"] = article["source"]
+        existing["url"] = article["url"]
+        existing["title"] = article["title"]
+        feed.remove(existing)
+        feed.insert(0, existing)
+        FEED_FILE.parent.mkdir(parents=True, exist_ok=True)
+        FEED_FILE.write_text(json.dumps(feed[:MAX_FEED], indent=1))
+        print(f"card upgraded: {brief.player} -> {brief.to_club} ({brief.kind}/{brief.stage})")
         return
     feed.insert(0, {
         "id": article["id"],

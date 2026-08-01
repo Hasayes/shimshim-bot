@@ -1,6 +1,5 @@
 {
   "sent": [
-    "827538236f693e37ef9b8d9c7cdac795",
     "c817ebdf1ceed4cc8c58287979051acd",
     "cfee37e0861dc63ba60f43d26c898593",
     "7675c40dcb4eea18d6768ae38e3c33dc",
@@ -499,7 +498,8 @@
     "tg:FabrizioRomanoTG/63919",
     "tg:FabrizioRomanoTG/63920",
     "tg:FabrizioRomanoTG/63921",
-    "tg:FabrizioRomanoTG/63922"
+    "tg:FabrizioRomanoTG/63922",
+    "tg:FabrizioRomanoTG/63924"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -820,7 +820,6 @@
     "interest: chavarria -> chelsea"
   ],
   "titles": [
-    "luis diaz reportedly turns down al hilal\u2019s \u20ac25m offer, choosing to stay with bay",
     "manchester city are in talks to land this ligue 1 midfielder: should maresca lau",
     "watch: joao pedro scores stunning nine-minute hat-trick as xabi alonso wins chel",
     "\ud83d\udea8 \ud83d\udc02 kian fitz-jim travels to italy today to sign in as new torino player from aj",
@@ -1119,7 +1118,8 @@
     "\ud83d\udd34 \u2b50\ufe0f jj gabriel made his first team debut for manchester united in unofficial ga",
     "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f arsenal in direct talks again today with newcastle to close bruno guimara",
     "\ud83d\udd35 \u26aa\ufe0f exclusive story confirmed: hoffenheim agree \u20ac16m deal to sign adam daghim f",
-    "\ud83d\udea8 \ud83d\udd35 official: danny welbeck joins chelsea from brighton on a two year deal \u201ci\u2019m "
+    "\ud83d\udea8 \ud83d\udd35 official: danny welbeck joins chelsea from brighton on a two year deal \u201ci\u2019m ",
+    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f rb leipzig are closing in on deal to sign norway gk oryan nyland as repla"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1322,7 +1322,6 @@
     "federico gatti": "https://r2.thesportsdb.com/images/media/player/cutout/z1jv3i1759224911.png/small",
     "lukas hornicek": "https://r2.thesportsdb.com/images/media/player/cutout/8lp67f1780306274.png/small",
     "pep chavarria": "https://r2.thesportsdb.com/images/media/player/cutout/wnxpya1762549628.png/small",
-    "samuel martinez": "",
     "rodri hernandez": "",
     "junior kroupi": "",
     "kerem alajbegovic": "",
@@ -1333,9 +1332,10 @@
     "victor froholdt": "",
     "kyle healy": "",
     "benji flowers": "",
-    "mishel nduka": ""
+    "mishel nduka": "",
+    "samuel martinez": ""
   },
-  "photo_repair_idx": 11,
+  "photo_repair_idx": 12,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

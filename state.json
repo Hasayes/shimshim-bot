@@ -1,7 +1,5 @@
 {
   "sent": [
-    "d6541b5614505e0e88ba3ffd26761f03",
-    "850e44bb0da83e7912cf3757c4ff8b7a",
     "a8a67a59a96e2d0ecfb95192d1290e05",
     "3a590babe8925aebeb089156a092686d",
     "e718a54ed423914fb0c7e5eba3007ae1",
@@ -499,7 +497,9 @@
     "tg:FabrizioRomanoTG/63911",
     "tg:FabrizioRomanoTG/63913",
     "tg:FabrizioRomanoTG/63914",
-    "tg:FabrizioRomanoTG/63915"
+    "tg:FabrizioRomanoTG/63915",
+    "tg:FabrizioRomanoTG/63916",
+    "tg:FabrizioRomanoTG/63917"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -820,8 +820,6 @@
     "interest: chavarria -> chelsea"
   ],
   "titles": [
-    "jaw-dropping first liverpool bid for bradley barcola revealed as psg say yes",
-    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f bayern plan to start discussing new deal with harry kane from august as i",
     "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f fulham are in club to club talks with real madrid for cesar palacios dea",
     "record-breaking liverpool bid for bradley barcola incoming as full cost revealed",
     "\ud83d\udea8 \u26aa\ufe0f real madrid have approached manchester city for rodri for the first time ne",
@@ -1119,7 +1117,9 @@
     "\ud83d\udea8 \u274c yan diomande did not play today\u2019s friendly match and he will not even travel",
     "\ud83d\udea8 \ud83d\udd35 excl: chelsea improve their bid for pep chavarria as negotiations with rayo ",
     "\ud83d\udea8 \ud83d\udd35 joao pedro will sign new long term contract at chelsea in the upcoming days,",
-    "\ud83d\udcfa new youtube video uploaded! \ud83c\udfac \ud83d\udea8 \ud83d\udca3 6 top players domino! arsenal boom! ferran, "
+    "\ud83d\udcfa new youtube video uploaded! \ud83c\udfac \ud83d\udea8 \ud83d\udca3 6 top players domino! arsenal boom! ferran, ",
+    "\ud83d\udea8 \ud83d\udfe1 excl: peter gulacsi to villarreal, here we go! deal done after story reveale",
+    "\ud83d\udea8 \ud83d\udd35 everton agree deal to sign christian norgaard from arsenal, here we go! \ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1321,7 +1321,6 @@
     "igor thiago": "https://r2.thesportsdb.com/images/media/player/cutout/irs8wu1765971888.png/small",
     "federico gatti": "https://r2.thesportsdb.com/images/media/player/cutout/z1jv3i1759224911.png/small",
     "lukas hornicek": "https://r2.thesportsdb.com/images/media/player/cutout/8lp67f1780306274.png/small",
-    "kyle healy": "",
     "benji flowers": "",
     "mishel nduka": "",
     "pep chavarria": "https://r2.thesportsdb.com/images/media/player/cutout/wnxpya1762549628.png/small",
@@ -1333,9 +1332,10 @@
     "ousmane ndiaye": "",
     "martin": "",
     "axel donczew": "",
-    "victor froholdt": ""
+    "victor froholdt": "",
+    "kyle healy": ""
   },
-  "photo_repair_idx": 8,
+  "photo_repair_idx": 9,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

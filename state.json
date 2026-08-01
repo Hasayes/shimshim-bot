@@ -1,6 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/63684",
     "tg:FabrizioRomanoTG/63685",
     "tg:FabrizioRomanoTG/63686",
     "tg:FabrizioRomanoTG/63687",
@@ -499,7 +498,8 @@
     "d48b6e1ef47bfbdae3ab1458747b6024",
     "fdade97df0d376cc57135ee7e021d009",
     "ff4207348593004aafa7b4b46ac27d2c",
-    "tg:FabrizioRomanoTG/63890"
+    "tg:FabrizioRomanoTG/63890",
+    "53d56064b0b49086fc25808bd84c0c3a"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -815,7 +815,6 @@
     "interest: thiago -> manchester united"
   ],
   "titles": [
-    "reports claim danny welbeck 'agrees' personal terms with chelsea",
     "zinedine zidane appointed france head coach until 2030",
     "euro 2020-winning boss roberto mancini, 61, agrees to return as italy manager af",
     "chelsea transfer news: filip jorgensen leaves pre-season tour amid 'interest' fr",
@@ -1114,7 +1113,8 @@
     "tottenham receive transfer boost as liverpool set asking price for 27yo \u2018long te",
     "monza agree \u20ac7 5m deal for nigerian midfielder akinsanmiro",
     "chelsea and serie a side stuck in battle over final \u20ac5m \u2013 blues\u2019 history shows t",
-    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f como feel agreement is now close for trevoh chalobah to join from chelsea"
+    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f como feel agreement is now close for trevoh chalobah to join from chelsea",
+    "is bruno guimaraes going to arsenal? what to know about gunners' $103 million tr"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1314,7 +1314,6 @@
     "engels": "https://images.fotmob.com/image_resources/playerimages/1178443.png",
     "mika godts": "https://r2.thesportsdb.com/images/media/player/cutout/e9ulvq1723380456.png/small",
     "igor thiago": "https://r2.thesportsdb.com/images/media/player/cutout/irs8wu1765971888.png/small",
-    "axel donczew": "",
     "victor froholdt": "",
     "kyle healy": "",
     "benji flowers": "",
@@ -1325,9 +1324,10 @@
     "kerem alajbegovic": "",
     "mateo soule": "",
     "ousmane ndiaye": "",
-    "martin": ""
+    "martin": "",
+    "axel donczew": ""
   },
-  "photo_repair_idx": 6,
+  "photo_repair_idx": 7,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

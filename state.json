@@ -1,6 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/63688",
     "tg:FabrizioRomanoTG/63691",
     "67e8f5fa17cea9d19a186baaadfcab84",
     "bb0684f083c9d29c8a7af365d15e57f7",
@@ -499,7 +498,8 @@
     "eae390583691b40646c3bcace3951b76",
     "58a337fa9b1bb8a60c550f91669d31b5",
     "24c32cbb2181b335102a11aaeb3e6f77",
-    "08f82c7b8f3f99ec88be1d58442e3d64"
+    "08f82c7b8f3f99ec88be1d58442e3d64",
+    "254eefc4fd242e5913eebba7e1be6fea"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -816,7 +816,6 @@
     "interest: gatti -> napoli"
   ],
   "titles": [
-    "arsenal ready to make formal bid to sign reak madrid star vinicius jr",
     "aston villa keen on signing chelsea's nicolas jackson, despite loan rumors",
     "djed spence to liverpool transfer reality as tottenham has '$45m asking price'",
     "psg considered 4 factors before setting record transfer valuation for bradley ba",
@@ -1115,7 +1114,8 @@
     "bruno guimaraes\u2019 agent shares post with sensational *double* arsenal transfer hi",
     "ornstein: newcastle set to sign \u20ac30m czech goalkeeper star",
     "report napoli want gatti on loan with option to buy from juventus",
-    "real make 'take it or leave it' contract offer to vinicius euro transfer news"
+    "real make 'take it or leave it' contract offer to vinicius euro transfer news",
+    "west ham united 'close' to celtic transfer raid as summer coup could be pulled o"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1329,7 +1329,7 @@
     "federico gatti": "https://r2.thesportsdb.com/images/media/player/cutout/z1jv3i1759224911.png/small",
     "mishel nduka": ""
   },
-  "photo_repair_idx": 11,
+  "photo_repair_idx": 12,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

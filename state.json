@@ -1,7 +1,5 @@
 {
   "sent": [
-    "e85030ef8ed5392c249cadddaa155690",
-    "e0a03d6c7400cbbe80108b74a3fd4735",
     "9996b098f5bde26fff16f69c2f1cea0f",
     "d92ac7309304d80ad499596b6bbdf3d3",
     "55605237575f195a3445435c1d2b6864",
@@ -499,7 +497,9 @@
     "62797b956bbfb44dbe31c7f0c23e6352",
     "52d778492006fa5cbc1a850ba6fe0d2f",
     "tg:FabrizioRomanoTG/63901",
-    "2d3978b6c0faf1e69c3735c33104a45c"
+    "2d3978b6c0faf1e69c3735c33104a45c",
+    "602f48ca47e1ac3615de1980f8ca739e",
+    "49ac040a40fd51c0741ae5dfa5cc3462"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -818,7 +818,6 @@
     "interest: gatti -> napoli"
   ],
   "titles": [
-    "psg could make a last-ditch attempt to hijack real madrid deal for bundesliga wi",
     "eduardo camavinga reaches decision on joining man utd from real madrid \u2013 fabrizi",
     "barcelona make decision on potential deal for eli junior kroupi as bournemnouth ",
     "real madrid star vinicius jr tells close friends his future plans amid arsenal i",
@@ -1117,7 +1116,8 @@
     "\ud83d\udfe1 \ud83d\udd34 \u2708\ufe0f konstantinos koulierakis and his agent paschalis tountouris from as1 on t",
     "psg open talks for ajax star as liverpool linked bradley barcola exit looms",
     "\ud83d\udea8 yan diomande, not even on the bench and out of rb leipzig squad today as he\u2019s ",
-    "vinicius junior ultimatum issued as arsenal plan barcelona raid"
+    "vinicius junior ultimatum issued as arsenal plan barcelona raid",
+    "sky: yan diomande could join rb leipzig's training camp in austria despite real "
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1319,7 +1319,6 @@
     "igor thiago": "https://r2.thesportsdb.com/images/media/player/cutout/irs8wu1765971888.png/small",
     "federico gatti": "https://r2.thesportsdb.com/images/media/player/cutout/z1jv3i1759224911.png/small",
     "lukas hornicek": "https://r2.thesportsdb.com/images/media/player/cutout/8lp67f1780306274.png/small",
-    "victor froholdt": "",
     "kyle healy": "",
     "benji flowers": "",
     "mishel nduka": "",
@@ -1330,9 +1329,10 @@
     "mateo soule": "",
     "ousmane ndiaye": "",
     "martin": "",
-    "axel donczew": ""
+    "axel donczew": "",
+    "victor froholdt": ""
   },
-  "photo_repair_idx": 7,
+  "photo_repair_idx": 8,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

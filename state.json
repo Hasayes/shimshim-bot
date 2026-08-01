@@ -1,6 +1,5 @@
 {
   "sent": [
-    "67e8f5fa17cea9d19a186baaadfcab84",
     "bb0684f083c9d29c8a7af365d15e57f7",
     "a4856adbd4b54b4369c7f95fad245137",
     "tg:FabrizioRomanoTG/63692",
@@ -499,7 +498,8 @@
     "24c32cbb2181b335102a11aaeb3e6f77",
     "08f82c7b8f3f99ec88be1d58442e3d64",
     "254eefc4fd242e5913eebba7e1be6fea",
-    "tg:FabrizioRomanoTG/63892"
+    "tg:FabrizioRomanoTG/63892",
+    "41c0522460b7b691d0a559c6899c6602"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -816,7 +816,6 @@
     "interest: gatti -> napoli"
   ],
   "titles": [
-    "djed spence to liverpool transfer reality as tottenham has '$45m asking price'",
     "psg considered 4 factors before setting record transfer valuation for bradley ba",
     "\ud83d\udea8 \u26aa\ufe0f tottenham keep considering savinho their top priority with brazilian winger",
     "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f filip jorgensen to rc strasbourg, story confirmed and deal being closed t",
@@ -1115,7 +1114,8 @@
     "report napoli want gatti on loan with option to buy from juventus",
     "real make 'take it or leave it' contract offer to vinicius euro transfer news",
     "west ham united 'close' to celtic transfer raid as summer coup could be pulled o",
-    "\ud83d\udea8 \ud83c\uddea\ud83c\uddec egypt and al ahly goalkeeper mostafa shobeir has signed with caa base as ne"
+    "\ud83d\udea8 \ud83c\uddea\ud83c\uddec egypt and al ahly goalkeeper mostafa shobeir has signed with caa base as ne",
+    "tottenham delight as jose mourinho sanctions real madrid winger exit"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1315,7 +1315,6 @@
     "engels": "https://images.fotmob.com/image_resources/playerimages/1178443.png",
     "mika godts": "https://r2.thesportsdb.com/images/media/player/cutout/e9ulvq1723380456.png/small",
     "igor thiago": "https://r2.thesportsdb.com/images/media/player/cutout/irs8wu1765971888.png/small",
-    "junior kroupi": "",
     "kerem alajbegovic": "",
     "mateo soule": "",
     "ousmane ndiaye": "",
@@ -1327,9 +1326,10 @@
     "federico gatti": "https://r2.thesportsdb.com/images/media/player/cutout/z1jv3i1759224911.png/small",
     "mishel nduka": "",
     "samuel martinez": "",
-    "rodri hernandez": ""
+    "rodri hernandez": "",
+    "junior kroupi": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

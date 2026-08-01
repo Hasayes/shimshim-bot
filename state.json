@@ -1,6 +1,5 @@
 {
   "sent": [
-    "aa104f37e2eb9e4c1ece4d16f89aaa44",
     "556bf6325b33c1d6501bc39e9db88700",
     "f58cd0bb824618ad94e91b8b6992793e",
     "cd04d53dd69dc7ef3c0ea605cee42ad8",
@@ -499,7 +498,8 @@
     "tg:FabrizioRomanoTG/63898",
     "5b91c5d15bc8fd7997a4c1d03db21b82",
     "bee978cc19a85515ae1f4d36d590773d",
-    "8bc7549c147429724c6e8e5007c443fa"
+    "8bc7549c147429724c6e8e5007c443fa",
+    "tg:FabrizioRomanoTG/63900"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -643,7 +643,7 @@
     "henderson -> chelsea": 1,
     "alajbegovic -> juventus": 1,
     "akinsanmiro -> monza": 2,
-    "koulierakis -> as roma": 1,
+    "koulierakis -> as roma": 2,
     "garcia -> fulham": 2,
     "palacios -> fulham": 1,
     "espi -> real madrid": 1,
@@ -818,7 +818,6 @@
     "interest: gatti -> napoli"
   ],
   "titles": [
-    "leeds united transfer news: whites 'closing in' on james trafford capture for ey",
     "tottenham handed major boost as top target 'hands in transfer request'",
     "tottenham hotspur target savinho tells manchester city he wants to leave this su",
     "badiashile targeted by napoli, but chelsea agreement unlikely at \u20ac30m",
@@ -1117,7 +1116,8 @@
     "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 mika godts has given green light to paris saint germain project! official ",
     "tottenham get boost in franco mastantuono chase",
     "liverpool on red alert as world cup star 'hands in transfer request'amid premier",
-    "liverpool on red alert as world cup star 'hands in transfer request' amid premie"
+    "liverpool on red alert as world cup star 'hands in transfer request' amid premie",
+    "\ud83d\udfe1 \ud83d\udd34 \u2708\ufe0f konstantinos koulierakis and his agent paschalis tountouris from as1 on t"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1318,7 +1318,6 @@
     "mika godts": "https://r2.thesportsdb.com/images/media/player/cutout/e9ulvq1723380456.png/small",
     "igor thiago": "https://r2.thesportsdb.com/images/media/player/cutout/irs8wu1765971888.png/small",
     "federico gatti": "https://r2.thesportsdb.com/images/media/player/cutout/z1jv3i1759224911.png/small",
-    "kerem alajbegovic": "",
     "mateo soule": "",
     "ousmane ndiaye": "",
     "martin": "",
@@ -1330,9 +1329,10 @@
     "mishel nduka": "",
     "samuel martinez": "",
     "rodri hernandez": "",
-    "junior kroupi": ""
+    "junior kroupi": "",
+    "kerem alajbegovic": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

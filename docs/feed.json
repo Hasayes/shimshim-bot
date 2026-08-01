@@ -1,5 +1,24 @@
 [
  {
+  "id": "tg:FabrizioRomanoTG/63811",
+  "ts": "2026-08-01T09:15:29+00:00",
+  "kind": "deal",
+  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/h9a8ov1763669363.png/small",
+  "stage": "Completed",
+  "player": "Konstantinos Koulierakis",
+  "position": "Defender",
+  "age": "\u2014",
+  "from_club": "Wolfsburg",
+  "to_club": "AS Roma",
+  "fee": "\u20ac16.5m fixed + \u20ac1.5m add-ons",
+  "style": "Greek left-back/centre-back with solid defensive positioning and distribution from the back.",
+  "fit": "Central or fullback option to strengthen Roma's defensive ranks with European experience.",
+  "source": "Fabrizio Romano",
+  "outlet": "Telegram @fabrizioromanotg",
+  "url": "https://t.me/FabrizioRomanoTG/63900",
+  "title": "\ud83d\udfe1 \ud83d\udd34 \u2708\ufe0f Konstantinos Koulierakis and his agent Paschalis Tountouris from AS1 on their way to Rome right now. AS Roma sign"
+ },
+ {
   "id": "tg:FabrizioRomanoTG/63896",
   "ts": "2026-08-01T07:15:40+00:00",
   "kind": "deal",
@@ -302,25 +321,6 @@
   "outlet": "Telegram @fabrizioromanotg",
   "url": "https://t.me/FabrizioRomanoTG/63820",
   "title": "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f BREAKING: Gonzalo Garc\u00eda to Fulham, here we go! Deal completed with Real Madrid. \u25c9 \u20ac40m fixed fee. \u25c9 \u20ac2m future "
- },
- {
-  "id": "tg:FabrizioRomanoTG/63811",
-  "ts": "2026-07-30T10:15:36+00:00",
-  "kind": "deal",
-  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/h9a8ov1763669363.png/small",
-  "stage": "Here we go",
-  "player": "Konstantinos Koulierakis",
-  "position": "Defender",
-  "age": "\u2014",
-  "from_club": "Wolfsburg",
-  "to_club": "AS Roma",
-  "fee": "\u20ac15m",
-  "style": "Solid Greek centre-back with good positional discipline and aerial presence in the Bundesliga.",
-  "fit": "Roma bolstering their defensive options with an experienced, reliable centre-back prospect.",
-  "source": "Fabrizio Romano",
-  "outlet": "Telegram @fabrizioromanotg",
-  "url": "https://t.me/FabrizioRomanoTG/63811",
-  "title": "\ud83d\udea8 \ud83d\udfe1 \ud83d\udd34 Konstantinos Koulierakis to AS Roma, here we go! Agreement in place with Wolfsburg on all terms. Agreement also wi"
  },
  {
   "id": "76dd8f18275aab472a34301c7c98a73f",

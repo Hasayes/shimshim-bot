@@ -1,14 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/63676",
-    "tg:FabrizioRomanoTG/63677",
-    "tg:FabrizioRomanoTG/63678",
-    "tg:FabrizioRomanoTG/63679",
-    "e8fbde487d42c983bdf518ae8c86ffd0",
-    "ea7c7fe0587ede581e888f7782f2c80a",
-    "tg:FabrizioRomanoTG/63681",
-    "b2804878973ceec7ad34f064e8a16faa",
-    "e4c35fc46c39c1fc84721b6dbe319adb",
     "0058b813ac83a2ddbe25db25829bc8fa",
     "14c6d15f1843e1015d309b4da0e53e8d",
     "d1cd7eebaf01b6fd974df1a62ec34085",
@@ -499,7 +490,16 @@
     "a5bd4dfa40f5a4952d356d34ecefcf7b",
     "tg:FabrizioRomanoTG/63882",
     "tg:FabrizioRomanoTG/63883",
-    "tg:FabrizioRomanoTG/63887"
+    "tg:FabrizioRomanoTG/63887",
+    "21ca870312b5f044f20c4d6a781c7fa5",
+    "953cb3e0199078261a3dc896cd54ec55",
+    "c9fcbc2d54ee2c18b05acd744df3d28f",
+    "a12aeb87b905f8a6e7c2ab3a63490ca9",
+    "72ffe565e605d2a27dbc259070f15d4b",
+    "f4adafd613f24210477e48949fefc743",
+    "409e64612d21db2c6f112ffd6d3a0c04",
+    "0e6d4d5a81ac1b083b8fc40efda02513",
+    "20a546cb3c90b9cf6e2386ecd6ca6296"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -814,15 +814,6 @@
     "interest: godts -> psg"
   ],
   "titles": [
-    "fabrizio romano tells liverpool fans what to expect from bradley barcola pursuit",
-    "\"it's like getting stabbed in the heart\" - liverpool fans left fuming as former ",
-    "real madrid make first move as arsenal prepare bid for vinicius jr - reports",
-    "james trafford to leeds: fourth-most expensive goalkeeper in history is viewed a",
-    "chelsea consider shock swoop for brighton\u2019s danny welbeck",
-    "tottenham get final answer on rafael leao as fabrizio romano sets record straigh",
-    "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f juventus keep advancing in talks to sign randal kolo muani from psg with",
-    "tolu arokadare joins ajax, set for medicals",
-    "henderson open to chelsea transfer as blues eye brentford veteran",
     "chelsea have completed changed direction",
     "transfer news and rumours today: sunderland near historic methalie deal, bayern ",
     "unai emery eyes nicolas jackson reunion at aston villa, but only a permanent tra",
@@ -1113,7 +1104,16 @@
     "como intensify pursuit of jhon lucumi as bologna demand \u20ac23m",
     "\ud83d\udea8 \u26aa\ufe0f \ud83d\udd35 excl: real sociedad sent official bid to wolves for czech defender ladisl",
     "rt @fabrizioromano : \ud83d\udea8 \ud83d\udd34 \ud83d\udd35 exclusive: paris saint germain open talks to sign mik",
-    "rt @fabrizioromano : \ud83d\udea8 \ud83d\udca3 breaking: yan diomande to real madrid, here we go! \u26aa\ufe0f \u2728"
+    "rt @fabrizioromano : \ud83d\udea8 \ud83d\udca3 breaking: yan diomande to real madrid, here we go! \u26aa\ufe0f \u2728",
+    "bournemouth transfer news: cherries receive 'green light' to complete \u00a326m anton",
+    "ter stegen joins ajax on loan, ends 9 year barcelona career",
+    "andoni iraola has seen enough, it\u2019s the end of the line for \u2018average\u2019 liverpool ",
+    "transfer updates: delap, bouaddi, orlando gill, conceicao, guimaraes, others",
+    "romano delivers friday liverpool transfer update on bradley barcola",
+    "cody gakpo labelled 'easy target' amid liverpool's bradley barcola chase and rio",
+    "arne engels edging towards celtic exit as west ham lead race",
+    "romano drops latest update, star \u201cvery keen on liverpool\u201d move as \u201ccontacts cont",
+    "bradley barcola just got closer to liverpool transfer after seismic friday updat"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1312,7 +1312,6 @@
     "peter gulacsi": "https://r2.thesportsdb.com/images/media/player/cutout/f24kos1763561131.png/small",
     "engels": "https://images.fotmob.com/image_resources/playerimages/1178443.png",
     "mika godts": "https://r2.thesportsdb.com/images/media/player/cutout/e9ulvq1723380456.png/small",
-    "mateo soule": "",
     "ousmane ndiaye": "",
     "martin": "",
     "axel donczew": "",
@@ -1323,9 +1322,10 @@
     "samuel martinez": "",
     "rodri hernandez": "",
     "junior kroupi": "",
-    "kerem alajbegovic": ""
+    "kerem alajbegovic": "",
+    "mateo soule": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

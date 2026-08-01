@@ -1,6 +1,5 @@
 {
   "sent": [
-    "069861714a80529fb77c521ce136732b",
     "ee3e9fa51968493fc22dab42710a1198",
     "aaa25fb7a1cd4492249d59647f3788a8",
     "79cc2687e49ef51106efc392d6976842",
@@ -499,7 +498,8 @@
     "3f7b74b5c07d9b32503701badcbf55e4",
     "2f1618dad62c755a0ec106c0d09f5a96",
     "f8c4a56119bcd3f0d03ee0083c49de0f",
-    "f02728fa41fe561f70529ef91aa57222"
+    "f02728fa41fe561f70529ef91aa57222",
+    "5ee8c3fcde861e898ef334fb668d657a"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -820,7 +820,6 @@
     "interest: chavarria -> chelsea"
   ],
   "titles": [
-    "\ud83d\udea8 \u274c there\u2019s nothing between jules kounde and tottenham despite the links in the ",
     "liverpool have received a major boost in their pursuit of bradley barcola",
     "chelsea could announce incredible double signing in next few days after both pla",
     "rt @fabrizioromano : \ud83d\udea8 \u26ab\ufe0f \ud83d\udd35 inter have reached verbal agreement with yan bisseck",
@@ -1119,7 +1118,8 @@
     "\u201clet me clarify \u201d \u2013 fabrizio romano speaks out on liverpool transfer links with ",
     "\u201cman united are not done\u201d \u2013 fabrizio romano provides exciting update on \u201ctop tar",
     "yan diomande latest as real madrid 'push' to complete transfer with arsenal hope",
-    "negotiations stall as rb leipzig do not respond to real madrid\u2019s latest offer fo"
+    "negotiations stall as rb leipzig do not respond to real madrid\u2019s latest offer fo",
+    "no breakthrough yet but liverpool still \u201cworking\u201d to agree transfer on their ter"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1322,7 +1322,6 @@
     "federico gatti": "https://r2.thesportsdb.com/images/media/player/cutout/z1jv3i1759224911.png/small",
     "lukas hornicek": "https://r2.thesportsdb.com/images/media/player/cutout/8lp67f1780306274.png/small",
     "pep chavarria": "https://r2.thesportsdb.com/images/media/player/cutout/wnxpya1762549628.png/small",
-    "mishel nduka": "",
     "samuel martinez": "",
     "rodri hernandez": "",
     "junior kroupi": "",
@@ -1333,9 +1332,10 @@
     "axel donczew": "",
     "victor froholdt": "",
     "kyle healy": "",
-    "benji flowers": ""
+    "benji flowers": "",
+    "mishel nduka": ""
   },
-  "photo_repair_idx": 10,
+  "photo_repair_idx": 11,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

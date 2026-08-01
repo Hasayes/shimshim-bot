@@ -1,7 +1,5 @@
 {
   "sent": [
-    "80f38487598bf6bc483becbd4ad349b0",
-    "73e660e60311f2f00b07139453e8e260",
     "4496f35d2e980d56e25d3d4788118f25",
     "9feca0d5aa68643e840b0767665cacca",
     "4d5ec20aca636683080d3e04151de3f2",
@@ -499,7 +497,9 @@
     "454e9c3c0ffaaaccac5c60ed26bacc05",
     "22249d4c79f227d56ab00ec1d580d3f5",
     "6d8f64c82d5cc7be1efb626148f94f3e",
-    "2a392dd4d71b877089153e84baaab49a"
+    "2a392dd4d71b877089153e84baaab49a",
+    "tg:FabrizioRomanoTG/63929",
+    "tg:FabrizioRomanoTG/63930"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -820,8 +820,6 @@
     "interest: chavarria -> chelsea"
   ],
   "titles": [
-    "transfer rumors, news: vinicius jr set to stay at real madrid, despite arsenal i",
-    "bayern munich news: fc bayern, harry kane set to begin talks shortly; a swap dea",
     "frosinone seal akpoguma deal after hoffenheim exit",
     "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f fulham are closing in on cesar palacios deal from real madrid as details",
     "rt @fabrizioromano : \ud83d\udea8 \ud83d\udca3 breaking: jordan henderson to chelsea, here we go! \ud83d\udd35 \ud83c\udff4\udb40\udc67",
@@ -1119,7 +1117,9 @@
     "romano says liverpool talks with barcola ongoing but price issue remains",
     "sources: \u00a360m liverpool transfer target \u201cinterested\u201d in arsenal move as club eye",
     "psg in talks with ajax to sign belgian winger mika godts",
-    "newcastle set to announce \u20ac11 million move after eddie howe\u2019s exit"
+    "newcastle set to announce \u20ac11 million move after eddie howe\u2019s exit",
+    "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f randal kolo muani has been authorized to fly for juventus medical import",
+    "\u26aa\ufe0f \u26ab\ufe0f \u2708\ufe0f final details for randal kolo muani to juventus permanent deal \u20ac38m fee"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1322,7 +1322,6 @@
     "federico gatti": "https://r2.thesportsdb.com/images/media/player/cutout/z1jv3i1759224911.png/small",
     "lukas hornicek": "https://r2.thesportsdb.com/images/media/player/cutout/8lp67f1780306274.png/small",
     "pep chavarria": "https://r2.thesportsdb.com/images/media/player/cutout/wnxpya1762549628.png/small",
-    "martin": "",
     "axel donczew": "",
     "victor froholdt": "",
     "kyle healy": "",
@@ -1333,9 +1332,10 @@
     "junior kroupi": "",
     "kerem alajbegovic": "",
     "mateo soule": "",
-    "ousmane ndiaye": ""
+    "ousmane ndiaye": "",
+    "martin": ""
   },
-  "photo_repair_idx": 5,
+  "photo_repair_idx": 6,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

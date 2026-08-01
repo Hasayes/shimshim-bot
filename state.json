@@ -1,8 +1,5 @@
 {
   "sent": [
-    "d1cd7eebaf01b6fd974df1a62ec34085",
-    "6304062e0e99539bf6cc50a59e1cf66e",
-    "tg:FabrizioRomanoTG/63683",
     "583b1e13841c8e441129bfd28b973519",
     "5739c441acf0766adf6f4f3b562babf0",
     "a139629f076951cfaf3d2d79d5d77da4",
@@ -499,7 +496,10 @@
     "0e6d4d5a81ac1b083b8fc40efda02513",
     "20a546cb3c90b9cf6e2386ecd6ca6296",
     "d6293e60153288ded034cde0ca64515d",
-    "ff938fe7f5ac7aa1c6093edf98310e89"
+    "ff938fe7f5ac7aa1c6093edf98310e89",
+    "6454dc492714cf28c4693204d02763f4",
+    "616ec8eac12cf65295a49ad9939337dd",
+    "d48b6e1ef47bfbdae3ab1458747b6024"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -811,11 +811,10 @@
     "interest: nwaneri -> milan",
     "interest: nwaneri -> borussia dortmund",
     "interest: engels -> west ham",
-    "interest: godts -> psg"
+    "interest: godts -> psg",
+    "interest: thiago -> manchester united"
   ],
   "titles": [
-    "unai emery eyes nicolas jackson reunion at aston villa, but only a permanent tra",
-    "epl: man united open talks with tottenham over bergvall transfer",
     "why bradley barcola move to liverpool won't be straightforward: report",
     "'here we go' - leeds united transfer imminent after newcastle united agreed pers",
     "fabrizio romano clears the air on tottenham\u2019s interest in \u2018exit-bound\u2019 ac milan ",
@@ -1113,7 +1112,9 @@
     "romano drops latest update, star \u201cvery keen on liverpool\u201d move as \u201ccontacts cont",
     "bradley barcola just got closer to liverpool transfer after seismic friday updat",
     "arsenal in talks with roc nation over vinicius jr move: report",
-    "\"not getting done immediately\" fabrizio romano explains why manchester city are "
+    "\"not getting done immediately\" fabrizio romano explains why manchester city are ",
+    "man utd make \u2018call\u2019 for new striker as another \u2018world class player\u2019 is offered t",
+    "tottenham receive transfer boost as liverpool set asking price for 27yo \u2018long te"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1312,7 +1313,6 @@
     "peter gulacsi": "https://r2.thesportsdb.com/images/media/player/cutout/f24kos1763561131.png/small",
     "engels": "https://images.fotmob.com/image_resources/playerimages/1178443.png",
     "mika godts": "https://r2.thesportsdb.com/images/media/player/cutout/e9ulvq1723380456.png/small",
-    "axel donczew": "",
     "victor froholdt": "",
     "kyle healy": "",
     "benji flowers": "",
@@ -1323,9 +1323,11 @@
     "kerem alajbegovic": "",
     "mateo soule": "",
     "ousmane ndiaye": "",
-    "martin": ""
+    "martin": "",
+    "igor thiago": "https://r2.thesportsdb.com/images/media/player/cutout/irs8wu1765971888.png/small",
+    "axel donczew": ""
   },
-  "photo_repair_idx": 6,
+  "photo_repair_idx": 7,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

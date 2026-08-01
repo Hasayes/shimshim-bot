@@ -1,6 +1,5 @@
 {
   "sent": [
-    "9c32866ca63a5ec72643fc0bc7c9bc94",
     "b80575acdb8e862fee7242fcb7fd2818",
     "d0932ea59cfb42a652f3af2fb69290f9",
     "129863c68a805efa2e395eb0974cfb44",
@@ -499,7 +498,8 @@
     "e881743b141bf0fb2212c60c703f6a47",
     "a61e1b1b84f24ba44ab09ead3b54ef3b",
     "15cf6e13d74777b1017a93af90cc7590",
-    "tg:FabrizioRomanoTG/63895"
+    "tg:FabrizioRomanoTG/63895",
+    "tg:FabrizioRomanoTG/63896"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -651,7 +651,8 @@
     "sangare -> brentford": 1,
     "diallo -> parma": 2,
     "gulacsi -> villarreal": 1,
-    "akliouche -> psg": 1
+    "akliouche -> psg": 1,
+    "hornicek -> newcastle": 1
   },
   "interest": [
     "interest: alvarez -> arsenal",
@@ -817,7 +818,6 @@
     "interest: gatti -> napoli"
   ],
   "titles": [
-    "\ud83d\udea8 \u274c paris saint-germain are not trying to hijack yan diomande deal despite repor",
     "real madrid make vinicius new contract offer as arsenal prepare",
     "barcelona move for el junior kroupi as alternative to julian alvarez halted",
     "romano drops bombshell on arsenal signing alvarez for \u00a385m plus gyokeres",
@@ -1116,7 +1116,8 @@
     "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 maghnes akliouche to paris saint germain, here we go! \ud83d\udca5 breakthrough betwe",
     "\u201cit\u2019s not going away\u201d \u2013 lewis steele won\u2019t rule out exit for liverpool forward",
     "chelsea are set to sign this experienced midfielder on a two year deal: good opt",
-    "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f matthias jaissle has signed his contract as newcastle head coach until j"
+    "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f matthias jaissle has signed his contract as newcastle head coach until j",
+    "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f lukas hornicek to newcastle as new goalkeeper, here we go! deal sealed w"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1316,7 +1317,6 @@
     "engels": "https://images.fotmob.com/image_resources/playerimages/1178443.png",
     "mika godts": "https://r2.thesportsdb.com/images/media/player/cutout/e9ulvq1723380456.png/small",
     "igor thiago": "https://r2.thesportsdb.com/images/media/player/cutout/irs8wu1765971888.png/small",
-    "axel donczew": "",
     "victor froholdt": "",
     "kyle healy": "",
     "benji flowers": "",
@@ -1328,9 +1328,11 @@
     "kerem alajbegovic": "",
     "mateo soule": "",
     "ousmane ndiaye": "",
-    "martin": ""
+    "martin": "",
+    "lukas hornicek": "https://r2.thesportsdb.com/images/media/player/cutout/8lp67f1780306274.png/small",
+    "axel donczew": ""
   },
-  "photo_repair_idx": 6,
+  "photo_repair_idx": 7,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",
@@ -1453,6 +1455,7 @@
     "deportivo": "https://r2.thesportsdb.com/images/media/team/badge/isc2yu1580833286.png/small",
     "rc lens": "https://r2.thesportsdb.com/images/media/team/badge/3pxoum1598797195.png/small",
     "celtic": "https://r2.thesportsdb.com/images/media/team/badge/3uv1641758780002.png/small",
-    "psg": "https://r2.thesportsdb.com/images/media/team/badge/rwqrrq1473504808.png/small"
+    "psg": "https://r2.thesportsdb.com/images/media/team/badge/rwqrrq1473504808.png/small",
+    "sc braga": "https://r2.thesportsdb.com/images/media/team/badge/8g4aod1678717261.png/small"
   }
 }

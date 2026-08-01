@@ -1,9 +1,5 @@
 {
   "sent": [
-    "730ab6147d234ec821d3184bcbf06b88",
-    "ff3faf5fc0d89f618e2731483656754e",
-    "b11ff9c707f35f14013e101b1285efb7",
-    "34a677ecdec68020982c2b95abe58b41",
     "80f38487598bf6bc483becbd4ad349b0",
     "73e660e60311f2f00b07139453e8e260",
     "4496f35d2e980d56e25d3d4788118f25",
@@ -499,7 +495,11 @@
     "9ed440313c0a9e1fd7459f0411c2ad1d",
     "51de0927f55758390f52fdfef11f4a0d",
     "0a94a2fb9a16bca3a3606fe6237928d9",
-    "412157604aaf7fd452e68590f72f0eef"
+    "412157604aaf7fd452e68590f72f0eef",
+    "454e9c3c0ffaaaccac5c60ed26bacc05",
+    "22249d4c79f227d56ab00ec1d580d3f5",
+    "6d8f64c82d5cc7be1efb626148f94f3e",
+    "2a392dd4d71b877089153e84baaab49a"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -820,10 +820,6 @@
     "interest: chavarria -> chelsea"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83d\udca3 breaking: jordan henderson to chelsea, here we go! \ud83d\udd35 \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f former liverpoo",
-    "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f juventus are in advanced talks to sign kerem alajbegovic after randal ko",
-    "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f juventus are waiting for kerim alajbegovic final approval after advanced",
-    "rt @fabrizioromano : \ud83d\udea8 understand liverpool remain the club showing most concret",
     "transfer rumors, news: vinicius jr set to stay at real madrid, despite arsenal i",
     "bayern munich news: fc bayern, harry kane set to begin talks shortly; a swap dea",
     "frosinone seal akpoguma deal after hoffenheim exit",
@@ -1119,7 +1115,11 @@
     "contract signed: newcastle united\u2019s \u20ac11m deal confirmed by fabrizio romano",
     "man utd prepare \u00a360m bid for top target lewis hall as fabrizio romano confirms m",
     "former champions league title winners contact arsenal over nwaneri",
-    "\u2018here we go!\u2019 fabrizio romano breakthrough as newcastle united complete \u00a325m dea"
+    "\u2018here we go!\u2019 fabrizio romano breakthrough as newcastle united complete \u00a325m dea",
+    "romano says liverpool talks with barcola ongoing but price issue remains",
+    "sources: \u00a360m liverpool transfer target \u201cinterested\u201d in arsenal move as club eye",
+    "psg in talks with ajax to sign belgian winger mika godts",
+    "newcastle set to announce \u20ac11 million move after eddie howe\u2019s exit"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1322,7 +1322,6 @@
     "federico gatti": "https://r2.thesportsdb.com/images/media/player/cutout/z1jv3i1759224911.png/small",
     "lukas hornicek": "https://r2.thesportsdb.com/images/media/player/cutout/8lp67f1780306274.png/small",
     "pep chavarria": "https://r2.thesportsdb.com/images/media/player/cutout/wnxpya1762549628.png/small",
-    "mateo soule": "",
     "ousmane ndiaye": "",
     "martin": "",
     "axel donczew": "",
@@ -1333,9 +1332,10 @@
     "samuel martinez": "",
     "rodri hernandez": "",
     "junior kroupi": "",
-    "kerem alajbegovic": ""
+    "kerem alajbegovic": "",
+    "mateo soule": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

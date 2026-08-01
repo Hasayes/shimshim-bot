@@ -1,6 +1,5 @@
 {
   "sent": [
-    "4e0c0d4823f16828b02f8eb27c7efcac",
     "a6582985a2f02d95be4eb88f61f83910",
     "bc569ecb7e7f595143515720ec862096",
     "c6e2b20c229e844d0611d2c222c17a5c",
@@ -499,7 +498,8 @@
     "tg:FabrizioRomanoTG/63930",
     "ec0ecd3f92c06cc2b22157027ea32093",
     "28bb5a374c8faa0482af49369eab8588",
-    "6d01596823c868ea890be085fcd9a5e4"
+    "6d01596823c868ea890be085fcd9a5e4",
+    "3cb1f1c62d207a63456a83635280ccf8"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -821,7 +821,6 @@
     "interest: chavarria -> chelsea"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83d\udd35 chelsea and crystal palace are set for all formal steps on maxence lacroix d",
     "\ud83d\udd34 \ud83d\udd35 \ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udffc mikel amondarain officially joins bologna from estudiantes for \u20ac10m pl",
     "\ud83d\udea8 \ud83d\udd34 liverpool are in talks with paris saint-germain for bradley barcola deal to ",
     "\ud83d\udea8 \u26d4\ufe0f official: eli junior kroupi undergoes surgery after suffering a fifth metat",
@@ -1120,7 +1119,8 @@
     "\u26aa\ufe0f \u26ab\ufe0f \u2708\ufe0f final details for randal kolo muani to juventus permanent deal \u20ac38m fee",
     "raphael onyedika joins frankfurt: breaking down the \u20a615 7 billion deal",
     "biggest man utd signing of the summer \u2018approved\u2019 \u2013 fabrizio romano",
-    "biggest man utd signing of the summer \u2018approved\u2019 \u2013 fabrizio romano teamtalk"
+    "biggest man utd signing of the summer \u2018approved\u2019 \u2013 fabrizio romano teamtalk",
+    "deal expected this weekend as real madrid stance on arsenal transfer target expl"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1323,7 +1323,6 @@
     "federico gatti": "https://r2.thesportsdb.com/images/media/player/cutout/z1jv3i1759224911.png/small",
     "lukas hornicek": "https://r2.thesportsdb.com/images/media/player/cutout/8lp67f1780306274.png/small",
     "pep chavarria": "https://r2.thesportsdb.com/images/media/player/cutout/wnxpya1762549628.png/small",
-    "victor froholdt": "",
     "kyle healy": "",
     "benji flowers": "",
     "mishel nduka": "",
@@ -1335,9 +1334,10 @@
     "ousmane ndiaye": "",
     "martin": "",
     "raphael onyedika": "https://r2.thesportsdb.com/images/media/player/cutout/iwnph11767634416.png/small",
-    "axel donczew": ""
+    "axel donczew": "",
+    "victor froholdt": ""
   },
-  "photo_repair_idx": 7,
+  "photo_repair_idx": 8,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

@@ -1,7 +1,5 @@
 {
   "sent": [
-    "b2af8a57a8b4c624ff049236fc2ef9ae",
-    "4b889a29d4e9cd61f30bb5ba092b8a51",
     "827538236f693e37ef9b8d9c7cdac795",
     "c817ebdf1ceed4cc8c58287979051acd",
     "cfee37e0861dc63ba60f43d26c898593",
@@ -499,7 +497,9 @@
     "tg:FabrizioRomanoTG/63917",
     "0e9e137d13dc59e62399b86953e07cfd",
     "tg:FabrizioRomanoTG/63919",
-    "tg:FabrizioRomanoTG/63920"
+    "tg:FabrizioRomanoTG/63920",
+    "tg:FabrizioRomanoTG/63921",
+    "tg:FabrizioRomanoTG/63922"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -637,7 +637,7 @@
     "arokodare -> ajax": 2,
     "trafford -> leeds united": 2,
     "jorgensen -> rc strasbourg": 1,
-    "welbeck -> chelsea": 1,
+    "welbeck -> chelsea": 2,
     "fitz-jim -> torino": 1,
     "muani -> juventus": 1,
     "henderson -> chelsea": 1,
@@ -820,8 +820,6 @@
     "interest: chavarria -> chelsea"
   ],
   "titles": [
-    "chelsea are eyeing a move for this brentford midfielder: good choice for alonso?",
-    "rt @fabrizioromano : \ud83d\udea8 \ud83c\uddf2\ud83c\udde6 manchester city remain in direct club to club talks wi",
     "luis diaz reportedly turns down al hilal\u2019s \u20ac25m offer, choosing to stay with bay",
     "manchester city are in talks to land this ligue 1 midfielder: should maresca lau",
     "watch: joao pedro scores stunning nine-minute hat-trick as xabi alonso wins chel",
@@ -1119,7 +1117,9 @@
     "\ud83d\udea8 \ud83d\udd35 everton agree deal to sign christian norgaard from arsenal, here we go! \ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2",
     "bayern munich news: no more pressure for player sales at fc bayern; details on t",
     "\ud83d\udd34 \u2b50\ufe0f jj gabriel made his first team debut for manchester united in unofficial ga",
-    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f arsenal in direct talks again today with newcastle to close bruno guimara"
+    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f arsenal in direct talks again today with newcastle to close bruno guimara",
+    "\ud83d\udd35 \u26aa\ufe0f exclusive story confirmed: hoffenheim agree \u20ac16m deal to sign adam daghim f",
+    "\ud83d\udea8 \ud83d\udd35 official: danny welbeck joins chelsea from brighton on a two year deal \u201ci\u2019m "
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1321,7 +1321,6 @@
     "igor thiago": "https://r2.thesportsdb.com/images/media/player/cutout/irs8wu1765971888.png/small",
     "federico gatti": "https://r2.thesportsdb.com/images/media/player/cutout/z1jv3i1759224911.png/small",
     "lukas hornicek": "https://r2.thesportsdb.com/images/media/player/cutout/8lp67f1780306274.png/small",
-    "mishel nduka": "",
     "pep chavarria": "https://r2.thesportsdb.com/images/media/player/cutout/wnxpya1762549628.png/small",
     "samuel martinez": "",
     "rodri hernandez": "",
@@ -1333,9 +1332,10 @@
     "axel donczew": "",
     "victor froholdt": "",
     "kyle healy": "",
-    "benji flowers": ""
+    "benji flowers": "",
+    "mishel nduka": ""
   },
-  "photo_repair_idx": 10,
+  "photo_repair_idx": 11,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

@@ -1,5 +1,24 @@
 [
  {
+  "id": "733e20c48a6ea754a469329c7f201a24",
+  "ts": "2026-08-01T16:15:35+00:00",
+  "kind": "deal",
+  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/lfaen21756998493.png/small",
+  "stage": "Completed",
+  "player": "Danny Welbeck",
+  "position": "Forward",
+  "age": "35",
+  "from_club": "Brighton",
+  "to_club": "Chelsea",
+  "fee": "Undisclosed",
+  "style": "Experienced, versatile forward with proven Premier League pedigree and work ethic.",
+  "fit": "Adds depth and leadership to Chelsea's attacking options with proven English top-flight experience.",
+  "source": "Fabrizio Romano",
+  "outlet": "Telegram @fabrizioromanotg",
+  "url": "https://t.me/FabrizioRomanoTG/63922",
+  "title": "\ud83d\udea8 \ud83d\udd35 OFFICIAL: Danny Welbeck joins Chelsea from Brighton on a two year deal. \u201cI\u2019m really honoured to come to a club of th"
+ },
+ {
   "id": "tg:FabrizioRomanoTG/63913",
   "ts": "2026-08-01T14:00:41+00:00",
   "kind": "interest",
@@ -530,25 +549,6 @@
   "outlet": "teamtalk",
   "url": "https://www.teamtalk.com/manchester-united/ollie-watkins-transfer-joshua-zirkzee-sale-unlocks-new-signing",
   "title": "Man Utd learn chances of Ollie Watkins transfer as sale of \u00a336.5m flop unlocks new attacking arrival"
- },
- {
-  "id": "733e20c48a6ea754a469329c7f201a24",
-  "ts": "2026-07-29T19:31:34+00:00",
-  "kind": "deal",
-  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/lfaen21756998493.png/small",
-  "stage": "Here we go",
-  "player": "Danny Welbeck",
-  "position": "Forward",
-  "age": "35",
-  "from_club": "Brighton & Hove Albion",
-  "to_club": "Chelsea",
-  "fee": "Undisclosed",
-  "style": "Experienced, intelligent forward who uses clever movement, hold-up play and well-timed runs to create and finish chances.",
-  "fit": "Provides Chelsea with a composed, technically sound striker option under Xabi Alonso, offering leadership and versatility across the front line.",
-  "source": "Sky Sports / ESPN / Press Association",
-  "outlet": "sunnewsonline",
-  "url": "https://thesun.ng/epl-chelsea-prepare-welbeck-medical-ahead-of-transfer/",
-  "title": "EPL: Chelsea prepare Welbeck medical ahead of transfer"
  },
  {
   "id": "78316774dbf254f1f02228d5d96dde28",

@@ -1,8 +1,5 @@
 {
   "sent": [
-    "c6e2b20c229e844d0611d2c222c17a5c",
-    "54d9e5856681625518a0ddbebef13d5e",
-    "98cfb5805dbeac461ec0ecc5bfde86cc",
     "799835585aa5833044204d12c05e7d8c",
     "f21f59ed7d41ad4289eade62558be58d",
     "4e4922dc4d3509bfda689d28681996d9",
@@ -499,7 +496,10 @@
     "6d01596823c868ea890be085fcd9a5e4",
     "3cb1f1c62d207a63456a83635280ccf8",
     "d07436b718acfd283de0084e74562ac8",
-    "d07806c0e239f0b8cb142e1fb1f53f38"
+    "d07806c0e239f0b8cb142e1fb1f53f38",
+    "71f9716881c569d2b865ce6eeb7d92a1",
+    "9e65334867ec923477d72bcd87f76d72",
+    "tg:FabrizioRomanoTG/63932"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -653,7 +653,8 @@
     "gulacsi -> villarreal": 1,
     "akliouche -> psg": 1,
     "hornicek -> newcastle": 1,
-    "onyedika -> eintracht frankfurt": 2
+    "onyedika -> eintracht frankfurt": 2,
+    "gutierrez -> bayer leverkusen": 1
   },
   "interest": [
     "interest: alvarez -> arsenal",
@@ -821,8 +822,6 @@
     "interest: chavarria -> chelsea"
   ],
   "titles": [
-    "\ud83d\udea8 \u26d4\ufe0f official: eli junior kroupi undergoes surgery after suffering a fifth metat",
-    "tottenham planning to make serious move for junior kroupi after savinho",
     "\ud83d\udea8 \ud83d\udfe1 \ud83d\udd34 more on konstantinos koulierakis deal reported today as roma are in advanc",
     "transfer news live: arsenal get vinicius jr hope; guimaraes update; chelsea medi",
     "romano issues \u2018here we go\u2019 update on chelsea transfer after formal request from ",
@@ -1120,7 +1119,9 @@
     "biggest man utd signing of the summer \u2018approved\u2019 \u2013 fabrizio romano teamtalk",
     "deal expected this weekend as real madrid stance on arsenal transfer target expl",
     "vinicius junior\u2019s entourage respond to reports of agreement with arsenal",
-    "schalke inquire for out of favour brighton sensation buonanotte"
+    "schalke inquire for out of favour brighton sensation buonanotte",
+    "liverpool cleared to sign barcola as romano declares \u2018here we go\u2019 and french rep",
+    "\ud83d\udea8 \ud83d\udd34 \u26ab\ufe0f miguel gutierrez to bayer leverkusen, here we go! napoli verbally accept "
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1323,7 +1324,6 @@
     "federico gatti": "https://r2.thesportsdb.com/images/media/player/cutout/z1jv3i1759224911.png/small",
     "lukas hornicek": "https://r2.thesportsdb.com/images/media/player/cutout/8lp67f1780306274.png/small",
     "pep chavarria": "https://r2.thesportsdb.com/images/media/player/cutout/wnxpya1762549628.png/small",
-    "samuel martinez": "",
     "rodri hernandez": "",
     "junior kroupi": "",
     "kerem alajbegovic": "",
@@ -1335,9 +1335,11 @@
     "victor froholdt": "",
     "kyle healy": "",
     "benji flowers": "",
-    "mishel nduka": ""
+    "mishel nduka": "",
+    "miguel gutierrez": "https://r2.thesportsdb.com/images/media/player/cutout/udrnjv1762288198.png/small",
+    "samuel martinez": ""
   },
-  "photo_repair_idx": 11,
+  "photo_repair_idx": 12,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

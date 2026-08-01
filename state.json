@@ -1,8 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/63687",
-    "85eb9cd8fbc3b7e49ce9033f72caf2c0",
-    "39a04caaf398573d69e5dbb62fac8e9c",
     "tg:FabrizioRomanoTG/63688",
     "tg:FabrizioRomanoTG/63691",
     "67e8f5fa17cea9d19a186baaadfcab84",
@@ -499,7 +496,10 @@
     "tg:FabrizioRomanoTG/63890",
     "53d56064b0b49086fc25808bd84c0c3a",
     "777a95104e3b1e5d3ee5138bb4606027",
-    "eae390583691b40646c3bcace3951b76"
+    "eae390583691b40646c3bcace3951b76",
+    "58a337fa9b1bb8a60c550f91669d31b5",
+    "24c32cbb2181b335102a11aaeb3e6f77",
+    "08f82c7b8f3f99ec88be1d58442e3d64"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -812,12 +812,10 @@
     "interest: nwaneri -> borussia dortmund",
     "interest: engels -> west ham",
     "interest: godts -> psg",
-    "interest: thiago -> manchester united"
+    "interest: thiago -> manchester united",
+    "interest: gatti -> napoli"
   ],
   "titles": [
-    "chelsea transfer news: filip jorgensen leaves pre-season tour amid 'interest' fr",
-    "\ud83d\udea8 official: italy have their new manager!",
-    "soule proposed to milan as possible leao replacement",
     "arsenal ready to make formal bid to sign reak madrid star vinicius jr",
     "aston villa keen on signing chelsea's nicolas jackson, despite loan rumors",
     "djed spence to liverpool transfer reality as tottenham has '$45m asking price'",
@@ -1114,7 +1112,10 @@
     "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f como feel agreement is now close for trevoh chalobah to join from chelsea",
     "is bruno guimaraes going to arsenal? what to know about gunners' $103 million tr",
     "bradley barcola opportunity as psg sign \u00a343m winger \u2013 latest liverpool fc news t",
-    "bruno guimaraes\u2019 agent shares post with sensational *double* arsenal transfer hi"
+    "bruno guimaraes\u2019 agent shares post with sensational *double* arsenal transfer hi",
+    "ornstein: newcastle set to sign \u20ac30m czech goalkeeper star",
+    "report napoli want gatti on loan with option to buy from juventus",
+    "real make 'take it or leave it' contract offer to vinicius euro transfer news"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1314,7 +1315,6 @@
     "engels": "https://images.fotmob.com/image_resources/playerimages/1178443.png",
     "mika godts": "https://r2.thesportsdb.com/images/media/player/cutout/e9ulvq1723380456.png/small",
     "igor thiago": "https://r2.thesportsdb.com/images/media/player/cutout/irs8wu1765971888.png/small",
-    "mishel nduka": "",
     "samuel martinez": "",
     "rodri hernandez": "",
     "junior kroupi": "",
@@ -1325,9 +1325,11 @@
     "axel donczew": "",
     "victor froholdt": "",
     "kyle healy": "",
-    "benji flowers": ""
+    "benji flowers": "",
+    "federico gatti": "https://r2.thesportsdb.com/images/media/player/cutout/z1jv3i1759224911.png/small",
+    "mishel nduka": ""
   },
-  "photo_repair_idx": 10,
+  "photo_repair_idx": 11,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

@@ -1,6 +1,5 @@
 {
   "sent": [
-    "36c915785bac7941db196db32fe7b6af",
     "970d7686eba8c080705287f7532e559f",
     "tg:FabrizioRomanoTG/63694",
     "3d1813f0b64785f697f09a22956548ec",
@@ -499,7 +498,8 @@
     "b04a8444bd7c2d7ec7f73652fa3a1857",
     "tg:FabrizioRomanoTG/63904",
     "0bdd7dd8943030f1d93a0e5aa3c0ae57",
-    "tg:FabrizioRomanoTG/63906"
+    "tg:FabrizioRomanoTG/63906",
+    "tg:FabrizioRomanoTG/63907"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -819,7 +819,6 @@
     "interest: suzuki -> juventus"
   ],
   "titles": [
-    "manchester city forward informs club of desire to leave",
     "giant tottenham signing coming after top target \u2018informs\u2019 club he\u2019s leaving",
     "sky sports reveal what sources close to bradley barcola said about liverpool tal",
     "transfer: bradley barcola\u2019s preferred epl club to join revealed",
@@ -1118,7 +1117,8 @@
     "psg\u2019s latest move could be the biggest sign yet that bradley barcola is liverpoo",
     "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f juventus manager luciano spalletti: \u201ci really like zion suzuki we rate h",
     "rb leipzig leaves real madrid on read over yan diomande",
-    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f excl: everton are interested in man united talented striker ethan wheatle"
+    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f excl: everton are interested in man united talented striker ethan wheatle",
+    "\ud83d\udea8 \ud83c\uddea\ud83c\uddf8 paris saint germain remain in direct talks with ferran torres camp over mov"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1320,7 +1320,6 @@
     "igor thiago": "https://r2.thesportsdb.com/images/media/player/cutout/irs8wu1765971888.png/small",
     "federico gatti": "https://r2.thesportsdb.com/images/media/player/cutout/z1jv3i1759224911.png/small",
     "lukas hornicek": "https://r2.thesportsdb.com/images/media/player/cutout/8lp67f1780306274.png/small",
-    "victor froholdt": "",
     "kyle healy": "",
     "benji flowers": "",
     "mishel nduka": "",
@@ -1331,9 +1330,10 @@
     "mateo soule": "",
     "ousmane ndiaye": "",
     "martin": "",
-    "axel donczew": ""
+    "axel donczew": "",
+    "victor froholdt": ""
   },
-  "photo_repair_idx": 7,
+  "photo_repair_idx": 8,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

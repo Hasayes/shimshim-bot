@@ -1,6 +1,5 @@
 {
   "sent": [
-    "0058b813ac83a2ddbe25db25829bc8fa",
     "14c6d15f1843e1015d309b4da0e53e8d",
     "d1cd7eebaf01b6fd974df1a62ec34085",
     "6304062e0e99539bf6cc50a59e1cf66e",
@@ -499,7 +498,8 @@
     "f4adafd613f24210477e48949fefc743",
     "409e64612d21db2c6f112ffd6d3a0c04",
     "0e6d4d5a81ac1b083b8fc40efda02513",
-    "20a546cb3c90b9cf6e2386ecd6ca6296"
+    "20a546cb3c90b9cf6e2386ecd6ca6296",
+    "d6293e60153288ded034cde0ca64515d"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -814,7 +814,6 @@
     "interest: godts -> psg"
   ],
   "titles": [
-    "chelsea have completed changed direction",
     "transfer news and rumours today: sunderland near historic methalie deal, bayern ",
     "unai emery eyes nicolas jackson reunion at aston villa, but only a permanent tra",
     "epl: man united open talks with tottenham over bergvall transfer",
@@ -1113,7 +1112,8 @@
     "cody gakpo labelled 'easy target' amid liverpool's bradley barcola chase and rio",
     "arne engels edging towards celtic exit as west ham lead race",
     "romano drops latest update, star \u201cvery keen on liverpool\u201d move as \u201ccontacts cont",
-    "bradley barcola just got closer to liverpool transfer after seismic friday updat"
+    "bradley barcola just got closer to liverpool transfer after seismic friday updat",
+    "arsenal in talks with roc nation over vinicius jr move: report"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1312,7 +1312,6 @@
     "peter gulacsi": "https://r2.thesportsdb.com/images/media/player/cutout/f24kos1763561131.png/small",
     "engels": "https://images.fotmob.com/image_resources/playerimages/1178443.png",
     "mika godts": "https://r2.thesportsdb.com/images/media/player/cutout/e9ulvq1723380456.png/small",
-    "ousmane ndiaye": "",
     "martin": "",
     "axel donczew": "",
     "victor froholdt": "",
@@ -1323,9 +1322,10 @@
     "rodri hernandez": "",
     "junior kroupi": "",
     "kerem alajbegovic": "",
-    "mateo soule": ""
+    "mateo soule": "",
+    "ousmane ndiaye": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 5,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

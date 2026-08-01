@@ -1,7 +1,5 @@
 {
   "sent": [
-    "3ce3971a71a08cad796669b97b721661",
-    "02f6d365ea6bc4a3e44f7d9f8c333b44",
     "36c915785bac7941db196db32fe7b6af",
     "970d7686eba8c080705287f7532e559f",
     "tg:FabrizioRomanoTG/63694",
@@ -499,7 +497,9 @@
     "e9a42f9600045dba4a6d35a344f5bfe2",
     "b7541f8b96642fc0bdd392a32afdc61b",
     "b04a8444bd7c2d7ec7f73652fa3a1857",
-    "tg:FabrizioRomanoTG/63904"
+    "tg:FabrizioRomanoTG/63904",
+    "0bdd7dd8943030f1d93a0e5aa3c0ae57",
+    "tg:FabrizioRomanoTG/63906"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -819,8 +819,6 @@
     "interest: suzuki -> juventus"
   ],
   "titles": [
-    "barcelona pull out of talks for attacking signing",
-    "torino pursue ajax talent fitz-jim, welcome comert and wait for perri",
     "manchester city forward informs club of desire to leave",
     "giant tottenham signing coming after top target \u2018informs\u2019 club he\u2019s leaving",
     "sky sports reveal what sources close to bradley barcola said about liverpool tal",
@@ -1118,7 +1116,9 @@
     "sky: yan diomande could join rb leipzig's training camp in austria despite real ",
     "ac milan make nwaneri contact saturday's gossip",
     "psg\u2019s latest move could be the biggest sign yet that bradley barcola is liverpoo",
-    "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f juventus manager luciano spalletti: \u201ci really like zion suzuki we rate h"
+    "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f juventus manager luciano spalletti: \u201ci really like zion suzuki we rate h",
+    "rb leipzig leaves real madrid on read over yan diomande",
+    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f excl: everton are interested in man united talented striker ethan wheatle"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1320,7 +1320,6 @@
     "igor thiago": "https://r2.thesportsdb.com/images/media/player/cutout/irs8wu1765971888.png/small",
     "federico gatti": "https://r2.thesportsdb.com/images/media/player/cutout/z1jv3i1759224911.png/small",
     "lukas hornicek": "https://r2.thesportsdb.com/images/media/player/cutout/8lp67f1780306274.png/small",
-    "axel donczew": "",
     "victor froholdt": "",
     "kyle healy": "",
     "benji flowers": "",
@@ -1331,9 +1330,10 @@
     "kerem alajbegovic": "",
     "mateo soule": "",
     "ousmane ndiaye": "",
-    "martin": ""
+    "martin": "",
+    "axel donczew": ""
   },
-  "photo_repair_idx": 6,
+  "photo_repair_idx": 7,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

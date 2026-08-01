@@ -1,6 +1,5 @@
 {
   "sent": [
-    "5b0e644f2ba2133d30720ba823d50478",
     "d6541b5614505e0e88ba3ffd26761f03",
     "850e44bb0da83e7912cf3757c4ff8b7a",
     "a8a67a59a96e2d0ecfb95192d1290e05",
@@ -499,7 +498,8 @@
     "tg:FabrizioRomanoTG/63910",
     "tg:FabrizioRomanoTG/63911",
     "tg:FabrizioRomanoTG/63913",
-    "tg:FabrizioRomanoTG/63914"
+    "tg:FabrizioRomanoTG/63914",
+    "tg:FabrizioRomanoTG/63915"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -820,7 +820,6 @@
     "interest: chavarria -> chelsea"
   ],
   "titles": [
-    "florian plettenberg gives fresh update on bradley barcola to liverpool",
     "jaw-dropping first liverpool bid for bradley barcola revealed as psg say yes",
     "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f bayern plan to start discussing new deal with harry kane from august as i",
     "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f fulham are in club to club talks with real madrid for cesar palacios dea",
@@ -1119,7 +1118,8 @@
     "\u2705 \ud83c\udf52 \ud83c\uddf5\ud83c\uddf9 antonio silva has officially joined bournemouth, deal completed https://t",
     "\ud83d\udea8 \u274c yan diomande did not play today\u2019s friendly match and he will not even travel",
     "\ud83d\udea8 \ud83d\udd35 excl: chelsea improve their bid for pep chavarria as negotiations with rayo ",
-    "\ud83d\udea8 \ud83d\udd35 joao pedro will sign new long term contract at chelsea in the upcoming days,"
+    "\ud83d\udea8 \ud83d\udd35 joao pedro will sign new long term contract at chelsea in the upcoming days,",
+    "\ud83d\udcfa new youtube video uploaded! \ud83c\udfac \ud83d\udea8 \ud83d\udca3 6 top players domino! arsenal boom! ferran, "
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1321,7 +1321,6 @@
     "igor thiago": "https://r2.thesportsdb.com/images/media/player/cutout/irs8wu1765971888.png/small",
     "federico gatti": "https://r2.thesportsdb.com/images/media/player/cutout/z1jv3i1759224911.png/small",
     "lukas hornicek": "https://r2.thesportsdb.com/images/media/player/cutout/8lp67f1780306274.png/small",
-    "kerem alajbegovic": "",
     "mateo soule": "",
     "ousmane ndiaye": "",
     "martin": "",
@@ -1333,9 +1332,10 @@
     "pep chavarria": "https://r2.thesportsdb.com/images/media/player/cutout/wnxpya1762549628.png/small",
     "samuel martinez": "",
     "rodri hernandez": "",
-    "junior kroupi": ""
+    "junior kroupi": "",
+    "kerem alajbegovic": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

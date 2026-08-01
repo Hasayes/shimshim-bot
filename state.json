@@ -1,6 +1,5 @@
 {
   "sent": [
-    "55605237575f195a3445435c1d2b6864",
     "05c917d6fd7658718dd2419e237db8ff",
     "3ce3971a71a08cad796669b97b721661",
     "02f6d365ea6bc4a3e44f7d9f8c333b44",
@@ -499,7 +498,8 @@
     "602f48ca47e1ac3615de1980f8ca739e",
     "49ac040a40fd51c0741ae5dfa5cc3462",
     "e9a42f9600045dba4a6d35a344f5bfe2",
-    "b7541f8b96642fc0bdd392a32afdc61b"
+    "b7541f8b96642fc0bdd392a32afdc61b",
+    "b04a8444bd7c2d7ec7f73652fa3a1857"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -818,7 +818,6 @@
     "interest: gatti -> napoli"
   ],
   "titles": [
-    "barcelona make decision on potential deal for eli junior kroupi as bournemnouth ",
     "real madrid star vinicius jr tells close friends his future plans amid arsenal i",
     "barcelona pull out of talks for attacking signing",
     "torino pursue ajax talent fitz-jim, welcome comert and wait for perri",
@@ -1117,7 +1116,8 @@
     "\ud83d\udea8 yan diomande, not even on the bench and out of rb leipzig squad today as he\u2019s ",
     "vinicius junior ultimatum issued as arsenal plan barcelona raid",
     "sky: yan diomande could join rb leipzig's training camp in austria despite real ",
-    "ac milan make nwaneri contact saturday's gossip"
+    "ac milan make nwaneri contact saturday's gossip",
+    "psg\u2019s latest move could be the biggest sign yet that bradley barcola is liverpoo"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1319,7 +1319,6 @@
     "igor thiago": "https://r2.thesportsdb.com/images/media/player/cutout/irs8wu1765971888.png/small",
     "federico gatti": "https://r2.thesportsdb.com/images/media/player/cutout/z1jv3i1759224911.png/small",
     "lukas hornicek": "https://r2.thesportsdb.com/images/media/player/cutout/8lp67f1780306274.png/small",
-    "samuel martinez": "",
     "rodri hernandez": "",
     "junior kroupi": "",
     "kerem alajbegovic": "",
@@ -1330,9 +1329,10 @@
     "victor froholdt": "",
     "kyle healy": "",
     "benji flowers": "",
-    "mishel nduka": ""
+    "mishel nduka": "",
+    "samuel martinez": ""
   },
-  "photo_repair_idx": 11,
+  "photo_repair_idx": 12,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

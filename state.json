@@ -1313,7 +1313,6 @@
     "peter gulacsi": "https://r2.thesportsdb.com/images/media/player/cutout/f24kos1763561131.png/small",
     "engels": "https://images.fotmob.com/image_resources/playerimages/1178443.png",
     "mika godts": "https://r2.thesportsdb.com/images/media/player/cutout/e9ulvq1723380456.png/small",
-    "rodri hernandez": "",
     "junior kroupi": "",
     "kerem alajbegovic": "",
     "mateo soule": "",
@@ -1325,9 +1324,10 @@
     "kyle healy": "",
     "benji flowers": "",
     "mishel nduka": "",
-    "samuel martinez": ""
+    "samuel martinez": "",
+    "rodri hernandez": ""
   },
-  "photo_repair_idx": 13,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

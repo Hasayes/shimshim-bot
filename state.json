@@ -1,6 +1,5 @@
 {
   "sent": [
-    "7675c40dcb4eea18d6768ae38e3c33dc",
     "4be11f3e8889d07e13227990af21de50",
     "1591000dd9886fa914d81abc9aec736a",
     "069861714a80529fb77c521ce136732b",
@@ -499,7 +498,8 @@
     "tg:FabrizioRomanoTG/63922",
     "tg:FabrizioRomanoTG/63924",
     "tg:FabrizioRomanoTG/63927",
-    "3f7b74b5c07d9b32503701badcbf55e4"
+    "3f7b74b5c07d9b32503701badcbf55e4",
+    "2f1618dad62c755a0ec106c0d09f5a96"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -820,7 +820,6 @@
     "interest: chavarria -> chelsea"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83d\udc02 kian fitz-jim travels to italy today to sign in as new torino player from aj",
     "\ud83d\udfe1 \u26ab\ufe0f konstantinos karetsas completes his medical at borussia dortmund today ahea",
     "fabrizio romano has delivered a huge savinho update for tottenham fans",
     "\ud83d\udea8 \u274c there\u2019s nothing between jules kounde and tottenham despite the links in the ",
@@ -1119,7 +1118,8 @@
     "\ud83d\udea8 \ud83d\udd35 official: danny welbeck joins chelsea from brighton on a two year deal \u201ci\u2019m ",
     "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f rb leipzig are closing in on deal to sign norway gk oryan nyland as repla",
     "\u26aa\ufe0f \u26ab\ufe0f \ud83c\udde7\ud83c\udde6 juventus new signing kerim alajbegovic has just arrived in turin here w",
-    "\u201clet me clarify \u201d \u2013 fabrizio romano speaks out on liverpool transfer links with "
+    "\u201clet me clarify \u201d \u2013 fabrizio romano speaks out on liverpool transfer links with ",
+    "\u201cman united are not done\u201d \u2013 fabrizio romano provides exciting update on \u201ctop tar"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1322,7 +1322,6 @@
     "federico gatti": "https://r2.thesportsdb.com/images/media/player/cutout/z1jv3i1759224911.png/small",
     "lukas hornicek": "https://r2.thesportsdb.com/images/media/player/cutout/8lp67f1780306274.png/small",
     "pep chavarria": "https://r2.thesportsdb.com/images/media/player/cutout/wnxpya1762549628.png/small",
-    "kyle healy": "",
     "benji flowers": "",
     "mishel nduka": "",
     "samuel martinez": "",
@@ -1333,9 +1332,10 @@
     "ousmane ndiaye": "",
     "martin": "",
     "axel donczew": "",
-    "victor froholdt": ""
+    "victor froholdt": "",
+    "kyle healy": ""
   },
-  "photo_repair_idx": 8,
+  "photo_repair_idx": 9,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

@@ -1,7 +1,5 @@
 {
   "sent": [
-    "799835585aa5833044204d12c05e7d8c",
-    "f21f59ed7d41ad4289eade62558be58d",
     "4e4922dc4d3509bfda689d28681996d9",
     "ee1c7a3ed722ab72abaad91cab29ca76",
     "ae2e7e5d88bed95d207fabbfed6d55e6",
@@ -499,7 +497,9 @@
     "d07806c0e239f0b8cb142e1fb1f53f38",
     "71f9716881c569d2b865ce6eeb7d92a1",
     "9e65334867ec923477d72bcd87f76d72",
-    "tg:FabrizioRomanoTG/63932"
+    "tg:FabrizioRomanoTG/63932",
+    "86598482ea75598df09d72af7b066d3a",
+    "dbb80fb8cc41254e55e7ae79b83da032"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -822,8 +822,6 @@
     "interest: chavarria -> chelsea"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83d\udfe1 \ud83d\udd34 more on konstantinos koulierakis deal reported today as roma are in advanc",
-    "transfer news live: arsenal get vinicius jr hope; guimaraes update; chelsea medi",
     "romano issues \u2018here we go\u2019 update on chelsea transfer after formal request from ",
     "romano reveals why real madrid\u2019s latest signing is yet to be announced",
     "romano gives chelsea \u2018here we go\u2019 to eighth signing as ninth transfer is \u2018agreed",
@@ -1121,7 +1119,9 @@
     "vinicius junior\u2019s entourage respond to reports of agreement with arsenal",
     "schalke inquire for out of favour brighton sensation buonanotte",
     "liverpool cleared to sign barcola as romano declares \u2018here we go\u2019 and french rep",
-    "\ud83d\udea8 \ud83d\udd34 \u26ab\ufe0f miguel gutierrez to bayer leverkusen, here we go! napoli verbally accept "
+    "\ud83d\udea8 \ud83d\udd34 \u26ab\ufe0f miguel gutierrez to bayer leverkusen, here we go! napoli verbally accept ",
+    "vinicius junior open to arsenal transfer with personal terms agreement expected",
+    "psg unlocks barcola to liverpool transfer as romano makes \u2018will be completed\u2019 cl"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1324,7 +1324,6 @@
     "federico gatti": "https://r2.thesportsdb.com/images/media/player/cutout/z1jv3i1759224911.png/small",
     "lukas hornicek": "https://r2.thesportsdb.com/images/media/player/cutout/8lp67f1780306274.png/small",
     "pep chavarria": "https://r2.thesportsdb.com/images/media/player/cutout/wnxpya1762549628.png/small",
-    "rodri hernandez": "",
     "junior kroupi": "",
     "kerem alajbegovic": "",
     "mateo soule": "",
@@ -1337,9 +1336,10 @@
     "benji flowers": "",
     "mishel nduka": "",
     "miguel gutierrez": "https://r2.thesportsdb.com/images/media/player/cutout/udrnjv1762288198.png/small",
-    "samuel martinez": ""
+    "samuel martinez": "",
+    "rodri hernandez": ""
   },
-  "photo_repair_idx": 12,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

@@ -1,7 +1,5 @@
 {
   "sent": [
-    "583b1e13841c8e441129bfd28b973519",
-    "5739c441acf0766adf6f4f3b562babf0",
     "a139629f076951cfaf3d2d79d5d77da4",
     "tg:FabrizioRomanoTG/63684",
     "tg:FabrizioRomanoTG/63685",
@@ -499,7 +497,9 @@
     "ff938fe7f5ac7aa1c6093edf98310e89",
     "6454dc492714cf28c4693204d02763f4",
     "616ec8eac12cf65295a49ad9939337dd",
-    "d48b6e1ef47bfbdae3ab1458747b6024"
+    "d48b6e1ef47bfbdae3ab1458747b6024",
+    "fdade97df0d376cc57135ee7e021d009",
+    "ff4207348593004aafa7b4b46ac27d2c"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -815,8 +815,6 @@
     "interest: thiago -> manchester united"
   ],
   "titles": [
-    "why bradley barcola move to liverpool won't be straightforward: report",
-    "'here we go' - leeds united transfer imminent after newcastle united agreed pers",
     "fabrizio romano clears the air on tottenham\u2019s interest in \u2018exit-bound\u2019 ac milan ",
     "reports claim danny welbeck 'agrees' personal terms with chelsea",
     "zinedine zidane appointed france head coach until 2030",
@@ -1114,7 +1112,9 @@
     "arsenal in talks with roc nation over vinicius jr move: report",
     "\"not getting done immediately\" fabrizio romano explains why manchester city are ",
     "man utd make \u2018call\u2019 for new striker as another \u2018world class player\u2019 is offered t",
-    "tottenham receive transfer boost as liverpool set asking price for 27yo \u2018long te"
+    "tottenham receive transfer boost as liverpool set asking price for 27yo \u2018long te",
+    "monza agree \u20ac7 5m deal for nigerian midfielder akinsanmiro",
+    "chelsea and serie a side stuck in battle over final \u20ac5m \u2013 blues\u2019 history shows t"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1313,7 +1313,6 @@
     "peter gulacsi": "https://r2.thesportsdb.com/images/media/player/cutout/f24kos1763561131.png/small",
     "engels": "https://images.fotmob.com/image_resources/playerimages/1178443.png",
     "mika godts": "https://r2.thesportsdb.com/images/media/player/cutout/e9ulvq1723380456.png/small",
-    "mishel nduka": "",
     "samuel martinez": "",
     "rodri hernandez": "",
     "junior kroupi": "",
@@ -1325,9 +1324,10 @@
     "axel donczew": "",
     "victor froholdt": "",
     "kyle healy": "",
-    "benji flowers": ""
+    "benji flowers": "",
+    "mishel nduka": ""
   },
-  "photo_repair_idx": 10,
+  "photo_repair_idx": 11,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

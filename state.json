@@ -1,6 +1,5 @@
 {
   "sent": [
-    "556bf6325b33c1d6501bc39e9db88700",
     "f58cd0bb824618ad94e91b8b6992793e",
     "cd04d53dd69dc7ef3c0ea605cee42ad8",
     "e8804e1be1bd06e30bf371f743da5db8",
@@ -499,7 +498,8 @@
     "5b91c5d15bc8fd7997a4c1d03db21b82",
     "bee978cc19a85515ae1f4d36d590773d",
     "8bc7549c147429724c6e8e5007c443fa",
-    "tg:FabrizioRomanoTG/63900"
+    "tg:FabrizioRomanoTG/63900",
+    "62797b956bbfb44dbe31c7f0c23e6352"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1318,7 +1318,6 @@
     "mika godts": "https://r2.thesportsdb.com/images/media/player/cutout/e9ulvq1723380456.png/small",
     "igor thiago": "https://r2.thesportsdb.com/images/media/player/cutout/irs8wu1765971888.png/small",
     "federico gatti": "https://r2.thesportsdb.com/images/media/player/cutout/z1jv3i1759224911.png/small",
-    "mateo soule": "",
     "ousmane ndiaye": "",
     "martin": "",
     "lukas hornicek": "https://r2.thesportsdb.com/images/media/player/cutout/8lp67f1780306274.png/small",
@@ -1330,9 +1329,10 @@
     "samuel martinez": "",
     "rodri hernandez": "",
     "junior kroupi": "",
-    "kerem alajbegovic": ""
+    "kerem alajbegovic": "",
+    "mateo soule": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

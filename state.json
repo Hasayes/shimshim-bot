@@ -1,6 +1,5 @@
 {
   "sent": [
-    "129863c68a805efa2e395eb0974cfb44",
     "ded9a4b4b909e68680fc944a90e5794c",
     "77f95c6b936e8ffe4f3f33e5453c57fe",
     "aa104f37e2eb9e4c1ece4d16f89aaa44",
@@ -499,7 +498,8 @@
     "tg:FabrizioRomanoTG/63895",
     "tg:FabrizioRomanoTG/63896",
     "tg:FabrizioRomanoTG/63897",
-    "tg:FabrizioRomanoTG/63898"
+    "tg:FabrizioRomanoTG/63898",
+    "5b91c5d15bc8fd7997a4c1d03db21b82"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -818,7 +818,6 @@
     "interest: gatti -> napoli"
   ],
   "titles": [
-    "romano drops bombshell on arsenal signing alvarez for \u00a385m plus gyokeres",
     "barcelona transfer news: eli junior kroupi 'decision made' by la liga champions",
     "report: 8-cap super eagles defender joins akor adams in serie a",
     "leeds united transfer news: whites 'closing in' on james trafford capture for ey",
@@ -1117,7 +1116,8 @@
     "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f matthias jaissle has signed his contract as newcastle head coach until j",
     "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f lukas hornicek to newcastle as new goalkeeper, here we go! deal sealed w",
     "\ud83d\udea8 \ud83c\udde6\ud83c\uddf7 facundo buonanotte, set to leave brighton with several clubs in talks to tr",
-    "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 mika godts has given green light to paris saint germain project! official "
+    "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 mika godts has given green light to paris saint germain project! official ",
+    "tottenham get boost in franco mastantuono chase"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1318,7 +1318,6 @@
     "mika godts": "https://r2.thesportsdb.com/images/media/player/cutout/e9ulvq1723380456.png/small",
     "igor thiago": "https://r2.thesportsdb.com/images/media/player/cutout/irs8wu1765971888.png/small",
     "federico gatti": "https://r2.thesportsdb.com/images/media/player/cutout/z1jv3i1759224911.png/small",
-    "samuel martinez": "",
     "rodri hernandez": "",
     "junior kroupi": "",
     "kerem alajbegovic": "",
@@ -1330,9 +1329,10 @@
     "victor froholdt": "",
     "kyle healy": "",
     "benji flowers": "",
-    "mishel nduka": ""
+    "mishel nduka": "",
+    "samuel martinez": ""
   },
-  "photo_repair_idx": 12,
+  "photo_repair_idx": 13,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

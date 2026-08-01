@@ -1,5 +1,24 @@
 [
  {
+  "id": "tg:FabrizioRomanoTG/63661",
+  "ts": "2026-08-01T12:30:32+00:00",
+  "kind": "interest",
+  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/24eahn1759780929.png/small",
+  "stage": "\u2014",
+  "player": "Zion Suzuki",
+  "position": "Goalkeeper",
+  "age": "\u2014",
+  "from_club": "Parma",
+  "to_club": "Paris Saint-Germain, Juventus",
+  "fee": "\u2014",
+  "style": "Goalkeeper with great potential according to Spalletti's assessment.",
+  "fit": "Juventus manager has publicly expressed strong interest in the shot-stopper as a potential acquisition.",
+  "source": "Fabrizio Romano",
+  "outlet": "Telegram @fabrizioromanotg",
+  "url": "https://t.me/FabrizioRomanoTG/63904",
+  "title": "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f Juventus manager Luciano Spalletti: \u201cI really like Zion Suzuki. We rate him highly because he's a goalkeeper wit"
+ },
+ {
   "id": "tg:FabrizioRomanoTG/63811",
   "ts": "2026-08-01T09:15:29+00:00",
   "kind": "deal",
@@ -986,25 +1005,6 @@
   "outlet": "Telegram @fabrizioromanotg",
   "url": "https://t.me/FabrizioRomanoTG/63672",
   "title": "\ud83d\udea8 \ud83c\udde8\ud83c\uddf4 EXCL: Como open talks for Jhon Lucum\u00ed as new target at centre back as Colombian defender could leave Bologna. Juven"
- },
- {
-  "id": "tg:FabrizioRomanoTG/63661",
-  "ts": "2026-07-27T13:45:36+00:00",
-  "kind": "interest",
-  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/24eahn1759780929.png/small",
-  "stage": "\u2014",
-  "player": "Zion Suzuki",
-  "position": "GK",
-  "age": "\u2014",
-  "from_club": "Parma",
-  "to_club": "Paris Saint-Germain",
-  "fee": "\u2014",
-  "style": "Young goalkeeper being pursued as a development prospect by PSG and a potential immediate solution by Juventus.",
-  "fit": "PSG views him as a long-term investment with potential; Juventus sees him as a starting goalkeeper option if their primary target falls through.",
-  "source": "Fabrizio Romano",
-  "outlet": "Telegram @fabrizioromanotg",
-  "url": "https://t.me/FabrizioRomanoTG/63661",
-  "title": "\ud83d\udea8 \ud83c\uddef\ud83c\uddf5 Paris Saint-Germain and Juventus are both in talks with Parma for Zion Suzuki. PSG see Suzuki as investment for fut"
  },
  {
   "id": "1a0f0811f21a31f575fc8d3dbfdd1440",

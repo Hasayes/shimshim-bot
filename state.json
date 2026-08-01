@@ -1,6 +1,5 @@
 {
   "sent": [
-    "21f66fe6d70e6df1b6069b4cdbdfa4d2",
     "0f3dc4b1236562deb1980305681bce53",
     "5b0e644f2ba2133d30720ba823d50478",
     "d6541b5614505e0e88ba3ffd26761f03",
@@ -499,7 +498,8 @@
     "bf4de06132a33a8f49f250ce314c22e8",
     "tg:FabrizioRomanoTG/63909",
     "tg:FabrizioRomanoTG/63910",
-    "tg:FabrizioRomanoTG/63911"
+    "tg:FabrizioRomanoTG/63911",
+    "tg:FabrizioRomanoTG/63913"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -816,10 +816,10 @@
     "interest: godts -> psg",
     "interest: thiago -> manchester united",
     "interest: gatti -> napoli",
-    "interest: suzuki -> juventus"
+    "interest: suzuki -> juventus",
+    "interest: chavarria -> chelsea"
   ],
   "titles": [
-    "liverpool receive outrageous asking price for barcola",
     "after a dismal time on loan at rangers, my next transfer move is a 'done deal'",
     "florian plettenberg gives fresh update on bradley barcola to liverpool",
     "jaw-dropping first liverpool bid for bradley barcola revealed as psg say yes",
@@ -1118,7 +1118,8 @@
     "psg making push to get mika godts",
     "rt @fabrizioromano : \ud83d\udea8 \ud83c\uddea\ud83c\uddf8 paris saint germain remain in direct talks with ferran",
     "\u2705 \ud83c\udf52 \ud83c\uddf5\ud83c\uddf9 antonio silva has officially joined bournemouth, deal completed https://t",
-    "\ud83d\udea8 \u274c yan diomande did not play today\u2019s friendly match and he will not even travel"
+    "\ud83d\udea8 \u274c yan diomande did not play today\u2019s friendly match and he will not even travel",
+    "\ud83d\udea8 \ud83d\udd35 excl: chelsea improve their bid for pep chavarria as negotiations with rayo "
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1320,7 +1321,6 @@
     "igor thiago": "https://r2.thesportsdb.com/images/media/player/cutout/irs8wu1765971888.png/small",
     "federico gatti": "https://r2.thesportsdb.com/images/media/player/cutout/z1jv3i1759224911.png/small",
     "lukas hornicek": "https://r2.thesportsdb.com/images/media/player/cutout/8lp67f1780306274.png/small",
-    "samuel martinez": "",
     "rodri hernandez": "",
     "junior kroupi": "",
     "kerem alajbegovic": "",
@@ -1331,9 +1331,11 @@
     "victor froholdt": "",
     "kyle healy": "",
     "benji flowers": "",
-    "mishel nduka": ""
+    "mishel nduka": "",
+    "pep chavarria": "https://r2.thesportsdb.com/images/media/player/cutout/wnxpya1762549628.png/small",
+    "samuel martinez": ""
   },
-  "photo_repair_idx": 11,
+  "photo_repair_idx": 12,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",
@@ -1457,6 +1459,7 @@
     "rc lens": "https://r2.thesportsdb.com/images/media/team/badge/3pxoum1598797195.png/small",
     "celtic": "https://r2.thesportsdb.com/images/media/team/badge/3uv1641758780002.png/small",
     "psg": "https://r2.thesportsdb.com/images/media/team/badge/rwqrrq1473504808.png/small",
-    "sc braga": "https://r2.thesportsdb.com/images/media/team/badge/8g4aod1678717261.png/small"
+    "sc braga": "https://r2.thesportsdb.com/images/media/team/badge/8g4aod1678717261.png/small",
+    "rayo vallecano": "https://r2.thesportsdb.com/images/media/team/badge/nzhu941655595465.png/small"
   }
 }

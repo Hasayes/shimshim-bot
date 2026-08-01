@@ -1,6 +1,5 @@
 {
   "sent": [
-    "a4856adbd4b54b4369c7f95fad245137",
     "tg:FabrizioRomanoTG/63692",
     "tg:FabrizioRomanoTG/63693",
     "2d27977be223fc0377b153ef3c7c74dc",
@@ -499,7 +498,8 @@
     "254eefc4fd242e5913eebba7e1be6fea",
     "tg:FabrizioRomanoTG/63892",
     "41c0522460b7b691d0a559c6899c6602",
-    "tg:FabrizioRomanoTG/63894"
+    "tg:FabrizioRomanoTG/63894",
+    "e881743b141bf0fb2212c60c703f6a47"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -817,7 +817,6 @@
     "interest: gatti -> napoli"
   ],
   "titles": [
-    "\ud83d\udea8 \u26aa\ufe0f tottenham keep considering savinho their top priority with brazilian winger",
     "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f filip jorgensen to rc strasbourg, story confirmed and deal being closed t",
     "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f coventry city agree all details of carl rushworth deal with medical booke",
     "\ud83d\udea8 \u274c paris saint-germain are not trying to hijack yan diomande deal despite repor",
@@ -1116,7 +1115,8 @@
     "west ham united 'close' to celtic transfer raid as summer coup could be pulled o",
     "\ud83d\udea8 \ud83c\uddea\ud83c\uddec egypt and al ahly goalkeeper mostafa shobeir has signed with caa base as ne",
     "tottenham delight as jose mourinho sanctions real madrid winger exit",
-    "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 maghnes akliouche to paris saint germain, here we go! \ud83d\udca5 breakthrough betwe"
+    "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 maghnes akliouche to paris saint germain, here we go! \ud83d\udca5 breakthrough betwe",
+    "\u201cit\u2019s not going away\u201d \u2013 lewis steele won\u2019t rule out exit for liverpool forward"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1316,7 +1316,6 @@
     "engels": "https://images.fotmob.com/image_resources/playerimages/1178443.png",
     "mika godts": "https://r2.thesportsdb.com/images/media/player/cutout/e9ulvq1723380456.png/small",
     "igor thiago": "https://r2.thesportsdb.com/images/media/player/cutout/irs8wu1765971888.png/small",
-    "mateo soule": "",
     "ousmane ndiaye": "",
     "martin": "",
     "axel donczew": "",
@@ -1328,9 +1327,10 @@
     "samuel martinez": "",
     "rodri hernandez": "",
     "junior kroupi": "",
-    "kerem alajbegovic": ""
+    "kerem alajbegovic": "",
+    "mateo soule": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

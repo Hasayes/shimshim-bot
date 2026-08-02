@@ -1,6 +1,5 @@
 {
   "sent": [
-    "64bd9f7cb9329d07c91101c6db1372ad",
     "55f149386c40128dbf0e352c1fbd1da1",
     "32d41d77f9b1560731a630a2a578b28f",
     "d1606336845968e103913dcb4a2e7a75",
@@ -499,7 +498,8 @@
     "9381dec326395641f2e00d855879ff7e",
     "ca69d8ac208c13b808910fff1591210c",
     "cc41998ecb598a0cc668fec743f3d163",
-    "tg:FabrizioRomanoTG/63964"
+    "tg:FabrizioRomanoTG/63964",
+    "tg:FabrizioRomanoTG/63966"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -828,7 +828,6 @@
     "interest: skelly -> manchester united"
   ],
   "titles": [
-    "romano: 'incredible' tottenham transfer target tells club he wants to leave",
     "rt @fabrizioromano : \ud83d\udea8 \ud83d\udd34 \ud83d\udd35 excl: paris saint-germain and as monaco reach breakth",
     "\ud83d\udea8 \u274c bryan zaragoza, sacha boey and joao palhinha are out of bayern project direc",
     "free agent midfielder offers himself to barcelona",
@@ -1127,7 +1126,8 @@
     "chelsea table new bid for rayo vallecano defender pep chavarria",
     "chelsea submit new and improved bid for pep chavarria \u2014 reports",
     "arsenal offer 135 million for vinicius junior",
-    "\ud83d\udea8 \ud83d\udc9c fiorentina have agreed loan deal to sign joao mario from juventus the agreem"
+    "\ud83d\udea8 \ud83d\udc9c fiorentina have agreed loan deal to sign joao mario from juventus the agreem",
+    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f exclusive: fc koln send official bid to sign mickey moore on loan from to"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1337,7 +1337,6 @@
     "guglielmo vicario": "https://r2.thesportsdb.com/images/media/player/cutout/5xu8ds1757015525.png/small",
     "tyler adams": "https://r2.thesportsdb.com/images/media/player/cutout/utnaxk1756989024.png/small",
     "jesper lindstr\u00f8m": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/2022128173607_2022-05-08_Fussball_Eintracht_Frankfurt_vs_Borussia_M%C3%B6nchengladbach_-_Sven_-_1D_X_MK_II_-_0635_-_AK8I7370_%28Jesper_Lindstr%C3%B8m_cropped%29.jpg/330px-2022128173607_2022-05-08_Fussball_Eintracht_Frankfurt_vs_Borussia_M%C3%B6nchengladbach_-_Sven_-_1D_X_MK_II_-_0635_-_AK8I7370_%28Jesper_Lindstr%C3%B8m_cropped%29.jpg",
-    "junior kroupi": "",
     "kerem alajbegovic": "",
     "mateo soule": "",
     "ousmane ndiaye": "",
@@ -1349,9 +1348,10 @@
     "benji flowers": "",
     "mishel nduka": "",
     "joao mario": "https://images.fotmob.com/image_resources/playerimages/958421.png",
-    "rodri hernandez": ""
+    "rodri hernandez": "",
+    "junior kroupi": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

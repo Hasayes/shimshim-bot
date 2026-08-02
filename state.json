@@ -1,8 +1,5 @@
 {
   "sent": [
-    "009a07efe8b74b82d70fd91def51de64",
-    "d58d303f159ddc89fc17f71b40acc9a7",
-    "tg:FabrizioRomanoTG/63697",
     "5860fb246f2c123925d5cf1b91c366b3",
     "tg:FabrizioRomanoTG/63698",
     "1d4d7878ef4dbae062c521b40f45c074",
@@ -499,7 +496,10 @@
     "9ea9f77b0f427a1e5fea5a32cc60ac88",
     "e435610c7264a5d43409a74dc416157c",
     "30dce4162fe53bee95f3665a0cb02def",
-    "25dcdad582144a46a704d47435931ab9"
+    "25dcdad582144a46a704d47435931ab9",
+    "616d4fa087a01ae7a35ff59db1036955",
+    "487c9f568a063693c3b34b00864b49fe",
+    "5a500ea58a3959a4c324b763b216a86a"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -822,9 +822,6 @@
     "interest: chavarria -> chelsea"
   ],
   "titles": [
-    "six vinicius jr transfer alternatives arsenal could get if he signs new real mad",
-    "rt @fabrizioromano : \ud83d\udea8 \u26aa\ufe0f real madrid have approached manchester city for rodri ",
-    "real madrid make first approach to manchester city for rodri -report",
     "fabrizio romano confirms real madrid talks with manchester city over rodri deal",
     "plettenberg: liverpool have 'already opened talks' with 'unique' barcola",
     "liverpool agree terms with arsenal target, as real madrid begin rodri negotiatio",
@@ -1121,7 +1118,10 @@
     "everton reach \u00a37m agreement to sign arsenal midfielder, medical details shared d",
     "transfer updates: guimaraes, jones, romero, vinicius, sesko, others",
     "everton set to move for man utd striker in shock transfer as they prepare offer",
-    "man utd forward set for shock premier league transfer 'approach' with stance cle"
+    "man utd forward set for shock premier league transfer 'approach' with stance cle",
+    "former leeds united youngster set for medical ahead of big \u20ac28m switch",
+    "chelsea react as arsenal ready to pay \u20ac100m for joao pedro",
+    "chelsea confirm signing of danny welbeck as 35 year old former england striker j"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1326,7 +1326,6 @@
     "pep chavarria": "https://r2.thesportsdb.com/images/media/player/cutout/wnxpya1762549628.png/small",
     "raphael onyedika": "https://r2.thesportsdb.com/images/media/player/cutout/iwnph11767634416.png/small",
     "miguel gutierrez": "https://r2.thesportsdb.com/images/media/player/cutout/udrnjv1762288198.png/small",
-    "martin": "",
     "axel donczew": "",
     "victor froholdt": "",
     "kyle healy": "",
@@ -1337,9 +1336,10 @@
     "junior kroupi": "",
     "kerem alajbegovic": "",
     "mateo soule": "",
-    "ousmane ndiaye": ""
+    "ousmane ndiaye": "",
+    "martin": ""
   },
-  "photo_repair_idx": 5,
+  "photo_repair_idx": 6,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

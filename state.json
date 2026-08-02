@@ -1,6 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/63722",
     "d48124f71ef198f7ed24092ec4a7786b",
     "tg:FabrizioRomanoTG/63723",
     "6805644a67113fde8503c96fdcd8330c",
@@ -499,7 +498,8 @@
     "247cc496ddcab5c70e79e26b1c6d7893",
     "efe6ebe66133d51dedca12e5fb7246dc",
     "tg:FabrizioRomanoTG/63942",
-    "tg:FabrizioRomanoTG/63943"
+    "tg:FabrizioRomanoTG/63943",
+    "7d936d01bfcca3f89d52a4d44d68beba"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -824,7 +824,6 @@
     "interest: vicario -> juventus"
   ],
   "titles": [
-    "jordan henderson transfer news: brentford exit confirmed as chelsea close in on ",
     "sky sports reporter: \u2018talks ongoing\u2019 as liverpool look to wrap up huge signing",
     "man city \u201cstep up\u201d pursuit of world cup starlet; several \u201ctop tier\u201d clubs still ",
     "bradley barcola reacts to chelsea \u2018concrete interest\u2019 and reaches liverpool deci",
@@ -1123,7 +1122,8 @@
     "\u00a360m left back \u2018wants to join man utd\u2019 as ineos plan audacious arsenal raid for ",
     "carrick handed major jj gabriel warning as wonderkid makes man united debut talk",
     "\ud83d\udea8 \ud83c\udf52 juanlu to bournemouth, here we go! deal done and exclusive story confirmed \ud83c\uddea",
-    "@xcobrabeast he\u2019s flying for a medical, i guess you call it advanced mate \ud83d\ude01 \u2014 fa"
+    "@xcobrabeast he\u2019s flying for a medical, i guess you call it advanced mate \ud83d\ude01 \u2014 fa",
+    "rb leipzig still playing hardball with real madrid"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1330,7 +1330,6 @@
     "miguel gutierrez": "https://r2.thesportsdb.com/images/media/player/cutout/udrnjv1762288198.png/small",
     "samuel martinez": "",
     "victor osimhen": "https://r2.thesportsdb.com/images/media/player/cutout/lw0qcf1769177786.png/small",
-    "rodri hernandez": "",
     "junior kroupi": "",
     "kerem alajbegovic": "",
     "mateo soule": "",
@@ -1341,9 +1340,10 @@
     "victor froholdt": "",
     "kyle healy": "",
     "benji flowers": "",
-    "mishel nduka": ""
+    "mishel nduka": "",
+    "rodri hernandez": ""
   },
-  "photo_repair_idx": 11,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

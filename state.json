@@ -1,6 +1,5 @@
 {
   "sent": [
-    "d48124f71ef198f7ed24092ec4a7786b",
     "tg:FabrizioRomanoTG/63723",
     "6805644a67113fde8503c96fdcd8330c",
     "3159e4e99a1d9e4272ad14681fc67e75",
@@ -499,7 +498,8 @@
     "efe6ebe66133d51dedca12e5fb7246dc",
     "tg:FabrizioRomanoTG/63942",
     "tg:FabrizioRomanoTG/63943",
-    "7d936d01bfcca3f89d52a4d44d68beba"
+    "7d936d01bfcca3f89d52a4d44d68beba",
+    "5601cbe5943abb20fd5c6bfdda22be97"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -821,10 +821,10 @@
     "interest: suzuki -> juventus",
     "interest: chavarria -> chelsea",
     "interest: osimhen -> arsenal",
-    "interest: vicario -> juventus"
+    "interest: vicario -> juventus",
+    "interest: adams -> newcastle"
   ],
   "titles": [
-    "sky sports reporter: \u2018talks ongoing\u2019 as liverpool look to wrap up huge signing",
     "man city \u201cstep up\u201d pursuit of world cup starlet; several \u201ctop tier\u201d clubs still ",
     "bradley barcola reacts to chelsea \u2018concrete interest\u2019 and reaches liverpool deci",
     "man utd tipped to use rashford as swap-deal bait for \u00a351m midfield target",
@@ -1123,7 +1123,8 @@
     "carrick handed major jj gabriel warning as wonderkid makes man united debut talk",
     "\ud83d\udea8 \ud83c\udf52 juanlu to bournemouth, here we go! deal done and exclusive story confirmed \ud83c\uddea",
     "@xcobrabeast he\u2019s flying for a medical, i guess you call it advanced mate \ud83d\ude01 \u2014 fa",
-    "rb leipzig still playing hardball with real madrid"
+    "rb leipzig still playing hardball with real madrid",
+    "transfer rumors, news: newcastle looking at move for usmnt's adams"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1330,7 +1331,6 @@
     "miguel gutierrez": "https://r2.thesportsdb.com/images/media/player/cutout/udrnjv1762288198.png/small",
     "samuel martinez": "",
     "victor osimhen": "https://r2.thesportsdb.com/images/media/player/cutout/lw0qcf1769177786.png/small",
-    "ousmane ndiaye": "",
     "martin": "",
     "axel donczew": "",
     "guglielmo vicario": "https://r2.thesportsdb.com/images/media/player/cutout/5xu8ds1757015525.png/small",
@@ -1341,9 +1341,11 @@
     "rodri hernandez": "",
     "junior kroupi": "",
     "kerem alajbegovic": "",
-    "mateo soule": ""
+    "mateo soule": "",
+    "tyler adams": "https://r2.thesportsdb.com/images/media/player/cutout/utnaxk1756989024.png/small",
+    "ousmane ndiaye": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 5,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

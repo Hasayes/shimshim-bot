@@ -1,7 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/63698",
-    "1d4d7878ef4dbae062c521b40f45c074",
     "1f0df29bbb2b7d0fbb52fd8d4f113411",
     "cd27bd7ba11ad9880917ce2d232829d4",
     "5f42071a60a6f594af0029fbfdfd0a7e",
@@ -499,7 +497,9 @@
     "616d4fa087a01ae7a35ff59db1036955",
     "487c9f568a063693c3b34b00864b49fe",
     "5a500ea58a3959a4c324b763b216a86a",
-    "6104ad8a03265015da87aaeba17d6885"
+    "6104ad8a03265015da87aaeba17d6885",
+    "a2c210877f65547af2a02681f665b57b",
+    "5cbc1f39ce04ff877ef0dedc767da5d6"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1326,7 +1326,6 @@
     "pep chavarria": "https://r2.thesportsdb.com/images/media/player/cutout/wnxpya1762549628.png/small",
     "raphael onyedika": "https://r2.thesportsdb.com/images/media/player/cutout/iwnph11767634416.png/small",
     "miguel gutierrez": "https://r2.thesportsdb.com/images/media/player/cutout/udrnjv1762288198.png/small",
-    "victor froholdt": "",
     "kyle healy": "",
     "benji flowers": "",
     "mishel nduka": "",
@@ -1337,9 +1336,10 @@
     "mateo soule": "",
     "ousmane ndiaye": "",
     "martin": "",
-    "axel donczew": ""
+    "axel donczew": "",
+    "victor froholdt": ""
   },
-  "photo_repair_idx": 7,
+  "photo_repair_idx": 8,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

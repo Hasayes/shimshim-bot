@@ -1,7 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/63720",
-    "tg:FabrizioRomanoTG/63721",
     "tg:FabrizioRomanoTG/63722",
     "d48124f71ef198f7ed24092ec4a7786b",
     "tg:FabrizioRomanoTG/63723",
@@ -499,7 +497,9 @@
     "1dbc0771da52d8f578f1ad8d98afde1d",
     "4480276063a6bb975351bdf54d897030",
     "247cc496ddcab5c70e79e26b1c6d7893",
-    "efe6ebe66133d51dedca12e5fb7246dc"
+    "efe6ebe66133d51dedca12e5fb7246dc",
+    "tg:FabrizioRomanoTG/63942",
+    "tg:FabrizioRomanoTG/63943"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -824,8 +824,6 @@
     "interest: vicario -> juventus"
   ],
   "titles": [
-    "reports state welbeck undergoing medical at chelsea",
-    "tottenham target liverpool transfer as andoni iraola to make crucial decision",
     "jordan henderson transfer news: brentford exit confirmed as chelsea close in on ",
     "sky sports reporter: \u2018talks ongoing\u2019 as liverpool look to wrap up huge signing",
     "man city \u201cstep up\u201d pursuit of world cup starlet; several \u201ctop tier\u201d clubs still ",
@@ -1123,7 +1121,9 @@
     "mission impossible draws closer! vinicius set for the biggest offer in arsenal's",
     "tottenham open to sanctioning a loan exit for guglielmo vicario",
     "\u00a360m left back \u2018wants to join man utd\u2019 as ineos plan audacious arsenal raid for ",
-    "carrick handed major jj gabriel warning as wonderkid makes man united debut talk"
+    "carrick handed major jj gabriel warning as wonderkid makes man united debut talk",
+    "\ud83d\udea8 \ud83c\udf52 juanlu to bournemouth, here we go! deal done and exclusive story confirmed \ud83c\uddea",
+    "@xcobrabeast he\u2019s flying for a medical, i guess you call it advanced mate \ud83d\ude01 \u2014 fa"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1330,7 +1330,6 @@
     "miguel gutierrez": "https://r2.thesportsdb.com/images/media/player/cutout/udrnjv1762288198.png/small",
     "samuel martinez": "",
     "victor osimhen": "https://r2.thesportsdb.com/images/media/player/cutout/lw0qcf1769177786.png/small",
-    "mishel nduka": "",
     "rodri hernandez": "",
     "junior kroupi": "",
     "kerem alajbegovic": "",
@@ -1341,9 +1340,10 @@
     "guglielmo vicario": "https://r2.thesportsdb.com/images/media/player/cutout/5xu8ds1757015525.png/small",
     "victor froholdt": "",
     "kyle healy": "",
-    "benji flowers": ""
+    "benji flowers": "",
+    "mishel nduka": ""
   },
-  "photo_repair_idx": 10,
+  "photo_repair_idx": 11,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

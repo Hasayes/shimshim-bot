@@ -1,7 +1,5 @@
 {
   "sent": [
-    "5124023f55fbad1fbc6d95550bb0a560",
-    "20b28e2d74a4d14d1ad084fd2e2f0afa",
     "7e077b2018fb97a147d424bc1a2ba1a5",
     "f0278107d215fa08ab8dc98441e1df76",
     "5d4e4b68669ced42188b0684a7f6e0fb",
@@ -499,7 +497,9 @@
     "cbc7d9e83e0a4a41bc8146574e604c99",
     "7a2f4da04061dd0832e6110d11508ed4",
     "dea44a3b0cd54b62ed57223c96ec3544",
-    "7a1116ceae659a34b66ae9e923563ab1"
+    "7a1116ceae659a34b66ae9e923563ab1",
+    "tg:FabrizioRomanoTG/63959",
+    "tg:FabrizioRomanoTG/63960"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -639,7 +639,7 @@
     "jorgensen -> rc strasbourg": 1,
     "welbeck -> chelsea": 2,
     "fitz-jim -> torino": 1,
-    "muani -> juventus": 1,
+    "muani -> juventus": 2,
     "henderson -> chelsea": 1,
     "alajbegovic -> juventus": 1,
     "akinsanmiro -> monza": 2,
@@ -826,8 +826,6 @@
     "interest: adams -> newcastle"
   ],
   "titles": [
-    "liverpool transfer news: richard hughes willing to sell \u00a3250k per week forward f",
-    "real madrid monitoring former chelsea utility man - euro transfer news",
     "\ud83d\udea8 \ud83c\uddf9\ud83c\uddf7 rafa leao\u2019s future remains open with fenerbahce and galatasaray both keen a",
     "agents offer leon goretzka to fc barcelona for second time",
     "spurs target kroupi out for 3-4 months with foot injury",
@@ -1125,7 +1123,9 @@
     "bayern munich news: fc bayern to miss on bradley barcola again; mike godts wants",
     "bruno guimaraes nears arsenal move from newcastle united",
     "liverpool could be about to sell player 'more talented' than steven gerrard was ",
-    "man united news: lewis hall deal 'approved' as \u00a370m transfer update emerges"
+    "man united news: lewis hall deal 'approved' as \u00a370m transfer update emerges",
+    "\ud83d\udea8 \ud83c\uddea\ud83c\uddf8 paris saint germain had new round of talks with ferran torres\u2019 camp and dec",
+    "\u26aa\ufe0f \u26ab\ufe0f \ud83c\uddeb\ud83c\uddf7 randal kolo muani signs in as new juventus player from paris saint germ"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1334,7 +1334,6 @@
     "victor osimhen": "https://r2.thesportsdb.com/images/media/player/cutout/lw0qcf1769177786.png/small",
     "guglielmo vicario": "https://r2.thesportsdb.com/images/media/player/cutout/5xu8ds1757015525.png/small",
     "tyler adams": "https://r2.thesportsdb.com/images/media/player/cutout/utnaxk1756989024.png/small",
-    "axel donczew": "",
     "victor froholdt": "",
     "jesper lindstr\u00f8m": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/2022128173607_2022-05-08_Fussball_Eintracht_Frankfurt_vs_Borussia_M%C3%B6nchengladbach_-_Sven_-_1D_X_MK_II_-_0635_-_AK8I7370_%28Jesper_Lindstr%C3%B8m_cropped%29.jpg/330px-2022128173607_2022-05-08_Fussball_Eintracht_Frankfurt_vs_Borussia_M%C3%B6nchengladbach_-_Sven_-_1D_X_MK_II_-_0635_-_AK8I7370_%28Jesper_Lindstr%C3%B8m_cropped%29.jpg",
     "kyle healy": "",
@@ -1345,9 +1344,10 @@
     "kerem alajbegovic": "",
     "mateo soule": "",
     "ousmane ndiaye": "",
-    "martin": ""
+    "martin": "",
+    "axel donczew": ""
   },
-  "photo_repair_idx": 6,
+  "photo_repair_idx": 7,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

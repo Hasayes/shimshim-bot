@@ -1,7 +1,5 @@
 {
   "sent": [
-    "cbab1103ac25fb64fbc46b052ed1e560",
-    "1421d9c363b3e91ef79605eac9d044e5",
     "bcabee4b4ffe190d5a261886c915e65f",
     "b104cd97f1475b996e70065dee68b397",
     "73081406c1b9d28c66277128816c6928",
@@ -499,7 +497,9 @@
     "0ad6dd7a4df9daf4dc0a45f7b3449710",
     "fb9428799f884b492c0a03fd56bfbfe2",
     "41e0b288ff021c07a1c3092aa9aa4b11",
-    "ccac952e8b9c23107e29d93a0480dee2"
+    "ccac952e8b9c23107e29d93a0480dee2",
+    "cd59694c2870962465088bc9ed56d207",
+    "888f082ca57ad9e5a661a72986e19dd7"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -822,8 +822,6 @@
     "interest: chavarria -> chelsea"
   ],
   "titles": [
-    "transfer rumour roundup: newcastle dig in over guimaraes; real madrid launch rod",
-    "eduardo camavinga goes against real madrid as man united could save millions on ",
     "romano reveals first real madrid move for rodri as man city eye \u2018another attacke",
     "psg reach decision on hijacking real madrid deal for yan diomande \u2013 fabrizio rom",
     "real madrid transfer news: 'major' update in spanish club's pursuit of man city ",
@@ -1121,7 +1119,9 @@
     "everton interested in 20 year old manchester united striker",
     "premier league star not waiting for barcelona as he looks to join european giant",
     "real madrid star vinicius jr's entourage respond amid rumours of personal terms ",
-    "just in: barcelona forward\u2019s move to psg gathers momentum; direct talks expected"
+    "just in: barcelona forward\u2019s move to psg gathers momentum; direct talks expected",
+    "fabrizio romano confirms bizarre move between man utd and everton is on \u2013 \u2018forma",
+    "fabrizio romano confirms bizarre move between man utd and everton is on 'formal "
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1326,7 +1326,6 @@
     "pep chavarria": "https://r2.thesportsdb.com/images/media/player/cutout/wnxpya1762549628.png/small",
     "raphael onyedika": "https://r2.thesportsdb.com/images/media/player/cutout/iwnph11767634416.png/small",
     "miguel gutierrez": "https://r2.thesportsdb.com/images/media/player/cutout/udrnjv1762288198.png/small",
-    "martin": "",
     "axel donczew": "",
     "victor froholdt": "",
     "kyle healy": "",
@@ -1337,9 +1336,10 @@
     "junior kroupi": "",
     "kerem alajbegovic": "",
     "mateo soule": "",
-    "ousmane ndiaye": ""
+    "ousmane ndiaye": "",
+    "martin": ""
   },
-  "photo_repair_idx": 5,
+  "photo_repair_idx": 6,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

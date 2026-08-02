@@ -1,7 +1,5 @@
 {
   "sent": [
-    "cd27bd7ba11ad9880917ce2d232829d4",
-    "5f42071a60a6f594af0029fbfdfd0a7e",
     "tg:FabrizioRomanoTG/63699",
     "8c604b7c480473d6af681a20ec8ae039",
     "f5ad7c79470e9a68159476a6aa752a40",
@@ -499,7 +497,9 @@
     "6104ad8a03265015da87aaeba17d6885",
     "a2c210877f65547af2a02681f665b57b",
     "5cbc1f39ce04ff877ef0dedc767da5d6",
-    "0004f5d6399117b4233b24ee56a9415d"
+    "0004f5d6399117b4233b24ee56a9415d",
+    "b440f39e89722b1af6276e834b771a1a",
+    "b429600a6705b24c5361b54a4d369a18"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -819,11 +819,10 @@
     "interest: thiago -> manchester united",
     "interest: gatti -> napoli",
     "interest: suzuki -> juventus",
-    "interest: chavarria -> chelsea"
+    "interest: chavarria -> chelsea",
+    "interest: osimhen -> arsenal"
   ],
   "titles": [
-    "liverpool agree terms with arsenal target, as real madrid begin rodri negotiatio",
-    "\u2018from what i hear\u2019 \u2013 liverpool \u2018priority\u2019 signing is not currently bradley barco",
     "noussair mazraoui takes final stance on leaving man utd after \u2018direct conversati",
     "\u00a370m midfielder wants to join man utd amid \u2018belief\u2019 he\u2019d \u2018transform\u2019 michael car",
     "tottenham set deadline to man city for savinho deal with \u2018this\u2019 italian giant al",
@@ -1121,7 +1120,9 @@
     "chelsea react as arsenal ready to pay \u20ac100m for joao pedro",
     "chelsea confirm signing of danny welbeck as 35 year old former england striker j",
     "player arteta has decided to sign \u201cat all cost\u201d is \u201csuper excited\u201d to join arsen",
-    "fabrizio romano: tottenham hotspur leading the race to sign premier league forwa"
+    "fabrizio romano: tottenham hotspur leading the race to sign premier league forwa",
+    "arsenal\u2019s gyokeres plus \u20ac30m swap bid for super eagles star rejected \u2013 reports",
+    "video: alajbegovic arrives for juventus, medical on sunday"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1326,7 +1327,6 @@
     "pep chavarria": "https://r2.thesportsdb.com/images/media/player/cutout/wnxpya1762549628.png/small",
     "raphael onyedika": "https://r2.thesportsdb.com/images/media/player/cutout/iwnph11767634416.png/small",
     "miguel gutierrez": "https://r2.thesportsdb.com/images/media/player/cutout/udrnjv1762288198.png/small",
-    "mishel nduka": "",
     "samuel martinez": "",
     "rodri hernandez": "",
     "junior kroupi": "",
@@ -1337,9 +1337,11 @@
     "axel donczew": "",
     "victor froholdt": "",
     "kyle healy": "",
-    "benji flowers": ""
+    "benji flowers": "",
+    "victor osimhen": "https://r2.thesportsdb.com/images/media/player/cutout/lw0qcf1769177786.png/small",
+    "mishel nduka": ""
   },
-  "photo_repair_idx": 10,
+  "photo_repair_idx": 11,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

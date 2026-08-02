@@ -1334,7 +1334,6 @@
     "victor osimhen": "https://r2.thesportsdb.com/images/media/player/cutout/lw0qcf1769177786.png/small",
     "guglielmo vicario": "https://r2.thesportsdb.com/images/media/player/cutout/5xu8ds1757015525.png/small",
     "tyler adams": "https://r2.thesportsdb.com/images/media/player/cutout/utnaxk1756989024.png/small",
-    "junior kroupi": "",
     "kerem alajbegovic": "",
     "mateo soule": "",
     "ousmane ndiaye": "",
@@ -1345,9 +1344,10 @@
     "kyle healy": "",
     "benji flowers": "",
     "mishel nduka": "",
-    "rodri hernandez": ""
+    "rodri hernandez": "",
+    "junior kroupi": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

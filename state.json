@@ -1,6 +1,5 @@
 {
   "sent": [
-    "f0278107d215fa08ab8dc98441e1df76",
     "5d4e4b68669ced42188b0684a7f6e0fb",
     "c6237a91a43ac48a8e39dc0357441941",
     "f11ab180ca7f2ec3ac9c2df6ae6780d4",
@@ -499,7 +498,8 @@
     "7a1116ceae659a34b66ae9e923563ab1",
     "tg:FabrizioRomanoTG/63959",
     "tg:FabrizioRomanoTG/63960",
-    "tg:FabrizioRomanoTG/63961"
+    "tg:FabrizioRomanoTG/63961",
+    "tg:FabrizioRomanoTG/63963"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -826,7 +826,6 @@
     "interest: adams -> newcastle"
   ],
   "titles": [
-    "agents offer leon goretzka to fc barcelona for second time",
     "spurs target kroupi out for 3-4 months with foot injury",
     "a german star offers his services to barcelona: flick is the key",
     "chelsea striker signing hijacked \u2013 \u2018deal done\u2019 and \u2018race won\u2019",
@@ -1125,7 +1124,8 @@
     "man united news: lewis hall deal 'approved' as \u00a370m transfer update emerges",
     "\ud83d\udea8 \ud83c\uddea\ud83c\uddf8 paris saint germain had new round of talks with ferran torres\u2019 camp and dec",
     "\u26aa\ufe0f \u26ab\ufe0f \ud83c\uddeb\ud83c\uddf7 randal kolo muani signs in as new juventus player from paris saint germ",
-    "\ud83d\udd35 \ud83c\udde6\ud83c\uddf7 official, confirmed valentin barco joins chelsea from rc strasbourg on a co"
+    "\ud83d\udd35 \ud83c\udde6\ud83c\uddf7 official, confirmed valentin barco joins chelsea from rc strasbourg on a co",
+    "rt @fabrizioromano : \ud83d\udea8 \ud83d\udd34 \ud83d\udd35 exclusive: paris saint germain send \u20ac33m package bid "
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1335,7 +1335,6 @@
     "guglielmo vicario": "https://r2.thesportsdb.com/images/media/player/cutout/5xu8ds1757015525.png/small",
     "tyler adams": "https://r2.thesportsdb.com/images/media/player/cutout/utnaxk1756989024.png/small",
     "jesper lindstr\u00f8m": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/2022128173607_2022-05-08_Fussball_Eintracht_Frankfurt_vs_Borussia_M%C3%B6nchengladbach_-_Sven_-_1D_X_MK_II_-_0635_-_AK8I7370_%28Jesper_Lindstr%C3%B8m_cropped%29.jpg/330px-2022128173607_2022-05-08_Fussball_Eintracht_Frankfurt_vs_Borussia_M%C3%B6nchengladbach_-_Sven_-_1D_X_MK_II_-_0635_-_AK8I7370_%28Jesper_Lindstr%C3%B8m_cropped%29.jpg",
-    "benji flowers": "",
     "mishel nduka": "",
     "rodri hernandez": "",
     "junior kroupi": "",
@@ -1345,9 +1344,10 @@
     "martin": "",
     "axel donczew": "",
     "victor froholdt": "",
-    "kyle healy": ""
+    "kyle healy": "",
+    "benji flowers": ""
   },
-  "photo_repair_idx": 9,
+  "photo_repair_idx": 10,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

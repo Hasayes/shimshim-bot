@@ -1,5 +1,24 @@
 [
  {
+  "id": "tg:FabrizioRomanoTG/63379",
+  "ts": "2026-08-02T17:16:51+00:00",
+  "kind": "deal",
+  "stage": "Completed",
+  "player": "Valent\u00edn Barco",
+  "position": "\u2014",
+  "age": "\u2014",
+  "from_club": "RC Strasbourg",
+  "to_club": "Chelsea",
+  "fee": "\u2014",
+  "style": "Athletic Argentine left-back with pace and defensive intensity.",
+  "fit": "Provides Chelsea with a young, long-term left-back prospect on a seven-year contract.",
+  "source": "Fabrizio Romano",
+  "outlet": "Telegram @fabrizioromanotg",
+  "url": "https://t.me/FabrizioRomanoTG/63961",
+  "title": "\ud83d\udd35 \ud83c\udde6\ud83c\uddf7 Official, confirmed. Valent\u00edn Barco joins Chelsea from RC Strasbourg on a contract valid until June 2033. https://t",
+  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/9yluhs1766053865.png/small"
+ },
+ {
   "id": "tg:FabrizioRomanoTG/63756",
   "ts": "2026-08-02T16:45:35+00:00",
   "kind": "deal",
@@ -1879,25 +1898,6 @@
   "url": "https://t.me/FabrizioRomanoTG/63399",
   "title": "\ud83d\udd34 \u26aa\ufe0f \ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udffc Will Lankshear has signed his contract until June 2031 with Middlesbrough. \u00a310m fixed fee, \u00a310m add-ons and 2",
   "photo": "https://r2.thesportsdb.com/images/media/player/cutout/bpp6ur1778011312.png/small"
- },
- {
-  "id": "tg:FabrizioRomanoTG/63379",
-  "ts": "2026-07-21T07:24:42+00:00",
-  "kind": "deal",
-  "stage": "Here we go",
-  "player": "Valent\u00edn Barco",
-  "position": "\u2014",
-  "age": "\u2014",
-  "from_club": "RC Strasbourg",
-  "to_club": "Chelsea",
-  "fee": "\u2014",
-  "style": "Young Argentine left-back with pace and defensive recovery abilities.",
-  "fit": "Chelsea seeking depth and long-term potential at left-back to provide competition in the position.",
-  "source": "Fabrizio Romano",
-  "outlet": "Telegram @fabrizioromanotg",
-  "url": "https://t.me/FabrizioRomanoTG/63379",
-  "title": "RT @FabrizioRomano : \ud83d\udea8 \ud83d\udd35 Chelsea agree deal to sign Valent\u00edn Barco, here we go! \ud83c\udde6\ud83c\uddf7 Agreement in place with the player as",
-  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/9yluhs1766053865.png/small"
  },
  {
   "id": "1ab7b42732052becb78ce2fa10c69930",

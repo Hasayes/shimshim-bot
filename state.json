@@ -1,7 +1,5 @@
 {
   "sent": [
-    "467e0e161e8628c5a385fb48b8a30c66",
-    "fcecee4891c1439874dbd027b8240292",
     "5124023f55fbad1fbc6d95550bb0a560",
     "20b28e2d74a4d14d1ad084fd2e2f0afa",
     "7e077b2018fb97a147d424bc1a2ba1a5",
@@ -499,7 +497,9 @@
     "ebfc98c8aced8f06ab2eaf64c5c2ba4b",
     "b3b4d0cf28bf74494f26ed87f0f92766",
     "cbc7d9e83e0a4a41bc8146574e604c99",
-    "7a2f4da04061dd0832e6110d11508ed4"
+    "7a2f4da04061dd0832e6110d11508ed4",
+    "dea44a3b0cd54b62ed57223c96ec3544",
+    "7a1116ceae659a34b66ae9e923563ab1"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -826,8 +826,6 @@
     "interest: adams -> newcastle"
   ],
   "titles": [
-    "junior eli kroupi ruled out for 3-4 months amid arsenal and tottenham interest",
-    "rodri wants to join real madrid and the attraction is mutual",
     "liverpool transfer news: richard hughes willing to sell \u00a3250k per week forward f",
     "real madrid monitoring former chelsea utility man - euro transfer news",
     "\ud83d\udea8 \ud83c\uddf9\ud83c\uddf7 rafa leao\u2019s future remains open with fenerbahce and galatasaray both keen a",
@@ -1125,7 +1123,9 @@
     "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 exclusive: paris saint germain send \u20ac33m package bid to parma for japanese",
     "man utd news: green light for lewis hall transfer as \u00a370m star wants move",
     "bayern munich news: fc bayern to miss on bradley barcola again; mike godts wants",
-    "bruno guimaraes nears arsenal move from newcastle united"
+    "bruno guimaraes nears arsenal move from newcastle united",
+    "liverpool could be about to sell player 'more talented' than steven gerrard was ",
+    "man united news: lewis hall deal 'approved' as \u00a370m transfer update emerges"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1334,7 +1334,6 @@
     "victor osimhen": "https://r2.thesportsdb.com/images/media/player/cutout/lw0qcf1769177786.png/small",
     "guglielmo vicario": "https://r2.thesportsdb.com/images/media/player/cutout/5xu8ds1757015525.png/small",
     "tyler adams": "https://r2.thesportsdb.com/images/media/player/cutout/utnaxk1756989024.png/small",
-    "martin": "",
     "axel donczew": "",
     "victor froholdt": "",
     "jesper lindstr\u00f8m": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/2022128173607_2022-05-08_Fussball_Eintracht_Frankfurt_vs_Borussia_M%C3%B6nchengladbach_-_Sven_-_1D_X_MK_II_-_0635_-_AK8I7370_%28Jesper_Lindstr%C3%B8m_cropped%29.jpg/330px-2022128173607_2022-05-08_Fussball_Eintracht_Frankfurt_vs_Borussia_M%C3%B6nchengladbach_-_Sven_-_1D_X_MK_II_-_0635_-_AK8I7370_%28Jesper_Lindstr%C3%B8m_cropped%29.jpg",
@@ -1345,9 +1344,10 @@
     "junior kroupi": "",
     "kerem alajbegovic": "",
     "mateo soule": "",
-    "ousmane ndiaye": ""
+    "ousmane ndiaye": "",
+    "martin": ""
   },
-  "photo_repair_idx": 5,
+  "photo_repair_idx": 6,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

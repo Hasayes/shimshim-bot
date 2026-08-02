@@ -1,6 +1,5 @@
 {
   "sent": [
-    "4096841b2ed8f80bab9b600e6f906377",
     "ebf99aa5992f351c6c9c5c443a0f6d2f",
     "tg:FabrizioRomanoTG/63724",
     "tg:FabrizioRomanoTG/63726",
@@ -499,7 +498,8 @@
     "5601cbe5943abb20fd5c6bfdda22be97",
     "b1b22f77515ba2c34e1dfa44822ece1c",
     "28c0a89dc42c4d5a6b0af8445c85e04a",
-    "tg:FabrizioRomanoTG/63950"
+    "tg:FabrizioRomanoTG/63950",
+    "tg:FabrizioRomanoTG/63952"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -825,7 +825,6 @@
     "interest: adams -> newcastle"
   ],
   "titles": [
-    "man utd tipped to use rashford as swap-deal bait for \u00a351m midfield target",
     "real madrid ready to make a move for rodri as manchester city reportedly await b",
     "juventus beat out chelsea in race to sign bayer leverkusena\u0080\u0099s kerim alajbegovic",
     "leeds united transfer state of play - delap stance, trafford 'positive' and bran",
@@ -1124,7 +1123,8 @@
     "rb leipzig still playing hardball with real madrid",
     "transfer rumors, news: newcastle looking at move for usmnt's adams",
     "lewis hall to mufc will be difficult \u2013 fabrizio romano",
-    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f excl: glen kamara has agreed to join qpr, deal agreed also between clubs "
+    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f excl: glen kamara has agreed to join qpr, deal agreed also between clubs ",
+    "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 excl: paris saint germain send official bid over \u20ac40m to ajax for mika god"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1333,7 +1333,6 @@
     "victor osimhen": "https://r2.thesportsdb.com/images/media/player/cutout/lw0qcf1769177786.png/small",
     "guglielmo vicario": "https://r2.thesportsdb.com/images/media/player/cutout/5xu8ds1757015525.png/small",
     "tyler adams": "https://r2.thesportsdb.com/images/media/player/cutout/utnaxk1756989024.png/small",
-    "victor froholdt": "",
     "kyle healy": "",
     "benji flowers": "",
     "mishel nduka": "",
@@ -1343,9 +1342,10 @@
     "mateo soule": "",
     "ousmane ndiaye": "",
     "martin": "",
-    "axel donczew": ""
+    "axel donczew": "",
+    "victor froholdt": ""
   },
-  "photo_repair_idx": 7,
+  "photo_repair_idx": 8,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

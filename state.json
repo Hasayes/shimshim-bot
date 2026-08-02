@@ -1,6 +1,5 @@
 {
   "sent": [
-    "f3268cf2194541cb5e7c9a24f4ed72c3",
     "tg:FabrizioRomanoTG/63710",
     "tg:FabrizioRomanoTG/63711",
     "838152c1d13bf1baf681f8f02fd3ffce",
@@ -499,7 +498,8 @@
     "78f8b66ad7c1db32e419cbffe4326489",
     "tg:FabrizioRomanoTG/63936",
     "8dc5e2257486ea6bc66e7efe3adbb2fa",
-    "tg:FabrizioRomanoTG/63938"
+    "tg:FabrizioRomanoTG/63938",
+    "cc4375a381e5ba258b08d751d4317c19"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -823,7 +823,6 @@
     "interest: osimhen -> arsenal"
   ],
   "titles": [
-    "man city target raid for barcelona teen with half a billion exit clause as real ",
     "\ud83d\udd35 \ud83d\udd34 gerard martin on real madrid signings: \u201clet them sign whoever they want fran",
     "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f juventus are prepared everything to close kerem alajbegovic deal with al",
     "tottenham eyeing move for liverpool\u2019s 27yo forward as fabrizio romano drops majo",
@@ -1122,7 +1121,8 @@
     "man utd react to \u2018agreement\u2019 claim about altay bayindir and celta de vigo",
     "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 paris saint germain have presented their project to zion suzuki in order t",
     "romano: everton interested in man united young striker",
-    "\ud83d\udea8 \ud83c\udde6\ud83c\uddf7 aston villa have been informed by juventus about plans not to proceed with "
+    "\ud83d\udea8 \ud83c\udde6\ud83c\uddf7 aston villa have been informed by juventus about plans not to proceed with ",
+    "fabrizio romano bombshell is simply massive for liverpool"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1328,7 +1328,6 @@
     "raphael onyedika": "https://r2.thesportsdb.com/images/media/player/cutout/iwnph11767634416.png/small",
     "miguel gutierrez": "https://r2.thesportsdb.com/images/media/player/cutout/udrnjv1762288198.png/small",
     "samuel martinez": "",
-    "axel donczew": "",
     "victor froholdt": "",
     "kyle healy": "",
     "benji flowers": "",
@@ -1339,9 +1338,10 @@
     "kerem alajbegovic": "",
     "mateo soule": "",
     "ousmane ndiaye": "",
-    "martin": ""
+    "martin": "",
+    "axel donczew": ""
   },
-  "photo_repair_idx": 6,
+  "photo_repair_idx": 7,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

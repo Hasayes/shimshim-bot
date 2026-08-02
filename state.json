@@ -1,7 +1,5 @@
 {
   "sent": [
-    "f11ab180ca7f2ec3ac9c2df6ae6780d4",
-    "77bb80823a4414ee42f30130ada1f338",
     "adfb6470af6a6e0c827feb7ae5c978fd",
     "4ba339fe0b6f554b26fc5df9672277e6",
     "273e106a97928561de69810ee147ea5e",
@@ -499,7 +497,9 @@
     "tg:FabrizioRomanoTG/63961",
     "tg:FabrizioRomanoTG/63963",
     "5aa19b37b1cff4fbb838441faefbbda4",
-    "cfd38bee94a65d9bfab417bdcfb099f5"
+    "cfd38bee94a65d9bfab417bdcfb099f5",
+    "bc627306143c553036e8b66cd0f6d20f",
+    "78a4fde96ad253a35ec0d91f9a1004a5"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -823,11 +823,10 @@
     "interest: chavarria -> chelsea",
     "interest: osimhen -> arsenal",
     "interest: vicario -> juventus",
-    "interest: adams -> newcastle"
+    "interest: adams -> newcastle",
+    "interest: skelly -> manchester united"
   ],
   "titles": [
-    "chelsea striker signing hijacked \u2013 \u2018deal done\u2019 and \u2018race won\u2019",
-    "manchester city negotiates with ayyoub bouaddi from lille to replace rodri for r",
     "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 excl: paris saint-germain and as monaco reach breakthrough in talks for ma",
     "romano: tottenham eyeing move to sign liverpool star gakpo alongside savinho",
     "alongside savinho: tottenham eyeing move to sign \u00a3250,000-a-week liverpool star ",
@@ -1125,7 +1124,9 @@
     "\ud83d\udd35 \ud83c\udde6\ud83c\uddf7 official, confirmed valentin barco joins chelsea from rc strasbourg on a co",
     "rt @fabrizioromano : \ud83d\udea8 \ud83d\udd34 \ud83d\udd35 exclusive: paris saint germain send \u20ac33m package bid ",
     "gala reject gyokeres plus \u20ac30m for osimhen \u2013 report",
-    "chelsea finalise deal after arsenal fail with offer as romano reveals blues \u2018new"
+    "chelsea finalise deal after arsenal fail with offer as romano reveals blues \u2018new",
+    "newcastle united turn to premier league midfield enforcer amid major rebuild",
+    "manchester united eye arsenal's myles lewis skelly in summer transfer"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1335,7 +1336,6 @@
     "guglielmo vicario": "https://r2.thesportsdb.com/images/media/player/cutout/5xu8ds1757015525.png/small",
     "tyler adams": "https://r2.thesportsdb.com/images/media/player/cutout/utnaxk1756989024.png/small",
     "jesper lindstr\u00f8m": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/2022128173607_2022-05-08_Fussball_Eintracht_Frankfurt_vs_Borussia_M%C3%B6nchengladbach_-_Sven_-_1D_X_MK_II_-_0635_-_AK8I7370_%28Jesper_Lindstr%C3%B8m_cropped%29.jpg/330px-2022128173607_2022-05-08_Fussball_Eintracht_Frankfurt_vs_Borussia_M%C3%B6nchengladbach_-_Sven_-_1D_X_MK_II_-_0635_-_AK8I7370_%28Jesper_Lindstr%C3%B8m_cropped%29.jpg",
-    "axel donczew": "",
     "victor froholdt": "",
     "kyle healy": "",
     "benji flowers": "",
@@ -1345,9 +1345,11 @@
     "kerem alajbegovic": "",
     "mateo soule": "",
     "ousmane ndiaye": "",
-    "martin": ""
+    "martin": "",
+    "myles lewis skelly": "https://r2.thesportsdb.com/images/media/player/cutout/7g2c521769330817.png/small",
+    "axel donczew": ""
   },
-  "photo_repair_idx": 6,
+  "photo_repair_idx": 7,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

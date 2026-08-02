@@ -1,6 +1,5 @@
 {
   "sent": [
-    "8c604b7c480473d6af681a20ec8ae039",
     "f5ad7c79470e9a68159476a6aa752a40",
     "tg:FabrizioRomanoTG/63705",
     "2b51034f86cee85d1940dcc4d7e2cb4b",
@@ -499,7 +498,8 @@
     "0004f5d6399117b4233b24ee56a9415d",
     "b440f39e89722b1af6276e834b771a1a",
     "b429600a6705b24c5361b54a4d369a18",
-    "be4c585f1bc5583f3a484dd300051304"
+    "be4c585f1bc5583f3a484dd300051304",
+    "78f8b66ad7c1db32e419cbffe4326489"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1328,7 +1328,6 @@
     "raphael onyedika": "https://r2.thesportsdb.com/images/media/player/cutout/iwnph11767634416.png/small",
     "miguel gutierrez": "https://r2.thesportsdb.com/images/media/player/cutout/udrnjv1762288198.png/small",
     "samuel martinez": "",
-    "junior kroupi": "",
     "kerem alajbegovic": "",
     "mateo soule": "",
     "ousmane ndiaye": "",
@@ -1339,9 +1338,10 @@
     "benji flowers": "",
     "victor osimhen": "https://r2.thesportsdb.com/images/media/player/cutout/lw0qcf1769177786.png/small",
     "mishel nduka": "",
-    "rodri hernandez": ""
+    "rodri hernandez": "",
+    "junior kroupi": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

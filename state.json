@@ -1,10 +1,5 @@
 {
   "sent": [
-    "bcabee4b4ffe190d5a261886c915e65f",
-    "b104cd97f1475b996e70065dee68b397",
-    "73081406c1b9d28c66277128816c6928",
-    "82ca388de4c29981850efb903223e284",
-    "08d3d18de8d272d508a1a4c7328c3f12",
     "c4c68f0349208a7ef57c763d12a6f3ba",
     "8e0748630cd6a902f0da5fbc3271a68f",
     "cc70c6d2255f3adfb41d27cd949dc9e3",
@@ -499,7 +494,12 @@
     "41e0b288ff021c07a1c3092aa9aa4b11",
     "ccac952e8b9c23107e29d93a0480dee2",
     "cd59694c2870962465088bc9ed56d207",
-    "888f082ca57ad9e5a661a72986e19dd7"
+    "888f082ca57ad9e5a661a72986e19dd7",
+    "bacbf72eda3da3f09725573ddeb46998",
+    "b35636003995839ae6e13515413104bf",
+    "c8ee16d99bf603852f378ca66b970608",
+    "87f8a08f2da380d158069a137a85430b",
+    "bafc532a5f27e7e7e5d7725e4e75d611"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -822,10 +822,6 @@
     "interest: chavarria -> chelsea"
   ],
   "titles": [
-    "romano reveals first real madrid move for rodri as man city eye \u2018another attacke",
-    "psg reach decision on hijacking real madrid deal for yan diomande \u2013 fabrizio rom",
-    "real madrid transfer news: 'major' update in spanish club's pursuit of man city ",
-    "welbeck set for chelsea medical as deal agreed",
     "real madrid open rodri talks with manchester city",
     "\ud83d\udea8 \ud83e\ude75 exclusive: manchester city want geronimo rulli as new backup goalkeeper to r",
     "real madrid initiate rodri talks with manchester city: details here",
@@ -1121,7 +1117,11 @@
     "real madrid star vinicius jr's entourage respond amid rumours of personal terms ",
     "just in: barcelona forward\u2019s move to psg gathers momentum; direct talks expected",
     "fabrizio romano confirms bizarre move between man utd and everton is on \u2013 \u2018forma",
-    "fabrizio romano confirms bizarre move between man utd and everton is on 'formal "
+    "fabrizio romano confirms bizarre move between man utd and everton is on 'formal ",
+    "psg and barcelona set for talks, ferran torres \u201copen to leaving\u201d",
+    "premier league club 'preparing' move for forward after bradford city spell yorks",
+    "everton 'preparing' move for manchester united's ethan wheatley after bradford c",
+    "yan diomande officially ruled out of rb leipzig training camp as demichelis addr"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1326,7 +1326,6 @@
     "pep chavarria": "https://r2.thesportsdb.com/images/media/player/cutout/wnxpya1762549628.png/small",
     "raphael onyedika": "https://r2.thesportsdb.com/images/media/player/cutout/iwnph11767634416.png/small",
     "miguel gutierrez": "https://r2.thesportsdb.com/images/media/player/cutout/udrnjv1762288198.png/small",
-    "axel donczew": "",
     "victor froholdt": "",
     "kyle healy": "",
     "benji flowers": "",
@@ -1337,9 +1336,10 @@
     "kerem alajbegovic": "",
     "mateo soule": "",
     "ousmane ndiaye": "",
-    "martin": ""
+    "martin": "",
+    "axel donczew": ""
   },
-  "photo_repair_idx": 6,
+  "photo_repair_idx": 7,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

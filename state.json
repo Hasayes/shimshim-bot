@@ -1,6 +1,5 @@
 {
   "sent": [
-    "2389ecb05b308819fbdd09b08d17ba51",
     "cacce4db7d470618a416504e994d43e4",
     "3d77e46c1bdf434021efda70a225fcb6",
     "4fb036f4ded1a1ce51009fa0a537364c",
@@ -499,7 +498,8 @@
     "bc826333356a151bfccb199209fdf360",
     "4282fe6c19034f619ce5cc2bd499c6da",
     "fb8ceb94e32410fbdd25e5f60fed7607",
-    "fc41cf6230c75fcf6e0af70c1b508904"
+    "fc41cf6230c75fcf6e0af70c1b508904",
+    "tg:FabrizioRomanoTG/63967"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -829,7 +829,6 @@
     "interest: gyokeres -> arsenal"
   ],
   "titles": [
-    "wc 2026 final hero lined up as one of the alternative targets to eli junior krou",
     "manchester city target marseille goalkeeper gera3nimo rulli",
     "\ud83d\udea8 \ud83c\udde6\ud83c\uddf7 franco mastantuono, still expected to go out on loan with fiorentina and as",
     "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f kerim alajbegovic to juventus, here we go! deal in place between all par",
@@ -1128,7 +1127,8 @@
     "transfer news and rumours today: man united make striker decision, chelsea flop ",
     "l'ol officialise bacher, les dernieres infos en direct",
     "just in: romano issues mykhaylo mudryk update in a major boost for chelsea",
-    "sassuolo and juventus discussing final details of adzic transfer"
+    "sassuolo and juventus discussing final details of adzic transfer",
+    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f gio reyna to rc strasbourg, here we go! deal in place for the american to"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1340,7 +1340,6 @@
     "jesper lindstr\u00f8m": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/2022128173607_2022-05-08_Fussball_Eintracht_Frankfurt_vs_Borussia_M%C3%B6nchengladbach_-_Sven_-_1D_X_MK_II_-_0635_-_AK8I7370_%28Jesper_Lindstr%C3%B8m_cropped%29.jpg/330px-2022128173607_2022-05-08_Fussball_Eintracht_Frankfurt_vs_Borussia_M%C3%B6nchengladbach_-_Sven_-_1D_X_MK_II_-_0635_-_AK8I7370_%28Jesper_Lindstr%C3%B8m_cropped%29.jpg",
     "myles lewis skelly": "https://r2.thesportsdb.com/images/media/player/cutout/7g2c521769330817.png/small",
     "joao mario": "https://images.fotmob.com/image_resources/playerimages/958421.png",
-    "junior kroupi": "",
     "kerem alajbegovic": "",
     "viktor gyokeres": "https://r2.thesportsdb.com/images/media/player/cutout/ubnx241769330610.png/small",
     "mateo soule": "",
@@ -1351,9 +1350,10 @@
     "kyle healy": "",
     "benji flowers": "",
     "mishel nduka": "",
-    "rodri hernandez": ""
+    "rodri hernandez": "",
+    "junior kroupi": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

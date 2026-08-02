@@ -1,7 +1,5 @@
 {
   "sent": [
-    "cc70c6d2255f3adfb41d27cd949dc9e3",
-    "e1d01ca7899bea3d8fa360da5dbf469b",
     "eea89b1b89dc4a06845acbfbc84d783d",
     "6b4689730f3957c7c48990da615bdf6f",
     "21d6ace0cf5155fc952595516aefd770",
@@ -499,7 +497,9 @@
     "87f8a08f2da380d158069a137a85430b",
     "bafc532a5f27e7e7e5d7725e4e75d611",
     "a5ab8b636c4ce5b962285ec1252d56aa",
-    "9ead453494c6353dc8eb8326fdd8e74d"
+    "9ead453494c6353dc8eb8326fdd8e74d",
+    "3633c93865f20dd01060f578cbcb5eec",
+    "4cf37d7053e43ec3ae8226cbc412d8c5"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -822,8 +822,6 @@
     "interest: chavarria -> chelsea"
   ],
   "titles": [
-    "real madrid initiate rodri talks with manchester city: details here",
-    "chelsea transfer could give jordan henderson the one thing he said he didn't wan",
     "'\u00a335m' - two brighton stars to leave today as deals done and medicals booked",
     "real madrid open talks with man city for rodri",
     "real madrid open formal talks with manchester city in bid for rodri",
@@ -1121,7 +1119,9 @@
     "everton 'preparing' move for manchester united's ethan wheatley after bradford c",
     "yan diomande officially ruled out of rb leipzig training camp as demichelis addr",
     "arsenal target vinicius set to hold make or break talk with madrid",
-    "\u201cnew proposal\u201d \u2013 chelsea make improved bid for top xabi alonso transfer target"
+    "\u201cnew proposal\u201d \u2013 chelsea make improved bid for top xabi alonso transfer target",
+    "chelsea reach agreement with \u00a342m marc cucurella replacement after xabi alonso r",
+    "fabrizio romano has just dropped bruno guimaraes to arsenal update \u2013 \u2018get ready\u2019"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1326,7 +1326,6 @@
     "pep chavarria": "https://r2.thesportsdb.com/images/media/player/cutout/wnxpya1762549628.png/small",
     "raphael onyedika": "https://r2.thesportsdb.com/images/media/player/cutout/iwnph11767634416.png/small",
     "miguel gutierrez": "https://r2.thesportsdb.com/images/media/player/cutout/udrnjv1762288198.png/small",
-    "rodri hernandez": "",
     "junior kroupi": "",
     "kerem alajbegovic": "",
     "mateo soule": "",
@@ -1337,9 +1336,10 @@
     "kyle healy": "",
     "benji flowers": "",
     "mishel nduka": "",
-    "samuel martinez": ""
+    "samuel martinez": "",
+    "rodri hernandez": ""
   },
-  "photo_repair_idx": 12,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

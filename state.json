@@ -1,7 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/63713",
-    "tg:FabrizioRomanoTG/63714",
     "tg:FabrizioRomanoTG/63715",
     "tg:FabrizioRomanoTG/63716",
     "tg:FabrizioRomanoTG/63720",
@@ -499,7 +497,9 @@
     "2c622413216928ac05445e7152a10437",
     "40c0d9950b5a16f4930ffc9c6b3ef188",
     "57a8fd9e70e4b6b15b15ecb92e4ddbca",
-    "23008b798f5a3d1a51d753feb71edc80"
+    "23008b798f5a3d1a51d753feb71edc80",
+    "1dbc0771da52d8f578f1ad8d98afde1d",
+    "4480276063a6bb975351bdf54d897030"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -820,11 +820,10 @@
     "interest: gatti -> napoli",
     "interest: suzuki -> juventus",
     "interest: chavarria -> chelsea",
-    "interest: osimhen -> arsenal"
+    "interest: osimhen -> arsenal",
+    "interest: vicario -> juventus"
   ],
   "titles": [
-    "alonso transfer admission revealed with chelsea in talks for next signing after ",
-    "us soccer gets massive boost as usmnt manager mauricio pochettino set to sign co",
     "manchester city agree five-year contract terms with ayyoub bouaddi as lille nego",
     "\ud83d\udd25 david-zirkzee, inter-napoli \u2694\ufe0f roma-koulierakis: today\u2019s transfer news \ud83e\udd11",
     "reports state welbeck undergoing medical at chelsea",
@@ -1122,7 +1121,9 @@
     "kolo muani to arrive for juventus on sunday, \u20ac38m plus \u20ac12m bonus from psg",
     "fabrizio romano reveals what man utd internally think of jj gabriel as leny yoro",
     "amad and leny yoro in total agreement after jj gabriel makes man utd debut mirro",
-    "everton prepare offer for manchester united wonderkid in ambitious summer move"
+    "everton prepare offer for manchester united wonderkid in ambitious summer move",
+    "mission impossible draws closer! vinicius set for the biggest offer in arsenal's",
+    "tottenham open to sanctioning a loan exit for guglielmo vicario"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1329,7 +1330,6 @@
     "miguel gutierrez": "https://r2.thesportsdb.com/images/media/player/cutout/udrnjv1762288198.png/small",
     "samuel martinez": "",
     "victor osimhen": "https://r2.thesportsdb.com/images/media/player/cutout/lw0qcf1769177786.png/small",
-    "victor froholdt": "",
     "kyle healy": "",
     "benji flowers": "",
     "mishel nduka": "",
@@ -1339,9 +1339,11 @@
     "mateo soule": "",
     "ousmane ndiaye": "",
     "martin": "",
-    "axel donczew": ""
+    "axel donczew": "",
+    "guglielmo vicario": "https://r2.thesportsdb.com/images/media/player/cutout/5xu8ds1757015525.png/small",
+    "victor froholdt": ""
   },
-  "photo_repair_idx": 7,
+  "photo_repair_idx": 8,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

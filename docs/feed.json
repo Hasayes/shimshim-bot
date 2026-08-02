@@ -1,5 +1,24 @@
 [
  {
+  "id": "4480276063a6bb975351bdf54d897030",
+  "ts": "2026-08-02T10:00:49+00:00",
+  "kind": "interest",
+  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/5xu8ds1757015525.png/small",
+  "stage": "\u2014",
+  "player": "Guglielmo Vicario",
+  "position": "Goalkeeper",
+  "age": "\u2014",
+  "from_club": "Tottenham Hotspur",
+  "to_club": "Juventus",
+  "fee": "\u2014",
+  "style": "Modern, distribution-focused shot-stopper with strong command of the box.",
+  "fit": "Juventus seek competition and long-term succession planning in goal; Vicario offers top-level Premier League experience.",
+  "source": "Gianluca Di Marzio",
+  "outlet": "yahoo",
+  "url": "https://sports.yahoo.com/articles/tottenham-open-sanctioning-loan-exit-220000895.html",
+  "title": "Tottenham open to sanctioning a loan exit for Guglielmo Vicario"
+ },
+ {
   "id": "b440f39e89722b1af6276e834b771a1a",
   "ts": "2026-08-02T05:30:33+00:00",
   "kind": "interest",

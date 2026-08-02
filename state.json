@@ -1,6 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/63723",
     "6805644a67113fde8503c96fdcd8330c",
     "3159e4e99a1d9e4272ad14681fc67e75",
     "4096841b2ed8f80bab9b600e6f906377",
@@ -499,7 +498,8 @@
     "tg:FabrizioRomanoTG/63942",
     "tg:FabrizioRomanoTG/63943",
     "7d936d01bfcca3f89d52a4d44d68beba",
-    "5601cbe5943abb20fd5c6bfdda22be97"
+    "5601cbe5943abb20fd5c6bfdda22be97",
+    "b1b22f77515ba2c34e1dfa44822ece1c"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -825,7 +825,6 @@
     "interest: adams -> newcastle"
   ],
   "titles": [
-    "man city \u201cstep up\u201d pursuit of world cup starlet; several \u201ctop tier\u201d clubs still ",
     "bradley barcola reacts to chelsea \u2018concrete interest\u2019 and reaches liverpool deci",
     "man utd tipped to use rashford as swap-deal bait for \u00a351m midfield target",
     "real madrid ready to make a move for rodri as manchester city reportedly await b",
@@ -1124,7 +1123,8 @@
     "\ud83d\udea8 \ud83c\udf52 juanlu to bournemouth, here we go! deal done and exclusive story confirmed \ud83c\uddea",
     "@xcobrabeast he\u2019s flying for a medical, i guess you call it advanced mate \ud83d\ude01 \u2014 fa",
     "rb leipzig still playing hardball with real madrid",
-    "transfer rumors, news: newcastle looking at move for usmnt's adams"
+    "transfer rumors, news: newcastle looking at move for usmnt's adams",
+    "lewis hall to mufc will be difficult \u2013 fabrizio romano"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1331,7 +1331,6 @@
     "miguel gutierrez": "https://r2.thesportsdb.com/images/media/player/cutout/udrnjv1762288198.png/small",
     "samuel martinez": "",
     "victor osimhen": "https://r2.thesportsdb.com/images/media/player/cutout/lw0qcf1769177786.png/small",
-    "axel donczew": "",
     "guglielmo vicario": "https://r2.thesportsdb.com/images/media/player/cutout/5xu8ds1757015525.png/small",
     "victor froholdt": "",
     "kyle healy": "",
@@ -1343,9 +1342,10 @@
     "mateo soule": "",
     "tyler adams": "https://r2.thesportsdb.com/images/media/player/cutout/utnaxk1756989024.png/small",
     "ousmane ndiaye": "",
-    "martin": ""
+    "martin": "",
+    "axel donczew": ""
   },
-  "photo_repair_idx": 6,
+  "photo_repair_idx": 7,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

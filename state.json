@@ -1,6 +1,5 @@
 {
   "sent": [
-    "c4c68f0349208a7ef57c763d12a6f3ba",
     "8e0748630cd6a902f0da5fbc3271a68f",
     "cc70c6d2255f3adfb41d27cd949dc9e3",
     "e1d01ca7899bea3d8fa360da5dbf469b",
@@ -499,7 +498,8 @@
     "b35636003995839ae6e13515413104bf",
     "c8ee16d99bf603852f378ca66b970608",
     "87f8a08f2da380d158069a137a85430b",
-    "bafc532a5f27e7e7e5d7725e4e75d611"
+    "bafc532a5f27e7e7e5d7725e4e75d611",
+    "a5ab8b636c4ce5b962285ec1252d56aa"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -822,7 +822,6 @@
     "interest: chavarria -> chelsea"
   ],
   "titles": [
-    "real madrid open rodri talks with manchester city",
     "\ud83d\udea8 \ud83e\ude75 exclusive: manchester city want geronimo rulli as new backup goalkeeper to r",
     "real madrid initiate rodri talks with manchester city: details here",
     "chelsea transfer could give jordan henderson the one thing he said he didn't wan",
@@ -1121,7 +1120,8 @@
     "psg and barcelona set for talks, ferran torres \u201copen to leaving\u201d",
     "premier league club 'preparing' move for forward after bradford city spell yorks",
     "everton 'preparing' move for manchester united's ethan wheatley after bradford c",
-    "yan diomande officially ruled out of rb leipzig training camp as demichelis addr"
+    "yan diomande officially ruled out of rb leipzig training camp as demichelis addr",
+    "arsenal target vinicius set to hold make or break talk with madrid"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1326,7 +1326,6 @@
     "pep chavarria": "https://r2.thesportsdb.com/images/media/player/cutout/wnxpya1762549628.png/small",
     "raphael onyedika": "https://r2.thesportsdb.com/images/media/player/cutout/iwnph11767634416.png/small",
     "miguel gutierrez": "https://r2.thesportsdb.com/images/media/player/cutout/udrnjv1762288198.png/small",
-    "victor froholdt": "",
     "kyle healy": "",
     "benji flowers": "",
     "mishel nduka": "",
@@ -1337,9 +1336,10 @@
     "mateo soule": "",
     "ousmane ndiaye": "",
     "martin": "",
-    "axel donczew": ""
+    "axel donczew": "",
+    "victor froholdt": ""
   },
-  "photo_repair_idx": 7,
+  "photo_repair_idx": 8,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

@@ -1,7 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/63726",
-    "tg:FabrizioRomanoTG/63727",
     "9fdabe4ce939f251c506d44e42491443",
     "1b06935abb9aaa6ab7d0992759fea2ee",
     "4d5af644fef223dc81cbad3c9b27c545",
@@ -499,7 +497,9 @@
     "tg:FabrizioRomanoTG/63950",
     "tg:FabrizioRomanoTG/63952",
     "tg:FabrizioRomanoTG/63954",
-    "tg:FabrizioRomanoTG/63955"
+    "tg:FabrizioRomanoTG/63955",
+    "tg:FabrizioRomanoTG/63956",
+    "tg:FabrizioRomanoTG/63957"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -826,8 +826,6 @@
     "interest: adams -> newcastle"
   ],
   "titles": [
-    "leeds united transfer state of play - delap stance, trafford 'positive' and bran",
-    "plettenberg issues fresh jackson to aston villa transfer update",
     "liverpool advances for barcola in complex negotiation with psg for french strike",
     "chelsea beaten to striker signing with \u2018deal done\u2019 and final transfer fee reveal",
     "eli junior kroupi ruled out for 3-4 months amid arsenal and tottenham interest",
@@ -1125,7 +1123,9 @@
     "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f excl: glen kamara has agreed to join qpr, deal agreed also between clubs ",
     "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 excl: paris saint germain send official bid over \u20ac40m to ajax for mika god",
     "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f jesper lindstr\u00f8m to schalke 04, here we go! deal agreed with napoli and m",
-    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f real oviedo agree deal to sign estanis pedrola from sampdoria with medica"
+    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f real oviedo agree deal to sign estanis pedrola from sampdoria with medica",
+    "rt @fabrizioromano : \ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f jesper lindstr\u00f8m to schalke 04, here we go! deal agr",
+    "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 exclusive: paris saint germain send \u20ac33m package bid to parma for japanese"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1334,7 +1334,6 @@
     "victor osimhen": "https://r2.thesportsdb.com/images/media/player/cutout/lw0qcf1769177786.png/small",
     "guglielmo vicario": "https://r2.thesportsdb.com/images/media/player/cutout/5xu8ds1757015525.png/small",
     "tyler adams": "https://r2.thesportsdb.com/images/media/player/cutout/utnaxk1756989024.png/small",
-    "benji flowers": "",
     "mishel nduka": "",
     "rodri hernandez": "",
     "junior kroupi": "",
@@ -1345,9 +1344,10 @@
     "axel donczew": "",
     "victor froholdt": "",
     "jesper lindstr\u00f8m": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/2022128173607_2022-05-08_Fussball_Eintracht_Frankfurt_vs_Borussia_M%C3%B6nchengladbach_-_Sven_-_1D_X_MK_II_-_0635_-_AK8I7370_%28Jesper_Lindstr%C3%B8m_cropped%29.jpg/330px-2022128173607_2022-05-08_Fussball_Eintracht_Frankfurt_vs_Borussia_M%C3%B6nchengladbach_-_Sven_-_1D_X_MK_II_-_0635_-_AK8I7370_%28Jesper_Lindstr%C3%B8m_cropped%29.jpg",
-    "kyle healy": ""
+    "kyle healy": "",
+    "benji flowers": ""
   },
-  "photo_repair_idx": 9,
+  "photo_repair_idx": 10,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

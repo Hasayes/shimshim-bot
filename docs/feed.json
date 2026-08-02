@@ -1,5 +1,24 @@
 [
  {
+  "id": "742c9d7208a7d3242b347de0521fd674",
+  "ts": "2026-08-02T21:00:36+00:00",
+  "kind": "interest",
+  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/ubnx241769330610.png/small",
+  "stage": "\u2014",
+  "player": "Viktor Gy\u00f6keres",
+  "position": "Striker",
+  "age": "\u2014",
+  "from_club": "\u2014",
+  "to_club": "Arsenal",
+  "fee": "\u20ac30m + Gy\u00f6keres",
+  "style": "Physical, direct striker with strong finishing and presence in the box.",
+  "fit": "Could provide Arsenal with a dynamic attacking option and goal-scoring threat in the Premier League.",
+  "source": "Naija News",
+  "outlet": "naijanews",
+  "url": "https://www.naijanews.com/2026/08/02/galatasaray-arsenals-osimhen-swap-proposal/",
+  "title": "Galatasaray Snub Arsenal\u2019s Osimhen Swap Proposal"
+ },
+ {
   "id": "tg:FabrizioRomanoTG/63964",
   "ts": "2026-08-02T20:15:34+00:00",
   "kind": "deal",

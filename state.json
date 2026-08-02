@@ -1,8 +1,5 @@
 {
   "sent": [
-    "55f149386c40128dbf0e352c1fbd1da1",
-    "32d41d77f9b1560731a630a2a578b28f",
-    "d1606336845968e103913dcb4a2e7a75",
     "6e4ac95720145d7663d9a769de26ff81",
     "6e01e89f0c5d75c73993ba1cbe00358b",
     "2389ecb05b308819fbdd09b08d17ba51",
@@ -499,7 +496,10 @@
     "ca69d8ac208c13b808910fff1591210c",
     "cc41998ecb598a0cc668fec743f3d163",
     "tg:FabrizioRomanoTG/63964",
-    "tg:FabrizioRomanoTG/63966"
+    "tg:FabrizioRomanoTG/63966",
+    "742c9d7208a7d3242b347de0521fd674",
+    "bc826333356a151bfccb199209fdf360",
+    "4282fe6c19034f619ce5cc2bd499c6da"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -825,12 +825,10 @@
     "interest: osimhen -> arsenal",
     "interest: vicario -> juventus",
     "interest: adams -> newcastle",
-    "interest: skelly -> manchester united"
+    "interest: skelly -> manchester united",
+    "interest: gyokeres -> arsenal"
   ],
   "titles": [
-    "rt @fabrizioromano : \ud83d\udea8 \ud83d\udd34 \ud83d\udd35 excl: paris saint-germain and as monaco reach breakth",
-    "\ud83d\udea8 \u274c bryan zaragoza, sacha boey and joao palhinha are out of bayern project direc",
-    "free agent midfielder offers himself to barcelona",
     "\ud83d\udd34 \u26aa\ufe0f \ud83d\udd10 bayern will not do any more signings this summer, announces director eber",
     "alongside savinho: tottenham eyeing move to sign a\u00a3250,000-a-week liverpool star",
     "wc 2026 final hero lined up as one of the alternative targets to eli junior krou",
@@ -1127,7 +1125,10 @@
     "chelsea submit new and improved bid for pep chavarria \u2014 reports",
     "arsenal offer 135 million for vinicius junior",
     "\ud83d\udea8 \ud83d\udc9c fiorentina have agreed loan deal to sign joao mario from juventus the agreem",
-    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f exclusive: fc koln send official bid to sign mickey moore on loan from to"
+    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f exclusive: fc koln send official bid to sign mickey moore on loan from to",
+    "galatasaray snub arsenal\u2019s osimhen swap proposal",
+    "transfer news and rumours today: man united make striker decision, chelsea flop ",
+    "l'ol officialise bacher, les dernieres infos en direct"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1337,7 +1338,6 @@
     "guglielmo vicario": "https://r2.thesportsdb.com/images/media/player/cutout/5xu8ds1757015525.png/small",
     "tyler adams": "https://r2.thesportsdb.com/images/media/player/cutout/utnaxk1756989024.png/small",
     "jesper lindstr\u00f8m": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/2022128173607_2022-05-08_Fussball_Eintracht_Frankfurt_vs_Borussia_M%C3%B6nchengladbach_-_Sven_-_1D_X_MK_II_-_0635_-_AK8I7370_%28Jesper_Lindstr%C3%B8m_cropped%29.jpg/330px-2022128173607_2022-05-08_Fussball_Eintracht_Frankfurt_vs_Borussia_M%C3%B6nchengladbach_-_Sven_-_1D_X_MK_II_-_0635_-_AK8I7370_%28Jesper_Lindstr%C3%B8m_cropped%29.jpg",
-    "mateo soule": "",
     "ousmane ndiaye": "",
     "martin": "",
     "myles lewis skelly": "https://r2.thesportsdb.com/images/media/player/cutout/7g2c521769330817.png/small",
@@ -1349,9 +1349,11 @@
     "joao mario": "https://images.fotmob.com/image_resources/playerimages/958421.png",
     "rodri hernandez": "",
     "junior kroupi": "",
-    "kerem alajbegovic": ""
+    "kerem alajbegovic": "",
+    "viktor gyokeres": "https://r2.thesportsdb.com/images/media/player/cutout/ubnx241769330610.png/small",
+    "mateo soule": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

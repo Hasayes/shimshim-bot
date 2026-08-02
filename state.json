@@ -1,8 +1,5 @@
 {
   "sent": [
-    "679363d6ed3bbb199a2232a073624d4c",
-    "8ed747acb2cc932fc96546cb1dc03d1e",
-    "83e112c93dc830597491b5f4073cfd13",
     "58e9ec8b5b1b2fed0bec20d7a0dafc64",
     "c63b0474eb04c60cb1f0fae3edddce1f",
     "7936ebcedcaacaea47b7b35289bf34d3",
@@ -499,7 +496,10 @@
     "198b5fa8a8611d0733673926f607abc9",
     "d08c582c75e7fc81d7902b97a6ef3f50",
     "f152e8b1f0fe9e38d8d3d45bb5456ba5",
-    "9ff594833b3ce7be037e19c46ed9bb57"
+    "9ff594833b3ce7be037e19c46ed9bb57",
+    "71be04fc0e5ecbd17603f0e5a294fbfb",
+    "8149b821a78a6b59ce8e0cb92e42922e",
+    "ac64d3cb7d789d46faf05618414724ab"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -822,9 +822,6 @@
     "interest: chavarria -> chelsea"
   ],
   "titles": [
-    "man utd learn chances of ollie watkins transfer as sale of \u00a336 5m flop unlocks n",
-    "danny welbeck: numbers behind chelsea\u2019s chase for the proven target man",
-    "rt @fabrizioromano : \ud83d\udea8 bradley barcola wants to join liverpool and there\u2019s no do",
     "tottenham preparing \u20ac65 million move for barcelona defender \u2013 report - barca uni",
     "akpoguma agrees two-year deal with serie a club",
     "real madrid launch official approach for manchester city maestro with \u20ac60 millio",
@@ -1121,7 +1118,10 @@
     "vinicius junior to arsenal: real madrid present three options to winger as 'cruc",
     "fabrizio romano: everton preparing bid for man utd star ethan wheatley",
     "liverpool get clear bradley barcola transfer boost as psg turn attention to ajax",
-    "diomande set for real madrid as rodri talks remain on ice"
+    "diomande set for real madrid as rodri talks remain on ice",
+    "maghnes akliouche from monaco to psg: here we go finally",
+    "everton want manchester united striker ethan wheatley",
+    "everton ready proposal to make formal offer for 20 y/o forward report"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1326,7 +1326,6 @@
     "pep chavarria": "https://r2.thesportsdb.com/images/media/player/cutout/wnxpya1762549628.png/small",
     "raphael onyedika": "https://r2.thesportsdb.com/images/media/player/cutout/iwnph11767634416.png/small",
     "miguel gutierrez": "https://r2.thesportsdb.com/images/media/player/cutout/udrnjv1762288198.png/small",
-    "kerem alajbegovic": "",
     "mateo soule": "",
     "ousmane ndiaye": "",
     "martin": "",
@@ -1337,9 +1336,10 @@
     "mishel nduka": "",
     "samuel martinez": "",
     "rodri hernandez": "",
-    "junior kroupi": ""
+    "junior kroupi": "",
+    "kerem alajbegovic": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

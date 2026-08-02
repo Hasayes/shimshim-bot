@@ -1,6 +1,5 @@
 {
   "sent": [
-    "c0a1c57bd20d2d944b0a169a91c79085",
     "467e0e161e8628c5a385fb48b8a30c66",
     "fcecee4891c1439874dbd027b8240292",
     "5124023f55fbad1fbc6d95550bb0a560",
@@ -499,7 +498,8 @@
     "tg:FabrizioRomanoTG/63957",
     "ebfc98c8aced8f06ab2eaf64c5c2ba4b",
     "b3b4d0cf28bf74494f26ed87f0f92766",
-    "cbc7d9e83e0a4a41bc8146574e604c99"
+    "cbc7d9e83e0a4a41bc8146574e604c99",
+    "7a2f4da04061dd0832e6110d11508ed4"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -826,7 +826,6 @@
     "interest: adams -> newcastle"
   ],
   "titles": [
-    "eli junior kroupi ruled out for 3-4 months amid arsenal and tottenham interest",
     "junior eli kroupi ruled out for 3-4 months amid arsenal and tottenham interest",
     "rodri wants to join real madrid and the attraction is mutual",
     "liverpool transfer news: richard hughes willing to sell \u00a3250k per week forward f",
@@ -1125,7 +1124,8 @@
     "rt @fabrizioromano : \ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f jesper lindstr\u00f8m to schalke 04, here we go! deal agr",
     "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 exclusive: paris saint germain send \u20ac33m package bid to parma for japanese",
     "man utd news: green light for lewis hall transfer as \u00a370m star wants move",
-    "bayern munich news: fc bayern to miss on bradley barcola again; mike godts wants"
+    "bayern munich news: fc bayern to miss on bradley barcola again; mike godts wants",
+    "bruno guimaraes nears arsenal move from newcastle united"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1334,7 +1334,6 @@
     "victor osimhen": "https://r2.thesportsdb.com/images/media/player/cutout/lw0qcf1769177786.png/small",
     "guglielmo vicario": "https://r2.thesportsdb.com/images/media/player/cutout/5xu8ds1757015525.png/small",
     "tyler adams": "https://r2.thesportsdb.com/images/media/player/cutout/utnaxk1756989024.png/small",
-    "mateo soule": "",
     "ousmane ndiaye": "",
     "martin": "",
     "axel donczew": "",
@@ -1345,9 +1344,10 @@
     "mishel nduka": "",
     "rodri hernandez": "",
     "junior kroupi": "",
-    "kerem alajbegovic": ""
+    "kerem alajbegovic": "",
+    "mateo soule": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

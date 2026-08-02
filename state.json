@@ -1,7 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/63705",
-    "2b51034f86cee85d1940dcc4d7e2cb4b",
     "f3268cf2194541cb5e7c9a24f4ed72c3",
     "tg:FabrizioRomanoTG/63710",
     "tg:FabrizioRomanoTG/63711",
@@ -499,7 +497,9 @@
     "b429600a6705b24c5361b54a4d369a18",
     "be4c585f1bc5583f3a484dd300051304",
     "78f8b66ad7c1db32e419cbffe4326489",
-    "tg:FabrizioRomanoTG/63936"
+    "tg:FabrizioRomanoTG/63936",
+    "8dc5e2257486ea6bc66e7efe3adbb2fa",
+    "tg:FabrizioRomanoTG/63938"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -823,8 +823,6 @@
     "interest: osimhen -> arsenal"
   ],
   "titles": [
-    "tottenham set deadline to man city for savinho deal with \u2018this\u2019 italian giant al",
-    "sky sports drop breaking bradley barcola to liverpool update on wednesday",
     "man city target raid for barcelona teen with half a billion exit clause as real ",
     "\ud83d\udd35 \ud83d\udd34 gerard martin on real madrid signings: \u201clet them sign whoever they want fran",
     "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f juventus are prepared everything to close kerem alajbegovic deal with al",
@@ -1122,7 +1120,9 @@
     "arsenal\u2019s gyokeres plus \u20ac30m swap bid for super eagles star rejected \u2013 reports",
     "video: alajbegovic arrives for juventus, medical on sunday",
     "man utd react to \u2018agreement\u2019 claim about altay bayindir and celta de vigo",
-    "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 paris saint germain have presented their project to zion suzuki in order t"
+    "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 paris saint germain have presented their project to zion suzuki in order t",
+    "romano: everton interested in man united young striker",
+    "\ud83d\udea8 \ud83c\udde6\ud83c\uddf7 aston villa have been informed by juventus about plans not to proceed with "
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1328,7 +1328,6 @@
     "raphael onyedika": "https://r2.thesportsdb.com/images/media/player/cutout/iwnph11767634416.png/small",
     "miguel gutierrez": "https://r2.thesportsdb.com/images/media/player/cutout/udrnjv1762288198.png/small",
     "samuel martinez": "",
-    "martin": "",
     "axel donczew": "",
     "victor froholdt": "",
     "kyle healy": "",
@@ -1339,9 +1338,10 @@
     "junior kroupi": "",
     "kerem alajbegovic": "",
     "mateo soule": "",
-    "ousmane ndiaye": ""
+    "ousmane ndiaye": "",
+    "martin": ""
   },
-  "photo_repair_idx": 5,
+  "photo_repair_idx": 6,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

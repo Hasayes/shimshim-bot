@@ -1,7 +1,5 @@
 {
   "sent": [
-    "273e106a97928561de69810ee147ea5e",
-    "8fe5851abb1762e7d2420d7a2df4be6f",
     "c682ac9f91cdd3cd749bf2dca9f36479",
     "25cf980da564c24599efce95d38f6981",
     "794dca78d46e147dd662785b86910498",
@@ -499,7 +497,9 @@
     "bc627306143c553036e8b66cd0f6d20f",
     "78a4fde96ad253a35ec0d91f9a1004a5",
     "4ba21af54fdc0f4f52943d21195cf5aa",
-    "6d5d3bfa3bcd20be92f2f8f0a1a8410a"
+    "6d5d3bfa3bcd20be92f2f8f0a1a8410a",
+    "a836d1f810fcafaa4284f0e67a86b1cf",
+    "ce8d82397dc930e048b19a3311f9f00b"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -827,8 +827,6 @@
     "interest: skelly -> manchester united"
   ],
   "titles": [
-    "alongside savinho: tottenham eyeing move to sign \u00a3250,000-a-week liverpool star ",
-    "barcelona make a firm decision on the future of world cup sensation amid psg int",
     "manchester city would have closed the signing of ayyoub bouaddi, bringing forwar",
     "\ud83d\udea8 \ud83c\uddf2\ud83c\udde6 manchester city are accelerating to get ayyoub bouaddi deal done with talks",
     "\ud83d\udcfa new youtube video uploaded! \ud83c\udfac \ud83d\udea8 \ud83d\udca3 breakthrough in talks! diomande: why? rodri ",
@@ -1126,7 +1124,9 @@
     "newcastle united turn to premier league midfield enforcer amid major rebuild",
     "manchester united eye arsenal's myles lewis skelly in summer transfer",
     "national media react to jj gabriel's 'excellent' man united debut but all single",
-    "transfer news live: arsenal agree vinicius deal; guimaraes medical; man utd in h"
+    "transfer news live: arsenal agree vinicius deal; guimaraes medical; man utd in h",
+    "double psg sale to liverpool is now on, could be incredible business",
+    "galatasaray reject arsenal\u2019s gyokeres plus cash bid for osimhen"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1336,7 +1336,6 @@
     "guglielmo vicario": "https://r2.thesportsdb.com/images/media/player/cutout/5xu8ds1757015525.png/small",
     "tyler adams": "https://r2.thesportsdb.com/images/media/player/cutout/utnaxk1756989024.png/small",
     "jesper lindstr\u00f8m": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/2022128173607_2022-05-08_Fussball_Eintracht_Frankfurt_vs_Borussia_M%C3%B6nchengladbach_-_Sven_-_1D_X_MK_II_-_0635_-_AK8I7370_%28Jesper_Lindstr%C3%B8m_cropped%29.jpg/330px-2022128173607_2022-05-08_Fussball_Eintracht_Frankfurt_vs_Borussia_M%C3%B6nchengladbach_-_Sven_-_1D_X_MK_II_-_0635_-_AK8I7370_%28Jesper_Lindstr%C3%B8m_cropped%29.jpg",
-    "kyle healy": "",
     "benji flowers": "",
     "mishel nduka": "",
     "rodri hernandez": "",
@@ -1347,9 +1346,10 @@
     "martin": "",
     "myles lewis skelly": "https://r2.thesportsdb.com/images/media/player/cutout/7g2c521769330817.png/small",
     "axel donczew": "",
-    "victor froholdt": ""
+    "victor froholdt": "",
+    "kyle healy": ""
   },
-  "photo_repair_idx": 8,
+  "photo_repair_idx": 9,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

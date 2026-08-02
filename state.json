@@ -1,9 +1,5 @@
 {
   "sent": [
-    "bc41b2044d7a0c7c08ace06ca88843e7",
-    "dd0d5e5360cc02cb5c943dd93790e83f",
-    "4219e3453a08423a69c1b75f2ea748c1",
-    "0caff031ad7ec562b022e71fcf555146",
     "009a07efe8b74b82d70fd91def51de64",
     "d58d303f159ddc89fc17f71b40acc9a7",
     "tg:FabrizioRomanoTG/63697",
@@ -499,7 +495,11 @@
     "4cf37d7053e43ec3ae8226cbc412d8c5",
     "596bf3a5423df493a2aae9dc47e11fa3",
     "52c02afc5c593fced7080ceba48e8577",
-    "7dc9053c8babdb600d82a18d862a12ec"
+    "7dc9053c8babdb600d82a18d862a12ec",
+    "9ea9f77b0f427a1e5fea5a32cc60ac88",
+    "e435610c7264a5d43409a74dc416157c",
+    "30dce4162fe53bee95f3665a0cb02def",
+    "25dcdad582144a46a704d47435931ab9"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -822,8 +822,6 @@
     "interest: chavarria -> chelsea"
   ],
   "titles": [
-    "romano issues update on \u2018top priority\u2019 for tottenham as winger is keen on a move",
-    "tottenham in talks with two huge clubs over star\u2019s sale as international superst",
     "six vinicius jr transfer alternatives arsenal could get if he signs new real mad",
     "rt @fabrizioromano : \ud83d\udea8 \u26aa\ufe0f real madrid have approached manchester city for rodri ",
     "real madrid make first approach to manchester city for rodri -report",
@@ -1121,7 +1119,9 @@
     "fabrizio romano has just dropped bruno guimaraes to arsenal update \u2013 \u2018get ready\u2019",
     "liverpool transfer news euro giants 'ruled out' of bradley barcola deal and cent",
     "everton reach \u00a37m agreement to sign arsenal midfielder, medical details shared d",
-    "transfer updates: guimaraes, jones, romero, vinicius, sesko, others"
+    "transfer updates: guimaraes, jones, romero, vinicius, sesko, others",
+    "everton set to move for man utd striker in shock transfer as they prepare offer",
+    "man utd forward set for shock premier league transfer 'approach' with stance cle"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1326,7 +1326,6 @@
     "pep chavarria": "https://r2.thesportsdb.com/images/media/player/cutout/wnxpya1762549628.png/small",
     "raphael onyedika": "https://r2.thesportsdb.com/images/media/player/cutout/iwnph11767634416.png/small",
     "miguel gutierrez": "https://r2.thesportsdb.com/images/media/player/cutout/udrnjv1762288198.png/small",
-    "ousmane ndiaye": "",
     "martin": "",
     "axel donczew": "",
     "victor froholdt": "",
@@ -1337,9 +1336,10 @@
     "rodri hernandez": "",
     "junior kroupi": "",
     "kerem alajbegovic": "",
-    "mateo soule": ""
+    "mateo soule": "",
+    "ousmane ndiaye": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 5,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

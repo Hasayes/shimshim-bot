@@ -1,7 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/63715",
-    "tg:FabrizioRomanoTG/63716",
     "tg:FabrizioRomanoTG/63720",
     "tg:FabrizioRomanoTG/63721",
     "tg:FabrizioRomanoTG/63722",
@@ -499,7 +497,9 @@
     "57a8fd9e70e4b6b15b15ecb92e4ddbca",
     "23008b798f5a3d1a51d753feb71edc80",
     "1dbc0771da52d8f578f1ad8d98afde1d",
-    "4480276063a6bb975351bdf54d897030"
+    "4480276063a6bb975351bdf54d897030",
+    "247cc496ddcab5c70e79e26b1c6d7893",
+    "efe6ebe66133d51dedca12e5fb7246dc"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -824,8 +824,6 @@
     "interest: vicario -> juventus"
   ],
   "titles": [
-    "manchester city agree five-year contract terms with ayyoub bouaddi as lille nego",
-    "\ud83d\udd25 david-zirkzee, inter-napoli \u2694\ufe0f roma-koulierakis: today\u2019s transfer news \ud83e\udd11",
     "reports state welbeck undergoing medical at chelsea",
     "tottenham target liverpool transfer as andoni iraola to make crucial decision",
     "jordan henderson transfer news: brentford exit confirmed as chelsea close in on ",
@@ -1123,7 +1121,9 @@
     "amad and leny yoro in total agreement after jj gabriel makes man utd debut mirro",
     "everton prepare offer for manchester united wonderkid in ambitious summer move",
     "mission impossible draws closer! vinicius set for the biggest offer in arsenal's",
-    "tottenham open to sanctioning a loan exit for guglielmo vicario"
+    "tottenham open to sanctioning a loan exit for guglielmo vicario",
+    "\u00a360m left back \u2018wants to join man utd\u2019 as ineos plan audacious arsenal raid for ",
+    "carrick handed major jj gabriel warning as wonderkid makes man united debut talk"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1330,7 +1330,6 @@
     "miguel gutierrez": "https://r2.thesportsdb.com/images/media/player/cutout/udrnjv1762288198.png/small",
     "samuel martinez": "",
     "victor osimhen": "https://r2.thesportsdb.com/images/media/player/cutout/lw0qcf1769177786.png/small",
-    "kyle healy": "",
     "benji flowers": "",
     "mishel nduka": "",
     "rodri hernandez": "",
@@ -1341,9 +1340,10 @@
     "martin": "",
     "axel donczew": "",
     "guglielmo vicario": "https://r2.thesportsdb.com/images/media/player/cutout/5xu8ds1757015525.png/small",
-    "victor froholdt": ""
+    "victor froholdt": "",
+    "kyle healy": ""
   },
-  "photo_repair_idx": 8,
+  "photo_repair_idx": 9,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

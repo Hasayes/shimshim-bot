@@ -1,6 +1,5 @@
 {
   "sent": [
-    "8f10d5f7f39ea310361f41a8196f9814",
     "tg:FabrizioRomanoTG/63713",
     "tg:FabrizioRomanoTG/63714",
     "tg:FabrizioRomanoTG/63715",
@@ -499,7 +498,8 @@
     "cc4375a381e5ba258b08d751d4317c19",
     "2c622413216928ac05445e7152a10437",
     "40c0d9950b5a16f4930ffc9c6b3ef188",
-    "57a8fd9e70e4b6b15b15ecb92e4ddbca"
+    "57a8fd9e70e4b6b15b15ecb92e4ddbca",
+    "23008b798f5a3d1a51d753feb71edc80"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -823,7 +823,6 @@
     "interest: osimhen -> arsenal"
   ],
   "titles": [
-    "done deal: kolo muani to juventus, obligation to buy \u20ac38m plus \u20ac12m bonus from p",
     "alonso transfer admission revealed with chelsea in talks for next signing after ",
     "us soccer gets massive boost as usmnt manager mauricio pochettino set to sign co",
     "manchester city agree five-year contract terms with ayyoub bouaddi as lille nego",
@@ -1122,7 +1121,8 @@
     "fabrizio romano bombshell is simply massive for liverpool",
     "kolo muani to arrive for juventus on sunday, \u20ac38m plus \u20ac12m bonus from psg",
     "fabrizio romano reveals what man utd internally think of jj gabriel as leny yoro",
-    "amad and leny yoro in total agreement after jj gabriel makes man utd debut mirro"
+    "amad and leny yoro in total agreement after jj gabriel makes man utd debut mirro",
+    "everton prepare offer for manchester united wonderkid in ambitious summer move"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1329,7 +1329,6 @@
     "miguel gutierrez": "https://r2.thesportsdb.com/images/media/player/cutout/udrnjv1762288198.png/small",
     "samuel martinez": "",
     "victor osimhen": "https://r2.thesportsdb.com/images/media/player/cutout/lw0qcf1769177786.png/small",
-    "martin": "",
     "axel donczew": "",
     "victor froholdt": "",
     "kyle healy": "",
@@ -1339,9 +1338,10 @@
     "junior kroupi": "",
     "kerem alajbegovic": "",
     "mateo soule": "",
-    "ousmane ndiaye": ""
+    "ousmane ndiaye": "",
+    "martin": ""
   },
-  "photo_repair_idx": 5,
+  "photo_repair_idx": 6,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

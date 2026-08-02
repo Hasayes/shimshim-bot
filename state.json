@@ -1,6 +1,5 @@
 {
   "sent": [
-    "6b4689730f3957c7c48990da615bdf6f",
     "21d6ace0cf5155fc952595516aefd770",
     "bc41b2044d7a0c7c08ace06ca88843e7",
     "dd0d5e5360cc02cb5c943dd93790e83f",
@@ -499,7 +498,8 @@
     "9ead453494c6353dc8eb8326fdd8e74d",
     "3633c93865f20dd01060f578cbcb5eec",
     "4cf37d7053e43ec3ae8226cbc412d8c5",
-    "596bf3a5423df493a2aae9dc47e11fa3"
+    "596bf3a5423df493a2aae9dc47e11fa3",
+    "52c02afc5c593fced7080ceba48e8577"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -822,7 +822,6 @@
     "interest: chavarria -> chelsea"
   ],
   "titles": [
-    "real madrid open talks with man city for rodri",
     "real madrid open formal talks with manchester city in bid for rodri",
     "romano issues update on \u2018top priority\u2019 for tottenham as winger is keen on a move",
     "tottenham in talks with two huge clubs over star\u2019s sale as international superst",
@@ -1121,7 +1120,8 @@
     "\u201cnew proposal\u201d \u2013 chelsea make improved bid for top xabi alonso transfer target",
     "chelsea reach agreement with \u00a342m marc cucurella replacement after xabi alonso r",
     "fabrizio romano has just dropped bruno guimaraes to arsenal update \u2013 \u2018get ready\u2019",
-    "liverpool transfer news euro giants 'ruled out' of bradley barcola deal and cent"
+    "liverpool transfer news euro giants 'ruled out' of bradley barcola deal and cent",
+    "everton reach \u00a37m agreement to sign arsenal midfielder, medical details shared d"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1326,7 +1326,6 @@
     "pep chavarria": "https://r2.thesportsdb.com/images/media/player/cutout/wnxpya1762549628.png/small",
     "raphael onyedika": "https://r2.thesportsdb.com/images/media/player/cutout/iwnph11767634416.png/small",
     "miguel gutierrez": "https://r2.thesportsdb.com/images/media/player/cutout/udrnjv1762288198.png/small",
-    "kerem alajbegovic": "",
     "mateo soule": "",
     "ousmane ndiaye": "",
     "martin": "",
@@ -1337,9 +1336,10 @@
     "mishel nduka": "",
     "samuel martinez": "",
     "rodri hernandez": "",
-    "junior kroupi": ""
+    "junior kroupi": "",
+    "kerem alajbegovic": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

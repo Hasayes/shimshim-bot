@@ -1,6 +1,5 @@
 {
   "sent": [
-    "1249cebada37f88f68579fe469cb2b4c",
     "tg:FabrizioRomanoTG/63749",
     "a477876484c2fc54e437b89cc4be6750",
     "bfa8567075f6763da708c02a6c1b536a",
@@ -499,7 +498,8 @@
     "22f56f4b616c28808bd3a3e0e7797e22",
     "8b7a1906a9c98509cfe6a61fde74dc74",
     "c05cb73b271db9802bfcfa9848c53525",
-    "56d510dd852da71072dc0a3559f395cd"
+    "56d510dd852da71072dc0a3559f395cd",
+    "8f298aff687534a4134cc8655a190482"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -829,7 +829,6 @@
     "interest: gyokeres -> arsenal"
   ],
   "titles": [
-    "everton want to sign wonderkid, pl club are willing to sanction 'permanent deal'",
     "romano: psg reach \u201cbreakthrough\u201d in talks with monaco over attacker transfer",
     "chelsea transfer update on maxence lacroix",
     "manchester city submit offer for marseille goalkeeper geronimo rulli as agreemen",
@@ -1128,7 +1127,8 @@
     "fabrizio romano vs florian plettenberg: roc nation sports issues strong statemen",
     "chelsea are in talks to sign this la liga defender: what will he add to alonso\u2019s",
     "fabrizio romano reveals contact for cody gakpo to tottenham transfer",
-    "serie a giants take a big decision on aston villa veteran: were the english club"
+    "serie a giants take a big decision on aston villa veteran: were the english club",
+    "fc koln submit official loan bid for tottenham teenager who had an 11 g/a last s"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1341,7 +1341,6 @@
     "myles lewis skelly": "https://r2.thesportsdb.com/images/media/player/cutout/7g2c521769330817.png/small",
     "joao mario": "https://images.fotmob.com/image_resources/playerimages/958421.png",
     "viktor gyokeres": "https://r2.thesportsdb.com/images/media/player/cutout/ubnx241769330610.png/small",
-    "martin": "",
     "axel donczew": "",
     "victor froholdt": "",
     "kyle healy": "",
@@ -1351,9 +1350,10 @@
     "junior kroupi": "",
     "kerem alajbegovic": "",
     "mateo soule": "",
-    "ousmane ndiaye": ""
+    "ousmane ndiaye": "",
+    "martin": ""
   },
-  "photo_repair_idx": 5,
+  "photo_repair_idx": 6,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

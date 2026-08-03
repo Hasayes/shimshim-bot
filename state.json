@@ -1,7 +1,5 @@
 {
   "sent": [
-    "9281d3df85bf25404a0e3bd2e3d80229",
-    "87bc9f4dbf89dd568ff9b1a5ecb01c0a",
     "5278abbac7df3e567684b5a6ca2dfc18",
     "8dc8ef965d3a6d9a89e7592c547ef17f",
     "9beaf3c3ec9c14d84c2fa9519eba6a3a",
@@ -499,7 +497,9 @@
     "9839acf8b7252b63fd4fabb76962d68f",
     "f388480b57f10ff4ac46043b5419fe3b",
     "e664641184af53f50293611dbe4fae7c",
-    "tg:FabrizioRomanoTG/64005"
+    "tg:FabrizioRomanoTG/64005",
+    "5207ac881f6a13b2f2bd47156a8618f4",
+    "0f1f19730ceca5a3ba1ce5dedee43533"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -831,8 +831,6 @@
     "interest: conceicao -> manchester united"
   ],
   "titles": [
-    "fabrizio romano is opening the door for a final rodri transfer twist the real ch",
-    "\ud83d\udea8 \ud83d\udd35 official: mykhailo mudryk is clear to play again after doping accusations ca",
     "report: argentina\u2019s geronimo rulli could return to manchester city nine years af",
     "\ud83d\udfe1 \ud83d\udd35 ousmane diallo joins parma from borussia dortmund on permanent deal, agreeme",
     "\ud83d\udea8 \ud83d\udfe1 more on peter gulacsi and villarreal exclusive story the agreement is done o",
@@ -1130,7 +1128,9 @@
     "fabrizio romano reveals whether man utd want to sign francisco conceicao",
     "fabrizio romano reveals whether man utd want to sign francisco conceicao teamtal",
     "fabrizio romano reveals man utd message about signing francisco conceicao",
-    "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f official: gonzalo garcia joins fulham from real madrid \u20ac40m fixed fee, \u20ac"
+    "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f official: gonzalo garcia joins fulham from real madrid \u20ac40m fixed fee, \u20ac",
+    "liverpool offered deal to hijack psg move for mika godts",
+    "liverpool could sign rw plus bradley barcola after fabrizio romano\u2019s morning upd"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1343,7 +1343,6 @@
     "myles lewis skelly": "https://r2.thesportsdb.com/images/media/player/cutout/7g2c521769330817.png/small",
     "joao mario": "https://images.fotmob.com/image_resources/playerimages/958421.png",
     "viktor gyokeres": "https://r2.thesportsdb.com/images/media/player/cutout/ubnx241769330610.png/small",
-    "kyle healy": "",
     "dion lopy": "https://r2.thesportsdb.com/images/media/player/cutout/lnl0a01735883167.png/small",
     "benji flowers": "",
     "mishel nduka": "",
@@ -1355,9 +1354,10 @@
     "francisco conceicao": "https://r2.thesportsdb.com/images/media/player/cutout/ekqivz1759225498.png/small",
     "martin": "",
     "axel donczew": "",
-    "victor froholdt": ""
+    "victor froholdt": "",
+    "kyle healy": ""
   },
-  "photo_repair_idx": 8,
+  "photo_repair_idx": 9,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

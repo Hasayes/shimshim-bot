@@ -1,7 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/63766",
-    "tg:FabrizioRomanoTG/63767",
     "tg:FabrizioRomanoTG/63769",
     "tg:FabrizioRomanoTG/63770",
     "tg:FabrizioRomanoTG/63771",
@@ -499,7 +497,9 @@
     "1fbf3de1a9f599271e42ac2657c711b1",
     "tg:FabrizioRomanoTG/63984",
     "tg:FabrizioRomanoTG/63985",
-    "tg:FabrizioRomanoTG/63986"
+    "tg:FabrizioRomanoTG/63986",
+    "tg:FabrizioRomanoTG/63987",
+    "tg:FabrizioRomanoTG/63988"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -829,8 +829,6 @@
     "interest: gyokeres -> arsenal"
   ],
   "titles": [
-    "man city reach transfer decision on real madrid target rodri as fabrizio romano ",
-    "fabrizio romano drops fresh rodri to real madrid update as man city cling to one",
     "\u201cthat deal could get done\u201d \u2013 liverpool star could yet join premier league rivals",
     "brentford transfer news: sangare set to replace henderson as bees reach 'verbal ",
     "manchester city transfer target undergoes surgery as 100 day sideline spell begi",
@@ -1128,7 +1126,9 @@
     "fabrizio romano reveals arsenal on cusp of bruno guimaraes deal amid official tr",
     "\ud83d\udea8 \ud83c\uddfa\ud83c\uddf8 breaking: mauricio pochettino signs new deal as usmnt head coach until 2030",
     "\ud83d\udcfa new youtube video uploaded! \ud83c\udfac \ud83d\udea8 \ud83d\udca3 talks now underway! de bruyne, ferran, barca",
-    "\ud83d\udea8 \ud83d\udd34 understand official club to club talks between liverpool and paris saint ger"
+    "\ud83d\udea8 \ud83d\udd34 understand official club to club talks between liverpool and paris saint ger",
+    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f excl: como reach verbal agreement to sign trevoh chalobah from chelsea, h",
+    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f exclusive: como reach verbal agreement to sign trevoh chalobah from chels"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1341,7 +1341,6 @@
     "myles lewis skelly": "https://r2.thesportsdb.com/images/media/player/cutout/7g2c521769330817.png/small",
     "joao mario": "https://images.fotmob.com/image_resources/playerimages/958421.png",
     "viktor gyokeres": "https://r2.thesportsdb.com/images/media/player/cutout/ubnx241769330610.png/small",
-    "kerem alajbegovic": "",
     "mateo soule": "",
     "ousmane ndiaye": "",
     "martin": "",
@@ -1351,9 +1350,10 @@
     "benji flowers": "",
     "mishel nduka": "",
     "rodri hernandez": "",
-    "junior kroupi": ""
+    "junior kroupi": "",
+    "kerem alajbegovic": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

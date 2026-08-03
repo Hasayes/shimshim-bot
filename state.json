@@ -1,7 +1,5 @@
 {
   "sent": [
-    "9e8c43f6d78311d38216ff5433da3c41",
-    "tg:FabrizioRomanoTG/63781",
     "f95c8a69499358301aa635b866c97c21",
     "6120cb16158a01443f41979a48b90f36",
     "9281d3df85bf25404a0e3bd2e3d80229",
@@ -499,7 +497,9 @@
     "tg:FabrizioRomanoTG/64002",
     "47374b14a400e399c32a84c729bdd93e",
     "cd29ab4034fbae1b61d6a0981e8d99c5",
-    "3b0d973c5f5f138290b44e8144e8666f"
+    "3b0d973c5f5f138290b44e8144e8666f",
+    "9839acf8b7252b63fd4fabb76962d68f",
+    "f388480b57f10ff4ac46043b5419fe3b"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1343,7 +1343,6 @@
     "myles lewis skelly": "https://r2.thesportsdb.com/images/media/player/cutout/7g2c521769330817.png/small",
     "joao mario": "https://images.fotmob.com/image_resources/playerimages/958421.png",
     "viktor gyokeres": "https://r2.thesportsdb.com/images/media/player/cutout/ubnx241769330610.png/small",
-    "axel donczew": "",
     "victor froholdt": "",
     "kyle healy": "",
     "dion lopy": "https://r2.thesportsdb.com/images/media/player/cutout/lnl0a01735883167.png/small",
@@ -1355,9 +1354,10 @@
     "mateo soule": "",
     "ousmane ndiaye": "",
     "francisco conceicao": "https://r2.thesportsdb.com/images/media/player/cutout/ekqivz1759225498.png/small",
-    "martin": ""
+    "martin": "",
+    "axel donczew": ""
   },
-  "photo_repair_idx": 6,
+  "photo_repair_idx": 7,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

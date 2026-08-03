@@ -1,8 +1,5 @@
 {
   "sent": [
-    "78316774dbf254f1f02228d5d96dde28",
-    "733e20c48a6ea754a469329c7f201a24",
-    "d453b3909a078cd02cde46c8e7ea577a",
     "9e8c43f6d78311d38216ff5433da3c41",
     "tg:FabrizioRomanoTG/63781",
     "f95c8a69499358301aa635b866c97c21",
@@ -499,7 +496,10 @@
     "067e5a69a04a1b42db8c8c6d5f4ffafb",
     "622a5ec757a7b502c7efac14033a3840",
     "tg:FabrizioRomanoTG/64001",
-    "tg:FabrizioRomanoTG/64002"
+    "tg:FabrizioRomanoTG/64002",
+    "47374b14a400e399c32a84c729bdd93e",
+    "cd29ab4034fbae1b61d6a0981e8d99c5",
+    "3b0d973c5f5f138290b44e8144e8666f"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -827,12 +827,10 @@
     "interest: vicario -> juventus",
     "interest: adams -> newcastle",
     "interest: skelly -> manchester united",
-    "interest: gyokeres -> arsenal"
+    "interest: gyokeres -> arsenal",
+    "interest: conceicao -> manchester united"
   ],
   "titles": [
-    "liverpool target secures a\u0080\u0098verbal agreementa\u0080\u0099 ahead of likely a\u00a3100m plus tran",
-    "carnevali confirms kolo muani signing, alajbegovic talks and no meeting with vla",
-    "\ud83d\udea8 \ud83d\udd34 \u26ab\ufe0f bayer leverkusen have sent an official bid to napoli for miguel gutierrez",
     "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 albanian defender mario mitaj leaves al ittihad and joins genoa, deal agre",
     "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f como keep insisting to try get trevoh chalobah deal done with chelsea as ",
     "fabrizio romano is opening the door for a final rodri transfer twist the real ch",
@@ -1129,7 +1127,10 @@
     "transfer news live: guimaraes set for arsenal medical, vinicius jr deal close, m",
     "report: tottenham hotspur keen to sign liverpool star",
     "\ud83d\udea8 \ud83d\udd35 cruzeiro have completed the agreement to sign angelo from al nassr on loan n",
-    "\ud83d\udea8 \ud83d\udd35 cruzeiro have completed the agreement to sign wesley from al nassr on loan n"
+    "\ud83d\udea8 \ud83d\udd35 cruzeiro have completed the agreement to sign wesley from al nassr on loan n",
+    "'cologne favourites to sign former ibrox loanee moore' gossip",
+    "fabrizio romano reveals whether man utd want to sign francisco conceicao",
+    "fabrizio romano reveals whether man utd want to sign francisco conceicao teamtal"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1342,7 +1343,6 @@
     "myles lewis skelly": "https://r2.thesportsdb.com/images/media/player/cutout/7g2c521769330817.png/small",
     "joao mario": "https://images.fotmob.com/image_resources/playerimages/958421.png",
     "viktor gyokeres": "https://r2.thesportsdb.com/images/media/player/cutout/ubnx241769330610.png/small",
-    "martin": "",
     "axel donczew": "",
     "victor froholdt": "",
     "kyle healy": "",
@@ -1353,9 +1353,11 @@
     "junior kroupi": "",
     "kerem alajbegovic": "",
     "mateo soule": "",
-    "ousmane ndiaye": ""
+    "ousmane ndiaye": "",
+    "francisco conceicao": "https://r2.thesportsdb.com/images/media/player/cutout/ekqivz1759225498.png/small",
+    "martin": ""
   },
-  "photo_repair_idx": 5,
+  "photo_repair_idx": 6,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

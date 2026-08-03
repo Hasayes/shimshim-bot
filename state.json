@@ -1,6 +1,5 @@
 {
   "sent": [
-    "c2172782310d74baa9fbd72722f93f8f",
     "5fb418cb975f0d50a9eb8893e12126e3",
     "tg:FabrizioRomanoTG/63776",
     "tg:FabrizioRomanoTG/63778",
@@ -499,7 +498,8 @@
     "3eef48179798d88b97e7e8a71785f51b",
     "dbc331e85da457df43603a6582d40edd",
     "88d8a6c7c235d03a4a93f3413872379f",
-    "tg:FabrizioRomanoTG/63999"
+    "tg:FabrizioRomanoTG/63999",
+    "0cbebb85d3871746d368fe25c9b0f956"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -830,7 +830,6 @@
     "interest: gyokeres -> arsenal"
   ],
   "titles": [
-    "rt @fabrizioromano : \ud83d\udea8 \ud83c\udf52 antonio silva to bournemouth, here we go! deal now sign",
     "liverpool target secures \u2018verbal agreement\u2019 ahead of likely \u00a3100m plus transfer",
     "manchester city set asking price for rodri sale amid real madrid links: reports",
     "'here we go' fabrizio romano confirms leeds transfer target has joined another c",
@@ -1129,7 +1128,8 @@
     "tottenham hold positive talks with liverpool star but reds have no intention to ",
     "fabrizio romano provides update on liverpool\u2019s move for bradley barcola",
     "qpr set to sign ligue 1 midfielder with loan to buy deal agreed",
-    "\ud83d\udea8 \ud83d\udfe1 \u26ab\ufe0f al ittihad reach agreement in principle with almeria for dion lopy! exclu"
+    "\ud83d\udea8 \ud83d\udfe1 \u26ab\ufe0f al ittihad reach agreement in principle with almeria for dion lopy! exclu",
+    "keep or sell: what should liverpool do with cody gakpo?"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1342,7 +1342,6 @@
     "myles lewis skelly": "https://r2.thesportsdb.com/images/media/player/cutout/7g2c521769330817.png/small",
     "joao mario": "https://images.fotmob.com/image_resources/playerimages/958421.png",
     "viktor gyokeres": "https://r2.thesportsdb.com/images/media/player/cutout/ubnx241769330610.png/small",
-    "mishel nduka": "",
     "rodri hernandez": "",
     "junior kroupi": "",
     "kerem alajbegovic": "",
@@ -1353,9 +1352,10 @@
     "victor froholdt": "",
     "kyle healy": "",
     "dion lopy": "https://r2.thesportsdb.com/images/media/player/cutout/lnl0a01735883167.png/small",
-    "benji flowers": ""
+    "benji flowers": "",
+    "mishel nduka": ""
   },
-  "photo_repair_idx": 10,
+  "photo_repair_idx": 11,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

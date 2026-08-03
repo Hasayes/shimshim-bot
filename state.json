@@ -1,6 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/63732",
     "tg:FabrizioRomanoTG/63734",
     "tg:FabrizioRomanoTG/63735",
     "tg:FabrizioRomanoTG/63737",
@@ -499,7 +498,8 @@
     "4eb7bfccf012c2d1aa57bbaa2638d8b0",
     "87622e88db45c4530d94f766b8da1e64",
     "af755058128b60ded1c4b216fb3107ed",
-    "87c78f46a5a2c5b7f2a83d263b7f036c"
+    "87c78f46a5a2c5b7f2a83d263b7f036c",
+    "tg:FabrizioRomanoTG/63971"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -829,7 +829,6 @@
     "interest: gyokeres -> arsenal"
   ],
   "titles": [
-    "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f breaking: gonzalo garcia to fulham, here we go! deal completed with real",
     "\ud83d\udd35 \ud83d\udd34 \ud83d\udc4b\ud83c\udffe official: marcus rashford says his final goodbye to barcelona as he retur",
     "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f cesar palacios to fulham, here we go! deal agreed on both player and clu",
     "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f newcastle have reached a verbal agreement with matthias jaissle to becom",
@@ -1128,7 +1127,8 @@
     "transfer gossip: portsmouth in 'advanced talks' to sign highly rated chelsea win",
     "chelsea reject joao pedro approaches from three clubs",
     "juventus target new goalkeeper after martinez decision",
-    "aston villa transfer news: juventus pull out of emi martinez race reports"
+    "aston villa transfer news: juventus pull out of emi martinez race reports",
+    "@mouhkay88 i\u2019ll always say here we go if a player goes for a medical napoli auth"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1341,7 +1341,6 @@
     "myles lewis skelly": "https://r2.thesportsdb.com/images/media/player/cutout/7g2c521769330817.png/small",
     "joao mario": "https://images.fotmob.com/image_resources/playerimages/958421.png",
     "viktor gyokeres": "https://r2.thesportsdb.com/images/media/player/cutout/ubnx241769330610.png/small",
-    "benji flowers": "",
     "mishel nduka": "",
     "rodri hernandez": "",
     "junior kroupi": "",
@@ -1351,9 +1350,10 @@
     "martin": "",
     "axel donczew": "",
     "victor froholdt": "",
-    "kyle healy": ""
+    "kyle healy": "",
+    "benji flowers": ""
   },
-  "photo_repair_idx": 9,
+  "photo_repair_idx": 10,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

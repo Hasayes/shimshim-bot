@@ -1,6 +1,5 @@
 {
   "sent": [
-    "7d2179fc5df2da1e0cd69a11d057cf12",
     "tg:FabrizioRomanoTG/63745",
     "66110a5b35117e4ddbe1a74bf1a60816",
     "7657563d48386bc4d2ba9b503f9db721",
@@ -499,7 +498,8 @@
     "9d845c0eab66082de3c4afe357e84d0a",
     "tg:FabrizioRomanoTG/63979",
     "16cf5eee2e8704be5083011562d74fa7",
-    "269e81e08edbbc7083cb5de4afa98827"
+    "269e81e08edbbc7083cb5de4afa98827",
+    "1d20809497006dfd96ce0fc55031b113"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -829,7 +829,6 @@
     "interest: gyokeres -> arsenal"
   ],
   "titles": [
-    "ac milan contact arsenal about ethan nwaneri",
     "\ud83d\udea8 reports: italy move sealed! bundesliga club sells talent for \u20ac35m",
     "chelsea sign maxence lacroix from crystal palace in \u20ac60m deal",
     "man utd chiefs choose baleba and manu kone as preferred midfield targets",
@@ -1128,7 +1127,8 @@
     "transfer news and rumours today: west ham 'exit', bournemouth's next signing, le",
     "\ud83d\udea8 \u26aa\ufe0f tottenham plan to step up their efforts to try sign cody gakpo as talks wil",
     "\u2018i don\u2019t expect\u2019 \u2013 fabrizio romano issues reality check on bradley barcola to li",
-    "galatasaray reject arsenal\u2019s gyokeres plus \u20ac30m swap bid for osimhen"
+    "galatasaray reject arsenal\u2019s gyokeres plus \u20ac30m swap bid for osimhen",
+    "arsenal 'green light first xi exits' to fund vinicius junior move as talks advan"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1341,7 +1341,6 @@
     "myles lewis skelly": "https://r2.thesportsdb.com/images/media/player/cutout/7g2c521769330817.png/small",
     "joao mario": "https://images.fotmob.com/image_resources/playerimages/958421.png",
     "viktor gyokeres": "https://r2.thesportsdb.com/images/media/player/cutout/ubnx241769330610.png/small",
-    "victor froholdt": "",
     "kyle healy": "",
     "benji flowers": "",
     "mishel nduka": "",
@@ -1351,9 +1350,10 @@
     "mateo soule": "",
     "ousmane ndiaye": "",
     "martin": "",
-    "axel donczew": ""
+    "axel donczew": "",
+    "victor froholdt": ""
   },
-  "photo_repair_idx": 7,
+  "photo_repair_idx": 8,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

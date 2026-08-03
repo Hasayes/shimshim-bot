@@ -1,7 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/63747",
-    "tg:FabrizioRomanoTG/63748",
     "1249cebada37f88f68579fe469cb2b4c",
     "tg:FabrizioRomanoTG/63749",
     "a477876484c2fc54e437b89cc4be6750",
@@ -499,7 +497,9 @@
     "75b1a2104e79f2fc2fb36016dfc94ea4",
     "6692dd7a3850576310243010488a21b8",
     "22f56f4b616c28808bd3a3e0e7797e22",
-    "8b7a1906a9c98509cfe6a61fde74dc74"
+    "8b7a1906a9c98509cfe6a61fde74dc74",
+    "c05cb73b271db9802bfcfa9848c53525",
+    "56d510dd852da71072dc0a3559f395cd"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -829,7 +829,6 @@
     "interest: gyokeres -> arsenal"
   ],
   "titles": [
-    "confirmed: angelino leaves roma, ready to join deportivo",
     "everton want to sign wonderkid, pl club are willing to sanction 'permanent deal'",
     "romano: psg reach \u201cbreakthrough\u201d in talks with monaco over attacker transfer",
     "chelsea transfer update on maxence lacroix",
@@ -1128,7 +1127,8 @@
     "arsenal 'green light first xi exits' to fund vinicius junior move as talks advan",
     "fabrizio romano vs florian plettenberg: roc nation sports issues strong statemen",
     "chelsea are in talks to sign this la liga defender: what will he add to alonso\u2019s",
-    "fabrizio romano reveals contact for cody gakpo to tottenham transfer"
+    "fabrizio romano reveals contact for cody gakpo to tottenham transfer",
+    "serie a giants take a big decision on aston villa veteran: were the english club"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1341,7 +1341,6 @@
     "myles lewis skelly": "https://r2.thesportsdb.com/images/media/player/cutout/7g2c521769330817.png/small",
     "joao mario": "https://images.fotmob.com/image_resources/playerimages/958421.png",
     "viktor gyokeres": "https://r2.thesportsdb.com/images/media/player/cutout/ubnx241769330610.png/small",
-    "ousmane ndiaye": "",
     "martin": "",
     "axel donczew": "",
     "victor froholdt": "",
@@ -1351,9 +1350,10 @@
     "rodri hernandez": "",
     "junior kroupi": "",
     "kerem alajbegovic": "",
-    "mateo soule": ""
+    "mateo soule": "",
+    "ousmane ndiaye": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 5,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

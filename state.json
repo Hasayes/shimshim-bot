@@ -1,8 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/63770",
-    "tg:FabrizioRomanoTG/63771",
-    "tg:FabrizioRomanoTG/63772",
     "073ad6558bf455d48226aadf765a2ca7",
     "tg:FabrizioRomanoTG/63774",
     "f3eee65a349ee432a15a43da4078a484",
@@ -499,7 +496,10 @@
     "tg:FabrizioRomanoTG/63986",
     "tg:FabrizioRomanoTG/63987",
     "tg:FabrizioRomanoTG/63988",
-    "tg:FabrizioRomanoTG/63990"
+    "tg:FabrizioRomanoTG/63990",
+    "1da05520c34dfd9ccfabdaaadb640a2c",
+    "6050d683bf6813774d44bb7df3371709",
+    "46fb5606485d6966d8258e8f73899d12"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -829,8 +829,6 @@
     "interest: gyokeres -> arsenal"
   ],
   "titles": [
-    "brentford transfer news: sangare set to replace henderson as bees reach 'verbal ",
-    "manchester city transfer target undergoes surgery as 100 day sideline spell begi",
     "liverpool transfer news psg close in on barcola replacement as inter could retur",
     "marcus rashford bids farewell message to barcelona amid cristiano ronaldo\u2019 al na",
     "real madrid enter race for levante\u2019s espi as lazio priced out",
@@ -1128,7 +1126,9 @@
     "\ud83d\udea8 \ud83d\udd34 understand official club to club talks between liverpool and paris saint ger",
     "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f excl: como reach verbal agreement to sign trevoh chalobah from chelsea, h",
     "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f exclusive: como reach verbal agreement to sign trevoh chalobah from chels",
-    "\ud83d\udea8 \ud83d\udd35 official, exclusive story confirmed jordan henderson has joined chelsea on a"
+    "\ud83d\udea8 \ud83d\udd35 official, exclusive story confirmed jordan henderson has joined chelsea on a",
+    "psg launch \u20ac33m transfer raid to hijack juventus move for parma goalkeeper zion ",
+    "bayern munich news: fc bayern not chasing charles de ketelaere; fisnik asllani e"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1341,7 +1341,6 @@
     "myles lewis skelly": "https://r2.thesportsdb.com/images/media/player/cutout/7g2c521769330817.png/small",
     "joao mario": "https://images.fotmob.com/image_resources/playerimages/958421.png",
     "viktor gyokeres": "https://r2.thesportsdb.com/images/media/player/cutout/ubnx241769330610.png/small",
-    "mishel nduka": "",
     "rodri hernandez": "",
     "junior kroupi": "",
     "kerem alajbegovic": "",
@@ -1351,9 +1350,10 @@
     "axel donczew": "",
     "victor froholdt": "",
     "kyle healy": "",
-    "benji flowers": ""
+    "benji flowers": "",
+    "mishel nduka": ""
   },
-  "photo_repair_idx": 10,
+  "photo_repair_idx": 11,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

@@ -1,6 +1,5 @@
 {
   "sent": [
-    "a952c8ecd6dd9aa5577d2b89c1d30472",
     "25334f93b35a903db7da3b0430e8ee3d",
     "tg:FabrizioRomanoTG/63740",
     "2f666dc695dc396d2aff320777497fa5",
@@ -499,7 +498,8 @@
     "cd409ac3e0214db3f0c14e7acadc99fa",
     "baf0bb626fc54792c290c46447b6145d",
     "tg:FabrizioRomanoTG/63974",
-    "tg:FabrizioRomanoTG/63975"
+    "tg:FabrizioRomanoTG/63975",
+    "tg:FabrizioRomanoTG/63976"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -829,7 +829,6 @@
     "interest: gyokeres -> arsenal"
   ],
   "titles": [
-    "roma submit \u20ac25 million offer for feynoord\u2019s read",
     "did leon goretzka offer himself to fc barcelona?",
     "\ud83d\udea8 \ud83d\udca3 breaking: real madrid sign carlos espi as new striker, here we go! \ud83d\udca5 \u20ac25m re",
     "liverpool have major advantage to exploit in bradley barcola transfer talks",
@@ -1128,7 +1127,8 @@
     "psg progress in move for zion suzuki as juventus fall behind in race",
     "liverpool given bradley barcola hope as fsg tottenham transfer decision for cody",
     "\ud83d\udfe3 \ud83c\uddf5\ud83c\uddf9 medical today at fiorentina for joao mario as new fullback: \u20ac1m loan fee an",
-    "\ud83d\udea8 \ud83d\udfe1 \ud83d\udd35 parma have reached a verbal agreement with atalanta for el bilal toure to "
+    "\ud83d\udea8 \ud83d\udfe1 \ud83d\udd35 parma have reached a verbal agreement with atalanta for el bilal toure to ",
+    "\ud83d\udea8 \ud83d\ude9c ipswich town reach verbal agreement to sign florentino luis as new midfielde"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1341,7 +1341,6 @@
     "myles lewis skelly": "https://r2.thesportsdb.com/images/media/player/cutout/7g2c521769330817.png/small",
     "joao mario": "https://images.fotmob.com/image_resources/playerimages/958421.png",
     "viktor gyokeres": "https://r2.thesportsdb.com/images/media/player/cutout/ubnx241769330610.png/small",
-    "junior kroupi": "",
     "kerem alajbegovic": "",
     "mateo soule": "",
     "ousmane ndiaye": "",
@@ -1351,9 +1350,10 @@
     "kyle healy": "",
     "benji flowers": "",
     "mishel nduka": "",
-    "rodri hernandez": ""
+    "rodri hernandez": "",
+    "junior kroupi": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

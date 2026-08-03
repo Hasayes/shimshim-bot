@@ -1,9 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/63749",
-    "a477876484c2fc54e437b89cc4be6750",
-    "bfa8567075f6763da708c02a6c1b536a",
-    "tg:FabrizioRomanoTG/63750",
     "tg:FabrizioRomanoTG/63752",
     "tg:FabrizioRomanoTG/63755",
     "tg:FabrizioRomanoTG/63756",
@@ -499,7 +495,11 @@
     "8b7a1906a9c98509cfe6a61fde74dc74",
     "c05cb73b271db9802bfcfa9848c53525",
     "56d510dd852da71072dc0a3559f395cd",
-    "8f298aff687534a4134cc8655a190482"
+    "8f298aff687534a4134cc8655a190482",
+    "a21f765230812ffa7dcc32859df44be0",
+    "074acc8fc0fbae6d4b29cdd6284919be",
+    "52e7d84847ca42b2bc29dd8d9192061a",
+    "361bfc8f8df924efcb0cbf7d5bc4bc28"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -829,9 +829,6 @@
     "interest: gyokeres -> arsenal"
   ],
   "titles": [
-    "romano: psg reach \u201cbreakthrough\u201d in talks with monaco over attacker transfer",
-    "chelsea transfer update on maxence lacroix",
-    "manchester city submit offer for marseille goalkeeper geronimo rulli as agreemen",
     "fulham agree \u20ac40m gonzalo garcia deal and close in on another real madrid signin",
     "bruno guimaraes to arsenal finally \u201cprogressing\u201d and expected to go through \u201csoo",
     "report confirms our exclusive on arsenal star being eyed for transfer to euro gi",
@@ -1128,7 +1125,10 @@
     "chelsea are in talks to sign this la liga defender: what will he add to alonso\u2019s",
     "fabrizio romano reveals contact for cody gakpo to tottenham transfer",
     "serie a giants take a big decision on aston villa veteran: were the english club",
-    "fc koln submit official loan bid for tottenham teenager who had an 11 g/a last s"
+    "fc koln submit official loan bid for tottenham teenager who had an 11 g/a last s",
+    "\u2018deal could be completed next week\u2019: fabrizio romano drops tottenham transfer up",
+    "\u201csaid yes; personal terms agreed\u201d \u2013 fabrizio romano drops transfer development a",
+    "schalke 04 set to acquire jesper lindstr\u00f8m on loan with \u20ac5m automatic purchase o"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1341,7 +1341,6 @@
     "myles lewis skelly": "https://r2.thesportsdb.com/images/media/player/cutout/7g2c521769330817.png/small",
     "joao mario": "https://images.fotmob.com/image_resources/playerimages/958421.png",
     "viktor gyokeres": "https://r2.thesportsdb.com/images/media/player/cutout/ubnx241769330610.png/small",
-    "kyle healy": "",
     "benji flowers": "",
     "mishel nduka": "",
     "rodri hernandez": "",
@@ -1351,9 +1350,10 @@
     "ousmane ndiaye": "",
     "martin": "",
     "axel donczew": "",
-    "victor froholdt": ""
+    "victor froholdt": "",
+    "kyle healy": ""
   },
-  "photo_repair_idx": 8,
+  "photo_repair_idx": 9,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

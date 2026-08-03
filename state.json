@@ -1,7 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/63734",
-    "tg:FabrizioRomanoTG/63735",
     "tg:FabrizioRomanoTG/63737",
     "9c00db48ff6c73f65b00362d9dc80a1e",
     "061f0b6cbb05cbd553aa990ac70ae437",
@@ -499,7 +497,9 @@
     "87622e88db45c4530d94f766b8da1e64",
     "af755058128b60ded1c4b216fb3107ed",
     "87c78f46a5a2c5b7f2a83d263b7f036c",
-    "tg:FabrizioRomanoTG/63971"
+    "tg:FabrizioRomanoTG/63971",
+    "59b555b7dfffe727c64b41657531ff37",
+    "969f95b64a7e7782a0b9ec30cbb0c741"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -829,8 +829,6 @@
     "interest: gyokeres -> arsenal"
   ],
   "titles": [
-    "\ud83d\udd35 \ud83d\udd34 \ud83d\udc4b\ud83c\udffe official: marcus rashford says his final goodbye to barcelona as he retur",
-    "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f cesar palacios to fulham, here we go! deal agreed on both player and clu",
     "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f newcastle have reached a verbal agreement with matthias jaissle to becom",
     "\u26ab\ufe0f \ud83d\udd35 \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f john stones has signed his two year contract at inter https://t co/",
     "de zerbi delivers \u2018honest\u2019 transfer message to tottenham star lucas bergvall \u2013 \u2018",
@@ -1128,7 +1126,9 @@
     "chelsea reject joao pedro approaches from three clubs",
     "juventus target new goalkeeper after martinez decision",
     "aston villa transfer news: juventus pull out of emi martinez race reports",
-    "@mouhkay88 i\u2019ll always say here we go if a player goes for a medical napoli auth"
+    "@mouhkay88 i\u2019ll always say here we go if a player goes for a medical napoli auth",
+    "chelsea improve bid for rayo vallecano defender chavarria",
+    "juve chelsea link, pavard says no, brescianini: today's market \ud83e\udd11"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1341,7 +1341,6 @@
     "myles lewis skelly": "https://r2.thesportsdb.com/images/media/player/cutout/7g2c521769330817.png/small",
     "joao mario": "https://images.fotmob.com/image_resources/playerimages/958421.png",
     "viktor gyokeres": "https://r2.thesportsdb.com/images/media/player/cutout/ubnx241769330610.png/small",
-    "mishel nduka": "",
     "rodri hernandez": "",
     "junior kroupi": "",
     "kerem alajbegovic": "",
@@ -1351,9 +1350,10 @@
     "axel donczew": "",
     "victor froholdt": "",
     "kyle healy": "",
-    "benji flowers": ""
+    "benji flowers": "",
+    "mishel nduka": ""
   },
-  "photo_repair_idx": 10,
+  "photo_repair_idx": 11,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

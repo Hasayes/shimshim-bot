@@ -1,7 +1,5 @@
 {
   "sent": [
-    "bb05cac34d6ee8b4de6dadebe4c10102",
-    "d9f3852552d1de03ce56a5867ae9beac",
     "e8857c14fcc8cc6eb2c206f996259d32",
     "40963a3fe2c4e5ad0615c1ab43001271",
     "316641acdfebf0b4fce1981b0c311bc3",
@@ -499,7 +497,9 @@
     "13a6dc45529484ace6227d70832e601d",
     "61da1d225a3ec07abe3122ad84bfaab8",
     "tg:FabrizioRomanoTG/63968",
-    "1f6616fd4b7491af193c8ad8ca9ea325"
+    "1f6616fd4b7491af193c8ad8ca9ea325",
+    "74c511f73aaf7a56438bae9c0421e09e",
+    "tg:FabrizioRomanoTG/63970"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -829,7 +829,6 @@
     "interest: gyokeres -> arsenal"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83d\udd34 tyler fredricson leaves manchester united and joins fc lausanne sport on a p",
     "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f deportivo la coruna complete verbal agreement to sign angelino from as ro",
     "psg put brakes on barcola sale for one big reason \u2013 liverpool\u2019s giant offer may ",
     "liverpool set to lodge huge offer for bradley barcola after fabrizio romano upda",
@@ -1128,7 +1127,8 @@
     "done deal: napoli and bayer leverkusen have \u20ac30m gutierrez agreement in place",
     "newcastle express interest in italy and atalanta defender scalvini",
     "\ud83d\udea8 \u26a0\ufe0f after medical tests done on sunday with napoli\u2019s green light, schalke 04 de",
-    "newcastle united drop major hint regarding bruno guimaraes' future amid arsenal "
+    "newcastle united drop major hint regarding bruno guimaraes' future amid arsenal ",
+    "transfer gossip: portsmouth in 'advanced talks' to sign highly rated chelsea win"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1341,7 +1341,6 @@
     "myles lewis skelly": "https://r2.thesportsdb.com/images/media/player/cutout/7g2c521769330817.png/small",
     "joao mario": "https://images.fotmob.com/image_resources/playerimages/958421.png",
     "viktor gyokeres": "https://r2.thesportsdb.com/images/media/player/cutout/ubnx241769330610.png/small",
-    "martin": "",
     "axel donczew": "",
     "victor froholdt": "",
     "kyle healy": "",
@@ -1351,9 +1350,10 @@
     "junior kroupi": "",
     "kerem alajbegovic": "",
     "mateo soule": "",
-    "ousmane ndiaye": ""
+    "ousmane ndiaye": "",
+    "martin": ""
   },
-  "photo_repair_idx": 5,
+  "photo_repair_idx": 6,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

@@ -1,6 +1,5 @@
 {
   "sent": [
-    "55d23dc9d9d62c13ca4f04e450c209c8",
     "dcb95c7e0cf30d43ea15eb978c9c7511",
     "bb05cac34d6ee8b4de6dadebe4c10102",
     "d9f3852552d1de03ce56a5867ae9beac",
@@ -499,7 +498,8 @@
     "c229d4481a78aaf5075e70d80b25e3a7",
     "1add374d0b7986a4cc148f928763e611",
     "13a6dc45529484ace6227d70832e601d",
-    "61da1d225a3ec07abe3122ad84bfaab8"
+    "61da1d225a3ec07abe3122ad84bfaab8",
+    "tg:FabrizioRomanoTG/63968"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -829,7 +829,6 @@
     "interest: gyokeres -> arsenal"
   ],
   "titles": [
-    "\ud83d\udd35 \ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udffc maxence lacroix: \u201chere at chelsea we want to win\u201d \u201ci am really happy to ",
     "man city plotting surprise move for former player who left in 2017; player \u2018keen",
     "\ud83d\udea8 \ud83d\udd34 tyler fredricson leaves manchester united and joins fc lausanne sport on a p",
     "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f deportivo la coruna complete verbal agreement to sign angelino from as ro",
@@ -1128,7 +1127,8 @@
     "arsenal proven right on transfer strategy after vinicius junior approach",
     "romano issues newcastle united update that will excite arsenal fans the most",
     "done deal: napoli and bayer leverkusen have \u20ac30m gutierrez agreement in place",
-    "newcastle express interest in italy and atalanta defender scalvini"
+    "newcastle express interest in italy and atalanta defender scalvini",
+    "\ud83d\udea8 \u26a0\ufe0f after medical tests done on sunday with napoli\u2019s green light, schalke 04 de"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1341,7 +1341,6 @@
     "myles lewis skelly": "https://r2.thesportsdb.com/images/media/player/cutout/7g2c521769330817.png/small",
     "joao mario": "https://images.fotmob.com/image_resources/playerimages/958421.png",
     "viktor gyokeres": "https://r2.thesportsdb.com/images/media/player/cutout/ubnx241769330610.png/small",
-    "rodri hernandez": "",
     "junior kroupi": "",
     "kerem alajbegovic": "",
     "mateo soule": "",
@@ -1351,9 +1350,10 @@
     "victor froholdt": "",
     "kyle healy": "",
     "benji flowers": "",
-    "mishel nduka": ""
+    "mishel nduka": "",
+    "rodri hernandez": ""
   },
-  "photo_repair_idx": 11,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

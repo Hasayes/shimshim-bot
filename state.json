@@ -1,8 +1,5 @@
 {
   "sent": [
-    "5fb418cb975f0d50a9eb8893e12126e3",
-    "tg:FabrizioRomanoTG/63776",
-    "tg:FabrizioRomanoTG/63778",
     "621fbfd0e1fb9e54cdf83d7f03f690a3",
     "1a48355cea085b26ee5d8336920f4115",
     "cf8569c1f0f40b9fd2571dca4ad48b97",
@@ -499,7 +496,10 @@
     "dbc331e85da457df43603a6582d40edd",
     "88d8a6c7c235d03a4a93f3413872379f",
     "tg:FabrizioRomanoTG/63999",
-    "0cbebb85d3871746d368fe25c9b0f956"
+    "0cbebb85d3871746d368fe25c9b0f956",
+    "09f63dc4dec80e53ecbbff4c3bc862d5",
+    "4f7573b77f086c880f5f8ed4d5f14cb5",
+    "a46b03e149b8116500691ccf79ecacb8"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -830,8 +830,6 @@
     "interest: gyokeres -> arsenal"
   ],
   "titles": [
-    "liverpool target secures \u2018verbal agreement\u2019 ahead of likely \u00a3100m plus transfer",
-    "manchester city set asking price for rodri sale amid real madrid links: reports",
     "'here we go' fabrizio romano confirms leeds transfer target has joined another c",
     "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 after maghnes akliouche deal being sealed this weekend, paris saint germai",
     "\ud83d\udea8 \ud83c\udde6\ud83c\uddf7 franco mastantuono will leave real madrid on loan, decision confirmed on cl",
@@ -1129,7 +1127,9 @@
     "fabrizio romano provides update on liverpool\u2019s move for bradley barcola",
     "qpr set to sign ligue 1 midfielder with loan to buy deal agreed",
     "\ud83d\udea8 \ud83d\udfe1 \u26ab\ufe0f al ittihad reach agreement in principle with almeria for dion lopy! exclu",
-    "keep or sell: what should liverpool do with cody gakpo?"
+    "keep or sell: what should liverpool do with cody gakpo?",
+    "psg launch \u20ac40m bid for ajax\u2019s mika godts",
+    "psg pursues japan goalkeeper zion suzuki"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1342,7 +1342,6 @@
     "myles lewis skelly": "https://r2.thesportsdb.com/images/media/player/cutout/7g2c521769330817.png/small",
     "joao mario": "https://images.fotmob.com/image_resources/playerimages/958421.png",
     "viktor gyokeres": "https://r2.thesportsdb.com/images/media/player/cutout/ubnx241769330610.png/small",
-    "rodri hernandez": "",
     "junior kroupi": "",
     "kerem alajbegovic": "",
     "mateo soule": "",
@@ -1353,9 +1352,10 @@
     "kyle healy": "",
     "dion lopy": "https://r2.thesportsdb.com/images/media/player/cutout/lnl0a01735883167.png/small",
     "benji flowers": "",
-    "mishel nduka": ""
+    "mishel nduka": "",
+    "rodri hernandez": ""
   },
-  "photo_repair_idx": 11,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

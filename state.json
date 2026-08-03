@@ -1,6 +1,5 @@
 {
   "sent": [
-    "061f0b6cbb05cbd553aa990ac70ae437",
     "19c75aee1597e20623029c511b4656be",
     "38b50499afa171dba6083dfaf9d20a16",
     "ad4a89098916917ee4cff19201a04932",
@@ -499,7 +498,8 @@
     "59b555b7dfffe727c64b41657531ff37",
     "969f95b64a7e7782a0b9ec30cbb0c741",
     "cfe47a4b20e148d5a6b30547e016bf1a",
-    "75733ebbc043ee333ebb7a8ebb53b19a"
+    "75733ebbc043ee333ebb7a8ebb53b19a",
+    "5c82cad356895037f46b696fa30a135a"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -829,7 +829,6 @@
     "interest: gyokeres -> arsenal"
   ],
   "titles": [
-    "de zerbi delivers \u2018honest\u2019 transfer message to tottenham star lucas bergvall \u2013 \u2018",
     "barcelona not in talks with any club over the sale of psg-linked attacker \u2013 roma",
     "fabrizio romano confirms sensational star now wants to join liverpool",
     "man city want geronimo rulli to replace leeds-bound james trafford",
@@ -1128,7 +1127,8 @@
     "chelsea improve bid for rayo vallecano defender chavarria",
     "juve chelsea link, pavard says no, brescianini: today's market \ud83e\udd11",
     "psg have tabled \u20ac40m bid to ajax for mika godts",
-    "psg make \u20ac33m offer to parma for juventus target zion suzuki"
+    "psg make \u20ac33m offer to parma for juventus target zion suzuki",
+    "\ud83d\udea8 official: randal kolo muani joins juventus!"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1341,7 +1341,6 @@
     "myles lewis skelly": "https://r2.thesportsdb.com/images/media/player/cutout/7g2c521769330817.png/small",
     "joao mario": "https://images.fotmob.com/image_resources/playerimages/958421.png",
     "viktor gyokeres": "https://r2.thesportsdb.com/images/media/player/cutout/ubnx241769330610.png/small",
-    "kerem alajbegovic": "",
     "mateo soule": "",
     "ousmane ndiaye": "",
     "martin": "",
@@ -1351,9 +1350,10 @@
     "benji flowers": "",
     "mishel nduka": "",
     "rodri hernandez": "",
-    "junior kroupi": ""
+    "junior kroupi": "",
+    "kerem alajbegovic": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

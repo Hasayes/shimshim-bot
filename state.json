@@ -1,6 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/63774",
     "f3eee65a349ee432a15a43da4078a484",
     "0da6c3b778a3c9ba789eabb1e38333e3",
     "4250ff76ba375afcff93acbf8528526a",
@@ -499,7 +498,8 @@
     "1da05520c34dfd9ccfabdaaadb640a2c",
     "6050d683bf6813774d44bb7df3371709",
     "46fb5606485d6966d8258e8f73899d12",
-    "tg:FabrizioRomanoTG/63994"
+    "tg:FabrizioRomanoTG/63994",
+    "tg:FabrizioRomanoTG/63997"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -829,7 +829,6 @@
     "interest: gyokeres -> arsenal"
   ],
   "titles": [
-    "marcus rashford bids farewell message to barcelona amid cristiano ronaldo\u2019 al na",
     "real madrid enter race for levante\u2019s espi as lazio priced out",
     "\ud83d\udea8 \ud83c\udf52 antonio silva to bournemouth, here we go! deal now signed between clubs for ",
     "three clubs monitoring delap friday's gossip",
@@ -1128,7 +1127,8 @@
     "\ud83d\udea8 \ud83d\udd35 official, exclusive story confirmed jordan henderson has joined chelsea on a",
     "psg launch \u20ac33m transfer raid to hijack juventus move for parma goalkeeper zion ",
     "bayern munich news: fc bayern not chasing charles de ketelaere; fisnik asllani e",
-    "\ud83d\udfe1 \ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udffc official, exclusive story confirmed peter gulacsi joins villarreal from "
+    "\ud83d\udfe1 \ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udffc official, exclusive story confirmed peter gulacsi joins villarreal from ",
+    "\ud83d\udea8 \ud83d\udd35 official: napoli statement hints at possible legal action following jesper l"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1341,7 +1341,6 @@
     "myles lewis skelly": "https://r2.thesportsdb.com/images/media/player/cutout/7g2c521769330817.png/small",
     "joao mario": "https://images.fotmob.com/image_resources/playerimages/958421.png",
     "viktor gyokeres": "https://r2.thesportsdb.com/images/media/player/cutout/ubnx241769330610.png/small",
-    "kerem alajbegovic": "",
     "mateo soule": "",
     "ousmane ndiaye": "",
     "martin": "",
@@ -1351,9 +1350,10 @@
     "benji flowers": "",
     "mishel nduka": "",
     "rodri hernandez": "",
-    "junior kroupi": ""
+    "junior kroupi": "",
+    "kerem alajbegovic": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

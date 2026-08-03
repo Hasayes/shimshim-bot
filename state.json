@@ -1,9 +1,5 @@
 {
   "sent": [
-    "e8857c14fcc8cc6eb2c206f996259d32",
-    "40963a3fe2c4e5ad0615c1ab43001271",
-    "316641acdfebf0b4fce1981b0c311bc3",
-    "a67252f5d3f29c7cddd09253db5a0bd8",
     "tg:FabrizioRomanoTG/63732",
     "tg:FabrizioRomanoTG/63734",
     "tg:FabrizioRomanoTG/63735",
@@ -499,7 +495,11 @@
     "tg:FabrizioRomanoTG/63968",
     "1f6616fd4b7491af193c8ad8ca9ea325",
     "74c511f73aaf7a56438bae9c0421e09e",
-    "tg:FabrizioRomanoTG/63970"
+    "tg:FabrizioRomanoTG/63970",
+    "4eb7bfccf012c2d1aa57bbaa2638d8b0",
+    "87622e88db45c4530d94f766b8da1e64",
+    "af755058128b60ded1c4b216fb3107ed",
+    "87c78f46a5a2c5b7f2a83d263b7f036c"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -829,9 +829,6 @@
     "interest: gyokeres -> arsenal"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f deportivo la coruna complete verbal agreement to sign angelino from as ro",
-    "psg put brakes on barcola sale for one big reason \u2013 liverpool\u2019s giant offer may ",
-    "liverpool set to lodge huge offer for bradley barcola after fabrizio romano upda",
     "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f breaking: gonzalo garcia to fulham, here we go! deal completed with real",
     "\ud83d\udd35 \ud83d\udd34 \ud83d\udc4b\ud83c\udffe official: marcus rashford says his final goodbye to barcelona as he retur",
     "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f cesar palacios to fulham, here we go! deal agreed on both player and clu",
@@ -1128,7 +1125,10 @@
     "newcastle express interest in italy and atalanta defender scalvini",
     "\ud83d\udea8 \u26a0\ufe0f after medical tests done on sunday with napoli\u2019s green light, schalke 04 de",
     "newcastle united drop major hint regarding bruno guimaraes' future amid arsenal ",
-    "transfer gossip: portsmouth in 'advanced talks' to sign highly rated chelsea win"
+    "transfer gossip: portsmouth in 'advanced talks' to sign highly rated chelsea win",
+    "chelsea reject joao pedro approaches from three clubs",
+    "juventus target new goalkeeper after martinez decision",
+    "aston villa transfer news: juventus pull out of emi martinez race reports"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1341,7 +1341,6 @@
     "myles lewis skelly": "https://r2.thesportsdb.com/images/media/player/cutout/7g2c521769330817.png/small",
     "joao mario": "https://images.fotmob.com/image_resources/playerimages/958421.png",
     "viktor gyokeres": "https://r2.thesportsdb.com/images/media/player/cutout/ubnx241769330610.png/small",
-    "axel donczew": "",
     "victor froholdt": "",
     "kyle healy": "",
     "benji flowers": "",
@@ -1351,9 +1350,10 @@
     "kerem alajbegovic": "",
     "mateo soule": "",
     "ousmane ndiaye": "",
-    "martin": ""
+    "martin": "",
+    "axel donczew": ""
   },
-  "photo_repair_idx": 6,
+  "photo_repair_idx": 7,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

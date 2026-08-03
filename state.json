@@ -1,7 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/63782",
-    "5a101e99b6c9666b73b2380f7755d59c",
     "34ab5e73785ed1f25d440bdd350b7b1c",
     "5ba99444cc20c10044951b5fdd7cac6c",
     "6dc0df1080b7af21c364afa7f7433234",
@@ -499,7 +497,9 @@
     "a6a6d66e1ee2cf27d1d26ae99c7d653c",
     "3b9dc458b680bc137dcab0d24f95977f",
     "f41492c716a02f02959727e32512aee8",
-    "db5ecddd59c4c54e01ba2a95bc9119da"
+    "db5ecddd59c4c54e01ba2a95bc9119da",
+    "f7e4bc4a24eb555439eeda9103c9b024",
+    "7a0d2bb2eaabfd9095718496a012a536"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -831,8 +831,6 @@
     "interest: conceicao -> manchester united"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f brighton agree deal to sign valentin joseph as talented striker for the f",
-    "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 official, confirmed 18 year old winger jesse bisiwu joins barcelona from c",
     "\u2018there\u2019s a verbal agreement\u2019 \u2013 jacobs reveals man utd \u2018leading target\u2019 for third",
     "transfer rumors, news: man united looking at pair of serie a wingers",
     "\ud83d\udea8 \ud83e\udd85 raphael onyedika to eintracht frankfurt, here we go! agreement done for nige",
@@ -1130,7 +1128,9 @@
     "juventus regrouping following martinez and suzuki blows",
     "strasbourg set to bolster attack with \u20ac3m move for giovanni reyna",
     "psg accelerate talks to sign japan goalkeeper zion suzuki",
-    "psg respond to first liverpool offer for bradley barcola as \u2018big factor\u2019 emerges"
+    "psg respond to first liverpool offer for bradley barcola as \u2018big factor\u2019 emerges",
+    "lewis hall to man utd clears hurdle as wilcox readies first bid",
+    "inter milan push for \u20ac40m defensive leader as tottenham talks advance"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1345,7 +1345,6 @@
     "viktor gyokeres": "https://r2.thesportsdb.com/images/media/player/cutout/ubnx241769330610.png/small",
     "dion lopy": "https://r2.thesportsdb.com/images/media/player/cutout/lnl0a01735883167.png/small",
     "francisco conceicao": "https://r2.thesportsdb.com/images/media/player/cutout/ekqivz1759225498.png/small",
-    "axel donczew": "",
     "victor froholdt": "",
     "kyle healy": "",
     "benji flowers": "",
@@ -1355,9 +1354,10 @@
     "kerem alajbegovic": "",
     "mateo soule": "",
     "ousmane ndiaye": "",
-    "martin": ""
+    "martin": "",
+    "axel donczew": ""
   },
-  "photo_repair_idx": 6,
+  "photo_repair_idx": 7,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

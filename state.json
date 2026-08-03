@@ -1,7 +1,5 @@
 {
   "sent": [
-    "09c12b83434a4efb1da5ca27274d8937",
-    "c6d6bf23881b6cd91b41c411f44e0280",
     "c2d8b39592e03dba58ebb294e9d5b41d",
     "6b4182a64ffbc7357bbef95783a5e29a",
     "tg:FabrizioRomanoTG/63784",
@@ -499,7 +497,9 @@
     "7a0d2bb2eaabfd9095718496a012a536",
     "e431223e9d609393f52ef59e20c49562",
     "b7d2c5db9e7a3be196b40b4ef61d230a",
-    "4399c66e03bb4fb3ac71a2662f4c44c4"
+    "4399c66e03bb4fb3ac71a2662f4c44c4",
+    "c7e42e88f926cb046435d276750c5dd0",
+    "tg:FabrizioRomanoTG/64011"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -832,8 +832,6 @@
     "interest: moore -> tottenham"
   ],
   "titles": [
-    "\ud83e\udd1d barca give the green light, ter stegen joins michel's ajax",
-    "liverpool talks on barcola signing resume as fabrizio romano reveals \u2018real issue",
     "medical booked for liverpool target ahead of \u00a341m transfer \u2013 fabrizio romano",
     "\u26aa\ufe0f \u26ab\ufe0f \ud83c\udde7\ud83c\uddf7 douglas luiz: \u201ci want to stay at juventus this summer\u201d \u201cthey are giving",
     "rt @fabrizioromano : \ud83d\udea8 \ud83e\udd85 raphael onyedika to eintracht frankfurt, here we go! ag",
@@ -1131,7 +1129,9 @@
     "inter milan push for \u20ac40m defensive leader as tottenham talks advance",
     "'super talented good eye for goal': exciting chelsea verdict on reported portsmo",
     "bayern have yan diomande transfer advantage as hoene\u00df laughs off real madrid int",
-    "tottenham hotspur in 'advanced' talks over bundesliga move for middlesbrough fc "
+    "tottenham hotspur in 'advanced' talks over bundesliga move for middlesbrough fc ",
+    "cody gakpo to tottenham update as major announcement teased and man city star ta",
+    "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f vozinha has officially signed in at colo colo as new goalkeeper understa"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1346,7 +1346,6 @@
     "viktor gyokeres": "https://r2.thesportsdb.com/images/media/player/cutout/ubnx241769330610.png/small",
     "dion lopy": "https://r2.thesportsdb.com/images/media/player/cutout/lnl0a01735883167.png/small",
     "francisco conceicao": "https://r2.thesportsdb.com/images/media/player/cutout/ekqivz1759225498.png/small",
-    "benji flowers": "",
     "mishel nduka": "",
     "rodri hernandez": "",
     "junior kroupi": "",
@@ -1357,9 +1356,10 @@
     "axel donczew": "",
     "victor froholdt": "",
     "mikey moore": "https://r2.thesportsdb.com/images/media/player/cutout/5vwygx1777017074.png/small",
-    "kyle healy": ""
+    "kyle healy": "",
+    "benji flowers": ""
   },
-  "photo_repair_idx": 9,
+  "photo_repair_idx": 10,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

@@ -1,7 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/63755",
-    "tg:FabrizioRomanoTG/63756",
     "tg:FabrizioRomanoTG/63757",
     "tg:FabrizioRomanoTG/63760",
     "tg:FabrizioRomanoTG/63761",
@@ -499,7 +497,9 @@
     "074acc8fc0fbae6d4b29cdd6284919be",
     "52e7d84847ca42b2bc29dd8d9192061a",
     "361bfc8f8df924efcb0cbf7d5bc4bc28",
-    "32c8abdaef4f07b6c449b2c4d48df1d9"
+    "32c8abdaef4f07b6c449b2c4d48df1d9",
+    "e84ec3e346f4397cfe9c114b57deb1a1",
+    "7a3d0c669110079741e7415b85545130"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -829,8 +829,6 @@
     "interest: gyokeres -> arsenal"
   ],
   "titles": [
-    "bruno guimaraes to arsenal finally \u201cprogressing\u201d and expected to go through \u201csoo",
-    "report confirms our exclusive on arsenal star being eyed for transfer to euro gi",
     "fulham complete \u20ac42m gonzalo garcia signing as real madrid secure sell on clause",
     "barcelona veteran\u2019s loan move to ajax back on track as tax issues resolved \u2013 rep",
     "ruben amorim pushing for record breaking arsenal star, with ac milan contact mad",
@@ -1128,7 +1126,9 @@
     "\u2018deal could be completed next week\u2019: fabrizio romano drops tottenham transfer up",
     "\u201csaid yes; personal terms agreed\u201d \u2013 fabrizio romano drops transfer development a",
     "schalke 04 set to acquire jesper lindstr\u00f8m on loan with \u20ac5m automatic purchase o",
-    "tottenham talent mikey moore on the verge of joining 1 fc koln on loan"
+    "tottenham talent mikey moore on the verge of joining 1 fc koln on loan",
+    "chelsea are in talks to sign this la liga defender: what will he add to alonsoa\u0080",
+    "psg makes \u20ac45m offer for winger to replace bradley barcola"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1341,7 +1341,6 @@
     "myles lewis skelly": "https://r2.thesportsdb.com/images/media/player/cutout/7g2c521769330817.png/small",
     "joao mario": "https://images.fotmob.com/image_resources/playerimages/958421.png",
     "viktor gyokeres": "https://r2.thesportsdb.com/images/media/player/cutout/ubnx241769330610.png/small",
-    "kerem alajbegovic": "",
     "mateo soule": "",
     "ousmane ndiaye": "",
     "martin": "",
@@ -1351,9 +1350,10 @@
     "benji flowers": "",
     "mishel nduka": "",
     "rodri hernandez": "",
-    "junior kroupi": ""
+    "junior kroupi": "",
+    "kerem alajbegovic": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

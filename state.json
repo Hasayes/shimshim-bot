@@ -1,6 +1,5 @@
 {
   "sent": [
-    "1a5cf67fb511adc08a0afccae24d5a3c",
     "744a09422597bca730d978e297ee2030",
     "3d2c452d30a7953f1e0662eb18dbcd99",
     "b23c62cdf1c0095d38ccadb5b695d12b",
@@ -499,7 +498,8 @@
     "tg:FabrizioRomanoTG/64006",
     "33f46b1672b902ed42e5aa5248fb11cb",
     "tg:FabrizioRomanoTG/64008",
-    "tg:FabrizioRomanoTG/64009"
+    "tg:FabrizioRomanoTG/64009",
+    "a6a6d66e1ee2cf27d1d26ae99c7d653c"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -831,7 +831,6 @@
     "interest: conceicao -> manchester united"
   ],
   "titles": [
-    "transfer: real madrid activate espi\u2019s release clause as mourinho gets new strike",
     "romano confirms leeds target carlos espi has joined real madrid",
     "man utd told tchouameni deal is \u2018possible\u2019 with decision on new real madrid cont",
     "\ud83d\udea8 \ud83c\uddf9\ud83c\uddf7 abdellahmid sabiri has signed for eyupspor in turkyie after chapter closed ",
@@ -1130,7 +1129,8 @@
     "\ud83d\udea8 \u26ab\ufe0f \u26aa\ufe0f official: fulham also confirm cesar palacios as new signing from real ma",
     "inter lock down esposito until 2030 with performance based deal",
     "\ud83d\udea8 \ud83d\udc40 ferran torres on paris st germain: \u201cpsg interest? being wanted by these team",
-    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f excl: rangers reach verbal agreement to sign daisuke yokota from hannover"
+    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f excl: rangers reach verbal agreement to sign daisuke yokota from hannover",
+    "juventus regrouping following martinez and suzuki blows"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1344,7 +1344,6 @@
     "joao mario": "https://images.fotmob.com/image_resources/playerimages/958421.png",
     "viktor gyokeres": "https://r2.thesportsdb.com/images/media/player/cutout/ubnx241769330610.png/small",
     "dion lopy": "https://r2.thesportsdb.com/images/media/player/cutout/lnl0a01735883167.png/small",
-    "kerem alajbegovic": "",
     "mateo soule": "",
     "ousmane ndiaye": "",
     "francisco conceicao": "https://r2.thesportsdb.com/images/media/player/cutout/ekqivz1759225498.png/small",
@@ -1355,9 +1354,10 @@
     "benji flowers": "",
     "mishel nduka": "",
     "rodri hernandez": "",
-    "junior kroupi": ""
+    "junior kroupi": "",
+    "kerem alajbegovic": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

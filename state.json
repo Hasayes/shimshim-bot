@@ -1,6 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/63769",
     "tg:FabrizioRomanoTG/63770",
     "tg:FabrizioRomanoTG/63771",
     "tg:FabrizioRomanoTG/63772",
@@ -499,7 +498,8 @@
     "tg:FabrizioRomanoTG/63985",
     "tg:FabrizioRomanoTG/63986",
     "tg:FabrizioRomanoTG/63987",
-    "tg:FabrizioRomanoTG/63988"
+    "tg:FabrizioRomanoTG/63988",
+    "tg:FabrizioRomanoTG/63990"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -829,7 +829,6 @@
     "interest: gyokeres -> arsenal"
   ],
   "titles": [
-    "\u201cthat deal could get done\u201d \u2013 liverpool star could yet join premier league rivals",
     "brentford transfer news: sangare set to replace henderson as bees reach 'verbal ",
     "manchester city transfer target undergoes surgery as 100 day sideline spell begi",
     "liverpool transfer news psg close in on barcola replacement as inter could retur",
@@ -1128,7 +1127,8 @@
     "\ud83d\udcfa new youtube video uploaded! \ud83c\udfac \ud83d\udea8 \ud83d\udca3 talks now underway! de bruyne, ferran, barca",
     "\ud83d\udea8 \ud83d\udd34 understand official club to club talks between liverpool and paris saint ger",
     "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f excl: como reach verbal agreement to sign trevoh chalobah from chelsea, h",
-    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f exclusive: como reach verbal agreement to sign trevoh chalobah from chels"
+    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f exclusive: como reach verbal agreement to sign trevoh chalobah from chels",
+    "\ud83d\udea8 \ud83d\udd35 official, exclusive story confirmed jordan henderson has joined chelsea on a"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1341,7 +1341,6 @@
     "myles lewis skelly": "https://r2.thesportsdb.com/images/media/player/cutout/7g2c521769330817.png/small",
     "joao mario": "https://images.fotmob.com/image_resources/playerimages/958421.png",
     "viktor gyokeres": "https://r2.thesportsdb.com/images/media/player/cutout/ubnx241769330610.png/small",
-    "axel donczew": "",
     "victor froholdt": "",
     "kyle healy": "",
     "benji flowers": "",
@@ -1351,9 +1350,10 @@
     "kerem alajbegovic": "",
     "mateo soule": "",
     "ousmane ndiaye": "",
-    "martin": ""
+    "martin": "",
+    "axel donczew": ""
   },
-  "photo_repair_idx": 6,
+  "photo_repair_idx": 7,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

@@ -1,7 +1,5 @@
 {
   "sent": [
-    "3e9c242c6e15efa6e61ec8e4dc4cb1a3",
-    "1add92d3e7cebf3bfcf309fcfd4920cc",
     "07397c74d554b8b0723af93f3308c4d2",
     "9fc3036de921ef1e33f35430ea1503fa",
     "3b851194b7126e891a37b78cb20b508a",
@@ -499,7 +497,9 @@
     "0e42206b6e2e810929975b9ec185652c",
     "79551dc5f64bc9032dab1285278158e5",
     "ee8642fb187b4624caa9dc74eac89072",
-    "cda7b1ecdeeb7821d0c803ce823c59f7"
+    "cda7b1ecdeeb7821d0c803ce823c59f7",
+    "33a2152f398b9a44ef65261f14c3f311",
+    "807970543b25b0503a19381e84078326"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -829,7 +829,6 @@
     "interest: gyokeres -> arsenal"
   ],
   "titles": [
-    "liverpool transfer news: man city dithering opens door to \u00a360m forward deal as f",
     "\ud83d\udea8 \ud83c\uddf8\ud83c\udde6 al hilal are in talks to sign iliman ndiaye as exclusively revealed on mond",
     "\ud83d\udea8 \ud83d\udca3 exclusive: eddie howe set to part ways with newcastle with immediate effect ",
     "\ud83d\udea8 \ud83d\udca3 exclusive: matthias jaissle, top candidate and in advanced talks to become n",
@@ -1128,7 +1127,8 @@
     "liverpool\u2019s last minute withdrawal derails jones loan and freezes frattesi exit",
     "official: juventus complete permanent signing of kolo muani from psg",
     "\"happy to be enjoying football again\" former chelsea star alejandro garnacho mak",
-    "psg move ahead of juventus with \u20ac33m bid for parma\u2019s suzuki"
+    "psg move ahead of juventus with \u20ac33m bid for parma\u2019s suzuki",
+    "liverpool handed bradley barcola transfer hint as psg take action and personal t"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1341,7 +1341,6 @@
     "myles lewis skelly": "https://r2.thesportsdb.com/images/media/player/cutout/7g2c521769330817.png/small",
     "joao mario": "https://images.fotmob.com/image_resources/playerimages/958421.png",
     "viktor gyokeres": "https://r2.thesportsdb.com/images/media/player/cutout/ubnx241769330610.png/small",
-    "martin": "",
     "axel donczew": "",
     "victor froholdt": "",
     "kyle healy": "",
@@ -1351,9 +1350,10 @@
     "junior kroupi": "",
     "kerem alajbegovic": "",
     "mateo soule": "",
-    "ousmane ndiaye": ""
+    "ousmane ndiaye": "",
+    "martin": ""
   },
-  "photo_repair_idx": 5,
+  "photo_repair_idx": 6,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

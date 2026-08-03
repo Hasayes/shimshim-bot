@@ -1,11 +1,5 @@
 {
   "sent": [
-    "cacce4db7d470618a416504e994d43e4",
-    "3d77e46c1bdf434021efda70a225fcb6",
-    "4fb036f4ded1a1ce51009fa0a537364c",
-    "77060cd5b1d52d25fa60cf5dbd219158",
-    "5f63e1702eef829a2a8fe7c1d9da585f",
-    "beda7089e0c14244c8f1bd47e71ad69e",
     "55d23dc9d9d62c13ca4f04e450c209c8",
     "dcb95c7e0cf30d43ea15eb978c9c7511",
     "bb05cac34d6ee8b4de6dadebe4c10102",
@@ -499,7 +493,13 @@
     "4282fe6c19034f619ce5cc2bd499c6da",
     "fb8ceb94e32410fbdd25e5f60fed7607",
     "fc41cf6230c75fcf6e0af70c1b508904",
-    "tg:FabrizioRomanoTG/63967"
+    "tg:FabrizioRomanoTG/63967",
+    "ff0347c97c4cb995c06cbd86ef523447",
+    "25aced608e383dd04883efca3ce53b58",
+    "c229d4481a78aaf5075e70d80b25e3a7",
+    "1add374d0b7986a4cc148f928763e611",
+    "13a6dc45529484ace6227d70832e601d",
+    "61da1d225a3ec07abe3122ad84bfaab8"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -829,12 +829,6 @@
     "interest: gyokeres -> arsenal"
   ],
   "titles": [
-    "manchester city target marseille goalkeeper gera3nimo rulli",
-    "\ud83d\udea8 \ud83c\udde6\ud83c\uddf7 franco mastantuono, still expected to go out on loan with fiorentina and as",
-    "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f kerim alajbegovic to juventus, here we go! deal in place between all par",
-    "fabrizio romano squashes 27yo barcelona star to tottenham rumors: \u2018no interest, ",
-    "\ud83d\udea8 \ud83d\udfe1 \ud83d\udd34 konstantinos koulierakis to as roma, here we go! agreement in place with w",
-    "\ud83d\udea8 \ud83d\udd35 official, confirmed maxence lacroix joins chelsea on \u00a352m deal from crystal ",
     "\ud83d\udd35 \ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udffc maxence lacroix: \u201chere at chelsea we want to win\u201d \u201ci am really happy to ",
     "man city plotting surprise move for former player who left in 2017; player \u2018keen",
     "\ud83d\udea8 \ud83d\udd34 tyler fredricson leaves manchester united and joins fc lausanne sport on a p",
@@ -1128,7 +1122,13 @@
     "l'ol officialise bacher, les dernieres infos en direct",
     "just in: romano issues mykhaylo mudryk update in a major boost for chelsea",
     "sassuolo and juventus discussing final details of adzic transfer",
-    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f gio reyna to rc strasbourg, here we go! deal in place for the american to"
+    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f gio reyna to rc strasbourg, here we go! deal in place for the american to",
+    "galatasaray reject gyokeres plus \u20ac30m for osimhen \u2013 report",
+    "arsenal transfer news: arteta dodges question on vinicius junior rumours",
+    "arsenal proven right on transfer strategy after vinicius junior approach",
+    "romano issues newcastle united update that will excite arsenal fans the most",
+    "done deal: napoli and bayer leverkusen have \u20ac30m gutierrez agreement in place",
+    "newcastle express interest in italy and atalanta defender scalvini"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1341,7 +1341,6 @@
     "myles lewis skelly": "https://r2.thesportsdb.com/images/media/player/cutout/7g2c521769330817.png/small",
     "joao mario": "https://images.fotmob.com/image_resources/playerimages/958421.png",
     "viktor gyokeres": "https://r2.thesportsdb.com/images/media/player/cutout/ubnx241769330610.png/small",
-    "benji flowers": "",
     "mishel nduka": "",
     "rodri hernandez": "",
     "junior kroupi": "",
@@ -1351,9 +1350,10 @@
     "martin": "",
     "axel donczew": "",
     "victor froholdt": "",
-    "kyle healy": ""
+    "kyle healy": "",
+    "benji flowers": ""
   },
-  "photo_repair_idx": 9,
+  "photo_repair_idx": 10,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

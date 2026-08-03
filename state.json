@@ -1,6 +1,5 @@
 {
   "sent": [
-    "9fc3036de921ef1e33f35430ea1503fa",
     "3b851194b7126e891a37b78cb20b508a",
     "e7845261174be573b86da695b470fe89",
     "ba21c040285d452c40b187d994320cae",
@@ -499,7 +498,8 @@
     "cda7b1ecdeeb7821d0c803ce823c59f7",
     "33a2152f398b9a44ef65261f14c3f311",
     "807970543b25b0503a19381e84078326",
-    "968cd44e316269e264ee1f9c3a349abd"
+    "968cd44e316269e264ee1f9c3a349abd",
+    "057b467bd4e07501eb28467a6c433f65"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -829,7 +829,6 @@
     "interest: gyokeres -> arsenal"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83d\udca3 exclusive: eddie howe set to part ways with newcastle with immediate effect ",
     "\ud83d\udea8 \ud83d\udca3 exclusive: matthias jaissle, top candidate and in advanced talks to become n",
     "psg reach breakthrough with monaco in maghnes akliouche talks",
     "\ud83d\udea8 \u26aa\ufe0f real madrid have asked carlos espi today to wait before signing with premie",
@@ -1128,7 +1127,8 @@
     "\"happy to be enjoying football again\" former chelsea star alejandro garnacho mak",
     "psg move ahead of juventus with \u20ac33m bid for parma\u2019s suzuki",
     "liverpool handed bradley barcola transfer hint as psg take action and personal t",
-    "cody gakpo to tottenham news: fabrizio romano reveals \"only\" way spurs can convi"
+    "cody gakpo to tottenham news: fabrizio romano reveals \"only\" way spurs can convi",
+    "fabrizio romano makes bradley barcola to liverpool transfer prediction amid cody"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1341,7 +1341,6 @@
     "myles lewis skelly": "https://r2.thesportsdb.com/images/media/player/cutout/7g2c521769330817.png/small",
     "joao mario": "https://images.fotmob.com/image_resources/playerimages/958421.png",
     "viktor gyokeres": "https://r2.thesportsdb.com/images/media/player/cutout/ubnx241769330610.png/small",
-    "kyle healy": "",
     "benji flowers": "",
     "mishel nduka": "",
     "rodri hernandez": "",
@@ -1351,9 +1350,10 @@
     "ousmane ndiaye": "",
     "martin": "",
     "axel donczew": "",
-    "victor froholdt": ""
+    "victor froholdt": "",
+    "kyle healy": ""
   },
-  "photo_repair_idx": 8,
+  "photo_repair_idx": 9,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

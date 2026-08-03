@@ -1,7 +1,5 @@
 {
   "sent": [
-    "cf63709e4b0afa4289c5494ca623ae93",
-    "3f5e3f3987e3cc003ffa172d1dd016bf",
     "tg:FabrizioRomanoTG/63741",
     "tg:FabrizioRomanoTG/63742",
     "6a21e385b6045275a8ad4bfa8005cb7b",
@@ -499,7 +497,9 @@
     "6646e2351a9d516f572347636cab6763",
     "306a1fd199f100a1bfdc6fd7a0efc49e",
     "f32db7a133dfee110391f852235d0d54",
-    "tg:FabrizioRomanoTG/63977"
+    "tg:FabrizioRomanoTG/63977",
+    "189d78eeab1c5d305c07facaa69a57e3",
+    "tg:FabrizioRomanoTG/63978"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -829,8 +829,6 @@
     "interest: gyokeres -> arsenal"
   ],
   "titles": [
-    "psg near agreement with monaco to secure maghnes akliouche signing",
-    "psg close in on maghnes akliouche transfer despite rejected approaches",
     "rt @fabrizioromano : \ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f newcastle have reached a verbal agreement with matt",
     "real madrid approve mastantuono\u2019s exit with three serie a clubs linked",
     "arsenal target now set to join inter milan",
@@ -1128,7 +1126,9 @@
     "\ud83d\udea8 \ud83d\ude9c ipswich town reach verbal agreement to sign florentino luis as new midfielde",
     "fabrizio romano reveals tottenham plan to sign two more stars, including attacke",
     "psg submits formal bids on ajax\u2019s for mika godts, parma\u2019s zion suzuki",
-    "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 psg plan to accelerate and close zion suzuki deal after \u20ac33m package bid e"
+    "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 psg plan to accelerate and close zion suzuki deal after \u20ac33m package bid e",
+    "jj gabriel three year contract claim made as wonderkid makes man united senior d",
+    "\ud83d\udea8 \u26ab\ufe0f \ud83d\udd35 inter are expected to make final decision soon on cuti romero deal no iss"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1341,7 +1341,6 @@
     "myles lewis skelly": "https://r2.thesportsdb.com/images/media/player/cutout/7g2c521769330817.png/small",
     "joao mario": "https://images.fotmob.com/image_resources/playerimages/958421.png",
     "viktor gyokeres": "https://r2.thesportsdb.com/images/media/player/cutout/ubnx241769330610.png/small",
-    "ousmane ndiaye": "",
     "martin": "",
     "axel donczew": "",
     "victor froholdt": "",
@@ -1351,9 +1350,10 @@
     "rodri hernandez": "",
     "junior kroupi": "",
     "kerem alajbegovic": "",
-    "mateo soule": ""
+    "mateo soule": "",
+    "ousmane ndiaye": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 5,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

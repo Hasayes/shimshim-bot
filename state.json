@@ -1,7 +1,5 @@
 {
   "sent": [
-    "9beaf3c3ec9c14d84c2fa9519eba6a3a",
-    "defe0251c0fa0dc966d053d643a4f038",
     "63438341dec4f502486f5c44823a35f8",
     "1a5cf67fb511adc08a0afccae24d5a3c",
     "744a09422597bca730d978e297ee2030",
@@ -499,7 +497,9 @@
     "5207ac881f6a13b2f2bd47156a8618f4",
     "0f1f19730ceca5a3ba1ce5dedee43533",
     "956293586ded8e25f278941b86329caa",
-    "tg:FabrizioRomanoTG/64006"
+    "tg:FabrizioRomanoTG/64006",
+    "33f46b1672b902ed42e5aa5248fb11cb",
+    "tg:FabrizioRomanoTG/64008"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -831,8 +831,6 @@
     "interest: conceicao -> manchester united"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83d\udfe1 more on peter gulacsi and villarreal exclusive story the agreement is done o",
-    "rt @fabrizioromano : \ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f como keep insisting to try get trevoh chalobah deal ",
     "liverpool transfer news: one of the fastest players in the world could now repla",
     "transfer: real madrid activate espi\u2019s release clause as mourinho gets new strike",
     "romano confirms leeds target carlos espi has joined real madrid",
@@ -1130,7 +1128,9 @@
     "liverpool offered deal to hijack psg move for mika godts",
     "liverpool could sign rw plus bradley barcola after fabrizio romano\u2019s morning upd",
     "galatasaray reject arsenal\u2019s bid for osimhen",
-    "\ud83d\udea8 \u26ab\ufe0f \u26aa\ufe0f official: fulham also confirm cesar palacios as new signing from real ma"
+    "\ud83d\udea8 \u26ab\ufe0f \u26aa\ufe0f official: fulham also confirm cesar palacios as new signing from real ma",
+    "inter lock down esposito until 2030 with performance based deal",
+    "\ud83d\udea8 \ud83d\udc40 ferran torres on paris st germain: \u201cpsg interest? being wanted by these team"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1344,7 +1344,6 @@
     "joao mario": "https://images.fotmob.com/image_resources/playerimages/958421.png",
     "viktor gyokeres": "https://r2.thesportsdb.com/images/media/player/cutout/ubnx241769330610.png/small",
     "dion lopy": "https://r2.thesportsdb.com/images/media/player/cutout/lnl0a01735883167.png/small",
-    "rodri hernandez": "",
     "junior kroupi": "",
     "kerem alajbegovic": "",
     "mateo soule": "",
@@ -1355,9 +1354,10 @@
     "victor froholdt": "",
     "kyle healy": "",
     "benji flowers": "",
-    "mishel nduka": ""
+    "mishel nduka": "",
+    "rodri hernandez": ""
   },
-  "photo_repair_idx": 11,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

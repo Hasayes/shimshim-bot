@@ -1,6 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/63745",
     "66110a5b35117e4ddbe1a74bf1a60816",
     "7657563d48386bc4d2ba9b503f9db721",
     "5d52fde88729d8713e84d4c679802c84",
@@ -499,7 +498,8 @@
     "tg:FabrizioRomanoTG/63979",
     "16cf5eee2e8704be5083011562d74fa7",
     "269e81e08edbbc7083cb5de4afa98827",
-    "1d20809497006dfd96ce0fc55031b113"
+    "1d20809497006dfd96ce0fc55031b113",
+    "75b1a2104e79f2fc2fb36016dfc94ea4"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -829,7 +829,6 @@
     "interest: gyokeres -> arsenal"
   ],
   "titles": [
-    "\ud83d\udea8 reports: italy move sealed! bundesliga club sells talent for \u20ac35m",
     "chelsea sign maxence lacroix from crystal palace in \u20ac60m deal",
     "man utd chiefs choose baleba and manu kone as preferred midfield targets",
     "confirmed: angelino leaves roma, ready to join deportivo",
@@ -1128,7 +1127,8 @@
     "\ud83d\udea8 \u26aa\ufe0f tottenham plan to step up their efforts to try sign cody gakpo as talks wil",
     "\u2018i don\u2019t expect\u2019 \u2013 fabrizio romano issues reality check on bradley barcola to li",
     "galatasaray reject arsenal\u2019s gyokeres plus \u20ac30m swap bid for osimhen",
-    "arsenal 'green light first xi exits' to fund vinicius junior move as talks advan"
+    "arsenal 'green light first xi exits' to fund vinicius junior move as talks advan",
+    "fabrizio romano vs florian plettenberg: roc nation sports issues strong statemen"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1341,7 +1341,6 @@
     "myles lewis skelly": "https://r2.thesportsdb.com/images/media/player/cutout/7g2c521769330817.png/small",
     "joao mario": "https://images.fotmob.com/image_resources/playerimages/958421.png",
     "viktor gyokeres": "https://r2.thesportsdb.com/images/media/player/cutout/ubnx241769330610.png/small",
-    "kyle healy": "",
     "benji flowers": "",
     "mishel nduka": "",
     "rodri hernandez": "",
@@ -1351,9 +1350,10 @@
     "ousmane ndiaye": "",
     "martin": "",
     "axel donczew": "",
-    "victor froholdt": ""
+    "victor froholdt": "",
+    "kyle healy": ""
   },
-  "photo_repair_idx": 8,
+  "photo_repair_idx": 9,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

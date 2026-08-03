@@ -1,10 +1,5 @@
 {
   "sent": [
-    "621fbfd0e1fb9e54cdf83d7f03f690a3",
-    "1a48355cea085b26ee5d8336920f4115",
-    "cf8569c1f0f40b9fd2571dca4ad48b97",
-    "5d751680fef295b3be567303cc14fe7d",
-    "aa0af63866dd1888e52e8606dd4eae1c",
     "78316774dbf254f1f02228d5d96dde28",
     "733e20c48a6ea754a469329c7f201a24",
     "d453b3909a078cd02cde46c8e7ea577a",
@@ -499,7 +494,12 @@
     "0cbebb85d3871746d368fe25c9b0f956",
     "09f63dc4dec80e53ecbbff4c3bc862d5",
     "4f7573b77f086c880f5f8ed4d5f14cb5",
-    "a46b03e149b8116500691ccf79ecacb8"
+    "a46b03e149b8116500691ccf79ecacb8",
+    "e8f501d32780db590c07b6bbdf6f4e73",
+    "067e5a69a04a1b42db8c8c6d5f4ffafb",
+    "622a5ec757a7b502c7efac14033a3840",
+    "tg:FabrizioRomanoTG/64001",
+    "tg:FabrizioRomanoTG/64002"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -830,10 +830,6 @@
     "interest: gyokeres -> arsenal"
   ],
   "titles": [
-    "'here we go' fabrizio romano confirms leeds transfer target has joined another c",
-    "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 after maghnes akliouche deal being sealed this weekend, paris saint germai",
-    "\ud83d\udea8 \ud83c\udde6\ud83c\uddf7 franco mastantuono will leave real madrid on loan, decision confirmed on cl",
-    "tyneside turnover could present lewis hall opportunity for manchester united",
     "liverpool target secures a\u0080\u0098verbal agreementa\u0080\u0099 ahead of likely a\u00a3100m plus tran",
     "carnevali confirms kolo muani signing, alajbegovic talks and no meeting with vla",
     "\ud83d\udea8 \ud83d\udd34 \u26ab\ufe0f bayer leverkusen have sent an official bid to napoli for miguel gutierrez",
@@ -1129,7 +1125,11 @@
     "\ud83d\udea8 \ud83d\udfe1 \u26ab\ufe0f al ittihad reach agreement in principle with almeria for dion lopy! exclu",
     "keep or sell: what should liverpool do with cody gakpo?",
     "psg launch \u20ac40m bid for ajax\u2019s mika godts",
-    "psg pursues japan goalkeeper zion suzuki"
+    "psg pursues japan goalkeeper zion suzuki",
+    "transfer news live: guimaraes set for arsenal medical, vinicius jr deal close, m",
+    "report: tottenham hotspur keen to sign liverpool star",
+    "\ud83d\udea8 \ud83d\udd35 cruzeiro have completed the agreement to sign angelo from al nassr on loan n",
+    "\ud83d\udea8 \ud83d\udd35 cruzeiro have completed the agreement to sign wesley from al nassr on loan n"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1342,7 +1342,6 @@
     "myles lewis skelly": "https://r2.thesportsdb.com/images/media/player/cutout/7g2c521769330817.png/small",
     "joao mario": "https://images.fotmob.com/image_resources/playerimages/958421.png",
     "viktor gyokeres": "https://r2.thesportsdb.com/images/media/player/cutout/ubnx241769330610.png/small",
-    "junior kroupi": "",
     "kerem alajbegovic": "",
     "mateo soule": "",
     "ousmane ndiaye": "",
@@ -1353,9 +1352,10 @@
     "dion lopy": "https://r2.thesportsdb.com/images/media/player/cutout/lnl0a01735883167.png/small",
     "benji flowers": "",
     "mishel nduka": "",
-    "rodri hernandez": ""
+    "rodri hernandez": "",
+    "junior kroupi": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

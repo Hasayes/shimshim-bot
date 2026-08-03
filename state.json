@@ -1,8 +1,5 @@
 {
   "sent": [
-    "34ab5e73785ed1f25d440bdd350b7b1c",
-    "5ba99444cc20c10044951b5fdd7cac6c",
-    "6dc0df1080b7af21c364afa7f7433234",
     "09c12b83434a4efb1da5ca27274d8937",
     "c6d6bf23881b6cd91b41c411f44e0280",
     "c2d8b39592e03dba58ebb294e9d5b41d",
@@ -499,7 +496,10 @@
     "f41492c716a02f02959727e32512aee8",
     "db5ecddd59c4c54e01ba2a95bc9119da",
     "f7e4bc4a24eb555439eeda9103c9b024",
-    "7a0d2bb2eaabfd9095718496a012a536"
+    "7a0d2bb2eaabfd9095718496a012a536",
+    "e431223e9d609393f52ef59e20c49562",
+    "b7d2c5db9e7a3be196b40b4ef61d230a",
+    "4399c66e03bb4fb3ac71a2662f4c44c4"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -828,12 +828,10 @@
     "interest: adams -> newcastle",
     "interest: skelly -> manchester united",
     "interest: gyokeres -> arsenal",
-    "interest: conceicao -> manchester united"
+    "interest: conceicao -> manchester united",
+    "interest: moore -> tottenham"
   ],
   "titles": [
-    "\u2018there\u2019s a verbal agreement\u2019 \u2013 jacobs reveals man utd \u2018leading target\u2019 for third",
-    "transfer rumors, news: man united looking at pair of serie a wingers",
-    "\ud83d\udea8 \ud83e\udd85 raphael onyedika to eintracht frankfurt, here we go! agreement done for nige",
     "\ud83e\udd1d barca give the green light, ter stegen joins michel's ajax",
     "liverpool talks on barcola signing resume as fabrizio romano reveals \u2018real issue",
     "medical booked for liverpool target ahead of \u00a341m transfer \u2013 fabrizio romano",
@@ -1130,7 +1128,10 @@
     "psg accelerate talks to sign japan goalkeeper zion suzuki",
     "psg respond to first liverpool offer for bradley barcola as \u2018big factor\u2019 emerges",
     "lewis hall to man utd clears hurdle as wilcox readies first bid",
-    "inter milan push for \u20ac40m defensive leader as tottenham talks advance"
+    "inter milan push for \u20ac40m defensive leader as tottenham talks advance",
+    "'super talented good eye for goal': exciting chelsea verdict on reported portsmo",
+    "bayern have yan diomande transfer advantage as hoene\u00df laughs off real madrid int",
+    "tottenham hotspur in 'advanced' talks over bundesliga move for middlesbrough fc "
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1345,7 +1346,6 @@
     "viktor gyokeres": "https://r2.thesportsdb.com/images/media/player/cutout/ubnx241769330610.png/small",
     "dion lopy": "https://r2.thesportsdb.com/images/media/player/cutout/lnl0a01735883167.png/small",
     "francisco conceicao": "https://r2.thesportsdb.com/images/media/player/cutout/ekqivz1759225498.png/small",
-    "kyle healy": "",
     "benji flowers": "",
     "mishel nduka": "",
     "rodri hernandez": "",
@@ -1355,9 +1355,11 @@
     "ousmane ndiaye": "",
     "martin": "",
     "axel donczew": "",
-    "victor froholdt": ""
+    "victor froholdt": "",
+    "mikey moore": "https://r2.thesportsdb.com/images/media/player/cutout/5vwygx1777017074.png/small",
+    "kyle healy": ""
   },
-  "photo_repair_idx": 8,
+  "photo_repair_idx": 9,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

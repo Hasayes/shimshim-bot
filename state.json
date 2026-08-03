@@ -1,7 +1,5 @@
 {
   "sent": [
-    "5278abbac7df3e567684b5a6ca2dfc18",
-    "8dc8ef965d3a6d9a89e7592c547ef17f",
     "9beaf3c3ec9c14d84c2fa9519eba6a3a",
     "defe0251c0fa0dc966d053d643a4f038",
     "63438341dec4f502486f5c44823a35f8",
@@ -499,7 +497,9 @@
     "e664641184af53f50293611dbe4fae7c",
     "tg:FabrizioRomanoTG/64005",
     "5207ac881f6a13b2f2bd47156a8618f4",
-    "0f1f19730ceca5a3ba1ce5dedee43533"
+    "0f1f19730ceca5a3ba1ce5dedee43533",
+    "956293586ded8e25f278941b86329caa",
+    "tg:FabrizioRomanoTG/64006"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -645,7 +645,7 @@
     "akinsanmiro -> monza": 2,
     "koulierakis -> as roma": 2,
     "garcia -> fulham": 2,
-    "palacios -> fulham": 1,
+    "palacios -> fulham": 2,
     "espi -> real madrid": 1,
     "angelino -> deportivo": 1,
     "sangare -> brentford": 1,
@@ -831,8 +831,6 @@
     "interest: conceicao -> manchester united"
   ],
   "titles": [
-    "report: argentina\u2019s geronimo rulli could return to manchester city nine years af",
-    "\ud83d\udfe1 \ud83d\udd35 ousmane diallo joins parma from borussia dortmund on permanent deal, agreeme",
     "\ud83d\udea8 \ud83d\udfe1 more on peter gulacsi and villarreal exclusive story the agreement is done o",
     "rt @fabrizioromano : \ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f como keep insisting to try get trevoh chalobah deal ",
     "liverpool transfer news: one of the fastest players in the world could now repla",
@@ -1130,7 +1128,9 @@
     "fabrizio romano reveals man utd message about signing francisco conceicao",
     "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f official: gonzalo garcia joins fulham from real madrid \u20ac40m fixed fee, \u20ac",
     "liverpool offered deal to hijack psg move for mika godts",
-    "liverpool could sign rw plus bradley barcola after fabrizio romano\u2019s morning upd"
+    "liverpool could sign rw plus bradley barcola after fabrizio romano\u2019s morning upd",
+    "galatasaray reject arsenal\u2019s bid for osimhen",
+    "\ud83d\udea8 \u26ab\ufe0f \u26aa\ufe0f official: fulham also confirm cesar palacios as new signing from real ma"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1344,7 +1344,6 @@
     "joao mario": "https://images.fotmob.com/image_resources/playerimages/958421.png",
     "viktor gyokeres": "https://r2.thesportsdb.com/images/media/player/cutout/ubnx241769330610.png/small",
     "dion lopy": "https://r2.thesportsdb.com/images/media/player/cutout/lnl0a01735883167.png/small",
-    "benji flowers": "",
     "mishel nduka": "",
     "rodri hernandez": "",
     "junior kroupi": "",
@@ -1355,9 +1354,10 @@
     "martin": "",
     "axel donczew": "",
     "victor froholdt": "",
-    "kyle healy": ""
+    "kyle healy": "",
+    "benji flowers": ""
   },
-  "photo_repair_idx": 9,
+  "photo_repair_idx": 10,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

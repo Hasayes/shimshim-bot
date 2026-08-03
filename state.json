@@ -1,6 +1,5 @@
 {
   "sent": [
-    "82153155f042ece38d8f275e92576669",
     "c2172782310d74baa9fbd72722f93f8f",
     "5fb418cb975f0d50a9eb8893e12126e3",
     "tg:FabrizioRomanoTG/63776",
@@ -499,7 +498,8 @@
     "tg:FabrizioRomanoTG/63997",
     "3eef48179798d88b97e7e8a71785f51b",
     "dbc331e85da457df43603a6582d40edd",
-    "88d8a6c7c235d03a4a93f3413872379f"
+    "88d8a6c7c235d03a4a93f3413872379f",
+    "tg:FabrizioRomanoTG/63999"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -656,7 +656,8 @@
     "onyedika -> eintracht frankfurt": 2,
     "gutierrez -> bayer leverkusen": 1,
     "lindstr\u00f8m -> schalke 04": 1,
-    "mario -> fiorentina": 1
+    "mario -> fiorentina": 1,
+    "lopy -> al ittihad": 1
   },
   "interest": [
     "interest: alvarez -> arsenal",
@@ -829,7 +830,6 @@
     "interest: gyokeres -> arsenal"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f marc andre ter stegen will be officially announced as new ajax player thi",
     "rt @fabrizioromano : \ud83d\udea8 \ud83c\udf52 antonio silva to bournemouth, here we go! deal now sign",
     "liverpool target secures \u2018verbal agreement\u2019 ahead of likely \u00a3100m plus transfer",
     "manchester city set asking price for rodri sale amid real madrid links: reports",
@@ -1128,7 +1128,8 @@
     "\ud83d\udea8 \ud83d\udd35 official: napoli statement hints at possible legal action following jesper l",
     "tottenham hold positive talks with liverpool star but reds have no intention to ",
     "fabrizio romano provides update on liverpool\u2019s move for bradley barcola",
-    "qpr set to sign ligue 1 midfielder with loan to buy deal agreed"
+    "qpr set to sign ligue 1 midfielder with loan to buy deal agreed",
+    "\ud83d\udea8 \ud83d\udfe1 \u26ab\ufe0f al ittihad reach agreement in principle with almeria for dion lopy! exclu"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1341,7 +1342,6 @@
     "myles lewis skelly": "https://r2.thesportsdb.com/images/media/player/cutout/7g2c521769330817.png/small",
     "joao mario": "https://images.fotmob.com/image_resources/playerimages/958421.png",
     "viktor gyokeres": "https://r2.thesportsdb.com/images/media/player/cutout/ubnx241769330610.png/small",
-    "benji flowers": "",
     "mishel nduka": "",
     "rodri hernandez": "",
     "junior kroupi": "",
@@ -1351,9 +1351,11 @@
     "martin": "",
     "axel donczew": "",
     "victor froholdt": "",
-    "kyle healy": ""
+    "kyle healy": "",
+    "dion lopy": "https://r2.thesportsdb.com/images/media/player/cutout/lnl0a01735883167.png/small",
+    "benji flowers": ""
   },
-  "photo_repair_idx": 9,
+  "photo_repair_idx": 10,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",
@@ -1478,6 +1480,8 @@
     "celtic": "https://r2.thesportsdb.com/images/media/team/badge/3uv1641758780002.png/small",
     "psg": "https://r2.thesportsdb.com/images/media/team/badge/rwqrrq1473504808.png/small",
     "sc braga": "https://r2.thesportsdb.com/images/media/team/badge/8g4aod1678717261.png/small",
-    "rayo vallecano": "https://r2.thesportsdb.com/images/media/team/badge/nzhu941655595465.png/small"
+    "rayo vallecano": "https://r2.thesportsdb.com/images/media/team/badge/nzhu941655595465.png/small",
+    "almeria": "https://r2.thesportsdb.com/images/media/team/badge/yswsww1473503818.png/small",
+    "al ittihad": "https://images.fotmob.com/image_resources/logo/teamlogo/8577.png"
   }
 }

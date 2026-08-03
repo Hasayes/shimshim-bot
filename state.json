@@ -1,6 +1,5 @@
 {
   "sent": [
-    "1e2a5b6fe4d070d4c2566ee546fda711",
     "d7fdc17a7a07ce24a86c4c4e69a54c4b",
     "25580eaf2266719356ea694d8a7d14ce",
     "tg:FabrizioRomanoTG/63766",
@@ -499,7 +498,8 @@
     "270c15a69d7f3fb2d7851b9c26e5c6de",
     "534cba1f1c9a4dfa2253dd044f48a588",
     "82b9b882885054a5146de68e44146dee",
-    "1fbf3de1a9f599271e42ac2657c711b1"
+    "1fbf3de1a9f599271e42ac2657c711b1",
+    "tg:FabrizioRomanoTG/63984"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -829,7 +829,6 @@
     "interest: gyokeres -> arsenal"
   ],
   "titles": [
-    "world cup star\u2019s agent confirms man utd contact, with next move \u2018close\u2019",
     "fabrizio romano: another liverpool deal could be on the cards after bradley barc",
     "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f brentford reach verbal agreement to sign mamadou sangare, here we go! san",
     "man city reach transfer decision on real madrid target rodri as fabrizio romano ",
@@ -1128,7 +1127,8 @@
     "newcastle react as man utd prepare opening bid for lewis hall amid romano claim",
     "romano reveals newcastle have now \u2018accepted\u2019 guimaraes exit to arsenal ahead of ",
     "liverpool to launch opening bradley barcola bid as fabrizio romano announces new",
-    "fabrizio romano reveals arsenal on cusp of bruno guimaraes deal amid official tr"
+    "fabrizio romano reveals arsenal on cusp of bruno guimaraes deal amid official tr",
+    "\ud83d\udea8 \ud83c\uddfa\ud83c\uddf8 breaking: mauricio pochettino signs new deal as usmnt head coach until 2030"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1341,7 +1341,6 @@
     "myles lewis skelly": "https://r2.thesportsdb.com/images/media/player/cutout/7g2c521769330817.png/small",
     "joao mario": "https://images.fotmob.com/image_resources/playerimages/958421.png",
     "viktor gyokeres": "https://r2.thesportsdb.com/images/media/player/cutout/ubnx241769330610.png/small",
-    "benji flowers": "",
     "mishel nduka": "",
     "rodri hernandez": "",
     "junior kroupi": "",
@@ -1351,9 +1350,10 @@
     "martin": "",
     "axel donczew": "",
     "victor froholdt": "",
-    "kyle healy": ""
+    "kyle healy": "",
+    "benji flowers": ""
   },
-  "photo_repair_idx": 9,
+  "photo_repair_idx": 10,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

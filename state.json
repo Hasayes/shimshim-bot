@@ -1,6 +1,5 @@
 {
   "sent": [
-    "9c00db48ff6c73f65b00362d9dc80a1e",
     "061f0b6cbb05cbd553aa990ac70ae437",
     "19c75aee1597e20623029c511b4656be",
     "38b50499afa171dba6083dfaf9d20a16",
@@ -499,7 +498,8 @@
     "tg:FabrizioRomanoTG/63971",
     "59b555b7dfffe727c64b41657531ff37",
     "969f95b64a7e7782a0b9ec30cbb0c741",
-    "cfe47a4b20e148d5a6b30547e016bf1a"
+    "cfe47a4b20e148d5a6b30547e016bf1a",
+    "75733ebbc043ee333ebb7a8ebb53b19a"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -829,7 +829,6 @@
     "interest: gyokeres -> arsenal"
   ],
   "titles": [
-    "\u26ab\ufe0f \ud83d\udd35 \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f john stones has signed his two year contract at inter https://t co/",
     "de zerbi delivers \u2018honest\u2019 transfer message to tottenham star lucas bergvall \u2013 \u2018",
     "barcelona not in talks with any club over the sale of psg-linked attacker \u2013 roma",
     "fabrizio romano confirms sensational star now wants to join liverpool",
@@ -1128,7 +1127,8 @@
     "@mouhkay88 i\u2019ll always say here we go if a player goes for a medical napoli auth",
     "chelsea improve bid for rayo vallecano defender chavarria",
     "juve chelsea link, pavard says no, brescianini: today's market \ud83e\udd11",
-    "psg have tabled \u20ac40m bid to ajax for mika godts"
+    "psg have tabled \u20ac40m bid to ajax for mika godts",
+    "psg make \u20ac33m offer to parma for juventus target zion suzuki"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1341,7 +1341,6 @@
     "myles lewis skelly": "https://r2.thesportsdb.com/images/media/player/cutout/7g2c521769330817.png/small",
     "joao mario": "https://images.fotmob.com/image_resources/playerimages/958421.png",
     "viktor gyokeres": "https://r2.thesportsdb.com/images/media/player/cutout/ubnx241769330610.png/small",
-    "junior kroupi": "",
     "kerem alajbegovic": "",
     "mateo soule": "",
     "ousmane ndiaye": "",
@@ -1351,9 +1350,10 @@
     "kyle healy": "",
     "benji flowers": "",
     "mishel nduka": "",
-    "rodri hernandez": ""
+    "rodri hernandez": "",
+    "junior kroupi": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

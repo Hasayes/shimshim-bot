@@ -1,7 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/63820",
-    "tg:FabrizioRomanoTG/63822",
     "tg:FabrizioRomanoTG/63823",
     "tg:FabrizioRomanoTG/63825",
     "tg:FabrizioRomanoTG/63826",
@@ -499,7 +497,9 @@
     "tg:FabrizioRomanoTG/64040",
     "tg:FabrizioRomanoTG/64041",
     "88e141a4316f23176e68b2882536f982",
-    "tg:FabrizioRomanoTG/64042"
+    "tg:FabrizioRomanoTG/64042",
+    "tg:FabrizioRomanoTG/64045",
+    "tg:FabrizioRomanoTG/64046"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -838,8 +838,6 @@
     "interest: neto -> manchester city"
   ],
   "titles": [
-    "\ud83d\udd34 \u2b50\ufe0f jj gabriel made his first team debut for manchester united in unofficial ga",
-    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f arsenal in direct talks again today with newcastle to close bruno guimara",
     "\ud83d\udd35 \u26aa\ufe0f exclusive story confirmed: hoffenheim agree \u20ac16m deal to sign adam daghim f",
     "\ud83d\udea8 \ud83d\udd35 official: danny welbeck joins chelsea from brighton on a two year deal \u201ci\u2019m ",
     "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f rb leipzig are closing in on deal to sign norway gk oryan nyland as repla",
@@ -1137,7 +1135,9 @@
     "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f bruno guimaraes, waiting for the final call to get on plane and fly for m",
     "\ud83d\ude9c \ud83c\uddf5\ud83c\uddf9 official, confirmed ipswich town sign florentino luis as new midfielder fro",
     "daisuke yokota medical update shared after rangers agree \u00a33 4m transfer",
-    "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 paris saint germain and ajax remain in club to club talks for mika godts w"
+    "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 paris saint germain and ajax remain in club to club talks for mika godts w",
+    "\ud83d\udea8 \u26aa\ufe0f more on pedro neto and savinho tottenham would consider pedro neto if savin",
+    "rt @themadridzone : \ud83d\udea8 confirmed: everything about the yan diomande deal has been"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1356,7 +1356,6 @@
     "wilfried singo": "https://r2.thesportsdb.com/images/media/player/cutout/zwfgmo1769177983.png/small",
     "nico gonzalez": "https://r2.thesportsdb.com/images/media/player/cutout/e6mhnz1762288376.png/small",
     "yan couto": "https://r2.thesportsdb.com/images/media/player/cutout/hadu641756326239.png/small",
-    "martin": "",
     "axel donczew": "",
     "victor froholdt": "",
     "kyle healy": "",
@@ -1367,9 +1366,10 @@
     "junior kroupi": "",
     "kerem alajbegovic": "",
     "mateo soule": "",
-    "ousmane ndiaye": ""
+    "ousmane ndiaye": "",
+    "martin": ""
   },
-  "photo_repair_idx": 5,
+  "photo_repair_idx": 6,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

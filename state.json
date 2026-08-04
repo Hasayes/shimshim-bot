@@ -1,7 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/63810",
-    "d83098d32c5ac895fcd71d945ec06c0b",
     "tg:FabrizioRomanoTG/63811",
     "tg:FabrizioRomanoTG/63812",
     "tg:FabrizioRomanoTG/63813",
@@ -499,7 +497,9 @@
     "0deefa86c8146829f37cd4d1e6430346",
     "tg:FabrizioRomanoTG/64022",
     "6a58a6479c0cd84eeebf7d22a2153279",
-    "tg:FabrizioRomanoTG/64024"
+    "tg:FabrizioRomanoTG/64024",
+    "0b99ac5e5403c9cd5039dd17a4d42f61",
+    "tg:FabrizioRomanoTG/64027"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -837,8 +837,6 @@
     "interest: gonzalez -> inter"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83c\uddea\ud83c\uddf8 paris saint germain remain in direct talks with ferran torres camp over mov",
-    "psg making push to get mika godts",
     "rt @fabrizioromano : \ud83d\udea8 \ud83c\uddea\ud83c\uddf8 paris saint germain remain in direct talks with ferran",
     "\u2705 \ud83c\udf52 \ud83c\uddf5\ud83c\uddf9 antonio silva has officially joined bournemouth, deal completed https://t",
     "\ud83d\udea8 \u274c yan diomande did not play today\u2019s friendly match and he will not even travel",
@@ -1136,7 +1134,9 @@
     "gio reyna finally escapes germany with \u20ac3m move to strasbourg",
     "\ud83d\udea8 official: werder bremen centre back karim coulibaly signs with roc nation as n",
     "'it's not true' leipzig\u2019s director hits out at fabrizio romano over diomande dea",
-    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f excl: como have formally finalised the agreement with borussia dortmund t"
+    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f excl: como have formally finalised the agreement with borussia dortmund t",
+    "what morgan gibbs white's agent change means for nottingham forest future: olive",
+    "\ud83d\udd35 \ud83d\udd34 official, confirmed jesse bisiwu joins barcelona from brugge on \u20ac8 5m plus s"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1354,7 +1354,6 @@
     "mikey moore": "https://r2.thesportsdb.com/images/media/player/cutout/5vwygx1777017074.png/small",
     "wilfried singo": "https://r2.thesportsdb.com/images/media/player/cutout/zwfgmo1769177983.png/small",
     "nico gonzalez": "https://r2.thesportsdb.com/images/media/player/cutout/e6mhnz1762288376.png/small",
-    "axel donczew": "",
     "victor froholdt": "",
     "kyle healy": "",
     "benji flowers": "",
@@ -1365,9 +1364,10 @@
     "kerem alajbegovic": "",
     "mateo soule": "",
     "ousmane ndiaye": "",
-    "martin": ""
+    "martin": "",
+    "axel donczew": ""
   },
-  "photo_repair_idx": 6,
+  "photo_repair_idx": 7,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

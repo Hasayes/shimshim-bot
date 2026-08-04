@@ -1,7 +1,5 @@
 {
   "sent": [
-    "962b185ecb734ee7b232d5294a37c702",
-    "5281e069f36203189aad5f2cea13e43c",
     "be726b768ab318cfa55dfc8119889ee1",
     "5182e9801dbc483007def30e1299efa7",
     "3181db328181622adc0f0316324edca1",
@@ -499,7 +497,9 @@
     "411937eb75f266301fbb92a96ef4c36f",
     "588dac5ee335539fb264ffe96b885dfc",
     "203538a5000bb223544cfd429cd91dd5",
-    "f6563fec98cddb508e767e9bd308c88d"
+    "f6563fec98cddb508e767e9bd308c88d",
+    "1205648bff14bef4354e3472faf98c90",
+    "tg:FabrizioRomanoTG/64049"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -659,7 +659,8 @@
     "mario -> fiorentina": 1,
     "lopy -> al ittihad": 1,
     "angelino -> rc deportivo de la coruna": 1,
-    "couto -> como": 1
+    "couto -> como": 1,
+    "juanlu -> bournemouth": 1
   },
   "interest": [
     "interest: alvarez -> arsenal",
@@ -835,11 +836,10 @@
     "interest: osimhen -> tottenham",
     "interest: singo -> liverpool",
     "interest: gonzalez -> inter",
-    "interest: neto -> manchester city"
+    "interest: neto -> manchester city",
+    "interest: torres -> tottenham"
   ],
   "titles": [
-    "yan diomande latest as real madrid 'push' to complete transfer with arsenal hope",
-    "negotiations stall as rb leipzig do not respond to real madrid\u2019s latest offer fo",
     "no breakthrough yet but liverpool still \u201cworking\u201d to agree transfer on their ter",
     "wolves reject lowball real sociedad bid for ladislav krejci",
     "romano reveals next man utd transfer has been \u2018approved\u2019 as newcastle chaos cont",
@@ -1137,7 +1137,9 @@
     "five alternative left backs man utd could target after lewis hall \u2018setback\u2019",
     "transfer news live: guimaraes to arsenal done deal, vinicius offer; new man utd ",
     "endrick remains roma\u2019s top objective",
-    "manchester city delay talks for midfield ace\u2019s sale to real madrid as barcelona "
+    "manchester city delay talks for midfield ace\u2019s sale to real madrid as barcelona ",
+    "tottenham target torres opens door to transfer amid 'concrete' update",
+    "\ud83d\udea8 \ud83c\udf52 juanlu travels to england tomorrow to complete his move as new bournemouth p"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1357,7 +1359,6 @@
     "nico gonzalez": "https://r2.thesportsdb.com/images/media/player/cutout/e6mhnz1762288376.png/small",
     "yan couto": "https://r2.thesportsdb.com/images/media/player/cutout/hadu641756326239.png/small",
     "pedro neto": "https://r2.thesportsdb.com/images/media/player/cutout/g63rmf1757003837.png/small",
-    "junior kroupi": "",
     "kerem alajbegovic": "",
     "mateo soule": "",
     "ousmane ndiaye": "",
@@ -1367,9 +1368,11 @@
     "kyle healy": "",
     "benji flowers": "",
     "mishel nduka": "",
-    "rodri hernandez": ""
+    "rodri hernandez": "",
+    "juanlu": "https://r2.thesportsdb.com/images/media/player/cutout/ut8z8e1762859860.png/small",
+    "junior kroupi": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",
@@ -1498,6 +1501,7 @@
     "almeria": "https://r2.thesportsdb.com/images/media/team/badge/yswsww1473503818.png/small",
     "al ittihad": "https://images.fotmob.com/image_resources/logo/teamlogo/8577.png",
     "rc deportivo de la coruna": "",
-    "inter": "https://images.fotmob.com/image_resources/logo/teamlogo/8636.png"
+    "inter": "https://images.fotmob.com/image_resources/logo/teamlogo/8636.png",
+    "sevilla": "https://r2.thesportsdb.com/images/media/team/badge/vpsqqx1473502977.png/small"
   }
 }

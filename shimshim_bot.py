@@ -273,6 +273,7 @@ class TransferBrief(BaseModel):
     style: str         # one sentence on the player's style of play
     fit: str           # one sentence on how he should be used at the new club
     source: str        # journalist/outlet credited with the report (or "—")
+    summary: str       # 1-2 factual sentences: what the news actually says
 
 
 CLASSIFY_SYSTEM = (
@@ -322,6 +323,8 @@ CLASSIFY_SYSTEM = (
     "doesn't state a fact and you aren't confident, use '—' "
     "('Undisclosed' for the fee). Deal facts get verified separately, "
     "so a '—' is always better than a guess.\n"
+    "- summary: 1-2 tight factual sentences telling the news itself, using "
+    "only what the article states.\n"
     "- style/fit: one concise sentence each from your football knowledge.\n"
     "- source: the journalist or outlet credited; '—' if not clear.\n"
     "Be factual and concise."
@@ -438,6 +441,9 @@ BRIEF_SYSTEM = (
     "'Centre-back'), from the article or your knowledge; '—' if unknown.\n"
     "- age: the player's CURRENT age in years as a number, from the article "
     "or the research notes; '—' if unverified.\n"
+    "- summary: 1-2 tight factual sentences telling the NEWS itself — what "
+    "happened, with the concrete details the story gives (fee structure, "
+    "contract length, timing, who reported it). No opinions, no fluff.\n"
     "- style: one concise sentence on the player's playing style.\n"
     "- fit: one concise sentence on how he should be used / why he fits the "
     "new club. Base style and fit on your football knowledge of the player.\n"
@@ -737,7 +743,41 @@ def verify_deal(client, article):
         }],
         output_format=TransferBrief,
     )
-    return resp.parsed_output
+    draft = resp.parsed_output
+    if draft.kind == "none":
+        return draft
+    # Final cross-examination: a fresh pass hunting for extraction slips —
+    # wrong parent club, suitors that aren't the reported ones, unsupported
+    # stage, summary claims not in the notes. Returns the corrected card.
+    check = client.messages.parse(
+        model=CLAUDE_MODEL,
+        max_tokens=1024,
+        system=(
+            "You are the final verifier for a transfer news card. Compare "
+            "the DRAFT card against the RESEARCH NOTES and output the "
+            "corrected card in the same schema. Change ONLY fields the "
+            "notes contradict; keep everything else identical. Enforce: "
+            "from_club is the notes' CURRENT CLUB owner (loan-return "
+            "exception applies); to_club holds exactly the reported "
+            "buyer/suitors; stage only as far as the notes support; the "
+            "summary contains only facts present in the notes or article. "
+            "If the card's core claim is not supported at all, set "
+            "kind='none'."
+        ),
+        messages=[{
+            "role": "user",
+            "content": f"ARTICLE:\n{prompt}\n\nRESEARCH NOTES:\n{notes}\n\n"
+                       f"DRAFT CARD:\n{draft.model_dump_json(indent=1)}",
+        }],
+        output_format=TransferBrief,
+    )
+    final = check.parsed_output
+    if final.kind != draft.kind or final.from_club != draft.from_club \
+            or final.to_club != draft.to_club or final.stage != draft.stage:
+        print(f"cross-check corrected: {draft.player} "
+              f"[{draft.from_club}->{draft.to_club}/{draft.stage}] => "
+              f"[{final.from_club}->{final.to_club}/{final.stage}] kind={final.kind}")
+    return final
 
 
 def load_state():
@@ -1116,7 +1156,7 @@ def append_feed(article, brief, photo=""):
         for field, val in (("from_club", brief.from_club), ("fee", brief.fee),
                            ("position", brief.position), ("age", brief.age),
                            ("style", brief.style), ("fit", brief.fit),
-                           ("source", brief.source)):
+                           ("source", brief.source), ("summary", brief.summary)):
             if (val or "").strip() not in ("", "—"):
                 existing[field] = val
         if photo and not existing.get("photo"):
@@ -1146,6 +1186,7 @@ def append_feed(article, brief, photo=""):
         "style": brief.style,
         "fit": brief.fit,
         "source": brief.source,
+        "summary": brief.summary,
         "outlet": article["source"],
         "url": article["url"],
         "title": article["title"],

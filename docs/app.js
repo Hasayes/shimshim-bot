@@ -166,6 +166,7 @@ function cardHTML(i, forClub) {
       <div class="who"><div class="player">${esc(i.player)}</div><div class="move">${move}</div></div>
       ${stageBadge(i)}${inout}</div>
     ${known(i.fee) ? `<div class="fee">💰 ${esc(i.fee)}</div>` : ""}
+    ${known(i.summary) ? `<div class="newsline">${esc(i.summary)}</div>` : ""}
     <div class="morelink">More ›</div>
     <div class="detail">${detail}</div>
   </div>`;
@@ -429,4 +430,4 @@ loadFeed().then(() => {
   else if (location.hash.startsWith("#club=")) openClub(decodeURIComponent(location.hash.slice(6)));
 });
 setInterval(loadFeed, 5 * 60 * 1000);
-$("#version").textContent = "ShimShim v3.7";
+$("#version").textContent = "ShimShim v3.8";

@@ -1360,7 +1360,6 @@
     "nico gonzalez": "https://r2.thesportsdb.com/images/media/player/cutout/e6mhnz1762288376.png/small",
     "yan couto": "https://r2.thesportsdb.com/images/media/player/cutout/hadu641756326239.png/small",
     "pedro neto": "https://r2.thesportsdb.com/images/media/player/cutout/g63rmf1757003837.png/small",
-    "martin": "",
     "axel donczew": "",
     "victor froholdt": "",
     "kyle healy": "",
@@ -1371,9 +1370,10 @@
     "junior kroupi": "",
     "kerem alajbegovic": "",
     "mateo soule": "",
-    "ousmane ndiaye": ""
+    "ousmane ndiaye": "",
+    "martin": ""
   },
-  "photo_repair_idx": 5,
+  "photo_repair_idx": 6,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

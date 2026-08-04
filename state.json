@@ -1,7 +1,5 @@
 {
   "sent": [
-    "b016907e1d1fc744e4d65c782519c6f8",
-    "55d8f03bb19a80b1c0499732d12d556a",
     "b78824c30bb6ec53819719589c0ee165",
     "fd72638fdc11bf163ec4aac2bc4880c8",
     "fc171104f9cdb64dc253e0377b01aef6",
@@ -499,7 +497,9 @@
     "d8655a9d43d1e9f4c0de8a7d8f955498",
     "a50b46085e6c09d1af4dabdcb8c7d29b",
     "dafde9ba58a6aeda0d8f768c1a7a9818",
-    "06cbba1e5fa29614bb4cb1e295de71c9"
+    "06cbba1e5fa29614bb4cb1e295de71c9",
+    "a029c22857b75bb8902474ca8947fe2a",
+    "7181c74b6d5eccd713266f90a5b9462a"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -834,8 +834,6 @@
     "interest: osimhen -> tottenham"
   ],
   "titles": [
-    "monza agree \u20ac7 5m deal for nigerian midfielder akinsanmiro",
-    "chelsea and serie a side stuck in battle over final \u20ac5m \u2013 blues\u2019 history shows t",
     "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f como feel agreement is now close for trevoh chalobah to join from chelsea",
     "is bruno guimaraes going to arsenal? what to know about gunners' $103 million tr",
     "bradley barcola opportunity as psg sign \u00a343m winger \u2013 latest liverpool fc news t",
@@ -1133,7 +1131,9 @@
     "bradley barcola to liverpool: reds 'open' talks with psg for winger signing as i",
     "trevoh chalobah deal done as fabrizio romano reveals ucl motivation",
     "chelsea complete jordan henderson signing, chalobah agrees como move",
-    "romano confirms \u2018club to club talks\u2019 underway, liverpool ready to invest \u00a386m fo"
+    "romano confirms \u2018club to club talks\u2019 underway, liverpool ready to invest \u00a386m fo",
+    "man utd suffer setback over \u2018untouchable\u2019 newcastle target the i paper",
+    "liverpool transfer news barcola deal 'on', spurs want gakpo, jones to inter late"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1349,7 +1349,6 @@
     "dion lopy": "https://r2.thesportsdb.com/images/media/player/cutout/lnl0a01735883167.png/small",
     "francisco conceicao": "https://r2.thesportsdb.com/images/media/player/cutout/ekqivz1759225498.png/small",
     "mikey moore": "https://r2.thesportsdb.com/images/media/player/cutout/5vwygx1777017074.png/small",
-    "junior kroupi": "",
     "kerem alajbegovic": "",
     "mateo soule": "",
     "ousmane ndiaye": "",
@@ -1359,9 +1358,10 @@
     "kyle healy": "",
     "benji flowers": "",
     "mishel nduka": "",
-    "rodri hernandez": ""
+    "rodri hernandez": "",
+    "junior kroupi": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

@@ -1,7 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/63811",
-    "tg:FabrizioRomanoTG/63812",
     "tg:FabrizioRomanoTG/63813",
     "tg:FabrizioRomanoTG/63814",
     "c30c2f46c459df682ba8e4ac8ee48dc2",
@@ -499,7 +497,9 @@
     "6a58a6479c0cd84eeebf7d22a2153279",
     "tg:FabrizioRomanoTG/64024",
     "0b99ac5e5403c9cd5039dd17a4d42f61",
-    "tg:FabrizioRomanoTG/64027"
+    "tg:FabrizioRomanoTG/64027",
+    "a93f0ac2423f73d6b7cac7113cc4f8bf",
+    "tg:FabrizioRomanoTG/64032"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -837,8 +837,6 @@
     "interest: gonzalez -> inter"
   ],
   "titles": [
-    "rt @fabrizioromano : \ud83d\udea8 \ud83c\uddea\ud83c\uddf8 paris saint germain remain in direct talks with ferran",
-    "\u2705 \ud83c\udf52 \ud83c\uddf5\ud83c\uddf9 antonio silva has officially joined bournemouth, deal completed https://t",
     "\ud83d\udea8 \u274c yan diomande did not play today\u2019s friendly match and he will not even travel",
     "\ud83d\udea8 \ud83d\udd35 excl: chelsea improve their bid for pep chavarria as negotiations with rayo ",
     "\ud83d\udea8 \ud83d\udd35 joao pedro will sign new long term contract at chelsea in the upcoming days,",
@@ -1136,7 +1134,9 @@
     "'it's not true' leipzig\u2019s director hits out at fabrizio romano over diomande dea",
     "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f excl: como have formally finalised the agreement with borussia dortmund t",
     "what morgan gibbs white's agent change means for nottingham forest future: olive",
-    "\ud83d\udd35 \ud83d\udd34 official, confirmed jesse bisiwu joins barcelona from brugge on \u20ac8 5m plus s"
+    "\ud83d\udd35 \ud83d\udd34 official, confirmed jesse bisiwu joins barcelona from brugge on \u20ac8 5m plus s",
+    "man united handed clear lewis hall transfer message as newcastle take firm stanc",
+    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f filip kostic will undergo medical on wednesday as new psv eindhoven playe"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1355,7 +1355,6 @@
     "wilfried singo": "https://r2.thesportsdb.com/images/media/player/cutout/zwfgmo1769177983.png/small",
     "nico gonzalez": "https://r2.thesportsdb.com/images/media/player/cutout/e6mhnz1762288376.png/small",
     "yan couto": "https://r2.thesportsdb.com/images/media/player/cutout/hadu641756326239.png/small",
-    "mateo soule": "",
     "ousmane ndiaye": "",
     "martin": "",
     "axel donczew": "",
@@ -1365,9 +1364,10 @@
     "mishel nduka": "",
     "rodri hernandez": "",
     "junior kroupi": "",
-    "kerem alajbegovic": ""
+    "kerem alajbegovic": "",
+    "mateo soule": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

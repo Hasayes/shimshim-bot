@@ -503,7 +503,9 @@
     "00fb602eb5e658cb320714147ff1b50b",
     "45f0a0958af1e064d9b27a5ac819463d",
     "1708e6b66f1f0267961d23f551aa87ff",
-    "tg:FabrizioRomanoTG/64050"
+    "tg:FabrizioRomanoTG/64050",
+    "0cc2c3062f9af03616aa8f48e4a87b7c",
+    "tg:FabrizioRomanoTG/64051"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -841,8 +843,6 @@
     "interest: torres -> tottenham"
   ],
   "titles": [
-    "man utd prepare \u00a360m bid for top target lewis hall as fabrizio romano confirms m",
-    "former champions league title winners contact arsenal over nwaneri",
     "\u2018here we go!\u2019 fabrizio romano breakthrough as newcastle united complete \u00a325m dea",
     "romano says liverpool talks with barcola ongoing but price issue remains",
     "sources: \u00a360m liverpool transfer target \u201cinterested\u201d in arsenal move as club eye",
@@ -1140,7 +1140,9 @@
     "fabrizio romano confirms barcelona\u2019s firm stance on 26 year old star\u2019s future am",
     "liverpool news: bradley barcola talks progress as andoni iraola makes decision",
     "liverpool to bid for bradley barcola in stunning double deal as \u2018official\u2019 talks",
-    "@madridsports_ 100% hecho y la green light para viajar, pronto \u2014 fabrizio romano"
+    "@madridsports_ 100% hecho y la green light para viajar, pronto \u2014 fabrizio romano",
+    "fc barcelona news: 4 august 2026; barca finish england training camp, ferran tor",
+    "\ud83d\udea8 \ud83d\udca3 breaking: mo salah to trabzonspor, here we go! club confirms agreement in pl"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1360,7 +1362,6 @@
     "nico gonzalez": "https://r2.thesportsdb.com/images/media/player/cutout/e6mhnz1762288376.png/small",
     "yan couto": "https://r2.thesportsdb.com/images/media/player/cutout/hadu641756326239.png/small",
     "pedro neto": "https://r2.thesportsdb.com/images/media/player/cutout/g63rmf1757003837.png/small",
-    "kyle healy": "",
     "benji flowers": "",
     "mishel nduka": "",
     "rodri hernandez": "",
@@ -1371,9 +1372,10 @@
     "ousmane ndiaye": "",
     "martin": "",
     "axel donczew": "",
-    "victor froholdt": ""
+    "victor froholdt": "",
+    "kyle healy": ""
   },
-  "photo_repair_idx": 8,
+  "photo_repair_idx": 9,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

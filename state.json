@@ -1,7 +1,5 @@
 {
   "sent": [
-    "38abec705fca940c80a5c68978c89839",
-    "d4587ca9cf840cf418815f9cecedef52",
     "aa16a55674aca923d631fedc7f76df62",
     "e1d127db5004e336b4a118850fc36695",
     "afe3ed1b50411f50c803171dc97845f9",
@@ -499,7 +497,9 @@
     "31902c370ff6ffd9e011efe394203040",
     "6dedfb5ad7ca5c2be4d82f4f0c33517c",
     "744695ed6eb07fc260d00daccfbbdee8",
-    "900700be6f6e005fc963297e3e93c157"
+    "900700be6f6e005fc963297e3e93c157",
+    "57735b5b94be2cdcf68ddf60369abf9a",
+    "c050dbe905df3006fbdde4b68c3c5ebe"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -834,8 +834,6 @@
     "interest: osimhen -> tottenham"
   ],
   "titles": [
-    "cody gakpo labelled 'easy target' amid liverpool's bradley barcola chase and rio",
-    "arne engels edging towards celtic exit as west ham lead race",
     "romano drops latest update, star \u201cvery keen on liverpool\u201d move as \u201ccontacts cont",
     "bradley barcola just got closer to liverpool transfer after seismic friday updat",
     "arsenal in talks with roc nation over vinicius jr move: report",
@@ -1133,7 +1131,9 @@
     "chelsea and como reach agreement for trevoh chalobah",
     "como and chelsea agree \u20ac30m deal for trevoh chalobah",
     "liverpool submit bid worth over \u00a385 6m for second summer transfer",
-    "leipzig deny diomande to real madrid deal is done and mock romano for premature "
+    "leipzig deny diomande to real madrid deal is done and mock romano for premature ",
+    "romano drops major barcola to liverpool update after compromise confirmed",
+    "dortmund to rival atalanta and sporting lisbon for spanish winger"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1349,7 +1349,6 @@
     "dion lopy": "https://r2.thesportsdb.com/images/media/player/cutout/lnl0a01735883167.png/small",
     "francisco conceicao": "https://r2.thesportsdb.com/images/media/player/cutout/ekqivz1759225498.png/small",
     "mikey moore": "https://r2.thesportsdb.com/images/media/player/cutout/5vwygx1777017074.png/small",
-    "axel donczew": "",
     "victor froholdt": "",
     "kyle healy": "",
     "benji flowers": "",
@@ -1359,9 +1358,10 @@
     "kerem alajbegovic": "",
     "mateo soule": "",
     "ousmane ndiaye": "",
-    "martin": ""
+    "martin": "",
+    "axel donczew": ""
   },
-  "photo_repair_idx": 6,
+  "photo_repair_idx": 7,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

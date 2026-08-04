@@ -1,9 +1,5 @@
 {
   "sent": [
-    "f357fc2b9d8d9fc09c1145f163af259f",
-    "287419022e8740edc5bc8bbf75a4b849",
-    "173fe3fa05b66a7d97ce60398be489de",
-    "tg:FabrizioRomanoTG/63792",
     "ceb132e429db1334b38fae8320a475ba",
     "961eafb67408c46fd8dfb6b3011c246b",
     "76dd8f18275aab472a34301c7c98a73f",
@@ -499,7 +495,11 @@
     "e9b1a5bb93296457b518a2569d2f7265",
     "18c1db8508af8dc096419ee25b754a6f",
     "d1c698c038dc6868e29f9e241230e09c",
-    "tg:FabrizioRomanoTG/64017"
+    "tg:FabrizioRomanoTG/64017",
+    "053089de13ac27f103804aeaa8bb11cf",
+    "a259e0e933c3d941354920bf8566f29a",
+    "f67064a6d9ab50d0df575cf8d8da6844",
+    "27dcf70676c1e79e7589f8483a3c4369"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -831,13 +831,10 @@
     "interest: gyokeres -> arsenal",
     "interest: conceicao -> manchester united",
     "interest: moore -> tottenham",
-    "interest: osimhen -> tottenham"
+    "interest: osimhen -> tottenham",
+    "interest: singo -> liverpool"
   ],
   "titles": [
-    "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f matthias jaissle has signed his contract as newcastle head coach until j",
-    "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f lukas hornicek to newcastle as new goalkeeper, here we go! deal sealed w",
-    "\ud83d\udea8 \ud83c\udde6\ud83c\uddf7 facundo buonanotte, set to leave brighton with several clubs in talks to tr",
-    "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 mika godts has given green light to paris saint germain project! official ",
     "tottenham get boost in franco mastantuono chase",
     "liverpool on red alert as world cup star 'hands in transfer request'amid premier",
     "liverpool on red alert as world cup star 'hands in transfer request' amid premie",
@@ -1133,7 +1130,11 @@
     "patrice evra tells manu kone he\u2019ll \u2018do well\u2019 at premier league giants \u2013 not manc",
     "psg \u201coptimistic\u201d about ferran torres deal, talks with barcelona to \u201caccelerate\u201d ",
     "tottenham hotspur remain keen on recruiting this liverpool winger: should de zer",
-    "\ud83d\udea8 \ud83c\udde6\ud83c\uddf7 franco mastantuono will be the next one to leave real madrid on loan with f"
+    "\ud83d\udea8 \ud83c\udde6\ud83c\uddf7 franco mastantuono will be the next one to leave real madrid on loan with f",
+    "liverpool interested in galatasaray full back wilfried singo",
+    "arsenal agree \u00a380m deal for bruno guimaraes as medical scheduled, reports say",
+    "west ham increases pursuit of celtic midfielder arne engels",
+    "everton want this 20 year old raw potential: do the toffees need him or an exper"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1349,7 +1350,6 @@
     "dion lopy": "https://r2.thesportsdb.com/images/media/player/cutout/lnl0a01735883167.png/small",
     "francisco conceicao": "https://r2.thesportsdb.com/images/media/player/cutout/ekqivz1759225498.png/small",
     "mikey moore": "https://r2.thesportsdb.com/images/media/player/cutout/5vwygx1777017074.png/small",
-    "benji flowers": "",
     "mishel nduka": "",
     "rodri hernandez": "",
     "junior kroupi": "",
@@ -1359,9 +1359,11 @@
     "martin": "",
     "axel donczew": "",
     "victor froholdt": "",
-    "kyle healy": ""
+    "kyle healy": "",
+    "wilfried singo": "https://r2.thesportsdb.com/images/media/player/cutout/zwfgmo1769177983.png/small",
+    "benji flowers": ""
   },
-  "photo_repair_idx": 9,
+  "photo_repair_idx": 10,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

@@ -1354,7 +1354,6 @@
     "mikey moore": "https://r2.thesportsdb.com/images/media/player/cutout/5vwygx1777017074.png/small",
     "wilfried singo": "https://r2.thesportsdb.com/images/media/player/cutout/zwfgmo1769177983.png/small",
     "nico gonzalez": "https://r2.thesportsdb.com/images/media/player/cutout/e6mhnz1762288376.png/small",
-    "victor froholdt": "",
     "kyle healy": "",
     "benji flowers": "",
     "mishel nduka": "",
@@ -1365,9 +1364,10 @@
     "mateo soule": "",
     "ousmane ndiaye": "",
     "martin": "",
-    "axel donczew": ""
+    "axel donczew": "",
+    "victor froholdt": ""
   },
-  "photo_repair_idx": 7,
+  "photo_repair_idx": 8,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

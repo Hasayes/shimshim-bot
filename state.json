@@ -1,6 +1,5 @@
 {
   "sent": [
-    "c372b2ec0073780da5b74b267c86cd5d",
     "tg:FabrizioRomanoTG/63796",
     "tg:FabrizioRomanoTG/63797",
     "1655bf79e7fd5d2869da72cb966ffa45",
@@ -499,7 +498,8 @@
     "613da97010ab3c87ffe134b0131e3a65",
     "6f97dd118f8ab96f8f67478c3b0c0372",
     "85b841b0416f4390b4ccf1c03cb32217",
-    "3e8ecd7819753a32b3e8ce35fc31bd95"
+    "3e8ecd7819753a32b3e8ce35fc31bd95",
+    "93e9288627d415ae93e2f9b0ec4d7c42"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -836,7 +836,6 @@
     "interest: gonzalez -> inter"
   ],
   "titles": [
-    "vinicius junior ultimatum issued as arsenal plan barcelona raid",
     "sky: yan diomande could join rb leipzig's training camp in austria despite real ",
     "ac milan make nwaneri contact saturday's gossip",
     "psg\u2019s latest move could be the biggest sign yet that bradley barcola is liverpoo",
@@ -1135,7 +1134,8 @@
     "talks begin over bradley barcola for psg, liverpool",
     "nico gonzalez can attract inter and roma interest, juventus open to loan",
     "inter interested in juventus\u2019 nico gonzalez, initial contact made",
-    "barcelona and 26 year old forward locked in a waiting game over contract renewal"
+    "barcelona and 26 year old forward locked in a waiting game over contract renewal",
+    "liverpool in official talks with psg for barcola; but a huge gap in valuation st"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1352,7 +1352,6 @@
     "francisco conceicao": "https://r2.thesportsdb.com/images/media/player/cutout/ekqivz1759225498.png/small",
     "mikey moore": "https://r2.thesportsdb.com/images/media/player/cutout/5vwygx1777017074.png/small",
     "wilfried singo": "https://r2.thesportsdb.com/images/media/player/cutout/zwfgmo1769177983.png/small",
-    "benji flowers": "",
     "mishel nduka": "",
     "rodri hernandez": "",
     "junior kroupi": "",
@@ -1363,9 +1362,10 @@
     "axel donczew": "",
     "nico gonzalez": "https://r2.thesportsdb.com/images/media/player/cutout/e6mhnz1762288376.png/small",
     "victor froholdt": "",
-    "kyle healy": ""
+    "kyle healy": "",
+    "benji flowers": ""
   },
-  "photo_repair_idx": 9,
+  "photo_repair_idx": 10,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

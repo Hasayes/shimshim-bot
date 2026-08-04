@@ -1,14 +1,5 @@
 {
   "sent": [
-    "c2d8b39592e03dba58ebb294e9d5b41d",
-    "6b4182a64ffbc7357bbef95783a5e29a",
-    "tg:FabrizioRomanoTG/63784",
-    "0b8c5aefdb2bc27703b3d1e0b9e26fda",
-    "07b0bd7be7b6b988e582ca172e48f666",
-    "480314572857e714fad6ef8905fcff1c",
-    "3194249a6bd9a29727c3043ff62b8588",
-    "18e5e4b582c3ea6cfc19d7763f6c12e3",
-    "4ca491f5361188a99d02b3c7224a52c0",
     "20d624b4ca31cdda64780144da2245a5",
     "f9e09d445067a55fe59e0985c605b33f",
     "a2624f822db0759528b9143ca5e2f25c",
@@ -499,7 +490,16 @@
     "b7d2c5db9e7a3be196b40b4ef61d230a",
     "4399c66e03bb4fb3ac71a2662f4c44c4",
     "c7e42e88f926cb046435d276750c5dd0",
-    "tg:FabrizioRomanoTG/64011"
+    "tg:FabrizioRomanoTG/64011",
+    "5668708f1ae7b7fb2d9e9ae2dacf1651",
+    "dbfb5d5925fc36f7c0db1e6b425cfec1",
+    "2b9f6678caed3694b4f1870ce3cbe8e0",
+    "2603f6fca2145d79ade794c3b1e72d14",
+    "78206a419b0ab579c9c7d663c70e3a78",
+    "eda5c5384418b1fd3dc6188311a9b8fe",
+    "c40bffd5bfa88a3552cf0b627dd06320",
+    "abe7650b97e13758d8146e29235a3808",
+    "ed5d06c5bd72c0e76049a92bfdaa37bf"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -657,7 +657,8 @@
     "gutierrez -> bayer leverkusen": 1,
     "lindstr\u00f8m -> schalke 04": 1,
     "mario -> fiorentina": 1,
-    "lopy -> al ittihad": 1
+    "lopy -> al ittihad": 1,
+    "angelino -> rc deportivo de la coruna": 1
   },
   "interest": [
     "interest: alvarez -> arsenal",
@@ -832,14 +833,6 @@
     "interest: moore -> tottenham"
   ],
   "titles": [
-    "medical booked for liverpool target ahead of \u00a341m transfer \u2013 fabrizio romano",
-    "\u26aa\ufe0f \u26ab\ufe0f \ud83c\udde7\ud83c\uddf7 douglas luiz: \u201ci want to stay at juventus this summer\u201d \u201cthey are giving",
-    "rt @fabrizioromano : \ud83d\udea8 \ud83e\udd85 raphael onyedika to eintracht frankfurt, here we go! ag",
-    "celtic in transfer 'talks' with cash rich english club as star's exit nears",
-    "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 exclusive: paris saint germain open talks to sign mika godts from ajax as ",
-    "real madrid target levante forward carlos espi",
-    "@psg_report club to club done as said yesterday some details to clarify before a",
-    "\ud83d\udd34 \ud83d\udd35 \ud83d\udca5 more on mika godts and paris saint germain exclusive news paris saint germ",
     "como intensify pursuit of jhon lucumi as bologna demand \u20ac23m",
     "\ud83d\udea8 \u26aa\ufe0f \ud83d\udd35 excl: real sociedad sent official bid to wolves for czech defender ladisl",
     "rt @fabrizioromano : \ud83d\udea8 \ud83d\udd34 \ud83d\udd35 exclusive: paris saint germain open talks to sign mik",
@@ -1131,7 +1124,15 @@
     "bayern have yan diomande transfer advantage as hoene\u00df laughs off real madrid int",
     "tottenham hotspur in 'advanced' talks over bundesliga move for middlesbrough fc ",
     "cody gakpo to tottenham update as major announcement teased and man city star ta",
-    "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f vozinha has officially signed in at colo colo as new goalkeeper understa"
+    "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f vozinha has officially signed in at colo colo as new goalkeeper understa",
+    "tottenham receive official bid for star amid rangers chatter as fabrizio romano ",
+    "andoni iraola sent subtle message to richard hughes immediately after leeds coll",
+    "psg closing in on parma\u2019s zion suzuki with \u20ac33m bid amid juventus interest",
+    "arsenal transfer fee revealed by source after axel donczew passes medical",
+    "sky sports: liverpool target reaches \u201cfull verbal agreement\u201d ahead of mega money",
+    "tenth chelsea signing in london for medical with official announcement in the co",
+    "done deal: angelino set to join deportivo on loan with obligation",
+    "done deal: roma send angelino to deportivo for \u20ac2 5m"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1346,7 +1347,6 @@
     "viktor gyokeres": "https://r2.thesportsdb.com/images/media/player/cutout/ubnx241769330610.png/small",
     "dion lopy": "https://r2.thesportsdb.com/images/media/player/cutout/lnl0a01735883167.png/small",
     "francisco conceicao": "https://r2.thesportsdb.com/images/media/player/cutout/ekqivz1759225498.png/small",
-    "martin": "",
     "axel donczew": "",
     "victor froholdt": "",
     "mikey moore": "https://r2.thesportsdb.com/images/media/player/cutout/5vwygx1777017074.png/small",
@@ -1357,9 +1357,10 @@
     "junior kroupi": "",
     "kerem alajbegovic": "",
     "mateo soule": "",
-    "ousmane ndiaye": ""
+    "ousmane ndiaye": "",
+    "martin": ""
   },
-  "photo_repair_idx": 5,
+  "photo_repair_idx": 6,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",
@@ -1486,6 +1487,7 @@
     "sc braga": "https://r2.thesportsdb.com/images/media/team/badge/8g4aod1678717261.png/small",
     "rayo vallecano": "https://r2.thesportsdb.com/images/media/team/badge/nzhu941655595465.png/small",
     "almeria": "https://r2.thesportsdb.com/images/media/team/badge/yswsww1473503818.png/small",
-    "al ittihad": "https://images.fotmob.com/image_resources/logo/teamlogo/8577.png"
+    "al ittihad": "https://images.fotmob.com/image_resources/logo/teamlogo/8577.png",
+    "rc deportivo de la coruna": ""
   }
 }

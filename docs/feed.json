@@ -1,5 +1,24 @@
 [
  {
+  "id": "abe7650b97e13758d8146e29235a3808",
+  "ts": "2026-08-04T00:32:06+00:00",
+  "kind": "deal",
+  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/5pw52n1758816456.png/small",
+  "stage": "Here we go",
+  "player": "Angelino",
+  "position": "Left-back",
+  "age": "28",
+  "from_club": "AS Roma",
+  "to_club": "RC Deportivo de La Coru\u00f1a",
+  "fee": "Loan with obligation to buy",
+  "style": "Attack-minded left-back who pushes high, delivers dangerous crosses, and contributes effectively in the final third.",
+  "fit": "Brings top-flight experience and Spanish football familiarity to Deportivo, providing quality and versatility on the left flank.",
+  "source": "Gianluca Di Marzio / Sky Sport",
+  "outlet": "yahoo",
+  "url": "https://sports.yahoo.com/articles/done-deal-angelino-set-join-121000775.html",
+  "title": "Done deal: Angelino set to join Deportivo on loan with obligation"
+ },
+ {
   "id": "4399c66e03bb4fb3ac71a2662f4c44c4",
   "ts": "2026-08-03T22:45:34+00:00",
   "kind": "interest",

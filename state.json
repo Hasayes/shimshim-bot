@@ -1,6 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/63794",
     "tg:FabrizioRomanoTG/63795",
     "c372b2ec0073780da5b74b267c86cd5d",
     "tg:FabrizioRomanoTG/63796",
@@ -499,7 +498,8 @@
     "tg:FabrizioRomanoTG/64020",
     "2d57eaccb9ef101434eef5016fd682f6",
     "613da97010ab3c87ffe134b0131e3a65",
-    "6f97dd118f8ab96f8f67478c3b0c0372"
+    "6f97dd118f8ab96f8f67478c3b0c0372",
+    "85b841b0416f4390b4ccf1c03cb32217"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -832,10 +832,10 @@
     "interest: conceicao -> manchester united",
     "interest: moore -> tottenham",
     "interest: osimhen -> tottenham",
-    "interest: singo -> liverpool"
+    "interest: singo -> liverpool",
+    "interest: gonzalez -> inter"
   ],
   "titles": [
-    "psg open talks for ajax star as liverpool linked bradley barcola exit looms",
     "\ud83d\udea8 yan diomande, not even on the bench and out of rb leipzig squad today as he\u2019s ",
     "vinicius junior ultimatum issued as arsenal plan barcelona raid",
     "sky: yan diomande could join rb leipzig's training camp in austria despite real ",
@@ -1134,7 +1134,8 @@
     "fabrizio romano: juventus want to sign tottenham star guglielmo vicario",
     "\ud83d\udea8 \ud83e\ude75 manchester city have sent first official bid today to olympique marseille fo",
     "talks begin over bradley barcola for psg, liverpool",
-    "nico gonzalez can attract inter and roma interest, juventus open to loan"
+    "nico gonzalez can attract inter and roma interest, juventus open to loan",
+    "inter interested in juventus\u2019 nico gonzalez, initial contact made"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1350,7 +1351,6 @@
     "dion lopy": "https://r2.thesportsdb.com/images/media/player/cutout/lnl0a01735883167.png/small",
     "francisco conceicao": "https://r2.thesportsdb.com/images/media/player/cutout/ekqivz1759225498.png/small",
     "mikey moore": "https://r2.thesportsdb.com/images/media/player/cutout/5vwygx1777017074.png/small",
-    "victor froholdt": "",
     "kyle healy": "",
     "wilfried singo": "https://r2.thesportsdb.com/images/media/player/cutout/zwfgmo1769177983.png/small",
     "benji flowers": "",
@@ -1361,9 +1361,11 @@
     "mateo soule": "",
     "ousmane ndiaye": "",
     "martin": "",
-    "axel donczew": ""
+    "axel donczew": "",
+    "nico gonzalez": "https://r2.thesportsdb.com/images/media/player/cutout/e6mhnz1762288376.png/small",
+    "victor froholdt": ""
   },
-  "photo_repair_idx": 7,
+  "photo_repair_idx": 8,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",
@@ -1491,6 +1493,7 @@
     "rayo vallecano": "https://r2.thesportsdb.com/images/media/team/badge/nzhu941655595465.png/small",
     "almeria": "https://r2.thesportsdb.com/images/media/team/badge/yswsww1473503818.png/small",
     "al ittihad": "https://images.fotmob.com/image_resources/logo/teamlogo/8577.png",
-    "rc deportivo de la coruna": ""
+    "rc deportivo de la coruna": "",
+    "inter": "https://images.fotmob.com/image_resources/logo/teamlogo/8636.png"
   }
 }

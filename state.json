@@ -500,7 +500,10 @@
     "f6563fec98cddb508e767e9bd308c88d",
     "1205648bff14bef4354e3472faf98c90",
     "tg:FabrizioRomanoTG/64049",
-    "00fb602eb5e658cb320714147ff1b50b"
+    "00fb602eb5e658cb320714147ff1b50b",
+    "45f0a0958af1e064d9b27a5ac819463d",
+    "1708e6b66f1f0267961d23f551aa87ff",
+    "tg:FabrizioRomanoTG/64050"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -838,9 +841,6 @@
     "interest: torres -> tottenham"
   ],
   "titles": [
-    "wolves reject lowball real sociedad bid for ladislav krejci",
-    "romano reveals next man utd transfer has been \u2018approved\u2019 as newcastle chaos cont",
-    "contract signed: newcastle united\u2019s \u20ac11m deal confirmed by fabrizio romano",
     "man utd prepare \u00a360m bid for top target lewis hall as fabrizio romano confirms m",
     "former champions league title winners contact arsenal over nwaneri",
     "\u2018here we go!\u2019 fabrizio romano breakthrough as newcastle united complete \u00a325m dea",
@@ -1137,7 +1137,10 @@
     "manchester city delay talks for midfield ace\u2019s sale to real madrid as barcelona ",
     "tottenham target torres opens door to transfer amid 'concrete' update",
     "\ud83d\udea8 \ud83c\udf52 juanlu travels to england tomorrow to complete his move as new bournemouth p",
-    "fabrizio romano confirms barcelona\u2019s firm stance on 26 year old star\u2019s future am"
+    "fabrizio romano confirms barcelona\u2019s firm stance on 26 year old star\u2019s future am",
+    "liverpool news: bradley barcola talks progress as andoni iraola makes decision",
+    "liverpool to bid for bradley barcola in stunning double deal as \u2018official\u2019 talks",
+    "@madridsports_ 100% hecho y la green light para viajar, pronto \u2014 fabrizio romano"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1357,7 +1360,6 @@
     "nico gonzalez": "https://r2.thesportsdb.com/images/media/player/cutout/e6mhnz1762288376.png/small",
     "yan couto": "https://r2.thesportsdb.com/images/media/player/cutout/hadu641756326239.png/small",
     "pedro neto": "https://r2.thesportsdb.com/images/media/player/cutout/g63rmf1757003837.png/small",
-    "mateo soule": "",
     "ousmane ndiaye": "",
     "martin": "",
     "axel donczew": "",
@@ -1368,9 +1370,10 @@
     "rodri hernandez": "",
     "juanlu": "https://r2.thesportsdb.com/images/media/player/cutout/ut8z8e1762859860.png/small",
     "junior kroupi": "",
-    "kerem alajbegovic": ""
+    "kerem alajbegovic": "",
+    "mateo soule": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

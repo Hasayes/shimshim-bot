@@ -1357,7 +1357,6 @@
     "nico gonzalez": "https://r2.thesportsdb.com/images/media/player/cutout/e6mhnz1762288376.png/small",
     "yan couto": "https://r2.thesportsdb.com/images/media/player/cutout/hadu641756326239.png/small",
     "pedro neto": "https://r2.thesportsdb.com/images/media/player/cutout/g63rmf1757003837.png/small",
-    "benji flowers": "",
     "mishel nduka": "",
     "rodri hernandez": "",
     "junior kroupi": "",
@@ -1367,9 +1366,10 @@
     "martin": "",
     "axel donczew": "",
     "victor froholdt": "",
-    "kyle healy": ""
+    "kyle healy": "",
+    "benji flowers": ""
   },
-  "photo_repair_idx": 9,
+  "photo_repair_idx": 10,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

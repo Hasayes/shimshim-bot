@@ -505,7 +505,9 @@
     "1708e6b66f1f0267961d23f551aa87ff",
     "tg:FabrizioRomanoTG/64050",
     "0cc2c3062f9af03616aa8f48e4a87b7c",
-    "tg:FabrizioRomanoTG/64051"
+    "tg:FabrizioRomanoTG/64051",
+    "tg:FabrizioRomanoTG/64052",
+    "tg:FabrizioRomanoTG/64053"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -843,8 +845,6 @@
     "interest: torres -> tottenham"
   ],
   "titles": [
-    "\u2018here we go!\u2019 fabrizio romano breakthrough as newcastle united complete \u00a325m dea",
-    "romano says liverpool talks with barcola ongoing but price issue remains",
     "sources: \u00a360m liverpool transfer target \u201cinterested\u201d in arsenal move as club eye",
     "psg in talks with ajax to sign belgian winger mika godts",
     "newcastle set to announce \u20ac11 million move after eddie howe\u2019s exit",
@@ -1142,7 +1142,9 @@
     "liverpool to bid for bradley barcola in stunning double deal as \u2018official\u2019 talks",
     "@madridsports_ 100% hecho y la green light para viajar, pronto \u2014 fabrizio romano",
     "fc barcelona news: 4 august 2026; barca finish england training camp, ferran tor",
-    "\ud83d\udea8 \ud83d\udca3 breaking: mo salah to trabzonspor, here we go! club confirms agreement in pl"
+    "\ud83d\udea8 \ud83d\udca3 breaking: mo salah to trabzonspor, here we go! club confirms agreement in pl",
+    "\ud83d\udea8 \ud83d\udd34 liverpool have made contact with ibrahima mbaye\u2019s new agent jorge mendes mba",
+    "\ud83d\udea8 \ud83c\uddf8\ud83c\uddf3 bayer leverkusen have also sent a proposal to psg for ibrahima mbaye as tal"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1362,7 +1364,6 @@
     "nico gonzalez": "https://r2.thesportsdb.com/images/media/player/cutout/e6mhnz1762288376.png/small",
     "yan couto": "https://r2.thesportsdb.com/images/media/player/cutout/hadu641756326239.png/small",
     "pedro neto": "https://r2.thesportsdb.com/images/media/player/cutout/g63rmf1757003837.png/small",
-    "mishel nduka": "",
     "rodri hernandez": "",
     "juanlu": "https://r2.thesportsdb.com/images/media/player/cutout/ut8z8e1762859860.png/small",
     "junior kroupi": "",
@@ -1373,9 +1374,10 @@
     "axel donczew": "",
     "victor froholdt": "",
     "kyle healy": "",
-    "benji flowers": ""
+    "benji flowers": "",
+    "mishel nduka": ""
   },
-  "photo_repair_idx": 10,
+  "photo_repair_idx": 11,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

@@ -1,6 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/63814",
     "c30c2f46c459df682ba8e4ac8ee48dc2",
     "tg:FabrizioRomanoTG/63817",
     "tg:FabrizioRomanoTG/63818",
@@ -499,7 +498,8 @@
     "tg:FabrizioRomanoTG/64027",
     "a93f0ac2423f73d6b7cac7113cc4f8bf",
     "tg:FabrizioRomanoTG/64032",
-    "tg:FabrizioRomanoTG/64034"
+    "tg:FabrizioRomanoTG/64034",
+    "tg:FabrizioRomanoTG/64035"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -837,7 +837,6 @@
     "interest: gonzalez -> inter"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83d\udd35 excl: chelsea improve their bid for pep chavarria as negotiations with rayo ",
     "\ud83d\udea8 \ud83d\udd35 joao pedro will sign new long term contract at chelsea in the upcoming days,",
     "\ud83d\udcfa new youtube video uploaded! \ud83c\udfac \ud83d\udea8 \ud83d\udca3 6 top players domino! arsenal boom! ferran, ",
     "\ud83d\udea8 \ud83d\udfe1 excl: peter gulacsi to villarreal, here we go! deal done after story reveale",
@@ -1136,7 +1135,8 @@
     "\ud83d\udd35 \ud83d\udd34 official, confirmed jesse bisiwu joins barcelona from brugge on \u20ac8 5m plus s",
     "man united handed clear lewis hall transfer message as newcastle take firm stanc",
     "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f filip kostic will undergo medical on wednesday as new psv eindhoven playe",
-    "\ud83d\udea8 \ud83c\uddf3\ud83c\uddf1 nottingham forest are showing interest in tijjani reijnders as new midfield"
+    "\ud83d\udea8 \ud83c\uddf3\ud83c\uddf1 nottingham forest are showing interest in tijjani reijnders as new midfield",
+    "rt @fabrizioromano : \ud83d\udea8 \ud83d\udd35 excl: chelsea improve their bid for pep chavarria as ne"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1355,7 +1355,6 @@
     "wilfried singo": "https://r2.thesportsdb.com/images/media/player/cutout/zwfgmo1769177983.png/small",
     "nico gonzalez": "https://r2.thesportsdb.com/images/media/player/cutout/e6mhnz1762288376.png/small",
     "yan couto": "https://r2.thesportsdb.com/images/media/player/cutout/hadu641756326239.png/small",
-    "kyle healy": "",
     "benji flowers": "",
     "mishel nduka": "",
     "rodri hernandez": "",
@@ -1365,9 +1364,10 @@
     "ousmane ndiaye": "",
     "martin": "",
     "axel donczew": "",
-    "victor froholdt": ""
+    "victor froholdt": "",
+    "kyle healy": ""
   },
-  "photo_repair_idx": 8,
+  "photo_repair_idx": 9,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

@@ -1,6 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/63793",
     "tg:FabrizioRomanoTG/63794",
     "tg:FabrizioRomanoTG/63795",
     "c372b2ec0073780da5b74b267c86cd5d",
@@ -499,7 +498,8 @@
     "9bff1f18712aa8b872a52523dec4d747",
     "tg:FabrizioRomanoTG/64020",
     "2d57eaccb9ef101434eef5016fd682f6",
-    "613da97010ab3c87ffe134b0131e3a65"
+    "613da97010ab3c87ffe134b0131e3a65",
+    "6f97dd118f8ab96f8f67478c3b0c0372"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -835,7 +835,6 @@
     "interest: singo -> liverpool"
   ],
   "titles": [
-    "\ud83d\udfe1 \ud83d\udd34 \u2708\ufe0f konstantinos koulierakis and his agent paschalis tountouris from as1 on t",
     "psg open talks for ajax star as liverpool linked bradley barcola exit looms",
     "\ud83d\udea8 yan diomande, not even on the bench and out of rb leipzig squad today as he\u2019s ",
     "vinicius junior ultimatum issued as arsenal plan barcelona raid",
@@ -1134,7 +1133,8 @@
     "everton want this 20 year old raw potential: do the toffees need him or an exper",
     "fabrizio romano: juventus want to sign tottenham star guglielmo vicario",
     "\ud83d\udea8 \ud83e\ude75 manchester city have sent first official bid today to olympique marseille fo",
-    "talks begin over bradley barcola for psg, liverpool"
+    "talks begin over bradley barcola for psg, liverpool",
+    "nico gonzalez can attract inter and roma interest, juventus open to loan"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1350,7 +1350,6 @@
     "dion lopy": "https://r2.thesportsdb.com/images/media/player/cutout/lnl0a01735883167.png/small",
     "francisco conceicao": "https://r2.thesportsdb.com/images/media/player/cutout/ekqivz1759225498.png/small",
     "mikey moore": "https://r2.thesportsdb.com/images/media/player/cutout/5vwygx1777017074.png/small",
-    "martin": "",
     "axel donczew": "",
     "victor froholdt": "",
     "kyle healy": "",
@@ -1361,9 +1360,10 @@
     "junior kroupi": "",
     "kerem alajbegovic": "",
     "mateo soule": "",
-    "ousmane ndiaye": ""
+    "ousmane ndiaye": "",
+    "martin": ""
   },
-  "photo_repair_idx": 5,
+  "photo_repair_idx": 6,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

@@ -1,6 +1,5 @@
 {
   "sent": [
-    "961eafb67408c46fd8dfb6b3011c246b",
     "76dd8f18275aab472a34301c7c98a73f",
     "b90e33562680d2d5be1093a924f1e7fd",
     "tg:FabrizioRomanoTG/63793",
@@ -499,7 +498,8 @@
     "a259e0e933c3d941354920bf8566f29a",
     "f67064a6d9ab50d0df575cf8d8da6844",
     "27dcf70676c1e79e7589f8483a3c4369",
-    "9bff1f18712aa8b872a52523dec4d747"
+    "9bff1f18712aa8b872a52523dec4d747",
+    "tg:FabrizioRomanoTG/64020"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -835,7 +835,6 @@
     "interest: singo -> liverpool"
   ],
   "titles": [
-    "liverpool on red alert as world cup star 'hands in transfer request'amid premier",
     "liverpool on red alert as world cup star 'hands in transfer request' amid premie",
     "\ud83d\udfe1 \ud83d\udd34 \u2708\ufe0f konstantinos koulierakis and his agent paschalis tountouris from as1 on t",
     "psg open talks for ajax star as liverpool linked bradley barcola exit looms",
@@ -1134,7 +1133,8 @@
     "arsenal agree \u00a380m deal for bruno guimaraes as medical scheduled, reports say",
     "west ham increases pursuit of celtic midfielder arne engels",
     "everton want this 20 year old raw potential: do the toffees need him or an exper",
-    "fabrizio romano: juventus want to sign tottenham star guglielmo vicario"
+    "fabrizio romano: juventus want to sign tottenham star guglielmo vicario",
+    "\ud83d\udea8 \ud83e\ude75 manchester city have sent first official bid today to olympique marseille fo"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1350,7 +1350,6 @@
     "dion lopy": "https://r2.thesportsdb.com/images/media/player/cutout/lnl0a01735883167.png/small",
     "francisco conceicao": "https://r2.thesportsdb.com/images/media/player/cutout/ekqivz1759225498.png/small",
     "mikey moore": "https://r2.thesportsdb.com/images/media/player/cutout/5vwygx1777017074.png/small",
-    "mateo soule": "",
     "ousmane ndiaye": "",
     "martin": "",
     "axel donczew": "",
@@ -1361,9 +1360,10 @@
     "mishel nduka": "",
     "rodri hernandez": "",
     "junior kroupi": "",
-    "kerem alajbegovic": ""
+    "kerem alajbegovic": "",
+    "mateo soule": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

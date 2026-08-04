@@ -1,6 +1,5 @@
 {
   "sent": [
-    "20d624b4ca31cdda64780144da2245a5",
     "f9e09d445067a55fe59e0985c605b33f",
     "a2624f822db0759528b9143ca5e2f25c",
     "7bac6afdb034bc471717d7dc2e433edd",
@@ -499,7 +498,8 @@
     "eda5c5384418b1fd3dc6188311a9b8fe",
     "c40bffd5bfa88a3552cf0b627dd06320",
     "abe7650b97e13758d8146e29235a3808",
-    "ed5d06c5bd72c0e76049a92bfdaa37bf"
+    "ed5d06c5bd72c0e76049a92bfdaa37bf",
+    "44dd6e9ba2bad096d125156ce1a10398"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -833,7 +833,6 @@
     "interest: moore -> tottenham"
   ],
   "titles": [
-    "como intensify pursuit of jhon lucumi as bologna demand \u20ac23m",
     "\ud83d\udea8 \u26aa\ufe0f \ud83d\udd35 excl: real sociedad sent official bid to wolves for czech defender ladisl",
     "rt @fabrizioromano : \ud83d\udea8 \ud83d\udd34 \ud83d\udd35 exclusive: paris saint germain open talks to sign mik",
     "rt @fabrizioromano : \ud83d\udea8 \ud83d\udca3 breaking: yan diomande to real madrid, here we go! \u26aa\ufe0f \u2728",
@@ -1132,7 +1131,8 @@
     "sky sports: liverpool target reaches \u201cfull verbal agreement\u201d ahead of mega money",
     "tenth chelsea signing in london for medical with official announcement in the co",
     "done deal: angelino set to join deportivo on loan with obligation",
-    "done deal: roma send angelino to deportivo for \u20ac2 5m"
+    "done deal: roma send angelino to deportivo for \u20ac2 5m",
+    "rb leipzig director dismisses \u2018here we go\u2019 claims for yan diomande to real madri"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1347,7 +1347,6 @@
     "viktor gyokeres": "https://r2.thesportsdb.com/images/media/player/cutout/ubnx241769330610.png/small",
     "dion lopy": "https://r2.thesportsdb.com/images/media/player/cutout/lnl0a01735883167.png/small",
     "francisco conceicao": "https://r2.thesportsdb.com/images/media/player/cutout/ekqivz1759225498.png/small",
-    "axel donczew": "",
     "victor froholdt": "",
     "mikey moore": "https://r2.thesportsdb.com/images/media/player/cutout/5vwygx1777017074.png/small",
     "kyle healy": "",
@@ -1358,9 +1357,10 @@
     "kerem alajbegovic": "",
     "mateo soule": "",
     "ousmane ndiaye": "",
-    "martin": ""
+    "martin": "",
+    "axel donczew": ""
   },
-  "photo_repair_idx": 6,
+  "photo_repair_idx": 7,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

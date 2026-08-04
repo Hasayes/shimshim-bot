@@ -1,6 +1,5 @@
 {
   "sent": [
-    "6610caa0b23cc179f3edd9c2958dbf30",
     "7fd3f0d2dcb2f0df4f7334501511b2f3",
     "e140f0d4e3604a2bff89cde35035008d",
     "962b185ecb734ee7b232d5294a37c702",
@@ -499,7 +498,8 @@
     "tg:FabrizioRomanoTG/64046",
     "6bbbe32fe39ab99c5735d65e99066df4",
     "tg:FabrizioRomanoTG/64048",
-    "411937eb75f266301fbb92a96ef4c36f"
+    "411937eb75f266301fbb92a96ef4c36f",
+    "588dac5ee335539fb264ffe96b885dfc"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -838,7 +838,6 @@
     "interest: neto -> manchester city"
   ],
   "titles": [
-    "\u26aa\ufe0f \u26ab\ufe0f \ud83c\udde7\ud83c\udde6 juventus new signing kerim alajbegovic has just arrived in turin here w",
     "\u201clet me clarify \u201d \u2013 fabrizio romano speaks out on liverpool transfer links with ",
     "\u201cman united are not done\u201d \u2013 fabrizio romano provides exciting update on \u201ctop tar",
     "yan diomande latest as real madrid 'push' to complete transfer with arsenal hope",
@@ -1137,7 +1136,8 @@
     "rt @themadridzone : \ud83d\udea8 confirmed: everything about the yan diomande deal has been",
     "\"very close \" fabrizio romano provides latest update on bruno guimaraes to arsen",
     "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f como reach verbal agreement with borussia dortmund for yan couto, here we",
-    "five alternative left backs man utd could target after lewis hall \u2018setback\u2019"
+    "five alternative left backs man utd could target after lewis hall \u2018setback\u2019",
+    "transfer news live: guimaraes to arsenal done deal, vinicius offer; new man utd "
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1356,7 +1356,6 @@
     "wilfried singo": "https://r2.thesportsdb.com/images/media/player/cutout/zwfgmo1769177983.png/small",
     "nico gonzalez": "https://r2.thesportsdb.com/images/media/player/cutout/e6mhnz1762288376.png/small",
     "yan couto": "https://r2.thesportsdb.com/images/media/player/cutout/hadu641756326239.png/small",
-    "kyle healy": "",
     "pedro neto": "https://r2.thesportsdb.com/images/media/player/cutout/g63rmf1757003837.png/small",
     "benji flowers": "",
     "mishel nduka": "",
@@ -1367,9 +1366,10 @@
     "ousmane ndiaye": "",
     "martin": "",
     "axel donczew": "",
-    "victor froholdt": ""
+    "victor froholdt": "",
+    "kyle healy": ""
   },
-  "photo_repair_idx": 8,
+  "photo_repair_idx": 9,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

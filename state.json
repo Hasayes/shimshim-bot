@@ -1,7 +1,5 @@
 {
   "sent": [
-    "6d5a1cd1676af79e37ce87e737c6b4d1",
-    "tg:FabrizioRomanoTG/63809",
     "tg:FabrizioRomanoTG/63810",
     "d83098d32c5ac895fcd71d945ec06c0b",
     "tg:FabrizioRomanoTG/63811",
@@ -499,7 +497,9 @@
     "8e42050be13052929768206e6d881ba8",
     "tg:FabrizioRomanoTG/64021",
     "0deefa86c8146829f37cd4d1e6430346",
-    "tg:FabrizioRomanoTG/64022"
+    "tg:FabrizioRomanoTG/64022",
+    "6a58a6479c0cd84eeebf7d22a2153279",
+    "tg:FabrizioRomanoTG/64024"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -658,7 +658,8 @@
     "lindstr\u00f8m -> schalke 04": 1,
     "mario -> fiorentina": 1,
     "lopy -> al ittihad": 1,
-    "angelino -> rc deportivo de la coruna": 1
+    "angelino -> rc deportivo de la coruna": 1,
+    "couto -> como": 1
   },
   "interest": [
     "interest: alvarez -> arsenal",
@@ -836,8 +837,6 @@
     "interest: gonzalez -> inter"
   ],
   "titles": [
-    "rb leipzig leaves real madrid on read over yan diomande",
-    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f excl: everton are interested in man united talented striker ethan wheatle",
     "\ud83d\udea8 \ud83c\uddea\ud83c\uddf8 paris saint germain remain in direct talks with ferran torres camp over mov",
     "psg making push to get mika godts",
     "rt @fabrizioromano : \ud83d\udea8 \ud83c\uddea\ud83c\uddf8 paris saint germain remain in direct talks with ferran",
@@ -1135,7 +1134,9 @@
     "liverpool in talks for andoni iraola priority signing as psg 'book medical' for ",
     "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f marc andre ter stegen, confirmed as new ajax player on loan from barcelon",
     "gio reyna finally escapes germany with \u20ac3m move to strasbourg",
-    "\ud83d\udea8 official: werder bremen centre back karim coulibaly signs with roc nation as n"
+    "\ud83d\udea8 official: werder bremen centre back karim coulibaly signs with roc nation as n",
+    "'it's not true' leipzig\u2019s director hits out at fabrizio romano over diomande dea",
+    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f excl: como have formally finalised the agreement with borussia dortmund t"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1353,7 +1354,6 @@
     "mikey moore": "https://r2.thesportsdb.com/images/media/player/cutout/5vwygx1777017074.png/small",
     "wilfried singo": "https://r2.thesportsdb.com/images/media/player/cutout/zwfgmo1769177983.png/small",
     "nico gonzalez": "https://r2.thesportsdb.com/images/media/player/cutout/e6mhnz1762288376.png/small",
-    "rodri hernandez": "",
     "junior kroupi": "",
     "kerem alajbegovic": "",
     "mateo soule": "",
@@ -1363,9 +1363,11 @@
     "victor froholdt": "",
     "kyle healy": "",
     "benji flowers": "",
-    "mishel nduka": ""
+    "mishel nduka": "",
+    "yan couto": "https://r2.thesportsdb.com/images/media/player/cutout/hadu641756326239.png/small",
+    "rodri hernandez": ""
   },
-  "photo_repair_idx": 11,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

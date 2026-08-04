@@ -1,6 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/63788",
     "e7e4ff99a02679c857ba2f322171960e",
     "3cfa9d372f9edfd19bf489865297e453",
     "c41bbaab3be7289387cd43208b5b37ba",
@@ -499,7 +498,8 @@
     "e7713ced936e681923c258955fce5406",
     "03446ee69e3e2c41f727651efb529aef",
     "b34786a04c4bcb8c3a5401634116c957",
-    "66e3db7489b899cf2774f10b89480b77"
+    "66e3db7489b899cf2774f10b89480b77",
+    "6128c3fef69e40672629296cab7deee6"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -834,7 +834,6 @@
     "interest: osimhen -> tottenham"
   ],
   "titles": [
-    "bournemouth transfer news: cherries receive 'green light' to complete \u00a326m anton",
     "ter stegen joins ajax on loan, ends 9 year barcelona career",
     "andoni iraola has seen enough, it\u2019s the end of the line for \u2018average\u2019 liverpool ",
     "transfer updates: delap, bouaddi, orlando gill, conceicao, guimaraes, others",
@@ -1133,7 +1132,8 @@
     "rb leipzig director dismisses \u2018here we go\u2019 claims for yan diomande to real madri",
     "transfer updates: osimhen, guimaraes, vinicius, grealish, gakpo, others",
     "watch video: bernardo silva joins real madrid training, fans give portuguese sta",
-    "fabrizio romano: liverpool open talks to sign bradley barcola"
+    "fabrizio romano: liverpool open talks to sign bradley barcola",
+    "chelsea defender trevoh chalobah agrees como transfer"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1349,7 +1349,6 @@
     "dion lopy": "https://r2.thesportsdb.com/images/media/player/cutout/lnl0a01735883167.png/small",
     "francisco conceicao": "https://r2.thesportsdb.com/images/media/player/cutout/ekqivz1759225498.png/small",
     "mikey moore": "https://r2.thesportsdb.com/images/media/player/cutout/5vwygx1777017074.png/small",
-    "kerem alajbegovic": "",
     "mateo soule": "",
     "ousmane ndiaye": "",
     "martin": "",
@@ -1359,9 +1358,10 @@
     "benji flowers": "",
     "mishel nduka": "",
     "rodri hernandez": "",
-    "junior kroupi": ""
+    "junior kroupi": "",
+    "kerem alajbegovic": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

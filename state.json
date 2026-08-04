@@ -1,7 +1,5 @@
 {
   "sent": [
-    "7fd3f0d2dcb2f0df4f7334501511b2f3",
-    "e140f0d4e3604a2bff89cde35035008d",
     "962b185ecb734ee7b232d5294a37c702",
     "5281e069f36203189aad5f2cea13e43c",
     "be726b768ab318cfa55dfc8119889ee1",
@@ -499,7 +497,9 @@
     "6bbbe32fe39ab99c5735d65e99066df4",
     "tg:FabrizioRomanoTG/64048",
     "411937eb75f266301fbb92a96ef4c36f",
-    "588dac5ee335539fb264ffe96b885dfc"
+    "588dac5ee335539fb264ffe96b885dfc",
+    "203538a5000bb223544cfd429cd91dd5",
+    "f6563fec98cddb508e767e9bd308c88d"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -838,8 +838,6 @@
     "interest: neto -> manchester city"
   ],
   "titles": [
-    "\u201clet me clarify \u201d \u2013 fabrizio romano speaks out on liverpool transfer links with ",
-    "\u201cman united are not done\u201d \u2013 fabrizio romano provides exciting update on \u201ctop tar",
     "yan diomande latest as real madrid 'push' to complete transfer with arsenal hope",
     "negotiations stall as rb leipzig do not respond to real madrid\u2019s latest offer fo",
     "no breakthrough yet but liverpool still \u201cworking\u201d to agree transfer on their ter",
@@ -1137,7 +1135,9 @@
     "\"very close \" fabrizio romano provides latest update on bruno guimaraes to arsen",
     "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f como reach verbal agreement with borussia dortmund for yan couto, here we",
     "five alternative left backs man utd could target after lewis hall \u2018setback\u2019",
-    "transfer news live: guimaraes to arsenal done deal, vinicius offer; new man utd "
+    "transfer news live: guimaraes to arsenal done deal, vinicius offer; new man utd ",
+    "endrick remains roma\u2019s top objective",
+    "manchester city delay talks for midfield ace\u2019s sale to real madrid as barcelona "
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1357,7 +1357,6 @@
     "nico gonzalez": "https://r2.thesportsdb.com/images/media/player/cutout/e6mhnz1762288376.png/small",
     "yan couto": "https://r2.thesportsdb.com/images/media/player/cutout/hadu641756326239.png/small",
     "pedro neto": "https://r2.thesportsdb.com/images/media/player/cutout/g63rmf1757003837.png/small",
-    "rodri hernandez": "",
     "junior kroupi": "",
     "kerem alajbegovic": "",
     "mateo soule": "",
@@ -1367,9 +1366,10 @@
     "victor froholdt": "",
     "kyle healy": "",
     "benji flowers": "",
-    "mishel nduka": ""
+    "mishel nduka": "",
+    "rodri hernandez": ""
   },
-  "photo_repair_idx": 11,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

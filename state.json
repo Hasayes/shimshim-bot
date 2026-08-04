@@ -1,6 +1,5 @@
 {
   "sent": [
-    "5865962fd2cf08db731af1cc14c1a74a",
     "38abec705fca940c80a5c68978c89839",
     "d4587ca9cf840cf418815f9cecedef52",
     "aa16a55674aca923d631fedc7f76df62",
@@ -499,7 +498,8 @@
     "6128c3fef69e40672629296cab7deee6",
     "31902c370ff6ffd9e011efe394203040",
     "6dedfb5ad7ca5c2be4d82f4f0c33517c",
-    "744695ed6eb07fc260d00daccfbbdee8"
+    "744695ed6eb07fc260d00daccfbbdee8",
+    "900700be6f6e005fc963297e3e93c157"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -834,7 +834,6 @@
     "interest: osimhen -> tottenham"
   ],
   "titles": [
-    "romano delivers friday liverpool transfer update on bradley barcola",
     "cody gakpo labelled 'easy target' amid liverpool's bradley barcola chase and rio",
     "arne engels edging towards celtic exit as west ham lead race",
     "romano drops latest update, star \u201cvery keen on liverpool\u201d move as \u201ccontacts cont",
@@ -1133,7 +1132,8 @@
     "chelsea defender trevoh chalobah agrees como transfer",
     "chelsea and como reach agreement for trevoh chalobah",
     "como and chelsea agree \u20ac30m deal for trevoh chalobah",
-    "liverpool submit bid worth over \u00a385 6m for second summer transfer"
+    "liverpool submit bid worth over \u00a385 6m for second summer transfer",
+    "leipzig deny diomande to real madrid deal is done and mock romano for premature "
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1349,7 +1349,6 @@
     "dion lopy": "https://r2.thesportsdb.com/images/media/player/cutout/lnl0a01735883167.png/small",
     "francisco conceicao": "https://r2.thesportsdb.com/images/media/player/cutout/ekqivz1759225498.png/small",
     "mikey moore": "https://r2.thesportsdb.com/images/media/player/cutout/5vwygx1777017074.png/small",
-    "martin": "",
     "axel donczew": "",
     "victor froholdt": "",
     "kyle healy": "",
@@ -1359,9 +1358,10 @@
     "junior kroupi": "",
     "kerem alajbegovic": "",
     "mateo soule": "",
-    "ousmane ndiaye": ""
+    "ousmane ndiaye": "",
+    "martin": ""
   },
-  "photo_repair_idx": 5,
+  "photo_repair_idx": 6,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

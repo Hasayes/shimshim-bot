@@ -1,9 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/63796",
-    "tg:FabrizioRomanoTG/63797",
-    "1655bf79e7fd5d2869da72cb966ffa45",
-    "tg:FabrizioRomanoTG/63805",
     "a8a52a7fdd5ee226f1caed567f0636b6",
     "5045571df87f7a219b95f2090586459c",
     "6d5a1cd1676af79e37ce87e737c6b4d1",
@@ -499,7 +495,11 @@
     "6f97dd118f8ab96f8f67478c3b0c0372",
     "85b841b0416f4390b4ccf1c03cb32217",
     "3e8ecd7819753a32b3e8ce35fc31bd95",
-    "93e9288627d415ae93e2f9b0ec4d7c42"
+    "93e9288627d415ae93e2f9b0ec4d7c42",
+    "aebb1cf1867fc19fc3c6498bcbf1ea3f",
+    "58b8560d9a52e117bf4b8294a6794693",
+    "8e42050be13052929768206e6d881ba8",
+    "tg:FabrizioRomanoTG/64021"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -836,8 +836,6 @@
     "interest: gonzalez -> inter"
   ],
   "titles": [
-    "sky: yan diomande could join rb leipzig's training camp in austria despite real ",
-    "ac milan make nwaneri contact saturday's gossip",
     "psg\u2019s latest move could be the biggest sign yet that bradley barcola is liverpoo",
     "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f juventus manager luciano spalletti: \u201ci really like zion suzuki we rate h",
     "rb leipzig leaves real madrid on read over yan diomande",
@@ -1135,7 +1133,9 @@
     "nico gonzalez can attract inter and roma interest, juventus open to loan",
     "inter interested in juventus\u2019 nico gonzalez, initial contact made",
     "barcelona and 26 year old forward locked in a waiting game over contract renewal",
-    "liverpool in official talks with psg for barcola; but a huge gap in valuation st"
+    "liverpool in official talks with psg for barcola; but a huge gap in valuation st",
+    "liverpool in talks for andoni iraola priority signing as psg 'book medical' for ",
+    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f marc andre ter stegen, confirmed as new ajax player on loan from barcelon"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1352,7 +1352,6 @@
     "francisco conceicao": "https://r2.thesportsdb.com/images/media/player/cutout/ekqivz1759225498.png/small",
     "mikey moore": "https://r2.thesportsdb.com/images/media/player/cutout/5vwygx1777017074.png/small",
     "wilfried singo": "https://r2.thesportsdb.com/images/media/player/cutout/zwfgmo1769177983.png/small",
-    "mishel nduka": "",
     "rodri hernandez": "",
     "junior kroupi": "",
     "kerem alajbegovic": "",
@@ -1363,9 +1362,10 @@
     "nico gonzalez": "https://r2.thesportsdb.com/images/media/player/cutout/e6mhnz1762288376.png/small",
     "victor froholdt": "",
     "kyle healy": "",
-    "benji flowers": ""
+    "benji flowers": "",
+    "mishel nduka": ""
   },
-  "photo_repair_idx": 10,
+  "photo_repair_idx": 11,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

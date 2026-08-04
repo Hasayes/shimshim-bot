@@ -509,7 +509,9 @@
     "tg:FabrizioRomanoTG/64052",
     "tg:FabrizioRomanoTG/64053",
     "9c75e61e15f7d140f245f31dc4174aa0",
-    "f921aac477431573b8830c21e0e89236"
+    "f921aac477431573b8830c21e0e89236",
+    "tg:FabrizioRomanoTG/64055",
+    "tg:FabrizioRomanoTG/64056"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -847,8 +849,6 @@
     "interest: torres -> tottenham"
   ],
   "titles": [
-    "newcastle set to announce \u20ac11 million move after eddie howe\u2019s exit",
-    "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f randal kolo muani has been authorized to fly for juventus medical import",
     "\u26aa\ufe0f \u26ab\ufe0f \u2708\ufe0f final details for randal kolo muani to juventus permanent deal \u20ac38m fee",
     "raphael onyedika joins frankfurt: breaking down the \u20a615 7 billion deal",
     "biggest man utd signing of the summer \u2018approved\u2019 \u2013 fabrizio romano",
@@ -1146,7 +1146,9 @@
     "\ud83d\udea8 \ud83d\udd34 liverpool have made contact with ibrahima mbaye\u2019s new agent jorge mendes mba",
     "\ud83d\udea8 \ud83c\uddf8\ud83c\uddf3 bayer leverkusen have also sent a proposal to psg for ibrahima mbaye as tal",
     "bayer leverkusen open talks to re sign moussa diaby amid interest from benfica a",
-    "arsenal agree bruno guimaraes fee as journalist explains why newcastle are \u2018furi"
+    "arsenal agree bruno guimaraes fee as journalist explains why newcastle are \u2018furi",
+    "\ud83d\udea8 \ud83d\udfe1 \ud83d\udd34 as roma are advancing in talks to sign nahuel molina from atletico madrid ",
+    "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 psg and bayer leverkusen have excellent relationship as talks for ibrahima"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1367,7 +1369,6 @@
     "yan couto": "https://r2.thesportsdb.com/images/media/player/cutout/hadu641756326239.png/small",
     "pedro neto": "https://r2.thesportsdb.com/images/media/player/cutout/g63rmf1757003837.png/small",
     "juanlu": "https://r2.thesportsdb.com/images/media/player/cutout/ut8z8e1762859860.png/small",
-    "martin": "",
     "axel donczew": "",
     "victor froholdt": "",
     "kyle healy": "",
@@ -1377,9 +1378,10 @@
     "junior kroupi": "",
     "kerem alajbegovic": "",
     "mateo soule": "",
-    "ousmane ndiaye": ""
+    "ousmane ndiaye": "",
+    "martin": ""
   },
-  "photo_repair_idx": 5,
+  "photo_repair_idx": 6,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

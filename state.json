@@ -1,6 +1,5 @@
 {
   "sent": [
-    "29bb067bc474c09b4e9a60921c23447a",
     "17a238a2ef02e79243bcc49baee4c68c",
     "tg:FabrizioRomanoTG/63789",
     "6a891dd4ca491d41273f54a228f0b8c6",
@@ -499,7 +498,8 @@
     "0538c2c100445436d72875069b985e97",
     "42a9b4d8f6daf2cc3ff451806831450f",
     "0116b933b729cf777bc0d5ac16a2a30c",
-    "1decebb9e750e676ac09fd0c28a4d0cb"
+    "1decebb9e750e676ac09fd0c28a4d0cb",
+    "7939e5c3c703e26b53e64eea4e3fb103"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -834,7 +834,6 @@
     "interest: osimhen -> tottenham"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83c\uddea\ud83c\uddec egypt and al ahly goalkeeper mostafa shobeir has signed with caa base as ne",
     "tottenham delight as jose mourinho sanctions real madrid winger exit",
     "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 maghnes akliouche to paris saint germain, here we go! \ud83d\udca5 breakthrough betwe",
     "\u201cit\u2019s not going away\u201d \u2013 lewis steele won\u2019t rule out exit for liverpool forward",
@@ -1133,7 +1132,8 @@
     "como reach agreement to sign chalobah, barca hold rodri interest euro transfer n",
     "fabrizio romano confirms bombshell: surprise liverpool talks to enter key stages",
     "romano: psg finally in \u201cclub to club talks\u201d over \u20ac100m plus transfer",
-    "official | peter gulacsi leaves german football after 11 year rb leipzig era"
+    "official | peter gulacsi leaves german football after 11 year rb leipzig era",
+    "transfer roundup: chelsea sell trevoh chalobah and sign jordan henderson the gua"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1349,7 +1349,6 @@
     "dion lopy": "https://r2.thesportsdb.com/images/media/player/cutout/lnl0a01735883167.png/small",
     "francisco conceicao": "https://r2.thesportsdb.com/images/media/player/cutout/ekqivz1759225498.png/small",
     "mikey moore": "https://r2.thesportsdb.com/images/media/player/cutout/5vwygx1777017074.png/small",
-    "axel donczew": "",
     "victor froholdt": "",
     "kyle healy": "",
     "benji flowers": "",
@@ -1359,9 +1358,10 @@
     "kerem alajbegovic": "",
     "mateo soule": "",
     "ousmane ndiaye": "",
-    "martin": ""
+    "martin": "",
+    "axel donczew": ""
   },
-  "photo_repair_idx": 6,
+  "photo_repair_idx": 7,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

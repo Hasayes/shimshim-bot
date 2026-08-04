@@ -1,7 +1,5 @@
 {
   "sent": [
-    "6a891dd4ca491d41273f54a228f0b8c6",
-    "455c7be142e398f19bb9786c57d34468",
     "f357fc2b9d8d9fc09c1145f163af259f",
     "287419022e8740edc5bc8bbf75a4b849",
     "173fe3fa05b66a7d97ce60398be489de",
@@ -499,7 +497,9 @@
     "1decebb9e750e676ac09fd0c28a4d0cb",
     "7939e5c3c703e26b53e64eea4e3fb103",
     "e9b1a5bb93296457b518a2569d2f7265",
-    "18c1db8508af8dc096419ee25b754a6f"
+    "18c1db8508af8dc096419ee25b754a6f",
+    "d1c698c038dc6868e29f9e241230e09c",
+    "tg:FabrizioRomanoTG/64017"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -834,8 +834,6 @@
     "interest: osimhen -> tottenham"
   ],
   "titles": [
-    "\u201cit\u2019s not going away\u201d \u2013 lewis steele won\u2019t rule out exit for liverpool forward",
-    "chelsea are set to sign this experienced midfielder on a two year deal: good opt",
     "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f matthias jaissle has signed his contract as newcastle head coach until j",
     "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f lukas hornicek to newcastle as new goalkeeper, here we go! deal sealed w",
     "\ud83d\udea8 \ud83c\udde6\ud83c\uddf7 facundo buonanotte, set to leave brighton with several clubs in talks to tr",
@@ -1133,7 +1131,9 @@
     "official | peter gulacsi leaves german football after 11 year rb leipzig era",
     "transfer roundup: chelsea sell trevoh chalobah and sign jordan henderson the gua",
     "patrice evra tells manu kone he\u2019ll \u2018do well\u2019 at premier league giants \u2013 not manc",
-    "psg \u201coptimistic\u201d about ferran torres deal, talks with barcelona to \u201caccelerate\u201d "
+    "psg \u201coptimistic\u201d about ferran torres deal, talks with barcelona to \u201caccelerate\u201d ",
+    "tottenham hotspur remain keen on recruiting this liverpool winger: should de zer",
+    "\ud83d\udea8 \ud83c\udde6\ud83c\uddf7 franco mastantuono will be the next one to leave real madrid on loan with f"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1349,7 +1349,6 @@
     "dion lopy": "https://r2.thesportsdb.com/images/media/player/cutout/lnl0a01735883167.png/small",
     "francisco conceicao": "https://r2.thesportsdb.com/images/media/player/cutout/ekqivz1759225498.png/small",
     "mikey moore": "https://r2.thesportsdb.com/images/media/player/cutout/5vwygx1777017074.png/small",
-    "kyle healy": "",
     "benji flowers": "",
     "mishel nduka": "",
     "rodri hernandez": "",
@@ -1359,9 +1358,10 @@
     "ousmane ndiaye": "",
     "martin": "",
     "axel donczew": "",
-    "victor froholdt": ""
+    "victor froholdt": "",
+    "kyle healy": ""
   },
-  "photo_repair_idx": 8,
+  "photo_repair_idx": 9,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

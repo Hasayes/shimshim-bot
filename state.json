@@ -1,7 +1,5 @@
 {
   "sent": [
-    "dda77a6a7bd717e54eccd411c12441b2",
-    "9b0499dc129731e1f5af19f8708c59e2",
     "5d2f8cb58196ef759d4fcc80ab1a9c5b",
     "b016907e1d1fc744e4d65c782519c6f8",
     "55d8f03bb19a80b1c0499732d12d556a",
@@ -499,7 +497,9 @@
     "c050dbe905df3006fbdde4b68c3c5ebe",
     "cd4ad839b47a03801fe480f610f64a34",
     "660bdc3866d74249fc6fad9212a3a384",
-    "d8655a9d43d1e9f4c0de8a7d8f955498"
+    "d8655a9d43d1e9f4c0de8a7d8f955498",
+    "a50b46085e6c09d1af4dabdcb8c7d29b",
+    "dafde9ba58a6aeda0d8f768c1a7a9818"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -834,8 +834,6 @@
     "interest: osimhen -> tottenham"
   ],
   "titles": [
-    "\"not getting done immediately\" fabrizio romano explains why manchester city are ",
-    "man utd make \u2018call\u2019 for new striker as another \u2018world class player\u2019 is offered t",
     "tottenham receive transfer boost as liverpool set asking price for 27yo \u2018long te",
     "monza agree \u20ac7 5m deal for nigerian midfielder akinsanmiro",
     "chelsea and serie a side stuck in battle over final \u20ac5m \u2013 blues\u2019 history shows t",
@@ -1133,7 +1131,9 @@
     "dortmund to rival atalanta and sporting lisbon for spanish winger",
     "fabrizio romano confirms \u20ac36 million chelsea agreement for utility man",
     "\u00a3150m midfielder \u2018will definitely go to man utd in the future\u2019 \u2013 pundit",
-    "bradley barcola to liverpool: reds 'open' talks with psg for winger signing as i"
+    "bradley barcola to liverpool: reds 'open' talks with psg for winger signing as i",
+    "trevoh chalobah deal done as fabrizio romano reveals ucl motivation",
+    "chelsea complete jordan henderson signing, chalobah agrees como move"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1349,7 +1349,6 @@
     "dion lopy": "https://r2.thesportsdb.com/images/media/player/cutout/lnl0a01735883167.png/small",
     "francisco conceicao": "https://r2.thesportsdb.com/images/media/player/cutout/ekqivz1759225498.png/small",
     "mikey moore": "https://r2.thesportsdb.com/images/media/player/cutout/5vwygx1777017074.png/small",
-    "benji flowers": "",
     "mishel nduka": "",
     "rodri hernandez": "",
     "junior kroupi": "",
@@ -1359,9 +1358,10 @@
     "martin": "",
     "axel donczew": "",
     "victor froholdt": "",
-    "kyle healy": ""
+    "kyle healy": "",
+    "benji flowers": ""
   },
-  "photo_repair_idx": 9,
+  "photo_repair_idx": 10,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

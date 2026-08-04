@@ -1,7 +1,5 @@
 {
   "sent": [
-    "f9e09d445067a55fe59e0985c605b33f",
-    "a2624f822db0759528b9143ca5e2f25c",
     "7bac6afdb034bc471717d7dc2e433edd",
     "tg:FabrizioRomanoTG/63786",
     "tg:FabrizioRomanoTG/63788",
@@ -499,7 +497,9 @@
     "c40bffd5bfa88a3552cf0b627dd06320",
     "abe7650b97e13758d8146e29235a3808",
     "ed5d06c5bd72c0e76049a92bfdaa37bf",
-    "44dd6e9ba2bad096d125156ce1a10398"
+    "44dd6e9ba2bad096d125156ce1a10398",
+    "e7713ced936e681923c258955fce5406",
+    "03446ee69e3e2c41f727651efb529aef"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -830,10 +830,10 @@
     "interest: skelly -> manchester united",
     "interest: gyokeres -> arsenal",
     "interest: conceicao -> manchester united",
-    "interest: moore -> tottenham"
+    "interest: moore -> tottenham",
+    "interest: osimhen -> tottenham"
   ],
   "titles": [
-    "\ud83d\udea8 \u26aa\ufe0f \ud83d\udd35 excl: real sociedad sent official bid to wolves for czech defender ladisl",
     "rt @fabrizioromano : \ud83d\udea8 \ud83d\udd34 \ud83d\udd35 exclusive: paris saint germain open talks to sign mik",
     "rt @fabrizioromano : \ud83d\udea8 \ud83d\udca3 breaking: yan diomande to real madrid, here we go! \u26aa\ufe0f \u2728",
     "bournemouth transfer news: cherries receive 'green light' to complete \u00a326m anton",
@@ -1132,7 +1132,8 @@
     "tenth chelsea signing in london for medical with official announcement in the co",
     "done deal: angelino set to join deportivo on loan with obligation",
     "done deal: roma send angelino to deportivo for \u20ac2 5m",
-    "rb leipzig director dismisses \u2018here we go\u2019 claims for yan diomande to real madri"
+    "rb leipzig director dismisses \u2018here we go\u2019 claims for yan diomande to real madri",
+    "transfer updates: osimhen, guimaraes, vinicius, grealish, gakpo, others"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1347,7 +1348,6 @@
     "viktor gyokeres": "https://r2.thesportsdb.com/images/media/player/cutout/ubnx241769330610.png/small",
     "dion lopy": "https://r2.thesportsdb.com/images/media/player/cutout/lnl0a01735883167.png/small",
     "francisco conceicao": "https://r2.thesportsdb.com/images/media/player/cutout/ekqivz1759225498.png/small",
-    "victor froholdt": "",
     "mikey moore": "https://r2.thesportsdb.com/images/media/player/cutout/5vwygx1777017074.png/small",
     "kyle healy": "",
     "benji flowers": "",
@@ -1358,9 +1358,10 @@
     "mateo soule": "",
     "ousmane ndiaye": "",
     "martin": "",
-    "axel donczew": ""
+    "axel donczew": "",
+    "victor froholdt": ""
   },
-  "photo_repair_idx": 7,
+  "photo_repair_idx": 8,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

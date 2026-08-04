@@ -1,5 +1,24 @@
 [
  {
+  "id": "b440f39e89722b1af6276e834b771a1a",
+  "ts": "2026-08-04T00:57:24+00:00",
+  "kind": "interest",
+  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/lw0qcf1769177786.png/small",
+  "stage": "\u2014",
+  "player": "Victor Osimhen",
+  "position": "Striker",
+  "age": "\u2014",
+  "from_club": "Galatasaray",
+  "to_club": "Arsenal, Tottenham Hotspur",
+  "fee": "\u00a355m",
+  "style": "Clinical finisher with physical presence and goal-scoring instinct.",
+  "fit": "Direct, prolific centre-forward capable of leading Tottenham's attack and delivering immediate impact.",
+  "source": "CaughtOffside",
+  "outlet": "naijanews",
+  "url": "https://www.naijanews.com/2026/08/03/transfer-updates-osimhen-guimaraes-vinicius-grealish-gakpo/",
+  "title": "Transfer Updates: Osimhen, Guimara\u0303es, Vini\u0301cius, Grealish, Gakpo, Others"
+ },
+ {
   "id": "abe7650b97e13758d8146e29235a3808",
   "ts": "2026-08-04T00:32:06+00:00",
   "kind": "deal",
@@ -245,25 +264,6 @@
   "outlet": "yahoo",
   "url": "https://sports.yahoo.com/articles/tottenham-open-sanctioning-loan-exit-220000895.html",
   "title": "Tottenham open to sanctioning a loan exit for Guglielmo Vicario"
- },
- {
-  "id": "b440f39e89722b1af6276e834b771a1a",
-  "ts": "2026-08-02T05:30:33+00:00",
-  "kind": "interest",
-  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/lw0qcf1769177786.png/small",
-  "stage": "\u2014",
-  "player": "Victor Osimhen",
-  "position": "Striker",
-  "age": "\u2014",
-  "from_club": "Galatasaray",
-  "to_club": "Arsenal",
-  "fee": "\u20ac30m plus Gy\u00f6keres",
-  "style": "Explosive, physical forward with elite finishing and goal-scoring consistency.",
-  "fit": "World-class striker Arsenal actively sought; offer rejected but demonstrates concrete pursuit.",
-  "source": "\u00d6mer Faruk \u00d6zcan via Nexus Sports / Soccernet.ng",
-  "outlet": "soccernet_ng",
-  "url": "https://soccernet.ng/2026/08/arsenal-gyokeres-super-eagles-osimhen.html",
-  "title": "Arsenal\u2019s Gyo\u0308keres plus \u20ac30m swap bid for Super Eagles star rejected \u2013 reports"
  },
  {
   "id": "tg:FabrizioRomanoTG/63932",

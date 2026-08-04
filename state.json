@@ -1,10 +1,5 @@
 {
   "sent": [
-    "8fda49f422f94247b73ea50a824b6137",
-    "4ed03685afeddb285ceec9c4eef49e98",
-    "e8d566aabad5f7df853302c94ae4f0eb",
-    "ce6ba392e0c8ceb87cf2a0cd552fd1d9",
-    "fddbbfec7f86fc4a42d06f9dd15ba41a",
     "29bb067bc474c09b4e9a60921c23447a",
     "17a238a2ef02e79243bcc49baee4c68c",
     "tg:FabrizioRomanoTG/63789",
@@ -499,7 +494,12 @@
     "4deebfbf00fc46b752b19d99c1255976",
     "0921e01b6abd45b8f200d0154b9d94b8",
     "45676ba7ba437a5ae56e1862dbba4199",
-    "29116608ed863728fb3d11e3ee6abe03"
+    "29116608ed863728fb3d11e3ee6abe03",
+    "780f2000412f2237f1c4253e1419daa4",
+    "0538c2c100445436d72875069b985e97",
+    "42a9b4d8f6daf2cc3ff451806831450f",
+    "0116b933b729cf777bc0d5ac16a2a30c",
+    "1decebb9e750e676ac09fd0c28a4d0cb"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -650,7 +650,7 @@
     "angelino -> deportivo": 1,
     "sangare -> brentford": 1,
     "diallo -> parma": 2,
-    "gulacsi -> villarreal": 1,
+    "gulacsi -> villarreal": 2,
     "akliouche -> psg": 1,
     "hornicek -> newcastle": 1,
     "onyedika -> eintracht frankfurt": 2,
@@ -834,11 +834,6 @@
     "interest: osimhen -> tottenham"
   ],
   "titles": [
-    "bruno guimaraes\u2019 agent shares post with sensational *double* arsenal transfer hi",
-    "ornstein: newcastle set to sign \u20ac30m czech goalkeeper star",
-    "report napoli want gatti on loan with option to buy from juventus",
-    "real make 'take it or leave it' contract offer to vinicius euro transfer news",
-    "west ham united 'close' to celtic transfer raid as summer coup could be pulled o",
     "\ud83d\udea8 \ud83c\uddea\ud83c\uddec egypt and al ahly goalkeeper mostafa shobeir has signed with caa base as ne",
     "tottenham delight as jose mourinho sanctions real madrid winger exit",
     "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 maghnes akliouche to paris saint germain, here we go! \ud83d\udca5 breakthrough betwe",
@@ -1133,7 +1128,12 @@
     "liverpool transfer news barcola deal 'on', spurs want gakpo, jones to inter late",
     "chelsea transfer news: trevoh chalobah update as fabrizio romano 'reveals' fee a",
     "liverpool move closer to signing mohamed salah replacement after fabrizio romano",
-    "cody gakpo\u2019s future is uncertain"
+    "cody gakpo\u2019s future is uncertain",
+    "former rangers and leeds united star set to complete uk transfer return as champ",
+    "como reach agreement to sign chalobah, barca hold rodri interest euro transfer n",
+    "fabrizio romano confirms bombshell: surprise liverpool talks to enter key stages",
+    "romano: psg finally in \u201cclub to club talks\u201d over \u20ac100m plus transfer",
+    "official | peter gulacsi leaves german football after 11 year rb leipzig era"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1349,7 +1349,6 @@
     "dion lopy": "https://r2.thesportsdb.com/images/media/player/cutout/lnl0a01735883167.png/small",
     "francisco conceicao": "https://r2.thesportsdb.com/images/media/player/cutout/ekqivz1759225498.png/small",
     "mikey moore": "https://r2.thesportsdb.com/images/media/player/cutout/5vwygx1777017074.png/small",
-    "ousmane ndiaye": "",
     "martin": "",
     "axel donczew": "",
     "victor froholdt": "",
@@ -1359,9 +1358,10 @@
     "rodri hernandez": "",
     "junior kroupi": "",
     "kerem alajbegovic": "",
-    "mateo soule": ""
+    "mateo soule": "",
+    "ousmane ndiaye": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 5,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

@@ -1,5 +1,24 @@
 [
  {
+  "id": "tg:FabrizioRomanoTG/63862",
+  "ts": "2026-08-04T05:16:55+00:00",
+  "kind": "deal",
+  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/f24kos1763561131.png/small",
+  "stage": "Completed",
+  "player": "Peter Gulacsi",
+  "position": "Goalkeeper",
+  "age": "36",
+  "from_club": "RB Leipzig",
+  "to_club": "Villarreal",
+  "fee": "Undisclosed",
+  "style": "Experienced, commanding goalkeeper known for shot-stopping, sweeping behind his defence, and leadership between the posts.",
+  "fit": "Provides Villarreal with a seasoned, top-level European goalkeeper who brings stability and experience to their backline.",
+  "source": "Fabrizio Romano",
+  "outlet": "yahoo",
+  "url": "https://ca.sports.yahoo.com/news/official-peter-gulacsi-leaves-german-171500781.html",
+  "title": "Official | Peter Gulacsi leaves German football after 11-year RB Leipzig era"
+ },
+ {
   "id": "b440f39e89722b1af6276e834b771a1a",
   "ts": "2026-08-04T00:57:24+00:00",
   "kind": "interest",
@@ -511,25 +530,6 @@
   "outlet": "Telegram @fabrizioromanotg",
   "url": "https://t.me/FabrizioRomanoTG/63869",
   "title": "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 Official, confirmed. 18 year old winger Jesse Bisiwu joins Barcelona from Club Brugge. \u20ac8.5m fee plus also 20% sel"
- },
- {
-  "id": "tg:FabrizioRomanoTG/63862",
-  "ts": "2026-07-31T16:15:40+00:00",
-  "kind": "deal",
-  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/f24kos1763561131.png/small",
-  "stage": "Here we go",
-  "player": "Peter Gulacsi",
-  "position": "Goalkeeper",
-  "age": "\u2014",
-  "from_club": "RB Leipzig",
-  "to_club": "Villarreal",
-  "fee": "\u2014",
-  "style": "Commanding shot-stopper with excellent distribution and leadership in the box.",
-  "fit": "Villarreal seeks an experienced goalkeeper; Gulacsi's proven Bundesliga quality suits their competitive demands.",
-  "source": "Fabrizio Romano",
-  "outlet": "Telegram @fabrizioromanotg",
-  "url": "https://t.me/FabrizioRomanoTG/63862",
-  "title": "\ud83d\udea8 \ud83d\udfe1 More on Peter Gulacsi and Villarreal exclusive story. The agreement is done on player side and almost done between c"
  },
  {
   "id": "tg:FabrizioRomanoTG/63861",

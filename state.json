@@ -507,7 +507,9 @@
     "0cc2c3062f9af03616aa8f48e4a87b7c",
     "tg:FabrizioRomanoTG/64051",
     "tg:FabrizioRomanoTG/64052",
-    "tg:FabrizioRomanoTG/64053"
+    "tg:FabrizioRomanoTG/64053",
+    "9c75e61e15f7d140f245f31dc4174aa0",
+    "f921aac477431573b8830c21e0e89236"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -845,8 +847,6 @@
     "interest: torres -> tottenham"
   ],
   "titles": [
-    "sources: \u00a360m liverpool transfer target \u201cinterested\u201d in arsenal move as club eye",
-    "psg in talks with ajax to sign belgian winger mika godts",
     "newcastle set to announce \u20ac11 million move after eddie howe\u2019s exit",
     "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f randal kolo muani has been authorized to fly for juventus medical import",
     "\u26aa\ufe0f \u26ab\ufe0f \u2708\ufe0f final details for randal kolo muani to juventus permanent deal \u20ac38m fee",
@@ -1144,7 +1144,9 @@
     "fc barcelona news: 4 august 2026; barca finish england training camp, ferran tor",
     "\ud83d\udea8 \ud83d\udca3 breaking: mo salah to trabzonspor, here we go! club confirms agreement in pl",
     "\ud83d\udea8 \ud83d\udd34 liverpool have made contact with ibrahima mbaye\u2019s new agent jorge mendes mba",
-    "\ud83d\udea8 \ud83c\uddf8\ud83c\uddf3 bayer leverkusen have also sent a proposal to psg for ibrahima mbaye as tal"
+    "\ud83d\udea8 \ud83c\uddf8\ud83c\uddf3 bayer leverkusen have also sent a proposal to psg for ibrahima mbaye as tal",
+    "bayer leverkusen open talks to re sign moussa diaby amid interest from benfica a",
+    "arsenal agree bruno guimaraes fee as journalist explains why newcastle are \u2018furi"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1365,7 +1367,6 @@
     "yan couto": "https://r2.thesportsdb.com/images/media/player/cutout/hadu641756326239.png/small",
     "pedro neto": "https://r2.thesportsdb.com/images/media/player/cutout/g63rmf1757003837.png/small",
     "juanlu": "https://r2.thesportsdb.com/images/media/player/cutout/ut8z8e1762859860.png/small",
-    "kerem alajbegovic": "",
     "mateo soule": "",
     "ousmane ndiaye": "",
     "martin": "",
@@ -1375,9 +1376,10 @@
     "benji flowers": "",
     "mishel nduka": "",
     "rodri hernandez": "",
-    "junior kroupi": ""
+    "junior kroupi": "",
+    "kerem alajbegovic": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

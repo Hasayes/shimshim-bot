@@ -1,8 +1,5 @@
 {
   "sent": [
-    "aa16a55674aca923d631fedc7f76df62",
-    "e1d127db5004e336b4a118850fc36695",
-    "afe3ed1b50411f50c803171dc97845f9",
     "dda77a6a7bd717e54eccd411c12441b2",
     "9b0499dc129731e1f5af19f8708c59e2",
     "5d2f8cb58196ef759d4fcc80ab1a9c5b",
@@ -499,7 +496,10 @@
     "744695ed6eb07fc260d00daccfbbdee8",
     "900700be6f6e005fc963297e3e93c157",
     "57735b5b94be2cdcf68ddf60369abf9a",
-    "c050dbe905df3006fbdde4b68c3c5ebe"
+    "c050dbe905df3006fbdde4b68c3c5ebe",
+    "cd4ad839b47a03801fe480f610f64a34",
+    "660bdc3866d74249fc6fad9212a3a384",
+    "d8655a9d43d1e9f4c0de8a7d8f955498"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -834,9 +834,6 @@
     "interest: osimhen -> tottenham"
   ],
   "titles": [
-    "romano drops latest update, star \u201cvery keen on liverpool\u201d move as \u201ccontacts cont",
-    "bradley barcola just got closer to liverpool transfer after seismic friday updat",
-    "arsenal in talks with roc nation over vinicius jr move: report",
     "\"not getting done immediately\" fabrizio romano explains why manchester city are ",
     "man utd make \u2018call\u2019 for new striker as another \u2018world class player\u2019 is offered t",
     "tottenham receive transfer boost as liverpool set asking price for 27yo \u2018long te",
@@ -1133,7 +1130,10 @@
     "liverpool submit bid worth over \u00a385 6m for second summer transfer",
     "leipzig deny diomande to real madrid deal is done and mock romano for premature ",
     "romano drops major barcola to liverpool update after compromise confirmed",
-    "dortmund to rival atalanta and sporting lisbon for spanish winger"
+    "dortmund to rival atalanta and sporting lisbon for spanish winger",
+    "fabrizio romano confirms \u20ac36 million chelsea agreement for utility man",
+    "\u00a3150m midfielder \u2018will definitely go to man utd in the future\u2019 \u2013 pundit",
+    "bradley barcola to liverpool: reds 'open' talks with psg for winger signing as i"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1349,7 +1349,6 @@
     "dion lopy": "https://r2.thesportsdb.com/images/media/player/cutout/lnl0a01735883167.png/small",
     "francisco conceicao": "https://r2.thesportsdb.com/images/media/player/cutout/ekqivz1759225498.png/small",
     "mikey moore": "https://r2.thesportsdb.com/images/media/player/cutout/5vwygx1777017074.png/small",
-    "kyle healy": "",
     "benji flowers": "",
     "mishel nduka": "",
     "rodri hernandez": "",
@@ -1359,9 +1358,10 @@
     "ousmane ndiaye": "",
     "martin": "",
     "axel donczew": "",
-    "victor froholdt": ""
+    "victor froholdt": "",
+    "kyle healy": ""
   },
-  "photo_repair_idx": 8,
+  "photo_repair_idx": 9,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

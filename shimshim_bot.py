@@ -181,7 +181,7 @@ TELEGRAM_CARDS = os.environ.get("TELEGRAM_CARDS", "0") == "1"
 # feed writes. Lets a feature branch run end-to-end with zero side effects.
 DRY_RUN = os.environ.get("DRY_RUN", "0") == "1"
 STATE_FILE = Path(os.environ.get("STATE_FILE", Path(__file__).with_name("state.json")))
-MAX_STATE = 500  # cap remembered IDs so state.json doesn't grow forever
+MAX_STATE = 1500  # cap remembered IDs; must outlast deep Telegram lookbacks
 
 # The PWA (served from docs/ via GitHub Pages) reads this feed; every card
 # that goes to Telegram is also appended here, newest first.
@@ -278,6 +278,8 @@ class TransferBrief(BaseModel):
 CLASSIFY_SYSTEM = (
     "You are a football transfer analyst. You receive a news headline and "
     "summary. Classify the story and extract a briefing FROM THE TEXT.\n"
+    "- kind='deal' also covers a finished LOAN RETURN (player goes back "
+    "to his parent club): from_club = loan club, to_club = parent club.\n"
     "- kind='deal' when it reports a transfer that is done or effectively "
     "done: a completed or officially announced signing; a 'here we go' call; "
     "a total/full agreement reached between all parties; a medical that is "
@@ -347,7 +349,10 @@ RESEARCH_SYSTEM_TEMPLATE = (
     "rejected suitors, former clubs, loan clubs. Never assume a club "
     "mentioned in the headline is the seller; verify whose player he IS. "
     "Your findings MUST include a line exactly like: "
-    "'CURRENT CLUB (owner): <club or UNVERIFIED>'.\n"
+    "'CURRENT CLUB (owner): <club or UNVERIFIED>'. EXCEPTION — loan "
+    "returns: when a loan ends and the player goes BACK to his parent "
+    "club, that return is itself the transfer: state 'LOAN RETURN: from "
+    "<loan club> to <parent club>'.\n"
     "3. The buying or interested club(s) — and for interest stories, the "
     "QUALITY of the claim: is a concrete step (talks, contact, bid, "
     "declared target) attributed to a named journalist, outlet or club? "
@@ -382,6 +387,8 @@ BRIEF_SYSTEM = (
     "them must be '—' (or 'Undisclosed' for the fee) — never a guess. If "
     "the notes say the story is STALE (recycled old news), set "
     "kind='none'.\n"
+    "- kind='deal' also covers a finished LOAN RETURN (player goes back "
+    "to his parent club): from_club = loan club, to_club = parent club.\n"
     "- kind='deal' when it reports a transfer that is done or effectively "
     "done: a completed or officially announced signing; a 'here we go' call; "
     "a total/full agreement reached between all parties; a medical that is "
@@ -420,6 +427,8 @@ BRIEF_SYSTEM = (
     "line — the club that owns the player. If that line is missing or "
     "UNVERIFIED, use '—'. Other clubs in the article may be rejected "
     "suitors, former clubs or loan hosts — NEVER cast them as from_club. "
+    "EXCEPTION: for a LOAN RETURN (notes say so), from_club = the loan "
+    "club being left and to_club = the parent club he returns to. "
     "to_club: the buying club; for kind='interest', the watched club(s) "
     "pursuing him, comma-separated if several.\n"
     "- fee: use the reported figure, bid or asking price if stated (e.g. "

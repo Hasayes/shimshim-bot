@@ -660,7 +660,8 @@
     "lopy -> al ittihad": 1,
     "angelino -> rc deportivo de la coruna": 1,
     "couto -> como": 1,
-    "juanlu -> bournemouth": 1
+    "juanlu -> bournemouth": 1,
+    "rashford -> manchester united": 2
   },
   "interest": [
     "interest: alvarez -> arsenal",
@@ -745,7 +746,6 @@
     "interest: diomande -> arsenal",
     "interest: lacroix -> arsenal",
     "interest: lacroix -> chelsea",
-    "interest: rashford -> tottenham",
     "interest: bergvall -> chelsea",
     "interest: garnacho -> napoli",
     "interest: garnacho -> atletico madrid",
@@ -760,9 +760,6 @@
     "interest: ndiaye -> manchester united",
     "interest: schjelderup -> tottenham",
     "interest: schlotterbeck -> real madrid",
-    "interest: rashford -> chelsea",
-    "interest: rashford -> arsenal",
-    "interest: rashford -> tottenham",
     "interest: zaire-emery -> manchester united",
     "interest: asencio -> liverpool",
     "interest: mastantuono -> tottenham",

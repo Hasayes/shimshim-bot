@@ -1,7 +1,5 @@
 {
   "sent": [
-    "3cfa9d372f9edfd19bf489865297e453",
-    "c41bbaab3be7289387cd43208b5b37ba",
     "5865962fd2cf08db731af1cc14c1a74a",
     "38abec705fca940c80a5c68978c89839",
     "d4587ca9cf840cf418815f9cecedef52",
@@ -499,7 +497,9 @@
     "b34786a04c4bcb8c3a5401634116c957",
     "66e3db7489b899cf2774f10b89480b77",
     "6128c3fef69e40672629296cab7deee6",
-    "31902c370ff6ffd9e011efe394203040"
+    "31902c370ff6ffd9e011efe394203040",
+    "6dedfb5ad7ca5c2be4d82f4f0c33517c",
+    "744695ed6eb07fc260d00daccfbbdee8"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -834,8 +834,6 @@
     "interest: osimhen -> tottenham"
   ],
   "titles": [
-    "andoni iraola has seen enough, it\u2019s the end of the line for \u2018average\u2019 liverpool ",
-    "transfer updates: delap, bouaddi, orlando gill, conceicao, guimaraes, others",
     "romano delivers friday liverpool transfer update on bradley barcola",
     "cody gakpo labelled 'easy target' amid liverpool's bradley barcola chase and rio",
     "arne engels edging towards celtic exit as west ham lead race",
@@ -1133,7 +1131,9 @@
     "watch video: bernardo silva joins real madrid training, fans give portuguese sta",
     "fabrizio romano: liverpool open talks to sign bradley barcola",
     "chelsea defender trevoh chalobah agrees como transfer",
-    "chelsea and como reach agreement for trevoh chalobah"
+    "chelsea and como reach agreement for trevoh chalobah",
+    "como and chelsea agree \u20ac30m deal for trevoh chalobah",
+    "liverpool submit bid worth over \u00a385 6m for second summer transfer"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1349,7 +1349,6 @@
     "dion lopy": "https://r2.thesportsdb.com/images/media/player/cutout/lnl0a01735883167.png/small",
     "francisco conceicao": "https://r2.thesportsdb.com/images/media/player/cutout/ekqivz1759225498.png/small",
     "mikey moore": "https://r2.thesportsdb.com/images/media/player/cutout/5vwygx1777017074.png/small",
-    "ousmane ndiaye": "",
     "martin": "",
     "axel donczew": "",
     "victor froholdt": "",
@@ -1359,9 +1358,10 @@
     "rodri hernandez": "",
     "junior kroupi": "",
     "kerem alajbegovic": "",
-    "mateo soule": ""
+    "mateo soule": "",
+    "ousmane ndiaye": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 5,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

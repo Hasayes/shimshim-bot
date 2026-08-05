@@ -1,0 +1,42 @@
+name: Daily solidity check
+
+on:
+  schedule:
+    - cron: "40 4 * * *"   # daily 04:40 UTC — quiet hours
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: shimshim-verify
+  cancel-in-progress: false
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - name: Verify every card against free oracles
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python verify_all.py
+      - name: Persist
+        run: |
+          if [[ -n "$(git status --porcelain docs/feed.json state.json)" ]]; then
+            git config user.name "shimshim-bot"
+            git config user.email "bot@users.noreply.github.com"
+            git add docs/feed.json state.json
+            git commit -m "daily solidity check [skip ci]"
+            n=0
+            until git push; do
+              n=$((n+1)); [ "$n" -gt 3 ] && exit 1
+              git pull --rebase -X ours origin main
+            done
+          fi

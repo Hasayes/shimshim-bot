@@ -524,7 +524,8 @@
     "72ca073081c5ce2cd3b275eae62265fa",
     "e7e52c3202fa0ff3e4e66c1a69988ce0",
     "32f10fe58e17a82fe435079f19c85feb",
-    "0afd4eed02506c6c241867cf48d7c06f"
+    "0afd4eed02506c6c241867cf48d7c06f",
+    "3be1adee1ad55141cd106dc0f1be6967"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -863,7 +864,6 @@
     "interest: zabarnyi -> liverpool"
   ],
   "titles": [
-    "leeds united flop facundo buonanotte 'set' to leave brighton & hove albion with ",
     "arsenal close in on newcastle united signing",
     "frankfurt secure deal with brugge for nigerian midfielder onyedika",
     "man utd have \u2018discussed\u2019 signing brazil int\u2019l striker and made a \u2018call\u2019 \u2013 top so",
@@ -1162,7 +1162,8 @@
     "gonzalo garcia joins fulham as real madrid confirm permanent transfer",
     "rodri looks set to leave manchester city this summer",
     "bernardo silva details his motivations after joining real madrid and reuniting w",
-    "man city send 'official bid' for james trafford replacement as leeds united tran"
+    "man city send 'official bid' for james trafford replacement as leeds united tran",
+    "liverpool identify \u00a3130m perfect iraola signing as bradley barcola alternative"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1383,7 +1384,6 @@
     "yan couto": "https://r2.thesportsdb.com/images/media/player/cutout/hadu641756326239.png/small",
     "pedro neto": "https://r2.thesportsdb.com/images/media/player/cutout/g63rmf1757003837.png/small",
     "juanlu": "https://r2.thesportsdb.com/images/media/player/cutout/ut8z8e1762859860.png/small",
-    "axel donczew": "",
     "victor froholdt": "",
     "kyle healy": "",
     "benji flowers": "",
@@ -1394,9 +1394,10 @@
     "illia zabarnyi": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Illya_Zabarnyi_2023.jpg/330px-Illya_Zabarnyi_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "mateo soule": "",
     "ousmane ndiaye": "",
-    "martin": ""
+    "martin": "",
+    "axel donczew": ""
   },
-  "photo_repair_idx": 6,
+  "photo_repair_idx": 7,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

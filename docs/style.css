@@ -9,7 +9,6 @@
   --shadow: 0 3px 14px rgba(28, 35, 32, .07);
   --s-completed-bg: #d9f2e2; --s-completed-fg: #1c7c43;
   --s-herewego-bg: #fff0c2;  --s-herewego-fg: #9a6b00;
-  --s-medical-bg: #dcefff;   --s-medical-fg: #1663a7;
   --s-rumour-bg: #ece9f7;    --s-rumour-fg: #5b4ea3;
   --in-bg: #dbeafe; --in-fg: #1d4ed8;
   --out-bg: #fee2e2; --out-fg: #b91c1c;
@@ -25,7 +24,6 @@
   --shadow: 0 3px 14px rgba(0, 0, 0, .35);
   --s-completed-bg: #143d24; --s-completed-fg: #6fdb99;
   --s-herewego-bg: #3d3208;  --s-herewego-fg: #ecc94b;
-  --s-medical-bg: #0e2b45;   --s-medical-fg: #7cc4f8;
   --s-rumour-bg: #29243d;    --s-rumour-fg: #b3a6ec;
   --in-bg: #172a54; --in-fg: #93b4f8;
   --out-bg: #451a1a; --out-fg: #f8a5a5;
@@ -42,7 +40,6 @@
     --shadow: 0 3px 14px rgba(0, 0, 0, .35);
     --s-completed-bg: #143d24; --s-completed-fg: #6fdb99;
     --s-herewego-bg: #3d3208;  --s-herewego-fg: #ecc94b;
-    --s-medical-bg: #0e2b45;   --s-medical-fg: #7cc4f8;
     --s-rumour-bg: #29243d;    --s-rumour-fg: #b3a6ec;
     --in-bg: #172a54; --in-fg: #93b4f8;
     --out-bg: #451a1a; --out-fg: #f8a5a5;
@@ -138,7 +135,6 @@ main { padding: 4px 14px 48px; max-width: 640px; margin: 0 auto; }
 }
 .s-completed { background: var(--s-completed-bg); color: var(--s-completed-fg); }
 .s-herewego { background: var(--s-herewego-bg); color: var(--s-herewego-fg); }
-.s-medical { background: var(--s-medical-bg); color: var(--s-medical-fg); }
 .s-rumour { background: var(--s-rumour-bg); color: var(--s-rumour-fg); }
 .badge.in { background: var(--in-bg); color: var(--in-fg); margin-left: 6px; }
 .badge.out { background: var(--out-bg); color: var(--out-fg); margin-left: 6px; }

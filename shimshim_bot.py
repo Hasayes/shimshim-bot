@@ -2,11 +2,11 @@
 """Poll a news API for transfer news from a set of football journalists, use
 Claude to turn each item into a structured scouting briefing (player, clubs,
 fee, style of play, fit), and push it to a Telegram chat. Two tracks:
-deal-stage news (here we go / medical / completed) for any club, one message
-per stage; and interest-stage news (rumours, bids, talks) for the WATCHED_CLUBS
-only, one message per player+club pair. Designed to run on a cron (GitHub
-Actions or launchd). State (processed article IDs, sent deal stages and
-interest pairs) is kept in state.json so the same story is never sent twice.
+deal-stage news (here we go / completed) for any club, one message per stage;
+and interest-stage news (rumours, bids, talks) for the WATCHED_CLUBS only, one
+message per player+club pair. Designed to run on a cron (GitHub Actions or
+launchd). State (processed article IDs, sent deal stages and interest pairs)
+is kept in state.json so the same story is never sent twice.
 
 Required environment variables:
   TELEGRAM_BOT_TOKEN   Bot HTTP API token from @BotFather
@@ -627,8 +627,8 @@ def interest_keys(brief):
 
 
 # A deal message is sent when its stage outranks what was already sent for
-# that deal — so here we go -> medical -> completed gives three messages,
-# but a late lower-stage article after a completed one is suppressed.
+# that deal — so here we go -> completed gives two messages, but a late
+# lower-stage article after a completed one is suppressed.
 STAGE_RANK = {"here we go": 1, "completed": 2}
 
 

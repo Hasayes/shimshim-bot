@@ -610,7 +610,11 @@
     "87ac999cbc7523c91d9841e81579cc09",
     "abd2314904ee3dcb25de916d75834985",
     "4848faa053eb3819c239dc82dea758a6",
-    "0415e582da7d344cba6119b32b2cdcae"
+    "0415e582da7d344cba6119b32b2cdcae",
+    "ded58fa855d88cfcc10ff9a5f9e66f1a",
+    "c058ef6fbe6aa6927c2c7492d45b11c2",
+    "c0cf65d8cda04a280c1bba73a9e478bc",
+    "b88966b23cefa372ac563e5b189de0df"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -961,13 +965,11 @@
     "interest: zabarnyi -> liverpool",
     "interest: reijnders -> manchester city",
     "interest: neto -> tottenham",
-    "interest: solanke -> tottenham"
+    "interest: solanke -> tottenham",
+    "interest: balogun -> tottenham",
+    "interest: jackson -> tottenham"
   ],
   "titles": [
-    "chelsea submit new and improved bid for pep chavarria \u2014 reports",
-    "arsenal offer 135 million for vinicius junior",
-    "\ud83d\udea8 \ud83d\udc9c fiorentina have agreed loan deal to sign joao mario from juventus the agreem",
-    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f exclusive: fc koln send official bid to sign mickey moore on loan from to",
     "galatasaray snub arsenal\u2019s osimhen swap proposal",
     "transfer news and rumours today: man united make striker decision, chelsea flop ",
     "l'ol officialise bacher, les dernieres infos en direct",
@@ -1263,7 +1265,11 @@
     "bruno guimaraes to arsenal to be finalised \u201ctoday\u201d + other major transfers that ",
     "liverpool transfer news: reds 'target' a second paris saint germain forward afte",
     "rb leipzig shuts down reports of completed yan diomande transfer to madrid",
-    "fulham in 'advanced' talks over deal to sign leeds united target shea charles fr"
+    "fulham in 'advanced' talks over deal to sign leeds united target shea charles fr",
+    "transfer rumors, news: spurs eye usmnt star balogun, alongside osimhen, jackson",
+    "romano reveals nicolas jackson to tottenham truth amid claims spurs could move f",
+    "fabrizio romano offers intriguing matias soule update amid sunderland and ac mil",
+    "roma finalizing molina deal worth \u20ac17 million: agreement reached with atletico, "
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1491,7 +1497,6 @@
     "radek vitek": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/FC_Red_Bull_Salzburg_gegen_FC_Blau-Wei%C3%9F_Linz_%282025-04-06_%C3%96sterreichische_Bundesliga%29_42.jpg/330px-FC_Red_Bull_Salzburg_gegen_FC_Blau-Wei%C3%9F_Linz_%282025-04-06_%C3%96sterreichische_Bundesliga%29_42.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "takehiro tomiyasu": "https://r2.thesportsdb.com/images/media/player/cutout/sfhhub1694204158.png/small",
     "nahuel molina": "https://r2.thesportsdb.com/images/media/player/cutout/36bdni1762288498.png/small",
-    "kerem alajbegovic": "",
     "mateo soule": "",
     "ousmane ndiaye": "",
     "martin": "",
@@ -1501,9 +1506,11 @@
     "benji flowers": "",
     "mishel nduka": "",
     "rodri hernandez": "",
-    "junior kroupi": ""
+    "junior kroupi": "",
+    "nicolas jackson": "https://r2.thesportsdb.com/images/media/player/cutout/uteluc1762963819.png/small",
+    "kerem alajbegovic": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

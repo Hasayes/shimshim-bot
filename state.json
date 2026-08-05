@@ -551,7 +551,9 @@
     "311f5769b6c79f166e662033997697b7",
     "tg:FabrizioRomanoTG/64060",
     "tg:FabrizioRomanoTG/64061",
-    "tg:FabrizioRomanoTG/64062"
+    "tg:FabrizioRomanoTG/64062",
+    "51c907af5fad9a914b0dd1fd15213fd8",
+    "tg:FabrizioRomanoTG/64065"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -714,7 +716,8 @@
     "couto -> como": 1,
     "juanlu -> bournemouth": 1,
     "rashford -> manchester united": 2,
-    "chavarria -> chelsea": 1
+    "chavarria -> chelsea": 1,
+    "bayindir -> celta vigo": 1
   },
   "interest": [
     "interest: alvarez -> arsenal",
@@ -894,8 +897,6 @@
     "interest: solanke -> tottenham"
   ],
   "titles": [
-    "arsenal target vinicius set to hold make or break talk with madrid",
-    "\u201cnew proposal\u201d \u2013 chelsea make improved bid for top xabi alonso transfer target",
     "chelsea reach agreement with \u00a342m marc cucurella replacement after xabi alonso r",
     "fabrizio romano has just dropped bruno guimaraes to arsenal update \u2013 \u2018get ready\u2019",
     "liverpool transfer news euro giants 'ruled out' of bradley barcola deal and cent",
@@ -1193,7 +1194,9 @@
     "opinion: would you replace gyokeres with osimhen?",
     "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f breaking: bruno guimaraes to arsenal, here we go! \ud83c\udde7\ud83c\uddf7 agreement in place w",
     "\ud83d\udea8 \ud83c\uddf8\ud83c\udde6 excl: al diriyah fc reach verbal agreement to sign berat djimsiti from atal",
-    "rt @fabrizioromano : \ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f breaking: bruno guimaraes to arsenal, here we go! \ud83c\udde7\ud83c\uddf7"
+    "rt @fabrizioromano : \ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f breaking: bruno guimaraes to arsenal, here we go! \ud83c\udde7\ud83c\uddf7",
+    "tottenham \u2018agree\u2019 winger deal as \u00a365m rated chelsea star could be next signing",
+    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f celta vigo have agreed deal with man united to sign altay bayindir as new"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1416,7 +1419,6 @@
     "juanlu": "https://r2.thesportsdb.com/images/media/player/cutout/ut8z8e1762859860.png/small",
     "illia zabarnyi": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Illya_Zabarnyi_2023.jpg/330px-Illya_Zabarnyi_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "tijjani reijnders": "https://r2.thesportsdb.com/images/media/player/cutout/edgl5b1769182353.png/small",
-    "mateo soule": "",
     "ousmane ndiaye": "",
     "martin": "",
     "dominic solanke": "https://r2.thesportsdb.com/images/media/player/cutout/e4lpxy1757016341.png/small",
@@ -1427,9 +1429,11 @@
     "mishel nduka": "",
     "rodri hernandez": "",
     "junior kroupi": "",
-    "kerem alajbegovic": ""
+    "kerem alajbegovic": "",
+    "altay bayindir": "https://images.fotmob.com/image_resources/playerimages/866967.png",
+    "mateo soule": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",
@@ -1559,6 +1563,7 @@
     "al ittihad": "https://images.fotmob.com/image_resources/logo/teamlogo/8577.png",
     "rc deportivo de la coruna": "",
     "inter": "https://images.fotmob.com/image_resources/logo/teamlogo/8636.png",
-    "sevilla": "https://r2.thesportsdb.com/images/media/team/badge/vpsqqx1473502977.png/small"
+    "sevilla": "https://r2.thesportsdb.com/images/media/team/badge/vpsqqx1473502977.png/small",
+    "celta vigo": "https://r2.thesportsdb.com/images/media/team/badge/xfjtku1690436219.png/small"
   }
 }

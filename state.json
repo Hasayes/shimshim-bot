@@ -531,7 +531,13 @@
     "320a9bc140c5918c078a8572281d0b09",
     "1c34c4b4be5f2da074b0444c7d4924f9",
     "6f0239890b05fae81a83e72d315c1415",
-    "cd031bf453cc42899e8a83920f9457b6"
+    "cd031bf453cc42899e8a83920f9457b6",
+    "2da6ae2ce4d216f9b8f181a04041609f",
+    "86192291e9277f15c63f4285b32fc536",
+    "bbc62e18f8a67f76926ad010138441a7",
+    "6605a61bb85229f4c822937f040744eb",
+    "6cab4c70a7b3c4da152c2e58cd8ad12e",
+    "7bd07983d2c83b526957888dc7acdfea"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -870,12 +876,6 @@
     "interest: zabarnyi -> liverpool"
   ],
   "titles": [
-    "\u201cfirst choice\u201d target for tottenham named as they eye liverpool & barcelona atta",
-    "vinicius junior to arsenal: real madrid present three options to winger as 'cruc",
-    "fabrizio romano: everton preparing bid for man utd star ethan wheatley",
-    "liverpool get clear bradley barcola transfer boost as psg turn attention to ajax",
-    "diomande set for real madrid as rodri talks remain on ice",
-    "maghnes akliouche from monaco to psg: here we go finally",
     "everton want manchester united striker ethan wheatley",
     "everton ready proposal to make formal offer for 20 y/o forward report",
     "transfer news and rumours today: everton eyeing man united forward, psg to sign ",
@@ -1169,7 +1169,13 @@
     "como schedule chalobah and couto medicals after chelsea and dortmund deals",
     "nine man utd players could leave this summer with one star currently in spain to",
     "transfer news live: arsenal step up bruno guimaraes talks, man utd learn lewis h",
-    "arsenal close to total agreement to sign newcastle's bruno guimaraes"
+    "arsenal close to total agreement to sign newcastle's bruno guimaraes",
+    "\ud83d\udca3 juve zirkzee, porto on gimenez, fiorentina on mastantuono \ud83e\udd0f\ud83e\udd11",
+    "salah 'agreement' reached, barca stick to alvarez plan euro transfer news",
+    "tottenham deal for winger \u2018agreed\u2019 as de zerbi targets \u00a365m chelsea star in doub",
+    "bruno guimaraes to arsenal: david ornstein provides positive transfer update ove",
+    "leeds united set for seven figure windfall as \u00a324m transfer of ex youngster conf",
+    "psg strategy for signing ferran torres from barcelona revealed barca blaugranes"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1391,7 +1397,6 @@
     "pedro neto": "https://r2.thesportsdb.com/images/media/player/cutout/g63rmf1757003837.png/small",
     "juanlu": "https://r2.thesportsdb.com/images/media/player/cutout/ut8z8e1762859860.png/small",
     "illia zabarnyi": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Illya_Zabarnyi_2023.jpg/330px-Illya_Zabarnyi_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "victor froholdt": "",
     "kyle healy": "",
     "benji flowers": "",
     "mishel nduka": "",
@@ -1401,9 +1406,10 @@
     "mateo soule": "",
     "ousmane ndiaye": "",
     "martin": "",
-    "axel donczew": ""
+    "axel donczew": "",
+    "victor froholdt": ""
   },
-  "photo_repair_idx": 7,
+  "photo_repair_idx": 8,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

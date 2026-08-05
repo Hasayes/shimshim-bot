@@ -542,7 +542,9 @@
     "a5c7ab7a1b27f8234447f9bed8ec87b1",
     "a99a36455035231c2a7cb781a4a0c49e",
     "b0677a0dcbe6dcac5d85f93b55b5030e",
-    "93c333e9e7d0b58d2a6c3959a387419f"
+    "93c333e9e7d0b58d2a6c3959a387419f",
+    "f9c28e0608eb54553623cc2f61adc035",
+    "e01f7ade12c9749896024cf08b2a1645"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -883,8 +885,6 @@
     "interest: neto -> tottenham"
   ],
   "titles": [
-    "premier league star not waiting for barcelona as he looks to join european giant",
-    "real madrid star vinicius jr's entourage respond amid rumours of personal terms ",
     "just in: barcelona forward\u2019s move to psg gathers momentum; direct talks expected",
     "fabrizio romano confirms bizarre move between man utd and everton is on \u2013 \u2018forma",
     "fabrizio romano confirms bizarre move between man utd and everton is on 'formal ",
@@ -1182,7 +1182,9 @@
     "manchester city commence talks with the entourage of chelsea winger pedro neto",
     "tijjani reijnders attract concrete interest: manchester city want \u20ac64 million",
     "burnley man completes \u00a316m switch to premier league newcomers",
-    "romano: tottenham now considering move for chelsea winger pedro neto"
+    "romano: tottenham now considering move for chelsea winger pedro neto",
+    "jacobs reveals huge chelsea \u2018breakthrough\u2019 for next signing with clubs \u2018now in a",
+    "jacobs reveals huge chelsea 'breakthrough' for next signing with clubs 'now in a"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1404,7 +1406,6 @@
     "pedro neto": "https://r2.thesportsdb.com/images/media/player/cutout/g63rmf1757003837.png/small",
     "juanlu": "https://r2.thesportsdb.com/images/media/player/cutout/ut8z8e1762859860.png/small",
     "illia zabarnyi": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Illya_Zabarnyi_2023.jpg/330px-Illya_Zabarnyi_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "martin": "",
     "axel donczew": "",
     "victor froholdt": "",
     "kyle healy": "",
@@ -1415,9 +1416,10 @@
     "junior kroupi": "",
     "kerem alajbegovic": "",
     "mateo soule": "",
-    "ousmane ndiaye": ""
+    "ousmane ndiaye": "",
+    "martin": ""
   },
-  "photo_repair_idx": 5,
+  "photo_repair_idx": 6,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

@@ -565,7 +565,8 @@
     "tg:FabrizioRomanoTG/64069",
     "tg:FabrizioRomanoTG/64070",
     "tg:FabrizioRomanoTG/64071",
-    "tg:FabrizioRomanoTG/64072"
+    "tg:FabrizioRomanoTG/64072",
+    "cbb43ef78b63a36daf76844befaab9ac"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -911,7 +912,6 @@
     "interest: solanke -> tottenham"
   ],
   "titles": [
-    "arsenal\u2019s gyokeres plus \u20ac30m swap bid for super eagles star rejected \u2013 reports",
     "video: alajbegovic arrives for juventus, medical on sunday",
     "man utd react to \u2018agreement\u2019 claim about altay bayindir and celta de vigo",
     "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 paris saint germain have presented their project to zion suzuki in order t",
@@ -1210,7 +1210,8 @@
     "\ud83d\udea8 \ud83d\udca3 breaking: franco mastantuono on loan to fiorentina, here we go! \ud83d\udfe3 \ud83c\udde6\ud83c\uddf7 agreeme",
     "\ud83d\udea8 \u26a0\ufe0f napoli confirm romelu lukaku has not joined pre season camp the official ag",
     "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f gks exits at man united today as bayindir joins celta vigo and radek vite",
-    "rt @fabrizioromano : \ud83d\udea8 \ud83d\udca3 breaking: franco mastantuono on loan to fiorentina, her"
+    "rt @fabrizioromano : \ud83d\udea8 \ud83d\udca3 breaking: franco mastantuono on loan to fiorentina, her",
+    "trabzonspor announces it has started negotiations with mohamed salah sportsnet c"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1434,7 +1435,6 @@
     "illia zabarnyi": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Illya_Zabarnyi_2023.jpg/330px-Illya_Zabarnyi_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "tijjani reijnders": "https://r2.thesportsdb.com/images/media/player/cutout/edgl5b1769182353.png/small",
     "dominic solanke": "https://r2.thesportsdb.com/images/media/player/cutout/e4lpxy1757016341.png/small",
-    "mishel nduka": "",
     "rodri hernandez": "",
     "junior kroupi": "",
     "kerem alajbegovic": "",
@@ -1446,9 +1446,10 @@
     "victor froholdt": "",
     "kyle healy": "",
     "radek vitek": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/FC_Red_Bull_Salzburg_gegen_FC_Blau-Wei%C3%9F_Linz_%282025-04-06_%C3%96sterreichische_Bundesliga%29_42.jpg/330px-FC_Red_Bull_Salzburg_gegen_FC_Blau-Wei%C3%9F_Linz_%282025-04-06_%C3%96sterreichische_Bundesliga%29_42.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "benji flowers": ""
+    "benji flowers": "",
+    "mishel nduka": ""
   },
-  "photo_repair_idx": 10,
+  "photo_repair_idx": 11,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

@@ -529,7 +529,8 @@
     "06206852e869874b8ea4b66afb84942e",
     "bf60d5233185586e9b2f4e65e384f6de",
     "320a9bc140c5918c078a8572281d0b09",
-    "1c34c4b4be5f2da074b0444c7d4924f9"
+    "1c34c4b4be5f2da074b0444c7d4924f9",
+    "6f0239890b05fae81a83e72d315c1415"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -868,7 +869,6 @@
     "interest: zabarnyi -> liverpool"
   ],
   "titles": [
-    "potential third man utd midfield signing now \u2018open\u2019 to joining after new chelsea",
     "wolves transfer news: bid 'rejected' from real sociedad for key defender",
     "\u201cfirst choice\u201d target for tottenham named as they eye liverpool & barcelona atta",
     "vinicius junior to arsenal: real madrid present three options to winger as 'cruc",
@@ -1167,7 +1167,8 @@
     "break the bank for bradley barcola! liverpool must pay psg whatever fee they wan",
     "barcelona\u2019s ambitious swap plan remains stalled because of la liga rivals\u2019 firm ",
     "como schedule chalobah and couto medicals after chelsea and dortmund deals",
-    "nine man utd players could leave this summer with one star currently in spain to"
+    "nine man utd players could leave this summer with one star currently in spain to",
+    "transfer news live: arsenal step up bruno guimaraes talks, man utd learn lewis h"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1389,7 +1390,6 @@
     "pedro neto": "https://r2.thesportsdb.com/images/media/player/cutout/g63rmf1757003837.png/small",
     "juanlu": "https://r2.thesportsdb.com/images/media/player/cutout/ut8z8e1762859860.png/small",
     "illia zabarnyi": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Illya_Zabarnyi_2023.jpg/330px-Illya_Zabarnyi_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "mateo soule": "",
     "ousmane ndiaye": "",
     "martin": "",
     "axel donczew": "",
@@ -1399,9 +1399,10 @@
     "mishel nduka": "",
     "rodri hernandez": "",
     "junior kroupi": "",
-    "kerem alajbegovic": ""
+    "kerem alajbegovic": "",
+    "mateo soule": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

@@ -550,7 +550,8 @@
     "309f8c55eb43779ce874e72cb436ff2a",
     "311f5769b6c79f166e662033997697b7",
     "tg:FabrizioRomanoTG/64060",
-    "tg:FabrizioRomanoTG/64061"
+    "tg:FabrizioRomanoTG/64061",
+    "tg:FabrizioRomanoTG/64062"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -893,7 +894,6 @@
     "interest: solanke -> tottenham"
   ],
   "titles": [
-    "yan diomande officially ruled out of rb leipzig training camp as demichelis addr",
     "arsenal target vinicius set to hold make or break talk with madrid",
     "\u201cnew proposal\u201d \u2013 chelsea make improved bid for top xabi alonso transfer target",
     "chelsea reach agreement with \u00a342m marc cucurella replacement after xabi alonso r",
@@ -1192,7 +1192,8 @@
     "man utd launch move for next signing with chelsea also ready to pounce after not",
     "opinion: would you replace gyokeres with osimhen?",
     "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f breaking: bruno guimaraes to arsenal, here we go! \ud83c\udde7\ud83c\uddf7 agreement in place w",
-    "\ud83d\udea8 \ud83c\uddf8\ud83c\udde6 excl: al diriyah fc reach verbal agreement to sign berat djimsiti from atal"
+    "\ud83d\udea8 \ud83c\uddf8\ud83c\udde6 excl: al diriyah fc reach verbal agreement to sign berat djimsiti from atal",
+    "rt @fabrizioromano : \ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f breaking: bruno guimaraes to arsenal, here we go! \ud83c\udde7\ud83c\uddf7"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1415,7 +1416,6 @@
     "juanlu": "https://r2.thesportsdb.com/images/media/player/cutout/ut8z8e1762859860.png/small",
     "illia zabarnyi": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Illya_Zabarnyi_2023.jpg/330px-Illya_Zabarnyi_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "tijjani reijnders": "https://r2.thesportsdb.com/images/media/player/cutout/edgl5b1769182353.png/small",
-    "kerem alajbegovic": "",
     "mateo soule": "",
     "ousmane ndiaye": "",
     "martin": "",
@@ -1426,9 +1426,10 @@
     "benji flowers": "",
     "mishel nduka": "",
     "rodri hernandez": "",
-    "junior kroupi": ""
+    "junior kroupi": "",
+    "kerem alajbegovic": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

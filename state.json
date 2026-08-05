@@ -511,7 +511,18 @@
     "9c75e61e15f7d140f245f31dc4174aa0",
     "f921aac477431573b8830c21e0e89236",
     "tg:FabrizioRomanoTG/64055",
-    "tg:FabrizioRomanoTG/64056"
+    "tg:FabrizioRomanoTG/64056",
+    "3ee08554753a1b7e3800fb1855ca4097",
+    "af690b50fb82f96f8cd20177e396367d",
+    "f090d3794c95c55d3424ecd05e4cbdfb",
+    "d3aeb38ae220c9de8c7b800e7c3482a9",
+    "3119eb7e343f97be22c8cecd1dcdbd1a",
+    "f07d3c229fbe43b08822fb75733e9f5a",
+    "8e5e12cc941499dafab51b134614f7fd",
+    "d7d21e8251865fc44a7310f20acc821a",
+    "38872e5b130316e40767e1ca634c0a35",
+    "72ca073081c5ce2cd3b275eae62265fa",
+    "e7e52c3202fa0ff3e4e66c1a69988ce0"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -846,20 +857,10 @@
     "interest: singo -> liverpool",
     "interest: gonzalez -> inter",
     "interest: neto -> manchester city",
-    "interest: torres -> tottenham"
+    "interest: torres -> tottenham",
+    "interest: zabarnyi -> liverpool"
   ],
   "titles": [
-    "\u26aa\ufe0f \u26ab\ufe0f \u2708\ufe0f final details for randal kolo muani to juventus permanent deal \u20ac38m fee",
-    "raphael onyedika joins frankfurt: breaking down the \u20a615 7 billion deal",
-    "biggest man utd signing of the summer \u2018approved\u2019 \u2013 fabrizio romano",
-    "biggest man utd signing of the summer \u2018approved\u2019 \u2013 fabrizio romano teamtalk",
-    "deal expected this weekend as real madrid stance on arsenal transfer target expl",
-    "vinicius junior\u2019s entourage respond to reports of agreement with arsenal",
-    "schalke inquire for out of favour brighton sensation buonanotte",
-    "liverpool cleared to sign barcola as romano declares \u2018here we go\u2019 and french rep",
-    "\ud83d\udea8 \ud83d\udd34 \u26ab\ufe0f miguel gutierrez to bayer leverkusen, here we go! napoli verbally accept ",
-    "vinicius junior open to arsenal transfer with personal terms agreement expected",
-    "psg unlocks barcola to liverpool transfer as romano makes \u2018will be completed\u2019 cl",
     "arsenal warned over \u2018biggest red herring in history\u2019 amid growing vinicius jr re",
     "\ud83d\ude37 signed off sick for real move? superstar set to seal the deal!",
     "leeds united flop facundo buonanotte 'set' to leave brighton & hove albion with ",
@@ -1148,7 +1149,18 @@
     "bayer leverkusen open talks to re sign moussa diaby amid interest from benfica a",
     "arsenal agree bruno guimaraes fee as journalist explains why newcastle are \u2018furi",
     "\ud83d\udea8 \ud83d\udfe1 \ud83d\udd34 as roma are advancing in talks to sign nahuel molina from atletico madrid ",
-    "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 psg and bayer leverkusen have excellent relationship as talks for ibrahima"
+    "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 psg and bayer leverkusen have excellent relationship as talks for ibrahima",
+    "psg target has \u201csaid yes\u201d to \u20ac45m move and has had contact with manager and spor",
+    "man city agree terms for rodri replacement as romano confirms \u2018official bid toda",
+    "psg accelerate deal ahead of liverpool: \u20ac33m offer is in",
+    "transfer news and rumours: chelsea teen 'wanted' by wigan athletic, fulham doubl",
+    "man city transfer news: citizens submit 'first bid' for james trafford replaceme",
+    "liverpool in talks to sign psg defender zabarnyi alongside barcola",
+    "yan diomande transfer news: rb leipzig chief hits back at fabrizio romano\u2019s \u2018her",
+    "newcastle make progress for man utd midfield target as bruno guimaraes to arsena",
+    "\ud83d\udd25 all in for diomande, real madrid step up to seal his signing",
+    "gonzalo garcia joins fulham as real madrid confirm permanent transfer",
+    "rodri looks set to leave manchester city this summer"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1369,7 +1381,6 @@
     "yan couto": "https://r2.thesportsdb.com/images/media/player/cutout/hadu641756326239.png/small",
     "pedro neto": "https://r2.thesportsdb.com/images/media/player/cutout/g63rmf1757003837.png/small",
     "juanlu": "https://r2.thesportsdb.com/images/media/player/cutout/ut8z8e1762859860.png/small",
-    "mateo soule": "",
     "ousmane ndiaye": "",
     "martin": "",
     "axel donczew": "",
@@ -1379,9 +1390,11 @@
     "mishel nduka": "",
     "rodri hernandez": "",
     "junior kroupi": "",
-    "kerem alajbegovic": ""
+    "kerem alajbegovic": "",
+    "illia zabarnyi": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Illya_Zabarnyi_2023.jpg/330px-Illya_Zabarnyi_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "mateo soule": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

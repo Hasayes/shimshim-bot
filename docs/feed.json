@@ -1,5 +1,25 @@
 [
  {
+  "id": "f07d3c229fbe43b08822fb75733e9f5a",
+  "ts": "2026-08-05T00:30:48+00:00",
+  "kind": "interest",
+  "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Illya_Zabarnyi_2023.jpg/330px-Illya_Zabarnyi_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "stage": "\u2014",
+  "player": "Illia Zabarnyi",
+  "position": "Defender",
+  "age": "\u2014",
+  "from_club": "Paris Saint-Germain",
+  "to_club": "Liverpool",
+  "fee": "\u2014",
+  "style": "\u2014",
+  "fit": "\u2014",
+  "source": "givemesport",
+  "summary": "Liverpool is in talks with Paris Saint-Germain over defender Illia Zabarnyi as the club explores summer transfer options.",
+  "outlet": "givemesport",
+  "url": "https://www.givemesport.com/liverpool-hold-talks-psg-transfer-illia-zabarnyi/",
+  "title": "Liverpool in Talks to Sign PSG Defender Zabarnyi Alongside Barcola"
+ },
+ {
   "id": "tg:FabrizioRomanoTG/64049",
   "ts": "2026-08-04T19:32:40+00:00",
   "kind": "deal",

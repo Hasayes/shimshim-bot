@@ -522,7 +522,8 @@
     "d7d21e8251865fc44a7310f20acc821a",
     "38872e5b130316e40767e1ca634c0a35",
     "72ca073081c5ce2cd3b275eae62265fa",
-    "e7e52c3202fa0ff3e4e66c1a69988ce0"
+    "e7e52c3202fa0ff3e4e66c1a69988ce0",
+    "32f10fe58e17a82fe435079f19c85feb"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -861,7 +862,6 @@
     "interest: zabarnyi -> liverpool"
   ],
   "titles": [
-    "arsenal warned over \u2018biggest red herring in history\u2019 amid growing vinicius jr re",
     "\ud83d\ude37 signed off sick for real move? superstar set to seal the deal!",
     "leeds united flop facundo buonanotte 'set' to leave brighton & hove albion with ",
     "arsenal close in on newcastle united signing",
@@ -1160,7 +1160,8 @@
     "newcastle make progress for man utd midfield target as bruno guimaraes to arsena",
     "\ud83d\udd25 all in for diomande, real madrid step up to seal his signing",
     "gonzalo garcia joins fulham as real madrid confirm permanent transfer",
-    "rodri looks set to leave manchester city this summer"
+    "rodri looks set to leave manchester city this summer",
+    "bernardo silva details his motivations after joining real madrid and reuniting w"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1381,7 +1382,6 @@
     "yan couto": "https://r2.thesportsdb.com/images/media/player/cutout/hadu641756326239.png/small",
     "pedro neto": "https://r2.thesportsdb.com/images/media/player/cutout/g63rmf1757003837.png/small",
     "juanlu": "https://r2.thesportsdb.com/images/media/player/cutout/ut8z8e1762859860.png/small",
-    "ousmane ndiaye": "",
     "martin": "",
     "axel donczew": "",
     "victor froholdt": "",
@@ -1392,9 +1392,10 @@
     "junior kroupi": "",
     "kerem alajbegovic": "",
     "illia zabarnyi": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Illya_Zabarnyi_2023.jpg/330px-Illya_Zabarnyi_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "mateo soule": ""
+    "mateo soule": "",
+    "ousmane ndiaye": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 5,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

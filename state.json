@@ -567,7 +567,10 @@
     "tg:FabrizioRomanoTG/64071",
     "tg:FabrizioRomanoTG/64072",
     "cbb43ef78b63a36daf76844befaab9ac",
-    "2c894776d6b6d14d8a4e07af5d0bf2be"
+    "2c894776d6b6d14d8a4e07af5d0bf2be",
+    "bd66af0153cbe83a25945ab44591be45",
+    "1240f103306ebd446640f22fd90f7daf",
+    "tg:FabrizioRomanoTG/64074"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -913,8 +916,6 @@
     "interest: solanke -> tottenham"
   ],
   "titles": [
-    "man utd react to \u2018agreement\u2019 claim about altay bayindir and celta de vigo",
-    "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 paris saint germain have presented their project to zion suzuki in order t",
     "romano: everton interested in man united young striker",
     "\ud83d\udea8 \ud83c\udde6\ud83c\uddf7 aston villa have been informed by juventus about plans not to proceed with ",
     "fabrizio romano bombshell is simply massive for liverpool",
@@ -1212,7 +1213,9 @@
     "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f gks exits at man united today as bayindir joins celta vigo and radek vite",
     "rt @fabrizioromano : \ud83d\udea8 \ud83d\udca3 breaking: franco mastantuono on loan to fiorentina, her",
     "trabzonspor announces it has started negotiations with mohamed salah sportsnet c",
-    "romano gives \u2018here we go\u2019 to salah deal as liverpool legend\u2019s transfer timeline "
+    "romano gives \u2018here we go\u2019 to salah deal as liverpool legend\u2019s transfer timeline ",
+    "mohamed salah's new club 'confirmed' as liverpool icon to greet fans at airport ",
+    "\ud83d\udd35 \u26aa\ufe0f \ud83c\uddef\ud83c\uddf5 daisuke yokota completes rangers move as revealed on monday \ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udffc yokota"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1436,7 +1439,6 @@
     "illia zabarnyi": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Illya_Zabarnyi_2023.jpg/330px-Illya_Zabarnyi_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "tijjani reijnders": "https://r2.thesportsdb.com/images/media/player/cutout/edgl5b1769182353.png/small",
     "dominic solanke": "https://r2.thesportsdb.com/images/media/player/cutout/e4lpxy1757016341.png/small",
-    "junior kroupi": "",
     "kerem alajbegovic": "",
     "altay bayindir": "https://images.fotmob.com/image_resources/playerimages/866967.png",
     "mateo soule": "",
@@ -1448,9 +1450,10 @@
     "radek vitek": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/FC_Red_Bull_Salzburg_gegen_FC_Blau-Wei%C3%9F_Linz_%282025-04-06_%C3%96sterreichische_Bundesliga%29_42.jpg/330px-FC_Red_Bull_Salzburg_gegen_FC_Blau-Wei%C3%9F_Linz_%282025-04-06_%C3%96sterreichische_Bundesliga%29_42.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "benji flowers": "",
     "mishel nduka": "",
-    "rodri hernandez": ""
+    "rodri hernandez": "",
+    "junior kroupi": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

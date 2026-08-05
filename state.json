@@ -1388,7 +1388,6 @@
     "yan couto": "https://r2.thesportsdb.com/images/media/player/cutout/hadu641756326239.png/small",
     "pedro neto": "https://r2.thesportsdb.com/images/media/player/cutout/g63rmf1757003837.png/small",
     "juanlu": "https://r2.thesportsdb.com/images/media/player/cutout/ut8z8e1762859860.png/small",
-    "junior kroupi": "",
     "kerem alajbegovic": "",
     "illia zabarnyi": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Illya_Zabarnyi_2023.jpg/330px-Illya_Zabarnyi_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "mateo soule": "",
@@ -1399,9 +1398,10 @@
     "kyle healy": "",
     "benji flowers": "",
     "mishel nduka": "",
-    "rodri hernandez": ""
+    "rodri hernandez": "",
+    "junior kroupi": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

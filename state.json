@@ -540,7 +540,8 @@
     "7bd07983d2c83b526957888dc7acdfea",
     "9674aa1c8548dea08fbeafea5c044f1b",
     "a5c7ab7a1b27f8234447f9bed8ec87b1",
-    "a99a36455035231c2a7cb781a4a0c49e"
+    "a99a36455035231c2a7cb781a4a0c49e",
+    "b0677a0dcbe6dcac5d85f93b55b5030e"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -880,7 +881,6 @@
     "interest: reijnders -> manchester city"
   ],
   "titles": [
-    "\u201cformal approach\u201d prepared: everton to move soon for man united attacker, says f",
     "everton interested in 20 year old manchester united striker",
     "premier league star not waiting for barcelona as he looks to join european giant",
     "real madrid star vinicius jr's entourage respond amid rumours of personal terms ",
@@ -1179,7 +1179,8 @@
     "psg strategy for signing ferran torres from barcelona revealed barca blaugranes",
     "everton can surely green light nahuel molina transfer as fee details emerge",
     "manchester city commence talks with the entourage of chelsea winger pedro neto",
-    "tijjani reijnders attract concrete interest: manchester city want \u20ac64 million"
+    "tijjani reijnders attract concrete interest: manchester city want \u20ac64 million",
+    "burnley man completes \u00a316m switch to premier league newcomers"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1401,7 +1402,6 @@
     "pedro neto": "https://r2.thesportsdb.com/images/media/player/cutout/g63rmf1757003837.png/small",
     "juanlu": "https://r2.thesportsdb.com/images/media/player/cutout/ut8z8e1762859860.png/small",
     "illia zabarnyi": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Illya_Zabarnyi_2023.jpg/330px-Illya_Zabarnyi_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "kerem alajbegovic": "",
     "mateo soule": "",
     "ousmane ndiaye": "",
     "martin": "",
@@ -1412,9 +1412,10 @@
     "mishel nduka": "",
     "rodri hernandez": "",
     "tijjani reijnders": "https://r2.thesportsdb.com/images/media/player/cutout/edgl5b1769182353.png/small",
-    "junior kroupi": ""
+    "junior kroupi": "",
+    "kerem alajbegovic": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

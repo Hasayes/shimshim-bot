@@ -625,7 +625,10 @@
     "71e94c64ad34c77538679d029cd7a4c0",
     "2d53d35cba2c6ff073745413de82b6e3",
     "tg:FabrizioRomanoTG/64103",
-    "tg:FabrizioRomanoTG/64104"
+    "tg:FabrizioRomanoTG/64104",
+    "d71b3b7cac2a77d127dcfe8341820daa",
+    "8770eac95b7d14aef6a0fd774cc851e7",
+    "9c8ba3d042e67014c07b9f4136aece02"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -986,9 +989,6 @@
     "interest: jackson -> tottenham"
   ],
   "titles": [
-    "done deal: napoli and bayer leverkusen have \u20ac30m gutierrez agreement in place",
-    "newcastle express interest in italy and atalanta defender scalvini",
-    "\ud83d\udea8 \u26a0\ufe0f after medical tests done on sunday with napoli\u2019s green light, schalke 04 de",
     "newcastle united drop major hint regarding bruno guimaraes' future amid arsenal ",
     "transfer gossip: portsmouth in 'advanced talks' to sign highly rated chelsea win",
     "chelsea reject joao pedro approaches from three clubs",
@@ -1285,7 +1285,10 @@
     "transfer news live: man utd breakthrough, arsenal done deal, vini jr meeting tod",
     "manchester united offload unwanted star as another nears exit: report",
     "\ud83d\udea8 \ud83d\udd35 official: christian n\u00f8rgaard leaves arsenal to join everton on a \u00a37m deal \ud83c\udde9\ud83c\uddf0",
-    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f bruno guimaraes has completed his medical at arsenal ahead of signing a f"
+    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f bruno guimaraes has completed his medical at arsenal ahead of signing a f",
+    "yan couto set for serie a switch as como and borussia dortmund reach loan agreem",
+    "yan couto set for como switch as borussia dortmund reach loan agreement",
+    "yan diomande joins rb leipzig camp in austria as real madrid talks continue; no "
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1513,7 +1516,6 @@
     "radek vitek": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/FC_Red_Bull_Salzburg_gegen_FC_Blau-Wei%C3%9F_Linz_%282025-04-06_%C3%96sterreichische_Bundesliga%29_42.jpg/330px-FC_Red_Bull_Salzburg_gegen_FC_Blau-Wei%C3%9F_Linz_%282025-04-06_%C3%96sterreichische_Bundesliga%29_42.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "takehiro tomiyasu": "https://r2.thesportsdb.com/images/media/player/cutout/sfhhub1694204158.png/small",
     "nahuel molina": "https://r2.thesportsdb.com/images/media/player/cutout/36bdni1762288498.png/small",
-    "benji flowers": "",
     "mishel nduka": "",
     "rodri hernandez": "",
     "junior kroupi": "",
@@ -1524,9 +1526,10 @@
     "martin": "",
     "axel donczew": "",
     "victor froholdt": "",
-    "kyle healy": ""
+    "kyle healy": "",
+    "benji flowers": ""
   },
-  "photo_repair_idx": 9,
+  "photo_repair_idx": 10,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

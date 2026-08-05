@@ -591,7 +591,8 @@
     "tg:FabrizioRomanoTG/64091",
     "tg:FabrizioRomanoTG/64092",
     "tg:FabrizioRomanoTG/64094",
-    "tg:FabrizioRomanoTG/64095"
+    "tg:FabrizioRomanoTG/64095",
+    "aa9c51591f52dabb5bc6b72bc14c53da"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -945,7 +946,6 @@
     "interest: solanke -> tottenham"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 exclusive: paris saint germain send \u20ac33m package bid to parma for japanese",
     "man utd news: green light for lewis hall transfer as \u00a370m star wants move",
     "bayern munich news: fc bayern to miss on bradley barcola again; mike godts wants",
     "bruno guimaraes nears arsenal move from newcastle united",
@@ -1244,7 +1244,8 @@
     "rt @madridxtra : \ud83d\udea8 @fabrizioromano : \u201cno doubt, no drama, yan diomande to real m",
     "\ud83d\udea8 \ud83d\udfe1 \ud83d\udd34 as roma agree \u20ac18m package deal for nahuel molina from atletico madrid, he",
     "\ud83d\udea8 \u26aa\ufe0f rb leipzig, set to allow yan diomande to travel for medical and contract si",
-    "\ud83d\udea8 \ud83d\udfe1 \ud83d\udd35 parma reach verbal agreement to sign el bilal toure from atalanta deal in "
+    "\ud83d\udea8 \ud83d\udfe1 \ud83d\udd35 parma reach verbal agreement to sign el bilal toure from atalanta deal in ",
+    "\u00a355m manchester city star open to transfer as pl club show interest"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1471,7 +1472,6 @@
     "altay bayindir": "https://images.fotmob.com/image_resources/playerimages/866967.png",
     "radek vitek": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/FC_Red_Bull_Salzburg_gegen_FC_Blau-Wei%C3%9F_Linz_%282025-04-06_%C3%96sterreichische_Bundesliga%29_42.jpg/330px-FC_Red_Bull_Salzburg_gegen_FC_Blau-Wei%C3%9F_Linz_%282025-04-06_%C3%96sterreichische_Bundesliga%29_42.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "takehiro tomiyasu": "https://r2.thesportsdb.com/images/media/player/cutout/sfhhub1694204158.png/small",
-    "junior kroupi": "",
     "kerem alajbegovic": "",
     "mateo soule": "",
     "ousmane ndiaye": "",
@@ -1482,9 +1482,10 @@
     "kyle healy": "",
     "benji flowers": "",
     "mishel nduka": "",
-    "rodri hernandez": ""
+    "rodri hernandez": "",
+    "junior kroupi": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

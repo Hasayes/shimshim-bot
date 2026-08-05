@@ -1527,7 +1527,6 @@
     "takehiro tomiyasu": "https://r2.thesportsdb.com/images/media/player/cutout/sfhhub1694204158.png/small",
     "nahuel molina": "https://r2.thesportsdb.com/images/media/player/cutout/36bdni1762288498.png/small",
     "nicolas jackson": "https://r2.thesportsdb.com/images/media/player/cutout/uteluc1762963819.png/small",
-    "martin": "",
     "axel donczew": "",
     "victor froholdt": "",
     "kyle healy": "",
@@ -1537,9 +1536,10 @@
     "junior kroupi": "",
     "kerem alajbegovic": "",
     "mateo soule": "",
-    "ousmane ndiaye": ""
+    "ousmane ndiaye": "",
+    "martin": ""
   },
-  "photo_repair_idx": 5,
+  "photo_repair_idx": 6,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

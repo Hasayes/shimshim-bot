@@ -617,7 +617,9 @@
     "b88966b23cefa372ac563e5b189de0df",
     "fe6640b9c48627d0a06ec87910e9814b",
     "4a03c548f3659a681ca963192a816aef",
-    "862fb4095362ae79dcacde14b9c61f15"
+    "862fb4095362ae79dcacde14b9c61f15",
+    "a5ecc5a515c946d37167942f441db25f",
+    "3e75ca0c3caf1f9a70a7bc189ce9f7b2"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -978,8 +980,6 @@
     "interest: jackson -> tottenham"
   ],
   "titles": [
-    "just in: romano issues mykhaylo mudryk update in a major boost for chelsea",
-    "sassuolo and juventus discussing final details of adzic transfer",
     "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f gio reyna to rc strasbourg, here we go! deal in place for the american to",
     "galatasaray reject gyokeres plus \u20ac30m for osimhen \u2013 report",
     "arsenal transfer news: arteta dodges question on vinicius junior rumours",
@@ -1277,7 +1277,9 @@
     "roma finalizing molina deal worth \u20ac17 million: agreement reached with atletico, ",
     "man utd finalising permanent transfer with middlesbrough in first of six deals t",
     "mikel arteta premier league trophy arsenal 2025 26",
-    "romano issues \u2018here we go\u2019 update for man united exit after player gets approval"
+    "romano issues \u2018here we go\u2019 update for man united exit after player gets approval",
+    "fabrizio romano confirms man utd transfer is \u2018here we go\u2019 done",
+    "fabrizio romano confirms man utd transfer is \u2018here we go\u2019 done teamtalk"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1505,7 +1507,6 @@
     "radek vitek": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/FC_Red_Bull_Salzburg_gegen_FC_Blau-Wei%C3%9F_Linz_%282025-04-06_%C3%96sterreichische_Bundesliga%29_42.jpg/330px-FC_Red_Bull_Salzburg_gegen_FC_Blau-Wei%C3%9F_Linz_%282025-04-06_%C3%96sterreichische_Bundesliga%29_42.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "takehiro tomiyasu": "https://r2.thesportsdb.com/images/media/player/cutout/sfhhub1694204158.png/small",
     "nahuel molina": "https://r2.thesportsdb.com/images/media/player/cutout/36bdni1762288498.png/small",
-    "martin": "",
     "axel donczew": "",
     "victor froholdt": "",
     "kyle healy": "",
@@ -1516,9 +1517,10 @@
     "nicolas jackson": "https://r2.thesportsdb.com/images/media/player/cutout/uteluc1762963819.png/small",
     "kerem alajbegovic": "",
     "mateo soule": "",
-    "ousmane ndiaye": ""
+    "ousmane ndiaye": "",
+    "martin": ""
   },
-  "photo_repair_idx": 5,
+  "photo_repair_idx": 6,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

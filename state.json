@@ -555,7 +555,8 @@
     "51c907af5fad9a914b0dd1fd15213fd8",
     "tg:FabrizioRomanoTG/64065",
     "62869db90c31025170f305441fe998dc",
-    "deb5c7eca8b4eec4cc8756baeac5df8c"
+    "deb5c7eca8b4eec4cc8756baeac5df8c",
+    "tg:FabrizioRomanoTG/64067"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -899,7 +900,6 @@
     "interest: solanke -> tottenham"
   ],
   "titles": [
-    "liverpool transfer news euro giants 'ruled out' of bradley barcola deal and cent",
     "everton reach \u00a37m agreement to sign arsenal midfielder, medical details shared d",
     "transfer updates: guimaraes, jones, romero, vinicius, sesko, others",
     "everton set to move for man utd striker in shock transfer as they prepare offer",
@@ -1198,7 +1198,8 @@
     "tottenham \u2018agree\u2019 winger deal as \u00a365m rated chelsea star could be next signing",
     "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f celta vigo have agreed deal with man united to sign altay bayindir as new",
     "a portuguese winger is named as a manchester city target as city chase more expe",
-    "rb leipzig in advanced talks to sign arsenal youngster \u2013 report"
+    "rb leipzig in advanced talks to sign arsenal youngster \u2013 report",
+    "rt @fabrizioromano : \ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f exclusive: como reach verbal agreement to sign trevo"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1422,7 +1423,6 @@
     "illia zabarnyi": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Illya_Zabarnyi_2023.jpg/330px-Illya_Zabarnyi_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "tijjani reijnders": "https://r2.thesportsdb.com/images/media/player/cutout/edgl5b1769182353.png/small",
     "dominic solanke": "https://r2.thesportsdb.com/images/media/player/cutout/e4lpxy1757016341.png/small",
-    "axel donczew": "",
     "victor froholdt": "",
     "kyle healy": "",
     "benji flowers": "",
@@ -1433,9 +1433,10 @@
     "altay bayindir": "https://images.fotmob.com/image_resources/playerimages/866967.png",
     "mateo soule": "",
     "ousmane ndiaye": "",
-    "martin": ""
+    "martin": "",
+    "axel donczew": ""
   },
-  "photo_repair_idx": 6,
+  "photo_repair_idx": 7,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

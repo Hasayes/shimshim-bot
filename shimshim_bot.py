@@ -21,8 +21,10 @@ Optional:
                        (default "fabrizioromanotg" — Fabrizio Romano)
   CLAUDE_MODEL         Model for web-verify step (default "claude-sonnet-4-6")
   CLASSIFY_MODEL       Model for classify step (default "claude-haiku-4-5")
+  VERIFY_NEWS          "1" to web-verify news-sourced deals (default "0" — lean)
   VERIFY_INTEREST      "1" to web-verify rumours (default "0" — classify only)
   SKIP_VERIFY_TELEGRAM "0" to web-verify Telegram posts (default "1" — trust source)
+  CROSS_CHECK          "1" for extra Sonnet pass after verify (default "0")
   WEB_SEARCH_MAX_USES  Web searches per verify (default 1)
   STATE_FILE           Path to state file (default state.json next to script)
 """
@@ -168,8 +170,11 @@ MAX_ARTICLE_AGE_DAYS = int(os.environ.get("MAX_ARTICLE_AGE_DAYS", "3"))
 TELEGRAM_CHANNELS = os.environ.get("TELEGRAM_CHANNELS", "fabrizioromanotg")
 CLASSIFY_MODEL = os.environ.get("CLASSIFY_MODEL", "claude-haiku-4-5")
 CLAUDE_MODEL = os.environ.get("CLAUDE_MODEL", "claude-sonnet-4-6")
+# Lean defaults: Haiku classify → publish. Web verify / cross-check are opt-in.
+VERIFY_NEWS = os.environ.get("VERIFY_NEWS", "0") == "1"
 VERIFY_INTEREST = os.environ.get("VERIFY_INTEREST", "0") == "1"
 SKIP_VERIFY_TELEGRAM = os.environ.get("SKIP_VERIFY_TELEGRAM", "1") == "1"
+CROSS_CHECK = os.environ.get("CROSS_CHECK", "0") == "1"
 WEB_SEARCH_MAX_USES = max(1, int(os.environ.get("WEB_SEARCH_MAX_USES", "1")))
 
 # Cards go to the app (feed + web push) only; set TELEGRAM_CARDS=1 to also
@@ -691,15 +696,19 @@ def classify_article(client, article):
 
 
 def needs_web_verify(article, brief):
-    """Whether to run verify_deal() (web search) before publishing."""
-    if brief.kind == "interest" and not VERIFY_INTEREST:
-        return False
+    """Whether to run verify_deal() (web search) before publishing.
+
+    Lean default: classify-only for everything. Opt in with VERIFY_NEWS=1
+    (news deals) and/or VERIFY_INTEREST=1 (rumours).
+    """
+    if brief.kind == "interest":
+        return VERIFY_INTEREST
     if SKIP_VERIFY_TELEGRAM and (
         article["id"].startswith("tg:")
         or "telegram" in _norm(article.get("source", ""))
     ):
         return False
-    return True
+    return VERIFY_NEWS
 
 
 def verify_deal(client, article):
@@ -744,11 +753,10 @@ def verify_deal(client, article):
         output_format=TransferBrief,
     )
     draft = resp.parsed_output
-    if draft.kind == "none":
+    if draft.kind == "none" or not CROSS_CHECK:
         return draft
-    # Final cross-examination: a fresh pass hunting for extraction slips —
-    # wrong parent club, suitors that aren't the reported ones, unsupported
-    # stage, summary claims not in the notes. Returns the corrected card.
+    # Optional final cross-examination (CROSS_CHECK=1): catches extraction
+    # slips but doubles Sonnet spend on verified cards.
     check = client.messages.parse(
         model=CLAUDE_MODEL,
         max_tokens=1024,

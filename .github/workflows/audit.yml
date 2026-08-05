@@ -1,8 +1,9 @@
 name: Weekly feed audit
 
+# Manual only — the Sunday cron burned Anthropic credits for little day-to-day
+# value. Re-add a schedule if you want automatic audits again:
+#   schedule: [{cron: "0 6 * * 0"}]
 on:
-  schedule:
-    - cron: "0 6 * * 0"   # Sundays 06:00 UTC
   workflow_dispatch:
     inputs:
       dry:
@@ -27,4 +28,3 @@ jobs:
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           AUDIT_DRY: ${{ github.event.inputs.dry == 'true' && '1' || '0' }}
         run: python audit_feed.py
-        # set AUDIT_DRY=1 via env for silent test runs

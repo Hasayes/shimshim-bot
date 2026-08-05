@@ -602,7 +602,8 @@
     "890a8dad60c6be09d52e89c662645f10",
     "b576c04d1e024eb055e69444a66e0546",
     "79170dfda2f863be8099cb46b360fc62",
-    "735ce334730e4e87d38efc77e8dc6986"
+    "735ce334730e4e87d38efc77e8dc6986",
+    "2972cfc6e0dae05257c41dc792e7c69a"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -956,7 +957,6 @@
     "interest: solanke -> tottenham"
   ],
   "titles": [
-    "chelsea finalise deal after arsenal fail with offer as romano reveals blues \u2018new",
     "newcastle united turn to premier league midfield enforcer amid major rebuild",
     "manchester united eye arsenal's myles lewis skelly in summer transfer",
     "national media react to jj gabriel's 'excellent' man united debut but all single",
@@ -1255,7 +1255,8 @@
     "liverpool get \u2018green light\u2019 to push for barcola team mate in double deal amid \u00a32",
     "not barcola: liverpool contact super agent mendes to complete transfer of psg su",
     "romano rates chances of pedro neto leaving chelsea to rejoin maresca at man city",
-    "fabrizio romano confirms talks underway with liverpool target who wants anfield "
+    "fabrizio romano confirms talks underway with liverpool target who wants anfield ",
+    "leeds united transfer blow as key rivals in 'advanced negotiations' for \u00a326m tar"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1483,7 +1484,6 @@
     "radek vitek": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/FC_Red_Bull_Salzburg_gegen_FC_Blau-Wei%C3%9F_Linz_%282025-04-06_%C3%96sterreichische_Bundesliga%29_42.jpg/330px-FC_Red_Bull_Salzburg_gegen_FC_Blau-Wei%C3%9F_Linz_%282025-04-06_%C3%96sterreichische_Bundesliga%29_42.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "takehiro tomiyasu": "https://r2.thesportsdb.com/images/media/player/cutout/sfhhub1694204158.png/small",
     "nahuel molina": "https://r2.thesportsdb.com/images/media/player/cutout/36bdni1762288498.png/small",
-    "mishel nduka": "",
     "rodri hernandez": "",
     "junior kroupi": "",
     "kerem alajbegovic": "",
@@ -1493,9 +1493,10 @@
     "axel donczew": "",
     "victor froholdt": "",
     "kyle healy": "",
-    "benji flowers": ""
+    "benji flowers": "",
+    "mishel nduka": ""
   },
-  "photo_repair_idx": 10,
+  "photo_repair_idx": 11,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

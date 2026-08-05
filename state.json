@@ -527,7 +527,8 @@
     "0afd4eed02506c6c241867cf48d7c06f",
     "3be1adee1ad55141cd106dc0f1be6967",
     "06206852e869874b8ea4b66afb84942e",
-    "bf60d5233185586e9b2f4e65e384f6de"
+    "bf60d5233185586e9b2f4e65e384f6de",
+    "320a9bc140c5918c078a8572281d0b09"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -866,7 +867,6 @@
     "interest: zabarnyi -> liverpool"
   ],
   "titles": [
-    "man utd have \u2018discussed\u2019 signing brazil int\u2019l striker and made a \u2018call\u2019 \u2013 top so",
     "ac milan sound out arsenal over \u00a330m rated wonderkid nwaneri",
     "potential third man utd midfield signing now \u2018open\u2019 to joining after new chelsea",
     "wolves transfer news: bid 'rejected' from real sociedad for key defender",
@@ -1165,7 +1165,8 @@
     "man city send 'official bid' for james trafford replacement as leeds united tran",
     "liverpool identify \u00a3130m perfect iraola signing as bradley barcola alternative",
     "break the bank for bradley barcola! liverpool must pay psg whatever fee they wan",
-    "barcelona\u2019s ambitious swap plan remains stalled because of la liga rivals\u2019 firm "
+    "barcelona\u2019s ambitious swap plan remains stalled because of la liga rivals\u2019 firm ",
+    "como schedule chalobah and couto medicals after chelsea and dortmund deals"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1386,7 +1387,6 @@
     "yan couto": "https://r2.thesportsdb.com/images/media/player/cutout/hadu641756326239.png/small",
     "pedro neto": "https://r2.thesportsdb.com/images/media/player/cutout/g63rmf1757003837.png/small",
     "juanlu": "https://r2.thesportsdb.com/images/media/player/cutout/ut8z8e1762859860.png/small",
-    "mishel nduka": "",
     "rodri hernandez": "",
     "junior kroupi": "",
     "kerem alajbegovic": "",
@@ -1397,9 +1397,10 @@
     "axel donczew": "",
     "victor froholdt": "",
     "kyle healy": "",
-    "benji flowers": ""
+    "benji flowers": "",
+    "mishel nduka": ""
   },
-  "photo_repair_idx": 10,
+  "photo_repair_idx": 11,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

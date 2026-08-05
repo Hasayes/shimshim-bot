@@ -3,6 +3,9 @@ name: reconcile (temporary)
 on:
   workflow_dispatch: {}
 
+permissions:
+  contents: write
+
 concurrency:
   group: shimshim-reconcile
   cancel-in-progress: false

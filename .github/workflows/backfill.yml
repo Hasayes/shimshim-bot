@@ -3,6 +3,9 @@ name: backfill-summaries (temporary)
 on:
   workflow_dispatch: {}
 
+permissions:
+  contents: write
+
 concurrency:
   group: shimshim-bot
   cancel-in-progress: false

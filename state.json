@@ -1480,7 +1480,6 @@
     "radek vitek": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/FC_Red_Bull_Salzburg_gegen_FC_Blau-Wei%C3%9F_Linz_%282025-04-06_%C3%96sterreichische_Bundesliga%29_42.jpg/330px-FC_Red_Bull_Salzburg_gegen_FC_Blau-Wei%C3%9F_Linz_%282025-04-06_%C3%96sterreichische_Bundesliga%29_42.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "takehiro tomiyasu": "https://r2.thesportsdb.com/images/media/player/cutout/sfhhub1694204158.png/small",
     "nahuel molina": "https://r2.thesportsdb.com/images/media/player/cutout/36bdni1762288498.png/small",
-    "victor froholdt": "",
     "kyle healy": "",
     "benji flowers": "",
     "mishel nduka": "",
@@ -1490,9 +1489,10 @@
     "mateo soule": "",
     "ousmane ndiaye": "",
     "martin": "",
-    "axel donczew": ""
+    "axel donczew": "",
+    "victor froholdt": ""
   },
-  "photo_repair_idx": 7,
+  "photo_repair_idx": 8,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

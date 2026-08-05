@@ -537,7 +537,8 @@
     "bbc62e18f8a67f76926ad010138441a7",
     "6605a61bb85229f4c822937f040744eb",
     "6cab4c70a7b3c4da152c2e58cd8ad12e",
-    "7bd07983d2c83b526957888dc7acdfea"
+    "7bd07983d2c83b526957888dc7acdfea",
+    "9674aa1c8548dea08fbeafea5c044f1b"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -876,7 +877,6 @@
     "interest: zabarnyi -> liverpool"
   ],
   "titles": [
-    "everton want manchester united striker ethan wheatley",
     "everton ready proposal to make formal offer for 20 y/o forward report",
     "transfer news and rumours today: everton eyeing man united forward, psg to sign ",
     "\u201cformal approach\u201d prepared: everton to move soon for man united attacker, says f",
@@ -1175,7 +1175,8 @@
     "tottenham deal for winger \u2018agreed\u2019 as de zerbi targets \u00a365m chelsea star in doub",
     "bruno guimaraes to arsenal: david ornstein provides positive transfer update ove",
     "leeds united set for seven figure windfall as \u00a324m transfer of ex youngster conf",
-    "psg strategy for signing ferran torres from barcelona revealed barca blaugranes"
+    "psg strategy for signing ferran torres from barcelona revealed barca blaugranes",
+    "everton can surely green light nahuel molina transfer as fee details emerge"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1397,7 +1398,6 @@
     "pedro neto": "https://r2.thesportsdb.com/images/media/player/cutout/g63rmf1757003837.png/small",
     "juanlu": "https://r2.thesportsdb.com/images/media/player/cutout/ut8z8e1762859860.png/small",
     "illia zabarnyi": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Illya_Zabarnyi_2023.jpg/330px-Illya_Zabarnyi_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "kyle healy": "",
     "benji flowers": "",
     "mishel nduka": "",
     "rodri hernandez": "",
@@ -1407,9 +1407,10 @@
     "ousmane ndiaye": "",
     "martin": "",
     "axel donczew": "",
-    "victor froholdt": ""
+    "victor froholdt": "",
+    "kyle healy": ""
   },
-  "photo_repair_idx": 8,
+  "photo_repair_idx": 9,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

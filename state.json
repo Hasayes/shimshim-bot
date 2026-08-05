@@ -562,7 +562,10 @@
     "0827eb7078b73d1951c62525157bf21b",
     "8b006313bcf92f9df39cb3c1d7faadcd",
     "tg:FabrizioRomanoTG/64068",
-    "tg:FabrizioRomanoTG/64069"
+    "tg:FabrizioRomanoTG/64069",
+    "tg:FabrizioRomanoTG/64070",
+    "tg:FabrizioRomanoTG/64071",
+    "tg:FabrizioRomanoTG/64072"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -727,7 +730,8 @@
     "rashford -> manchester united": 2,
     "chavarria -> chelsea": 1,
     "bayindir -> celta vigo": 1,
-    "mastantuono -> fiorentina": 1
+    "mastantuono -> fiorentina": 1,
+    "vitek -> middlesbrough": 2
   },
   "interest": [
     "interest: alvarez -> arsenal",
@@ -907,9 +911,6 @@
     "interest: solanke -> tottenham"
   ],
   "titles": [
-    "chelsea confirm signing of danny welbeck as 35 year old former england striker j",
-    "player arteta has decided to sign \u201cat all cost\u201d is \u201csuper excited\u201d to join arsen",
-    "fabrizio romano: tottenham hotspur leading the race to sign premier league forwa",
     "arsenal\u2019s gyokeres plus \u20ac30m swap bid for super eagles star rejected \u2013 reports",
     "video: alajbegovic arrives for juventus, medical on sunday",
     "man utd react to \u2018agreement\u2019 claim about altay bayindir and celta de vigo",
@@ -1206,7 +1207,10 @@
     "forest target reijnders wednesday's gossip",
     "report: liverpool legend salah to join trabzonspor tsn",
     "\ud83d\udea8 \ud83c\udde7\ud83c\uddea breaking: romelu lukaku does not show up for napoli\u2019s pre season camp as he",
-    "\ud83d\udea8 \ud83d\udca3 breaking: franco mastantuono on loan to fiorentina, here we go! \ud83d\udfe3 \ud83c\udde6\ud83c\uddf7 agreeme"
+    "\ud83d\udea8 \ud83d\udca3 breaking: franco mastantuono on loan to fiorentina, here we go! \ud83d\udfe3 \ud83c\udde6\ud83c\uddf7 agreeme",
+    "\ud83d\udea8 \u26a0\ufe0f napoli confirm romelu lukaku has not joined pre season camp the official ag",
+    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f gks exits at man united today as bayindir joins celta vigo and radek vite",
+    "rt @fabrizioromano : \ud83d\udea8 \ud83d\udca3 breaking: franco mastantuono on loan to fiorentina, her"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1430,7 +1434,6 @@
     "illia zabarnyi": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Illya_Zabarnyi_2023.jpg/330px-Illya_Zabarnyi_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "tijjani reijnders": "https://r2.thesportsdb.com/images/media/player/cutout/edgl5b1769182353.png/small",
     "dominic solanke": "https://r2.thesportsdb.com/images/media/player/cutout/e4lpxy1757016341.png/small",
-    "benji flowers": "",
     "mishel nduka": "",
     "rodri hernandez": "",
     "junior kroupi": "",
@@ -1441,9 +1444,11 @@
     "martin": "",
     "axel donczew": "",
     "victor froholdt": "",
-    "kyle healy": ""
+    "kyle healy": "",
+    "radek vitek": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/FC_Red_Bull_Salzburg_gegen_FC_Blau-Wei%C3%9F_Linz_%282025-04-06_%C3%96sterreichische_Bundesliga%29_42.jpg/330px-FC_Red_Bull_Salzburg_gegen_FC_Blau-Wei%C3%9F_Linz_%282025-04-06_%C3%96sterreichische_Bundesliga%29_42.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "benji flowers": ""
   },
-  "photo_repair_idx": 9,
+  "photo_repair_idx": 10,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

@@ -593,7 +593,11 @@
     "tg:FabrizioRomanoTG/64094",
     "tg:FabrizioRomanoTG/64095",
     "aa9c51591f52dabb5bc6b72bc14c53da",
-    "f592003bda50d2952d2ff18d4541cbed"
+    "f592003bda50d2952d2ff18d4541cbed",
+    "86ac982fc0bb405f6d3a702f1c8661e2",
+    "bdbba9427e98a250b49cf5bd1d6d030c",
+    "tg:FabrizioRomanoTG/64097",
+    "tg:FabrizioRomanoTG/64098"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -947,10 +951,6 @@
     "interest: solanke -> tottenham"
   ],
   "titles": [
-    "bayern munich news: fc bayern to miss on bradley barcola again; mike godts wants",
-    "bruno guimaraes nears arsenal move from newcastle united",
-    "liverpool could be about to sell player 'more talented' than steven gerrard was ",
-    "man united news: lewis hall deal 'approved' as \u00a370m transfer update emerges",
     "\ud83d\udea8 \ud83c\uddea\ud83c\uddf8 paris saint germain had new round of talks with ferran torres\u2019 camp and dec",
     "\u26aa\ufe0f \u26ab\ufe0f \ud83c\uddeb\ud83c\uddf7 randal kolo muani signs in as new juventus player from paris saint germ",
     "\ud83d\udd35 \ud83c\udde6\ud83c\uddf7 official, confirmed valentin barco joins chelsea from rc strasbourg on a co",
@@ -1246,7 +1246,11 @@
     "\ud83d\udea8 \u26aa\ufe0f rb leipzig, set to allow yan diomande to travel for medical and contract si",
     "\ud83d\udea8 \ud83d\udfe1 \ud83d\udd35 parma reach verbal agreement to sign el bilal toure from atalanta deal in ",
     "\u00a355m manchester city star open to transfer as pl club show interest",
-    "inter milan offer their star to al ittihad: firm response from the board to mous"
+    "inter milan offer their star to al ittihad: firm response from the board to mous",
+    "mo salah transfer gets \u2018here we go\u2019 treatment from fabrizio romano",
+    "mohamed salah transfer update: is ex liverpool star joining turkish side trabzon",
+    "\ud83d\udcfa new youtube video uploaded! \ud83c\udfac \ud83d\udea8 \ud83d\udca3 \ud83d\udca3 boom vinicius! big news! arsenal: medical ",
+    "\ud83d\udea8 \u26aa\ufe0f real madrid are increasingly confident to receive final green light from vi"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1473,7 +1477,6 @@
     "altay bayindir": "https://images.fotmob.com/image_resources/playerimages/866967.png",
     "radek vitek": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/FC_Red_Bull_Salzburg_gegen_FC_Blau-Wei%C3%9F_Linz_%282025-04-06_%C3%96sterreichische_Bundesliga%29_42.jpg/330px-FC_Red_Bull_Salzburg_gegen_FC_Blau-Wei%C3%9F_Linz_%282025-04-06_%C3%96sterreichische_Bundesliga%29_42.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "takehiro tomiyasu": "https://r2.thesportsdb.com/images/media/player/cutout/sfhhub1694204158.png/small",
-    "mateo soule": "",
     "ousmane ndiaye": "",
     "martin": "",
     "nahuel molina": "https://r2.thesportsdb.com/images/media/player/cutout/36bdni1762288498.png/small",
@@ -1484,9 +1487,10 @@
     "mishel nduka": "",
     "rodri hernandez": "",
     "junior kroupi": "",
-    "kerem alajbegovic": ""
+    "kerem alajbegovic": "",
+    "mateo soule": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

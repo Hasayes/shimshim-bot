@@ -544,7 +544,9 @@
     "b0677a0dcbe6dcac5d85f93b55b5030e",
     "93c333e9e7d0b58d2a6c3959a387419f",
     "f9c28e0608eb54553623cc2f61adc035",
-    "e01f7ade12c9749896024cf08b2a1645"
+    "e01f7ade12c9749896024cf08b2a1645",
+    "df702459f05721d3c78ac1205c056922",
+    "tg:FabrizioRomanoTG/64058"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -706,7 +708,8 @@
     "angelino -> rc deportivo de la coruna": 1,
     "couto -> como": 1,
     "juanlu -> bournemouth": 1,
-    "rashford -> manchester united": 2
+    "rashford -> manchester united": 2,
+    "chavarria -> chelsea": 1
   },
   "interest": [
     "interest: alvarez -> arsenal",
@@ -882,11 +885,10 @@
     "interest: torres -> tottenham",
     "interest: zabarnyi -> liverpool",
     "interest: reijnders -> manchester city",
-    "interest: neto -> tottenham"
+    "interest: neto -> tottenham",
+    "interest: solanke -> tottenham"
   ],
   "titles": [
-    "just in: barcelona forward\u2019s move to psg gathers momentum; direct talks expected",
-    "fabrizio romano confirms bizarre move between man utd and everton is on \u2013 \u2018forma",
     "fabrizio romano confirms bizarre move between man utd and everton is on 'formal ",
     "psg and barcelona set for talks, ferran torres \u201copen to leaving\u201d",
     "premier league club 'preparing' move for forward after bradford city spell yorks",
@@ -1184,7 +1186,9 @@
     "burnley man completes \u00a316m switch to premier league newcomers",
     "romano: tottenham now considering move for chelsea winger pedro neto",
     "jacobs reveals huge chelsea \u2018breakthrough\u2019 for next signing with clubs \u2018now in a",
-    "jacobs reveals huge chelsea 'breakthrough' for next signing with clubs 'now in a"
+    "jacobs reveals huge chelsea 'breakthrough' for next signing with clubs 'now in a",
+    "tottenham plan to step up interest in 27yo liverpool forward, \u2018deal depends on \u2018",
+    "\ud83d\udea8 \ud83d\udd35 chelsea are completing details of pep chavarria deal, then all done agreemen"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1406,7 +1410,6 @@
     "pedro neto": "https://r2.thesportsdb.com/images/media/player/cutout/g63rmf1757003837.png/small",
     "juanlu": "https://r2.thesportsdb.com/images/media/player/cutout/ut8z8e1762859860.png/small",
     "illia zabarnyi": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Illya_Zabarnyi_2023.jpg/330px-Illya_Zabarnyi_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "axel donczew": "",
     "victor froholdt": "",
     "kyle healy": "",
     "benji flowers": "",
@@ -1417,9 +1420,11 @@
     "kerem alajbegovic": "",
     "mateo soule": "",
     "ousmane ndiaye": "",
-    "martin": ""
+    "martin": "",
+    "dominic solanke": "https://r2.thesportsdb.com/images/media/player/cutout/e4lpxy1757016341.png/small",
+    "axel donczew": ""
   },
-  "photo_repair_idx": 6,
+  "photo_repair_idx": 7,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

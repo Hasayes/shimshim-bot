@@ -1439,7 +1439,6 @@
     "illia zabarnyi": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Illya_Zabarnyi_2023.jpg/330px-Illya_Zabarnyi_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "tijjani reijnders": "https://r2.thesportsdb.com/images/media/player/cutout/edgl5b1769182353.png/small",
     "dominic solanke": "https://r2.thesportsdb.com/images/media/player/cutout/e4lpxy1757016341.png/small",
-    "kerem alajbegovic": "",
     "altay bayindir": "https://images.fotmob.com/image_resources/playerimages/866967.png",
     "mateo soule": "",
     "ousmane ndiaye": "",
@@ -1451,9 +1450,10 @@
     "benji flowers": "",
     "mishel nduka": "",
     "rodri hernandez": "",
-    "junior kroupi": ""
+    "junior kroupi": "",
+    "kerem alajbegovic": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

@@ -585,7 +585,8 @@
     "tg:FabrizioRomanoTG/64085",
     "tg:FabrizioRomanoTG/64088",
     "tg:FabrizioRomanoTG/64089",
-    "tg:FabrizioRomanoTG/64090"
+    "tg:FabrizioRomanoTG/64090",
+    "ec51be4c40d40dcdc185fa132daf2e6c"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -932,7 +933,6 @@
     "interest: solanke -> tottenham"
   ],
   "titles": [
-    "lewis hall to mufc will be difficult \u2013 fabrizio romano",
     "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f excl: glen kamara has agreed to join qpr, deal agreed also between clubs ",
     "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 excl: paris saint germain send official bid over \u20ac40m to ajax for mika god",
     "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f jesper lindstr\u00f8m to schalke 04, here we go! deal agreed with napoli and m",
@@ -1231,7 +1231,8 @@
     "\ud83d\udea8 \ud83c\uddee\ud83c\uddf9 gianfranco zola signs with italian federation to join roberto mancini and c",
     "rt @fabrizioromano : \ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f exclusive: fc koln send official bid to sign mikey m",
     "\ud83d\udd34 \u26aa\ufe0f \u2705 exclusive story, confirmed: mikey moore, one step away from joining koln ",
-    "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 takehiro tomiyasu to crystal palace, here we go! medical passed in london "
+    "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 takehiro tomiyasu to crystal palace, here we go! medical passed in london ",
+    "tottenham prepare \u00a3125m combined swoop for two premier league star"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1457,7 +1458,6 @@
     "dominic solanke": "https://r2.thesportsdb.com/images/media/player/cutout/e4lpxy1757016341.png/small",
     "altay bayindir": "https://images.fotmob.com/image_resources/playerimages/866967.png",
     "radek vitek": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/FC_Red_Bull_Salzburg_gegen_FC_Blau-Wei%C3%9F_Linz_%282025-04-06_%C3%96sterreichische_Bundesliga%29_42.jpg/330px-FC_Red_Bull_Salzburg_gegen_FC_Blau-Wei%C3%9F_Linz_%282025-04-06_%C3%96sterreichische_Bundesliga%29_42.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "kerem alajbegovic": "",
     "mateo soule": "",
     "ousmane ndiaye": "",
     "martin": "",
@@ -1468,9 +1468,10 @@
     "mishel nduka": "",
     "rodri hernandez": "",
     "takehiro tomiyasu": "https://r2.thesportsdb.com/images/media/player/cutout/sfhhub1694204158.png/small",
-    "junior kroupi": ""
+    "junior kroupi": "",
+    "kerem alajbegovic": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

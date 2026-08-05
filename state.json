@@ -637,7 +637,8 @@
     "11d2a044f121bedf4884976c483d64ea",
     "2226906b53ca3d8bcae5e0e74d22dfd3",
     "e1d6a9817f0fe4e4d41be8eda1973783",
-    "4cf5a9363f39388d9b7d9e7888f04d38"
+    "4cf5a9363f39388d9b7d9e7888f04d38",
+    "e1bcac702090b1bbd6e78b2af7339fdc"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -998,7 +999,6 @@
     "interest: jackson -> tottenham"
   ],
   "titles": [
-    "juve chelsea link, pavard says no, brescianini: today's market \ud83e\udd11",
     "psg have tabled \u20ac40m bid to ajax for mika godts",
     "psg make \u20ac33m offer to parma for juventus target zion suzuki",
     "\ud83d\udea8 official: randal kolo muani joins juventus!",
@@ -1297,7 +1297,8 @@
     "here we go! wonderkid real madrid franco mastantuono resmi hijrah ke fiorentina",
     "sunderland transfer target\u2019s price tag has doubled from \u20ac30m to \u20ac60m",
     "real madrid battle vinicius, diomande deals: latest on transfers",
-    "liverpool transfer approved as intrigued reds are sounded out over real madrid s"
+    "liverpool transfer approved as intrigued reds are sounded out over real madrid s",
+    "man united ready to offload \u2018special\u2019 player as euro giants open talks with agen"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1526,7 +1527,6 @@
     "takehiro tomiyasu": "https://r2.thesportsdb.com/images/media/player/cutout/sfhhub1694204158.png/small",
     "nahuel molina": "https://r2.thesportsdb.com/images/media/player/cutout/36bdni1762288498.png/small",
     "nicolas jackson": "https://r2.thesportsdb.com/images/media/player/cutout/uteluc1762963819.png/small",
-    "kerem alajbegovic": "",
     "mateo soule": "",
     "ousmane ndiaye": "",
     "martin": "",
@@ -1536,9 +1536,10 @@
     "benji flowers": "",
     "mishel nduka": "",
     "rodri hernandez": "",
-    "junior kroupi": ""
+    "junior kroupi": "",
+    "kerem alajbegovic": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

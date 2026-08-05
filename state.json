@@ -607,7 +607,10 @@
     "96b1b5dc665321af20cb7f22423e3687",
     "387cde712afb59e8f4ac26fc891b1a95",
     "4427a2a20de49125dac4542da8145f8d",
-    "87ac999cbc7523c91d9841e81579cc09"
+    "87ac999cbc7523c91d9841e81579cc09",
+    "abd2314904ee3dcb25de916d75834985",
+    "4848faa053eb3819c239dc82dea758a6",
+    "0415e582da7d344cba6119b32b2cdcae"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -961,9 +964,6 @@
     "interest: solanke -> tottenham"
   ],
   "titles": [
-    "double psg sale to liverpool is now on, could be incredible business",
-    "galatasaray reject arsenal\u2019s gyokeres plus cash bid for osimhen",
-    "chelsea table new bid for rayo vallecano defender pep chavarria",
     "chelsea submit new and improved bid for pep chavarria \u2014 reports",
     "arsenal offer 135 million for vinicius junior",
     "\ud83d\udea8 \ud83d\udc9c fiorentina have agreed loan deal to sign joao mario from juventus the agreem",
@@ -1260,7 +1260,10 @@
     "just in: how much arsenal are actually paying newcastle to sign bruno guimaraes",
     "\u201ctotal agreement closer than ever\u201d \u2013 sky say liverpool target set to complete tr",
     "\u2018here we go\u2019 \u2013 fabrizio romano confirms mo salah \u2018agreement\u2019 as two year deal st",
-    "bruno guimaraes to arsenal to be finalised \u201ctoday\u201d + other major transfers that "
+    "bruno guimaraes to arsenal to be finalised \u201ctoday\u201d + other major transfers that ",
+    "liverpool transfer news: reds 'target' a second paris saint germain forward afte",
+    "rb leipzig shuts down reports of completed yan diomande transfer to madrid",
+    "fulham in 'advanced' talks over deal to sign leeds united target shea charles fr"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1488,7 +1491,6 @@
     "radek vitek": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/FC_Red_Bull_Salzburg_gegen_FC_Blau-Wei%C3%9F_Linz_%282025-04-06_%C3%96sterreichische_Bundesliga%29_42.jpg/330px-FC_Red_Bull_Salzburg_gegen_FC_Blau-Wei%C3%9F_Linz_%282025-04-06_%C3%96sterreichische_Bundesliga%29_42.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "takehiro tomiyasu": "https://r2.thesportsdb.com/images/media/player/cutout/sfhhub1694204158.png/small",
     "nahuel molina": "https://r2.thesportsdb.com/images/media/player/cutout/36bdni1762288498.png/small",
-    "junior kroupi": "",
     "kerem alajbegovic": "",
     "mateo soule": "",
     "ousmane ndiaye": "",
@@ -1498,9 +1500,10 @@
     "kyle healy": "",
     "benji flowers": "",
     "mishel nduka": "",
-    "rodri hernandez": ""
+    "rodri hernandez": "",
+    "junior kroupi": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

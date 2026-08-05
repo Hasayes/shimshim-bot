@@ -1,5 +1,25 @@
 [
  {
+  "id": "18ba7cdc149a0ff9925491796d3c2060",
+  "ts": "2026-08-05T09:01:07+00:00",
+  "kind": "deal",
+  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/pgq83k1762604333.png/small",
+  "stage": "Here we go",
+  "player": "Franco Mastantuono",
+  "position": "\u2014",
+  "age": "\u2014",
+  "from_club": "Real Madrid",
+  "to_club": "Fiorentina",
+  "fee": "Loan",
+  "style": "Young Argentine talent seeking first-team experience after struggling to settle at Madrid.",
+  "fit": "Potential depth option if Spurs pursue development-focused recruitment.",
+  "source": "Fabrizio Romano",
+  "outlet": "Telegram @fabrizioromanotg",
+  "url": "https://t.me/FabrizioRomanoTG/64069",
+  "title": "\ud83d\udea8 \ud83d\udca3 BREAKING: Franco Mastantuono on loan to Fiorentina, here we go! \ud83d\udfe3 \ud83c\udde6\ud83c\uddf7 Agreement reached with Real Madrid this morning",
+  "summary": "Franco Mastantuono joins Fiorentina on loan from Real Madrid with an agreement reached between the clubs. The Argentinian talent will return to Real Madrid in June 2027."
+ },
+ {
   "id": "tg:FabrizioRomanoTG/64065",
   "ts": "2026-08-05T08:00:47+00:00",
   "kind": "deal",
@@ -2037,25 +2057,6 @@
   "outlet": "legit",
   "url": "https://www.legit.ng/sports/football/1720784-mishel-nduka-manchester-city-reach-agreement-sign-super-eagles-eligible-midfielder-arsenal/",
   "title": "Mishel Nduka: Manchester City reach agreement to sign Super Eagles eligible midfielder from Arsenal"
- },
- {
-  "id": "18ba7cdc149a0ff9925491796d3c2060",
-  "ts": "2026-07-22T22:00:51+00:00",
-  "kind": "interest",
-  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/pgq83k1762604333.png/small",
-  "stage": "\u2014",
-  "player": "Franco Mastantuono",
-  "position": "\u2014",
-  "age": "\u2014",
-  "from_club": "Real Madrid",
-  "to_club": "Tottenham Hotspur",
-  "fee": "Loan",
-  "style": "Young Argentine talent seeking first-team experience after struggling to settle at Madrid.",
-  "fit": "Potential depth option if Spurs pursue development-focused recruitment.",
-  "source": "Fabrizio Romano (via CaughtOffside)",
-  "outlet": "caughtoffside",
-  "url": "https://www.caughtoffside.com/2026/07/22/mastantuono-real-madrid-tottenham-transfer/",
-  "title": "Fabrizio Romano reveals \u201cgreen light\u201d for Tottenham transfer target to move this summer"
  },
  {
   "id": "d6393bc7906308f7330bd877aa8ab87d",

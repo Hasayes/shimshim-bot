@@ -539,7 +539,8 @@
     "6cab4c70a7b3c4da152c2e58cd8ad12e",
     "7bd07983d2c83b526957888dc7acdfea",
     "9674aa1c8548dea08fbeafea5c044f1b",
-    "a5c7ab7a1b27f8234447f9bed8ec87b1"
+    "a5c7ab7a1b27f8234447f9bed8ec87b1",
+    "a99a36455035231c2a7cb781a4a0c49e"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -875,10 +876,10 @@
     "interest: gonzalez -> inter",
     "interest: neto -> manchester city",
     "interest: torres -> tottenham",
-    "interest: zabarnyi -> liverpool"
+    "interest: zabarnyi -> liverpool",
+    "interest: reijnders -> manchester city"
   ],
   "titles": [
-    "transfer news and rumours today: everton eyeing man united forward, psg to sign ",
     "\u201cformal approach\u201d prepared: everton to move soon for man united attacker, says f",
     "everton interested in 20 year old manchester united striker",
     "premier league star not waiting for barcelona as he looks to join european giant",
@@ -1177,7 +1178,8 @@
     "leeds united set for seven figure windfall as \u00a324m transfer of ex youngster conf",
     "psg strategy for signing ferran torres from barcelona revealed barca blaugranes",
     "everton can surely green light nahuel molina transfer as fee details emerge",
-    "manchester city commence talks with the entourage of chelsea winger pedro neto"
+    "manchester city commence talks with the entourage of chelsea winger pedro neto",
+    "tijjani reijnders attract concrete interest: manchester city want \u20ac64 million"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1399,7 +1401,6 @@
     "pedro neto": "https://r2.thesportsdb.com/images/media/player/cutout/g63rmf1757003837.png/small",
     "juanlu": "https://r2.thesportsdb.com/images/media/player/cutout/ut8z8e1762859860.png/small",
     "illia zabarnyi": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Illya_Zabarnyi_2023.jpg/330px-Illya_Zabarnyi_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "junior kroupi": "",
     "kerem alajbegovic": "",
     "mateo soule": "",
     "ousmane ndiaye": "",
@@ -1409,9 +1410,11 @@
     "kyle healy": "",
     "benji flowers": "",
     "mishel nduka": "",
-    "rodri hernandez": ""
+    "rodri hernandez": "",
+    "tijjani reijnders": "https://r2.thesportsdb.com/images/media/player/cutout/edgl5b1769182353.png/small",
+    "junior kroupi": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

@@ -621,7 +621,11 @@
     "a5ecc5a515c946d37167942f441db25f",
     "3e75ca0c3caf1f9a70a7bc189ce9f7b2",
     "tg:FabrizioRomanoTG/64102",
-    "373572a4ecc1806540fafcdfa32b2b90"
+    "373572a4ecc1806540fafcdfa32b2b90",
+    "71e94c64ad34c77538679d029cd7a4c0",
+    "2d53d35cba2c6ff073745413de82b6e3",
+    "tg:FabrizioRomanoTG/64103",
+    "tg:FabrizioRomanoTG/64104"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -982,9 +986,6 @@
     "interest: jackson -> tottenham"
   ],
   "titles": [
-    "arsenal transfer news: arteta dodges question on vinicius junior rumours",
-    "arsenal proven right on transfer strategy after vinicius junior approach",
-    "romano issues newcastle united update that will excite arsenal fans the most",
     "done deal: napoli and bayer leverkusen have \u20ac30m gutierrez agreement in place",
     "newcastle express interest in italy and atalanta defender scalvini",
     "\ud83d\udea8 \u26a0\ufe0f after medical tests done on sunday with napoli\u2019s green light, schalke 04 de",
@@ -1281,7 +1282,10 @@
     "fabrizio romano confirms man utd transfer is \u2018here we go\u2019 done",
     "fabrizio romano confirms man utd transfer is \u2018here we go\u2019 done teamtalk",
     "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f rb leipzig complete signing before officially selling yan diomande: deal ",
-    "transfer news live: man utd breakthrough, arsenal done deal, vini jr meeting tod"
+    "transfer news live: man utd breakthrough, arsenal done deal, vini jr meeting tod",
+    "manchester united offload unwanted star as another nears exit: report",
+    "\ud83d\udea8 \ud83d\udd35 official: christian n\u00f8rgaard leaves arsenal to join everton on a \u00a37m deal \ud83c\udde9\ud83c\uddf0",
+    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f bruno guimaraes has completed his medical at arsenal ahead of signing a f"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1509,7 +1513,6 @@
     "radek vitek": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/FC_Red_Bull_Salzburg_gegen_FC_Blau-Wei%C3%9F_Linz_%282025-04-06_%C3%96sterreichische_Bundesliga%29_42.jpg/330px-FC_Red_Bull_Salzburg_gegen_FC_Blau-Wei%C3%9F_Linz_%282025-04-06_%C3%96sterreichische_Bundesliga%29_42.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "takehiro tomiyasu": "https://r2.thesportsdb.com/images/media/player/cutout/sfhhub1694204158.png/small",
     "nahuel molina": "https://r2.thesportsdb.com/images/media/player/cutout/36bdni1762288498.png/small",
-    "kyle healy": "",
     "benji flowers": "",
     "mishel nduka": "",
     "rodri hernandez": "",
@@ -1520,9 +1523,10 @@
     "ousmane ndiaye": "",
     "martin": "",
     "axel donczew": "",
-    "victor froholdt": ""
+    "victor froholdt": "",
+    "kyle healy": ""
   },
-  "photo_repair_idx": 8,
+  "photo_repair_idx": 9,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

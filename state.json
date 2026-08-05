@@ -546,7 +546,11 @@
     "f9c28e0608eb54553623cc2f61adc035",
     "e01f7ade12c9749896024cf08b2a1645",
     "df702459f05721d3c78ac1205c056922",
-    "tg:FabrizioRomanoTG/64058"
+    "tg:FabrizioRomanoTG/64058",
+    "309f8c55eb43779ce874e72cb436ff2a",
+    "311f5769b6c79f166e662033997697b7",
+    "tg:FabrizioRomanoTG/64060",
+    "tg:FabrizioRomanoTG/64061"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -889,10 +893,6 @@
     "interest: solanke -> tottenham"
   ],
   "titles": [
-    "fabrizio romano confirms bizarre move between man utd and everton is on 'formal ",
-    "psg and barcelona set for talks, ferran torres \u201copen to leaving\u201d",
-    "premier league club 'preparing' move for forward after bradford city spell yorks",
-    "everton 'preparing' move for manchester united's ethan wheatley after bradford c",
     "yan diomande officially ruled out of rb leipzig training camp as demichelis addr",
     "arsenal target vinicius set to hold make or break talk with madrid",
     "\u201cnew proposal\u201d \u2013 chelsea make improved bid for top xabi alonso transfer target",
@@ -1188,7 +1188,11 @@
     "jacobs reveals huge chelsea \u2018breakthrough\u2019 for next signing with clubs \u2018now in a",
     "jacobs reveals huge chelsea 'breakthrough' for next signing with clubs 'now in a",
     "tottenham plan to step up interest in 27yo liverpool forward, \u2018deal depends on \u2018",
-    "\ud83d\udea8 \ud83d\udd35 chelsea are completing details of pep chavarria deal, then all done agreemen"
+    "\ud83d\udea8 \ud83d\udd35 chelsea are completing details of pep chavarria deal, then all done agreemen",
+    "man utd launch move for next signing with chelsea also ready to pounce after not",
+    "opinion: would you replace gyokeres with osimhen?",
+    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f breaking: bruno guimaraes to arsenal, here we go! \ud83c\udde7\ud83c\uddf7 agreement in place w",
+    "\ud83d\udea8 \ud83c\uddf8\ud83c\udde6 excl: al diriyah fc reach verbal agreement to sign berat djimsiti from atal"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1410,7 +1414,6 @@
     "pedro neto": "https://r2.thesportsdb.com/images/media/player/cutout/g63rmf1757003837.png/small",
     "juanlu": "https://r2.thesportsdb.com/images/media/player/cutout/ut8z8e1762859860.png/small",
     "illia zabarnyi": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Illya_Zabarnyi_2023.jpg/330px-Illya_Zabarnyi_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "rodri hernandez": "",
     "tijjani reijnders": "https://r2.thesportsdb.com/images/media/player/cutout/edgl5b1769182353.png/small",
     "junior kroupi": "",
     "kerem alajbegovic": "",
@@ -1422,9 +1425,10 @@
     "victor froholdt": "",
     "kyle healy": "",
     "benji flowers": "",
-    "mishel nduka": ""
+    "mishel nduka": "",
+    "rodri hernandez": ""
   },
-  "photo_repair_idx": 11,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

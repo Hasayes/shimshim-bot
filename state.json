@@ -541,7 +541,8 @@
     "9674aa1c8548dea08fbeafea5c044f1b",
     "a5c7ab7a1b27f8234447f9bed8ec87b1",
     "a99a36455035231c2a7cb781a4a0c49e",
-    "b0677a0dcbe6dcac5d85f93b55b5030e"
+    "b0677a0dcbe6dcac5d85f93b55b5030e",
+    "93c333e9e7d0b58d2a6c3959a387419f"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -878,10 +879,10 @@
     "interest: neto -> manchester city",
     "interest: torres -> tottenham",
     "interest: zabarnyi -> liverpool",
-    "interest: reijnders -> manchester city"
+    "interest: reijnders -> manchester city",
+    "interest: neto -> tottenham"
   ],
   "titles": [
-    "everton interested in 20 year old manchester united striker",
     "premier league star not waiting for barcelona as he looks to join european giant",
     "real madrid star vinicius jr's entourage respond amid rumours of personal terms ",
     "just in: barcelona forward\u2019s move to psg gathers momentum; direct talks expected",
@@ -1180,7 +1181,8 @@
     "everton can surely green light nahuel molina transfer as fee details emerge",
     "manchester city commence talks with the entourage of chelsea winger pedro neto",
     "tijjani reijnders attract concrete interest: manchester city want \u20ac64 million",
-    "burnley man completes \u00a316m switch to premier league newcomers"
+    "burnley man completes \u00a316m switch to premier league newcomers",
+    "romano: tottenham now considering move for chelsea winger pedro neto"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1402,7 +1404,6 @@
     "pedro neto": "https://r2.thesportsdb.com/images/media/player/cutout/g63rmf1757003837.png/small",
     "juanlu": "https://r2.thesportsdb.com/images/media/player/cutout/ut8z8e1762859860.png/small",
     "illia zabarnyi": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Illya_Zabarnyi_2023.jpg/330px-Illya_Zabarnyi_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "mateo soule": "",
     "ousmane ndiaye": "",
     "martin": "",
     "axel donczew": "",
@@ -1413,9 +1414,10 @@
     "rodri hernandez": "",
     "tijjani reijnders": "https://r2.thesportsdb.com/images/media/player/cutout/edgl5b1769182353.png/small",
     "junior kroupi": "",
-    "kerem alajbegovic": ""
+    "kerem alajbegovic": "",
+    "mateo soule": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

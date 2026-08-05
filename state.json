@@ -579,7 +579,10 @@
     "tg:FabrizioRomanoTG/64078",
     "tg:FabrizioRomanoTG/64079",
     "tg:FabrizioRomanoTG/64080",
-    "tg:FabrizioRomanoTG/64083"
+    "tg:FabrizioRomanoTG/64083",
+    "edb1344fb55c9b3d2014a7f2ec40c3b7",
+    "tg:FabrizioRomanoTG/64084",
+    "tg:FabrizioRomanoTG/64085"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -925,9 +928,6 @@
     "interest: solanke -> tottenham"
   ],
   "titles": [
-    "\u00a360m left back \u2018wants to join man utd\u2019 as ineos plan audacious arsenal raid for ",
-    "carrick handed major jj gabriel warning as wonderkid makes man united debut talk",
-    "\ud83d\udea8 \ud83c\udf52 juanlu to bournemouth, here we go! deal done and exclusive story confirmed \ud83c\uddea",
     "@xcobrabeast he\u2019s flying for a medical, i guess you call it advanced mate \ud83d\ude01 \u2014 fa",
     "rb leipzig still playing hardball with real madrid",
     "transfer rumors, news: newcastle looking at move for usmnt's adams",
@@ -1224,7 +1224,10 @@
     "\ud83d\udfe3 \ud83d\udc4b\ud83c\udffb franco mastantuono will fly to italy today in order to undergo medical at f",
     "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f atletico madrid are preparing a bid for cristian romero to be submitted a",
     "\ud83d\udea8 \u26aa\ufe0f tottenham are in direct talks with cody gakpo\u2019s camp over possible move thi",
-    "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 paris saint germain are set to improve their bid for zion suzuki, differen"
+    "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 paris saint germain are set to improve their bid for zion suzuki, differen",
+    "atletico madrid identify inter milan linked tottenham talisman as primary summer",
+    "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 barcelona mantain total confidence to close joao cancelo deal by the end o",
+    "\ud83d\udea8 \ud83c\uddee\ud83c\uddf9 gianfranco zola signs with italian federation to join roberto mancini and c"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1450,7 +1453,6 @@
     "dominic solanke": "https://r2.thesportsdb.com/images/media/player/cutout/e4lpxy1757016341.png/small",
     "altay bayindir": "https://images.fotmob.com/image_resources/playerimages/866967.png",
     "radek vitek": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/FC_Red_Bull_Salzburg_gegen_FC_Blau-Wei%C3%9F_Linz_%282025-04-06_%C3%96sterreichische_Bundesliga%29_42.jpg/330px-FC_Red_Bull_Salzburg_gegen_FC_Blau-Wei%C3%9F_Linz_%282025-04-06_%C3%96sterreichische_Bundesliga%29_42.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "kerem alajbegovic": "",
     "mateo soule": "",
     "ousmane ndiaye": "",
     "martin": "",
@@ -1460,9 +1462,10 @@
     "benji flowers": "",
     "mishel nduka": "",
     "rodri hernandez": "",
-    "junior kroupi": ""
+    "junior kroupi": "",
+    "kerem alajbegovic": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

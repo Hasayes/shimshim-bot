@@ -628,7 +628,10 @@
     "tg:FabrizioRomanoTG/64104",
     "d71b3b7cac2a77d127dcfe8341820daa",
     "8770eac95b7d14aef6a0fd774cc851e7",
-    "9c8ba3d042e67014c07b9f4136aece02"
+    "9c8ba3d042e67014c07b9f4136aece02",
+    "94c74c5f0188c93f92be51489aac5932",
+    "e423d61b6e71e4cdbb6a5b85e50126cd",
+    "8564186b48b377a89cce832a6f6c0a62"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -989,8 +992,6 @@
     "interest: jackson -> tottenham"
   ],
   "titles": [
-    "newcastle united drop major hint regarding bruno guimaraes' future amid arsenal ",
-    "transfer gossip: portsmouth in 'advanced talks' to sign highly rated chelsea win",
     "chelsea reject joao pedro approaches from three clubs",
     "juventus target new goalkeeper after martinez decision",
     "aston villa transfer news: juventus pull out of emi martinez race reports",
@@ -1288,7 +1289,9 @@
     "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f bruno guimaraes has completed his medical at arsenal ahead of signing a f",
     "yan couto set for serie a switch as como and borussia dortmund reach loan agreem",
     "yan couto set for como switch as borussia dortmund reach loan agreement",
-    "yan diomande joins rb leipzig camp in austria as real madrid talks continue; no "
+    "yan diomande joins rb leipzig camp in austria as real madrid talks continue; no ",
+    "fabrizio romano confirms \u2018here we go\u2019 for man utd double transfer with \u2018medical ",
+    "man city accelerate stunning raid on big six rivals that allows tottenham to sig"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1516,7 +1519,6 @@
     "radek vitek": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/FC_Red_Bull_Salzburg_gegen_FC_Blau-Wei%C3%9F_Linz_%282025-04-06_%C3%96sterreichische_Bundesliga%29_42.jpg/330px-FC_Red_Bull_Salzburg_gegen_FC_Blau-Wei%C3%9F_Linz_%282025-04-06_%C3%96sterreichische_Bundesliga%29_42.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "takehiro tomiyasu": "https://r2.thesportsdb.com/images/media/player/cutout/sfhhub1694204158.png/small",
     "nahuel molina": "https://r2.thesportsdb.com/images/media/player/cutout/36bdni1762288498.png/small",
-    "mishel nduka": "",
     "rodri hernandez": "",
     "junior kroupi": "",
     "nicolas jackson": "https://r2.thesportsdb.com/images/media/player/cutout/uteluc1762963819.png/small",
@@ -1527,9 +1529,10 @@
     "axel donczew": "",
     "victor froholdt": "",
     "kyle healy": "",
-    "benji flowers": ""
+    "benji flowers": "",
+    "mishel nduka": ""
   },
-  "photo_repair_idx": 10,
+  "photo_repair_idx": 11,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

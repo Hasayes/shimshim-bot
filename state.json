@@ -687,7 +687,8 @@
     "68cfb6886e64d3cee3f55648fbd93aba",
     "095c7fa0988bdbe6cb0c9ebc0054eea8",
     "753b2fb607f3796d0390f1ff64e320bc",
-    "db4165b3d1a88c3121977a37b9a29562"
+    "db4165b3d1a88c3121977a37b9a29562",
+    "450d23debb14405ca096cf4866d4aa99"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1052,7 +1053,6 @@
     "interest: zirkzee -> manchester united"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83d\udd35 official, exclusive story confirmed jordan henderson has joined chelsea on a",
     "psg launch \u20ac33m transfer raid to hijack juventus move for parma goalkeeper zion ",
     "bayern munich news: fc bayern not chasing charles de ketelaere; fisnik asllani e",
     "\ud83d\udfe1 \ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udffc official, exclusive story confirmed peter gulacsi joins villarreal from ",
@@ -1351,7 +1351,8 @@
     "fabrizio romano delivers vinicius jr update arsenal fans won\u2019t want to hear",
     "ucl watch: real madrid improves offer to vinicius junior",
     "after guimaraes: arsenal expected to make ezri konsa bid",
-    "man utd eye \u00a3116m double newcastle raid as ornstein drops lewis hall update"
+    "man utd eye \u00a3116m double newcastle raid as ornstein drops lewis hall update",
+    "vinicius jr faces decision after real madrid\u2019s improved contract offer"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1583,7 +1584,6 @@
     "mishel nduka": "",
     "mohamed salah": "https://r2.thesportsdb.com/images/media/player/cutout/3blc581757088735.png/small",
     "molina": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Nahuel_Molina_Argentina_v_Spain_19_July_2026-023.jpg/330px-Nahuel_Molina_Argentina_v_Spain_19_July_2026-023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "junior kroupi": "",
     "kerem alajbegovic": "",
     "el bilal toure": "https://images.fotmob.com/image_resources/playerimages/1054114.png",
     "mateo soule": "",
@@ -1593,9 +1593,10 @@
     "victor froholdt": "",
     "kyle healy": "",
     "benji flowers": "",
-    "rodri hernandez": ""
+    "rodri hernandez": "",
+    "junior kroupi": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

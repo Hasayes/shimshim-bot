@@ -785,7 +785,9 @@
     "1f48c948c76b1d0838a825010d3ac3fc",
     "2c93644743774eade469c9b9d9c3002b",
     "0fbe6b3946e2b067ed7e05ed71f3e30a",
-    "4321bc458b583c5516323c5dc7b747fb"
+    "4321bc458b583c5516323c5dc7b747fb",
+    "78a1e25fa72c4060eb765277733dc1c8",
+    "tg:FabrizioRomanoTG/64167"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1158,8 +1160,6 @@
     "interest: gusto -> psg"
   ],
   "titles": [
-    "'it's not true' leipzig\u2019s director hits out at fabrizio romano over diomande dea",
-    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f excl: como have formally finalised the agreement with borussia dortmund t",
     "what morgan gibbs white's agent change means for nottingham forest future: olive",
     "\ud83d\udd35 \ud83d\udd34 official, confirmed jesse bisiwu joins barcelona from brugge on \u20ac8 5m plus s",
     "man united handed clear lewis hall transfer message as newcastle take firm stanc",
@@ -1457,7 +1457,9 @@
     "transfer: barcelona set to hijack real madrid\u2019s move for rodri",
     "yan diomande already travelling to spain as real madrid official announcement im",
     "barcelona\u2019s pursuit of rodri could sabotage man utd\u2019s dream aurelien tchouameni ",
-    "man utd\u2019s aurelien tchouameni pursuit takes yet another twist after thursday mor"
+    "man utd\u2019s aurelien tchouameni pursuit takes yet another twist after thursday mor",
+    "marcus rashford future: all signs pointing towards england international staying",
+    "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 barcelona have fully agreed on personal terms with rodri after contract pr"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1697,7 +1699,6 @@
     "joao palhinha": "https://r2.thesportsdb.com/images/media/player/cutout/o0ii6n1757016009.png/small",
     "kyle healy": "",
     "matteo ruggeri": "https://r2.thesportsdb.com/images/media/player/cutout/a9q51s1762890169.png/small",
-    "ousmane ndiaye": "",
     "martin": "",
     "axel donczew": "",
     "victor froholdt": "",
@@ -1706,9 +1707,10 @@
     "rodri hernandez": "",
     "junior kroupi": "",
     "kerem alajbegovic": "",
-    "mateo soule": ""
+    "mateo soule": "",
+    "ousmane ndiaye": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 5,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

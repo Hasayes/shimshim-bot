@@ -648,7 +648,9 @@
     "39e5db405fa6563615bd7e935f4dcf40",
     "7e0df6cbdb315e48dd97f756499527ad",
     "46743a599d50d6a0695b4174f32dfc10",
-    "edb7d9a1e703111bc9e9d155a4a4c583"
+    "edb7d9a1e703111bc9e9d155a4a4c583",
+    "603dee480f7164816b603ec293aeb76c",
+    "tg:FabrizioRomanoTG/64105"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1010,8 +1012,6 @@
     "interest: jackson -> tottenham"
   ],
   "titles": [
-    "fabrizio romano makes bradley barcola to liverpool transfer prediction amid cody",
-    "alan myers shares huge update on everton interest in baris alper yilmaz",
     "\ud83d\udea8 \ud83c\uddf9\ud83c\uddf7 ac milan turn down loan with buy option approach from fenerbahce for rafa l",
     "psg progress in move for zion suzuki as juventus fall behind in race",
     "liverpool given bradley barcola hope as fsg tottenham transfer decision for cody",
@@ -1309,7 +1309,9 @@
     "man utd: romano reveals rashford exit percentage chance as \u2018close to completion\u2019",
     "bruno guimaraes set for arsenal move as newcastle agree \u00a375m deal",
     "romero worry for inter as atletico madrid can match \u20ac40m tottenham deal",
-    "bradley barcola twist could now prompt liverpool business with tottenham \u2013 fabri"
+    "bradley barcola twist could now prompt liverpool business with tottenham \u2013 fabri",
+    "arsenal and newcastle finalize agreement for bruno guimaraes worth millions of d",
+    "\ud83d\udea8 \ud83d\udfe2 \u26aa\ufe0f marino pusic has signed in as new al ahli manager to replace matthias jai"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1538,7 +1540,6 @@
     "takehiro tomiyasu": "https://r2.thesportsdb.com/images/media/player/cutout/sfhhub1694204158.png/small",
     "nahuel molina": "https://r2.thesportsdb.com/images/media/player/cutout/36bdni1762288498.png/small",
     "nicolas jackson": "https://r2.thesportsdb.com/images/media/player/cutout/uteluc1762963819.png/small",
-    "junior kroupi": "",
     "kerem alajbegovic": "",
     "mateo soule": "",
     "ousmane ndiaye": "",
@@ -1549,9 +1550,10 @@
     "benji flowers": "",
     "mishel nduka": "",
     "mohamed salah": "https://r2.thesportsdb.com/images/media/player/cutout/3blc581757088735.png/small",
-    "rodri hernandez": ""
+    "rodri hernandez": "",
+    "junior kroupi": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

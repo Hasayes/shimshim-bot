@@ -697,7 +697,8 @@
     "tg:FabrizioRomanoTG/64113",
     "dae052cb3deac65af7cdea6b43692b98",
     "tg:FabrizioRomanoTG/64115",
-    "tg:FabrizioRomanoTG/64116"
+    "tg:FabrizioRomanoTG/64116",
+    "e078c8206fbf37cf4a177d840dde8bee"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1064,7 +1065,6 @@
     "interest: zirkzee -> manchester united"
   ],
   "titles": [
-    "psg launch \u20ac40m bid for ajax\u2019s mika godts",
     "psg pursues japan goalkeeper zion suzuki",
     "transfer news live: guimaraes set for arsenal medical, vinicius jr deal close, m",
     "report: tottenham hotspur keen to sign liverpool star",
@@ -1363,7 +1363,8 @@
     "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 barcelona have made contact with rodri\u2019s camp and also with manchester cit",
     "vinicius jr makes bold social media move amid real madrid exit rumors and arsena",
     "\ud83d\udea8 \u2708\ufe0f yan diomande has official authorization from rb leipzig to travel to madrid",
-    "\ud83d\udea8 \ud83d\udfe2 \u26aa\ufe0f nestory irankunda to sporting, here we go! club to club agreement at \u20ac18m"
+    "\ud83d\udea8 \ud83d\udfe2 \u26aa\ufe0f nestory irankunda to sporting, here we go! club to club agreement at \u20ac18m",
+    "why everton signed christian norgaard: arteta's character reference, replacing g"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1596,7 +1597,6 @@
     "mohamed salah": "https://r2.thesportsdb.com/images/media/player/cutout/3blc581757088735.png/small",
     "molina": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Nahuel_Molina_Argentina_v_Spain_19_July_2026-023.jpg/330px-Nahuel_Molina_Argentina_v_Spain_19_July_2026-023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "el bilal toure": "https://images.fotmob.com/image_resources/playerimages/1054114.png",
-    "benji flowers": "",
     "rodri hernandez": "",
     "junior kroupi": "",
     "kerem alajbegovic": "",
@@ -1606,9 +1606,10 @@
     "axel donczew": "",
     "victor froholdt": "",
     "nestory irankunda": "https://r2.thesportsdb.com/images/media/player/cutout/nyliux1761216493.png/small",
-    "kyle healy": ""
+    "kyle healy": "",
+    "benji flowers": ""
   },
-  "photo_repair_idx": 9,
+  "photo_repair_idx": 10,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

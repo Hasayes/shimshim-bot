@@ -732,7 +732,18 @@
     "tg:FabrizioRomanoTG/64148",
     "7cb71ac7d502d5a5932ef4ee1d35b85d",
     "28046480005f0eafbe00beb9105890e5",
-    "tg:FabrizioRomanoTG/64150"
+    "tg:FabrizioRomanoTG/64150",
+    "49557266b055c56d5b8f34f69ba764e7",
+    "73c08bf8e8d2182cc5349edcb86146a5",
+    "adb3ba5f53ec01a4d4b353565869771b",
+    "71e209a020eb0a4d84cfceb0e5f1b501",
+    "58dd4fd1f7d12f9df27ef4410934cae7",
+    "da04335acc55a81d11f629e5c044db34",
+    "eb0ce598840fe37de8ece732e03c1918",
+    "7733d66b04751b5d7a2719317f35e533",
+    "88d898720c7331beaf6c36688a502388",
+    "99918e46c7137b6d817cb8bd523b3cfd",
+    "tg:FabrizioRomanoTG/64154"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -918,7 +929,8 @@
     "zirkzee -> manchester united": 2,
     "irankunda -> sporting": 1,
     "asllani -> rb leipzig": 1,
-    "almada -> atletico madrid": 1
+    "almada -> atletico madrid": 1,
+    "ruggeri -> aston villa": 1
   },
   "interest": [
     "interest: alvarez -> arsenal",
@@ -1102,17 +1114,6 @@
     "interest: palhinha -> aston villa"
   ],
   "titles": [
-    "sky sports: liverpool target reaches \u201cfull verbal agreement\u201d ahead of mega money",
-    "tenth chelsea signing in london for medical with official announcement in the co",
-    "done deal: angelino set to join deportivo on loan with obligation",
-    "done deal: roma send angelino to deportivo for \u20ac2 5m",
-    "rb leipzig director dismisses \u2018here we go\u2019 claims for yan diomande to real madri",
-    "transfer updates: osimhen, guimaraes, vinicius, grealish, gakpo, others",
-    "watch video: bernardo silva joins real madrid training, fans give portuguese sta",
-    "fabrizio romano: liverpool open talks to sign bradley barcola",
-    "chelsea defender trevoh chalobah agrees como transfer",
-    "chelsea and como reach agreement for trevoh chalobah",
-    "como and chelsea agree \u20ac30m deal for trevoh chalobah",
     "liverpool submit bid worth over \u00a385 6m for second summer transfer",
     "leipzig deny diomande to real madrid deal is done and mock romano for premature ",
     "romano drops major barcola to liverpool update after compromise confirmed",
@@ -1401,7 +1402,18 @@
     "\ud83d\udea8 official: manchester united confirm deal agreed for 18 year old midfielder cri",
     "from spain: manchester united considering stunning \u20ac150m double transfer",
     "guimaeraes completes medical at arsenal ahead \u00a375m move",
-    "\ud83d\udea8 \u26aa\ufe0f story confirmed: vinicius jr new six year contract at real madrid, set to b"
+    "\ud83d\udea8 \u26aa\ufe0f story confirmed: vinicius jr new six year contract at real madrid, set to b",
+    "after bruno guimaraes: arsenal prepared to bid for 28 year old premier league de",
+    "talks held: liverpool offered chance to sign versatile star admired by andoni ir",
+    "transfer: bruno guimaraes completes arsenal medicals, to sign four year contract",
+    "price needed to test newcastle for lewis hall revealed amid manchester united in",
+    "from spain: aston villa reach agreement to sign la liga defender",
+    "medical done, new arsenal signing \u201cto be announced soon\u201d, says fabrizio romano",
+    "just in: arsenal pursuit for winger hit by intervention from jose mourinho",
+    "fabrizio romano: tottenham now in 'direct talks' to sign cody gakpo",
+    "bradley barcola transfer stance revealed should liverpool and arsenal \"agree\" de",
+    "vinicius junior\u2019s instagram stunt will get arsenal fans\u2019 hopes up again",
+    "\ud83d\udea8 \u26aa\ufe0f breaking: vinicius jr has signed new contract at real madrid until june 203"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1638,7 +1650,6 @@
     "fisnik asllani": "https://r2.thesportsdb.com/images/media/player/cutout/kkw1xc1763487074.png/small",
     "thiago almada": "https://r2.thesportsdb.com/images/media/player/cutout/ffqi3i1762288171.png/small",
     "benji flowers": "",
-    "mateo soule": "",
     "ousmane ndiaye": "",
     "martin": "",
     "axel donczew": "",
@@ -1647,9 +1658,11 @@
     "kyle healy": "",
     "rodri hernandez": "",
     "junior kroupi": "",
-    "kerem alajbegovic": ""
+    "kerem alajbegovic": "",
+    "matteo ruggeri": "https://r2.thesportsdb.com/images/media/player/cutout/a9q51s1762890169.png/small",
+    "mateo soule": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

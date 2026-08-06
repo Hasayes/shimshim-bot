@@ -712,7 +712,8 @@
     "503b0ef07dc750ca0fbc4435102aa3d2",
     "tg:FabrizioRomanoTG/64123",
     "d91155d300e644afd30b9c92fede6295",
-    "tg:FabrizioRomanoTG/64130"
+    "tg:FabrizioRomanoTG/64130",
+    "tg:FabrizioRomanoTG/64131"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1081,7 +1082,6 @@
     "interest: zirkzee -> manchester united"
   ],
   "titles": [
-    "\ud83d\udea8 \u26ab\ufe0f \u26aa\ufe0f official: fulham also confirm cesar palacios as new signing from real ma",
     "inter lock down esposito until 2030 with performance based deal",
     "\ud83d\udea8 \ud83d\udc40 ferran torres on paris st germain: \u201cpsg interest? being wanted by these team",
     "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f excl: rangers reach verbal agreement to sign daisuke yokota from hannover",
@@ -1380,7 +1380,8 @@
     "\ud83d\udea8 \u26aa\ufe0f real madrid are closing in on new deal for vinicius jr after positive talks",
     "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f river plate reach verbal agreement with atletico madrid for thiago almada",
     "salah eclipses osimhen\u2019s turkish lig record, joins onuachu, nwaiwu at trabzonspo",
-    "\u270d\ud83c\udffd \ud83c\uddf9\ud83c\uddf7 mo salah has officially signed in as new trabzonspor player until june 202"
+    "\u270d\ud83c\udffd \ud83c\uddf9\ud83c\uddf7 mo salah has officially signed in as new trabzonspor player until june 202",
+    "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 exclusive: maghnes akliouche, just landed in paris to sign in as new paris"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1615,7 +1616,6 @@
     "el bilal toure": "https://images.fotmob.com/image_resources/playerimages/1054114.png",
     "nestory irankunda": "https://r2.thesportsdb.com/images/media/player/cutout/nyliux1761216493.png/small",
     "fisnik asllani": "https://r2.thesportsdb.com/images/media/player/cutout/kkw1xc1763487074.png/small",
-    "mateo soule": "",
     "ousmane ndiaye": "",
     "martin": "",
     "axel donczew": "",
@@ -1625,9 +1625,10 @@
     "thiago almada": "https://r2.thesportsdb.com/images/media/player/cutout/ffqi3i1762288171.png/small",
     "rodri hernandez": "",
     "junior kroupi": "",
-    "kerem alajbegovic": ""
+    "kerem alajbegovic": "",
+    "mateo soule": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

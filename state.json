@@ -743,7 +743,13 @@
     "7733d66b04751b5d7a2719317f35e533",
     "88d898720c7331beaf6c36688a502388",
     "99918e46c7137b6d817cb8bd523b3cfd",
-    "tg:FabrizioRomanoTG/64154"
+    "tg:FabrizioRomanoTG/64154",
+    "dbdd71b9a19e8d8de49b2cd72deecb79",
+    "520572a07558ccc4cb0249ab62e384c3",
+    "bb547fa88038da3de081ff33db535c3e",
+    "145d52446ffa8bf14b628fa4d37d6443",
+    "2590fb94eab3daef795370e506c1c449",
+    "5808f8f64411445f9b789dc2f539ce70"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1114,12 +1120,6 @@
     "interest: palhinha -> aston villa"
   ],
   "titles": [
-    "liverpool submit bid worth over \u00a385 6m for second summer transfer",
-    "leipzig deny diomande to real madrid deal is done and mock romano for premature ",
-    "romano drops major barcola to liverpool update after compromise confirmed",
-    "dortmund to rival atalanta and sporting lisbon for spanish winger",
-    "fabrizio romano confirms \u20ac36 million chelsea agreement for utility man",
-    "\u00a3150m midfielder \u2018will definitely go to man utd in the future\u2019 \u2013 pundit",
     "bradley barcola to liverpool: reds 'open' talks with psg for winger signing as i",
     "trevoh chalobah deal done as fabrizio romano reveals ucl motivation",
     "chelsea complete jordan henderson signing, chalobah agrees como move",
@@ -1413,7 +1413,13 @@
     "fabrizio romano: tottenham now in 'direct talks' to sign cody gakpo",
     "bradley barcola transfer stance revealed should liverpool and arsenal \"agree\" de",
     "vinicius junior\u2019s instagram stunt will get arsenal fans\u2019 hopes up again",
-    "\ud83d\udea8 \u26aa\ufe0f breaking: vinicius jr has signed new contract at real madrid until june 203"
+    "\ud83d\udea8 \u26aa\ufe0f breaking: vinicius jr has signed new contract at real madrid until june 203",
+    "agreement reached: vinicius junior makes final decision between real madrid & ar",
+    "vinicius junior agreement confirmed as decision between arsenal, real madrid mad",
+    "fabrizio romano: liverpool star in \u2018direct talks\u2019 with premier league rivals",
+    "jeremy monga explains \u2018no brainer\u2019 decision to turn down arsenal for manchester ",
+    "just in: romero reaches agreement to leave tottenham, club to club talks continu",
+    "transfer news and rumours today: aston villa get defender green light, crystal p"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1650,7 +1656,6 @@
     "fisnik asllani": "https://r2.thesportsdb.com/images/media/player/cutout/kkw1xc1763487074.png/small",
     "thiago almada": "https://r2.thesportsdb.com/images/media/player/cutout/ffqi3i1762288171.png/small",
     "benji flowers": "",
-    "ousmane ndiaye": "",
     "martin": "",
     "axel donczew": "",
     "victor froholdt": "",
@@ -1660,9 +1665,10 @@
     "junior kroupi": "",
     "kerem alajbegovic": "",
     "matteo ruggeri": "https://r2.thesportsdb.com/images/media/player/cutout/a9q51s1762890169.png/small",
-    "mateo soule": ""
+    "mateo soule": "",
+    "ousmane ndiaye": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 5,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

@@ -1,5 +1,25 @@
 [
  {
+  "id": "67e8f5fa17cea9d19a186baaadfcab84",
+  "ts": "2026-08-06T14:15:38+00:00",
+  "kind": "deal",
+  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/zbzyn51763561086.png/small",
+  "stage": "Completed",
+  "player": "Yan Diomande",
+  "position": "Central midfielder",
+  "age": "19",
+  "from_club": "RB Leipzig",
+  "to_club": "Real Madrid",
+  "fee": "\u20ac125m plus \u20ac15m add-ons",
+  "style": "Defensive midfielder or centre-back with physicality and ball-winning ability.",
+  "fit": "Physical presence and defensive prowess suit Real Madrid's need for midfield steel and defensive reinforcement.",
+  "source": "Fabrizio Romano",
+  "outlet": "Telegram @fabrizioromanotg",
+  "url": "https://t.me/FabrizioRomanoTG/64140",
+  "title": "\ud83d\udea8 \u26aa\ufe0f OFFICIAL: Yan Diomand\u00e9 joins Real Madrid from RB Leipzig, deal confirmed. \ud83d\udca5 \u20ac125m plus \u20ac15m add-ons. \ud83c\udde8\ud83c\uddee https://t.c",
+  "summary": "Yan Diomand\u00e9 has completed his transfer from RB Leipzig to Real Madrid for \u20ac125m plus \u20ac15m in add-ons, the deal officially confirmed."
+ },
+ {
   "id": "tg:FabrizioRomanoTG/64123",
   "ts": "2026-08-06T12:00:42+00:00",
   "kind": "deal",
@@ -1738,26 +1758,6 @@
   "url": "https://www.football365.com/news/liverpool-everton-ndiaye-barcola-alternative-akliouche-wants-psg",
   "title": "Liverpool eye Everton star as Barcola alternative as target \u2018wants to join\u2019 another club",
   "summary": "Liverpool and Manchester United are both reported to hold interest in Everton midfielder Iliman Ndiaye, with the player said to want to join another club. No fee has been disclosed."
- },
- {
-  "id": "67e8f5fa17cea9d19a186baaadfcab84",
-  "ts": "2026-07-27T19:46:08+00:00",
-  "kind": "deal",
-  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/zbzyn51763561086.png/small",
-  "stage": "Here we go",
-  "player": "Yan Diomande",
-  "position": "Central midfielder",
-  "age": "19",
-  "from_club": "RB Leipzig",
-  "to_club": "Real Madrid",
-  "fee": "\u20ac125m plus up to \u20ac15m in bonuses (record)",
-  "style": "A dynamic, box-to-box central midfielder known for his athleticism, pressing intensity and ability to drive forward with the ball.",
-  "fit": "Real Madrid's pursuit suggests they see him as a high-ceiling midfield prospect who can add energy and physicality to their engine room for the long term.",
-  "source": "Yahoo",
-  "outlet": "yahoo",
-  "url": "https://sports.yahoo.com/articles/psg-meddle-real-madrid-move-073500930.html",
-  "title": "PSG to meddle with Real Madrid move for Man City superstar after losing Yan Diomande battle",
-  "summary": "RB Leipzig and Real Madrid have agreed terms on a record \u20ac125m transfer, rising to \u20ac140m with bonuses \u2014 no official announcement yet."
  },
  {
   "id": "tg:FabrizioRomanoTG/63672",

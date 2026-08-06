@@ -719,7 +719,8 @@
     "tg:FabrizioRomanoTG/64136",
     "tg:FabrizioRomanoTG/64137",
     "tg:FabrizioRomanoTG/64138",
-    "tg:FabrizioRomanoTG/64139"
+    "tg:FabrizioRomanoTG/64139",
+    "tg:FabrizioRomanoTG/64140"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -852,7 +853,7 @@
     "bennacer -> al gharafa": 1,
     "ndiaye -> bayern munich": 2,
     "castro -> roma": 1,
-    "diomande -> real madrid": 1,
+    "diomande -> real madrid": 2,
     "stones -> inter": 2,
     "arokodare -> ajax": 2,
     "trafford -> leeds united": 2,
@@ -1088,7 +1089,6 @@
     "interest: zirkzee -> manchester united"
   ],
   "titles": [
-    "psg respond to first liverpool offer for bradley barcola as \u2018big factor\u2019 emerges",
     "lewis hall to man utd clears hurdle as wilcox readies first bid",
     "inter milan push for \u20ac40m defensive leader as tottenham talks advance",
     "'super talented good eye for goal': exciting chelsea verdict on reported portsmo",
@@ -1387,7 +1387,8 @@
     "\ud83d\udea8 \ud83c\udde6\ud83c\uddf7 exclusive story on geronimo rulli to man city now closer to completion as t",
     "\ud83d\udea8 \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc73\udb40\udc63\udb40\udc74\udb40\udc7f excl: scotland striker lyndon dykes has agreed to join millwall among ",
     "\ud83d\udea8 \ud83d\udfe1 \ud83d\udd34 lorenzo pellegrini has agreed to sign new one year deal at as roma until j",
-    "\ud83d\udea8 \ud83c\udf52 exclusive story, confirmed: juanlu joins bournemouth from sevilla \ud83c\uddea\ud83c\uddf8 https:/"
+    "\ud83d\udea8 \ud83c\udf52 exclusive story, confirmed: juanlu joins bournemouth from sevilla \ud83c\uddea\ud83c\uddf8 https:/",
+    "\ud83d\udea8 \u26aa\ufe0f official: yan diomande joins real madrid from rb leipzig, deal confirmed \ud83d\udca5 "
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1623,7 +1624,6 @@
     "nestory irankunda": "https://r2.thesportsdb.com/images/media/player/cutout/nyliux1761216493.png/small",
     "fisnik asllani": "https://r2.thesportsdb.com/images/media/player/cutout/kkw1xc1763487074.png/small",
     "thiago almada": "https://r2.thesportsdb.com/images/media/player/cutout/ffqi3i1762288171.png/small",
-    "rodri hernandez": "",
     "junior kroupi": "",
     "kerem alajbegovic": "",
     "mateo soule": "",
@@ -1632,9 +1632,10 @@
     "axel donczew": "",
     "victor froholdt": "",
     "kyle healy": "",
-    "benji flowers": ""
+    "benji flowers": "",
+    "rodri hernandez": ""
   },
-  "photo_repair_idx": 10,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

@@ -758,7 +758,12 @@
     "tg:FabrizioRomanoTG/64158",
     "1fe8696d140a103aa409ad5c51dc76f1",
     "d1b5fae59d84c48724fbda4f668c7f8a",
-    "tg:FabrizioRomanoTG/64159"
+    "tg:FabrizioRomanoTG/64159",
+    "3127e7b958ec79bcbb077ef4f82c9bfe",
+    "3aa77f00f966798b6ae8cc1b3a50f0c6",
+    "acb273466b3906c57308e892f17720d4",
+    "tg:FabrizioRomanoTG/64161",
+    "tg:FabrizioRomanoTG/64163"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1129,11 +1134,6 @@
     "interest: palhinha -> aston villa"
   ],
   "titles": [
-    "cody gakpo\u2019s future is uncertain",
-    "former rangers and leeds united star set to complete uk transfer return as champ",
-    "como reach agreement to sign chalobah, barca hold rodri interest euro transfer n",
-    "fabrizio romano confirms bombshell: surprise liverpool talks to enter key stages",
-    "romano: psg finally in \u201cclub to club talks\u201d over \u20ac100m plus transfer",
     "official | peter gulacsi leaves german football after 11 year rb leipzig era",
     "transfer roundup: chelsea sell trevoh chalobah and sign jordan henderson the gua",
     "patrice evra tells manu kone he\u2019ll \u2018do well\u2019 at premier league giants \u2013 not manc",
@@ -1428,7 +1428,12 @@
     "@hawkesafc what should i face? they said here we go for a club statement not so ",
     "breaking: barcelona make move for rodri in bid to beat real madrid to spain capt",
     "arsenal set to announce bruno guimaraes deal after medical as contract details r",
-    "rt @fabrizioromano : \ud83d\udea8 \ud83d\udd34 \ud83d\udd35 paris saint germain and ajax remain in club to club t"
+    "rt @fabrizioromano : \ud83d\udea8 \ud83d\udd34 \ud83d\udd35 paris saint germain and ajax remain in club to club t",
+    "man utd will turn to cheaper lewis hall alternative if ineos fail with \u00a360m offe",
+    "man utd turn to 'a lot cheaper' signing after ornstein reveals huge lewis hall u",
+    "barcelona lead real madrid in rodri race after contacts with player\u2019s camp and m",
+    "\u26ab\ufe0f \ud83d\udd35 \ud83c\udded\ud83c\uddf7 excl: atalanta agree deal to sign croatian centre back bartol levacic fo",
+    "\ufffc \ud83d\udea8 atletico madrid are in club to club talks with tottenham for cuti romero ars"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1665,7 +1670,6 @@
     "fisnik asllani": "https://r2.thesportsdb.com/images/media/player/cutout/kkw1xc1763487074.png/small",
     "thiago almada": "https://r2.thesportsdb.com/images/media/player/cutout/ffqi3i1762288171.png/small",
     "benji flowers": "",
-    "victor froholdt": "",
     "joao palhinha": "https://r2.thesportsdb.com/images/media/player/cutout/o0ii6n1757016009.png/small",
     "kyle healy": "",
     "rodri hernandez": "",
@@ -1675,9 +1679,10 @@
     "mateo soule": "",
     "ousmane ndiaye": "",
     "martin": "",
-    "axel donczew": ""
+    "axel donczew": "",
+    "victor froholdt": ""
   },
-  "photo_repair_idx": 7,
+  "photo_repair_idx": 8,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

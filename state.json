@@ -705,7 +705,10 @@
     "d4a19f7a7dc3c7d71ba393e6a1f07322",
     "67b03d63c25700f8b00276b6e2da3064",
     "tg:FabrizioRomanoTG/64121",
-    "6ded7feb6c1042e0cda0c76ca643c6c5"
+    "6ded7feb6c1042e0cda0c76ca643c6c5",
+    "cd49afdd783efcdb8688d9b3142ee458",
+    "ca58bbeecfdbbbfd6ce1877b81d3734e",
+    "tg:FabrizioRomanoTG/64122"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1073,9 +1076,6 @@
     "interest: zirkzee -> manchester united"
   ],
   "titles": [
-    "fabrizio romano reveals whether man utd want to sign francisco conceicao teamtal",
-    "fabrizio romano reveals man utd message about signing francisco conceicao",
-    "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f official: gonzalo garcia joins fulham from real madrid \u20ac40m fixed fee, \u20ac",
     "liverpool offered deal to hijack psg move for mika godts",
     "liverpool could sign rw plus bradley barcola after fabrizio romano\u2019s morning upd",
     "galatasaray reject arsenal\u2019s bid for osimhen",
@@ -1372,7 +1372,10 @@
     "vinicius jr deletes all instagram posts and profile picture amid arsenal interes",
     "rb leipzig set to acquire hoffenheim striker fisnik asllani",
     "\ud83d\udea8 \ud83d\udfe1 \ud83d\udd35 leeds united have completed formal steps of their club record deal for jam",
-    "real madrid loan out franco mastantuono and hold positive talks with vinicius ju"
+    "real madrid loan out franco mastantuono and hold positive talks with vinicius ju",
+    "arsenal transfer news: how mikel arteta could line up with bruno guimaraes after",
+    "fisnik asllani passes rb leipzig medical",
+    "\ud83d\udea8 \u26aa\ufe0f real madrid are closing in on new deal for vinicius jr after positive talks"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1605,7 +1608,6 @@
     "mohamed salah": "https://r2.thesportsdb.com/images/media/player/cutout/3blc581757088735.png/small",
     "molina": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Nahuel_Molina_Argentina_v_Spain_19_July_2026-023.jpg/330px-Nahuel_Molina_Argentina_v_Spain_19_July_2026-023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "el bilal toure": "https://images.fotmob.com/image_resources/playerimages/1054114.png",
-    "victor froholdt": "",
     "nestory irankunda": "https://r2.thesportsdb.com/images/media/player/cutout/nyliux1761216493.png/small",
     "kyle healy": "",
     "benji flowers": "",
@@ -1616,9 +1618,10 @@
     "mateo soule": "",
     "ousmane ndiaye": "",
     "martin": "",
-    "axel donczew": ""
+    "axel donczew": "",
+    "victor froholdt": ""
   },
-  "photo_repair_idx": 7,
+  "photo_repair_idx": 8,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

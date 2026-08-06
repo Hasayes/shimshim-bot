@@ -650,7 +650,11 @@
     "46743a599d50d6a0695b4174f32dfc10",
     "edb7d9a1e703111bc9e9d155a4a4c583",
     "603dee480f7164816b603ec293aeb76c",
-    "tg:FabrizioRomanoTG/64105"
+    "tg:FabrizioRomanoTG/64105",
+    "e1087bbd6a9e6fa298cdf4841201ae56",
+    "6884882e3765bcc7e94e0e05217bde87",
+    "1cf917e36a2d703788c9756377a8fed5",
+    "tg:FabrizioRomanoTG/64107"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1009,13 +1013,10 @@
     "interest: neto -> tottenham",
     "interest: solanke -> tottenham",
     "interest: balogun -> tottenham",
-    "interest: jackson -> tottenham"
+    "interest: jackson -> tottenham",
+    "interest: zirkzee -> manchester united"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83c\uddf9\ud83c\uddf7 ac milan turn down loan with buy option approach from fenerbahce for rafa l",
-    "psg progress in move for zion suzuki as juventus fall behind in race",
-    "liverpool given bradley barcola hope as fsg tottenham transfer decision for cody",
-    "\ud83d\udfe3 \ud83c\uddf5\ud83c\uddf9 medical today at fiorentina for joao mario as new fullback: \u20ac1m loan fee an",
     "\ud83d\udea8 \ud83d\udfe1 \ud83d\udd35 parma have reached a verbal agreement with atalanta for el bilal toure to ",
     "\ud83d\udea8 \ud83d\ude9c ipswich town reach verbal agreement to sign florentino luis as new midfielde",
     "fabrizio romano reveals tottenham plan to sign two more stars, including attacke",
@@ -1311,7 +1312,11 @@
     "romero worry for inter as atletico madrid can match \u20ac40m tottenham deal",
     "bradley barcola twist could now prompt liverpool business with tottenham \u2013 fabri",
     "arsenal and newcastle finalize agreement for bruno guimaraes worth millions of d",
-    "\ud83d\udea8 \ud83d\udfe2 \u26aa\ufe0f marino pusic has signed in as new al ahli manager to replace matthias jai"
+    "\ud83d\udea8 \ud83d\udfe2 \u26aa\ufe0f marino pusic has signed in as new al ahli manager to replace matthias jai",
+    "man united 'told to pay \u00a360m' as joshua zirkzee swap deal transfer ruled out man",
+    "more attacking targets emerge for spurs \u2013 latest transfer reports",
+    "psg improve suzuki offer formula to parma for \u20ac35m, then juventus loan",
+    "\ud83d\udea8 \u26aa\ufe0f jose mourinho, personally involved in vinicius jr new contract discussions "
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1540,7 +1545,6 @@
     "takehiro tomiyasu": "https://r2.thesportsdb.com/images/media/player/cutout/sfhhub1694204158.png/small",
     "nahuel molina": "https://r2.thesportsdb.com/images/media/player/cutout/36bdni1762288498.png/small",
     "nicolas jackson": "https://r2.thesportsdb.com/images/media/player/cutout/uteluc1762963819.png/small",
-    "kerem alajbegovic": "",
     "mateo soule": "",
     "ousmane ndiaye": "",
     "martin": "",
@@ -1551,9 +1555,10 @@
     "mishel nduka": "",
     "mohamed salah": "https://r2.thesportsdb.com/images/media/player/cutout/3blc581757088735.png/small",
     "rodri hernandez": "",
-    "junior kroupi": ""
+    "junior kroupi": "",
+    "kerem alajbegovic": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

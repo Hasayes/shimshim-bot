@@ -672,7 +672,12 @@
     "5c5fc3e8d3a24abee2f90c3b189b0f66",
     "cffe3bfe9a5861059c6050c4a2c0f1b0",
     "3630ed7c1daecbc0ad6cb0461339b2c7",
-    "aed04685e3b687da576d5b2ff3e92dea"
+    "aed04685e3b687da576d5b2ff3e92dea",
+    "db52d19d8c4684331fde46e8940a068e",
+    "29000037de985689e6e26409170c82b2",
+    "7e6236b416ae603cd613d388c7842d46",
+    "d875c7925414905a24f91914e09cd14b",
+    "0cb66e1757f4afecd2b167cb8c14ac9d"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -853,7 +858,8 @@
     "gyokeres -> arsenal": 2,
     "kane -> bayern munich": 2,
     "salah -> trabzonspor": 1,
-    "molina -> roma": 2
+    "molina -> roma": 2,
+    "toure -> parma": 1
   },
   "interest": [
     "interest: alvarez -> arsenal",
@@ -1036,10 +1042,6 @@
     "interest: zirkzee -> manchester united"
   ],
   "titles": [
-    "\u201csaid yes; personal terms agreed\u201d \u2013 fabrizio romano drops transfer development a",
-    "schalke 04 set to acquire jesper lindstr\u00f8m on loan with \u20ac5m automatic purchase o",
-    "tottenham talent mikey moore on the verge of joining 1 fc koln on loan",
-    "chelsea are in talks to sign this la liga defender: what will he add to alonsoa\u0080",
     "psg makes \u20ac45m offer for winger to replace bradley barcola",
     "newcastle react as man utd prepare opening bid for lewis hall amid romano claim",
     "romano reveals newcastle have now \u2018accepted\u2019 guimaraes exit to arsenal ahead of ",
@@ -1335,7 +1337,11 @@
     "atletico madrid preparing move for wantaway tottenham star with spurs already ha",
     "agreement reached: the full details of diomande's transfer to real madrid",
     "fresh vinicius junior to arsenal transfer twist as gunners 'prepare bid' after r",
-    "barca to 'battle' real in race for rodri"
+    "barca to 'battle' real in race for rodri",
+    "club \u2018confident of reaching an agreement very soon\u2019 as advanced negotiations con",
+    "done deal: atalanta send touree to parma, loan with option at \u20ac11 5m",
+    "done deal: atalanta send toure to parma, loan with option at \u20ac11 5m",
+    "\ud83e\udd14 a trend is emerging! reports: how real's talks with vini jr went"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1566,7 +1572,6 @@
     "nicolas jackson": "https://r2.thesportsdb.com/images/media/player/cutout/uteluc1762963819.png/small",
     "mishel nduka": "",
     "mohamed salah": "https://r2.thesportsdb.com/images/media/player/cutout/3blc581757088735.png/small",
-    "mateo soule": "",
     "ousmane ndiaye": "",
     "martin": "",
     "axel donczew": "",
@@ -1576,9 +1581,11 @@
     "benji flowers": "",
     "rodri hernandez": "",
     "junior kroupi": "",
-    "kerem alajbegovic": ""
+    "kerem alajbegovic": "",
+    "el bilal toure": "https://images.fotmob.com/image_resources/playerimages/1054114.png",
+    "mateo soule": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

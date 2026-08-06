@@ -794,7 +794,11 @@
     "0a2b0061781f45a79b7484615211eed4",
     "36626f254c8d532393f6b9b9c852a1a2",
     "8e27dc3506c40ec130ff152246270daa",
-    "e3926873e881ed750ad1c5b79b9b37ae"
+    "e3926873e881ed750ad1c5b79b9b37ae",
+    "b17cb31b6d13f6e872d4dc703309ee51",
+    "a89c91cdfc04ef1d6dc6691596f26e9b",
+    "8c1f8477f598cd5d51cbff5ebca62f58",
+    "4ee5424600864a584a1ea813c81e74c0"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1167,9 +1171,6 @@
     "interest: gusto -> psg"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83c\uddf5\ud83c\uddf9 excl: manchester city make direct contact with pedro neto\u2019s camp as talks s",
-    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f bruno guimaraes, waiting for the final call to get on plane and fly for m",
-    "\ud83d\ude9c \ud83c\uddf5\ud83c\uddf9 official, confirmed ipswich town sign florentino luis as new midfielder fro",
     "daisuke yokota medical update shared after rangers agree \u00a33 4m transfer",
     "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 paris saint germain and ajax remain in club to club talks for mika godts w",
     "\ud83d\udea8 \u26aa\ufe0f more on pedro neto and savinho tottenham would consider pedro neto if savin",
@@ -1466,7 +1467,10 @@
     "\u2018done deal\u2019 for real madrid, rb leipzig for yan diomande",
     "mourinho's stance on vini jr contract saga 'revealed'",
     "fabrizio romano shares huge vini jr contract update for arsenal",
-    "real madrid to make final attempt at rodri deal with barcelona hijack threat gro"
+    "real madrid to make final attempt at rodri deal with barcelona hijack threat gro",
+    "real madrid sign yan diomande: \u20ac125 million guaranteed transfer fee, contract ti",
+    "report: milan reject \u20ac35m galatasaray offer for leao",
+    "romano: psg\u2019s first major transfer is on the way to \u201ccomplete move\u201d after \u20ac50m f"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1708,16 +1712,16 @@
     "matteo ruggeri": "https://r2.thesportsdb.com/images/media/player/cutout/a9q51s1762890169.png/small",
     "filip kostic": "https://r2.thesportsdb.com/images/media/player/cutout/1kqxaz1759225234.png/small",
     "malo gusto": "https://r2.thesportsdb.com/images/media/player/cutout/wzyklc1757003476.png/small",
-    "rodri hernandez": "",
     "junior kroupi": "",
     "kerem alajbegovic": "",
     "mateo soule": "",
     "ousmane ndiaye": "",
     "martin": "",
     "axel donczew": "",
-    "victor froholdt": ""
+    "victor froholdt": "",
+    "rodri hernandez": ""
   },
-  "photo_repair_idx": 8,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

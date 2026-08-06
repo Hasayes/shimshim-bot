@@ -718,7 +718,8 @@
     "tg:FabrizioRomanoTG/64135",
     "tg:FabrizioRomanoTG/64136",
     "tg:FabrizioRomanoTG/64137",
-    "tg:FabrizioRomanoTG/64138"
+    "tg:FabrizioRomanoTG/64138",
+    "tg:FabrizioRomanoTG/64139"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1087,7 +1088,6 @@
     "interest: zirkzee -> manchester united"
   ],
   "titles": [
-    "psg accelerate talks to sign japan goalkeeper zion suzuki",
     "psg respond to first liverpool offer for bradley barcola as \u2018big factor\u2019 emerges",
     "lewis hall to man utd clears hurdle as wilcox readies first bid",
     "inter milan push for \u20ac40m defensive leader as tottenham talks advance",
@@ -1386,7 +1386,8 @@
     "\ud83d\udea8 \ud83d\udfe2 \u26aa\ufe0f understand elche have agreed deal in principle to sign facundo buonanotte",
     "\ud83d\udea8 \ud83c\udde6\ud83c\uddf7 exclusive story on geronimo rulli to man city now closer to completion as t",
     "\ud83d\udea8 \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc73\udb40\udc63\udb40\udc74\udb40\udc7f excl: scotland striker lyndon dykes has agreed to join millwall among ",
-    "\ud83d\udea8 \ud83d\udfe1 \ud83d\udd34 lorenzo pellegrini has agreed to sign new one year deal at as roma until j"
+    "\ud83d\udea8 \ud83d\udfe1 \ud83d\udd34 lorenzo pellegrini has agreed to sign new one year deal at as roma until j",
+    "\ud83d\udea8 \ud83c\udf52 exclusive story, confirmed: juanlu joins bournemouth from sevilla \ud83c\uddea\ud83c\uddf8 https:/"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1621,7 +1622,6 @@
     "el bilal toure": "https://images.fotmob.com/image_resources/playerimages/1054114.png",
     "nestory irankunda": "https://r2.thesportsdb.com/images/media/player/cutout/nyliux1761216493.png/small",
     "fisnik asllani": "https://r2.thesportsdb.com/images/media/player/cutout/kkw1xc1763487074.png/small",
-    "benji flowers": "",
     "thiago almada": "https://r2.thesportsdb.com/images/media/player/cutout/ffqi3i1762288171.png/small",
     "rodri hernandez": "",
     "junior kroupi": "",
@@ -1631,9 +1631,10 @@
     "martin": "",
     "axel donczew": "",
     "victor froholdt": "",
-    "kyle healy": ""
+    "kyle healy": "",
+    "benji flowers": ""
   },
-  "photo_repair_idx": 9,
+  "photo_repair_idx": 10,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

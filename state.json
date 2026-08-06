@@ -685,7 +685,9 @@
     "f9a20c7282c6884169f98e99d670319f",
     "4cd529089efb1ff0d0f55ab485eedf86",
     "68cfb6886e64d3cee3f55648fbd93aba",
-    "095c7fa0988bdbe6cb0c9ebc0054eea8"
+    "095c7fa0988bdbe6cb0c9ebc0054eea8",
+    "753b2fb607f3796d0390f1ff64e320bc",
+    "db4165b3d1a88c3121977a37b9a29562"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1050,8 +1052,6 @@
     "interest: zirkzee -> manchester united"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f excl: como reach verbal agreement to sign trevoh chalobah from chelsea, h",
-    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f exclusive: como reach verbal agreement to sign trevoh chalobah from chels",
     "\ud83d\udea8 \ud83d\udd35 official, exclusive story confirmed jordan henderson has joined chelsea on a",
     "psg launch \u20ac33m transfer raid to hijack juventus move for parma goalkeeper zion ",
     "bayern munich news: fc bayern not chasing charles de ketelaere; fisnik asllani e",
@@ -1349,7 +1349,9 @@
     "enzo maresca could be eying a potential chelsea reunion at the etihad",
     "just in: madrid close to new contract for vinicius jr \u2013 reports",
     "fabrizio romano delivers vinicius jr update arsenal fans won\u2019t want to hear",
-    "ucl watch: real madrid improves offer to vinicius junior"
+    "ucl watch: real madrid improves offer to vinicius junior",
+    "after guimaraes: arsenal expected to make ezri konsa bid",
+    "man utd eye \u00a3116m double newcastle raid as ornstein drops lewis hall update"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1581,7 +1583,6 @@
     "mishel nduka": "",
     "mohamed salah": "https://r2.thesportsdb.com/images/media/player/cutout/3blc581757088735.png/small",
     "molina": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Nahuel_Molina_Argentina_v_Spain_19_July_2026-023.jpg/330px-Nahuel_Molina_Argentina_v_Spain_19_July_2026-023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "rodri hernandez": "",
     "junior kroupi": "",
     "kerem alajbegovic": "",
     "el bilal toure": "https://images.fotmob.com/image_resources/playerimages/1054114.png",
@@ -1591,9 +1592,10 @@
     "axel donczew": "",
     "victor froholdt": "",
     "kyle healy": "",
-    "benji flowers": ""
+    "benji flowers": "",
+    "rodri hernandez": ""
   },
-  "photo_repair_idx": 10,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

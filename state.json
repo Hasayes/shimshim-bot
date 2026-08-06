@@ -1612,7 +1612,6 @@
     "molina": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Nahuel_Molina_Argentina_v_Spain_19_July_2026-023.jpg/330px-Nahuel_Molina_Argentina_v_Spain_19_July_2026-023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "el bilal toure": "https://images.fotmob.com/image_resources/playerimages/1054114.png",
     "nestory irankunda": "https://r2.thesportsdb.com/images/media/player/cutout/nyliux1761216493.png/small",
-    "junior kroupi": "",
     "kerem alajbegovic": "",
     "fisnik asllani": "https://r2.thesportsdb.com/images/media/player/cutout/kkw1xc1763487074.png/small",
     "mateo soule": "",
@@ -1623,9 +1622,10 @@
     "kyle healy": "",
     "benji flowers": "",
     "thiago almada": "https://r2.thesportsdb.com/images/media/player/cutout/ffqi3i1762288171.png/small",
-    "rodri hernandez": ""
+    "rodri hernandez": "",
+    "junior kroupi": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

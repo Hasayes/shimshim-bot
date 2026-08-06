@@ -703,7 +703,8 @@
     "tg:FabrizioRomanoTG/64117",
     "tg:FabrizioRomanoTG/64118",
     "d4a19f7a7dc3c7d71ba393e6a1f07322",
-    "67b03d63c25700f8b00276b6e2da3064"
+    "67b03d63c25700f8b00276b6e2da3064",
+    "tg:FabrizioRomanoTG/64121"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1071,7 +1072,6 @@
     "interest: zirkzee -> manchester united"
   ],
   "titles": [
-    "'cologne favourites to sign former ibrox loanee moore' gossip",
     "fabrizio romano reveals whether man utd want to sign francisco conceicao",
     "fabrizio romano reveals whether man utd want to sign francisco conceicao teamtal",
     "fabrizio romano reveals man utd message about signing francisco conceicao",
@@ -1370,7 +1370,8 @@
     "\ud83d\udea8 \u2708\ufe0f yan diomande will land in madrid in the afternoon flying later today transf",
     "\ud83d\udfe2 \u26aa\ufe0f \ud83c\udde6\ud83c\uddfa nestory irankunda to sporting cp from watford, final details of the deal",
     "vinicius jr deletes all instagram posts and profile picture amid arsenal interes",
-    "rb leipzig set to acquire hoffenheim striker fisnik asllani"
+    "rb leipzig set to acquire hoffenheim striker fisnik asllani",
+    "\ud83d\udea8 \ud83d\udfe1 \ud83d\udd35 leeds united have completed formal steps of their club record deal for jam"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1603,7 +1604,6 @@
     "mohamed salah": "https://r2.thesportsdb.com/images/media/player/cutout/3blc581757088735.png/small",
     "molina": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Nahuel_Molina_Argentina_v_Spain_19_July_2026-023.jpg/330px-Nahuel_Molina_Argentina_v_Spain_19_July_2026-023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "el bilal toure": "https://images.fotmob.com/image_resources/playerimages/1054114.png",
-    "ousmane ndiaye": "",
     "martin": "",
     "axel donczew": "",
     "victor froholdt": "",
@@ -1614,9 +1614,10 @@
     "junior kroupi": "",
     "kerem alajbegovic": "",
     "fisnik asllani": "https://r2.thesportsdb.com/images/media/player/cutout/kkw1xc1763487074.png/small",
-    "mateo soule": ""
+    "mateo soule": "",
+    "ousmane ndiaye": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 5,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

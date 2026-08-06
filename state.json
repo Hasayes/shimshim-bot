@@ -709,7 +709,8 @@
     "cd49afdd783efcdb8688d9b3142ee458",
     "ca58bbeecfdbbbfd6ce1877b81d3734e",
     "tg:FabrizioRomanoTG/64122",
-    "503b0ef07dc750ca0fbc4435102aa3d2"
+    "503b0ef07dc750ca0fbc4435102aa3d2",
+    "tg:FabrizioRomanoTG/64123"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -894,7 +895,8 @@
     "toure -> parma": 1,
     "zirkzee -> manchester united": 2,
     "irankunda -> sporting": 1,
-    "asllani -> rb leipzig": 1
+    "asllani -> rb leipzig": 1,
+    "almada -> atletico madrid": 1
   },
   "interest": [
     "interest: alvarez -> arsenal",
@@ -1077,7 +1079,6 @@
     "interest: zirkzee -> manchester united"
   ],
   "titles": [
-    "liverpool offered deal to hijack psg move for mika godts",
     "liverpool could sign rw plus bradley barcola after fabrizio romano\u2019s morning upd",
     "galatasaray reject arsenal\u2019s bid for osimhen",
     "\ud83d\udea8 \u26ab\ufe0f \u26aa\ufe0f official: fulham also confirm cesar palacios as new signing from real ma",
@@ -1376,7 +1377,8 @@
     "real madrid loan out franco mastantuono and hold positive talks with vinicius ju",
     "arsenal transfer news: how mikel arteta could line up with bruno guimaraes after",
     "fisnik asllani passes rb leipzig medical",
-    "\ud83d\udea8 \u26aa\ufe0f real madrid are closing in on new deal for vinicius jr after positive talks"
+    "\ud83d\udea8 \u26aa\ufe0f real madrid are closing in on new deal for vinicius jr after positive talks",
+    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f river plate reach verbal agreement with atletico madrid for thiago almada"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1610,7 +1612,6 @@
     "molina": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Nahuel_Molina_Argentina_v_Spain_19_July_2026-023.jpg/330px-Nahuel_Molina_Argentina_v_Spain_19_July_2026-023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "el bilal toure": "https://images.fotmob.com/image_resources/playerimages/1054114.png",
     "nestory irankunda": "https://r2.thesportsdb.com/images/media/player/cutout/nyliux1761216493.png/small",
-    "rodri hernandez": "",
     "junior kroupi": "",
     "kerem alajbegovic": "",
     "fisnik asllani": "https://r2.thesportsdb.com/images/media/player/cutout/kkw1xc1763487074.png/small",
@@ -1620,9 +1621,11 @@
     "axel donczew": "",
     "victor froholdt": "",
     "kyle healy": "",
-    "benji flowers": ""
+    "benji flowers": "",
+    "thiago almada": "https://r2.thesportsdb.com/images/media/player/cutout/ffqi3i1762288171.png/small",
+    "rodri hernandez": ""
   },
-  "photo_repair_idx": 10,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",
@@ -1755,6 +1758,7 @@
     "sevilla": "https://r2.thesportsdb.com/images/media/team/badge/vpsqqx1473502977.png/small",
     "celta vigo": "https://r2.thesportsdb.com/images/media/team/badge/xfjtku1690436219.png/small",
     "sporting": "https://www.thesportsdb.com/images/media/team/badge/5hiuk71783137875.png/small",
-    "hoffenheim": "https://r2.thesportsdb.com/images/media/team/badge/9hwvb21621593919.png/small"
+    "hoffenheim": "https://r2.thesportsdb.com/images/media/team/badge/9hwvb21621593919.png/small",
+    "river plate": "https://r2.thesportsdb.com/images/media/team/badge/03dmi31645539717.png/small"
   }
 }

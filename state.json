@@ -749,7 +749,13 @@
     "bb547fa88038da3de081ff33db535c3e",
     "145d52446ffa8bf14b628fa4d37d6443",
     "2590fb94eab3daef795370e506c1c449",
-    "5808f8f64411445f9b789dc2f539ce70"
+    "5808f8f64411445f9b789dc2f539ce70",
+    "8626b45414c194af904a3e7246ece166",
+    "ddaba2edd8a580e553a2eab9f6361f3b",
+    "07ecee025a082b15ac4cd60d1a746367",
+    "3bec4aee2b425db26da107e860049f90",
+    "tg:FabrizioRomanoTG/64157",
+    "tg:FabrizioRomanoTG/64158"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1120,11 +1126,6 @@
     "interest: palhinha -> aston villa"
   ],
   "titles": [
-    "bradley barcola to liverpool: reds 'open' talks with psg for winger signing as i",
-    "trevoh chalobah deal done as fabrizio romano reveals ucl motivation",
-    "chelsea complete jordan henderson signing, chalobah agrees como move",
-    "romano confirms \u2018club to club talks\u2019 underway, liverpool ready to invest \u00a386m fo",
-    "man utd suffer setback over \u2018untouchable\u2019 newcastle target the i paper",
     "liverpool transfer news barcola deal 'on', spurs want gakpo, jones to inter late",
     "chelsea transfer news: trevoh chalobah update as fabrizio romano 'reveals' fee a",
     "liverpool move closer to signing mohamed salah replacement after fabrizio romano",
@@ -1419,7 +1420,12 @@
     "fabrizio romano: liverpool star in \u2018direct talks\u2019 with premier league rivals",
     "jeremy monga explains \u2018no brainer\u2019 decision to turn down arsenal for manchester ",
     "just in: romero reaches agreement to leave tottenham, club to club talks continu",
-    "transfer news and rumours today: aston villa get defender green light, crystal p"
+    "transfer news and rumours today: aston villa get defender green light, crystal p",
+    "hijack on: arsenal expected to pivot to liverpool target as vini jr transfer alt",
+    "transfer rumors, news: liverpool offered real madrid cb amid defensive woes",
+    "real madrid win the vinicius junior battle as arsenal's ambitious transfer hopes",
+    "\ud83d\udd35 \u26aa\ufe0f \ud83c\uddec\ud83c\udded caleb yirenkyi has passed his medical at coventry city, joining from fc ",
+    "@hawkesafc what should i face? they said here we go for a club statement not so "
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1656,7 +1662,6 @@
     "fisnik asllani": "https://r2.thesportsdb.com/images/media/player/cutout/kkw1xc1763487074.png/small",
     "thiago almada": "https://r2.thesportsdb.com/images/media/player/cutout/ffqi3i1762288171.png/small",
     "benji flowers": "",
-    "martin": "",
     "axel donczew": "",
     "victor froholdt": "",
     "joao palhinha": "https://r2.thesportsdb.com/images/media/player/cutout/o0ii6n1757016009.png/small",
@@ -1666,9 +1671,10 @@
     "kerem alajbegovic": "",
     "matteo ruggeri": "https://r2.thesportsdb.com/images/media/player/cutout/a9q51s1762890169.png/small",
     "mateo soule": "",
-    "ousmane ndiaye": ""
+    "ousmane ndiaye": "",
+    "martin": ""
   },
-  "photo_repair_idx": 5,
+  "photo_repair_idx": 6,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

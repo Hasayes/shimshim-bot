@@ -691,7 +691,9 @@
     "450d23debb14405ca096cf4866d4aa99",
     "355c423df4b058b4808b9debdca980e3",
     "0f2948812a23c60a7f510858975706e4",
-    "b6698941d9c95e976c7d23149078b8aa"
+    "b6698941d9c95e976c7d23149078b8aa",
+    "tg:FabrizioRomanoTG/64109",
+    "tg:FabrizioRomanoTG/64111"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1057,8 +1059,6 @@
     "interest: zirkzee -> manchester united"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83d\udd35 official: napoli statement hints at possible legal action following jesper l",
-    "tottenham hold positive talks with liverpool star but reds have no intention to ",
     "fabrizio romano provides update on liverpool\u2019s move for bradley barcola",
     "qpr set to sign ligue 1 midfielder with loan to buy deal agreed",
     "\ud83d\udea8 \ud83d\udfe1 \u26ab\ufe0f al ittihad reach agreement in principle with almeria for dion lopy! exclu",
@@ -1356,7 +1356,9 @@
     "vinicius jr faces decision after real madrid\u2019s improved contract offer",
     "vinicius junior closes in on lucrative real madrid contract extension to end ars",
     "man united run into lewis hall transfer issue despite 'having \u00a360m fee ready'",
-    "real madrid reportedly make final salary offer for vinicius junior below kylian "
+    "real madrid reportedly make final salary offer for vinicius junior below kylian ",
+    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f middlesbrough agree deal to sign ashley phillips as new defender from tot",
+    "rt @themadridzone : \ud83d\udea8 \ud83d\udca3 @fabrizioromano : \"man city believe that barcelona could"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1589,7 +1591,6 @@
     "mohamed salah": "https://r2.thesportsdb.com/images/media/player/cutout/3blc581757088735.png/small",
     "molina": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Nahuel_Molina_Argentina_v_Spain_19_July_2026-023.jpg/330px-Nahuel_Molina_Argentina_v_Spain_19_July_2026-023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "el bilal toure": "https://images.fotmob.com/image_resources/playerimages/1054114.png",
-    "ousmane ndiaye": "",
     "martin": "",
     "axel donczew": "",
     "victor froholdt": "",
@@ -1598,9 +1599,10 @@
     "rodri hernandez": "",
     "junior kroupi": "",
     "kerem alajbegovic": "",
-    "mateo soule": ""
+    "mateo soule": "",
+    "ousmane ndiaye": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 5,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

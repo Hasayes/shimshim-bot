@@ -700,7 +700,8 @@
     "tg:FabrizioRomanoTG/64116",
     "e078c8206fbf37cf4a177d840dde8bee",
     "da08bd0d29939d0c91e5a78f46e20937",
-    "tg:FabrizioRomanoTG/64117"
+    "tg:FabrizioRomanoTG/64117",
+    "tg:FabrizioRomanoTG/64118"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1067,7 +1068,6 @@
     "interest: zirkzee -> manchester united"
   ],
   "titles": [
-    "report: tottenham hotspur keen to sign liverpool star",
     "\ud83d\udea8 \ud83d\udd35 cruzeiro have completed the agreement to sign angelo from al nassr on loan n",
     "\ud83d\udea8 \ud83d\udd35 cruzeiro have completed the agreement to sign wesley from al nassr on loan n",
     "'cologne favourites to sign former ibrox loanee moore' gossip",
@@ -1366,7 +1366,8 @@
     "\ud83d\udea8 \ud83d\udfe2 \u26aa\ufe0f nestory irankunda to sporting, here we go! club to club agreement at \u20ac18m",
     "why everton signed christian norgaard: arteta's character reference, replacing g",
     "bradley barcola chooses between liverpool, arsenal as fsg offered real madrid st",
-    "\ud83d\udea8 \u2708\ufe0f yan diomande will land in madrid in the afternoon flying later today transf"
+    "\ud83d\udea8 \u2708\ufe0f yan diomande will land in madrid in the afternoon flying later today transf",
+    "\ud83d\udfe2 \u26aa\ufe0f \ud83c\udde6\ud83c\uddfa nestory irankunda to sporting cp from watford, final details of the deal"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1599,7 +1600,6 @@
     "mohamed salah": "https://r2.thesportsdb.com/images/media/player/cutout/3blc581757088735.png/small",
     "molina": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Nahuel_Molina_Argentina_v_Spain_19_July_2026-023.jpg/330px-Nahuel_Molina_Argentina_v_Spain_19_July_2026-023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "el bilal toure": "https://images.fotmob.com/image_resources/playerimages/1054114.png",
-    "junior kroupi": "",
     "kerem alajbegovic": "",
     "mateo soule": "",
     "ousmane ndiaye": "",
@@ -1609,9 +1609,10 @@
     "nestory irankunda": "https://r2.thesportsdb.com/images/media/player/cutout/nyliux1761216493.png/small",
     "kyle healy": "",
     "benji flowers": "",
-    "rodri hernandez": ""
+    "rodri hernandez": "",
+    "junior kroupi": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

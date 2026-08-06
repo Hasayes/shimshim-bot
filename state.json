@@ -729,7 +729,10 @@
     "42ec55fc6868d02821f1000d4126aa15",
     "tg:FabrizioRomanoTG/64146",
     "tg:FabrizioRomanoTG/64147",
-    "tg:FabrizioRomanoTG/64148"
+    "tg:FabrizioRomanoTG/64148",
+    "7cb71ac7d502d5a5932ef4ee1d35b85d",
+    "28046480005f0eafbe00beb9105890e5",
+    "tg:FabrizioRomanoTG/64150"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1099,9 +1102,6 @@
     "interest: palhinha -> aston villa"
   ],
   "titles": [
-    "andoni iraola sent subtle message to richard hughes immediately after leeds coll",
-    "psg closing in on parma\u2019s zion suzuki with \u20ac33m bid amid juventus interest",
-    "arsenal transfer fee revealed by source after axel donczew passes medical",
     "sky sports: liverpool target reaches \u201cfull verbal agreement\u201d ahead of mega money",
     "tenth chelsea signing in london for medical with official announcement in the co",
     "done deal: angelino set to join deportivo on loan with obligation",
@@ -1398,7 +1398,10 @@
     "vinicius junior to arsenal declared done deal by trusted real madrid reporter",
     "\ud83d\udd34 \ud83d\udd35 official: maghnes akliouche signs in as new paris saint germain player on \u20ac5",
     "\ud83d\udea8 official: manchester united confirm deal agreed for 17 year old midfielder cri",
-    "\ud83d\udea8 official: manchester united confirm deal agreed for 18 year old midfielder cri"
+    "\ud83d\udea8 official: manchester united confirm deal agreed for 18 year old midfielder cri",
+    "from spain: manchester united considering stunning \u20ac150m double transfer",
+    "guimaeraes completes medical at arsenal ahead \u00a375m move",
+    "\ud83d\udea8 \u26aa\ufe0f story confirmed: vinicius jr new six year contract at real madrid, set to b"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1635,7 +1638,6 @@
     "fisnik asllani": "https://r2.thesportsdb.com/images/media/player/cutout/kkw1xc1763487074.png/small",
     "thiago almada": "https://r2.thesportsdb.com/images/media/player/cutout/ffqi3i1762288171.png/small",
     "benji flowers": "",
-    "kerem alajbegovic": "",
     "mateo soule": "",
     "ousmane ndiaye": "",
     "martin": "",
@@ -1644,9 +1646,10 @@
     "joao palhinha": "https://r2.thesportsdb.com/images/media/player/cutout/o0ii6n1757016009.png/small",
     "kyle healy": "",
     "rodri hernandez": "",
-    "junior kroupi": ""
+    "junior kroupi": "",
+    "kerem alajbegovic": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

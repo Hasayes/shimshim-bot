@@ -787,7 +787,9 @@
     "0fbe6b3946e2b067ed7e05ed71f3e30a",
     "4321bc458b583c5516323c5dc7b747fb",
     "78a1e25fa72c4060eb765277733dc1c8",
-    "tg:FabrizioRomanoTG/64167"
+    "tg:FabrizioRomanoTG/64167",
+    "fb9e1811aef458d24791f20ed1f59699",
+    "b67f55cb8ee4a93e4f30965eb2ea3cdd"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1160,8 +1162,6 @@
     "interest: gusto -> psg"
   ],
   "titles": [
-    "what morgan gibbs white's agent change means for nottingham forest future: olive",
-    "\ud83d\udd35 \ud83d\udd34 official, confirmed jesse bisiwu joins barcelona from brugge on \u20ac8 5m plus s",
     "man united handed clear lewis hall transfer message as newcastle take firm stanc",
     "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f filip kostic will undergo medical on wednesday as new psv eindhoven playe",
     "\ud83d\udea8 \ud83c\uddf3\ud83c\uddf1 nottingham forest are showing interest in tijjani reijnders as new midfield",
@@ -1459,7 +1459,9 @@
     "barcelona\u2019s pursuit of rodri could sabotage man utd\u2019s dream aurelien tchouameni ",
     "man utd\u2019s aurelien tchouameni pursuit takes yet another twist after thursday mor",
     "marcus rashford future: all signs pointing towards england international staying",
-    "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 barcelona have fully agreed on personal terms with rodri after contract pr"
+    "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 barcelona have fully agreed on personal terms with rodri after contract pr",
+    "barcelona \u201cmake contact\u201d with rodri, manchester city over blockbuster transfer",
+    "david ornstein provides update on manchester united move for lewis hall"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1699,7 +1701,6 @@
     "joao palhinha": "https://r2.thesportsdb.com/images/media/player/cutout/o0ii6n1757016009.png/small",
     "kyle healy": "",
     "matteo ruggeri": "https://r2.thesportsdb.com/images/media/player/cutout/a9q51s1762890169.png/small",
-    "martin": "",
     "axel donczew": "",
     "victor froholdt": "",
     "filip kostic": "https://r2.thesportsdb.com/images/media/player/cutout/1kqxaz1759225234.png/small",
@@ -1708,9 +1709,10 @@
     "junior kroupi": "",
     "kerem alajbegovic": "",
     "mateo soule": "",
-    "ousmane ndiaye": ""
+    "ousmane ndiaye": "",
+    "martin": ""
   },
-  "photo_repair_idx": 5,
+  "photo_repair_idx": 6,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

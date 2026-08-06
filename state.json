@@ -662,7 +662,8 @@
     "c403271117377575894cfe0828db4d4d",
     "e81e5ff25162251ef376bd3131891ed2",
     "b35abe2bb1fd43072c9bbe74bfc60ed5",
-    "8c40f3c0c68e34a54a8ec378732e926a"
+    "8c40f3c0c68e34a54a8ec378732e926a",
+    "55906f62f5900546b7481efd5ddd8ec1"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1025,7 +1026,6 @@
     "interest: zirkzee -> manchester united"
   ],
   "titles": [
-    "\ud83d\udea8 \u26aa\ufe0f tottenham plan to step up their efforts to try sign cody gakpo as talks wil",
     "\u2018i don\u2019t expect\u2019 \u2013 fabrizio romano issues reality check on bradley barcola to li",
     "galatasaray reject arsenal\u2019s gyokeres plus \u20ac30m swap bid for osimhen",
     "arsenal 'green light first xi exits' to fund vinicius junior move as talks advan",
@@ -1324,7 +1324,8 @@
     "liverpool icon mohamed salah arrives in istanbul ahead of trabzonspor move",
     "aston villa reach agreement with atletico madrid to make liverpool, tottenham ta",
     "barcelona fully confident of completing veteran portuguese star\u2019s transfer \u2013 rom",
-    "mohamed salah\u2019s trabzonspor era has officially begun, and fans are already all i"
+    "mohamed salah\u2019s trabzonspor era has officially begun, and fans are already all i",
+    "liverpool increase bid for bradley barcola as sensational double deal heats up"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1555,7 +1556,6 @@
     "nicolas jackson": "https://r2.thesportsdb.com/images/media/player/cutout/uteluc1762963819.png/small",
     "mishel nduka": "",
     "mohamed salah": "https://r2.thesportsdb.com/images/media/player/cutout/3blc581757088735.png/small",
-    "junior kroupi": "",
     "kerem alajbegovic": "",
     "mateo soule": "",
     "ousmane ndiaye": "",
@@ -1564,9 +1564,10 @@
     "victor froholdt": "",
     "kyle healy": "",
     "benji flowers": "",
-    "rodri hernandez": ""
+    "rodri hernandez": "",
+    "junior kroupi": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

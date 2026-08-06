@@ -1,5 +1,25 @@
 [
  {
+  "id": "b227251dd1bbf0f4840f821d9e801579",
+  "ts": "2026-08-06T04:30:34+00:00",
+  "kind": "deal",
+  "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Nahuel_Molina_Argentina_v_Spain_19_July_2026-023.jpg/330px-Nahuel_Molina_Argentina_v_Spain_19_July_2026-023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "stage": "Completed",
+  "player": "Molina",
+  "position": "Right-back",
+  "age": "\u2014",
+  "from_club": "Atletico Madrid",
+  "to_club": "Roma",
+  "fee": "\u20ac18m",
+  "style": "Pacey full-back with attacking threat down the flank.",
+  "fit": "Roma needed defensive reinforcement at right-back; Molina provides pace and width to their backline.",
+  "source": "football-italia",
+  "summary": "Roma have completed the signing of right-back Molina from Atletico Madrid for a total package of \u20ac18m. Multiple sources report a full agreement between the clubs.",
+  "outlet": "football-italia",
+  "url": "https://football-italia.net/done-deal-molina-ready-roma-atletico-madrid/",
+  "title": "Done Deal: Molina ready for Roma, total package \u20ac18m from Atletico Madrid"
+ },
+ {
   "id": "0293d70ee9a8eb8b8cef1c630ba819d8",
   "ts": "2026-08-06T01:00:40+00:00",
   "kind": "interest",

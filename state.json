@@ -667,7 +667,9 @@
     "ed8eddf1de8581a3a1954eb6a1252441",
     "a7f4a495b1ad8cc457f2cdb4a9629c49",
     "83ba56a3f38c35fec9740db23e35070f",
-    "3eab8eea3348fa3b25bba25c33cdde84"
+    "3eab8eea3348fa3b25bba25c33cdde84",
+    "b227251dd1bbf0f4840f821d9e801579",
+    "5c5fc3e8d3a24abee2f90c3b189b0f66"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -847,7 +849,8 @@
     "moore -> tottenham": 2,
     "gyokeres -> arsenal": 2,
     "kane -> bayern munich": 2,
-    "salah -> trabzonspor": 1
+    "salah -> trabzonspor": 1,
+    "molina -> roma": 2
   },
   "interest": [
     "interest: alvarez -> arsenal",
@@ -1030,8 +1033,6 @@
     "interest: zirkzee -> manchester united"
   ],
   "titles": [
-    "chelsea are in talks to sign this la liga defender: what will he add to alonso\u2019s",
-    "fabrizio romano reveals contact for cody gakpo to tottenham transfer",
     "serie a giants take a big decision on aston villa veteran: were the english club",
     "fc koln submit official loan bid for tottenham teenager who had an 11 g/a last s",
     "\u2018deal could be completed next week\u2019: fabrizio romano drops tottenham transfer up",
@@ -1329,7 +1330,9 @@
     "who is ibrahim mbaye and why do liverpool want to sign him from psg?",
     "\u2018tottenham are in direct talks\u2019 \u2013 fabrizio romano drops exciting spurs transfer ",
     "atletico madrid close in on cristian romero as barcelona\u2019s interest fades amid j",
-    "\ud83d\udea8 breakthrough at last! diomande joins real for this fee"
+    "\ud83d\udea8 breakthrough at last! diomande joins real for this fee",
+    "done deal: molina ready for roma, total package \u20ac18m from atletico madrid",
+    "atletico madrid preparing move for wantaway tottenham star with spurs already ha"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1560,7 +1563,6 @@
     "nicolas jackson": "https://r2.thesportsdb.com/images/media/player/cutout/uteluc1762963819.png/small",
     "mishel nduka": "",
     "mohamed salah": "https://r2.thesportsdb.com/images/media/player/cutout/3blc581757088735.png/small",
-    "victor froholdt": "",
     "kyle healy": "",
     "benji flowers": "",
     "rodri hernandez": "",
@@ -1569,9 +1571,11 @@
     "mateo soule": "",
     "ousmane ndiaye": "",
     "martin": "",
-    "axel donczew": ""
+    "axel donczew": "",
+    "molina": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Nahuel_Molina_Argentina_v_Spain_19_July_2026-023.jpg/330px-Nahuel_Molina_Argentina_v_Spain_19_July_2026-023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "victor froholdt": ""
   },
-  "photo_repair_idx": 7,
+  "photo_repair_idx": 8,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

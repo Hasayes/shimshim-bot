@@ -725,7 +725,8 @@
     "tg:FabrizioRomanoTG/64143",
     "a76c396a1021f72796a9e1beca524f9b",
     "03e0fa07f8aeaccb471135599eb77e7f",
-    "tg:FabrizioRomanoTG/64144"
+    "tg:FabrizioRomanoTG/64144",
+    "42ec55fc6868d02821f1000d4126aa15"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1095,7 +1096,6 @@
     "interest: palhinha -> aston villa"
   ],
   "titles": [
-    "tottenham hotspur in 'advanced' talks over bundesliga move for middlesbrough fc ",
     "cody gakpo to tottenham update as major announcement teased and man city star ta",
     "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f vozinha has officially signed in at colo colo as new goalkeeper understa",
     "tottenham receive official bid for star amid rangers chatter as fabrizio romano ",
@@ -1394,7 +1394,8 @@
     "\ud83d\udcfa new youtube video uploaded! \ud83c\udfac \ud83d\udea8 \ud83d\udca3 bombazo rodri! hijack! green light! vini jun",
     "\ud83d\udea8 \ud83d\udd34 \u26ab\ufe0f bayer leverkusen reached verbal agreement on deal to sign facundo medina,",
     "bayern munich news: aston villa still eyeing fc bayern\u2019s joao palhinha; fc barce",
-    "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 rodri has spoken to deco and hansi flick and gave his green light to barce"
+    "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 rodri has spoken to deco and hansi flick and gave his green light to barce",
+    "vinicius junior to arsenal declared done deal by trusted real madrid reporter"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1631,7 +1632,6 @@
     "fisnik asllani": "https://r2.thesportsdb.com/images/media/player/cutout/kkw1xc1763487074.png/small",
     "thiago almada": "https://r2.thesportsdb.com/images/media/player/cutout/ffqi3i1762288171.png/small",
     "benji flowers": "",
-    "rodri hernandez": "",
     "junior kroupi": "",
     "kerem alajbegovic": "",
     "mateo soule": "",
@@ -1640,9 +1640,10 @@
     "axel donczew": "",
     "victor froholdt": "",
     "joao palhinha": "https://r2.thesportsdb.com/images/media/player/cutout/o0ii6n1757016009.png/small",
-    "kyle healy": ""
+    "kyle healy": "",
+    "rodri hernandez": ""
   },
-  "photo_repair_idx": 9,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

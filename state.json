@@ -693,7 +693,8 @@
     "0f2948812a23c60a7f510858975706e4",
     "b6698941d9c95e976c7d23149078b8aa",
     "tg:FabrizioRomanoTG/64109",
-    "tg:FabrizioRomanoTG/64111"
+    "tg:FabrizioRomanoTG/64111",
+    "tg:FabrizioRomanoTG/64113"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1059,7 +1060,6 @@
     "interest: zirkzee -> manchester united"
   ],
   "titles": [
-    "fabrizio romano provides update on liverpool\u2019s move for bradley barcola",
     "qpr set to sign ligue 1 midfielder with loan to buy deal agreed",
     "\ud83d\udea8 \ud83d\udfe1 \u26ab\ufe0f al ittihad reach agreement in principle with almeria for dion lopy! exclu",
     "keep or sell: what should liverpool do with cody gakpo?",
@@ -1358,7 +1358,8 @@
     "man united run into lewis hall transfer issue despite 'having \u00a360m fee ready'",
     "real madrid reportedly make final salary offer for vinicius junior below kylian ",
     "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f middlesbrough agree deal to sign ashley phillips as new defender from tot",
-    "rt @themadridzone : \ud83d\udea8 \ud83d\udca3 @fabrizioromano : \"man city believe that barcelona could"
+    "rt @themadridzone : \ud83d\udea8 \ud83d\udca3 @fabrizioromano : \"man city believe that barcelona could",
+    "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 barcelona have made contact with rodri\u2019s camp and also with manchester cit"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1591,7 +1592,6 @@
     "mohamed salah": "https://r2.thesportsdb.com/images/media/player/cutout/3blc581757088735.png/small",
     "molina": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Nahuel_Molina_Argentina_v_Spain_19_July_2026-023.jpg/330px-Nahuel_Molina_Argentina_v_Spain_19_July_2026-023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "el bilal toure": "https://images.fotmob.com/image_resources/playerimages/1054114.png",
-    "martin": "",
     "axel donczew": "",
     "victor froholdt": "",
     "kyle healy": "",
@@ -1600,9 +1600,10 @@
     "junior kroupi": "",
     "kerem alajbegovic": "",
     "mateo soule": "",
-    "ousmane ndiaye": ""
+    "ousmane ndiaye": "",
+    "martin": ""
   },
-  "photo_repair_idx": 5,
+  "photo_repair_idx": 6,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

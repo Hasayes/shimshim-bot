@@ -722,7 +722,10 @@
     "tg:FabrizioRomanoTG/64139",
     "tg:FabrizioRomanoTG/64140",
     "tg:FabrizioRomanoTG/64142",
-    "tg:FabrizioRomanoTG/64143"
+    "tg:FabrizioRomanoTG/64143",
+    "a76c396a1021f72796a9e1beca524f9b",
+    "03e0fa07f8aeaccb471135599eb77e7f",
+    "tg:FabrizioRomanoTG/64144"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1088,11 +1091,10 @@
     "interest: solanke -> tottenham",
     "interest: balogun -> tottenham",
     "interest: jackson -> tottenham",
-    "interest: zirkzee -> manchester united"
+    "interest: zirkzee -> manchester united",
+    "interest: palhinha -> aston villa"
   ],
   "titles": [
-    "'super talented good eye for goal': exciting chelsea verdict on reported portsmo",
-    "bayern have yan diomande transfer advantage as hoene\u00df laughs off real madrid int",
     "tottenham hotspur in 'advanced' talks over bundesliga move for middlesbrough fc ",
     "cody gakpo to tottenham update as major announcement teased and man city star ta",
     "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f vozinha has officially signed in at colo colo as new goalkeeper understa",
@@ -1390,7 +1392,9 @@
     "\ud83d\udea8 \ud83c\udf52 exclusive story, confirmed: juanlu joins bournemouth from sevilla \ud83c\uddea\ud83c\uddf8 https:/",
     "\ud83d\udea8 \u26aa\ufe0f official: yan diomande joins real madrid from rb leipzig, deal confirmed \ud83d\udca5 ",
     "\ud83d\udcfa new youtube video uploaded! \ud83c\udfac \ud83d\udea8 \ud83d\udca3 bombazo rodri! hijack! green light! vini jun",
-    "\ud83d\udea8 \ud83d\udd34 \u26ab\ufe0f bayer leverkusen reached verbal agreement on deal to sign facundo medina,"
+    "\ud83d\udea8 \ud83d\udd34 \u26ab\ufe0f bayer leverkusen reached verbal agreement on deal to sign facundo medina,",
+    "bayern munich news: aston villa still eyeing fc bayern\u2019s joao palhinha; fc barce",
+    "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 rodri has spoken to deco and hansi flick and gave his green light to barce"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1626,7 +1630,6 @@
     "nestory irankunda": "https://r2.thesportsdb.com/images/media/player/cutout/nyliux1761216493.png/small",
     "fisnik asllani": "https://r2.thesportsdb.com/images/media/player/cutout/kkw1xc1763487074.png/small",
     "thiago almada": "https://r2.thesportsdb.com/images/media/player/cutout/ffqi3i1762288171.png/small",
-    "kyle healy": "",
     "benji flowers": "",
     "rodri hernandez": "",
     "junior kroupi": "",
@@ -1635,9 +1638,11 @@
     "ousmane ndiaye": "",
     "martin": "",
     "axel donczew": "",
-    "victor froholdt": ""
+    "victor froholdt": "",
+    "joao palhinha": "https://r2.thesportsdb.com/images/media/player/cutout/o0ii6n1757016009.png/small",
+    "kyle healy": ""
   },
-  "photo_repair_idx": 8,
+  "photo_repair_idx": 9,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

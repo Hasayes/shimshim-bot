@@ -657,7 +657,9 @@
     "tg:FabrizioRomanoTG/64107",
     "7973861ee232ab0de973c3a09d216272",
     "250bfc57519b8d55c204c5a65ac63cc4",
-    "13263c3c01fcb709b3c136e973c6cc79"
+    "13263c3c01fcb709b3c136e973c6cc79",
+    "38b5e422885552e41305ba94b1daf995",
+    "c403271117377575894cfe0828db4d4d"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1020,8 +1022,6 @@
     "interest: zirkzee -> manchester united"
   ],
   "titles": [
-    "psg submits formal bids on ajax\u2019s for mika godts, parma\u2019s zion suzuki",
-    "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 psg plan to accelerate and close zion suzuki deal after \u20ac33m package bid e",
     "jj gabriel three year contract claim made as wonderkid makes man united senior d",
     "\ud83d\udea8 \u26ab\ufe0f \ud83d\udd35 inter are expected to make final decision soon on cuti romero deal no iss",
     "transfer news and rumours today: west ham 'exit', bournemouth's next signing, le",
@@ -1319,7 +1319,9 @@
     "\ud83d\udea8 \u26aa\ufe0f jose mourinho, personally involved in vinicius jr new contract discussions ",
     "liverpool great mo salah, officially, will not join sporting kc: inside kc socce",
     "newcastle tell man utd that \u00a369m star can leave but magpies could now be faced w",
-    "psg improve \u20ac28m offer for potential first team player; but have an odd loan pro"
+    "psg improve \u20ac28m offer for potential first team player; but have an odd loan pro",
+    "video: chalobah and couto arrive for como medicals, combined \u20ac33m plus bonus",
+    "liverpool icon mohamed salah arrives in istanbul ahead of trabzonspor move"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1548,7 +1550,6 @@
     "takehiro tomiyasu": "https://r2.thesportsdb.com/images/media/player/cutout/sfhhub1694204158.png/small",
     "nahuel molina": "https://r2.thesportsdb.com/images/media/player/cutout/36bdni1762288498.png/small",
     "nicolas jackson": "https://r2.thesportsdb.com/images/media/player/cutout/uteluc1762963819.png/small",
-    "victor froholdt": "",
     "kyle healy": "",
     "benji flowers": "",
     "mishel nduka": "",
@@ -1559,9 +1560,10 @@
     "mateo soule": "",
     "ousmane ndiaye": "",
     "martin": "",
-    "axel donczew": ""
+    "axel donczew": "",
+    "victor froholdt": ""
   },
-  "photo_repair_idx": 7,
+  "photo_repair_idx": 8,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

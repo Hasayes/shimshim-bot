@@ -695,7 +695,9 @@
     "tg:FabrizioRomanoTG/64109",
     "tg:FabrizioRomanoTG/64111",
     "tg:FabrizioRomanoTG/64113",
-    "dae052cb3deac65af7cdea6b43692b98"
+    "dae052cb3deac65af7cdea6b43692b98",
+    "tg:FabrizioRomanoTG/64115",
+    "tg:FabrizioRomanoTG/64116"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -878,7 +880,8 @@
     "salah -> trabzonspor": 2,
     "molina -> roma": 2,
     "toure -> parma": 1,
-    "zirkzee -> manchester united": 2
+    "zirkzee -> manchester united": 2,
+    "irankunda -> sporting": 1
   },
   "interest": [
     "interest: alvarez -> arsenal",
@@ -1061,8 +1064,6 @@
     "interest: zirkzee -> manchester united"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83d\udfe1 \u26ab\ufe0f al ittihad reach agreement in principle with almeria for dion lopy! exclu",
-    "keep or sell: what should liverpool do with cody gakpo?",
     "psg launch \u20ac40m bid for ajax\u2019s mika godts",
     "psg pursues japan goalkeeper zion suzuki",
     "transfer news live: guimaraes set for arsenal medical, vinicius jr deal close, m",
@@ -1360,7 +1361,9 @@
     "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f middlesbrough agree deal to sign ashley phillips as new defender from tot",
     "rt @themadridzone : \ud83d\udea8 \ud83d\udca3 @fabrizioromano : \"man city believe that barcelona could",
     "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 barcelona have made contact with rodri\u2019s camp and also with manchester cit",
-    "vinicius jr makes bold social media move amid real madrid exit rumors and arsena"
+    "vinicius jr makes bold social media move amid real madrid exit rumors and arsena",
+    "\ud83d\udea8 \u2708\ufe0f yan diomande has official authorization from rb leipzig to travel to madrid",
+    "\ud83d\udea8 \ud83d\udfe2 \u26aa\ufe0f nestory irankunda to sporting, here we go! club to club agreement at \u20ac18m"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1593,7 +1596,6 @@
     "mohamed salah": "https://r2.thesportsdb.com/images/media/player/cutout/3blc581757088735.png/small",
     "molina": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Nahuel_Molina_Argentina_v_Spain_19_July_2026-023.jpg/330px-Nahuel_Molina_Argentina_v_Spain_19_July_2026-023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "el bilal toure": "https://images.fotmob.com/image_resources/playerimages/1054114.png",
-    "kyle healy": "",
     "benji flowers": "",
     "rodri hernandez": "",
     "junior kroupi": "",
@@ -1602,9 +1604,11 @@
     "ousmane ndiaye": "",
     "martin": "",
     "axel donczew": "",
-    "victor froholdt": ""
+    "victor froholdt": "",
+    "nestory irankunda": "https://r2.thesportsdb.com/images/media/player/cutout/nyliux1761216493.png/small",
+    "kyle healy": ""
   },
-  "photo_repair_idx": 8,
+  "photo_repair_idx": 9,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",
@@ -1735,6 +1739,7 @@
     "rc deportivo de la coruna": "",
     "inter": "https://images.fotmob.com/image_resources/logo/teamlogo/8636.png",
     "sevilla": "https://r2.thesportsdb.com/images/media/team/badge/vpsqqx1473502977.png/small",
-    "celta vigo": "https://r2.thesportsdb.com/images/media/team/badge/xfjtku1690436219.png/small"
+    "celta vigo": "https://r2.thesportsdb.com/images/media/team/badge/xfjtku1690436219.png/small",
+    "sporting": "https://www.thesportsdb.com/images/media/team/badge/5hiuk71783137875.png/small"
   }
 }

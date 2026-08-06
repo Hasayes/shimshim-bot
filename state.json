@@ -763,7 +763,23 @@
     "3aa77f00f966798b6ae8cc1b3a50f0c6",
     "acb273466b3906c57308e892f17720d4",
     "tg:FabrizioRomanoTG/64161",
-    "tg:FabrizioRomanoTG/64163"
+    "tg:FabrizioRomanoTG/64163",
+    "4da7ea56513a9607e9d93d25509ed0bc",
+    "a2acc34e8d0c23e6fc1e7f94da744c78",
+    "dc47c45296c1994ed67f82f63322c00e",
+    "d6fc9b2b34e594070dbdaf4f02833af3",
+    "6cca4ea3731a787a755c0f948d24ab56",
+    "31923800b03fb88f038ce3a76697ff4b",
+    "34554c885d7cf9370da721a8c4dc92a7",
+    "6f95b99a8419253c6f896ab9879190b2",
+    "ff99aaa88e3fbd143ded74fa97b78ca4",
+    "4d95411a230755ca4d15ca75272b021b",
+    "02b4e7992179d98456c9d6003b05b545",
+    "3e66eabfadedf798832904465f732945",
+    "25e7deba89313d7260ad64a0b37d4ac5",
+    "e7b9a7d0a210b4773fe64b4abddccfc2",
+    "tg:FabrizioRomanoTG/64164",
+    "tg:FabrizioRomanoTG/64165"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -950,7 +966,8 @@
     "irankunda -> sporting": 1,
     "asllani -> rb leipzig": 1,
     "almada -> atletico madrid": 1,
-    "ruggeri -> aston villa": 1
+    "ruggeri -> aston villa": 1,
+    "kostic -> psv": 2
   },
   "interest": [
     "interest: alvarez -> arsenal",
@@ -1131,24 +1148,10 @@
     "interest: balogun -> tottenham",
     "interest: jackson -> tottenham",
     "interest: zirkzee -> manchester united",
-    "interest: palhinha -> aston villa"
+    "interest: palhinha -> aston villa",
+    "interest: gusto -> psg"
   ],
   "titles": [
-    "official | peter gulacsi leaves german football after 11 year rb leipzig era",
-    "transfer roundup: chelsea sell trevoh chalobah and sign jordan henderson the gua",
-    "patrice evra tells manu kone he\u2019ll \u2018do well\u2019 at premier league giants \u2013 not manc",
-    "psg \u201coptimistic\u201d about ferran torres deal, talks with barcelona to \u201caccelerate\u201d ",
-    "tottenham hotspur remain keen on recruiting this liverpool winger: should de zer",
-    "\ud83d\udea8 \ud83c\udde6\ud83c\uddf7 franco mastantuono will be the next one to leave real madrid on loan with f",
-    "liverpool interested in galatasaray full back wilfried singo",
-    "arsenal agree \u00a380m deal for bruno guimaraes as medical scheduled, reports say",
-    "west ham increases pursuit of celtic midfielder arne engels",
-    "everton want this 20 year old raw potential: do the toffees need him or an exper",
-    "fabrizio romano: juventus want to sign tottenham star guglielmo vicario",
-    "\ud83d\udea8 \ud83e\ude75 manchester city have sent first official bid today to olympique marseille fo",
-    "talks begin over bradley barcola for psg, liverpool",
-    "nico gonzalez can attract inter and roma interest, juventus open to loan",
-    "inter interested in juventus\u2019 nico gonzalez, initial contact made",
     "barcelona and 26 year old forward locked in a waiting game over contract renewal",
     "liverpool in official talks with psg for barcola; but a huge gap in valuation st",
     "liverpool in talks for andoni iraola priority signing as psg 'book medical' for ",
@@ -1433,7 +1436,22 @@
     "man utd turn to 'a lot cheaper' signing after ornstein reveals huge lewis hall u",
     "barcelona lead real madrid in rodri race after contacts with player\u2019s camp and m",
     "\u26ab\ufe0f \ud83d\udd35 \ud83c\udded\ud83c\uddf7 excl: atalanta agree deal to sign croatian centre back bartol levacic fo",
-    "\ufffc \ud83d\udea8 atletico madrid are in club to club talks with tottenham for cuti romero ars"
+    "\ufffc \ud83d\udea8 atletico madrid are in club to club talks with tottenham for cuti romero ars",
+    "man utd considering shock left back signing after hall, lewis skelly rejections ",
+    "romano says man utd first teamer is now \u2018genuinely\u2019 considering a move away from",
+    "sky sports: man united now \u2018ready to strike\u2019 deal with euro giants for \u00a337m atta",
+    "man utd set aside \u00a360m for premier league star after ornstein verifies \u2018clear\u2019 i",
+    "filip kostic gets a new club weeks after juventus released him",
+    "exclusive claims chelsea new midfielder target gets green light from xabi alonso",
+    "injury update on two key chelsea players who have been left out of squad to face",
+    "latest: ornstein says chelsea \u201cclose to finalising\u201d next transfer in busy summer",
+    "man city make \u201cdirect contact\u201d with chelsea over first choice attacker",
+    "fabrizio romano names chelsea\u2019s fixed fee for defender transfer at last",
+    "psg the latest super club to target \u00a375m chelsea defender who has been made avai",
+    "lille line up real madrid midfielder as replacement for man city bound ayyoub bo",
+    "decision time approaching for arsenal target as gunners prepare to make approach",
+    "\ud83d\udea8 \u26ab\ufe0f \ud83d\udd35 club brugge are closing in on deal to sign jan virgili from mallorca, ver",
+    "\ud83d\udea8 \ud83d\udd35 chelsea agree deal to sign pep chavarria from rayo vallecano, here we go! de"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1672,7 +1690,6 @@
     "benji flowers": "",
     "joao palhinha": "https://r2.thesportsdb.com/images/media/player/cutout/o0ii6n1757016009.png/small",
     "kyle healy": "",
-    "rodri hernandez": "",
     "junior kroupi": "",
     "kerem alajbegovic": "",
     "matteo ruggeri": "https://r2.thesportsdb.com/images/media/player/cutout/a9q51s1762890169.png/small",
@@ -1680,9 +1697,12 @@
     "ousmane ndiaye": "",
     "martin": "",
     "axel donczew": "",
-    "victor froholdt": ""
+    "victor froholdt": "",
+    "filip kostic": "https://r2.thesportsdb.com/images/media/player/cutout/1kqxaz1759225234.png/small",
+    "malo gusto": "https://r2.thesportsdb.com/images/media/player/cutout/wzyklc1757003476.png/small",
+    "rodri hernandez": ""
   },
-  "photo_repair_idx": 8,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",
@@ -1817,6 +1837,7 @@
     "sporting": "https://www.thesportsdb.com/images/media/team/badge/5hiuk71783137875.png/small",
     "hoffenheim": "https://r2.thesportsdb.com/images/media/team/badge/9hwvb21621593919.png/small",
     "river plate": "https://r2.thesportsdb.com/images/media/team/badge/03dmi31645539717.png/small",
-    "monaco": "https://r2.thesportsdb.com/images/media/team/badge/exjf5l1678808044.png/small"
+    "monaco": "https://r2.thesportsdb.com/images/media/team/badge/exjf5l1678808044.png/small",
+    "psv": "https://r2.thesportsdb.com/images/media/team/badge/xfsz6i1721297428.png/small"
   }
 }

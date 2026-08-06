@@ -726,7 +726,10 @@
     "a76c396a1021f72796a9e1beca524f9b",
     "03e0fa07f8aeaccb471135599eb77e7f",
     "tg:FabrizioRomanoTG/64144",
-    "42ec55fc6868d02821f1000d4126aa15"
+    "42ec55fc6868d02821f1000d4126aa15",
+    "tg:FabrizioRomanoTG/64146",
+    "tg:FabrizioRomanoTG/64147",
+    "tg:FabrizioRomanoTG/64148"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -878,7 +881,7 @@
     "sangare -> brentford": 2,
     "diallo -> parma": 2,
     "gulacsi -> villarreal": 2,
-    "akliouche -> psg": 1,
+    "akliouche -> psg": 2,
     "hornicek -> newcastle": 2,
     "onyedika -> eintracht frankfurt": 2,
     "gutierrez -> bayer leverkusen": 2,
@@ -1096,9 +1099,6 @@
     "interest: palhinha -> aston villa"
   ],
   "titles": [
-    "cody gakpo to tottenham update as major announcement teased and man city star ta",
-    "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f vozinha has officially signed in at colo colo as new goalkeeper understa",
-    "tottenham receive official bid for star amid rangers chatter as fabrizio romano ",
     "andoni iraola sent subtle message to richard hughes immediately after leeds coll",
     "psg closing in on parma\u2019s zion suzuki with \u20ac33m bid amid juventus interest",
     "arsenal transfer fee revealed by source after axel donczew passes medical",
@@ -1395,7 +1395,10 @@
     "\ud83d\udea8 \ud83d\udd34 \u26ab\ufe0f bayer leverkusen reached verbal agreement on deal to sign facundo medina,",
     "bayern munich news: aston villa still eyeing fc bayern\u2019s joao palhinha; fc barce",
     "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 rodri has spoken to deco and hansi flick and gave his green light to barce",
-    "vinicius junior to arsenal declared done deal by trusted real madrid reporter"
+    "vinicius junior to arsenal declared done deal by trusted real madrid reporter",
+    "\ud83d\udd34 \ud83d\udd35 official: maghnes akliouche signs in as new paris saint germain player on \u20ac5",
+    "\ud83d\udea8 official: manchester united confirm deal agreed for 17 year old midfielder cri",
+    "\ud83d\udea8 official: manchester united confirm deal agreed for 18 year old midfielder cri"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1632,7 +1635,6 @@
     "fisnik asllani": "https://r2.thesportsdb.com/images/media/player/cutout/kkw1xc1763487074.png/small",
     "thiago almada": "https://r2.thesportsdb.com/images/media/player/cutout/ffqi3i1762288171.png/small",
     "benji flowers": "",
-    "junior kroupi": "",
     "kerem alajbegovic": "",
     "mateo soule": "",
     "ousmane ndiaye": "",
@@ -1641,9 +1643,10 @@
     "victor froholdt": "",
     "joao palhinha": "https://r2.thesportsdb.com/images/media/player/cutout/o0ii6n1757016009.png/small",
     "kyle healy": "",
-    "rodri hernandez": ""
+    "rodri hernandez": "",
+    "junior kroupi": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",
@@ -1777,6 +1780,7 @@
     "celta vigo": "https://r2.thesportsdb.com/images/media/team/badge/xfjtku1690436219.png/small",
     "sporting": "https://www.thesportsdb.com/images/media/team/badge/5hiuk71783137875.png/small",
     "hoffenheim": "https://r2.thesportsdb.com/images/media/team/badge/9hwvb21621593919.png/small",
-    "river plate": "https://r2.thesportsdb.com/images/media/team/badge/03dmi31645539717.png/small"
+    "river plate": "https://r2.thesportsdb.com/images/media/team/badge/03dmi31645539717.png/small",
+    "monaco": "https://r2.thesportsdb.com/images/media/team/badge/exjf5l1678808044.png/small"
   }
 }

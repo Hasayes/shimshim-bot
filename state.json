@@ -677,7 +677,8 @@
     "29000037de985689e6e26409170c82b2",
     "7e6236b416ae603cd613d388c7842d46",
     "d875c7925414905a24f91914e09cd14b",
-    "0cb66e1757f4afecd2b167cb8c14ac9d"
+    "0cb66e1757f4afecd2b167cb8c14ac9d",
+    "e1b94a267cacf7fd474e2c5a6ee70fd7"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1042,7 +1043,6 @@
     "interest: zirkzee -> manchester united"
   ],
   "titles": [
-    "psg makes \u20ac45m offer for winger to replace bradley barcola",
     "newcastle react as man utd prepare opening bid for lewis hall amid romano claim",
     "romano reveals newcastle have now \u2018accepted\u2019 guimaraes exit to arsenal ahead of ",
     "liverpool to launch opening bradley barcola bid as fabrizio romano announces new",
@@ -1341,7 +1341,8 @@
     "club \u2018confident of reaching an agreement very soon\u2019 as advanced negotiations con",
     "done deal: atalanta send touree to parma, loan with option at \u20ac11 5m",
     "done deal: atalanta send toure to parma, loan with option at \u20ac11 5m",
-    "\ud83e\udd14 a trend is emerging! reports: how real's talks with vini jr went"
+    "\ud83e\udd14 a trend is emerging! reports: how real's talks with vini jr went",
+    "real madrid make vinicius jr improved contract offer bbc"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1572,7 +1573,6 @@
     "nicolas jackson": "https://r2.thesportsdb.com/images/media/player/cutout/uteluc1762963819.png/small",
     "mishel nduka": "",
     "mohamed salah": "https://r2.thesportsdb.com/images/media/player/cutout/3blc581757088735.png/small",
-    "ousmane ndiaye": "",
     "martin": "",
     "axel donczew": "",
     "molina": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Nahuel_Molina_Argentina_v_Spain_19_July_2026-023.jpg/330px-Nahuel_Molina_Argentina_v_Spain_19_July_2026-023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -1583,9 +1583,10 @@
     "junior kroupi": "",
     "kerem alajbegovic": "",
     "el bilal toure": "https://images.fotmob.com/image_resources/playerimages/1054114.png",
-    "mateo soule": ""
+    "mateo soule": "",
+    "ousmane ndiaye": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 5,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

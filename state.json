@@ -779,7 +779,13 @@
     "25e7deba89313d7260ad64a0b37d4ac5",
     "e7b9a7d0a210b4773fe64b4abddccfc2",
     "tg:FabrizioRomanoTG/64164",
-    "tg:FabrizioRomanoTG/64165"
+    "tg:FabrizioRomanoTG/64165",
+    "2eb57aa07292a1cf9dbf3258acda6504",
+    "2dd4498a6f1e323dca44062ebf62a727",
+    "1f48c948c76b1d0838a825010d3ac3fc",
+    "2c93644743774eade469c9b9d9c3002b",
+    "0fbe6b3946e2b067ed7e05ed71f3e30a",
+    "4321bc458b583c5516323c5dc7b747fb"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1152,12 +1158,6 @@
     "interest: gusto -> psg"
   ],
   "titles": [
-    "barcelona and 26 year old forward locked in a waiting game over contract renewal",
-    "liverpool in official talks with psg for barcola; but a huge gap in valuation st",
-    "liverpool in talks for andoni iraola priority signing as psg 'book medical' for ",
-    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f marc andre ter stegen, confirmed as new ajax player on loan from barcelon",
-    "gio reyna finally escapes germany with \u20ac3m move to strasbourg",
-    "\ud83d\udea8 official: werder bremen centre back karim coulibaly signs with roc nation as n",
     "'it's not true' leipzig\u2019s director hits out at fabrizio romano over diomande dea",
     "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f excl: como have formally finalised the agreement with borussia dortmund t",
     "what morgan gibbs white's agent change means for nottingham forest future: olive",
@@ -1451,7 +1451,13 @@
     "lille line up real madrid midfielder as replacement for man city bound ayyoub bo",
     "decision time approaching for arsenal target as gunners prepare to make approach",
     "\ud83d\udea8 \u26ab\ufe0f \ud83d\udd35 club brugge are closing in on deal to sign jan virgili from mallorca, ver",
-    "\ud83d\udea8 \ud83d\udd35 chelsea agree deal to sign pep chavarria from rayo vallecano, here we go! de"
+    "\ud83d\udea8 \ud83d\udd35 chelsea agree deal to sign pep chavarria from rayo vallecano, here we go! de",
+    "man city: rodri verdict on joining barcelona revealed as romano confirms hijack ",
+    "arsenal target electric \u00a377m winger after vinicius, barcola reject arteta",
+    "transfer: barcelona set to hijack real madrid\u2019s move for rodri",
+    "yan diomande already travelling to spain as real madrid official announcement im",
+    "barcelona\u2019s pursuit of rodri could sabotage man utd\u2019s dream aurelien tchouameni ",
+    "man utd\u2019s aurelien tchouameni pursuit takes yet another twist after thursday mor"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1691,7 +1697,6 @@
     "joao palhinha": "https://r2.thesportsdb.com/images/media/player/cutout/o0ii6n1757016009.png/small",
     "kyle healy": "",
     "matteo ruggeri": "https://r2.thesportsdb.com/images/media/player/cutout/a9q51s1762890169.png/small",
-    "mateo soule": "",
     "ousmane ndiaye": "",
     "martin": "",
     "axel donczew": "",
@@ -1700,9 +1705,10 @@
     "malo gusto": "https://r2.thesportsdb.com/images/media/player/cutout/wzyklc1757003476.png/small",
     "rodri hernandez": "",
     "junior kroupi": "",
-    "kerem alajbegovic": ""
+    "kerem alajbegovic": "",
+    "mateo soule": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

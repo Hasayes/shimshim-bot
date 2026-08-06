@@ -671,7 +671,8 @@
     "b227251dd1bbf0f4840f821d9e801579",
     "5c5fc3e8d3a24abee2f90c3b189b0f66",
     "cffe3bfe9a5861059c6050c4a2c0f1b0",
-    "3630ed7c1daecbc0ad6cb0461339b2c7"
+    "3630ed7c1daecbc0ad6cb0461339b2c7",
+    "aed04685e3b687da576d5b2ff3e92dea"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1035,7 +1036,6 @@
     "interest: zirkzee -> manchester united"
   ],
   "titles": [
-    "\u2018deal could be completed next week\u2019: fabrizio romano drops tottenham transfer up",
     "\u201csaid yes; personal terms agreed\u201d \u2013 fabrizio romano drops transfer development a",
     "schalke 04 set to acquire jesper lindstr\u00f8m on loan with \u20ac5m automatic purchase o",
     "tottenham talent mikey moore on the verge of joining 1 fc koln on loan",
@@ -1334,7 +1334,8 @@
     "done deal: molina ready for roma, total package \u20ac18m from atletico madrid",
     "atletico madrid preparing move for wantaway tottenham star with spurs already ha",
     "agreement reached: the full details of diomande's transfer to real madrid",
-    "fresh vinicius junior to arsenal transfer twist as gunners 'prepare bid' after r"
+    "fresh vinicius junior to arsenal transfer twist as gunners 'prepare bid' after r",
+    "barca to 'battle' real in race for rodri"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1565,7 +1566,6 @@
     "nicolas jackson": "https://r2.thesportsdb.com/images/media/player/cutout/uteluc1762963819.png/small",
     "mishel nduka": "",
     "mohamed salah": "https://r2.thesportsdb.com/images/media/player/cutout/3blc581757088735.png/small",
-    "junior kroupi": "",
     "kerem alajbegovic": "",
     "mateo soule": "",
     "ousmane ndiaye": "",
@@ -1575,9 +1575,10 @@
     "victor froholdt": "",
     "kyle healy": "",
     "benji flowers": "",
-    "rodri hernandez": ""
+    "rodri hernandez": "",
+    "junior kroupi": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

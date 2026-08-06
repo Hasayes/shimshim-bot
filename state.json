@@ -755,7 +755,10 @@
     "07ecee025a082b15ac4cd60d1a746367",
     "3bec4aee2b425db26da107e860049f90",
     "tg:FabrizioRomanoTG/64157",
-    "tg:FabrizioRomanoTG/64158"
+    "tg:FabrizioRomanoTG/64158",
+    "1fe8696d140a103aa409ad5c51dc76f1",
+    "d1b5fae59d84c48724fbda4f668c7f8a",
+    "tg:FabrizioRomanoTG/64159"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1126,9 +1129,6 @@
     "interest: palhinha -> aston villa"
   ],
   "titles": [
-    "liverpool transfer news barcola deal 'on', spurs want gakpo, jones to inter late",
-    "chelsea transfer news: trevoh chalobah update as fabrizio romano 'reveals' fee a",
-    "liverpool move closer to signing mohamed salah replacement after fabrizio romano",
     "cody gakpo\u2019s future is uncertain",
     "former rangers and leeds united star set to complete uk transfer return as champ",
     "como reach agreement to sign chalobah, barca hold rodri interest euro transfer n",
@@ -1425,7 +1425,10 @@
     "transfer rumors, news: liverpool offered real madrid cb amid defensive woes",
     "real madrid win the vinicius junior battle as arsenal's ambitious transfer hopes",
     "\ud83d\udd35 \u26aa\ufe0f \ud83c\uddec\ud83c\udded caleb yirenkyi has passed his medical at coventry city, joining from fc ",
-    "@hawkesafc what should i face? they said here we go for a club statement not so "
+    "@hawkesafc what should i face? they said here we go for a club statement not so ",
+    "breaking: barcelona make move for rodri in bid to beat real madrid to spain capt",
+    "arsenal set to announce bruno guimaraes deal after medical as contract details r",
+    "rt @fabrizioromano : \ud83d\udea8 \ud83d\udd34 \ud83d\udd35 paris saint germain and ajax remain in club to club t"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1662,7 +1665,6 @@
     "fisnik asllani": "https://r2.thesportsdb.com/images/media/player/cutout/kkw1xc1763487074.png/small",
     "thiago almada": "https://r2.thesportsdb.com/images/media/player/cutout/ffqi3i1762288171.png/small",
     "benji flowers": "",
-    "axel donczew": "",
     "victor froholdt": "",
     "joao palhinha": "https://r2.thesportsdb.com/images/media/player/cutout/o0ii6n1757016009.png/small",
     "kyle healy": "",
@@ -1672,9 +1674,10 @@
     "matteo ruggeri": "https://r2.thesportsdb.com/images/media/player/cutout/a9q51s1762890169.png/small",
     "mateo soule": "",
     "ousmane ndiaye": "",
-    "martin": ""
+    "martin": "",
+    "axel donczew": ""
   },
-  "photo_repair_idx": 6,
+  "photo_repair_idx": 7,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

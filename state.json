@@ -654,7 +654,8 @@
     "e1087bbd6a9e6fa298cdf4841201ae56",
     "6884882e3765bcc7e94e0e05217bde87",
     "1cf917e36a2d703788c9756377a8fed5",
-    "tg:FabrizioRomanoTG/64107"
+    "tg:FabrizioRomanoTG/64107",
+    "7973861ee232ab0de973c3a09d216272"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1017,7 +1018,6 @@
     "interest: zirkzee -> manchester united"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83d\udfe1 \ud83d\udd35 parma have reached a verbal agreement with atalanta for el bilal toure to ",
     "\ud83d\udea8 \ud83d\ude9c ipswich town reach verbal agreement to sign florentino luis as new midfielde",
     "fabrizio romano reveals tottenham plan to sign two more stars, including attacke",
     "psg submits formal bids on ajax\u2019s for mika godts, parma\u2019s zion suzuki",
@@ -1316,7 +1316,8 @@
     "man united 'told to pay \u00a360m' as joshua zirkzee swap deal transfer ruled out man",
     "more attacking targets emerge for spurs \u2013 latest transfer reports",
     "psg improve suzuki offer formula to parma for \u20ac35m, then juventus loan",
-    "\ud83d\udea8 \u26aa\ufe0f jose mourinho, personally involved in vinicius jr new contract discussions "
+    "\ud83d\udea8 \u26aa\ufe0f jose mourinho, personally involved in vinicius jr new contract discussions ",
+    "liverpool great mo salah, officially, will not join sporting kc: inside kc socce"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1545,7 +1546,6 @@
     "takehiro tomiyasu": "https://r2.thesportsdb.com/images/media/player/cutout/sfhhub1694204158.png/small",
     "nahuel molina": "https://r2.thesportsdb.com/images/media/player/cutout/36bdni1762288498.png/small",
     "nicolas jackson": "https://r2.thesportsdb.com/images/media/player/cutout/uteluc1762963819.png/small",
-    "mateo soule": "",
     "ousmane ndiaye": "",
     "martin": "",
     "axel donczew": "",
@@ -1556,9 +1556,10 @@
     "mohamed salah": "https://r2.thesportsdb.com/images/media/player/cutout/3blc581757088735.png/small",
     "rodri hernandez": "",
     "junior kroupi": "",
-    "kerem alajbegovic": ""
+    "kerem alajbegovic": "",
+    "mateo soule": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

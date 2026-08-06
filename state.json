@@ -665,7 +665,9 @@
     "8c40f3c0c68e34a54a8ec378732e926a",
     "55906f62f5900546b7481efd5ddd8ec1",
     "ed8eddf1de8581a3a1954eb6a1252441",
-    "a7f4a495b1ad8cc457f2cdb4a9629c49"
+    "a7f4a495b1ad8cc457f2cdb4a9629c49",
+    "83ba56a3f38c35fec9740db23e35070f",
+    "3eab8eea3348fa3b25bba25c33cdde84"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1028,8 +1030,6 @@
     "interest: zirkzee -> manchester united"
   ],
   "titles": [
-    "arsenal 'green light first xi exits' to fund vinicius junior move as talks advan",
-    "fabrizio romano vs florian plettenberg: roc nation sports issues strong statemen",
     "chelsea are in talks to sign this la liga defender: what will he add to alonso\u2019s",
     "fabrizio romano reveals contact for cody gakpo to tottenham transfer",
     "serie a giants take a big decision on aston villa veteran: were the english club",
@@ -1327,7 +1327,9 @@
     "mohamed salah\u2019s trabzonspor era has officially begun, and fans are already all i",
     "liverpool increase bid for bradley barcola as sensational double deal heats up",
     "who is ibrahim mbaye and why do liverpool want to sign him from psg?",
-    "\u2018tottenham are in direct talks\u2019 \u2013 fabrizio romano drops exciting spurs transfer "
+    "\u2018tottenham are in direct talks\u2019 \u2013 fabrizio romano drops exciting spurs transfer ",
+    "atletico madrid close in on cristian romero as barcelona\u2019s interest fades amid j",
+    "\ud83d\udea8 breakthrough at last! diomande joins real for this fee"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1558,7 +1560,6 @@
     "nicolas jackson": "https://r2.thesportsdb.com/images/media/player/cutout/uteluc1762963819.png/small",
     "mishel nduka": "",
     "mohamed salah": "https://r2.thesportsdb.com/images/media/player/cutout/3blc581757088735.png/small",
-    "ousmane ndiaye": "",
     "martin": "",
     "axel donczew": "",
     "victor froholdt": "",
@@ -1567,9 +1568,10 @@
     "rodri hernandez": "",
     "junior kroupi": "",
     "kerem alajbegovic": "",
-    "mateo soule": ""
+    "mateo soule": "",
+    "ousmane ndiaye": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 5,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

@@ -659,7 +659,9 @@
     "250bfc57519b8d55c204c5a65ac63cc4",
     "13263c3c01fcb709b3c136e973c6cc79",
     "38b5e422885552e41305ba94b1daf995",
-    "c403271117377575894cfe0828db4d4d"
+    "c403271117377575894cfe0828db4d4d",
+    "e81e5ff25162251ef376bd3131891ed2",
+    "b35abe2bb1fd43072c9bbe74bfc60ed5"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1022,8 +1024,6 @@
     "interest: zirkzee -> manchester united"
   ],
   "titles": [
-    "jj gabriel three year contract claim made as wonderkid makes man united senior d",
-    "\ud83d\udea8 \u26ab\ufe0f \ud83d\udd35 inter are expected to make final decision soon on cuti romero deal no iss",
     "transfer news and rumours today: west ham 'exit', bournemouth's next signing, le",
     "\ud83d\udea8 \u26aa\ufe0f tottenham plan to step up their efforts to try sign cody gakpo as talks wil",
     "\u2018i don\u2019t expect\u2019 \u2013 fabrizio romano issues reality check on bradley barcola to li",
@@ -1321,7 +1321,9 @@
     "newcastle tell man utd that \u00a369m star can leave but magpies could now be faced w",
     "psg improve \u20ac28m offer for potential first team player; but have an odd loan pro",
     "video: chalobah and couto arrive for como medicals, combined \u20ac33m plus bonus",
-    "liverpool icon mohamed salah arrives in istanbul ahead of trabzonspor move"
+    "liverpool icon mohamed salah arrives in istanbul ahead of trabzonspor move",
+    "aston villa reach agreement with atletico madrid to make liverpool, tottenham ta",
+    "barcelona fully confident of completing veteran portuguese star\u2019s transfer \u2013 rom"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1550,7 +1552,6 @@
     "takehiro tomiyasu": "https://r2.thesportsdb.com/images/media/player/cutout/sfhhub1694204158.png/small",
     "nahuel molina": "https://r2.thesportsdb.com/images/media/player/cutout/36bdni1762288498.png/small",
     "nicolas jackson": "https://r2.thesportsdb.com/images/media/player/cutout/uteluc1762963819.png/small",
-    "kyle healy": "",
     "benji flowers": "",
     "mishel nduka": "",
     "mohamed salah": "https://r2.thesportsdb.com/images/media/player/cutout/3blc581757088735.png/small",
@@ -1561,9 +1562,10 @@
     "ousmane ndiaye": "",
     "martin": "",
     "axel donczew": "",
-    "victor froholdt": ""
+    "victor froholdt": "",
+    "kyle healy": ""
   },
-  "photo_repair_idx": 8,
+  "photo_repair_idx": 9,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

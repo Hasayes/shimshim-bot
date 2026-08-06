@@ -679,7 +679,9 @@
     "d875c7925414905a24f91914e09cd14b",
     "0cb66e1757f4afecd2b167cb8c14ac9d",
     "e1b94a267cacf7fd474e2c5a6ee70fd7",
-    "2eab357a1b59e924ebd7b78ea1079694"
+    "2eab357a1b59e924ebd7b78ea1079694",
+    "edc3a7222b2ee60c7aeb7cbfe4742be4",
+    "ba4f4b232b18d21c8fb98f2bf207d586"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1044,8 +1046,6 @@
     "interest: zirkzee -> manchester united"
   ],
   "titles": [
-    "romano reveals newcastle have now \u2018accepted\u2019 guimaraes exit to arsenal ahead of ",
-    "liverpool to launch opening bradley barcola bid as fabrizio romano announces new",
     "fabrizio romano reveals arsenal on cusp of bruno guimaraes deal amid official tr",
     "\ud83d\udea8 \ud83c\uddfa\ud83c\uddf8 breaking: mauricio pochettino signs new deal as usmnt head coach until 2030",
     "\ud83d\udcfa new youtube video uploaded! \ud83c\udfac \ud83d\udea8 \ud83d\udca3 talks now underway! de bruyne, ferran, barca",
@@ -1343,7 +1343,9 @@
     "done deal: atalanta send toure to parma, loan with option at \u20ac11 5m",
     "\ud83e\udd14 a trend is emerging! reports: how real's talks with vini jr went",
     "real madrid make vinicius jr improved contract offer bbc",
-    "tottenham back in \u2018direct talks\u2019 with 27yo liverpool star over move, deal depend"
+    "tottenham back in \u2018direct talks\u2019 with 27yo liverpool star over move, deal depend",
+    "man utd told to offer \u00a360m to sign juventus star as ornstein reveals ineos\u2019 two ",
+    "vinicius junior to arsenal: fabrizio romano issues 'key update' as influential f"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1574,7 +1576,6 @@
     "nicolas jackson": "https://r2.thesportsdb.com/images/media/player/cutout/uteluc1762963819.png/small",
     "mishel nduka": "",
     "mohamed salah": "https://r2.thesportsdb.com/images/media/player/cutout/3blc581757088735.png/small",
-    "axel donczew": "",
     "molina": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Nahuel_Molina_Argentina_v_Spain_19_July_2026-023.jpg/330px-Nahuel_Molina_Argentina_v_Spain_19_July_2026-023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "victor froholdt": "",
     "kyle healy": "",
@@ -1585,9 +1586,10 @@
     "el bilal toure": "https://images.fotmob.com/image_resources/playerimages/1054114.png",
     "mateo soule": "",
     "ousmane ndiaye": "",
-    "martin": ""
+    "martin": "",
+    "axel donczew": ""
   },
-  "photo_repair_idx": 6,
+  "photo_repair_idx": 7,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

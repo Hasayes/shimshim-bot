@@ -669,7 +669,9 @@
     "83ba56a3f38c35fec9740db23e35070f",
     "3eab8eea3348fa3b25bba25c33cdde84",
     "b227251dd1bbf0f4840f821d9e801579",
-    "5c5fc3e8d3a24abee2f90c3b189b0f66"
+    "5c5fc3e8d3a24abee2f90c3b189b0f66",
+    "cffe3bfe9a5861059c6050c4a2c0f1b0",
+    "3630ed7c1daecbc0ad6cb0461339b2c7"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1033,8 +1035,6 @@
     "interest: zirkzee -> manchester united"
   ],
   "titles": [
-    "serie a giants take a big decision on aston villa veteran: were the english club",
-    "fc koln submit official loan bid for tottenham teenager who had an 11 g/a last s",
     "\u2018deal could be completed next week\u2019: fabrizio romano drops tottenham transfer up",
     "\u201csaid yes; personal terms agreed\u201d \u2013 fabrizio romano drops transfer development a",
     "schalke 04 set to acquire jesper lindstr\u00f8m on loan with \u20ac5m automatic purchase o",
@@ -1332,7 +1332,9 @@
     "atletico madrid close in on cristian romero as barcelona\u2019s interest fades amid j",
     "\ud83d\udea8 breakthrough at last! diomande joins real for this fee",
     "done deal: molina ready for roma, total package \u20ac18m from atletico madrid",
-    "atletico madrid preparing move for wantaway tottenham star with spurs already ha"
+    "atletico madrid preparing move for wantaway tottenham star with spurs already ha",
+    "agreement reached: the full details of diomande's transfer to real madrid",
+    "fresh vinicius junior to arsenal transfer twist as gunners 'prepare bid' after r"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1563,7 +1565,6 @@
     "nicolas jackson": "https://r2.thesportsdb.com/images/media/player/cutout/uteluc1762963819.png/small",
     "mishel nduka": "",
     "mohamed salah": "https://r2.thesportsdb.com/images/media/player/cutout/3blc581757088735.png/small",
-    "rodri hernandez": "",
     "junior kroupi": "",
     "kerem alajbegovic": "",
     "mateo soule": "",
@@ -1573,9 +1574,10 @@
     "molina": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Nahuel_Molina_Argentina_v_Spain_19_July_2026-023.jpg/330px-Nahuel_Molina_Argentina_v_Spain_19_July_2026-023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "victor froholdt": "",
     "kyle healy": "",
-    "benji flowers": ""
+    "benji flowers": "",
+    "rodri hernandez": ""
   },
-  "photo_repair_idx": 10,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

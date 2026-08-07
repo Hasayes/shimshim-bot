@@ -865,7 +865,8 @@
     "dc7c1dd0ec2f142a16404559e5782732",
     "3d83e3d7b637b2121b39c64ec99fa573",
     "3c46158fc15d99e3e399f21a3174fcc0",
-    "28dfa19ef8f000010fd3cc26da122b89"
+    "28dfa19ef8f000010fd3cc26da122b89",
+    "34a541f3dbfb691f0ca21e5a6cb92598"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1242,7 +1243,6 @@
     "interest: solomon -> west ham"
   ],
   "titles": [
-    "rt @fabrizioromano : \ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f breaking: bruno guimaraes to arsenal, here we go! \ud83c\udde7\ud83c\uddf7",
     "tottenham \u2018agree\u2019 winger deal as \u00a365m rated chelsea star could be next signing",
     "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f celta vigo have agreed deal with man united to sign altay bayindir as new",
     "a portuguese winger is named as a manchester city target as city chase more expe",
@@ -1541,7 +1541,8 @@
     "fabrizio romano update gives liverpool the green light to sign 13 goal wonderkid",
     "barcelona believe they won't be able to sign their priority target this summer, ",
     "liverpool strike bradley barcola agreement as fsg react to djed spence offer",
-    "caleb yirenkyi completes medical ahead of \u20ac30m coventry city move"
+    "caleb yirenkyi completes medical ahead of \u20ac30m coventry city move",
+    "london rivals no longer in talks with tottenham over winger\u2019s move \u2013 \u2018not agreei"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1785,7 +1786,6 @@
     "malo gusto": "https://r2.thesportsdb.com/images/media/player/cutout/wzyklc1757003476.png/small",
     "antonee robinson": "https://r2.thesportsdb.com/images/media/player/cutout/q5wlej1757070520.png/small",
     "manor solomon": "https://r2.thesportsdb.com/images/media/player/cutout/8xfxe41762889351.png/small",
-    "axel donczew": "",
     "victor froholdt": "",
     "rodri hernandez": "",
     "junior kroupi": "",
@@ -1793,9 +1793,10 @@
     "mateo soule": "",
     "ousmane ndiaye": "",
     "caleb yirenkyi": "https://r2.thesportsdb.com/images/media/player/cutout/dqki3p1765402684.png/small",
-    "martin": ""
+    "martin": "",
+    "axel donczew": ""
   },
-  "photo_repair_idx": 6,
+  "photo_repair_idx": 7,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

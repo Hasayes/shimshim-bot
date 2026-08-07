@@ -908,7 +908,8 @@
     "9f3a5920b82d9e413227257664e0e491",
     "4f4460fcbe369f5cd144fdfc8eec3922",
     "eb68de7a3a4abad08c32f3b0df3c8660",
-    "f71eb6599ef3e79cb0dea30694ce1b04"
+    "f71eb6599ef3e79cb0dea30694ce1b04",
+    "d7682dca999641ed0d1d73136999008d"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1290,7 +1291,6 @@
     "interest: gero -> manchester city"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83d\udfe1 \ud83d\udd35 parma reach verbal agreement to sign el bilal toure from atalanta deal in ",
     "\u00a355m manchester city star open to transfer as pl club show interest",
     "inter milan offer their star to al ittihad: firm response from the board to mous",
     "mo salah transfer gets \u2018here we go\u2019 treatment from fabrizio romano",
@@ -1589,7 +1589,8 @@
     "transfer news live: shock arsenal move, alvarez agreement; man utd and chelsea d",
     "what man united need in the transfer window: top targets and players leaving bef",
     "transfer: rodri\u2019s agent confirms why spain midfielder picked barcelona over real",
-    "rodri\u2019s agent confirms player has informed clubs of choice between barcelona & r"
+    "rodri\u2019s agent confirms player has informed clubs of choice between barcelona & r",
+    "vini jr arsenal transfer pursuit ends as real madrid star signs new deal until 2"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1838,15 +1839,15 @@
     "junior kroupi": "https://r2.thesportsdb.com/images/media/player/cutout/7z9b4h1757017919.png/small",
     "gabriel jesus": "https://r2.thesportsdb.com/images/media/player/cutout/rwsqi51769330458.png/small",
     "sergi roberto": "https://r2.thesportsdb.com/images/media/player/cutout/2xmxre1764278454.png/small",
-    "rodri hernandez": "",
     "kerem alajbegovic": "",
     "mateo soule": "",
     "ousmane ndiaye": "",
     "martin": "",
     "axel donczew": "",
-    "gero": ""
+    "gero": "",
+    "rodri hernandez": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

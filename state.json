@@ -940,7 +940,11 @@
     "88fc5a55b0763d53f6eba83074344294",
     "9a59cd586748326f8597dec34dabc733",
     "ee3cbe0413d475c73b77633c672de186",
-    "tg:FabrizioRomanoTG/64215"
+    "tg:FabrizioRomanoTG/64215",
+    "c0c18db554280d9ef0a0dd98f056f6e0",
+    "431e1fd9c1c6eb36b5f676c7e3c046e4",
+    "8b5ebf75e4eed738abfef2cdd35e4e32",
+    "tg:FabrizioRomanoTG/64218"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1326,9 +1330,6 @@
     "interest: romero -> arsenal"
   ],
   "titles": [
-    "manchester united offload unwanted star as another nears exit: report",
-    "\ud83d\udea8 \ud83d\udd35 official: christian n\u00f8rgaard leaves arsenal to join everton on a \u00a37m deal \ud83c\udde9\ud83c\uddf0",
-    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f bruno guimaraes has completed his medical at arsenal ahead of signing a f",
     "yan couto set for serie a switch as como and borussia dortmund reach loan agreem",
     "yan couto set for como switch as borussia dortmund reach loan agreement",
     "yan diomande joins rb leipzig camp in austria as real madrid talks continue; no ",
@@ -1625,7 +1626,10 @@
     "\ud83d\udfe2 \u26aa\ufe0f \ud83d\udd1f facu buonanotte has signed in as new elche player from brighton on loan d",
     "liverpool not pursuing spence move friday's gossip",
     "boost for man united & chelsea in pursuit of premier league midfielder",
-    "\ud83d\udea8 \ud83d\udea8 \ud83d\udca3 exclusive: liverpool agree loan deal to sign ronald araujo from barcelona,"
+    "\ud83d\udea8 \ud83d\udea8 \ud83d\udca3 exclusive: liverpool agree loan deal to sign ronald araujo from barcelona,",
+    "barcelona send \u20ac45 million opening bid for rodri as talks with man city underway",
+    "vinicius junior ends arsenal speculation with new deal to 2032",
+    "\ud83d\udea8 \ud83d\udca3 the exclusive bomba of the day: ronald araujo to liverpool, here we go \ud83c\uddfa\ud83c\uddfe lo"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1877,15 +1881,15 @@
     "gero": "",
     "rodri hernandez": "",
     "kerem alajbegovic": "",
-    "diego buonanotte": "",
     "mateo soule": "",
     "nayef aguerd": "https://r2.thesportsdb.com/images/media/player/cutout/aqw7ba1766151823.png/small",
     "ousmane ndiaye": "",
     "martin": "",
     "ronald araujo": "https://r2.thesportsdb.com/images/media/player/cutout/ggpnkx1762289497.png/small",
-    "axel donczew": ""
+    "axel donczew": "",
+    "diego buonanotte": ""
   },
-  "photo_repair_idx": 8,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

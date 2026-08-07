@@ -897,7 +897,9 @@
     "tg:FabrizioRomanoTG/64198",
     "1339f0d34191b2058b5c849d1ae9eca7",
     "820620ae9ab65897cd8f92bf046974cf",
-    "641ec48bb59086de4ba3a8dd0745ffdc"
+    "641ec48bb59086de4ba3a8dd0745ffdc",
+    "ffaf410f3ee0987d49700c6e8cc6bf2f",
+    "tg:FabrizioRomanoTG/64200"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1089,7 +1091,8 @@
     "trafford -> leeds": 2,
     "yirenkyi -> coventry city": 2,
     "bouaddi -> manchester city": 1,
-    "roberto -> la galaxy": 1
+    "roberto -> la galaxy": 1,
+    "rulli -> manchester city": 1
   },
   "interest": [
     "interest: alvarez -> arsenal",
@@ -1278,8 +1281,6 @@
     "interest: gero -> manchester city"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 barcelona mantain total confidence to close joao cancelo deal by the end o",
-    "\ud83d\udea8 \ud83c\uddee\ud83c\uddf9 gianfranco zola signs with italian federation to join roberto mancini and c",
     "rt @fabrizioromano : \ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f exclusive: fc koln send official bid to sign mikey m",
     "\ud83d\udd34 \u26aa\ufe0f \u2705 exclusive story, confirmed: mikey moore, one step away from joining koln ",
     "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 takehiro tomiyasu to crystal palace, here we go! medical passed in london ",
@@ -1577,7 +1578,9 @@
     "\u26aa\ufe0f \ud83d\udc4b\ud83c\udfff yan diomande takes first pic in real madrid (training) kit after his medic",
     "\ud83d\udea8 \ud83d\udd35 xabi alonso plays down reports on diogo costa or goalkeepers linked to chels",
     "\ud83d\udea8 rodri has reportedly told real madrid he\u2019s joining barca",
-    "bayern munich news: manchester united back in on fc bayern\u2019s kim min jae?; totte"
+    "bayern munich news: manchester united back in on fc bayern\u2019s kim min jae?; totte",
+    "chelsea, rayo vallecano agree \u20ac19+2m pep chavarria transfer \u2014 report we ain't go",
+    "\ud83d\udea8 \ud83e\ude75 geronimo rulli to manchester city, here we go! deal closed now between clubs"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1825,16 +1828,16 @@
     "victor froholdt": "https://r2.thesportsdb.com/images/media/player/cutout/wge6av1742468170.png/small",
     "junior kroupi": "https://r2.thesportsdb.com/images/media/player/cutout/7z9b4h1757017919.png/small",
     "gabriel jesus": "https://r2.thesportsdb.com/images/media/player/cutout/rwsqi51769330458.png/small",
-    "ousmane ndiaye": "",
     "sergi roberto": "https://r2.thesportsdb.com/images/media/player/cutout/2xmxre1764278454.png/small",
     "martin": "",
     "axel donczew": "",
     "gero": "",
     "rodri hernandez": "",
     "kerem alajbegovic": "",
-    "mateo soule": ""
+    "mateo soule": "",
+    "ousmane ndiaye": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 5,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",
@@ -1973,6 +1976,7 @@
     "psv": "https://r2.thesportsdb.com/images/media/team/badge/xfsz6i1721297428.png/small",
     "leeds": "https://r2.thesportsdb.com/images/media/team/badge/jcgrml1756649030.png/small",
     "fc nordsj\u00e6lland": "https://r2.thesportsdb.com/images/media/team/badge/p2hof41579460164.png/small",
-    "la galaxy": "https://r2.thesportsdb.com/images/media/team/badge/ysyysr1420227188.png/small"
+    "la galaxy": "https://r2.thesportsdb.com/images/media/team/badge/ysyysr1420227188.png/small",
+    "marseille": "https://r2.thesportsdb.com/images/media/team/badge/c6bazh1779212287.png/small"
   }
 }

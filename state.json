@@ -845,7 +845,10 @@
     "b92ce30a92ddfe5b4cf29b1265b0e507",
     "2aee65da5bd2f47eb066e48a78b85ffe",
     "14c0f44fc6a6f4a6ecef27fe6aca51fc",
-    "87ba3d7d64a2a77880599ba57e55bd97"
+    "87ba3d7d64a2a77880599ba57e55bd97",
+    "4107f60c657cf317115fd85f7e8c6435",
+    "adf4a243743ea7a3883450e3055f1a47",
+    "tg:FabrizioRomanoTG/64173"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1221,9 +1224,6 @@
     "interest: solomon -> west ham"
   ],
   "titles": [
-    "salah 'agreement' reached, barca stick to alvarez plan euro transfer news",
-    "tottenham deal for winger \u2018agreed\u2019 as de zerbi targets \u00a365m chelsea star in doub",
-    "bruno guimaraes to arsenal: david ornstein provides positive transfer update ove",
     "leeds united set for seven figure windfall as \u00a324m transfer of ex youngster conf",
     "psg strategy for signing ferran torres from barcelona revealed barca blaugranes",
     "everton can surely green light nahuel molina transfer as fee details emerge",
@@ -1520,7 +1520,10 @@
     "rodri gives barcelona transfer green light as real madrid hopes halt",
     "rb leipzig aim cheeky dig at fabrizio romano with yan diomande transfer announce",
     "the truth about vini jr with fabrizio romano and ben jacobs | pm andy burnham ex",
-    "fabrizio romano: vini jr set to stay, rodri picks barca & barcola wants liverpoo"
+    "fabrizio romano: vini jr set to stay, rodri picks barca & barcola wants liverpoo",
+    "manchester united transfer news: old trafford confirms signing of 18 year old mi",
+    "la liga: arsenal target vini jr set to sign six year contract with madrid",
+    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f atletico madrid prepare new official bid for cuti romero as clear frontru"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1764,16 +1767,16 @@
     "malo gusto": "https://r2.thesportsdb.com/images/media/player/cutout/wzyklc1757003476.png/small",
     "antonee robinson": "https://r2.thesportsdb.com/images/media/player/cutout/q5wlej1757070520.png/small",
     "manor solomon": "https://r2.thesportsdb.com/images/media/player/cutout/8xfxe41762889351.png/small",
-    "martin": "",
     "axel donczew": "",
     "victor froholdt": "",
     "rodri hernandez": "",
     "junior kroupi": "",
     "kerem alajbegovic": "",
     "mateo soule": "",
-    "ousmane ndiaye": ""
+    "ousmane ndiaye": "",
+    "martin": ""
   },
-  "photo_repair_idx": 5,
+  "photo_repair_idx": 6,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

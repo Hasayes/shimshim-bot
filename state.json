@@ -811,7 +811,11 @@
     "714b3e56988eab98b75867427efa345f",
     "bc1537c8c3b2950ebfdcee1ad2f1ff01",
     "1cfbfb424bf11bdd6d769771c3a2d544",
-    "9f10f734a4a8ff80a7f3eaabf72bb842"
+    "9f10f734a4a8ff80a7f3eaabf72bb842",
+    "73ef2f507e02670a3943231d583c08a5",
+    "8f8d8d43ac2f57248a4e7088b2dfc222",
+    "d6eef1d40757f285fe33c92ff0e300a4",
+    "tg:FabrizioRomanoTG/64169"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1182,13 +1186,10 @@
     "interest: jackson -> tottenham",
     "interest: zirkzee -> manchester united",
     "interest: palhinha -> aston villa",
-    "interest: gusto -> psg"
+    "interest: gusto -> psg",
+    "interest: robinson -> manchester united"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83c\udf52 juanlu travels to england tomorrow to complete his move as new bournemouth p",
-    "fabrizio romano confirms barcelona\u2019s firm stance on 26 year old star\u2019s future am",
-    "liverpool news: bradley barcola talks progress as andoni iraola makes decision",
-    "liverpool to bid for bradley barcola in stunning double deal as \u2018official\u2019 talks",
     "@madridsports_ 100% hecho y la green light para viajar, pronto \u2014 fabrizio romano",
     "fc barcelona news: 4 august 2026; barca finish england training camp, ferran tor",
     "\ud83d\udea8 \ud83d\udca3 breaking: mo salah to trabzonspor, here we go! club confirms agreement in pl",
@@ -1484,7 +1485,11 @@
     "leeds united poised to break transfer record with james trafford acquisition",
     "12 g/a youngster speaks out on future amid arsenal transfer links",
     "euro giants respond to huge tottenham offer for winger as spurs eye gakpo altern",
-    "yan diomande to real madrid: blockbuster 'deal done' as astronomical fee and two"
+    "yan diomande to real madrid: blockbuster 'deal done' as astronomical fee and two",
+    "michael owen \u2018can see\u2019 tottenham signing \u2018consistently poor\u2019 liverpool man",
+    "man utd to give up on lewis hall? carrick considers bid for fulham's antonee rob",
+    "just in: another man utd target fades as ornstein reveals \u2018fantastic\u2019 epl star s",
+    "\ud83d\udd34 \u26aa\ufe0f \ud83c\udde7\ud83c\uddf7 bruno guimaraes has also signed his contract as new arsenal player \ud83d\udd10 med"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1726,16 +1731,17 @@
     "matteo ruggeri": "https://r2.thesportsdb.com/images/media/player/cutout/a9q51s1762890169.png/small",
     "filip kostic": "https://r2.thesportsdb.com/images/media/player/cutout/1kqxaz1759225234.png/small",
     "malo gusto": "https://r2.thesportsdb.com/images/media/player/cutout/wzyklc1757003476.png/small",
-    "victor froholdt": "",
     "rodri hernandez": "",
     "junior kroupi": "",
     "kerem alajbegovic": "",
     "mateo soule": "",
     "ousmane ndiaye": "",
     "martin": "",
-    "axel donczew": ""
+    "axel donczew": "",
+    "antonee robinson": "https://r2.thesportsdb.com/images/media/player/cutout/q5wlej1757070520.png/small",
+    "victor froholdt": ""
   },
-  "photo_repair_idx": 7,
+  "photo_repair_idx": 8,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

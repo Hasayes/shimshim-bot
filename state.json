@@ -910,7 +910,10 @@
     "eb68de7a3a4abad08c32f3b0df3c8660",
     "f71eb6599ef3e79cb0dea30694ce1b04",
     "d7682dca999641ed0d1d73136999008d",
-    "7c005bbc9fccbe83a417b46cb4c75a56"
+    "7c005bbc9fccbe83a417b46cb4c75a56",
+    "181d00b04be50e13143376e709f68ad0",
+    "508a9f31f9fa8732545c8c6076e87f80",
+    "tg:FabrizioRomanoTG/64203"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1292,9 +1295,6 @@
     "interest: gero -> manchester city"
   ],
   "titles": [
-    "inter milan offer their star to al ittihad: firm response from the board to mous",
-    "mo salah transfer gets \u2018here we go\u2019 treatment from fabrizio romano",
-    "mohamed salah transfer update: is ex liverpool star joining turkish side trabzon",
     "\ud83d\udcfa new youtube video uploaded! \ud83c\udfac \ud83d\udea8 \ud83d\udca3 \ud83d\udca3 boom vinicius! big news! arsenal: medical ",
     "\ud83d\udea8 \u26aa\ufe0f real madrid are increasingly confident to receive final green light from vi",
     "22 year old fringe player edges closer to man united exit in search of playing t",
@@ -1591,7 +1591,10 @@
     "transfer: rodri\u2019s agent confirms why spain midfielder picked barcelona over real",
     "rodri\u2019s agent confirms player has informed clubs of choice between barcelona & r",
     "vini jr arsenal transfer pursuit ends as real madrid star signs new deal until 2",
-    "arsenal news: vinicius jr agreement reached, major transfer twist, bruno guimara"
+    "arsenal news: vinicius jr agreement reached, major transfer twist, bruno guimara",
+    "rodri out, fernandez in at city?",
+    "fabrizio romano reveals how man utd can unlock lewis hall deal as plan b named",
+    "\ud83d\udea8 deal done! the iconic presenter @turkialajmah is joining @thmanyahsports to ho"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1840,15 +1843,15 @@
     "junior kroupi": "https://r2.thesportsdb.com/images/media/player/cutout/7z9b4h1757017919.png/small",
     "gabriel jesus": "https://r2.thesportsdb.com/images/media/player/cutout/rwsqi51769330458.png/small",
     "sergi roberto": "https://r2.thesportsdb.com/images/media/player/cutout/2xmxre1764278454.png/small",
-    "mateo soule": "",
     "ousmane ndiaye": "",
     "martin": "",
     "axel donczew": "",
     "gero": "",
     "rodri hernandez": "",
-    "kerem alajbegovic": ""
+    "kerem alajbegovic": "",
+    "mateo soule": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

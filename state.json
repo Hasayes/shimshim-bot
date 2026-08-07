@@ -924,7 +924,12 @@
     "a273e4c96080b89c0097190fd98b350b",
     "4d5bc6e9a9e95a55380475b1c1ca168a",
     "d0dcc66e7167efc79621b29a2b02a58c",
-    "19f50ee134052a91b57d9fca579f148f"
+    "19f50ee134052a91b57d9fca579f148f",
+    "bb88c18a083cbf13048fa7e40a719ab9",
+    "1275546da62ca5360fd9157cd4cc2f2e",
+    "55615fe8964e5244e0274a230f046e84",
+    "tg:FabrizioRomanoTG/64208",
+    "tg:FabrizioRomanoTG/64210"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1117,7 +1122,8 @@
     "yirenkyi -> coventry city": 2,
     "bouaddi -> manchester city": 1,
     "roberto -> la galaxy": 1,
-    "rulli -> manchester city": 1
+    "rulli -> manchester city": 1,
+    "buonanotte -> elche": 2
   },
   "interest": [
     "interest: alvarez -> arsenal",
@@ -1307,11 +1313,6 @@
     "interest: romero -> arsenal"
   ],
   "titles": [
-    "bruno guimaraes to arsenal to be finalised \u201ctoday\u201d + other major transfers that ",
-    "liverpool transfer news: reds 'target' a second paris saint germain forward afte",
-    "rb leipzig shuts down reports of completed yan diomande transfer to madrid",
-    "fulham in 'advanced' talks over deal to sign leeds united target shea charles fr",
-    "transfer rumors, news: spurs eye usmnt star balogun, alongside osimhen, jackson",
     "romano reveals nicolas jackson to tottenham truth amid claims spurs could move f",
     "fabrizio romano offers intriguing matias soule update amid sunderland and ac mil",
     "roma finalizing molina deal worth \u20ac17 million: agreement reached with atletico, ",
@@ -1606,7 +1607,12 @@
     "talks collapsed: liverpool now in frame to complete \u00a334 2m central defender sign",
     "former ac milan sporting director linked with top job at nottingham forest",
     "barcelona submit opening \u20ac45m bid for rodri as city stand firm on valuation",
-    "man utd, chelsea learn brentford stance over big igor thiago sale"
+    "man utd, chelsea learn brentford stance over big igor thiago sale",
+    "napoli eye arsenal\u2019s gabriel jesus as lukaku heads out",
+    "not barcola: fabrizio romano drops massively encouraging liverpool transfer news",
+    "ornstein vs romano: why the vini jr arsenal saga shows transfer news isn\u2019t as si",
+    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f gabriel jesus\u2019 new agent met with napoli today as he also represents mana",
+    "\ud83d\udfe2 \u26aa\ufe0f \ud83d\udd1f diego buonanotte has signed in as new elche player from brighton on loan "
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1861,9 +1867,10 @@
     "gero": "",
     "rodri hernandez": "",
     "kerem alajbegovic": "",
+    "diego buonanotte": "",
     "mateo soule": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 5,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",
@@ -2003,6 +2010,7 @@
     "leeds": "https://r2.thesportsdb.com/images/media/team/badge/jcgrml1756649030.png/small",
     "fc nordsj\u00e6lland": "https://r2.thesportsdb.com/images/media/team/badge/p2hof41579460164.png/small",
     "la galaxy": "https://r2.thesportsdb.com/images/media/team/badge/ysyysr1420227188.png/small",
-    "marseille": "https://r2.thesportsdb.com/images/media/team/badge/c6bazh1779212287.png/small"
+    "marseille": "https://r2.thesportsdb.com/images/media/team/badge/c6bazh1779212287.png/small",
+    "elche": "https://r2.thesportsdb.com/images/media/team/badge/e4vaw51655594332.png/small"
   }
 }

@@ -807,7 +807,10 @@
     "27db9d046e56bf0999351262b760b741",
     "01307649621c1c0f74e07fd082c54c08",
     "72ef72bbfd0cfe8b6d4369ce4141439a",
-    "d99069acac85113a2ed5424f26a2401b"
+    "d99069acac85113a2ed5424f26a2401b",
+    "714b3e56988eab98b75867427efa345f",
+    "bc1537c8c3b2950ebfdcee1ad2f1ff01",
+    "1cfbfb424bf11bdd6d769771c3a2d544"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -995,7 +998,8 @@
     "asllani -> rb leipzig": 1,
     "almada -> atletico madrid": 1,
     "ruggeri -> aston villa": 1,
-    "kostic -> psv": 2
+    "kostic -> psv": 2,
+    "trafford -> leeds": 1
   },
   "interest": [
     "interest: alvarez -> arsenal",
@@ -1180,9 +1184,6 @@
     "interest: gusto -> psg"
   ],
   "titles": [
-    "transfer news live: guimaraes to arsenal done deal, vinicius offer; new man utd ",
-    "endrick remains roma\u2019s top objective",
-    "manchester city delay talks for midfield ace\u2019s sale to real madrid as barcelona ",
     "tottenham target torres opens door to transfer amid 'concrete' update",
     "\ud83d\udea8 \ud83c\udf52 juanlu travels to england tomorrow to complete his move as new bournemouth p",
     "fabrizio romano confirms barcelona\u2019s firm stance on 26 year old star\u2019s future am",
@@ -1479,7 +1480,10 @@
     "\ud83d\udcf8 on his way to a new club! 140m man already on the plane",
     "barcelona to go toe to toe with hated rivals real madrid for rodri that could sp",
     "brighton\u2019s carlos baleba a doubt for start of the season with ankle injury the a",
-    "baleba out for 'a few weeks' after injury in training the argus"
+    "baleba out for 'a few weeks' after injury in training the argus",
+    "leeds united poised to break transfer record with james trafford acquisition",
+    "12 g/a youngster speaks out on future amid arsenal transfer links",
+    "euro giants respond to huge tottenham offer for winger as spurs eye gakpo altern"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1721,16 +1725,16 @@
     "matteo ruggeri": "https://r2.thesportsdb.com/images/media/player/cutout/a9q51s1762890169.png/small",
     "filip kostic": "https://r2.thesportsdb.com/images/media/player/cutout/1kqxaz1759225234.png/small",
     "malo gusto": "https://r2.thesportsdb.com/images/media/player/cutout/wzyklc1757003476.png/small",
-    "ousmane ndiaye": "",
     "martin": "",
     "axel donczew": "",
     "victor froholdt": "",
     "rodri hernandez": "",
     "junior kroupi": "",
     "kerem alajbegovic": "",
-    "mateo soule": ""
+    "mateo soule": "",
+    "ousmane ndiaye": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 5,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",
@@ -1866,6 +1870,7 @@
     "hoffenheim": "https://r2.thesportsdb.com/images/media/team/badge/9hwvb21621593919.png/small",
     "river plate": "https://r2.thesportsdb.com/images/media/team/badge/03dmi31645539717.png/small",
     "monaco": "https://r2.thesportsdb.com/images/media/team/badge/exjf5l1678808044.png/small",
-    "psv": "https://r2.thesportsdb.com/images/media/team/badge/xfsz6i1721297428.png/small"
+    "psv": "https://r2.thesportsdb.com/images/media/team/badge/xfsz6i1721297428.png/small",
+    "leeds": "https://r2.thesportsdb.com/images/media/team/badge/jcgrml1756649030.png/small"
   }
 }

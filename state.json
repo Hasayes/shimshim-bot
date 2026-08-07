@@ -871,7 +871,8 @@
     "6802d6b7a7bb02dc93a8d13ffd696102",
     "a9298c8fd0d3cb1702d275cda48ecedb",
     "538d8ebd8a0434ba423385849a1f0224",
-    "ce056b67ae7afc5276d79ef530045b13"
+    "ce056b67ae7afc5276d79ef530045b13",
+    "7a8597e95795ba8d994d9adfa3bbeb68"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1248,7 +1249,6 @@
     "interest: solomon -> west ham"
   ],
   "titles": [
-    "\ud83d\udea8 mohamed salah's next club is known \ud83d\udca3 (fabrizio romano)",
     "romano gives \u2018here we go\u2019 to mohamed salah move as liverpool legend finally deci",
     "forest target reijnders wednesday's gossip",
     "report: liverpool legend salah to join trabzonspor tsn",
@@ -1547,7 +1547,8 @@
     "vivell wants \u00a350m midfielder at man utd as another star \u2018keen\u2019 on old trafford m",
     "turkish giants eyeing move for arsenal winger",
     "fabrizio romano says \u2018chelsea agree deal\u2019 for \u20ac21m star \u2013 \u2018here we go\u2019",
-    "fabrizio romano confirms \u201cclub to club\u201d talks for \u00a340m star alexis mac allister "
+    "fabrizio romano confirms \u201cclub to club\u201d talks for \u00a340m star alexis mac allister ",
+    "fabrizio romano confirms chelsea\u2019s eighth summer signing with \u2018here we go\u2019"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1794,14 +1795,14 @@
     "rodri hernandez": "",
     "kerem alajbegovic": "",
     "caleb yirenkyi": "https://r2.thesportsdb.com/images/media/player/cutout/dqki3p1765402684.png/small",
-    "axel donczew": "",
     "victor froholdt": "https://r2.thesportsdb.com/images/media/player/cutout/wge6av1742468170.png/small",
     "junior kroupi": "https://r2.thesportsdb.com/images/media/player/cutout/7z9b4h1757017919.png/small",
     "mateo soule": "",
     "ousmane ndiaye": "",
-    "martin": ""
+    "martin": "",
+    "axel donczew": ""
   },
-  "photo_repair_idx": 5,
+  "photo_repair_idx": 6,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

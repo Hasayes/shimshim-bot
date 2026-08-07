@@ -848,7 +848,9 @@
     "87ba3d7d64a2a77880599ba57e55bd97",
     "4107f60c657cf317115fd85f7e8c6435",
     "adf4a243743ea7a3883450e3055f1a47",
-    "tg:FabrizioRomanoTG/64173"
+    "tg:FabrizioRomanoTG/64173",
+    "7083828e174768b596aa80755ae1bccb",
+    "7550b51265d1f6bf9a5f964b0ac3aed7"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1224,8 +1226,6 @@
     "interest: solomon -> west ham"
   ],
   "titles": [
-    "leeds united set for seven figure windfall as \u00a324m transfer of ex youngster conf",
-    "psg strategy for signing ferran torres from barcelona revealed barca blaugranes",
     "everton can surely green light nahuel molina transfer as fee details emerge",
     "manchester city commence talks with the entourage of chelsea winger pedro neto",
     "tijjani reijnders attract concrete interest: manchester city want \u20ac64 million",
@@ -1523,7 +1523,9 @@
     "fabrizio romano: vini jr set to stay, rodri picks barca & barcola wants liverpoo",
     "manchester united transfer news: old trafford confirms signing of 18 year old mi",
     "la liga: arsenal target vini jr set to sign six year contract with madrid",
-    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f atletico madrid prepare new official bid for cuti romero as clear frontru"
+    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f atletico madrid prepare new official bid for cuti romero as clear frontru",
+    "fabrizio romano: arsenal more keen on ezri konsa than liverpool",
+    "manchester city identify this chelsea winger as a target: what will he bring to "
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1767,16 +1769,16 @@
     "malo gusto": "https://r2.thesportsdb.com/images/media/player/cutout/wzyklc1757003476.png/small",
     "antonee robinson": "https://r2.thesportsdb.com/images/media/player/cutout/q5wlej1757070520.png/small",
     "manor solomon": "https://r2.thesportsdb.com/images/media/player/cutout/8xfxe41762889351.png/small",
-    "axel donczew": "",
     "victor froholdt": "",
     "rodri hernandez": "",
     "junior kroupi": "",
     "kerem alajbegovic": "",
     "mateo soule": "",
     "ousmane ndiaye": "",
-    "martin": ""
+    "martin": "",
+    "axel donczew": ""
   },
-  "photo_repair_idx": 6,
+  "photo_repair_idx": 7,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

@@ -820,7 +820,10 @@
     "6bf67f20002379e9458d7c8db71decb8",
     "fabe8c222f54b96c3891cf5932485d2e",
     "e681206bcd039367e4532f81283466fc",
-    "4f2eeda141abedc36dad804ef434389a"
+    "4f2eeda141abedc36dad804ef434389a",
+    "4eb0b7c683b3964edc4bd6fd0b4a2484",
+    "8cc6b2d5001443d33a1c1ade2cffc6e1",
+    "a6d59e103e14976837525db8a1e41896"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1195,9 +1198,6 @@
     "interest: robinson -> manchester united"
   ],
   "titles": [
-    "bayer leverkusen open talks to re sign moussa diaby amid interest from benfica a",
-    "arsenal agree bruno guimaraes fee as journalist explains why newcastle are \u2018furi",
-    "\ud83d\udea8 \ud83d\udfe1 \ud83d\udd34 as roma are advancing in talks to sign nahuel molina from atletico madrid ",
     "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 psg and bayer leverkusen have excellent relationship as talks for ibrahima",
     "psg target has \u201csaid yes\u201d to \u20ac45m move and has had contact with manager and spor",
     "man city agree terms for rodri replacement as romano confirms \u2018official bid toda",
@@ -1494,7 +1494,10 @@
     "\u201cno intention\u201d \u2013 psg firm stance scaring liverpool away from potential \u20ac150m dea",
     "\ud83d\udea8 official: diomande, real madrid's priciest signing ever",
     "man city star rodri reaches decision on joining barcelona as he gives green ligh",
-    "bradley barcola to liverpool given triple boost with hijack off the table and ps"
+    "bradley barcola to liverpool given triple boost with hijack off the table and ps",
+    "yan diomande officially signs for real madrid",
+    "man utd: jacobs names three \u2018most viable\u2019 targets to be third midfield signing \u2013",
+    "how chris smalling took inspiration from ryan giggs to prolong his career"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1736,7 +1739,6 @@
     "matteo ruggeri": "https://r2.thesportsdb.com/images/media/player/cutout/a9q51s1762890169.png/small",
     "filip kostic": "https://r2.thesportsdb.com/images/media/player/cutout/1kqxaz1759225234.png/small",
     "malo gusto": "https://r2.thesportsdb.com/images/media/player/cutout/wzyklc1757003476.png/small",
-    "axel donczew": "",
     "antonee robinson": "https://r2.thesportsdb.com/images/media/player/cutout/q5wlej1757070520.png/small",
     "victor froholdt": "",
     "rodri hernandez": "",
@@ -1744,9 +1746,10 @@
     "kerem alajbegovic": "",
     "mateo soule": "",
     "ousmane ndiaye": "",
-    "martin": ""
+    "martin": "",
+    "axel donczew": ""
   },
-  "photo_repair_idx": 6,
+  "photo_repair_idx": 7,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

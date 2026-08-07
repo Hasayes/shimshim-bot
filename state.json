@@ -890,7 +890,11 @@
     "tg:FabrizioRomanoTG/64192",
     "tg:FabrizioRomanoTG/64193",
     "019884607b5111202189c82566cc3b79",
-    "tg:FabrizioRomanoTG/64195"
+    "tg:FabrizioRomanoTG/64195",
+    "ba7466b1150047e7f4e91f9451b2be34",
+    "tg:FabrizioRomanoTG/64196",
+    "tg:FabrizioRomanoTG/64197",
+    "tg:FabrizioRomanoTG/64198"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1271,10 +1275,6 @@
     "interest: gero -> manchester city"
   ],
   "titles": [
-    "nottingham forest identify man city midfielder as '\u00a355m' target in glasner's sea",
-    "\ud83d\udfe3 \ud83d\udc4b\ud83c\udffb franco mastantuono will fly to italy today in order to undergo medical at f",
-    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f atletico madrid are preparing a bid for cristian romero to be submitted a",
-    "\ud83d\udea8 \u26aa\ufe0f tottenham are in direct talks with cody gakpo\u2019s camp over possible move thi",
     "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 paris saint germain are set to improve their bid for zion suzuki, differen",
     "atletico madrid identify inter milan linked tottenham talisman as primary summer",
     "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 barcelona mantain total confidence to close joao cancelo deal by the end o",
@@ -1570,7 +1570,11 @@
     "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 paris saint germain remain in club to club active talks for mika godts wit",
     "\ud83d\udea8 \ud83c\udde7\ud83c\uddea there are no negotiations or talks at all for romelu lukaku to as monaco he",
     "enzo maresca identifies premier league star as 'dream' successor to rodri as man",
-    "@city_xtra gero is still in france no medical (yet, \ud83d\udd1c \u23f3 ) \u2014 fabrizio romano ( @f"
+    "@city_xtra gero is still in france no medical (yet, \ud83d\udd1c \u23f3 ) \u2014 fabrizio romano ( @f",
+    "arsenal news: vinicius jr agreement, ezri konsa twist, new declan rice issue",
+    "\ud83d\udc9c \u269c\ufe0f official, confirmed franco mastantuono joins fiorentina on straight loan fr",
+    "\u26aa\ufe0f \ud83d\udc4b\ud83c\udfff yan diomande takes first pic in real madrid (training) kit after his medic",
+    "\ud83d\udea8 \ud83d\udd35 xabi alonso plays down reports on diogo costa or goalkeepers linked to chels"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1818,16 +1822,16 @@
     "victor froholdt": "https://r2.thesportsdb.com/images/media/player/cutout/wge6av1742468170.png/small",
     "junior kroupi": "https://r2.thesportsdb.com/images/media/player/cutout/7z9b4h1757017919.png/small",
     "gabriel jesus": "https://r2.thesportsdb.com/images/media/player/cutout/rwsqi51769330458.png/small",
-    "kerem alajbegovic": "",
     "mateo soule": "",
     "ousmane ndiaye": "",
     "sergi roberto": "https://r2.thesportsdb.com/images/media/player/cutout/2xmxre1764278454.png/small",
     "martin": "",
     "axel donczew": "",
     "gero": "",
-    "rodri hernandez": ""
+    "rodri hernandez": "",
+    "kerem alajbegovic": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

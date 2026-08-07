@@ -1,8 +1,10 @@
-name: Daily solidity check
+name: Weekly solidity check
 
+# Kept as a free-oracle quality net (no Anthropic spend). Weekly instead of
+# daily to cut Actions minutes; run manually anytime via workflow_dispatch.
 on:
   schedule:
-    - cron: "40 4 * * *"   # daily 04:40 UTC — quiet hours
+    - cron: "40 4 * * 0"   # Sundays 04:40 UTC
   workflow_dispatch: {}
 
 permissions:
@@ -21,6 +23,7 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
+          cache: pip
       - run: pip install -r requirements.txt
       - name: Verify every card against free oracles
         env:
@@ -33,7 +36,7 @@ jobs:
             git config user.name "shimshim-bot"
             git config user.email "bot@users.noreply.github.com"
             git add docs/feed.json state.json
-            git commit -m "daily solidity check [skip ci]"
+            git commit -m "weekly solidity check [skip ci]"
             n=0
             until git push; do
               n=$((n+1)); [ "$n" -gt 3 ] && exit 1

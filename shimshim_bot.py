@@ -16,7 +16,7 @@ Required environment variables:
 Optional:
   NEWS_PROVIDER        "newsdata" (default) or "gnews"
   NEWS_QUERY           Search phrase (default: the six journalists below)
-  NEWSDATA_PAGES       newsdata pages per poll, 1 credit each (default 2)
+  NEWSDATA_PAGES       newsdata pages per poll, 1 credit each (default 1)
   TELEGRAM_CHANNELS    comma-separated t.me channels to mirror
                        (default "fabrizioromanotg" — Fabrizio Romano)
   CLAUDE_MODEL         Model for web-verify step (default "claude-sonnet-4-6")
@@ -124,8 +124,18 @@ CLUB_CANON = [
     ("marseille", r"marseille"),
     ("sporting", r"sporting (cp|lisbon)|sporting clube"),
 ]
-CLUB_RE = re.compile("|".join(pat for _, pat in CLUB_CANON))
-WATCHED_CANON = {canon for canon, _ in CLUB_CANON}
+# Interest filter / prefilter: ONLY the 16 watched clubs. Extra CLUB_CANON
+# entries above are for _norm_club / deal dedup (West Ham, Villa, …), not
+# for "is this a watched-club rumour?"
+WATCHED_CANON = {
+    "real madrid", "barcelona", "atletico madrid", "arsenal", "chelsea",
+    "liverpool", "manchester city", "manchester united", "tottenham",
+    "bayern munich", "borussia dortmund", "psg", "juventus", "inter",
+    "milan", "napoli",
+}
+WATCHED_CLUB_RE = re.compile(
+    "|".join(pat for canon, pat in CLUB_CANON if canon in WATCHED_CANON)
+)
 
 # Interest-stage wording that lets an article through to Claude when a
 # watched club is mentioned (deal-stage KEYWORDS above still apply to all).
@@ -159,7 +169,7 @@ NEWS_QUERY = os.environ.get(
 PROVIDER = os.environ.get("NEWS_PROVIDER", "newsdata").lower()
 # Pages fetched per poll from newsdata (each page = 10 articles = 1 API
 # credit). 2 keeps a full 96-runs/day schedule under the 200-credit free tier.
-NEWSDATA_PAGES = int(os.environ.get("NEWSDATA_PAGES", "2"))
+NEWSDATA_PAGES = int(os.environ.get("NEWSDATA_PAGES", "1"))
 # Articles older than this are dropped: news feeds sometimes resurface
 # years-old stories (a 2022 Pulisic swap rumour arrived as "news").
 MAX_ARTICLE_AGE_DAYS = int(os.environ.get("MAX_ARTICLE_AGE_DAYS", "3"))
@@ -642,7 +652,7 @@ def is_relevant(article):
     text = _norm(f"{article['title']} {article['desc']}")
     if any(k in text for k in KEYWORDS):
         return True
-    return bool(CLUB_RE.search(text)) and any(k in text for k in INTEREST_KEYWORDS)
+    return bool(WATCHED_CLUB_RE.search(text)) and any(k in text for k in INTEREST_KEYWORDS)
 
 
 def _article_prompt(article):
@@ -1109,24 +1119,29 @@ def _card_sig(kind, stage, player, to_club):
     return (_norm(player), kind, _norm(stage), dests)
 
 
-def append_feed(article, brief, photo=""):
+def append_feed(article, brief, photo="", feed=None):
     """Upsert the card: one card per transfer journey, moving through stages.
 
     Rumour -> Here we go -> Confirmed is ONE card that upgrades in place
     (suitors collapse to the winning club when a deal stage arrives) and
     jumps to the top of the feed. A brand-new story appends a new card.
+
+    Returns 'noop' | 'upgraded' | 'new'. When feed= is passed, mutates that
+    list in place and does not write disk (caller writes once at end).
     """
-    feed = []
-    if FEED_FILE.exists():
-        try:
-            feed = json.loads(FEED_FILE.read_text())
-        except json.JSONDecodeError:
-            pass
+    write = feed is None
+    if feed is None:
+        feed = []
+        if FEED_FILE.exists():
+            try:
+                feed = json.loads(FEED_FILE.read_text())
+            except json.JSONDecodeError:
+                pass
     sig = _card_sig(brief.kind, brief.stage, brief.player, brief.to_club)
     if any(_card_sig(c["kind"], c.get("stage", ""), c["player"], c["to_club"]) == sig
            for c in feed):
         print(f"feed append skipped (identical card exists): {brief.player}")
-        return
+        return "noop"
 
     player_key = _norm(brief.player)
     existing = None
@@ -1175,10 +1190,11 @@ def append_feed(article, brief, photo=""):
         existing["title"] = article["title"]
         feed.remove(existing)
         feed.insert(0, existing)
-        FEED_FILE.parent.mkdir(parents=True, exist_ok=True)
-        FEED_FILE.write_text(json.dumps(feed[:MAX_FEED], indent=1))
+        if write:
+            FEED_FILE.parent.mkdir(parents=True, exist_ok=True)
+            FEED_FILE.write_text(json.dumps(feed[:MAX_FEED], indent=1))
         print(f"card upgraded: {brief.player} -> {brief.to_club} ({brief.kind}/{brief.stage})")
-        return
+        return "upgraded"
     feed.insert(0, {
         "id": article["id"],
         "ts": datetime.now(timezone.utc).isoformat(timespec="seconds"),
@@ -1199,10 +1215,21 @@ def append_feed(article, brief, photo=""):
         "url": article["url"],
         "title": article["title"],
     })
+    if write:
+        FEED_FILE.parent.mkdir(parents=True, exist_ok=True)
+        if len(feed) > MAX_FEED:
+            archive_cards(feed[MAX_FEED:])  # rolled-off cards keep their history
+        FEED_FILE.write_text(json.dumps(feed[:MAX_FEED], indent=1))
+    return "new"
+
+
+def write_feed(feed):
+    """Persist feed once after a poll; archive overflow."""
     FEED_FILE.parent.mkdir(parents=True, exist_ok=True)
     if len(feed) > MAX_FEED:
-        archive_cards(feed[MAX_FEED:])  # rolled-off cards keep their history
+        archive_cards(feed[MAX_FEED:])
     FEED_FILE.write_text(json.dumps(feed[:MAX_FEED], indent=1))
+    del feed[MAX_FEED:]
 
 
 def write_push_meta(subs):
@@ -1327,12 +1354,12 @@ def send_web_push(article, brief, state, subs):
     pem_file = os.environ.get("VAPID_PEM_FILE", "")
     if not subs or not pem_file:
         print("web push skipped: no subscriptions or VAPID_PEM_FILE not set", file=sys.stderr)
-        return
+        return False
     try:
         from pywebpush import webpush, WebPushException
     except ImportError:
         print("pywebpush not installed; skipping web push", file=sys.stderr)
-        return
+        return False
     if brief.kind == "interest":
         title = f"👀 {brief.to_club} interested in {brief.player}"
     else:
@@ -1377,39 +1404,50 @@ def send_web_push(article, brief, state, subs):
                 state["push_alert_ts"] = now.isoformat(timespec="seconds")
             except Exception as te:  # noqa: BLE001
                 print(f"push re-pair alert failed: {te}", file=sys.stderr)
+    return bool(dead)
 
 
-def repair_one_photo(state):
+def repair_one_photo(state, feed=None):
     """Each poll, retry the photo lookup for one recent photo-less card.
 
     Youth players get photos as they break through; cached misses would
     otherwise freeze the crest fallback forever. One per run keeps it free.
+    Returns True only when a photo was actually written (so callers can
+    avoid dirtying state.json / git for no-op index bumps).
     """
-    try:
-        feed = json.loads(FEED_FILE.read_text())
-    except Exception:  # noqa: BLE001
-        return
+    write = feed is None
+    if feed is None:
+        try:
+            feed = json.loads(FEED_FILE.read_text())
+        except Exception:  # noqa: BLE001
+            return False
     cutoff = (datetime.now(timezone.utc).timestamp() - 14 * 86400)
     todo = [i for i in feed
             if not i.get("photo") and i.get("player", "").strip() not in ("", "—")
             and datetime.fromisoformat(i["ts"]).timestamp() > cutoff]
     if not todo:
-        return
+        return False
     idx = state.get("photo_repair_idx", 0) % len(todo)
-    state["photo_repair_idx"] = idx + 1
     card = todo[idx]
     state.setdefault("photos", {}).pop(_norm(card["player"]), None)  # allow retry
     photo = lookup_player_photo(card["player"], f"{card['from_club']}|{card['to_club']}", state)
-    if photo:
-        for i in feed:
-            if i["player"] == card["player"] and not i.get("photo"):
-                i["photo"] = photo
+    # Advance the cursor either way so we rotate through the backlog; only
+    # persist when a photo lands (or something else dirtied state).
+    state["photo_repair_idx"] = idx + 1
+    if not photo:
+        return False
+    for i in feed:
+        if i["player"] == card["player"] and not i.get("photo"):
+            i["photo"] = photo
+    if write:
         FEED_FILE.write_text(json.dumps(feed, indent=1))
-        print(f"photo repaired: {card['player']}")
+    print(f"photo repaired: {card['player']}")
+    return True
 
 
 def main():
     state = load_state()
+    dirty = False
     subs = load_push_subs()
     if not DRY_RUN:
         new_subs = collect_new_subscriptions(state)
@@ -1419,6 +1457,7 @@ def main():
                 subs.append(sub)
             subs = subs[-5:]  # at most a handful of devices
             save_push_subs(subs)
+            dirty = True
             try:
                 send_plain_telegram(
                     f"✅ ShimShim: {len(new_subs)} device(s) paired for notifications."
@@ -1429,7 +1468,7 @@ def main():
     seen = set(state["sent"])
     deals = state["deals"]  # deal key -> highest stage rank already sent
     interest_sent = set(state["interest"])
-    client = anthropic.Anthropic()  # reads ANTHROPIC_API_KEY from the env
+    client = None  # lazy — idle polls with nothing to classify skip Anthropic init
     articles = []
     try:
         articles += fetch_telegram_posts(seen=seen)
@@ -1444,6 +1483,13 @@ def main():
         sys.exit(1)
 
     sent_count = 0
+    feed = []
+    feed_dirty = False
+    if not DRY_RUN and FEED_FILE.exists():
+        try:
+            feed = json.loads(FEED_FILE.read_text())
+        except json.JSONDecodeError:
+            feed = []
     # same story from several outlets or several runs: brief it once
     briefed_titles = set(state["titles"])
     # oldest first so messages arrive in chronological order
@@ -1460,9 +1506,12 @@ def main():
             # duplicate headline this run — the first copy carries the story
             seen.add(article["id"])
             state["sent"].append(article["id"])
+            dirty = True
             print(f"skipped (duplicate headline this run): {article['title']}")
             continue
         try:
+            if client is None:
+                client = anthropic.Anthropic()
             brief = classify_article(client, article)
             if brief.kind != "none":
                 # anything that would publish gets web-verified — but not
@@ -1479,6 +1528,7 @@ def main():
                     state["sent"].append(article["id"])
                     briefed_titles.add(title_key)
                     state["titles"].append(title_key)
+                    dirty = True
                     print(f"skipped (already carded, pre-verify): {article['title']}")
                     continue
                 if needs_web_verify(article, brief):
@@ -1502,6 +1552,7 @@ def main():
                             "will be processed automatically once credits return."
                         )
                         state["billing_alert_ts"] = now.isoformat(timespec="seconds")
+                        dirty = True
                     except Exception as te:  # noqa: BLE001
                         print(f"billing alert failed: {te}", file=sys.stderr)
                 break
@@ -1509,6 +1560,7 @@ def main():
             continue
         briefed_titles.add(title_key)
         state["titles"].append(title_key)
+        dirty = True
         if state.pop("billing_alert_ts", None):
             try:  # first successful brief after an outage — all clear
                 send_plain_telegram("✅ ShimShim is back: Anthropic credits restored, catching up on pending stories.")
@@ -1559,18 +1611,27 @@ def main():
                 continue
         # The app (feed + web push) is the delivery channel; the Telegram
         # chat card is opt-in via TELEGRAM_CARDS.
+        photos_before = dict(state.get("photos", {}))
+        crests_before = dict(state.get("crests", {}))
         photo = lookup_player_photo(brief.player, f"{brief.from_club}|{brief.to_club}", state)
         ensure_club_crests(brief, state)
-        append_feed(article, brief, photo)
+        if state.get("photos") != photos_before or state.get("crests") != crests_before:
+            dirty = True
+        result = append_feed(article, brief, photo, feed=feed)
+        if result == "noop":
+            print(f"skipped push (identical card): {brief.player}")
+            continue
+        feed_dirty = True
         try:
-            send_web_push(article, brief, state, subs)
+            if send_web_push(article, brief, state, subs):
+                dirty = True
         except Exception as e:  # noqa: BLE001 — push failure must not block the feed
             print(f"web push error: {e}", file=sys.stderr)
         if TELEGRAM_CARDS:
             try:
-                result = send_telegram(article, brief)
-                if not result.get("ok"):
-                    print(f"telegram error: {result}", file=sys.stderr)
+                tg_result = send_telegram(article, brief)
+                if not tg_result.get("ok"):
+                    print(f"telegram error: {tg_result}", file=sys.stderr)
             except Exception as e:  # noqa: BLE001
                 print(f"telegram error: {e}", file=sys.stderr)
         sent_count += 1
@@ -1584,9 +1645,17 @@ def main():
               f"{brief.from_club} -> {brief.to_club}")
 
     if not DRY_RUN:
+        if feed_dirty:
+            write_feed(feed)
         rotate_windows()
-        repair_one_photo(state)
-        save_state(state)
+        if repair_one_photo(state, feed=feed):
+            feed_dirty = True
+            dirty = True
+            write_feed(feed)
+        if dirty:
+            save_state(state)
+        else:
+            print("state unchanged — skip write")
     print(f"done. {sent_count} briefing(s) sent, {len(articles)} scanned."
           + (" [dry run]" if DRY_RUN else ""))
 

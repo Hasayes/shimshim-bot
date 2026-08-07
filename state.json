@@ -899,7 +899,10 @@
     "820620ae9ab65897cd8f92bf046974cf",
     "641ec48bb59086de4ba3a8dd0745ffdc",
     "ffaf410f3ee0987d49700c6e8cc6bf2f",
-    "tg:FabrizioRomanoTG/64200"
+    "tg:FabrizioRomanoTG/64200",
+    "ac8fe146ee3a0d0fce3e2815640eb688",
+    "54623bb389941a47ae4e55de9b5e5407",
+    "tg:FabrizioRomanoTG/64201"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1029,7 +1032,7 @@
     "lee -> atletico madrid": 2,
     "openda -> olympique lyon": 2,
     "donczew -> arsenal": 2,
-    "bennacer -> al gharafa": 1,
+    "bennacer -> al gharafa": 2,
     "ndiaye -> bayern munich": 2,
     "castro -> roma": 1,
     "diomande -> real madrid": 2,
@@ -1281,9 +1284,6 @@
     "interest: gero -> manchester city"
   ],
   "titles": [
-    "rt @fabrizioromano : \ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f exclusive: fc koln send official bid to sign mikey m",
-    "\ud83d\udd34 \u26aa\ufe0f \u2705 exclusive story, confirmed: mikey moore, one step away from joining koln ",
-    "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 takehiro tomiyasu to crystal palace, here we go! medical passed in london ",
     "tottenham prepare \u00a3125m combined swoop for two premier league star",
     "bayern munich news: the aftermath of bayern munich vs jeju sk; jack grealish on ",
     "rt @madridxtra : \ud83d\udea8 @fabrizioromano : \u201cno doubt, no drama, yan diomande to real m",
@@ -1580,7 +1580,10 @@
     "\ud83d\udea8 rodri has reportedly told real madrid he\u2019s joining barca",
     "bayern munich news: manchester united back in on fc bayern\u2019s kim min jae?; totte",
     "chelsea, rayo vallecano agree \u20ac19+2m pep chavarria transfer \u2014 report we ain't go",
-    "\ud83d\udea8 \ud83e\ude75 geronimo rulli to manchester city, here we go! deal closed now between clubs"
+    "\ud83d\udea8 \ud83e\ude75 geronimo rulli to manchester city, here we go! deal closed now between clubs",
+    "transfer: rodri agrees deal with barcelona",
+    "manchester city star rodri set for move to fc barcelona",
+    "\ud83d\udea8 \ud83c\udde9\ud83c\uddff official: ismael bennacer leaves ac milan with contract mutually terminated"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1829,15 +1832,15 @@
     "junior kroupi": "https://r2.thesportsdb.com/images/media/player/cutout/7z9b4h1757017919.png/small",
     "gabriel jesus": "https://r2.thesportsdb.com/images/media/player/cutout/rwsqi51769330458.png/small",
     "sergi roberto": "https://r2.thesportsdb.com/images/media/player/cutout/2xmxre1764278454.png/small",
-    "martin": "",
     "axel donczew": "",
     "gero": "",
     "rodri hernandez": "",
     "kerem alajbegovic": "",
     "mateo soule": "",
-    "ousmane ndiaye": ""
+    "ousmane ndiaye": "",
+    "martin": ""
   },
-  "photo_repair_idx": 5,
+  "photo_repair_idx": 6,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

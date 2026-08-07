@@ -921,7 +921,10 @@
     "f9b29afd83f6afcfc0fb1d6765553c3a",
     "50b15a4666a77b5d7b582bad1a055438",
     "4b4008c2b5c4d2b5ac92ee72a91a3087",
-    "a273e4c96080b89c0097190fd98b350b"
+    "a273e4c96080b89c0097190fd98b350b",
+    "4d5bc6e9a9e95a55380475b1c1ca168a",
+    "d0dcc66e7167efc79621b29a2b02a58c",
+    "19f50ee134052a91b57d9fca579f148f"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1304,9 +1307,6 @@
     "interest: romero -> arsenal"
   ],
   "titles": [
-    "just in: how much arsenal are actually paying newcastle to sign bruno guimaraes",
-    "\u201ctotal agreement closer than ever\u201d \u2013 sky say liverpool target set to complete tr",
-    "\u2018here we go\u2019 \u2013 fabrizio romano confirms mo salah \u2018agreement\u2019 as two year deal st",
     "bruno guimaraes to arsenal to be finalised \u201ctoday\u201d + other major transfers that ",
     "liverpool transfer news: reds 'target' a second paris saint germain forward afte",
     "rb leipzig shuts down reports of completed yan diomande transfer to madrid",
@@ -1603,7 +1603,10 @@
     "\u23e9 push for rodri, barca open talks with city",
     "barcelona initiate official rodri talks: club confident despite man city demandi",
     "micky van de ven agrees new tottenham contract after roberto de zerbi plays a bl",
-    "talks collapsed: liverpool now in frame to complete \u00a334 2m central defender sign"
+    "talks collapsed: liverpool now in frame to complete \u00a334 2m central defender sign",
+    "former ac milan sporting director linked with top job at nottingham forest",
+    "barcelona submit opening \u20ac45m bid for rodri as city stand firm on valuation",
+    "man utd, chelsea learn brentford stance over big igor thiago sale"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1852,15 +1855,15 @@
     "junior kroupi": "https://r2.thesportsdb.com/images/media/player/cutout/7z9b4h1757017919.png/small",
     "gabriel jesus": "https://r2.thesportsdb.com/images/media/player/cutout/rwsqi51769330458.png/small",
     "sergi roberto": "https://r2.thesportsdb.com/images/media/player/cutout/2xmxre1764278454.png/small",
-    "mateo soule": "",
     "ousmane ndiaye": "",
     "martin": "",
     "axel donczew": "",
     "gero": "",
     "rodri hernandez": "",
-    "kerem alajbegovic": ""
+    "kerem alajbegovic": "",
+    "mateo soule": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

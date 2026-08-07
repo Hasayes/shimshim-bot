@@ -826,7 +826,10 @@
     "a6d59e103e14976837525db8a1e41896",
     "45cfec8e17102ac73f1e62c42ae0dfcb",
     "1dbf2f3587ff65e3b5f897121a92605e",
-    "b1b0cb30a9064c87be56bdb3ce8c72c1"
+    "b1b0cb30a9064c87be56bdb3ce8c72c1",
+    "e082d8f0148d58c50011319cc89a7670",
+    "6ccf9f2f0430d47f360db9ea5b27d26d",
+    "d61ae5fa982cb375b3db24383f92a242"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1201,9 +1204,6 @@
     "interest: robinson -> manchester united"
   ],
   "titles": [
-    "psg accelerate deal ahead of liverpool: \u20ac33m offer is in",
-    "transfer news and rumours: chelsea teen 'wanted' by wigan athletic, fulham doubl",
-    "man city transfer news: citizens submit 'first bid' for james trafford replaceme",
     "liverpool in talks to sign psg defender zabarnyi alongside barcola",
     "yan diomande transfer news: rb leipzig chief hits back at fabrizio romano\u2019s \u2018her",
     "newcastle make progress for man utd midfield target as bruno guimaraes to arsena",
@@ -1500,7 +1500,10 @@
     "how chris smalling took inspiration from ryan giggs to prolong his career",
     "rodri\u2019s next move could see him join lamine yamal instead of kylian mbappe as re",
     "just in: barcelona reach agreement over economic terms with rodri",
-    "carlos baleba gets nightmare update that could settle man united transfer situat"
+    "carlos baleba gets nightmare update that could settle man united transfer situat",
+    "man utd suffer double blow in search for third midfield signing amid ornstein bo",
+    "barcelona consider the signing of atletico madrid forward \u2018impossible\u2019, working ",
+    "barcelona \u201cagree economic terms\u201d with rodri, set for talks with man city"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1743,16 +1746,16 @@
     "filip kostic": "https://r2.thesportsdb.com/images/media/player/cutout/1kqxaz1759225234.png/small",
     "malo gusto": "https://r2.thesportsdb.com/images/media/player/cutout/wzyklc1757003476.png/small",
     "antonee robinson": "https://r2.thesportsdb.com/images/media/player/cutout/q5wlej1757070520.png/small",
-    "mateo soule": "",
     "ousmane ndiaye": "",
     "martin": "",
     "axel donczew": "",
     "victor froholdt": "",
     "rodri hernandez": "",
     "junior kroupi": "",
-    "kerem alajbegovic": ""
+    "kerem alajbegovic": "",
+    "mateo soule": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

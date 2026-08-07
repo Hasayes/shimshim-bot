@@ -931,7 +931,12 @@
     "tg:FabrizioRomanoTG/64208",
     "tg:FabrizioRomanoTG/64210",
     "tg:FabrizioRomanoTG/64211",
-    "tg:FabrizioRomanoTG/64212"
+    "tg:FabrizioRomanoTG/64212",
+    "38ab044a68cdde86f1e36b4d2c80d9de",
+    "f0f25851f788174df63a08c8a2a01ba6",
+    "14df323d5497ccc7cc9ade506d021e89",
+    "a9f5f5c9c26c6b0a4b82e047d4120daa",
+    "tg:FabrizioRomanoTG/64213"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1095,7 +1100,7 @@
     "juanlu -> bournemouth": 1,
     "rashford -> manchester united": 2,
     "chavarria -> chelsea": 1,
-    "bayindir -> celta vigo": 1,
+    "bayindir -> celta vigo": 2,
     "mastantuono -> fiorentina": 2,
     "vitek -> middlesbrough": 2,
     "tomiyasu -> crystal palace": 1,
@@ -1316,11 +1321,6 @@
     "interest: romero -> arsenal"
   ],
   "titles": [
-    "roma finalizing molina deal worth \u20ac17 million: agreement reached with atletico, ",
-    "man utd finalising permanent transfer with middlesbrough in first of six deals t",
-    "mikel arteta premier league trophy arsenal 2025 26",
-    "romano issues \u2018here we go\u2019 update for man united exit after player gets approval",
-    "fabrizio romano confirms man utd transfer is \u2018here we go\u2019 done",
     "fabrizio romano confirms man utd transfer is \u2018here we go\u2019 done teamtalk",
     "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f rb leipzig complete signing before officially selling yan diomande: deal ",
     "transfer news live: man utd breakthrough, arsenal done deal, vini jr meeting tod",
@@ -1615,7 +1615,12 @@
     "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f gabriel jesus\u2019 new agent met with napoli today as he also represents mana",
     "\ud83d\udfe2 \u26aa\ufe0f \ud83d\udd1f diego buonanotte has signed in as new elche player from brighton on loan ",
     "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f real sociedad reach verbal agreement to sign nayef aguerd from om, here w",
-    "\ud83d\udea8 \ud83c\udde6\ud83c\uddf7 geronimo rulli will undergo medical at manchester city on monday after deal"
+    "\ud83d\udea8 \ud83c\udde6\ud83c\uddf7 geronimo rulli will undergo medical at manchester city on monday after deal",
+    "bayindir joins celta vigo on loan manchester united website",
+    "chelsea book medical for 11th new signing as key xabi alonso deal agreed",
+    "chelsea book medical for 11th new signing as key alonso deal agreed london eveni",
+    "juventus keep atubolu in reserve as suzuki pursuit drags on",
+    "\ud83d\udfe2 \u26aa\ufe0f \ud83d\udd1f facu buonanotte has signed in as new elche player from brighton on loan d"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1864,7 +1869,6 @@
     "junior kroupi": "https://r2.thesportsdb.com/images/media/player/cutout/7z9b4h1757017919.png/small",
     "gabriel jesus": "https://r2.thesportsdb.com/images/media/player/cutout/rwsqi51769330458.png/small",
     "sergi roberto": "https://r2.thesportsdb.com/images/media/player/cutout/2xmxre1764278454.png/small",
-    "martin": "",
     "axel donczew": "",
     "gero": "",
     "rodri hernandez": "",
@@ -1872,9 +1876,10 @@
     "diego buonanotte": "",
     "mateo soule": "",
     "nayef aguerd": "https://r2.thesportsdb.com/images/media/player/cutout/aqw7ba1766151823.png/small",
-    "ousmane ndiaye": ""
+    "ousmane ndiaye": "",
+    "martin": ""
   },
-  "photo_repair_idx": 6,
+  "photo_repair_idx": 7,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

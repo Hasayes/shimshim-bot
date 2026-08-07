@@ -888,7 +888,9 @@
     "tg:FabrizioRomanoTG/64190",
     "tg:FabrizioRomanoTG/64191",
     "tg:FabrizioRomanoTG/64192",
-    "tg:FabrizioRomanoTG/64193"
+    "tg:FabrizioRomanoTG/64193",
+    "019884607b5111202189c82566cc3b79",
+    "tg:FabrizioRomanoTG/64195"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1265,11 +1267,10 @@
     "interest: gusto -> psg",
     "interest: robinson -> manchester united",
     "interest: solomon -> west ham",
-    "interest: jesus -> napoli"
+    "interest: jesus -> napoli",
+    "interest: gero -> manchester city"
   ],
   "titles": [
-    "ferran torres opens up on his future at barcelona amid tottenham interest",
-    "fabrizio romano confirms newcastle united showed interest in man city midfielder",
     "nottingham forest identify man city midfielder as '\u00a355m' target in glasner's sea",
     "\ud83d\udfe3 \ud83d\udc4b\ud83c\udffb franco mastantuono will fly to italy today in order to undergo medical at f",
     "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f atletico madrid are preparing a bid for cristian romero to be submitted a",
@@ -1567,7 +1568,9 @@
     "\ud83d\udea8 \ud83e\ude75 manchester city are expected to close all details of ayyoub bouaddi deal soo",
     "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 direct club to club talks for rodri continue as barcelona are prepared to ",
     "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 paris saint germain remain in club to club active talks for mika godts wit",
-    "\ud83d\udea8 \ud83c\udde7\ud83c\uddea there are no negotiations or talks at all for romelu lukaku to as monaco he"
+    "\ud83d\udea8 \ud83c\udde7\ud83c\uddea there are no negotiations or talks at all for romelu lukaku to as monaco he",
+    "enzo maresca identifies premier league star as 'dream' successor to rodri as man",
+    "@city_xtra gero is still in france no medical (yet, \ud83d\udd1c \u23f3 ) \u2014 fabrizio romano ( @f"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1821,9 +1824,10 @@
     "sergi roberto": "https://r2.thesportsdb.com/images/media/player/cutout/2xmxre1764278454.png/small",
     "martin": "",
     "axel donczew": "",
+    "gero": "",
     "rodri hernandez": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

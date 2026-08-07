@@ -864,7 +864,8 @@
     "1eabddefd09769b05e2669b3a5b34b7e",
     "dc7c1dd0ec2f142a16404559e5782732",
     "3d83e3d7b637b2121b39c64ec99fa573",
-    "3c46158fc15d99e3e399f21a3174fcc0"
+    "3c46158fc15d99e3e399f21a3174fcc0",
+    "28dfa19ef8f000010fd3cc26da122b89"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1053,7 +1054,8 @@
     "almada -> atletico madrid": 2,
     "ruggeri -> aston villa": 1,
     "kostic -> psv": 2,
-    "trafford -> leeds": 2
+    "trafford -> leeds": 2,
+    "yirenkyi -> coventry city": 2
   },
   "interest": [
     "interest: alvarez -> arsenal",
@@ -1240,7 +1242,6 @@
     "interest: solomon -> west ham"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83c\uddf8\ud83c\udde6 excl: al diriyah fc reach verbal agreement to sign berat djimsiti from atal",
     "rt @fabrizioromano : \ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f breaking: bruno guimaraes to arsenal, here we go! \ud83c\udde7\ud83c\uddf7",
     "tottenham \u2018agree\u2019 winger deal as \u00a365m rated chelsea star could be next signing",
     "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f celta vigo have agreed deal with man united to sign altay bayindir as new",
@@ -1539,7 +1540,8 @@
     "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 breaking: barcelona now in official club to club talks with man city and v",
     "fabrizio romano update gives liverpool the green light to sign 13 goal wonderkid",
     "barcelona believe they won't be able to sign their priority target this summer, ",
-    "liverpool strike bradley barcola agreement as fsg react to djed spence offer"
+    "liverpool strike bradley barcola agreement as fsg react to djed spence offer",
+    "caleb yirenkyi completes medical ahead of \u20ac30m coventry city move"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1783,16 +1785,17 @@
     "malo gusto": "https://r2.thesportsdb.com/images/media/player/cutout/wzyklc1757003476.png/small",
     "antonee robinson": "https://r2.thesportsdb.com/images/media/player/cutout/q5wlej1757070520.png/small",
     "manor solomon": "https://r2.thesportsdb.com/images/media/player/cutout/8xfxe41762889351.png/small",
-    "martin": "",
     "axel donczew": "",
     "victor froholdt": "",
     "rodri hernandez": "",
     "junior kroupi": "",
     "kerem alajbegovic": "",
     "mateo soule": "",
-    "ousmane ndiaye": ""
+    "ousmane ndiaye": "",
+    "caleb yirenkyi": "https://r2.thesportsdb.com/images/media/player/cutout/dqki3p1765402684.png/small",
+    "martin": ""
   },
-  "photo_repair_idx": 5,
+  "photo_repair_idx": 6,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",
@@ -1929,6 +1932,7 @@
     "river plate": "https://r2.thesportsdb.com/images/media/team/badge/03dmi31645539717.png/small",
     "monaco": "https://r2.thesportsdb.com/images/media/team/badge/exjf5l1678808044.png/small",
     "psv": "https://r2.thesportsdb.com/images/media/team/badge/xfsz6i1721297428.png/small",
-    "leeds": "https://r2.thesportsdb.com/images/media/team/badge/jcgrml1756649030.png/small"
+    "leeds": "https://r2.thesportsdb.com/images/media/team/badge/jcgrml1756649030.png/small",
+    "fc nordsj\u00e6lland": "https://r2.thesportsdb.com/images/media/team/badge/p2hof41579460164.png/small"
   }
 }

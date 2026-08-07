@@ -1,5 +1,25 @@
 [
  {
+  "id": "28dfa19ef8f000010fd3cc26da122b89",
+  "ts": "2026-08-07T08:15:36+00:00",
+  "kind": "deal",
+  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/dqki3p1765402684.png/small",
+  "stage": "Completed",
+  "player": "Caleb Yirenkyi",
+  "position": "\u2014",
+  "age": "\u2014",
+  "from_club": "FC Nordsj\u00e6lland",
+  "to_club": "Coventry City",
+  "fee": "\u20ac30m",
+  "style": "\u2014",
+  "fit": "\u2014",
+  "source": "Fabrizio Romano",
+  "summary": "Caleb Yirenkyi has completed his medical and sealed a \u20ac30 million transfer from FC Nordsj\u00e6lland to Coventry City; the deal is confirmed as done by transfer expert Fabrizio Romano.",
+  "outlet": "news3",
+  "url": "https://3news.com/sports/caleb-yirenkyi-completes-medical-ahead-of-30m-coventry-city-transfer",
+  "title": "Caleb Yirenkyi completes medical ahead of \u20ac30m Coventry City move"
+ },
+ {
   "id": "7ffdd237bd73c62627b4b47248afcf8d",
   "ts": "2026-08-07T04:15:35+00:00",
   "kind": "interest",

@@ -1786,7 +1786,6 @@
     "malo gusto": "https://r2.thesportsdb.com/images/media/player/cutout/wzyklc1757003476.png/small",
     "antonee robinson": "https://r2.thesportsdb.com/images/media/player/cutout/q5wlej1757070520.png/small",
     "manor solomon": "https://r2.thesportsdb.com/images/media/player/cutout/8xfxe41762889351.png/small",
-    "victor froholdt": "",
     "rodri hernandez": "",
     "junior kroupi": "",
     "kerem alajbegovic": "",
@@ -1794,9 +1793,10 @@
     "ousmane ndiaye": "",
     "caleb yirenkyi": "https://r2.thesportsdb.com/images/media/player/cutout/dqki3p1765402684.png/small",
     "martin": "",
-    "axel donczew": ""
+    "axel donczew": "",
+    "victor froholdt": "https://r2.thesportsdb.com/images/media/player/cutout/wge6av1742468170.png/small"
   },
-  "photo_repair_idx": 7,
+  "photo_repair_idx": 8,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

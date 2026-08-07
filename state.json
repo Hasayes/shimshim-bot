@@ -919,7 +919,9 @@
     "d4a54e793f3c7f7e0ba1b017249d5351",
     "c11ecbb2f3f2a892ee38c0969a700777",
     "f9b29afd83f6afcfc0fb1d6765553c3a",
-    "50b15a4666a77b5d7b582bad1a055438"
+    "50b15a4666a77b5d7b582bad1a055438",
+    "4b4008c2b5c4d2b5ac92ee72a91a3087",
+    "a273e4c96080b89c0097190fd98b350b"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1302,8 +1304,6 @@
     "interest: romero -> arsenal"
   ],
   "titles": [
-    "fabrizio romano confirms talks underway with liverpool target who wants anfield ",
-    "leeds united transfer blow as key rivals in 'advanced negotiations' for \u00a326m tar",
     "just in: how much arsenal are actually paying newcastle to sign bruno guimaraes",
     "\u201ctotal agreement closer than ever\u201d \u2013 sky say liverpool target set to complete tr",
     "\u2018here we go\u2019 \u2013 fabrizio romano confirms mo salah \u2018agreement\u2019 as two year deal st",
@@ -1601,7 +1601,9 @@
     "medical scheduled: chelsea target travelling to england as transfer edges closer",
     "tottenham reach decision on selling cristian romero to arsenal for \u00a338m",
     "\u23e9 push for rodri, barca open talks with city",
-    "barcelona initiate official rodri talks: club confident despite man city demandi"
+    "barcelona initiate official rodri talks: club confident despite man city demandi",
+    "micky van de ven agrees new tottenham contract after roberto de zerbi plays a bl",
+    "talks collapsed: liverpool now in frame to complete \u00a334 2m central defender sign"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1850,15 +1852,15 @@
     "junior kroupi": "https://r2.thesportsdb.com/images/media/player/cutout/7z9b4h1757017919.png/small",
     "gabriel jesus": "https://r2.thesportsdb.com/images/media/player/cutout/rwsqi51769330458.png/small",
     "sergi roberto": "https://r2.thesportsdb.com/images/media/player/cutout/2xmxre1764278454.png/small",
-    "kerem alajbegovic": "",
     "mateo soule": "",
     "ousmane ndiaye": "",
     "martin": "",
     "axel donczew": "",
     "gero": "",
-    "rodri hernandez": ""
+    "rodri hernandez": "",
+    "kerem alajbegovic": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

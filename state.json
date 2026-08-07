@@ -873,7 +873,9 @@
     "538d8ebd8a0434ba423385849a1f0224",
     "ce056b67ae7afc5276d79ef530045b13",
     "7a8597e95795ba8d994d9adfa3bbeb68",
-    "725e623bf9970c8446a8afc36df67e29"
+    "725e623bf9970c8446a8afc36df67e29",
+    "81b12aa6cc74f6b004eefb8e8b7e5ca8",
+    "cc4a74e54f30f491d4f2c4249078ac58"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1251,8 +1253,6 @@
     "interest: jesus -> napoli"
   ],
   "titles": [
-    "forest target reijnders wednesday's gossip",
-    "report: liverpool legend salah to join trabzonspor tsn",
     "\ud83d\udea8 \ud83c\udde7\ud83c\uddea breaking: romelu lukaku does not show up for napoli\u2019s pre season camp as he",
     "\ud83d\udea8 \ud83d\udca3 breaking: franco mastantuono on loan to fiorentina, here we go! \ud83d\udfe3 \ud83c\udde6\ud83c\uddf7 agreeme",
     "\ud83d\udea8 \u26a0\ufe0f napoli confirm romelu lukaku has not joined pre season camp the official ag",
@@ -1550,7 +1550,9 @@
     "fabrizio romano says \u2018chelsea agree deal\u2019 for \u20ac21m star \u2013 \u2018here we go\u2019",
     "fabrizio romano confirms \u201cclub to club\u201d talks for \u00a340m star alexis mac allister ",
     "fabrizio romano confirms chelsea\u2019s eighth summer signing with \u2018here we go\u2019",
-    "contact made as arsenal approached by european giants for star attacker; gunners"
+    "contact made as arsenal approached by european giants for star attacker; gunners",
+    "rodri's agent confirms player has informed clubs of choice between barcelona & r",
+    "chelsea\u2019s transfer madness shows no sign of ending: xabi alonso is set to get th"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1794,7 +1796,6 @@
     "malo gusto": "https://r2.thesportsdb.com/images/media/player/cutout/wzyklc1757003476.png/small",
     "antonee robinson": "https://r2.thesportsdb.com/images/media/player/cutout/q5wlej1757070520.png/small",
     "manor solomon": "https://r2.thesportsdb.com/images/media/player/cutout/8xfxe41762889351.png/small",
-    "kerem alajbegovic": "",
     "caleb yirenkyi": "https://r2.thesportsdb.com/images/media/player/cutout/dqki3p1765402684.png/small",
     "victor froholdt": "https://r2.thesportsdb.com/images/media/player/cutout/wge6av1742468170.png/small",
     "junior kroupi": "https://r2.thesportsdb.com/images/media/player/cutout/7z9b4h1757017919.png/small",
@@ -1803,9 +1804,10 @@
     "martin": "",
     "axel donczew": "",
     "gabriel jesus": "https://r2.thesportsdb.com/images/media/player/cutout/rwsqi51769330458.png/small",
-    "rodri hernandez": ""
+    "rodri hernandez": "",
+    "kerem alajbegovic": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

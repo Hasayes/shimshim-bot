@@ -944,7 +944,11 @@
     "c0c18db554280d9ef0a0dd98f056f6e0",
     "431e1fd9c1c6eb36b5f676c7e3c046e4",
     "8b5ebf75e4eed738abfef2cdd35e4e32",
-    "tg:FabrizioRomanoTG/64218"
+    "tg:FabrizioRomanoTG/64218",
+    "9149b69b389a5ccfb8b214b1f53f25d8",
+    "4a18aa98bfbd5a45c86cf811029363ed",
+    "3411dcf93f7dbf3d0863f91366cb415c",
+    "tg:FabrizioRomanoTG/64223"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1330,10 +1334,6 @@
     "interest: romero -> arsenal"
   ],
   "titles": [
-    "yan couto set for serie a switch as como and borussia dortmund reach loan agreem",
-    "yan couto set for como switch as borussia dortmund reach loan agreement",
-    "yan diomande joins rb leipzig camp in austria as real madrid talks continue; no ",
-    "fabrizio romano confirms \u2018here we go\u2019 for man utd double transfer with \u2018medical ",
     "man city accelerate stunning raid on big six rivals that allows tottenham to sig",
     "leeds united beaten to homegrown transfer target: report",
     "here we go! wonderkid real madrid franco mastantuono resmi hijrah ke fiorentina",
@@ -1629,7 +1629,11 @@
     "\ud83d\udea8 \ud83d\udea8 \ud83d\udca3 exclusive: liverpool agree loan deal to sign ronald araujo from barcelona,",
     "barcelona send \u20ac45 million opening bid for rodri as talks with man city underway",
     "vinicius junior ends arsenal speculation with new deal to 2032",
-    "\ud83d\udea8 \ud83d\udca3 the exclusive bomba of the day: ronald araujo to liverpool, here we go \ud83c\uddfa\ud83c\uddfe lo"
+    "\ud83d\udea8 \ud83d\udca3 the exclusive bomba of the day: ronald araujo to liverpool, here we go \ud83c\uddfa\ud83c\uddfe lo",
+    "\u201cvery confident\u201d \u2013 manchester city in talks with club to get transfer done, says",
+    "romero wants atletico move with spaniards \u2018clear frontrunners\u2019",
+    "barcelona \u2018very confident\u2019 of winning rodri transfer race",
+    "\ud83d\udea8 \ud83c\uddfa\ud83c\uddfe more on the exclusive story of the day: ronald araujo will join liverpool, "
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1878,7 +1882,6 @@
     "junior kroupi": "https://r2.thesportsdb.com/images/media/player/cutout/7z9b4h1757017919.png/small",
     "gabriel jesus": "https://r2.thesportsdb.com/images/media/player/cutout/rwsqi51769330458.png/small",
     "sergi roberto": "https://r2.thesportsdb.com/images/media/player/cutout/2xmxre1764278454.png/small",
-    "gero": "",
     "rodri hernandez": "",
     "kerem alajbegovic": "",
     "mateo soule": "",
@@ -1887,9 +1890,10 @@
     "martin": "",
     "ronald araujo": "https://r2.thesportsdb.com/images/media/player/cutout/ggpnkx1762289497.png/small",
     "axel donczew": "",
-    "diego buonanotte": ""
+    "diego buonanotte": "",
+    "gero": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

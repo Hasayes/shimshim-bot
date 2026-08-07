@@ -860,7 +860,11 @@
     "642b1e1bafffc91e08f0fda50b314331",
     "92510d291c9daa99206f1c710fde893b",
     "a79ac5c3dc963664367cf9d35585c6f8",
-    "tg:FabrizioRomanoTG/64176"
+    "tg:FabrizioRomanoTG/64176",
+    "1eabddefd09769b05e2669b3a5b34b7e",
+    "dc7c1dd0ec2f142a16404559e5782732",
+    "3d83e3d7b637b2121b39c64ec99fa573",
+    "3c46158fc15d99e3e399f21a3174fcc0"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1236,9 +1240,6 @@
     "interest: solomon -> west ham"
   ],
   "titles": [
-    "man utd launch move for next signing with chelsea also ready to pounce after not",
-    "opinion: would you replace gyokeres with osimhen?",
-    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f breaking: bruno guimaraes to arsenal, here we go! \ud83c\udde7\ud83c\uddf7 agreement in place w",
     "\ud83d\udea8 \ud83c\uddf8\ud83c\udde6 excl: al diriyah fc reach verbal agreement to sign berat djimsiti from atal",
     "rt @fabrizioromano : \ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f breaking: bruno guimaraes to arsenal, here we go! \ud83c\udde7\ud83c\uddf7",
     "tottenham \u2018agree\u2019 winger deal as \u00a365m rated chelsea star could be next signing",
@@ -1535,7 +1536,10 @@
     "report: former milan director moncada offered nottingham forest job",
     "leeds united bring goalkeeper trafford from man city on club record fee",
     "real madrid signs yan diomande in record deal until 2033",
-    "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 breaking: barcelona now in official club to club talks with man city and v"
+    "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 breaking: barcelona now in official club to club talks with man city and v",
+    "fabrizio romano update gives liverpool the green light to sign 13 goal wonderkid",
+    "barcelona believe they won't be able to sign their priority target this summer, ",
+    "liverpool strike bradley barcola agreement as fsg react to djed spence offer"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1779,16 +1783,16 @@
     "malo gusto": "https://r2.thesportsdb.com/images/media/player/cutout/wzyklc1757003476.png/small",
     "antonee robinson": "https://r2.thesportsdb.com/images/media/player/cutout/q5wlej1757070520.png/small",
     "manor solomon": "https://r2.thesportsdb.com/images/media/player/cutout/8xfxe41762889351.png/small",
-    "ousmane ndiaye": "",
     "martin": "",
     "axel donczew": "",
     "victor froholdt": "",
     "rodri hernandez": "",
     "junior kroupi": "",
     "kerem alajbegovic": "",
-    "mateo soule": ""
+    "mateo soule": "",
+    "ousmane ndiaye": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 5,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

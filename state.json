@@ -819,7 +819,8 @@
     "83e8508a1dc000c781a533caa44b96d9",
     "6bf67f20002379e9458d7c8db71decb8",
     "fabe8c222f54b96c3891cf5932485d2e",
-    "e681206bcd039367e4532f81283466fc"
+    "e681206bcd039367e4532f81283466fc",
+    "4f2eeda141abedc36dad804ef434389a"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1194,7 +1195,6 @@
     "interest: robinson -> manchester united"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83c\uddf8\ud83c\uddf3 bayer leverkusen have also sent a proposal to psg for ibrahima mbaye as tal",
     "bayer leverkusen open talks to re sign moussa diaby amid interest from benfica a",
     "arsenal agree bruno guimaraes fee as journalist explains why newcastle are \u2018furi",
     "\ud83d\udea8 \ud83d\udfe1 \ud83d\udd34 as roma are advancing in talks to sign nahuel molina from atletico madrid ",
@@ -1493,7 +1493,8 @@
     "barcelona launch late bid to snatch rodri from real madrid",
     "\u201cno intention\u201d \u2013 psg firm stance scaring liverpool away from potential \u20ac150m dea",
     "\ud83d\udea8 official: diomande, real madrid's priciest signing ever",
-    "man city star rodri reaches decision on joining barcelona as he gives green ligh"
+    "man city star rodri reaches decision on joining barcelona as he gives green ligh",
+    "bradley barcola to liverpool given triple boost with hijack off the table and ps"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1735,7 +1736,6 @@
     "matteo ruggeri": "https://r2.thesportsdb.com/images/media/player/cutout/a9q51s1762890169.png/small",
     "filip kostic": "https://r2.thesportsdb.com/images/media/player/cutout/1kqxaz1759225234.png/small",
     "malo gusto": "https://r2.thesportsdb.com/images/media/player/cutout/wzyklc1757003476.png/small",
-    "martin": "",
     "axel donczew": "",
     "antonee robinson": "https://r2.thesportsdb.com/images/media/player/cutout/q5wlej1757070520.png/small",
     "victor froholdt": "",
@@ -1743,9 +1743,10 @@
     "junior kroupi": "",
     "kerem alajbegovic": "",
     "mateo soule": "",
-    "ousmane ndiaye": ""
+    "ousmane ndiaye": "",
+    "martin": ""
   },
-  "photo_repair_idx": 5,
+  "photo_repair_idx": 6,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

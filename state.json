@@ -832,7 +832,10 @@
     "d61ae5fa982cb375b3db24383f92a242",
     "9d7aa92408456e5e56663776c2ed4865",
     "7ffdd237bd73c62627b4b47248afcf8d",
-    "17b1d26281ff1a77f12da215545d6fef"
+    "17b1d26281ff1a77f12da215545d6fef",
+    "2f5280aa0ebc0658ec22f000418999e6",
+    "9b0766d15dd1d888c511054d9acd754c",
+    "c9b568c761b4d6ae0f51ac6014062f19"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1208,9 +1211,6 @@
     "interest: solomon -> west ham"
   ],
   "titles": [
-    "\ud83d\udd25 all in for diomande, real madrid step up to seal his signing",
-    "gonzalo garcia joins fulham as real madrid confirm permanent transfer",
-    "rodri looks set to leave manchester city this summer",
     "bernardo silva details his motivations after joining real madrid and reuniting w",
     "man city send 'official bid' for james trafford replacement as leeds united tran",
     "liverpool identify \u00a3130m perfect iraola signing as bradley barcola alternative",
@@ -1507,7 +1507,10 @@
     "barcelona \u201cagree economic terms\u201d with rodri, set for talks with man city",
     "romano drops vinicius junior to arsenal \u2018important update\u2019 as mourinho gets invo",
     "west ham stall in talks for premier league winger as italian club target deal",
-    "barcelona transfer news: rodri opens doors to camp nou for first time ever after"
+    "barcelona transfer news: rodri opens doors to camp nou for first time ever after",
+    "juventus transfer roundup: a goalkeeper path, a midfield target, and an exit str",
+    "atalanta interested in summer transfer for como\u2019s diao",
+    "fabrizio romano: liverpool \u2018lead the race\u2019 to sign world cup forward"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1750,7 +1753,6 @@
     "filip kostic": "https://r2.thesportsdb.com/images/media/player/cutout/1kqxaz1759225234.png/small",
     "malo gusto": "https://r2.thesportsdb.com/images/media/player/cutout/wzyklc1757003476.png/small",
     "antonee robinson": "https://r2.thesportsdb.com/images/media/player/cutout/q5wlej1757070520.png/small",
-    "axel donczew": "",
     "victor froholdt": "",
     "rodri hernandez": "",
     "junior kroupi": "",
@@ -1758,9 +1760,10 @@
     "mateo soule": "",
     "manor solomon": "https://r2.thesportsdb.com/images/media/player/cutout/8xfxe41762889351.png/small",
     "ousmane ndiaye": "",
-    "martin": ""
+    "martin": "",
+    "axel donczew": ""
   },
-  "photo_repair_idx": 6,
+  "photo_repair_idx": 7,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

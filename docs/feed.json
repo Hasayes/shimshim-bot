@@ -1,5 +1,25 @@
 [
  {
+  "id": "9ee5f5a8b8824bb712178e6509fc7ddf",
+  "ts": "2026-08-07T19:45:29+00:00",
+  "kind": "interest",
+  "stage": "\u2014",
+  "player": "Cristian Romero",
+  "position": "Defender",
+  "age": "28",
+  "from_club": "Tottenham Hotspur",
+  "to_club": "FC Barcelona, Real Madrid, Inter, Atletico Madrid, Arsenal",
+  "fee": "\u00a338m",
+  "style": "Aggressive ball-playing centre-back with strong physical presence and aerial dominance.",
+  "fit": "Would strengthen Arsenal's defensive depth at centre-back, though moving between North London rivals would be controversial.",
+  "source": "Fabrizio Romano via teamtalk",
+  "outlet": "teamtalk",
+  "url": "https://www.teamtalk.com/news/arsenal-transfer-news-cristian-romero-tottenham-shock-sale-fabrizio-romano",
+  "title": "Tottenham reach decision on selling Cristian Romero to Arsenal for \u00a338m",
+  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/dme7x81757016317.png/small",
+  "summary": "Fabrizio Romano reports Arsenal hold interest in Tottenham defender Cristian Romero, with Spurs' stance on a potential \u00a338m move revealed."
+ },
+ {
   "id": "tg:FabrizioRomanoTG/63607",
   "ts": "2026-08-07T17:30:36+00:00",
   "kind": "deal",
@@ -2898,26 +2918,6 @@
   "title": "Liverpool \u2018medical\u2019 imminent as midfielder agrees \u2018historic transfer\u2019",
   "photo": "",
   "summary": "Liverpool have signed Samuel Mart\u00ednez from Atl\u00e9tico Nacional for a fee of \u00a3750,000. The midfielder's transfer was described as a historic deal for the Colombian club."
- },
- {
-  "id": "9ee5f5a8b8824bb712178e6509fc7ddf",
-  "ts": "2026-07-19T00:31:35+00:00",
-  "kind": "interest",
-  "stage": "\u2014",
-  "player": "Cristian Romero",
-  "position": "Centre-back",
-  "age": "28",
-  "from_club": "Tottenham Hotspur",
-  "to_club": "FC Barcelona, Real Madrid, Inter, Atletico Madrid",
-  "fee": "\u00a340m",
-  "style": "Aggressive, ball-playing centre-back who excels in duels, pressing high and driving out from the back.",
-  "fit": "His intensity and man-marking ability would suit Barcelona's high defensive line and pressing structure, while his World Cup pedigree adds proven top-level experience.",
-  "source": "ESPN UK / TEAMtalk",
-  "outlet": "espn_uk",
-  "url": "https://www.espn.co.uk/football/story/_/id/49389509/transfer-rumors-news-barcelona-real-madrid-atletico-inter-milan-tottenham-argentina-cristian-romero",
-  "title": "Transfer rumors, news: Barcelona, Real Madrid both...",
-  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/dme7x81757016317.png/small",
-  "summary": "Tottenham Hotspur defender Cristian Romero has attracted interest from FC Barcelona, Real Madrid, Inter, and Atletico Madrid. Reports suggest a fee of around \u00a340 million would be required to sign the Argentine."
  },
  {
   "id": "00813f149135983c668b6ed569407382",

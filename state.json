@@ -816,7 +816,9 @@
     "8f8d8d43ac2f57248a4e7088b2dfc222",
     "d6eef1d40757f285fe33c92ff0e300a4",
     "tg:FabrizioRomanoTG/64169",
-    "83e8508a1dc000c781a533caa44b96d9"
+    "83e8508a1dc000c781a533caa44b96d9",
+    "6bf67f20002379e9458d7c8db71decb8",
+    "fabe8c222f54b96c3891cf5932485d2e"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1191,8 +1193,6 @@
     "interest: robinson -> manchester united"
   ],
   "titles": [
-    "fc barcelona news: 4 august 2026; barca finish england training camp, ferran tor",
-    "\ud83d\udea8 \ud83d\udca3 breaking: mo salah to trabzonspor, here we go! club confirms agreement in pl",
     "\ud83d\udea8 \ud83d\udd34 liverpool have made contact with ibrahima mbaye\u2019s new agent jorge mendes mba",
     "\ud83d\udea8 \ud83c\uddf8\ud83c\uddf3 bayer leverkusen have also sent a proposal to psg for ibrahima mbaye as tal",
     "bayer leverkusen open talks to re sign moussa diaby amid interest from benfica a",
@@ -1490,7 +1490,9 @@
     "man utd to give up on lewis hall? carrick considers bid for fulham's antonee rob",
     "just in: another man utd target fades as ornstein reveals \u2018fantastic\u2019 epl star s",
     "\ud83d\udd34 \u26aa\ufe0f \ud83c\udde7\ud83c\uddf7 bruno guimaraes has also signed his contract as new arsenal player \ud83d\udd10 med",
-    "barcelona launch late bid to snatch rodri from real madrid"
+    "barcelona launch late bid to snatch rodri from real madrid",
+    "\u201cno intention\u201d \u2013 psg firm stance scaring liverpool away from potential \u20ac150m dea",
+    "\ud83d\udea8 official: diomande, real madrid's priciest signing ever"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1732,7 +1734,6 @@
     "matteo ruggeri": "https://r2.thesportsdb.com/images/media/player/cutout/a9q51s1762890169.png/small",
     "filip kostic": "https://r2.thesportsdb.com/images/media/player/cutout/1kqxaz1759225234.png/small",
     "malo gusto": "https://r2.thesportsdb.com/images/media/player/cutout/wzyklc1757003476.png/small",
-    "kerem alajbegovic": "",
     "mateo soule": "",
     "ousmane ndiaye": "",
     "martin": "",
@@ -1740,9 +1741,10 @@
     "antonee robinson": "https://r2.thesportsdb.com/images/media/player/cutout/q5wlej1757070520.png/small",
     "victor froholdt": "",
     "rodri hernandez": "",
-    "junior kroupi": ""
+    "junior kroupi": "",
+    "kerem alajbegovic": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

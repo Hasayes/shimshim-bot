@@ -904,7 +904,11 @@
     "54623bb389941a47ae4e55de9b5e5407",
     "tg:FabrizioRomanoTG/64201",
     "828f41c1f801f3144cd0f38711cad877",
-    "81a1605401c2cd630e77bafcf472ee3a"
+    "81a1605401c2cd630e77bafcf472ee3a",
+    "9f3a5920b82d9e413227257664e0e491",
+    "4f4460fcbe369f5cd144fdfc8eec3922",
+    "eb68de7a3a4abad08c32f3b0df3c8660",
+    "f71eb6599ef3e79cb0dea30694ce1b04"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1286,9 +1290,6 @@
     "interest: gero -> manchester city"
   ],
   "titles": [
-    "rt @madridxtra : \ud83d\udea8 @fabrizioromano : \u201cno doubt, no drama, yan diomande to real m",
-    "\ud83d\udea8 \ud83d\udfe1 \ud83d\udd34 as roma agree \u20ac18m package deal for nahuel molina from atletico madrid, he",
-    "\ud83d\udea8 \u26aa\ufe0f rb leipzig, set to allow yan diomande to travel for medical and contract si",
     "\ud83d\udea8 \ud83d\udfe1 \ud83d\udd35 parma reach verbal agreement to sign el bilal toure from atalanta deal in ",
     "\u00a355m manchester city star open to transfer as pl club show interest",
     "inter milan offer their star to al ittihad: firm response from the board to mous",
@@ -1585,7 +1586,10 @@
     "manchester city star rodri set for move to fc barcelona",
     "\ud83d\udea8 \ud83c\udde9\ud83c\uddff official: ismael bennacer leaves ac milan with contract mutually terminated",
     "divisive arsenal star emerging as popular transfer option for euro giants",
-    "transfer news live: shock arsenal move, alvarez agreement; man utd and chelsea d"
+    "transfer news live: shock arsenal move, alvarez agreement; man utd and chelsea d",
+    "what man united need in the transfer window: top targets and players leaving bef",
+    "transfer: rodri\u2019s agent confirms why spain midfielder picked barcelona over real",
+    "rodri\u2019s agent confirms player has informed clubs of choice between barcelona & r"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1834,15 +1838,15 @@
     "junior kroupi": "https://r2.thesportsdb.com/images/media/player/cutout/7z9b4h1757017919.png/small",
     "gabriel jesus": "https://r2.thesportsdb.com/images/media/player/cutout/rwsqi51769330458.png/small",
     "sergi roberto": "https://r2.thesportsdb.com/images/media/player/cutout/2xmxre1764278454.png/small",
-    "gero": "",
     "rodri hernandez": "",
     "kerem alajbegovic": "",
     "mateo soule": "",
     "ousmane ndiaye": "",
     "martin": "",
-    "axel donczew": ""
+    "axel donczew": "",
+    "gero": ""
   },
-  "photo_repair_idx": 7,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

@@ -929,7 +929,9 @@
     "1275546da62ca5360fd9157cd4cc2f2e",
     "55615fe8964e5244e0274a230f046e84",
     "tg:FabrizioRomanoTG/64208",
-    "tg:FabrizioRomanoTG/64210"
+    "tg:FabrizioRomanoTG/64210",
+    "tg:FabrizioRomanoTG/64211",
+    "tg:FabrizioRomanoTG/64212"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1123,7 +1125,8 @@
     "bouaddi -> manchester city": 1,
     "roberto -> la galaxy": 1,
     "rulli -> manchester city": 1,
-    "buonanotte -> elche": 2
+    "buonanotte -> elche": 2,
+    "aguerd -> real sociedad": 1
   },
   "interest": [
     "interest: alvarez -> arsenal",
@@ -1313,8 +1316,6 @@
     "interest: romero -> arsenal"
   ],
   "titles": [
-    "romano reveals nicolas jackson to tottenham truth amid claims spurs could move f",
-    "fabrizio romano offers intriguing matias soule update amid sunderland and ac mil",
     "roma finalizing molina deal worth \u20ac17 million: agreement reached with atletico, ",
     "man utd finalising permanent transfer with middlesbrough in first of six deals t",
     "mikel arteta premier league trophy arsenal 2025 26",
@@ -1612,7 +1613,9 @@
     "not barcola: fabrizio romano drops massively encouraging liverpool transfer news",
     "ornstein vs romano: why the vini jr arsenal saga shows transfer news isn\u2019t as si",
     "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f gabriel jesus\u2019 new agent met with napoli today as he also represents mana",
-    "\ud83d\udfe2 \u26aa\ufe0f \ud83d\udd1f diego buonanotte has signed in as new elche player from brighton on loan "
+    "\ud83d\udfe2 \u26aa\ufe0f \ud83d\udd1f diego buonanotte has signed in as new elche player from brighton on loan ",
+    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f real sociedad reach verbal agreement to sign nayef aguerd from om, here w",
+    "\ud83d\udea8 \ud83c\udde6\ud83c\uddf7 geronimo rulli will undergo medical at manchester city on monday after deal"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1861,16 +1864,17 @@
     "junior kroupi": "https://r2.thesportsdb.com/images/media/player/cutout/7z9b4h1757017919.png/small",
     "gabriel jesus": "https://r2.thesportsdb.com/images/media/player/cutout/rwsqi51769330458.png/small",
     "sergi roberto": "https://r2.thesportsdb.com/images/media/player/cutout/2xmxre1764278454.png/small",
-    "ousmane ndiaye": "",
     "martin": "",
     "axel donczew": "",
     "gero": "",
     "rodri hernandez": "",
     "kerem alajbegovic": "",
     "diego buonanotte": "",
-    "mateo soule": ""
+    "mateo soule": "",
+    "nayef aguerd": "https://r2.thesportsdb.com/images/media/player/cutout/aqw7ba1766151823.png/small",
+    "ousmane ndiaye": ""
   },
-  "photo_repair_idx": 5,
+  "photo_repair_idx": 6,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",
@@ -2011,6 +2015,7 @@
     "fc nordsj\u00e6lland": "https://r2.thesportsdb.com/images/media/team/badge/p2hof41579460164.png/small",
     "la galaxy": "https://r2.thesportsdb.com/images/media/team/badge/ysyysr1420227188.png/small",
     "marseille": "https://r2.thesportsdb.com/images/media/team/badge/c6bazh1779212287.png/small",
-    "elche": "https://r2.thesportsdb.com/images/media/team/badge/e4vaw51655594332.png/small"
+    "elche": "https://r2.thesportsdb.com/images/media/team/badge/e4vaw51655594332.png/small",
+    "real sociedad": "https://r2.thesportsdb.com/images/media/team/badge/vptvpr1473502986.png/small"
   }
 }

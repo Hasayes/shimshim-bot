@@ -936,7 +936,11 @@
     "f0f25851f788174df63a08c8a2a01ba6",
     "14df323d5497ccc7cc9ade506d021e89",
     "a9f5f5c9c26c6b0a4b82e047d4120daa",
-    "tg:FabrizioRomanoTG/64213"
+    "tg:FabrizioRomanoTG/64213",
+    "88fc5a55b0763d53f6eba83074344294",
+    "9a59cd586748326f8597dec34dabc733",
+    "ee3cbe0413d475c73b77633c672de186",
+    "tg:FabrizioRomanoTG/64215"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1131,7 +1135,8 @@
     "roberto -> la galaxy": 1,
     "rulli -> manchester city": 1,
     "buonanotte -> elche": 2,
-    "aguerd -> real sociedad": 1
+    "aguerd -> real sociedad": 1,
+    "araujo -> liverpool": 1
   },
   "interest": [
     "interest: alvarez -> arsenal",
@@ -1321,9 +1326,6 @@
     "interest: romero -> arsenal"
   ],
   "titles": [
-    "fabrizio romano confirms man utd transfer is \u2018here we go\u2019 done teamtalk",
-    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f rb leipzig complete signing before officially selling yan diomande: deal ",
-    "transfer news live: man utd breakthrough, arsenal done deal, vini jr meeting tod",
     "manchester united offload unwanted star as another nears exit: report",
     "\ud83d\udea8 \ud83d\udd35 official: christian n\u00f8rgaard leaves arsenal to join everton on a \u00a37m deal \ud83c\udde9\ud83c\uddf0",
     "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f bruno guimaraes has completed his medical at arsenal ahead of signing a f",
@@ -1620,7 +1622,10 @@
     "chelsea book medical for 11th new signing as key xabi alonso deal agreed",
     "chelsea book medical for 11th new signing as key alonso deal agreed london eveni",
     "juventus keep atubolu in reserve as suzuki pursuit drags on",
-    "\ud83d\udfe2 \u26aa\ufe0f \ud83d\udd1f facu buonanotte has signed in as new elche player from brighton on loan d"
+    "\ud83d\udfe2 \u26aa\ufe0f \ud83d\udd1f facu buonanotte has signed in as new elche player from brighton on loan d",
+    "liverpool not pursuing spence move friday's gossip",
+    "boost for man united & chelsea in pursuit of premier league midfielder",
+    "\ud83d\udea8 \ud83d\udea8 \ud83d\udca3 exclusive: liverpool agree loan deal to sign ronald araujo from barcelona,"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1869,7 +1874,6 @@
     "junior kroupi": "https://r2.thesportsdb.com/images/media/player/cutout/7z9b4h1757017919.png/small",
     "gabriel jesus": "https://r2.thesportsdb.com/images/media/player/cutout/rwsqi51769330458.png/small",
     "sergi roberto": "https://r2.thesportsdb.com/images/media/player/cutout/2xmxre1764278454.png/small",
-    "axel donczew": "",
     "gero": "",
     "rodri hernandez": "",
     "kerem alajbegovic": "",
@@ -1877,9 +1881,11 @@
     "mateo soule": "",
     "nayef aguerd": "https://r2.thesportsdb.com/images/media/player/cutout/aqw7ba1766151823.png/small",
     "ousmane ndiaye": "",
-    "martin": ""
+    "martin": "",
+    "ronald araujo": "https://r2.thesportsdb.com/images/media/player/cutout/ggpnkx1762289497.png/small",
+    "axel donczew": ""
   },
-  "photo_repair_idx": 7,
+  "photo_repair_idx": 8,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

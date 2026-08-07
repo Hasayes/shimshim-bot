@@ -948,7 +948,10 @@
     "9149b69b389a5ccfb8b214b1f53f25d8",
     "4a18aa98bfbd5a45c86cf811029363ed",
     "3411dcf93f7dbf3d0863f91366cb415c",
-    "tg:FabrizioRomanoTG/64223"
+    "tg:FabrizioRomanoTG/64223",
+    "8b6b51c1cfe6b535ceeadb21a7fbd814",
+    "8cef01aa250a332424b25daf0b844a9a",
+    "02b786c653894b4b7886965cd4a7ec42"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1334,8 +1337,6 @@
     "interest: romero -> arsenal"
   ],
   "titles": [
-    "man city accelerate stunning raid on big six rivals that allows tottenham to sig",
-    "leeds united beaten to homegrown transfer target: report",
     "here we go! wonderkid real madrid franco mastantuono resmi hijrah ke fiorentina",
     "sunderland transfer target\u2019s price tag has doubled from \u20ac30m to \u20ac60m",
     "real madrid battle vinicius, diomande deals: latest on transfers",
@@ -1633,7 +1634,9 @@
     "\u201cvery confident\u201d \u2013 manchester city in talks with club to get transfer done, says",
     "romero wants atletico move with spaniards \u2018clear frontrunners\u2019",
     "barcelona \u2018very confident\u2019 of winning rodri transfer race",
-    "\ud83d\udea8 \ud83c\uddfa\ud83c\uddfe more on the exclusive story of the day: ronald araujo will join liverpool, "
+    "\ud83d\udea8 \ud83c\uddfa\ud83c\uddfe more on the exclusive story of the day: ronald araujo will join liverpool, ",
+    "arsenal star gabriel martinelli \u2018on galatasaray\u2019s transfer shortlist\u2019 with gunne",
+    "new bid: liverpool submitted winger transfer offer at 9am today"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1882,7 +1885,6 @@
     "junior kroupi": "https://r2.thesportsdb.com/images/media/player/cutout/7z9b4h1757017919.png/small",
     "gabriel jesus": "https://r2.thesportsdb.com/images/media/player/cutout/rwsqi51769330458.png/small",
     "sergi roberto": "https://r2.thesportsdb.com/images/media/player/cutout/2xmxre1764278454.png/small",
-    "rodri hernandez": "",
     "kerem alajbegovic": "",
     "mateo soule": "",
     "nayef aguerd": "https://r2.thesportsdb.com/images/media/player/cutout/aqw7ba1766151823.png/small",
@@ -1891,9 +1893,10 @@
     "ronald araujo": "https://r2.thesportsdb.com/images/media/player/cutout/ggpnkx1762289497.png/small",
     "axel donczew": "",
     "diego buonanotte": "",
-    "gero": ""
+    "gero": "",
+    "rodri hernandez": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

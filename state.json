@@ -1731,7 +1731,6 @@
     "matteo ruggeri": "https://r2.thesportsdb.com/images/media/player/cutout/a9q51s1762890169.png/small",
     "filip kostic": "https://r2.thesportsdb.com/images/media/player/cutout/1kqxaz1759225234.png/small",
     "malo gusto": "https://r2.thesportsdb.com/images/media/player/cutout/wzyklc1757003476.png/small",
-    "rodri hernandez": "",
     "junior kroupi": "",
     "kerem alajbegovic": "",
     "mateo soule": "",
@@ -1739,9 +1738,10 @@
     "martin": "",
     "axel donczew": "",
     "antonee robinson": "https://r2.thesportsdb.com/images/media/player/cutout/q5wlej1757070520.png/small",
-    "victor froholdt": ""
+    "victor froholdt": "",
+    "rodri hernandez": ""
   },
-  "photo_repair_idx": 8,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

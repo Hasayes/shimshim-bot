@@ -854,7 +854,13 @@
     "tg:FabrizioRomanoTG/64174",
     "ff48ac38c59a569ee6aa5d974aa8cfe2",
     "3ae5cf0637a7ff141a675e4355a283d9",
-    "c4aae3b4b893ade5652e1354df507831"
+    "c4aae3b4b893ade5652e1354df507831",
+    "d727f0b3bd36bb4be304835b3fc49921",
+    "35dca335677ab581c3f1bc6b6dd416b1",
+    "642b1e1bafffc91e08f0fda50b314331",
+    "92510d291c9daa99206f1c710fde893b",
+    "a79ac5c3dc963664367cf9d35585c6f8",
+    "tg:FabrizioRomanoTG/64176"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1230,12 +1236,6 @@
     "interest: solomon -> west ham"
   ],
   "titles": [
-    "burnley man completes \u00a316m switch to premier league newcomers",
-    "romano: tottenham now considering move for chelsea winger pedro neto",
-    "jacobs reveals huge chelsea \u2018breakthrough\u2019 for next signing with clubs \u2018now in a",
-    "jacobs reveals huge chelsea 'breakthrough' for next signing with clubs 'now in a",
-    "tottenham plan to step up interest in 27yo liverpool forward, \u2018deal depends on \u2018",
-    "\ud83d\udea8 \ud83d\udd35 chelsea are completing details of pep chavarria deal, then all done agreemen",
     "man utd launch move for next signing with chelsea also ready to pounce after not",
     "opinion: would you replace gyokeres with osimhen?",
     "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f breaking: bruno guimaraes to arsenal, here we go! \ud83c\udde7\ud83c\uddf7 agreement in place w",
@@ -1529,7 +1529,13 @@
     "manchester city identify this chelsea winger as a target: what will he bring to ",
     "\ud83d\udea8 \ud83d\udd35 pep chavarria, on his way to england today for medical tests and contract si",
     "fabrizio romano says liverpool in talks to sign \u20ac220m duo \u2013 and both want to joi",
-    "real madrid transfer news: vinicius jr signs 6 year contract extension until 203"
+    "real madrid transfer news: vinicius jr signs 6 year contract extension until 203",
+    "he's open to move: arsenal must sign 'elite' \u00a3140m forward instead of vini jr",
+    "he's keen to join: arsenal must seal move to sign \u00a3140m forward instead of vini ",
+    "report: former milan director moncada offered nottingham forest job",
+    "leeds united bring goalkeeper trafford from man city on club record fee",
+    "real madrid signs yan diomande in record deal until 2033",
+    "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 breaking: barcelona now in official club to club talks with man city and v"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1773,16 +1779,16 @@
     "malo gusto": "https://r2.thesportsdb.com/images/media/player/cutout/wzyklc1757003476.png/small",
     "antonee robinson": "https://r2.thesportsdb.com/images/media/player/cutout/q5wlej1757070520.png/small",
     "manor solomon": "https://r2.thesportsdb.com/images/media/player/cutout/8xfxe41762889351.png/small",
-    "mateo soule": "",
     "ousmane ndiaye": "",
     "martin": "",
     "axel donczew": "",
     "victor froholdt": "",
     "rodri hernandez": "",
     "junior kroupi": "",
-    "kerem alajbegovic": ""
+    "kerem alajbegovic": "",
+    "mateo soule": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

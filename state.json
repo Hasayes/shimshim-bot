@@ -835,7 +835,8 @@
     "17b1d26281ff1a77f12da215545d6fef",
     "2f5280aa0ebc0658ec22f000418999e6",
     "9b0766d15dd1d888c511054d9acd754c",
-    "c9b568c761b4d6ae0f51ac6014062f19"
+    "c9b568c761b4d6ae0f51ac6014062f19",
+    "5656b9a45766baaf61f4982b2fb1099b"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1211,7 +1212,6 @@
     "interest: solomon -> west ham"
   ],
   "titles": [
-    "bernardo silva details his motivations after joining real madrid and reuniting w",
     "man city send 'official bid' for james trafford replacement as leeds united tran",
     "liverpool identify \u00a3130m perfect iraola signing as bradley barcola alternative",
     "break the bank for bradley barcola! liverpool must pay psg whatever fee they wan",
@@ -1510,7 +1510,8 @@
     "barcelona transfer news: rodri opens doors to camp nou for first time ever after",
     "juventus transfer roundup: a goalkeeper path, a midfield target, and an exit str",
     "atalanta interested in summer transfer for como\u2019s diao",
-    "fabrizio romano: liverpool \u2018lead the race\u2019 to sign world cup forward"
+    "fabrizio romano: liverpool \u2018lead the race\u2019 to sign world cup forward",
+    "i want michael carrick to follow xabi alonso's latest transfer demand for \u00a351m p"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1753,7 +1754,6 @@
     "filip kostic": "https://r2.thesportsdb.com/images/media/player/cutout/1kqxaz1759225234.png/small",
     "malo gusto": "https://r2.thesportsdb.com/images/media/player/cutout/wzyklc1757003476.png/small",
     "antonee robinson": "https://r2.thesportsdb.com/images/media/player/cutout/q5wlej1757070520.png/small",
-    "victor froholdt": "",
     "rodri hernandez": "",
     "junior kroupi": "",
     "kerem alajbegovic": "",
@@ -1761,9 +1761,10 @@
     "manor solomon": "https://r2.thesportsdb.com/images/media/player/cutout/8xfxe41762889351.png/small",
     "ousmane ndiaye": "",
     "martin": "",
-    "axel donczew": ""
+    "axel donczew": "",
+    "victor froholdt": ""
   },
-  "photo_repair_idx": 7,
+  "photo_repair_idx": 8,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

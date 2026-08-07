@@ -1,5 +1,25 @@
 [
  {
+  "id": "0de54d48c9abd2888165aefba0097c41",
+  "ts": "2026-08-07T23:15:34+00:00",
+  "kind": "interest",
+  "stage": "\u2014",
+  "player": "Ezri Konsa",
+  "position": "Centre-back",
+  "age": "28",
+  "from_club": "Aston Villa",
+  "to_club": "Arsenal, Liverpool",
+  "fee": "\u00a360m",
+  "style": "Commanding defender with strong aerial ability and progressive passing; reliable in one-v-one situations.",
+  "fit": "Adds English Premier League experience and defensive solidity to Liverpool's backline, capable of handling elite competition.",
+  "source": "Tom Collomosse, Daily Mail",
+  "outlet": "yahoo",
+  "url": "https://sports.yahoo.com/articles/liverpool-could-sign-60m-centre-110500709.html",
+  "title": "Liverpool could sign \u00a360m centre-back imminently; current squad \u201cincreasingly resigned\u201d to his exit",
+  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/rnu4al1756984921.png/small",
+  "summary": "Tom Collomosse reports that Aston Villa's squad believe an exit for Ezri Konsa is increasingly likely this summer, with Liverpool and Arsenal mentioned as potential destinations for the \u00a360m-valued centre-back."
+ },
+ {
   "id": "tg:FabrizioRomanoTG/64215",
   "ts": "2026-08-07T21:30:49+00:00",
   "kind": "deal",
@@ -3078,26 +3098,6 @@
   "title": "\u2018Will leave PSG this summer\u2019: Fabrizio Romano reveals exciting Liverpool transfer opportunity",
   "photo": "https://r2.thesportsdb.com/images/media/player/cutout/aquiiw1766335383.png/small",
   "summary": "Paris Saint-Germain midfielder Ibrahim Mbaye has been linked with a summer departure, with Liverpool, Manchester City, Tottenham Hotspur, Borussia Dortmund, and Manchester United all reported to have an interest. PSG are believed to be seeking a fee in the region of \u20ac40 million to \u20ac50 million."
- },
- {
-  "id": "0de54d48c9abd2888165aefba0097c41",
-  "ts": "2026-07-18T01:47:09+00:00",
-  "kind": "interest",
-  "stage": "\u2014",
-  "player": "Ezri Konsa",
-  "position": "Centre-back",
-  "age": "28",
-  "from_club": "Aston Villa",
-  "to_club": "Arsenal",
-  "fee": "\u00a335m\u2013\u00a350m+",
-  "style": "A composed, ball-playing centre-back who is strong in the air, aggressive in the tackle, and comfortable stepping out to defend in tight spaces.",
-  "fit": "With William Saliba facing an injury concern, Konsa offers proven Premier League quality and England-level experience to shore up Arsenal's defensive line.",
-  "source": "Mail Sport",
-  "outlet": "caughtoffside",
-  "url": "https://www.caughtoffside.com/2026/07/17/arsenal-prepare-ezri-konsa-transfer-bid/",
-  "title": "Bid prepared: Arsenal step up interest in signing England star \u2013 not Morgan Rogers",
-  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/rnu4al1756984921.png/small",
-  "summary": "Arsenal have been reported to be preparing a bid for Aston Villa defender Ezri Konsa, with the England international valued at between \u00a335 million and \u00a350 million-plus. No formal offer has been confirmed."
  },
  {
   "id": "09756cbfa95253fac14c40067340aa9f",

@@ -953,7 +953,9 @@
     "8cef01aa250a332424b25daf0b844a9a",
     "02b786c653894b4b7886965cd4a7ec42",
     "3162c502cc06c87de6d115ba09bac962",
-    "abc901cf566cab80904c9aca25de05a4"
+    "abc901cf566cab80904c9aca25de05a4",
+    "c68413ccba0fd9aaaefdc6fdad7c070b",
+    "80b04a94cbf68be318e55d739c162e52"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1336,11 +1338,10 @@
     "interest: solomon -> west ham",
     "interest: jesus -> napoli",
     "interest: gero -> manchester city",
-    "interest: romero -> arsenal"
+    "interest: romero -> arsenal",
+    "interest: konsa -> liverpool"
   ],
   "titles": [
-    "real madrid battle vinicius, diomande deals: latest on transfers",
-    "liverpool transfer approved as intrigued reds are sounded out over real madrid s",
     "man united ready to offload \u2018special\u2019 player as euro giants open talks with agen",
     "fiorentina, real madrid complete mastantuono loan deal report",
     "barcelona to launch new julian alvarez push but arsenal hold major advantage",
@@ -1638,7 +1639,9 @@
     "arsenal star gabriel martinelli \u2018on galatasaray\u2019s transfer shortlist\u2019 with gunne",
     "new bid: liverpool submitted winger transfer offer at 9am today",
     "\u201cmany bonuses\u201d in bruno guimaraes to arsenal transfer that newcastle are keeping",
-    "arsenal consider signing tottenham hotspur captain"
+    "arsenal consider signing tottenham hotspur captain",
+    "liverpool could sign \u00a360m centre back imminently; current squad \u201cincreasingly re",
+    "arsenal set \u00a317m+ asking price for napoli target"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1888,7 +1891,6 @@
     "gabriel jesus": "https://r2.thesportsdb.com/images/media/player/cutout/rwsqi51769330458.png/small",
     "sergi roberto": "https://r2.thesportsdb.com/images/media/player/cutout/2xmxre1764278454.png/small",
     "nayef aguerd": "https://r2.thesportsdb.com/images/media/player/cutout/aqw7ba1766151823.png/small",
-    "ousmane ndiaye": "",
     "martin": "",
     "ronald araujo": "https://r2.thesportsdb.com/images/media/player/cutout/ggpnkx1762289497.png/small",
     "axel donczew": "",
@@ -1896,9 +1898,10 @@
     "gero": "",
     "rodri hernandez": "",
     "kerem alajbegovic": "",
-    "mateo soule": ""
+    "mateo soule": "",
+    "ousmane ndiaye": ""
   },
-  "photo_repair_idx": 5,
+  "photo_repair_idx": 6,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

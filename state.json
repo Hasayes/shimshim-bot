@@ -887,7 +887,8 @@
     "tg:FabrizioRomanoTG/64189",
     "tg:FabrizioRomanoTG/64190",
     "tg:FabrizioRomanoTG/64191",
-    "tg:FabrizioRomanoTG/64192"
+    "tg:FabrizioRomanoTG/64192",
+    "tg:FabrizioRomanoTG/64193"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1267,7 +1268,6 @@
     "interest: jesus -> napoli"
   ],
   "titles": [
-    "tottenham receive welcome boost to sign 22 year old manchester city winger",
     "ferran torres opens up on his future at barcelona amid tottenham interest",
     "fabrizio romano confirms newcastle united showed interest in man city midfielder",
     "nottingham forest identify man city midfielder as '\u00a355m' target in glasner's sea",
@@ -1566,7 +1566,8 @@
     "\ud83d\udea8 negotiations continue between liverpool and psg for bradley barcola but nothin",
     "\ud83d\udea8 \ud83e\ude75 manchester city are expected to close all details of ayyoub bouaddi deal soo",
     "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 direct club to club talks for rodri continue as barcelona are prepared to ",
-    "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 paris saint germain remain in club to club active talks for mika godts wit"
+    "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 paris saint germain remain in club to club active talks for mika godts wit",
+    "\ud83d\udea8 \ud83c\udde7\ud83c\uddea there are no negotiations or talks at all for romelu lukaku to as monaco he"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1814,15 +1815,15 @@
     "victor froholdt": "https://r2.thesportsdb.com/images/media/player/cutout/wge6av1742468170.png/small",
     "junior kroupi": "https://r2.thesportsdb.com/images/media/player/cutout/7z9b4h1757017919.png/small",
     "gabriel jesus": "https://r2.thesportsdb.com/images/media/player/cutout/rwsqi51769330458.png/small",
-    "rodri hernandez": "",
     "kerem alajbegovic": "",
     "mateo soule": "",
     "ousmane ndiaye": "",
     "sergi roberto": "https://r2.thesportsdb.com/images/media/player/cutout/2xmxre1764278454.png/small",
     "martin": "",
-    "axel donczew": ""
+    "axel donczew": "",
+    "rodri hernandez": ""
   },
-  "photo_repair_idx": 6,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

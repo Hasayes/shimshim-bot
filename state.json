@@ -798,7 +798,10 @@
     "b17cb31b6d13f6e872d4dc703309ee51",
     "a89c91cdfc04ef1d6dc6691596f26e9b",
     "8c1f8477f598cd5d51cbff5ebca62f58",
-    "4ee5424600864a584a1ea813c81e74c0"
+    "4ee5424600864a584a1ea813c81e74c0",
+    "a62e949c701524853bb7de6d0fea160f",
+    "9cdb703e6d75082d18a6a0584d7b6c78",
+    "4c12b7f1fc026bd9a6c547087e3602fc"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1171,8 +1174,6 @@
     "interest: gusto -> psg"
   ],
   "titles": [
-    "daisuke yokota medical update shared after rangers agree \u00a33 4m transfer",
-    "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 paris saint germain and ajax remain in club to club talks for mika godts w",
     "\ud83d\udea8 \u26aa\ufe0f more on pedro neto and savinho tottenham would consider pedro neto if savin",
     "rt @themadridzone : \ud83d\udea8 confirmed: everything about the yan diomande deal has been",
     "\"very close \" fabrizio romano provides latest update on bruno guimaraes to arsen",
@@ -1470,7 +1471,9 @@
     "real madrid to make final attempt at rodri deal with barcelona hijack threat gro",
     "real madrid sign yan diomande: \u20ac125 million guaranteed transfer fee, contract ti",
     "report: milan reject \u20ac35m galatasaray offer for leao",
-    "romano: psg\u2019s first major transfer is on the way to \u201ccomplete move\u201d after \u20ac50m f"
+    "romano: psg\u2019s first major transfer is on the way to \u201ccomplete move\u201d after \u20ac50m f",
+    "vinicius jr to arsenal transfer update as huge real madrid contract decision mad",
+    "money for nothing: as nestory irankunda deal goes through, bayern munich ready t"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1712,16 +1715,16 @@
     "matteo ruggeri": "https://r2.thesportsdb.com/images/media/player/cutout/a9q51s1762890169.png/small",
     "filip kostic": "https://r2.thesportsdb.com/images/media/player/cutout/1kqxaz1759225234.png/small",
     "malo gusto": "https://r2.thesportsdb.com/images/media/player/cutout/wzyklc1757003476.png/small",
-    "junior kroupi": "",
     "kerem alajbegovic": "",
     "mateo soule": "",
     "ousmane ndiaye": "",
     "martin": "",
     "axel donczew": "",
     "victor froholdt": "",
-    "rodri hernandez": ""
+    "rodri hernandez": "",
+    "junior kroupi": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

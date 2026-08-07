@@ -105,6 +105,8 @@ def main():
         player = c.get("player", "")
         if not player or player == "—":
             continue
+        if len(_norm(player).split()) < 2:
+            continue  # single-name players collide with famous namesakes
         dests = [s.strip() for s in c["to_club"].split(",") if s.strip() not in ("", "—")]
         origin = c.get("from_club", "")
         teams = []
@@ -135,7 +137,7 @@ def main():
             state["deals"][key] = STAGE_RANK["completed"]
             upgrades.append(f"{player} -> {dest}")
             print(f"[UPGRADE] {player} -> {dest} (oracle-confirmed arrival)")
-        elif is_completed and not at_dest and at_origin >= 2 and age_days > 3:
+        elif is_completed and not at_dest and at_origin >= 2 and age_days > 10:
             flags.append(f"• {player}: card says Completed -> {c['to_club']}, "
                          f"but oracles still show {teams[0]}")
             print(f"[FLAG] {player}: completed but oracles show {teams}")

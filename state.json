@@ -867,7 +867,9 @@
     "3c46158fc15d99e3e399f21a3174fcc0",
     "28dfa19ef8f000010fd3cc26da122b89",
     "34a541f3dbfb691f0ca21e5a6cb92598",
-    "0466bbe1c57bf5cc43164950a65b5498"
+    "0466bbe1c57bf5cc43164950a65b5498",
+    "6802d6b7a7bb02dc93a8d13ffd696102",
+    "a9298c8fd0d3cb1702d275cda48ecedb"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1244,8 +1246,6 @@
     "interest: solomon -> west ham"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f celta vigo have agreed deal with man united to sign altay bayindir as new",
-    "a portuguese winger is named as a manchester city target as city chase more expe",
     "rb leipzig in advanced talks to sign arsenal youngster \u2013 report",
     "rt @fabrizioromano : \ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f exclusive: como reach verbal agreement to sign trevo",
     "\ud83d\udea8 mohamed salah's next club is known \ud83d\udca3 (fabrizio romano)",
@@ -1543,7 +1543,9 @@
     "liverpool strike bradley barcola agreement as fsg react to djed spence offer",
     "caleb yirenkyi completes medical ahead of \u20ac30m coventry city move",
     "london rivals no longer in talks with tottenham over winger\u2019s move \u2013 \u2018not agreei",
-    "transfer news and rumours today: ex arsenal star nears possible gunners reunion "
+    "transfer news and rumours today: ex arsenal star nears possible gunners reunion ",
+    "vivell wants \u00a350m midfielder at man utd as another star \u2018keen\u2019 on old trafford m",
+    "turkish giants eyeing move for arsenal winger"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1789,15 +1791,15 @@
     "manor solomon": "https://r2.thesportsdb.com/images/media/player/cutout/8xfxe41762889351.png/small",
     "rodri hernandez": "",
     "kerem alajbegovic": "",
-    "mateo soule": "",
     "ousmane ndiaye": "",
     "caleb yirenkyi": "https://r2.thesportsdb.com/images/media/player/cutout/dqki3p1765402684.png/small",
     "martin": "",
     "axel donczew": "",
     "victor froholdt": "https://r2.thesportsdb.com/images/media/player/cutout/wge6av1742468170.png/small",
-    "junior kroupi": "https://r2.thesportsdb.com/images/media/player/cutout/7z9b4h1757017919.png/small"
+    "junior kroupi": "https://r2.thesportsdb.com/images/media/player/cutout/7z9b4h1757017919.png/small",
+    "mateo soule": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

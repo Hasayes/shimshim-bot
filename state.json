@@ -959,7 +959,8 @@
     "98b647f253c636e847d78beff39542b1",
     "5f886fb1d9c22fb9395e265c84267ace",
     "98123bddef6c05ef1aebcce163e45ce9",
-    "24f973c1c58298fac8dee1be8894d37f"
+    "24f973c1c58298fac8dee1be8894d37f",
+    "9847a6c06ad19d71785401c78f8aebbd"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1346,7 +1347,6 @@
     "interest: konsa -> liverpool"
   ],
   "titles": [
-    "bruno guimaraes set to sign for arsenal as newcastle agree to sale",
     "man utd: romano reveals rashford \u2018increasing chances\u2019 in transfer update \u2013 \u2018more",
     "mohamed salah arrives in istanbul to complete trabzonspor move after liverpool e",
     "man utd: romano reveals rashford exit percentage chance as \u2018close to completion\u2019",
@@ -1645,7 +1645,8 @@
     "man utd have just received some bad news about signing \u20ac28m star",
     "'this is not goodbye' altay bayindir sends message to manchester united fans aft",
     "\u2018this is not goodbye\u2019 altay bayindir sends message to manchester united fans aft",
-    "liverpool's centre back pursuit: fabrizio romano update"
+    "liverpool's centre back pursuit: fabrizio romano update",
+    "18 year old tottenham target from psg giving priority to liverpool project"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1896,16 +1897,16 @@
     "sergi roberto": "https://r2.thesportsdb.com/images/media/player/cutout/2xmxre1764278454.png/small",
     "nayef aguerd": "https://r2.thesportsdb.com/images/media/player/cutout/aqw7ba1766151823.png/small",
     "ronald araujo": "https://r2.thesportsdb.com/images/media/player/cutout/ggpnkx1762289497.png/small",
-    "gero": "",
     "rodri hernandez": "",
     "kerem alajbegovic": "",
     "mateo soule": "",
     "ousmane ndiaye": "",
     "martin": "",
     "axel donczew": "",
-    "diego buonanotte": ""
+    "diego buonanotte": "",
+    "gero": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

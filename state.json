@@ -988,7 +988,8 @@
     "72b0654a3a86079c750567e1faaa5082",
     "4c1cc1974b484c63f2b55ef37ff6f9b9",
     "9cbe6790fa7faad16637c39a6a9d20fd",
-    "51d21d8f41f917f7edc86392db0d99aa"
+    "51d21d8f41f917f7edc86392db0d99aa",
+    "99a4f2ad94523069b3d9c8f27fc07eed"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1376,7 +1377,6 @@
     "interest: konstantelias -> borussia dortmund"
   ],
   "titles": [
-    "agreement reached: the full details of diomande's transfer to real madrid",
     "fresh vinicius junior to arsenal transfer twist as gunners 'prepare bid' after r",
     "barca to 'battle' real in race for rodri",
     "club \u2018confident of reaching an agreement very soon\u2019 as advanced negotiations con",
@@ -1675,7 +1675,8 @@
     "romano: tottenham have 'good chance' of signing \u00a3250,000 a week forward",
     "romano: liverpool now 'lead race' to sign bradley barcola alternative",
     "borussia dortmund revive bundesliga interest in giannis konstantelias",
-    "serie a giants target arsenal striker as gunners insist on permanent sale"
+    "serie a giants target arsenal striker as gunners insist on permanent sale",
+    "man city make rodri decision after \u2018derisory\u2019 offer from barcelona"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1926,7 +1927,6 @@
     "sergi roberto": "https://r2.thesportsdb.com/images/media/player/cutout/2xmxre1764278454.png/small",
     "nayef aguerd": "https://r2.thesportsdb.com/images/media/player/cutout/aqw7ba1766151823.png/small",
     "ronald araujo": "https://r2.thesportsdb.com/images/media/player/cutout/ggpnkx1762289497.png/small",
-    "axel donczew": "",
     "diego buonanotte": "",
     "gero": "",
     "rodri hernandez": "",
@@ -1934,9 +1934,10 @@
     "mateo soule": "",
     "giannis konstantelias": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/PAOK_Saloniki_-_konstantelias_2023.jpg/330px-PAOK_Saloniki_-_konstantelias_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "ousmane ndiaye": "",
-    "martin": ""
+    "martin": "",
+    "axel donczew": ""
   },
-  "photo_repair_idx": 7,
+  "photo_repair_idx": 8,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

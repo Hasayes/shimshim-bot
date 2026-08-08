@@ -960,7 +960,11 @@
     "5f886fb1d9c22fb9395e265c84267ace",
     "98123bddef6c05ef1aebcce163e45ce9",
     "24f973c1c58298fac8dee1be8894d37f",
-    "9847a6c06ad19d71785401c78f8aebbd"
+    "9847a6c06ad19d71785401c78f8aebbd",
+    "c1a8119c26e1cd386228d0a3b488e679",
+    "eca4cf248e67ff9e3a6c051654ece3cd",
+    "aed0f5d966cfc6ba9c8ea93ef6187c73",
+    "4124d79524bbb31fa4f9eed2036ddaf8"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1347,10 +1351,6 @@
     "interest: konsa -> liverpool"
   ],
   "titles": [
-    "man utd: romano reveals rashford \u2018increasing chances\u2019 in transfer update \u2013 \u2018more",
-    "mohamed salah arrives in istanbul to complete trabzonspor move after liverpool e",
-    "man utd: romano reveals rashford exit percentage chance as \u2018close to completion\u2019",
-    "bruno guimaraes set for arsenal move as newcastle agree \u00a375m deal",
     "romero worry for inter as atletico madrid can match \u20ac40m tottenham deal",
     "bradley barcola twist could now prompt liverpool business with tottenham \u2013 fabri",
     "arsenal and newcastle finalize agreement for bruno guimaraes worth millions of d",
@@ -1646,7 +1646,11 @@
     "'this is not goodbye' altay bayindir sends message to manchester united fans aft",
     "\u2018this is not goodbye\u2019 altay bayindir sends message to manchester united fans aft",
     "liverpool's centre back pursuit: fabrizio romano update",
-    "18 year old tottenham target from psg giving priority to liverpool project"
+    "18 year old tottenham target from psg giving priority to liverpool project",
+    "rodri to barcelona: there has been a 'major' development in real madrid linked m",
+    "man utd can sign lewis hall on one condition as newcastle transfer stance emerge",
+    "man city reject barcelona bid for rodri and close in on midfield signing of thei",
+    "manchester city reject barcelona's opening bid for midfielder rodri: details"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1897,16 +1901,16 @@
     "sergi roberto": "https://r2.thesportsdb.com/images/media/player/cutout/2xmxre1764278454.png/small",
     "nayef aguerd": "https://r2.thesportsdb.com/images/media/player/cutout/aqw7ba1766151823.png/small",
     "ronald araujo": "https://r2.thesportsdb.com/images/media/player/cutout/ggpnkx1762289497.png/small",
-    "rodri hernandez": "",
     "kerem alajbegovic": "",
     "mateo soule": "",
     "ousmane ndiaye": "",
     "martin": "",
     "axel donczew": "",
     "diego buonanotte": "",
-    "gero": ""
+    "gero": "",
+    "rodri hernandez": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

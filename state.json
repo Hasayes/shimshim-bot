@@ -994,7 +994,9 @@
     "37ced5b668718f7f3b85f5b238a6e605",
     "82c03c152859652aded1cbd1996d71c1",
     "d3819648c67aa90c953df760d72b203c",
-    "97053aa825a11f71893606712864884f"
+    "97053aa825a11f71893606712864884f",
+    "777672ba0834943458c24d954f78cb4e",
+    "tg:FabrizioRomanoTG/64233"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1382,8 +1384,6 @@
     "interest: konstantelias -> borussia dortmund"
   ],
   "titles": [
-    "\ud83e\udd14 a trend is emerging! reports: how real's talks with vini jr went",
-    "real madrid make vinicius jr improved contract offer bbc",
     "tottenham back in \u2018direct talks\u2019 with 27yo liverpool star over move, deal depend",
     "man utd told to offer \u00a360m to sign juventus star as ornstein reveals ineos\u2019 two ",
     "vinicius junior to arsenal: fabrizio romano issues 'key update' as influential f",
@@ -1681,7 +1681,9 @@
     "tottenham star djed spence wants to join liverpool alongside barcola",
     "arsenal weigh up move for \u00a377m winger after vinicius blow",
     "paris saint germain begins negotiations for mika godts, ajax promise",
-    "manchester city board bars barcelona\u2019s first move for rodri"
+    "manchester city board bars barcelona\u2019s first move for rodri",
+    "man city transfer news: james trafford replacement's 'medical' scheduled as deta",
+    "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 barcelona are very confident to get rodri deal done no panic after first b"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1932,7 +1934,6 @@
     "sergi roberto": "https://r2.thesportsdb.com/images/media/player/cutout/2xmxre1764278454.png/small",
     "nayef aguerd": "https://r2.thesportsdb.com/images/media/player/cutout/aqw7ba1766151823.png/small",
     "ronald araujo": "https://r2.thesportsdb.com/images/media/player/cutout/ggpnkx1762289497.png/small",
-    "kerem alajbegovic": "",
     "mateo soule": "",
     "giannis konstantelias": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/PAOK_Saloniki_-_konstantelias_2023.jpg/330px-PAOK_Saloniki_-_konstantelias_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "ousmane ndiaye": "",
@@ -1940,9 +1941,10 @@
     "axel donczew": "",
     "diego buonanotte": "",
     "gero": "",
-    "rodri hernandez": ""
+    "rodri hernandez": "",
+    "kerem alajbegovic": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

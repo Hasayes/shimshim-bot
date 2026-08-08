@@ -1,5 +1,25 @@
 [
  {
+  "id": "14d84ab9682af296db76d735e18c293c",
+  "ts": "2026-08-08T22:00:33+00:00",
+  "kind": "interest",
+  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/ocpyt41768321624.png/small",
+  "stage": "\u2014",
+  "player": "Marc Casado",
+  "position": "Midfielder",
+  "age": "22",
+  "from_club": "Barcelona",
+  "to_club": "Manchester United",
+  "fee": "\u2014",
+  "style": "Ball-progressing midfielder with technical security and composure in possession.",
+  "fit": "Could provide midfield depth and a youthful alternative to Manchester United's established options, though his limited senior experience may be a consideration.",
+  "source": "Yardbarker",
+  "summary": "Marc Casado has been linked with a potential move to Manchester United throughout the summer transfer window. The 22-year-old Barcelona midfielder made 24 LaLiga appearances last season as Barcelona won the league title for the second consecutive time.",
+  "outlet": "yardbarker",
+  "url": "https://www.yardbarker.com/soccer/articles/marc_casado_nears_barcelona_exit_amid_manchester_united_links/s1_17737_44151573",
+  "title": "Marc Casado nears Barcelona exit amid Manchester United links"
+ },
+ {
   "id": "7ffdd237bd73c62627b4b47248afcf8d",
   "ts": "2026-08-08T16:16:09+00:00",
   "kind": "deal",

@@ -1025,7 +1025,8 @@
     "tg:FabrizioRomanoTG/64253",
     "dc2ada2bbb4604d61bf7f6d95ba88dd9",
     "6191884173db03a3ebaeccb8b1e7d978",
-    "tg:FabrizioRomanoTG/64256"
+    "tg:FabrizioRomanoTG/64256",
+    "tg:FabrizioRomanoTG/64262"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1221,7 +1222,8 @@
     "rulli -> manchester city": 1,
     "buonanotte -> elche": 2,
     "aguerd -> real sociedad": 1,
-    "araujo -> liverpool": 2
+    "araujo -> liverpool": 2,
+    "diomande -> nottingham forest": 1
   },
   "interest": [
     "interest: alvarez -> arsenal",
@@ -1415,7 +1417,6 @@
     "interest: araujo -> liverpool"
   ],
   "titles": [
-    "fisnik asllani passes rb leipzig medical",
     "\ud83d\udea8 \u26aa\ufe0f real madrid are closing in on new deal for vinicius jr after positive talks",
     "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f river plate reach verbal agreement with atletico madrid for thiago almada",
     "salah eclipses osimhen\u2019s turkish lig record, joins onuachu, nwaiwu at trabzonspo",
@@ -1714,7 +1715,8 @@
     "\u2764\ufe0f \ud83e\udd0d \ud83c\udfc6 bruno guimaraes: \u201ci want to win trophies, i want to make history and i th",
     "\u2018deal agreed\u2019 as manchester city set to complete yet another signing with medica",
     "alejandro garnacho chooses between chelsea and napoli with",
-    "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 barcelona are set to send their new bid for rodri as the player has told m"
+    "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 barcelona are set to send their new bid for rodri as the player has told m",
+    "\ud83d\udea8 \ud83c\udf33 ousmane diomande to nottingham forest, here we go! the defender will travel "
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1966,16 +1968,17 @@
     "nayef aguerd": "https://r2.thesportsdb.com/images/media/player/cutout/aqw7ba1766151823.png/small",
     "ronald araujo": "https://r2.thesportsdb.com/images/media/player/cutout/ggpnkx1762289497.png/small",
     "giannis konstantelias": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/PAOK_Saloniki_-_konstantelias_2023.jpg/330px-PAOK_Saloniki_-_konstantelias_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "mateo soule": "",
     "ousmane ndiaye": "",
     "martin": "",
     "axel donczew": "",
     "diego buonanotte": "",
     "gero": "",
     "rodri hernandez": "",
-    "kerem alajbegovic": ""
+    "kerem alajbegovic": "",
+    "ousmane diomande": "https://r2.thesportsdb.com/images/media/player/cutout/5y2hc11762291059.png/small",
+    "mateo soule": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 5,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

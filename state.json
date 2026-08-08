@@ -1003,7 +1003,8 @@
     "3ef48e8d09fea62e6d886c5a59b17698",
     "tg:FabrizioRomanoTG/64235",
     "tg:FabrizioRomanoTG/64236",
-    "tg:FabrizioRomanoTG/64237"
+    "tg:FabrizioRomanoTG/64237",
+    "tg:FabrizioRomanoTG/64240"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1392,7 +1393,6 @@
     "interest: adams -> manchester united"
   ],
   "titles": [
-    "after guimaraes: arsenal expected to make ezri konsa bid",
     "man utd eye \u00a3116m double newcastle raid as ornstein drops lewis hall update",
     "vinicius jr faces decision after real madrid\u2019s improved contract offer",
     "vinicius junior closes in on lucrative real madrid contract extension to end ars",
@@ -1691,7 +1691,8 @@
     "barcelona must get serious in their bid to sign a manchester city leader",
     "\ud83d\udea8 newcastle made clear to lewis hall and his camp the intention not to sell him ",
     "\ud83d\udea8 \ud83d\udc4b\ud83c\udffc official: roony bardghji does not travel with barca squad for pre season ga",
-    "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 marc casado, set to leave barcelona in the upcoming days with offers being"
+    "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 marc casado, set to leave barcelona in the upcoming days with offers being",
+    "\ud83d\udd34 \ud83d\udd35 \ud83c\uddef\ud83c\uddf5 plan confirmed: paris saint germain improve their bid to parma for zion s"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1943,16 +1944,16 @@
     "nayef aguerd": "https://r2.thesportsdb.com/images/media/player/cutout/aqw7ba1766151823.png/small",
     "ronald araujo": "https://r2.thesportsdb.com/images/media/player/cutout/ggpnkx1762289497.png/small",
     "giannis konstantelias": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/PAOK_Saloniki_-_konstantelias_2023.jpg/330px-PAOK_Saloniki_-_konstantelias_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "diego buonanotte": "",
     "gero": "",
     "rodri hernandez": "",
     "kerem alajbegovic": "",
     "mateo soule": "",
     "ousmane ndiaye": "",
     "martin": "",
-    "axel donczew": ""
+    "axel donczew": "",
+    "diego buonanotte": ""
   },
-  "photo_repair_idx": 8,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

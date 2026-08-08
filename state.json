@@ -966,7 +966,11 @@
     "aed0f5d966cfc6ba9c8ea93ef6187c73",
     "4124d79524bbb31fa4f9eed2036ddaf8",
     "1b887acb94dd907505d415d3c7d621f7",
-    "1f41842fb045e5936d03b79cba4b9e5d"
+    "1f41842fb045e5936d03b79cba4b9e5d",
+    "8ee1f7fd59d7a454e9a57f11ec95e424",
+    "c9a8736e7254493a5d0cd91bc4521088",
+    "tg:FabrizioRomanoTG/64231",
+    "tg:FabrizioRomanoTG/64232"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1353,10 +1357,6 @@
     "interest: konsa -> liverpool"
   ],
   "titles": [
-    "arsenal and newcastle finalize agreement for bruno guimaraes worth millions of d",
-    "\ud83d\udea8 \ud83d\udfe2 \u26aa\ufe0f marino pusic has signed in as new al ahli manager to replace matthias jai",
-    "man united 'told to pay \u00a360m' as joshua zirkzee swap deal transfer ruled out man",
-    "more attacking targets emerge for spurs \u2013 latest transfer reports",
     "psg improve suzuki offer formula to parma for \u20ac35m, then juventus loan",
     "\ud83d\udea8 \u26aa\ufe0f jose mourinho, personally involved in vinicius jr new contract discussions ",
     "liverpool great mo salah, officially, will not join sporting kc: inside kc socce",
@@ -1652,7 +1652,11 @@
     "man city reject barcelona bid for rodri and close in on midfield signing of thei",
     "manchester city reject barcelona's opening bid for midfielder rodri: details",
     "ornstein reveals man city price to sell rodri to barcelona; romano claims succes",
-    "\u201cdirect talks\u201d between man city and barcelona after \u20ac50m bid rejected"
+    "\u201cdirect talks\u201d between man city and barcelona after \u20ac50m bid rejected",
+    "man utd travelling squad to face psg confirmed, bruno fernandes returns",
+    "\u201carsenal are getting a very special player\u201d \u2013 newcastle chief speaks out on brun",
+    "\ud83d\udea8 \ud83c\udde6\ud83c\uddf7 atletico madrid will send new bid for cuti romero soon as molina and almada",
+    "rt @fabrizioromano : \ud83d\udea8 \ud83d\udea8 \ud83d\udca3 exclusive: liverpool agree loan deal to sign ronald a"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1903,16 +1907,16 @@
     "sergi roberto": "https://r2.thesportsdb.com/images/media/player/cutout/2xmxre1764278454.png/small",
     "nayef aguerd": "https://r2.thesportsdb.com/images/media/player/cutout/aqw7ba1766151823.png/small",
     "ronald araujo": "https://r2.thesportsdb.com/images/media/player/cutout/ggpnkx1762289497.png/small",
-    "mateo soule": "",
     "ousmane ndiaye": "",
     "martin": "",
     "axel donczew": "",
     "diego buonanotte": "",
     "gero": "",
     "rodri hernandez": "",
-    "kerem alajbegovic": ""
+    "kerem alajbegovic": "",
+    "mateo soule": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 5,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

@@ -1036,7 +1036,8 @@
     "0496d542782dcc5d4f27dc6a1d0edcb5",
     "30e53eeaf7bf67473938d87683900e11",
     "1b4c14b5dbc5ff9f16b51bab5434f1d7",
-    "3f9bd12633486eb1184d865261dd2e38"
+    "3f9bd12633486eb1184d865261dd2e38",
+    "505d190b551a98a58d0cd428239e50af"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1428,7 +1429,6 @@
     "interest: araujo -> liverpool"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83c\udf52 exclusive story, confirmed: juanlu joins bournemouth from sevilla \ud83c\uddea\ud83c\uddf8 https:/",
     "\ud83d\udea8 \u26aa\ufe0f official: yan diomande joins real madrid from rb leipzig, deal confirmed \ud83d\udca5 ",
     "\ud83d\udcfa new youtube video uploaded! \ud83c\udfac \ud83d\udea8 \ud83d\udca3 bombazo rodri! hijack! green light! vini jun",
     "\ud83d\udea8 \ud83d\udd34 \u26ab\ufe0f bayer leverkusen reached verbal agreement on deal to sign facundo medina,",
@@ -1727,7 +1727,8 @@
     "newcastle respond to man utd \u2018enquiry\u2019 about signing lewis hall teamtalk com",
     "fabrizio romano says \u201cnew\u201d \u20ac40m bid coming soon as club aim to \u201cavoid any hijack",
     "manchester city sign world cup winner gero rulli in major squad boost",
-    "ronald araujo to liverpool loan is \u201call done\u201d and includes buy option, says fabr"
+    "ronald araujo to liverpool loan is \u201call done\u201d and includes buy option, says fabr",
+    "liverpool reportedly secure ronald araujo on loan from barcelona"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1980,16 +1981,16 @@
     "ronald araujo": "https://r2.thesportsdb.com/images/media/player/cutout/ggpnkx1762289497.png/small",
     "giannis konstantelias": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/PAOK_Saloniki_-_konstantelias_2023.jpg/330px-PAOK_Saloniki_-_konstantelias_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "ousmane diomande": "https://r2.thesportsdb.com/images/media/player/cutout/5y2hc11762291059.png/small",
-    "mateo soule": "",
     "ousmane ndiaye": "",
     "martin": "",
     "axel donczew": "",
     "diego buonanotte": "",
     "gero": "",
     "rodri hernandez": "",
-    "kerem alajbegovic": ""
+    "kerem alajbegovic": "",
+    "mateo soule": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 5,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

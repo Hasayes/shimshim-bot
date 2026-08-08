@@ -977,7 +977,10 @@
     "3f43baeb9a90ded6ad7ceea4cefc9a45",
     "b25221e6f683480723eb826b4ac01e79",
     "db1a72773cddfcae3e6d586b119f2582",
-    "9786a3b8dd3d8917bb111d0028acbdfe"
+    "9786a3b8dd3d8917bb111d0028acbdfe",
+    "ba5c80ff7c47b909d11e0c54e8226f4c",
+    "0bf563f0076a7a534cb9135fbd7bfd88",
+    "d57772020dc13f47440286d4474588a0"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1364,9 +1367,6 @@
     "interest: konsa -> liverpool"
   ],
   "titles": [
-    "aston villa reach agreement with atletico madrid to make liverpool, tottenham ta",
-    "barcelona fully confident of completing veteran portuguese star\u2019s transfer \u2013 rom",
-    "mohamed salah\u2019s trabzonspor era has officially begun, and fans are already all i",
     "liverpool increase bid for bradley barcola as sensational double deal heats up",
     "who is ibrahim mbaye and why do liverpool want to sign him from psg?",
     "\u2018tottenham are in direct talks\u2019 \u2013 fabrizio romano drops exciting spurs transfer ",
@@ -1663,7 +1663,10 @@
     "chelsea open to loan deal with option for troublesome defender with 42 appearanc",
     "barcelona, roony bardghji \u201cset to explore a move\u201d in final weeks of transfer win",
     "chelsea closing in on defender signing but midfielder attracting interest from p",
-    "latest: new report names chelsea\u2019s asking price for enzo fernandez as man city g"
+    "latest: new report names chelsea\u2019s asking price for enzo fernandez as man city g",
+    "man city transfer news: 'agreement close' for midfield target amid ayyoub bouadd",
+    "liverpool gets new bradley barcola transfer update after 'deal agreed' claim",
+    "ornstein: man city refuse to engage with unserious \u20ac45m offer for midfielder"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1914,16 +1917,16 @@
     "sergi roberto": "https://r2.thesportsdb.com/images/media/player/cutout/2xmxre1764278454.png/small",
     "nayef aguerd": "https://r2.thesportsdb.com/images/media/player/cutout/aqw7ba1766151823.png/small",
     "ronald araujo": "https://r2.thesportsdb.com/images/media/player/cutout/ggpnkx1762289497.png/small",
-    "rodri hernandez": "",
     "kerem alajbegovic": "",
     "mateo soule": "",
     "ousmane ndiaye": "",
     "martin": "",
     "axel donczew": "",
     "diego buonanotte": "",
-    "gero": ""
+    "gero": "",
+    "rodri hernandez": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

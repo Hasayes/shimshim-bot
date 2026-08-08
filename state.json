@@ -1048,7 +1048,8 @@
     "4b30c6dadb0fd7392102b6dabd445419",
     "50703454526fee0942daf49d7356c3fb",
     "tg:FabrizioRomanoTG/64273",
-    "tg:FabrizioRomanoTG/64274"
+    "tg:FabrizioRomanoTG/64274",
+    "3740707a15dc29d1d47c8f3dc402de06"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1440,7 +1441,6 @@
     "interest: araujo -> liverpool"
   ],
   "titles": [
-    "from spain: manchester united considering stunning \u20ac150m double transfer",
     "guimaeraes completes medical at arsenal ahead \u00a375m move",
     "\ud83d\udea8 \u26aa\ufe0f story confirmed: vinicius jr new six year contract at real madrid, set to b",
     "after bruno guimaraes: arsenal prepared to bid for 28 year old premier league de",
@@ -1739,7 +1739,8 @@
     "romano reveals man utd decision on signing baleba as newcastle respond to hall \u2018",
     "transfer news live: arsenal 'sign' alvarez, guimaraes confirmed, shock liverpool",
     "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 paris saint germain have officially informed barcelona about personal term",
-    "\ud83d\udc4b\ud83c\udffc \ud83c\udde8\ud83c\uddee confirmed: ousmane diomande will travel to england tomorrow, as tonight he"
+    "\ud83d\udc4b\ud83c\udffc \ud83c\udde8\ud83c\uddee confirmed: ousmane diomande will travel to england tomorrow, as tonight he",
+    "fenerbahce lead race for \u20ac40m alexander sorloth as atletico madrid plot dusan vl"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1992,16 +1993,16 @@
     "ronald araujo": "https://r2.thesportsdb.com/images/media/player/cutout/ggpnkx1762289497.png/small",
     "giannis konstantelias": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/PAOK_Saloniki_-_konstantelias_2023.jpg/330px-PAOK_Saloniki_-_konstantelias_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "ousmane diomande": "https://r2.thesportsdb.com/images/media/player/cutout/5y2hc11762291059.png/small",
-    "mateo soule": "",
     "ousmane ndiaye": "",
     "martin": "",
     "axel donczew": "",
     "diego buonanotte": "",
     "gero": "",
     "rodri hernandez": "",
-    "kerem alajbegovic": ""
+    "kerem alajbegovic": "",
+    "mateo soule": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 5,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

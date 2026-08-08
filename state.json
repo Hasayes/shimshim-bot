@@ -970,7 +970,9 @@
     "8ee1f7fd59d7a454e9a57f11ec95e424",
     "c9a8736e7254493a5d0cd91bc4521088",
     "tg:FabrizioRomanoTG/64231",
-    "tg:FabrizioRomanoTG/64232"
+    "tg:FabrizioRomanoTG/64232",
+    "a11e85fb5bd96409b6a9362f66ca1c79",
+    "488f576d101e4f18490536fb3a183349"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1357,8 +1359,6 @@
     "interest: konsa -> liverpool"
   ],
   "titles": [
-    "psg improve suzuki offer formula to parma for \u20ac35m, then juventus loan",
-    "\ud83d\udea8 \u26aa\ufe0f jose mourinho, personally involved in vinicius jr new contract discussions ",
     "liverpool great mo salah, officially, will not join sporting kc: inside kc socce",
     "newcastle tell man utd that \u00a369m star can leave but magpies could now be faced w",
     "psg improve \u20ac28m offer for potential first team player; but have an odd loan pro",
@@ -1656,7 +1656,9 @@
     "man utd travelling squad to face psg confirmed, bruno fernandes returns",
     "\u201carsenal are getting a very special player\u201d \u2013 newcastle chief speaks out on brun",
     "\ud83d\udea8 \ud83c\udde6\ud83c\uddf7 atletico madrid will send new bid for cuti romero soon as molina and almada",
-    "rt @fabrizioromano : \ud83d\udea8 \ud83d\udea8 \ud83d\udca3 exclusive: liverpool agree loan deal to sign ronald a"
+    "rt @fabrizioromano : \ud83d\udea8 \ud83d\udea8 \ud83d\udca3 exclusive: liverpool agree loan deal to sign ronald a",
+    "rodri transfer latest update: manchester city reject barcelona\u2019s \u00a338 5m bid for ",
+    "\u201cfinal stages\u201d \u2013 man city close in on ligue 1 superstar as rodri replacement"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1907,16 +1909,16 @@
     "sergi roberto": "https://r2.thesportsdb.com/images/media/player/cutout/2xmxre1764278454.png/small",
     "nayef aguerd": "https://r2.thesportsdb.com/images/media/player/cutout/aqw7ba1766151823.png/small",
     "ronald araujo": "https://r2.thesportsdb.com/images/media/player/cutout/ggpnkx1762289497.png/small",
-    "ousmane ndiaye": "",
     "martin": "",
     "axel donczew": "",
     "diego buonanotte": "",
     "gero": "",
     "rodri hernandez": "",
     "kerem alajbegovic": "",
-    "mateo soule": ""
+    "mateo soule": "",
+    "ousmane ndiaye": ""
   },
-  "photo_repair_idx": 5,
+  "photo_repair_idx": 6,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

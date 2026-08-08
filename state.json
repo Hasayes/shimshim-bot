@@ -982,7 +982,12 @@
     "0bf563f0076a7a534cb9135fbd7bfd88",
     "d57772020dc13f47440286d4474588a0",
     "04f0761c18bb3620499bec5f8c098f1f",
-    "c141903f03003eee4ec224dff331d006"
+    "c141903f03003eee4ec224dff331d006",
+    "21ddbbdfac211e806afc5febe35bc26e",
+    "da804725025b7ef7f36bf890839b892f",
+    "72b0654a3a86079c750567e1faaa5082",
+    "4c1cc1974b484c63f2b55ef37ff6f9b9",
+    "9cbe6790fa7faad16637c39a6a9d20fd"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1366,13 +1371,10 @@
     "interest: jesus -> napoli",
     "interest: gero -> manchester city",
     "interest: romero -> arsenal",
-    "interest: konsa -> liverpool"
+    "interest: konsa -> liverpool",
+    "interest: konstantelias -> borussia dortmund"
   ],
   "titles": [
-    "\u2018tottenham are in direct talks\u2019 \u2013 fabrizio romano drops exciting spurs transfer ",
-    "atletico madrid close in on cristian romero as barcelona\u2019s interest fades amid j",
-    "\ud83d\udea8 breakthrough at last! diomande joins real for this fee",
-    "done deal: molina ready for roma, total package \u20ac18m from atletico madrid",
     "atletico madrid preparing move for wantaway tottenham star with spurs already ha",
     "agreement reached: the full details of diomande's transfer to real madrid",
     "fresh vinicius junior to arsenal transfer twist as gunners 'prepare bid' after r",
@@ -1668,7 +1670,11 @@
     "liverpool gets new bradley barcola transfer update after 'deal agreed' claim",
     "ornstein: man city refuse to engage with unserious \u20ac45m offer for midfielder",
     "djed spence would be the ultimate test of michael carrick man management, he has",
-    "romano: medical taking place for chelsea\u2019s \u20ac21m backup signing after long negoti"
+    "romano: medical taking place for chelsea\u2019s \u20ac21m backup signing after long negoti",
+    "liverpool transfer news latest on 'deal agreed' claims as \u20ac115m bradley barcola ",
+    "romano: tottenham have 'good chance' of signing \u00a3250,000 a week forward",
+    "romano: liverpool now 'lead race' to sign bradley barcola alternative",
+    "borussia dortmund revive bundesliga interest in giannis konstantelias"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1919,16 +1925,17 @@
     "sergi roberto": "https://r2.thesportsdb.com/images/media/player/cutout/2xmxre1764278454.png/small",
     "nayef aguerd": "https://r2.thesportsdb.com/images/media/player/cutout/aqw7ba1766151823.png/small",
     "ronald araujo": "https://r2.thesportsdb.com/images/media/player/cutout/ggpnkx1762289497.png/small",
-    "ousmane ndiaye": "",
     "martin": "",
     "axel donczew": "",
     "diego buonanotte": "",
     "gero": "",
     "rodri hernandez": "",
     "kerem alajbegovic": "",
-    "mateo soule": ""
+    "mateo soule": "",
+    "giannis konstantelias": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/PAOK_Saloniki_-_konstantelias_2023.jpg/330px-PAOK_Saloniki_-_konstantelias_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "ousmane ndiaye": ""
   },
-  "photo_repair_idx": 5,
+  "photo_repair_idx": 6,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",
@@ -2070,6 +2077,7 @@
     "la galaxy": "https://r2.thesportsdb.com/images/media/team/badge/ysyysr1420227188.png/small",
     "marseille": "https://r2.thesportsdb.com/images/media/team/badge/c6bazh1779212287.png/small",
     "elche": "https://r2.thesportsdb.com/images/media/team/badge/e4vaw51655594332.png/small",
-    "real sociedad": "https://r2.thesportsdb.com/images/media/team/badge/vptvpr1473502986.png/small"
+    "real sociedad": "https://r2.thesportsdb.com/images/media/team/badge/vptvpr1473502986.png/small",
+    "paok saloniki": ""
   }
 }

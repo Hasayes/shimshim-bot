@@ -956,7 +956,9 @@
     "abc901cf566cab80904c9aca25de05a4",
     "c68413ccba0fd9aaaefdc6fdad7c070b",
     "80b04a94cbf68be318e55d739c162e52",
-    "98b647f253c636e847d78beff39542b1"
+    "98b647f253c636e847d78beff39542b1",
+    "5f886fb1d9c22fb9395e265c84267ace",
+    "98123bddef6c05ef1aebcce163e45ce9"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1343,8 +1345,6 @@
     "interest: konsa -> liverpool"
   ],
   "titles": [
-    "fiorentina, real madrid complete mastantuono loan deal report",
-    "barcelona to launch new julian alvarez push but arsenal hold major advantage",
     "romano issues vinicius jr update immediately after arsenal agree bruno guimaraes",
     "bruno guimaraes set to sign for arsenal as newcastle agree to sale",
     "man utd: romano reveals rashford \u2018increasing chances\u2019 in transfer update \u2013 \u2018more",
@@ -1642,7 +1642,9 @@
     "arsenal consider signing tottenham hotspur captain",
     "liverpool could sign \u00a360m centre back imminently; current squad \u201cincreasingly re",
     "arsenal set \u00a317m+ asking price for napoli target",
-    "man utd have just received some bad news about signing \u20ac28m star"
+    "man utd have just received some bad news about signing \u20ac28m star",
+    "'this is not goodbye' altay bayindir sends message to manchester united fans aft",
+    "\u2018this is not goodbye\u2019 altay bayindir sends message to manchester united fans aft"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1893,16 +1895,16 @@
     "sergi roberto": "https://r2.thesportsdb.com/images/media/player/cutout/2xmxre1764278454.png/small",
     "nayef aguerd": "https://r2.thesportsdb.com/images/media/player/cutout/aqw7ba1766151823.png/small",
     "ronald araujo": "https://r2.thesportsdb.com/images/media/player/cutout/ggpnkx1762289497.png/small",
-    "axel donczew": "",
     "diego buonanotte": "",
     "gero": "",
     "rodri hernandez": "",
     "kerem alajbegovic": "",
     "mateo soule": "",
     "ousmane ndiaye": "",
-    "martin": ""
+    "martin": "",
+    "axel donczew": ""
   },
-  "photo_repair_idx": 7,
+  "photo_repair_idx": 8,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

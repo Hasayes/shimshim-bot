@@ -1009,7 +1009,9 @@
     "c2715942bd71aaf6ebea952273825b0a",
     "fdd6b9fe3146d6e82d29788d60400eb5",
     "d4d5fef58abdc026d5e18abbe1faa288",
-    "d9d478ef11216c1a50f7bc16364417ee"
+    "d9d478ef11216c1a50f7bc16364417ee",
+    "f126c9142d91a3c3276dcbc70ad6563d",
+    "tg:FabrizioRomanoTG/64243"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1399,8 +1401,6 @@
     "interest: araujo -> liverpool"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f middlesbrough agree deal to sign ashley phillips as new defender from tot",
-    "rt @themadridzone : \ud83d\udea8 \ud83d\udca3 @fabrizioromano : \"man city believe that barcelona could",
     "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 barcelona have made contact with rodri\u2019s camp and also with manchester cit",
     "vinicius jr makes bold social media move amid real madrid exit rumors and arsena",
     "\ud83d\udea8 \u2708\ufe0f yan diomande has official authorization from rb leipzig to travel to madrid",
@@ -1698,7 +1698,9 @@
     "sky sports insiders drop big barcola update as next liverpool signing revealed",
     "liverpool signs fc barcelona defender ronald araujo in shock transfer",
     "enzo fernandez remains manchester city\u2019s dream target to replace rodri despite c",
-    "barcelona center back ronald araujo set to join liverpool on loan"
+    "barcelona center back ronald araujo set to join liverpool on loan",
+    "liverpool 'agree ronald araujo transfer' as barcelona approve shock defender mov",
+    "\ud83d\udd34 \ud83c\uddfa\ud83c\uddfe ronald araujo doesn\u2019t travel with barca squad today as he\u2019s flying to liver"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1950,16 +1952,16 @@
     "nayef aguerd": "https://r2.thesportsdb.com/images/media/player/cutout/aqw7ba1766151823.png/small",
     "ronald araujo": "https://r2.thesportsdb.com/images/media/player/cutout/ggpnkx1762289497.png/small",
     "giannis konstantelias": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/PAOK_Saloniki_-_konstantelias_2023.jpg/330px-PAOK_Saloniki_-_konstantelias_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "mateo soule": "",
     "ousmane ndiaye": "",
     "martin": "",
     "axel donczew": "",
     "diego buonanotte": "",
     "gero": "",
     "rodri hernandez": "",
-    "kerem alajbegovic": ""
+    "kerem alajbegovic": "",
+    "mateo soule": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 5,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

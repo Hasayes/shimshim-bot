@@ -1015,7 +1015,11 @@
     "264848fbb82f7fba943e5f73ff4575df",
     "tg:FabrizioRomanoTG/64246",
     "b539c23a52394a7d36ab46dff408dea1",
-    "tg:FabrizioRomanoTG/64247"
+    "tg:FabrizioRomanoTG/64247",
+    "283b32557c309fe5e0f5ab4e90703fa9",
+    "99e97e15ad8f989dbcf9f5b1d65fd4b4",
+    "tg:FabrizioRomanoTG/64248",
+    "tg:FabrizioRomanoTG/64251"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1140,7 +1144,7 @@
     "diawara -> milan": 2,
     "amondarain -> bologna": 2,
     "lacroix -> chelsea": 2,
-    "guimaraes -> arsenal": 1,
+    "guimaraes -> arsenal": 2,
     "bamba -> newcastle united": 1,
     "lee -> atletico madrid": 2,
     "openda -> olympique lyon": 2,
@@ -1405,10 +1409,6 @@
     "interest: araujo -> liverpool"
   ],
   "titles": [
-    "why everton signed christian norgaard: arteta's character reference, replacing g",
-    "bradley barcola chooses between liverpool, arsenal as fsg offered real madrid st",
-    "\ud83d\udea8 \u2708\ufe0f yan diomande will land in madrid in the afternoon flying later today transf",
-    "\ud83d\udfe2 \u26aa\ufe0f \ud83c\udde6\ud83c\uddfa nestory irankunda to sporting cp from watford, final details of the deal",
     "vinicius jr deletes all instagram posts and profile picture amid arsenal interes",
     "rb leipzig set to acquire hoffenheim striker fisnik asllani",
     "\ud83d\udea8 \ud83d\udfe1 \ud83d\udd35 leeds united have completed formal steps of their club record deal for jam",
@@ -1704,7 +1704,11 @@
     "ronald araujo joins liverpool on loan from barcelona: what are the terms of the ",
     "\ud83d\udea8 \ud83d\udfe1 \ud83d\udd34 lorenzo pellegrini has just signed a new one year deal at as roma until ju",
     "former barcelona midfielder sergi roberto set for la galaxy move",
-    "\ud83d\udea8 \ud83d\udfe1 \ud83d\udd35 fenerbahce are now in direct talks with romelu lukaku\u2019s camp, negotiations"
+    "\ud83d\udea8 \ud83d\udfe1 \ud83d\udd35 fenerbahce are now in direct talks with romelu lukaku\u2019s camp, negotiations",
+    "liverpool's newest addition made brave admission amid ongoing mental health batt",
+    "arsenal star could leave before deadline after new agent holds talks with serie ",
+    "\ud83d\udd34 \u26aa\ufe0f \ud83c\udde7\ud83c\uddf7 official: bruno guimaraes joins arsenal from newcastle for \u00a375m fee cont",
+    "\u2764\ufe0f \ud83e\udd0d mikel arteta has been pushing for long time with a clear top target for ars"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1956,16 +1960,16 @@
     "nayef aguerd": "https://r2.thesportsdb.com/images/media/player/cutout/aqw7ba1766151823.png/small",
     "ronald araujo": "https://r2.thesportsdb.com/images/media/player/cutout/ggpnkx1762289497.png/small",
     "giannis konstantelias": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/PAOK_Saloniki_-_konstantelias_2023.jpg/330px-PAOK_Saloniki_-_konstantelias_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "axel donczew": "",
     "diego buonanotte": "",
     "gero": "",
     "rodri hernandez": "",
     "kerem alajbegovic": "",
     "mateo soule": "",
     "ousmane ndiaye": "",
-    "martin": ""
+    "martin": "",
+    "axel donczew": ""
   },
-  "photo_repair_idx": 7,
+  "photo_repair_idx": 8,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

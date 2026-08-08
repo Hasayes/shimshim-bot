@@ -1,5 +1,25 @@
 [
  {
+  "id": "7ffdd237bd73c62627b4b47248afcf8d",
+  "ts": "2026-08-08T16:15:39+00:00",
+  "kind": "deal",
+  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/8xfxe41762889351.png/small",
+  "stage": "Here we go",
+  "player": "Manor Solomon",
+  "position": "Left-winger",
+  "age": "\u2014",
+  "from_club": "Tottenham Hotspur",
+  "to_club": "West Ham United",
+  "fee": "\u00a35m fixed + \u00a32m add-ons",
+  "style": "Versatile left-sided winger with pace and directness; effective in pressing transitions.",
+  "fit": "Squad depth option for West Ham's attacking flanks; provides competition and tactical flexibility in wide areas.",
+  "source": "Fabrizio Romano",
+  "summary": "Manor Solomon has agreed to join West Ham from Tottenham in a deal worth \u00a35m fixed plus \u00a32m in add-ons. The medical is booked for tomorrow and Solomon will sign a three-year contract with an option until June 2030.",
+  "outlet": "Telegram @fabrizioromanotg",
+  "url": "https://t.me/FabrizioRomanoTG/64263",
+  "title": "\ud83d\udea8 \u2692\ufe0f EXCL: Manor Solomon to West Ham, here we go! Deal agreed now and medical booked tomorrow. \u00a35m fixed fee, \u00a32m add-on"
+ },
+ {
   "id": "tg:FabrizioRomanoTG/64262",
   "ts": "2026-08-08T15:41:51+00:00",
   "kind": "deal",
@@ -358,26 +378,6 @@
   "outlet": "news3",
   "url": "https://3news.com/sports/caleb-yirenkyi-completes-medical-ahead-of-30m-coventry-city-transfer",
   "title": "Caleb Yirenkyi completes medical ahead of \u20ac30m Coventry City move"
- },
- {
-  "id": "7ffdd237bd73c62627b4b47248afcf8d",
-  "ts": "2026-08-07T04:15:35+00:00",
-  "kind": "interest",
-  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/8xfxe41762889351.png/small",
-  "stage": "\u2014",
-  "player": "Manor Solomon",
-  "position": "Left-winger",
-  "age": "\u2014",
-  "from_club": "Tottenham Hotspur",
-  "to_club": "West Ham United",
-  "fee": "\u2014",
-  "style": "Pacey, direct left-winger with technical ability and work rate.",
-  "fit": "Would offer West Ham a like-for-like replacement for Summerville's pace and attacking intent on the left flank.",
-  "source": "David Ornstein",
-  "summary": "West Ham have been in talks with Tottenham for left-winger Manor Solomon but financing difficulties have stalled the move. West Ham are seeking a replacement after selling Crysencio Summerville to Al-Hilal.",
-  "outlet": "yahoo",
-  "url": "https://uk.sports.yahoo.com/news/west-ham-stall-talks-premier-161341720.html",
-  "title": "West Ham stall in talks for Premier League winger as Italian club target deal"
  },
  {
   "id": "8f8d8d43ac2f57248a4e7088b2dfc222",

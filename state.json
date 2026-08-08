@@ -1027,7 +1027,9 @@
     "6191884173db03a3ebaeccb8b1e7d978",
     "tg:FabrizioRomanoTG/64256",
     "tg:FabrizioRomanoTG/64262",
-    "3fbae3a04b450e9553280d5eccaff815"
+    "3fbae3a04b450e9553280d5eccaff815",
+    "cc7c5b2099ee433a4ef1459756d7b82c",
+    "tg:FabrizioRomanoTG/64263"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1224,7 +1226,8 @@
     "buonanotte -> elche": 2,
     "aguerd -> real sociedad": 1,
     "araujo -> liverpool": 2,
-    "diomande -> nottingham forest": 1
+    "diomande -> nottingham forest": 1,
+    "solomon -> west ham": 1
   },
   "interest": [
     "interest: alvarez -> arsenal",
@@ -1418,8 +1421,6 @@
     "interest: araujo -> liverpool"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f river plate reach verbal agreement with atletico madrid for thiago almada",
-    "salah eclipses osimhen\u2019s turkish lig record, joins onuachu, nwaiwu at trabzonspo",
     "\u270d\ud83c\udffd \ud83c\uddf9\ud83c\uddf7 mo salah has officially signed in as new trabzonspor player until june 202",
     "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 exclusive: maghnes akliouche, just landed in paris to sign in as new paris",
     "\ud83d\udd35 \u26aa\ufe0f \ud83c\udde6\ud83c\uddf7 nicolas valentini will join alaves from fiorentina on a permanent deal, ",
@@ -1717,7 +1718,9 @@
     "alejandro garnacho chooses between chelsea and napoli with",
     "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 barcelona are set to send their new bid for rodri as the player has told m",
     "\ud83d\udea8 \ud83c\udf33 ousmane diomande to nottingham forest, here we go! the defender will travel ",
-    "bayern munich news: the aftermath of bayern munich\u2019s 2 1 win over aston villa; p"
+    "bayern munich news: the aftermath of bayern munich\u2019s 2 1 win over aston villa; p",
+    "shopping for carrick: who are man utd\u2019s best left back options if hall is unatta",
+    "\ud83d\udea8 \u2692\ufe0f excl: manor solomon to west ham, here we go! deal agreed now and medical bo"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1969,7 +1972,6 @@
     "nayef aguerd": "https://r2.thesportsdb.com/images/media/player/cutout/aqw7ba1766151823.png/small",
     "ronald araujo": "https://r2.thesportsdb.com/images/media/player/cutout/ggpnkx1762289497.png/small",
     "giannis konstantelias": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/PAOK_Saloniki_-_konstantelias_2023.jpg/330px-PAOK_Saloniki_-_konstantelias_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "martin": "",
     "axel donczew": "",
     "diego buonanotte": "",
     "gero": "",
@@ -1977,9 +1979,10 @@
     "kerem alajbegovic": "",
     "ousmane diomande": "https://r2.thesportsdb.com/images/media/player/cutout/5y2hc11762291059.png/small",
     "mateo soule": "",
-    "ousmane ndiaye": ""
+    "ousmane ndiaye": "",
+    "martin": ""
   },
-  "photo_repair_idx": 6,
+  "photo_repair_idx": 7,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

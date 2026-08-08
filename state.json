@@ -1071,7 +1071,8 @@
     "d53419ab69cac13bdfb8aa2b8baf3fe4",
     "fea0f170e7f0c124fd028a59b793315c",
     "2325fd8ded0972e4e603396629f1f37d",
-    "0d088dc8c870eb632157adaf26ab7ce1"
+    "0d088dc8c870eb632157adaf26ab7ce1",
+    "884ea1e05a947da0762ec17625e52671"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1464,7 +1465,6 @@
     "interest: casado -> manchester united"
   ],
   "titles": [
-    "real madrid win the vinicius junior battle as arsenal's ambitious transfer hopes",
     "\ud83d\udd35 \u26aa\ufe0f \ud83c\uddec\ud83c\udded caleb yirenkyi has passed his medical at coventry city, joining from fc ",
     "@hawkesafc what should i face? they said here we go for a club statement not so ",
     "breaking: barcelona make move for rodri in bid to beat real madrid to spain capt",
@@ -1763,7 +1763,8 @@
     "liverpool: romano confirms araujo \u2018buy option\u2019 with \u2018medical tomorrow\u2019 as barcol",
     "aston villa transfer breakthrough as player gives 'green light' to deal",
     "romano names liverpool\u2019s purchase option price for barcelona defender",
-    "fabrizio romano confirms: star jets out to complete liverpool move"
+    "fabrizio romano confirms: star jets out to complete liverpool move",
+    "| caughtoffside"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2016,7 +2017,6 @@
     "ronald araujo": "https://r2.thesportsdb.com/images/media/player/cutout/ggpnkx1762289497.png/small",
     "giannis konstantelias": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/PAOK_Saloniki_-_konstantelias_2023.jpg/330px-PAOK_Saloniki_-_konstantelias_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "ousmane diomande": "https://r2.thesportsdb.com/images/media/player/cutout/5y2hc11762291059.png/small",
-    "axel donczew": "",
     "diego buonanotte": "",
     "gero": "",
     "rodri hernandez": "",
@@ -2024,9 +2024,10 @@
     "kerem alajbegovic": "",
     "mateo soule": "",
     "ousmane ndiaye": "",
-    "martin": ""
+    "martin": "",
+    "axel donczew": ""
   },
-  "photo_repair_idx": 7,
+  "photo_repair_idx": 8,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

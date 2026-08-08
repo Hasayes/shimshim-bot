@@ -964,7 +964,9 @@
     "c1a8119c26e1cd386228d0a3b488e679",
     "eca4cf248e67ff9e3a6c051654ece3cd",
     "aed0f5d966cfc6ba9c8ea93ef6187c73",
-    "4124d79524bbb31fa4f9eed2036ddaf8"
+    "4124d79524bbb31fa4f9eed2036ddaf8",
+    "1b887acb94dd907505d415d3c7d621f7",
+    "1f41842fb045e5936d03b79cba4b9e5d"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1351,8 +1353,6 @@
     "interest: konsa -> liverpool"
   ],
   "titles": [
-    "romero worry for inter as atletico madrid can match \u20ac40m tottenham deal",
-    "bradley barcola twist could now prompt liverpool business with tottenham \u2013 fabri",
     "arsenal and newcastle finalize agreement for bruno guimaraes worth millions of d",
     "\ud83d\udea8 \ud83d\udfe2 \u26aa\ufe0f marino pusic has signed in as new al ahli manager to replace matthias jai",
     "man united 'told to pay \u00a360m' as joshua zirkzee swap deal transfer ruled out man",
@@ -1650,7 +1650,9 @@
     "rodri to barcelona: there has been a 'major' development in real madrid linked m",
     "man utd can sign lewis hall on one condition as newcastle transfer stance emerge",
     "man city reject barcelona bid for rodri and close in on midfield signing of thei",
-    "manchester city reject barcelona's opening bid for midfielder rodri: details"
+    "manchester city reject barcelona's opening bid for midfielder rodri: details",
+    "ornstein reveals man city price to sell rodri to barcelona; romano claims succes",
+    "\u201cdirect talks\u201d between man city and barcelona after \u20ac50m bid rejected"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1901,16 +1903,16 @@
     "sergi roberto": "https://r2.thesportsdb.com/images/media/player/cutout/2xmxre1764278454.png/small",
     "nayef aguerd": "https://r2.thesportsdb.com/images/media/player/cutout/aqw7ba1766151823.png/small",
     "ronald araujo": "https://r2.thesportsdb.com/images/media/player/cutout/ggpnkx1762289497.png/small",
-    "kerem alajbegovic": "",
     "mateo soule": "",
     "ousmane ndiaye": "",
     "martin": "",
     "axel donczew": "",
     "diego buonanotte": "",
     "gero": "",
-    "rodri hernandez": ""
+    "rodri hernandez": "",
+    "kerem alajbegovic": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

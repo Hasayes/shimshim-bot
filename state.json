@@ -1005,7 +1005,10 @@
     "tg:FabrizioRomanoTG/64236",
     "tg:FabrizioRomanoTG/64237",
     "tg:FabrizioRomanoTG/64240",
-    "tg:FabrizioRomanoTG/64241"
+    "tg:FabrizioRomanoTG/64241",
+    "c2715942bd71aaf6ebea952273825b0a",
+    "fdd6b9fe3146d6e82d29788d60400eb5",
+    "d4d5fef58abdc026d5e18abbe1faa288"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1394,9 +1397,6 @@
     "interest: adams -> manchester united"
   ],
   "titles": [
-    "vinicius jr faces decision after real madrid\u2019s improved contract offer",
-    "vinicius junior closes in on lucrative real madrid contract extension to end ars",
-    "man united run into lewis hall transfer issue despite 'having \u00a360m fee ready'",
     "real madrid reportedly make final salary offer for vinicius junior below kylian ",
     "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f middlesbrough agree deal to sign ashley phillips as new defender from tot",
     "rt @themadridzone : \ud83d\udea8 \ud83d\udca3 @fabrizioromano : \"man city believe that barcelona could",
@@ -1693,7 +1693,10 @@
     "\ud83d\udea8 \ud83d\udc4b\ud83c\udffc official: roony bardghji does not travel with barca squad for pre season ga",
     "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 marc casado, set to leave barcelona in the upcoming days with offers being",
     "\ud83d\udd34 \ud83d\udd35 \ud83c\uddef\ud83c\uddf5 plan confirmed: paris saint germain improve their bid to parma for zion s",
-    "\ud83d\udea8 \ud83d\udfe3 \ud83d\udd35 aston villa and atletico madrid have agreed on \u20ac20m deal for matteo rugger"
+    "\ud83d\udea8 \ud83d\udfe3 \ud83d\udd35 aston villa and atletico madrid have agreed on \u20ac20m deal for matteo rugger",
+    "sky sports insiders drop big barcola update as next liverpool signing revealed",
+    "liverpool signs fc barcelona defender ronald araujo in shock transfer",
+    "enzo fernandez remains manchester city\u2019s dream target to replace rodri despite c"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1945,16 +1948,16 @@
     "nayef aguerd": "https://r2.thesportsdb.com/images/media/player/cutout/aqw7ba1766151823.png/small",
     "ronald araujo": "https://r2.thesportsdb.com/images/media/player/cutout/ggpnkx1762289497.png/small",
     "giannis konstantelias": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/PAOK_Saloniki_-_konstantelias_2023.jpg/330px-PAOK_Saloniki_-_konstantelias_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "rodri hernandez": "",
     "kerem alajbegovic": "",
     "mateo soule": "",
     "ousmane ndiaye": "",
     "martin": "",
     "axel donczew": "",
     "diego buonanotte": "",
-    "gero": ""
+    "gero": "",
+    "rodri hernandez": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

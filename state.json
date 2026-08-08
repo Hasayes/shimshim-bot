@@ -1034,7 +1034,9 @@
     "tg:FabrizioRomanoTG/64267",
     "tg:FabrizioRomanoTG/64268",
     "0496d542782dcc5d4f27dc6a1d0edcb5",
-    "30e53eeaf7bf67473938d87683900e11"
+    "30e53eeaf7bf67473938d87683900e11",
+    "1b4c14b5dbc5ff9f16b51bab5434f1d7",
+    "3f9bd12633486eb1184d865261dd2e38"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1426,8 +1428,6 @@
     "interest: araujo -> liverpool"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc73\udb40\udc63\udb40\udc74\udb40\udc7f excl: scotland striker lyndon dykes has agreed to join millwall among ",
-    "\ud83d\udea8 \ud83d\udfe1 \ud83d\udd34 lorenzo pellegrini has agreed to sign new one year deal at as roma until j",
     "\ud83d\udea8 \ud83c\udf52 exclusive story, confirmed: juanlu joins bournemouth from sevilla \ud83c\uddea\ud83c\uddf8 https:/",
     "\ud83d\udea8 \u26aa\ufe0f official: yan diomande joins real madrid from rb leipzig, deal confirmed \ud83d\udca5 ",
     "\ud83d\udcfa new youtube video uploaded! \ud83c\udfac \ud83d\udea8 \ud83d\udca3 bombazo rodri! hijack! green light! vini jun",
@@ -1725,7 +1725,9 @@
     "rt @fabrizioromano : \ud83d\udea8 \u2692\ufe0f excl: manor solomon to west ham, here we go! deal agre",
     "\ud83d\udea8 \ud83d\udfe1 \ud83d\udd35 romelu lukaku has given his green light to fenerbahce project and move aft",
     "newcastle respond to man utd \u2018enquiry\u2019 about signing lewis hall teamtalk com",
-    "fabrizio romano says \u201cnew\u201d \u20ac40m bid coming soon as club aim to \u201cavoid any hijack"
+    "fabrizio romano says \u201cnew\u201d \u20ac40m bid coming soon as club aim to \u201cavoid any hijack",
+    "manchester city sign world cup winner gero rulli in major squad boost",
+    "ronald araujo to liverpool loan is \u201call done\u201d and includes buy option, says fabr"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1977,7 +1979,6 @@
     "nayef aguerd": "https://r2.thesportsdb.com/images/media/player/cutout/aqw7ba1766151823.png/small",
     "ronald araujo": "https://r2.thesportsdb.com/images/media/player/cutout/ggpnkx1762289497.png/small",
     "giannis konstantelias": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/PAOK_Saloniki_-_konstantelias_2023.jpg/330px-PAOK_Saloniki_-_konstantelias_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "kerem alajbegovic": "",
     "ousmane diomande": "https://r2.thesportsdb.com/images/media/player/cutout/5y2hc11762291059.png/small",
     "mateo soule": "",
     "ousmane ndiaye": "",
@@ -1985,9 +1986,10 @@
     "axel donczew": "",
     "diego buonanotte": "",
     "gero": "",
-    "rodri hernandez": ""
+    "rodri hernandez": "",
+    "kerem alajbegovic": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

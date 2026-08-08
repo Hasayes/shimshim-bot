@@ -1045,7 +1045,9 @@
     "cdff685dd88e3b30abfd6bf990b2d85b",
     "a4bd63a406fa205940493e0c0a18044d",
     "63ffcb31c3a5887c786b321d94ab3112",
-    "4b30c6dadb0fd7392102b6dabd445419"
+    "4b30c6dadb0fd7392102b6dabd445419",
+    "50703454526fee0942daf49d7356c3fb",
+    "tg:FabrizioRomanoTG/64273"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1437,8 +1439,6 @@
     "interest: araujo -> liverpool"
   ],
   "titles": [
-    "\ud83d\udd34 \ud83d\udd35 official: maghnes akliouche signs in as new paris saint germain player on \u20ac5",
-    "\ud83d\udea8 official: manchester united confirm deal agreed for 17 year old midfielder cri",
     "\ud83d\udea8 official: manchester united confirm deal agreed for 18 year old midfielder cri",
     "from spain: manchester united considering stunning \u20ac150m double transfer",
     "guimaeraes completes medical at arsenal ahead \u00a375m move",
@@ -1736,7 +1736,9 @@
     "hint over bruno guimaraes shirt number as another arsenal player\u2019s shirt number ",
     "\ud83d\udcfa new youtube video uploaded! \ud83c\udfac \ud83d\udea8 \ud83d\udca3 united decision! romero: barca arsenal truth",
     "liverpool agree shock loan deal for barcelona defender ronald araujo to relieve ",
-    "romano reveals man utd decision on signing baleba as newcastle respond to hall \u2018"
+    "romano reveals man utd decision on signing baleba as newcastle respond to hall \u2018",
+    "transfer news live: arsenal 'sign' alvarez, guimaraes confirmed, shock liverpool",
+    "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 paris saint germain have officially informed barcelona about personal term"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1989,16 +1991,16 @@
     "ronald araujo": "https://r2.thesportsdb.com/images/media/player/cutout/ggpnkx1762289497.png/small",
     "giannis konstantelias": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/PAOK_Saloniki_-_konstantelias_2023.jpg/330px-PAOK_Saloniki_-_konstantelias_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "ousmane diomande": "https://r2.thesportsdb.com/images/media/player/cutout/5y2hc11762291059.png/small",
-    "rodri hernandez": "",
     "kerem alajbegovic": "",
     "mateo soule": "",
     "ousmane ndiaye": "",
     "martin": "",
     "axel donczew": "",
     "diego buonanotte": "",
-    "gero": ""
+    "gero": "",
+    "rodri hernandez": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

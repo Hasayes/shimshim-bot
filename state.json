@@ -992,7 +992,9 @@
     "99a4f2ad94523069b3d9c8f27fc07eed",
     "7f7ea25e95a7f92e80081b6c9f45ef54",
     "37ced5b668718f7f3b85f5b238a6e605",
-    "82c03c152859652aded1cbd1996d71c1"
+    "82c03c152859652aded1cbd1996d71c1",
+    "d3819648c67aa90c953df760d72b203c",
+    "97053aa825a11f71893606712864884f"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1380,8 +1382,6 @@
     "interest: konstantelias -> borussia dortmund"
   ],
   "titles": [
-    "done deal: atalanta send touree to parma, loan with option at \u20ac11 5m",
-    "done deal: atalanta send toure to parma, loan with option at \u20ac11 5m",
     "\ud83e\udd14 a trend is emerging! reports: how real's talks with vini jr went",
     "real madrid make vinicius jr improved contract offer bbc",
     "tottenham back in \u2018direct talks\u2019 with 27yo liverpool star over move, deal depend",
@@ -1679,7 +1679,9 @@
     "man city make rodri decision after \u2018derisory\u2019 offer from barcelona",
     "arsenal to re enter barcola race, man utd eye spanish left back euro transfer ne",
     "tottenham star djed spence wants to join liverpool alongside barcola",
-    "arsenal weigh up move for \u00a377m winger after vinicius blow"
+    "arsenal weigh up move for \u00a377m winger after vinicius blow",
+    "paris saint germain begins negotiations for mika godts, ajax promise",
+    "manchester city board bars barcelona\u2019s first move for rodri"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1930,7 +1932,6 @@
     "sergi roberto": "https://r2.thesportsdb.com/images/media/player/cutout/2xmxre1764278454.png/small",
     "nayef aguerd": "https://r2.thesportsdb.com/images/media/player/cutout/aqw7ba1766151823.png/small",
     "ronald araujo": "https://r2.thesportsdb.com/images/media/player/cutout/ggpnkx1762289497.png/small",
-    "rodri hernandez": "",
     "kerem alajbegovic": "",
     "mateo soule": "",
     "giannis konstantelias": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/PAOK_Saloniki_-_konstantelias_2023.jpg/330px-PAOK_Saloniki_-_konstantelias_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -1938,9 +1939,10 @@
     "martin": "",
     "axel donczew": "",
     "diego buonanotte": "",
-    "gero": ""
+    "gero": "",
+    "rodri hernandez": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

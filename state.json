@@ -990,7 +990,9 @@
     "9cbe6790fa7faad16637c39a6a9d20fd",
     "51d21d8f41f917f7edc86392db0d99aa",
     "99a4f2ad94523069b3d9c8f27fc07eed",
-    "7f7ea25e95a7f92e80081b6c9f45ef54"
+    "7f7ea25e95a7f92e80081b6c9f45ef54",
+    "37ced5b668718f7f3b85f5b238a6e605",
+    "82c03c152859652aded1cbd1996d71c1"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1378,8 +1380,6 @@
     "interest: konstantelias -> borussia dortmund"
   ],
   "titles": [
-    "barca to 'battle' real in race for rodri",
-    "club \u2018confident of reaching an agreement very soon\u2019 as advanced negotiations con",
     "done deal: atalanta send touree to parma, loan with option at \u20ac11 5m",
     "done deal: atalanta send toure to parma, loan with option at \u20ac11 5m",
     "\ud83e\udd14 a trend is emerging! reports: how real's talks with vini jr went",
@@ -1677,7 +1677,9 @@
     "borussia dortmund revive bundesliga interest in giannis konstantelias",
     "serie a giants target arsenal striker as gunners insist on permanent sale",
     "man city make rodri decision after \u2018derisory\u2019 offer from barcelona",
-    "arsenal to re enter barcola race, man utd eye spanish left back euro transfer ne"
+    "arsenal to re enter barcola race, man utd eye spanish left back euro transfer ne",
+    "tottenham star djed spence wants to join liverpool alongside barcola",
+    "arsenal weigh up move for \u00a377m winger after vinicius blow"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1928,7 +1930,6 @@
     "sergi roberto": "https://r2.thesportsdb.com/images/media/player/cutout/2xmxre1764278454.png/small",
     "nayef aguerd": "https://r2.thesportsdb.com/images/media/player/cutout/aqw7ba1766151823.png/small",
     "ronald araujo": "https://r2.thesportsdb.com/images/media/player/cutout/ggpnkx1762289497.png/small",
-    "gero": "",
     "rodri hernandez": "",
     "kerem alajbegovic": "",
     "mateo soule": "",
@@ -1936,9 +1937,10 @@
     "ousmane ndiaye": "",
     "martin": "",
     "axel donczew": "",
-    "diego buonanotte": ""
+    "diego buonanotte": "",
+    "gero": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

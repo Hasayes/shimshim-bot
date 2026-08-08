@@ -1019,7 +1019,10 @@
     "283b32557c309fe5e0f5ab4e90703fa9",
     "99e97e15ad8f989dbcf9f5b1d65fd4b4",
     "tg:FabrizioRomanoTG/64248",
-    "tg:FabrizioRomanoTG/64251"
+    "tg:FabrizioRomanoTG/64251",
+    "98965104f8c0548eef500fa05128a1a7",
+    "f875826e4e3e51b299c97b23531898f0",
+    "tg:FabrizioRomanoTG/64253"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1409,8 +1412,6 @@
     "interest: araujo -> liverpool"
   ],
   "titles": [
-    "vinicius jr deletes all instagram posts and profile picture amid arsenal interes",
-    "rb leipzig set to acquire hoffenheim striker fisnik asllani",
     "\ud83d\udea8 \ud83d\udfe1 \ud83d\udd35 leeds united have completed formal steps of their club record deal for jam",
     "real madrid loan out franco mastantuono and hold positive talks with vinicius ju",
     "arsenal transfer news: how mikel arteta could line up with bruno guimaraes after",
@@ -1708,7 +1709,9 @@
     "liverpool's newest addition made brave admission amid ongoing mental health batt",
     "arsenal star could leave before deadline after new agent holds talks with serie ",
     "\ud83d\udd34 \u26aa\ufe0f \ud83c\udde7\ud83c\uddf7 official: bruno guimaraes joins arsenal from newcastle for \u00a375m fee cont",
-    "\u2764\ufe0f \ud83e\udd0d mikel arteta has been pushing for long time with a clear top target for ars"
+    "\u2764\ufe0f \ud83e\udd0d mikel arteta has been pushing for long time with a clear top target for ars",
+    "transfer shocker! rb leipzig deal for fisnik asllani falls through due to medica",
+    "\u2764\ufe0f \ud83e\udd0d \ud83c\udfc6 bruno guimaraes: \u201ci want to win trophies, i want to make history and i th"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1960,16 +1963,16 @@
     "nayef aguerd": "https://r2.thesportsdb.com/images/media/player/cutout/aqw7ba1766151823.png/small",
     "ronald araujo": "https://r2.thesportsdb.com/images/media/player/cutout/ggpnkx1762289497.png/small",
     "giannis konstantelias": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/PAOK_Saloniki_-_konstantelias_2023.jpg/330px-PAOK_Saloniki_-_konstantelias_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "diego buonanotte": "",
     "gero": "",
     "rodri hernandez": "",
     "kerem alajbegovic": "",
     "mateo soule": "",
     "ousmane ndiaye": "",
     "martin": "",
-    "axel donczew": ""
+    "axel donczew": "",
+    "diego buonanotte": ""
   },
-  "photo_repair_idx": 8,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

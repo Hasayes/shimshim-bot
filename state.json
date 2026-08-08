@@ -997,7 +997,8 @@
     "97053aa825a11f71893606712864884f",
     "777672ba0834943458c24d954f78cb4e",
     "tg:FabrizioRomanoTG/64233",
-    "0c91e708fc4b71639464ecb620be49ae"
+    "0c91e708fc4b71639464ecb620be49ae",
+    "tg:FabrizioRomanoTG/64234"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1193,7 +1194,7 @@
     "rulli -> manchester city": 1,
     "buonanotte -> elche": 2,
     "aguerd -> real sociedad": 1,
-    "araujo -> liverpool": 1
+    "araujo -> liverpool": 2
   },
   "interest": [
     "interest: alvarez -> arsenal",
@@ -1386,7 +1387,6 @@
     "interest: adams -> manchester united"
   ],
   "titles": [
-    "man utd told to offer \u00a360m to sign juventus star as ornstein reveals ineos\u2019 two ",
     "vinicius junior to arsenal: fabrizio romano issues 'key update' as influential f",
     "enzo maresca could be eying a potential chelsea reunion at the etihad",
     "just in: madrid close to new contract for vinicius jr \u2013 reports",
@@ -1685,7 +1685,8 @@
     "manchester city board bars barcelona\u2019s first move for rodri",
     "man city transfer news: james trafford replacement's 'medical' scheduled as deta",
     "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 barcelona are very confident to get rodri deal done no panic after first b",
-    "man utd eye 'very reasonable deal' for midfield 'leader' as tchouameni hopes fad"
+    "man utd eye 'very reasonable deal' for midfield 'leader' as tchouameni hopes fad",
+    "\ud83d\udea8 \ud83d\udd34 liverpool and barcelona signed all documents for ronald araujo loan deal the"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -1937,16 +1938,16 @@
     "nayef aguerd": "https://r2.thesportsdb.com/images/media/player/cutout/aqw7ba1766151823.png/small",
     "ronald araujo": "https://r2.thesportsdb.com/images/media/player/cutout/ggpnkx1762289497.png/small",
     "giannis konstantelias": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/PAOK_Saloniki_-_konstantelias_2023.jpg/330px-PAOK_Saloniki_-_konstantelias_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "ousmane ndiaye": "",
     "martin": "",
     "axel donczew": "",
     "diego buonanotte": "",
     "gero": "",
     "rodri hernandez": "",
     "kerem alajbegovic": "",
-    "mateo soule": ""
+    "mateo soule": "",
+    "ousmane ndiaye": ""
   },
-  "photo_repair_idx": 5,
+  "photo_repair_idx": 6,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

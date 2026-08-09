@@ -1138,7 +1138,10 @@
     "tg:FabrizioRomanoTG/64329",
     "ab050418af8b230ff6bfaf9711e9eeda",
     "07577454e51e184d7a5c97aca80c09ed",
-    "0622dffcbe9d1de669cf57d2cc03ccc1"
+    "0622dffcbe9d1de669cf57d2cc03ccc1",
+    "eb172ebdf11820b4f5858ed0bacdacf7",
+    "57601a3db800079234eb7202457905ef",
+    "tg:FabrizioRomanoTG/64333"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1532,9 +1535,6 @@
     "interest: casado -> manchester united"
   ],
   "titles": [
-    "man utd: jacobs names three \u2018most viable\u2019 targets to be third midfield signing \u2013",
-    "how chris smalling took inspiration from ryan giggs to prolong his career",
-    "rodri\u2019s next move could see him join lamine yamal instead of kylian mbappe as re",
     "just in: barcelona reach agreement over economic terms with rodri",
     "carlos baleba gets nightmare update that could settle man united transfer situat",
     "man utd suffer double blow in search for third midfield signing amid ornstein bo",
@@ -1831,7 +1831,10 @@
     "\ud83c\udf33 \ud83d\udee9\ufe0f ousmane diomande has just landed in england to undergo medical tests on mon",
     "transfer news live: arsenal hijack barcola bid; alvarez 'signs'; liverpool medic",
     "hansi flick decision all but confirms ronald araujo move to liverpool as medical",
-    "transfer: \u2018i don\u2019t want to get involved\u2019 \u2013 barca star, fermin lopez on rodri\u2019s m"
+    "transfer: \u2018i don\u2019t want to get involved\u2019 \u2013 barca star, fermin lopez on rodri\u2019s m",
+    "real madrid \u2018will face two main obstacles\u2019 to sign \u20ac90m arsenal star",
+    "the \u00a3690million xl that man utd could have signed for just \u00a3114million: caicedo,",
+    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f southampton have reached verbal agreement to sign divin mubama from man c"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2088,14 +2091,14 @@
     "facundo buonanotte": "https://r2.thesportsdb.com/images/media/player/cutout/ct1hg91772132428.png/small",
     "zachary athekame": "https://r2.thesportsdb.com/images/media/player/cutout/invusy1758893640.png/small",
     "gero": "",
-    "kerem alajbegovic": "",
     "mateo soule": "",
     "ousmane ndiaye": "",
     "martin": "",
     "axel donczew": "",
-    "rodri hernandez": ""
+    "rodri hernandez": "",
+    "kerem alajbegovic": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

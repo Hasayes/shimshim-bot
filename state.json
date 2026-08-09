@@ -1129,7 +1129,8 @@
     "tg:FabrizioRomanoTG/64320",
     "tg:FabrizioRomanoTG/64321",
     "tg:FabrizioRomanoTG/64322",
-    "tg:FabrizioRomanoTG/64323"
+    "tg:FabrizioRomanoTG/64323",
+    "tg:FabrizioRomanoTG/64324"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1327,7 +1328,8 @@
     "aguerd -> real sociedad": 1,
     "araujo -> liverpool": 2,
     "diomande -> nottingham forest": 1,
-    "solomon -> west ham": 1
+    "solomon -> west ham": 1,
+    "athekame -> olympique lyon": 1
   },
   "interest": [
     "interest: alvarez -> arsenal",
@@ -1522,7 +1524,6 @@
     "interest: casado -> manchester united"
   ],
   "titles": [
-    "man utd to give up on lewis hall? carrick considers bid for fulham's antonee rob",
     "just in: another man utd target fades as ornstein reveals \u2018fantastic\u2019 epl star s",
     "\ud83d\udd34 \u26aa\ufe0f \ud83c\udde7\ud83c\uddf7 bruno guimaraes has also signed his contract as new arsenal player \ud83d\udd10 med",
     "barcelona launch late bid to snatch rodri from real madrid",
@@ -1821,7 +1822,8 @@
     "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 mika godts: \u201ci\u2019m happy to be playing for ajax yes, talks with psg are ongo",
     "\ud83d\udd34 \ud83d\udd35 lucas digne, being officially announced shortly as new paris saint germain p",
     "\ud83d\udd35 \u26aa\ufe0f official, exclusive story confirmed como sign trevoh chalobah as new centre",
-    "\ud83d\udd34 \ud83d\udd35 \ud83c\uddeb\ud83c\uddf7 official, confirmed lucas digne joins psg from aston villa for \u20ac7m fee mo"
+    "\ud83d\udd34 \ud83d\udd35 \ud83c\uddeb\ud83c\uddf7 official, confirmed lucas digne joins psg from aston villa for \u20ac7m fee mo",
+    "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 olympique lyon reach verbal agreement on loan deal to sign zachary athekam"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2076,15 +2078,16 @@
     "ousmane diomande": "https://r2.thesportsdb.com/images/media/player/cutout/5y2hc11762291059.png/small",
     "marc casado": "https://r2.thesportsdb.com/images/media/player/cutout/ocpyt41768321624.png/small",
     "axel donczew": "",
-    "gero": "",
     "rodri hernandez": "",
     "kerem alajbegovic": "",
     "mateo soule": "",
     "ousmane ndiaye": "",
     "martin": "",
-    "facundo buonanotte": "https://r2.thesportsdb.com/images/media/player/cutout/ct1hg91772132428.png/small"
+    "facundo buonanotte": "https://r2.thesportsdb.com/images/media/player/cutout/ct1hg91772132428.png/small",
+    "zachary athekame": "https://r2.thesportsdb.com/images/media/player/cutout/invusy1758893640.png/small",
+    "gero": ""
   },
-  "photo_repair_idx": 7,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

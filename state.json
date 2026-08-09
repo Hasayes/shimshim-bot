@@ -1136,7 +1136,8 @@
     "tg:FabrizioRomanoTG/64328",
     "7b5489fff67e59496f21e561e8b9247a",
     "tg:FabrizioRomanoTG/64329",
-    "ab050418af8b230ff6bfaf9711e9eeda"
+    "ab050418af8b230ff6bfaf9711e9eeda",
+    "07577454e51e184d7a5c97aca80c09ed"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1530,7 +1531,6 @@
     "interest: casado -> manchester united"
   ],
   "titles": [
-    "bradley barcola to liverpool given triple boost with hijack off the table and ps",
     "yan diomande officially signs for real madrid",
     "man utd: jacobs names three \u2018most viable\u2019 targets to be third midfield signing \u2013",
     "how chris smalling took inspiration from ryan giggs to prolong his career",
@@ -1829,7 +1829,8 @@
     "\ud83d\udea8 \ud83d\udfe1 \ud83d\udd34 as roma have submitted \u20ac25m official bid to fc porto for rodrigo mora port",
     "barcelona defender set to complete his medical at liverpool today ahead of surpr",
     "\ud83c\udf33 \ud83d\udee9\ufe0f ousmane diomande has just landed in england to undergo medical tests on mon",
-    "transfer news live: arsenal hijack barcola bid; alvarez 'signs'; liverpool medic"
+    "transfer news live: arsenal hijack barcola bid; alvarez 'signs'; liverpool medic",
+    "hansi flick decision all but confirms ronald araujo move to liverpool as medical"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2083,7 +2084,6 @@
     "giannis konstantelias": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/PAOK_Saloniki_-_konstantelias_2023.jpg/330px-PAOK_Saloniki_-_konstantelias_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "ousmane diomande": "https://r2.thesportsdb.com/images/media/player/cutout/5y2hc11762291059.png/small",
     "marc casado": "https://r2.thesportsdb.com/images/media/player/cutout/ocpyt41768321624.png/small",
-    "axel donczew": "",
     "facundo buonanotte": "https://r2.thesportsdb.com/images/media/player/cutout/ct1hg91772132428.png/small",
     "zachary athekame": "https://r2.thesportsdb.com/images/media/player/cutout/invusy1758893640.png/small",
     "gero": "",
@@ -2091,9 +2091,10 @@
     "kerem alajbegovic": "",
     "mateo soule": "",
     "ousmane ndiaye": "",
-    "martin": ""
+    "martin": "",
+    "axel donczew": ""
   },
-  "photo_repair_idx": 6,
+  "photo_repair_idx": 7,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

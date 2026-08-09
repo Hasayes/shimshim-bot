@@ -17,10 +17,13 @@ import urllib.request
 import anthropic
 from pydantic import BaseModel
 
-from shimshim_bot import CLAUDE_MODEL, FEED_FILE, send_plain_telegram
+from shimshim_bot import CLAUDE_MODEL, CLASSIFY_MODEL, FEED_FILE, send_plain_telegram
 
 AUDIT_DAYS = int(os.environ.get("AUDIT_DAYS", "7"))
 MAX_CARDS = int(os.environ.get("AUDIT_MAX_CARDS", "25"))
+# Photo eyeballing + structured verdicts are extraction tasks — Haiku is enough.
+# Live web-search research stays on Sonnet (CLAUDE_MODEL).
+AUDIT_PARSE_MODEL = os.environ.get("AUDIT_PARSE_MODEL", CLASSIFY_MODEL)
 
 
 class PhotoVerdict(BaseModel):
@@ -90,7 +93,7 @@ def visual_photo_check(client, cards):
         "team kits, training wear. Unremarkable or ambiguous photos are plausible — only flag clear "
         "mismatches.")})
     resp = client.messages.parse(
-        model=CLAUDE_MODEL,
+        model=AUDIT_PARSE_MODEL,
         max_tokens=2048,
         messages=[{"role": "user", "content": content}],
         output_format=PhotoAudit,
@@ -181,7 +184,7 @@ def main():
     notes = "\n".join(b.text for b in research.content if b.type == "text")
 
     resp = client.messages.parse(
-        model=CLAUDE_MODEL,
+        model=AUDIT_PARSE_MODEL,
         max_tokens=4096,
         system=(
             "Convert the audit findings into verdicts for each numbered card. "

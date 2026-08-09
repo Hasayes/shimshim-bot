@@ -1090,7 +1090,9 @@
     "200d006bf31368b4ba48016f0dfb2375",
     "c383d4a0d8a19af038d3148d13c447b5",
     "93b40a7a3a3437fe313e6862172f3ec0",
-    "b28496967d5584df4a49bed62e82e822"
+    "b28496967d5584df4a49bed62e82e822",
+    "a05c73d2c171379d385c8ec30a3ffabb",
+    "ba3f9c7b0c4c609eb8d3bce88ee03257"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1483,8 +1485,6 @@
     "interest: casado -> manchester united"
   ],
   "titles": [
-    "man city make \u201cdirect contact\u201d with chelsea over first choice attacker",
-    "fabrizio romano names chelsea\u2019s fixed fee for defender transfer at last",
     "psg the latest super club to target \u00a375m chelsea defender who has been made avai",
     "lille line up real madrid midfielder as replacement for man city bound ayyoub bo",
     "decision time approaching for arsenal target as gunners prepare to make approach",
@@ -1782,7 +1782,9 @@
     "\u201cagreed all terms\u201d \u2013 fabrizio romano drops saturday afternoon bombshell for live",
     "lionel messi's father and 'pillar of support' jorge passes away at 68 after batt",
     "spurs may have leaked arsenal links to defender to ease sale to atletico madrid",
-    "rodri communicates his desire to play for barcelona and the club prepares a new "
+    "rodri communicates his desire to play for barcelona and the club prepares a new ",
+    "roma send first offer for endrick",
+    "liverpool transfer now looks all but dead in the water after ronald araujo clari"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2036,16 +2038,16 @@
     "giannis konstantelias": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/PAOK_Saloniki_-_konstantelias_2023.jpg/330px-PAOK_Saloniki_-_konstantelias_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "ousmane diomande": "https://r2.thesportsdb.com/images/media/player/cutout/5y2hc11762291059.png/small",
     "marc casado": "https://r2.thesportsdb.com/images/media/player/cutout/ocpyt41768321624.png/small",
-    "mateo soule": "",
     "ousmane ndiaye": "",
     "martin": "",
     "axel donczew": "",
     "diego buonanotte": "",
     "gero": "",
     "rodri hernandez": "",
-    "kerem alajbegovic": ""
+    "kerem alajbegovic": "",
+    "mateo soule": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 5,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

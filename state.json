@@ -1075,7 +1075,10 @@
     "884ea1e05a947da0762ec17625e52671",
     "8a943e9ae918e0034a0055555984eea1",
     "6756c228f90993d648059c11dcbeffb8",
-    "tg:FabrizioRomanoTG/64280"
+    "tg:FabrizioRomanoTG/64280",
+    "5871017566e2f335a3078eb56ecddf00",
+    "5c6832a514172ffd3f614dbc45a73b3e",
+    "9726aa39f01df0377afb4c745b3c67a6"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1468,9 +1471,6 @@
     "interest: casado -> manchester united"
   ],
   "titles": [
-    "arsenal set to announce bruno guimaraes deal after medical as contract details r",
-    "rt @fabrizioromano : \ud83d\udea8 \ud83d\udd34 \ud83d\udd35 paris saint germain and ajax remain in club to club t",
-    "man utd will turn to cheaper lewis hall alternative if ineos fail with \u00a360m offe",
     "man utd turn to 'a lot cheaper' signing after ornstein reveals huge lewis hall u",
     "barcelona lead real madrid in rodri race after contacts with player\u2019s camp and m",
     "\u26ab\ufe0f \ud83d\udd35 \ud83c\udded\ud83c\uddf7 excl: atalanta agree deal to sign croatian centre back bartol levacic fo",
@@ -1767,7 +1767,10 @@
     "| caughtoffside",
     "official: arsenal complete deal to sign \u00a375m bruno guimaraes from newcastle",
     "napoli enter direct talks to sell romelu lukaku to club",
-    "\ud83d\udd35 \ud83d\udd34 \ud83d\udcad joao cancelo shares a barcelona picture on instagram, while he\u2019s back to t"
+    "\ud83d\udd35 \ud83d\udd34 \ud83d\udcad joao cancelo shares a barcelona picture on instagram, while he\u2019s back to t",
+    "transfer news and rumours today: fulham eyeing spectacular move for real madrid ",
+    "liverpool set ronald araujo buy clause as medical scheduled",
+    "arsenal could cost liverpool millions after making winger approach"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2020,7 +2023,6 @@
     "ronald araujo": "https://r2.thesportsdb.com/images/media/player/cutout/ggpnkx1762289497.png/small",
     "giannis konstantelias": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/PAOK_Saloniki_-_konstantelias_2023.jpg/330px-PAOK_Saloniki_-_konstantelias_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "ousmane diomande": "https://r2.thesportsdb.com/images/media/player/cutout/5y2hc11762291059.png/small",
-    "rodri hernandez": "",
     "marc casado": "https://r2.thesportsdb.com/images/media/player/cutout/ocpyt41768321624.png/small",
     "kerem alajbegovic": "",
     "mateo soule": "",
@@ -2028,9 +2030,10 @@
     "martin": "",
     "axel donczew": "",
     "diego buonanotte": "",
-    "gero": ""
+    "gero": "",
+    "rodri hernandez": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

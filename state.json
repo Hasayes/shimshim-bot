@@ -1099,7 +1099,9 @@
     "d143c64190764afe848f7a15608340a2",
     "87e658299e0d4c9360e7d16a9f441875",
     "fdb95d3a80ca5793b0858cb8f9d79f1f",
-    "2738011be075a6f360cf7aa95229d928"
+    "2738011be075a6f360cf7aa95229d928",
+    "fb703c1c96a23e68751ee5ee55f3b8c0",
+    "39b267d31ec8a6020555abfe18eaac19"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1492,8 +1494,6 @@
     "interest: casado -> manchester united"
   ],
   "titles": [
-    "arsenal target electric \u00a377m winger after vinicius, barcola reject arteta",
-    "transfer: barcelona set to hijack real madrid\u2019s move for rodri",
     "yan diomande already travelling to spain as real madrid official announcement im",
     "barcelona\u2019s pursuit of rodri could sabotage man utd\u2019s dream aurelien tchouameni ",
     "man utd\u2019s aurelien tchouameni pursuit takes yet another twist after thursday mor",
@@ -1791,7 +1791,9 @@
     "flick wants barcelona defensive prodigy to stay amid offers from spain, england",
     "romano: man utd's 'total leader' midfield target casado 'set to leave'",
     "chelsea working on triple summer exit as fabrizio romano rules out \u00a351m transfer",
-    "atletico madrid prepare new official bid for tottenham star amidst previous link"
+    "atletico madrid prepare new official bid for tottenham star amidst previous link",
+    "ferran torres chooses psg as barcelona face tough transfer decision",
+    "incredible: liverpool make nine figure offer for second choice star"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2045,16 +2047,16 @@
     "giannis konstantelias": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/PAOK_Saloniki_-_konstantelias_2023.jpg/330px-PAOK_Saloniki_-_konstantelias_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "ousmane diomande": "https://r2.thesportsdb.com/images/media/player/cutout/5y2hc11762291059.png/small",
     "marc casado": "https://r2.thesportsdb.com/images/media/player/cutout/ocpyt41768321624.png/small",
-    "rodri hernandez": "",
     "kerem alajbegovic": "",
     "mateo soule": "",
     "ousmane ndiaye": "",
     "martin": "",
     "axel donczew": "",
     "diego buonanotte": "",
-    "gero": ""
+    "gero": "",
+    "rodri hernandez": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

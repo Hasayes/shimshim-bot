@@ -1135,7 +1135,8 @@
     "tg:FabrizioRomanoTG/64327",
     "tg:FabrizioRomanoTG/64328",
     "7b5489fff67e59496f21e561e8b9247a",
-    "tg:FabrizioRomanoTG/64329"
+    "tg:FabrizioRomanoTG/64329",
+    "ab050418af8b230ff6bfaf9711e9eeda"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1529,7 +1530,6 @@
     "interest: casado -> manchester united"
   ],
   "titles": [
-    "man city star rodri reaches decision on joining barcelona as he gives green ligh",
     "bradley barcola to liverpool given triple boost with hijack off the table and ps",
     "yan diomande officially signs for real madrid",
     "man utd: jacobs names three \u2018most viable\u2019 targets to be third midfield signing \u2013",
@@ -1828,7 +1828,8 @@
     "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 understand paris saint germain are closing in on the agreement for zion su",
     "\ud83d\udea8 \ud83d\udfe1 \ud83d\udd34 as roma have submitted \u20ac25m official bid to fc porto for rodrigo mora port",
     "barcelona defender set to complete his medical at liverpool today ahead of surpr",
-    "\ud83c\udf33 \ud83d\udee9\ufe0f ousmane diomande has just landed in england to undergo medical tests on mon"
+    "\ud83c\udf33 \ud83d\udee9\ufe0f ousmane diomande has just landed in england to undergo medical tests on mon",
+    "transfer news live: arsenal hijack barcola bid; alvarez 'signs'; liverpool medic"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2083,16 +2084,16 @@
     "ousmane diomande": "https://r2.thesportsdb.com/images/media/player/cutout/5y2hc11762291059.png/small",
     "marc casado": "https://r2.thesportsdb.com/images/media/player/cutout/ocpyt41768321624.png/small",
     "axel donczew": "",
-    "martin": "",
     "facundo buonanotte": "https://r2.thesportsdb.com/images/media/player/cutout/ct1hg91772132428.png/small",
     "zachary athekame": "https://r2.thesportsdb.com/images/media/player/cutout/invusy1758893640.png/small",
     "gero": "",
     "rodri hernandez": "",
     "kerem alajbegovic": "",
     "mateo soule": "",
-    "ousmane ndiaye": ""
+    "ousmane ndiaye": "",
+    "martin": ""
   },
-  "photo_repair_idx": 5,
+  "photo_repair_idx": 6,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

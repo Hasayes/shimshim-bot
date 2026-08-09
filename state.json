@@ -1087,7 +1087,10 @@
     "18ab7c6afd250434af0d42384c2a3887",
     "cbc95d2ada015cb6ffe38e7a96b0442b",
     "cd552ac2a4a1f426c8a039352c32b907",
-    "200d006bf31368b4ba48016f0dfb2375"
+    "200d006bf31368b4ba48016f0dfb2375",
+    "c383d4a0d8a19af038d3148d13c447b5",
+    "93b40a7a3a3437fe313e6862172f3ec0",
+    "b28496967d5584df4a49bed62e82e822"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1480,9 +1483,6 @@
     "interest: casado -> manchester united"
   ],
   "titles": [
-    "exclusive claims chelsea new midfielder target gets green light from xabi alonso",
-    "injury update on two key chelsea players who have been left out of squad to face",
-    "latest: ornstein says chelsea \u201cclose to finalising\u201d next transfer in busy summer",
     "man city make \u201cdirect contact\u201d with chelsea over first choice attacker",
     "fabrizio romano names chelsea\u2019s fixed fee for defender transfer at last",
     "psg the latest super club to target \u00a375m chelsea defender who has been made avai",
@@ -1779,7 +1779,10 @@
     "\u201czero doubts\u201d \u2013 barcelona confident of signing manchester city star as new bid p",
     "cristian romero reaches decision on joining arsenal from tottenham in spectacula",
     "rodri sends clear transfer message to manchester city as barcelona 'prepare' nex",
-    "\u201cagreed all terms\u201d \u2013 fabrizio romano drops saturday afternoon bombshell for live"
+    "\u201cagreed all terms\u201d \u2013 fabrizio romano drops saturday afternoon bombshell for live",
+    "lionel messi's father and 'pillar of support' jorge passes away at 68 after batt",
+    "spurs may have leaked arsenal links to defender to ease sale to atletico madrid",
+    "rodri communicates his desire to play for barcelona and the club prepares a new "
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2033,16 +2036,16 @@
     "giannis konstantelias": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/PAOK_Saloniki_-_konstantelias_2023.jpg/330px-PAOK_Saloniki_-_konstantelias_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "ousmane diomande": "https://r2.thesportsdb.com/images/media/player/cutout/5y2hc11762291059.png/small",
     "marc casado": "https://r2.thesportsdb.com/images/media/player/cutout/ocpyt41768321624.png/small",
-    "kerem alajbegovic": "",
     "mateo soule": "",
     "ousmane ndiaye": "",
     "martin": "",
     "axel donczew": "",
     "diego buonanotte": "",
     "gero": "",
-    "rodri hernandez": ""
+    "rodri hernandez": "",
+    "kerem alajbegovic": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

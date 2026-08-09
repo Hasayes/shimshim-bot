@@ -1084,7 +1084,8 @@
     "069db9b934e64f14dce56b0f893bfc52",
     "2f784bf54819417e6b3f7d2599493bda",
     "tg:FabrizioRomanoTG/64283",
-    "18ab7c6afd250434af0d42384c2a3887"
+    "18ab7c6afd250434af0d42384c2a3887",
+    "cbc95d2ada015cb6ffe38e7a96b0442b"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1477,7 +1478,6 @@
     "interest: casado -> manchester united"
   ],
   "titles": [
-    "sky sports: man united now \u2018ready to strike\u2019 deal with euro giants for \u00a337m atta",
     "man utd set aside \u00a360m for premier league star after ornstein verifies \u2018clear\u2019 i",
     "filip kostic gets a new club weeks after juventus released him",
     "exclusive claims chelsea new midfielder target gets green light from xabi alonso",
@@ -1776,7 +1776,8 @@
     "romano hints liverpool could yet add new right back to araujo move",
     "barcelona set to launch second bid for man city\u2019s rodri; confident about securin",
     "rt @fabrizioromano : \ud83d\udea8 \ud83d\udd35 \ud83d\udd34 barcelona are set to send their new bid for rodri as ",
-    "\u201czero doubts\u201d \u2013 barcelona confident of signing manchester city star as new bid p"
+    "\u201czero doubts\u201d \u2013 barcelona confident of signing manchester city star as new bid p",
+    "cristian romero reaches decision on joining arsenal from tottenham in spectacula"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2030,16 +2031,16 @@
     "giannis konstantelias": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/PAOK_Saloniki_-_konstantelias_2023.jpg/330px-PAOK_Saloniki_-_konstantelias_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "ousmane diomande": "https://r2.thesportsdb.com/images/media/player/cutout/5y2hc11762291059.png/small",
     "marc casado": "https://r2.thesportsdb.com/images/media/player/cutout/ocpyt41768321624.png/small",
-    "diego buonanotte": "",
     "gero": "",
     "rodri hernandez": "",
     "kerem alajbegovic": "",
     "mateo soule": "",
     "ousmane ndiaye": "",
     "martin": "",
-    "axel donczew": ""
+    "axel donczew": "",
+    "diego buonanotte": ""
   },
-  "photo_repair_idx": 8,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

@@ -26,6 +26,7 @@ Optional:
   SKIP_VERIFY_TELEGRAM "0" to web-verify Telegram posts (default "1" — trust source)
   CROSS_CHECK          "1" for extra Sonnet pass after verify (default "0")
   WEB_SEARCH_MAX_USES  Web searches per verify (default 1)
+  ARTICLE_TEXT_MAX     Max chars of article text sent to Claude (default 1200)
   STATE_FILE           Path to state file (default state.json next to script)
 """
 import json
@@ -180,12 +181,16 @@ MAX_ARTICLE_AGE_DAYS = int(os.environ.get("MAX_ARTICLE_AGE_DAYS", "3"))
 TELEGRAM_CHANNELS = os.environ.get("TELEGRAM_CHANNELS", "fabrizioromanotg")
 CLASSIFY_MODEL = os.environ.get("CLASSIFY_MODEL", "claude-haiku-4-5")
 CLAUDE_MODEL = os.environ.get("CLAUDE_MODEL", "claude-sonnet-4-6")
-# Lean defaults: Haiku classify → publish. Web verify / cross-check are opt-in.
+# Lean defaults: Haiku kind-gate → lean classify → publish (style/fit only on
+# cards that ship). Web verify / cross-check are opt-in.
 VERIFY_NEWS = os.environ.get("VERIFY_NEWS", "0") == "1"
 VERIFY_INTEREST = os.environ.get("VERIFY_INTEREST", "0") == "1"
 SKIP_VERIFY_TELEGRAM = os.environ.get("SKIP_VERIFY_TELEGRAM", "1") == "1"
 CROSS_CHECK = os.environ.get("CROSS_CHECK", "0") == "1"
 WEB_SEARCH_MAX_USES = max(1, int(os.environ.get("WEB_SEARCH_MAX_USES", "1")))
+# Cap article text sent to Claude — news blurbs and Telegram posts can be long,
+# and the model only needs the claim, not the full scrollback.
+ARTICLE_TEXT_MAX = max(300, int(os.environ.get("ARTICLE_TEXT_MAX", "1200")))
 
 # Cards go to the app (feed + web push) only; set TELEGRAM_CARDS=1 to also
 # send them to the Telegram chat again. Rare operational alerts (e.g. billing
@@ -291,42 +296,83 @@ class TransferBrief(BaseModel):
     summary: str       # 1-2 factual sentences: what the news actually says
 
 
-CLASSIFY_SYSTEM = (
-    "You are a football transfer analyst. You receive a news headline and "
-    "summary. Classify the story and extract a briefing FROM THE TEXT.\n"
-    "- kind='deal' also covers a finished LOAN RETURN (player goes back "
-    "to his parent club): from_club = loan club, to_club = parent club.\n"
+class KindGate(BaseModel):
+    """Cheap first triage: kind only, so obvious skips skip the full extract."""
+
+    kind: Literal["deal", "interest", "none"]
+
+
+class ClassifyBrief(BaseModel):
+    """Lean extract used on the hot path — no style/fit (filled only if we publish)."""
+
+    kind: Literal["deal", "interest", "none"]
+    stage: str
+    player: str
+    position: str
+    age: str
+    from_club: str
+    to_club: str
+    fee: str
+    source: str
+    summary: str
+
+
+class ScoutLines(BaseModel):
+    style: str
+    fit: str
+
+
+# Kind rules shared by the tiny gate and the full classify prompt. Prefer
+# recall over precision on the gate: a false 'none' drops the story.
+_KIND_RULES = (
     "- kind='deal' when it reports a transfer that is done or effectively "
     "done: a completed or officially announced signing; a 'here we go' call; "
     "a total/full agreement reached between all parties; a medical that is "
-    "booked, underway or passed. Deals to ANY club qualify.\n"
+    "booked, underway or passed; or a finished LOAN RETURN. Deals to ANY "
+    "club qualify.\n"
     "- kind='interest' ONLY for REPORTED interest: a named journalist, "
     "outlet or club attributes a CONCRETE step to one of the watched "
     "clubs — opened talks, made contact, submitted or preparing a bid, "
     "agreed personal terms, made him a declared target, pushing to sign. "
     "NOT interest (kind='none'): pundit/ex-player suggestions ('should "
     "sign', 'urged to', 'would be perfect', 'dream signing'); passive "
-    "unattributed 'linked with' round-ups and listicles ('5 strikers X "
-    "could target'); fan content and polls; the player's own wishes ('I'd "
-    "love to play there') without club action; agents offering a player "
-    "around; hypothetical fits invented by the writer. A story about a "
-    "watched club setting an asking price for its OWN player is NOT "
-    "interest (the buyer matters, not the seller). The watched clubs, "
-    "for deals not yet agreed: "
+    "unattributed 'linked with' round-ups and listicles; fan content and "
+    "polls; the player's own wishes without club action; agents offering a "
+    "player around; hypothetical fits; a watched club setting an asking "
+    "price for its OWN player. Watched clubs: "
     f"{', '.join(WATCHED_CLUBS)}. "
     "Interest from any other club does NOT count.\n"
-    "- ONE briefing = ONE player: the player the story is actually ABOUT — "
-    "its subject, usually the one named in the headline. NEVER substitute "
-    "a different player because he is more famous: players mentioned in "
-    "passing, as comparison, as context ('after X left', 'alongside Y') "
-    "or in a list of alternatives are NOT the subject. The player must be "
-    "NAMED; unnamed-target stories ('a third midfielder') are kind='none'. "
-    "If the story genuinely covers several players' own moves, brief the "
-    "one in the headline.\n"
-    "- kind='none' for everything else: contract renewals/extensions, "
-    "injuries, interest from non-watched clubs, or transfer-window chatter. "
-    "ALSO kind='none' if the story looks like recycled OLD news — e.g. the "
-    "player demonstrably left the stated club in an earlier season.\n"
+    "- kind='none' for renewals/extensions, injuries, unnamed targets, "
+    "stale/recycled old-season stories, or anything that is not "
+    "deal/interest above.\n"
+)
+
+GATE_SYSTEM = (
+    "You triage football transfer headlines. Output only kind. When unsure "
+    "between none and deal/interest, prefer deal/interest so nothing "
+    "publishable is dropped.\n"
+    f"{_KIND_RULES}"
+    "The player must be NAMED for deal/interest; otherwise kind='none'."
+)
+
+SCOUT_SYSTEM = (
+    "Write two short scouting lines for a football transfer card. "
+    "style: one sentence on how the player plays. "
+    "fit: one sentence on how he should be used at to_club. "
+    "If you don't know the player, use '—' for both. No preamble."
+)
+
+
+CLASSIFY_SYSTEM = (
+    "You are a football transfer analyst. You receive a news headline and "
+    "summary. Classify the story and extract a briefing FROM THE TEXT.\n"
+    f"{_KIND_RULES}"
+    "- For kind='deal' loan returns: from_club = loan club, to_club = "
+    "parent club.\n"
+    "- ONE briefing = ONE player: the story's SUBJECT (usually named in "
+    "the headline). NEVER substitute a more famous passing mention. "
+    "Unnamed-target stories are kind='none'. If several players move, "
+    "brief the one in the headline.\n"
     "- stage: for kind='deal' — 'Here we go' (agreed / here-we-go call / "
     "medical booked, underway or passed) or 'Completed' (official, "
     "announced, done); '—' otherwise.\n"
@@ -336,11 +382,9 @@ CLASSIFY_SYSTEM = (
     "- Facts (clubs, fee, age, position): take them from the article text "
     "first; your background knowledge may be stale — when the article "
     "doesn't state a fact and you aren't confident, use '—' "
-    "('Undisclosed' for the fee). Deal facts get verified separately, "
-    "so a '—' is always better than a guess.\n"
-    "- summary: 1-2 tight factual sentences telling the news itself, using "
-    "only what the article states.\n"
-    "- style/fit: one concise sentence each from your football knowledge.\n"
+    "('Undisclosed' for the fee). A '—' is always better than a guess.\n"
+    "- summary: 1-2 tight factual sentences using only what the article "
+    "states. If kind='none', set every other field to '—'.\n"
     "- source: the journalist or outlet credited; '—' if not clear.\n"
     "Be factual and concise."
 )
@@ -655,12 +699,27 @@ def is_relevant(article):
     return bool(WATCHED_CLUB_RE.search(text)) and any(k in text for k in INTEREST_KEYWORDS)
 
 
+def _clip_text(text, limit=ARTICLE_TEXT_MAX):
+    text = (text or "").strip()
+    if len(text) <= limit:
+        return text
+    return text[:limit].rsplit(" ", 1)[0] + "…"
+
+
 def _article_prompt(article):
-    return (
-        f"Headline: {article['title']}\n"
-        f"Summary: {article['desc']}\n"
-        f"Source: {article['source']}"
-    )
+    """Compact article text for Claude — dedupe Telegram title/body and cap length."""
+    title = (article.get("title") or "").strip()
+    desc = (article.get("desc") or "").strip()
+    source = (article.get("source") or "").strip()
+    # Telegram posts set title = text[:120] and desc = full text; send once.
+    if desc and title and (desc == title or desc.startswith(title)):
+        body = _clip_text(desc)
+        prompt = f"Text: {body}"
+    else:
+        prompt = f"Headline: {_clip_text(title, 160)}\nSummary: {_clip_text(desc)}"
+    if source:
+        prompt += f"\nSource: {source}"
+    return prompt
 
 
 VALID_STAGES = {"here we go", "completed"}
@@ -689,20 +748,61 @@ def brief_problems(brief):
     return problems
 
 
+def classify_kind(client, article):
+    """Tiny triage call — most keyword false-positives die here as kind=none."""
+    resp = client.messages.parse(
+        model=CLASSIFY_MODEL,
+        max_tokens=64,
+        system=GATE_SYSTEM,
+        messages=[{"role": "user", "content": _article_prompt(article)}],
+        output_format=KindGate,
+    )
+    return resp.parsed_output
+
+
 def classify_article(client, article):
-    """Cheap first pass, no web search: classify + extract from the text.
+    """Lean extract from the text (no style/fit — those are filled on publish).
 
     Non-deals stop here (~1/10th the cost of a verified briefing). Deals go
     on to verify_deal() before publishing when needs_web_verify() says so.
     """
     resp = client.messages.parse(
         model=CLASSIFY_MODEL,
-        max_tokens=1024,
+        max_tokens=512,
         system=CLASSIFY_SYSTEM,
         messages=[{"role": "user", "content": _article_prompt(article)}],
-        output_format=TransferBrief,
+        output_format=ClassifyBrief,
     )
-    return resp.parsed_output
+    data = resp.parsed_output.model_dump()
+    return TransferBrief(**data, style="—", fit="—")
+
+
+def fill_scout_lines(client, article, brief):
+    """Generate style/fit only for cards that are about to publish."""
+    if (brief.style or "").strip() not in ("", "—") and \
+            (brief.fit or "").strip() not in ("", "—"):
+        return brief
+    resp = client.messages.parse(
+        model=CLASSIFY_MODEL,
+        max_tokens=256,
+        system=SCOUT_SYSTEM,
+        messages=[{
+            "role": "user",
+            "content": (
+                f"{_article_prompt(article)}\n\n"
+                f"Player: {brief.player}\n"
+                f"Position: {brief.position}\n"
+                f"From: {brief.from_club}\n"
+                f"To: {brief.to_club}\n"
+                f"Summary: {brief.summary}"
+            ),
+        }],
+        output_format=ScoutLines,
+    )
+    lines = resp.parsed_output
+    brief.style = lines.style or "—"
+    brief.fit = lines.fit or "—"
+    return brief
 
 
 def needs_web_verify(article, brief):
@@ -1512,7 +1612,29 @@ def main():
         try:
             if client is None:
                 client = anthropic.Anthropic()
-            brief = classify_article(client, article)
+            # Tiny kind gate first — most keyword false-positives stop here
+            # before we pay for a full briefing extract.
+            gate = classify_kind(client, article)
+            if gate.kind == "interest" and not WATCHED_CLUB_RE.search(
+                    _norm(f"{article['title']} {article['desc']}")):
+                # Deal-keyword prefilter can admit non-watched interest (e.g.
+                # "official bid" for Ipswich). No watched club ⇒ unpublishable;
+                # don't spend a second Claude call extracting a dead card.
+                seen.add(article["id"])
+                state["sent"].append(article["id"])
+                briefed_titles.add(title_key)
+                state["titles"].append(title_key)
+                dirty = True
+                print(f"skipped (interest, no watched club): {article['title']}")
+                continue
+            if gate.kind == "none":
+                brief = TransferBrief(
+                    kind="none", stage="—", player="—", position="—", age="—",
+                    from_club="—", to_club="—", fee="—", style="—", fit="—",
+                    source="—", summary="—",
+                )
+            else:
+                brief = classify_article(client, article)
             if brief.kind != "none":
                 # anything that would publish gets web-verified — but not
                 # before checking it isn't already carded (don't pay to
@@ -1611,6 +1733,11 @@ def main():
                 continue
         # The app (feed + web push) is the delivery channel; the Telegram
         # chat card is opt-in via TELEGRAM_CARDS.
+        # style/fit are deferred until a card actually publishes (Haiku).
+        try:
+            brief = fill_scout_lines(client, article, brief)
+        except Exception as e:  # noqa: BLE001 — publish with placeholders rather than drop
+            print(f"scout-lines error on '{brief.player}': {e}", file=sys.stderr)
         photos_before = dict(state.get("photos", {}))
         crests_before = dict(state.get("crests", {}))
         photo = lookup_player_photo(brief.player, f"{brief.from_club}|{brief.to_club}", state)

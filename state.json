@@ -1163,7 +1163,8 @@
     "39ddd4370b9fcf83a33d9f2d6f41804c",
     "94ebc1f65dc4a8a5cd4f892af66aa022",
     "701488a5319569809864c1951c25fdb2",
-    "57127300c60043b6c92e2967a1816b20"
+    "57127300c60043b6c92e2967a1816b20",
+    "35527c97c7c833b76965730e5f12c615"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1558,7 +1559,6 @@
     "interest: casado -> manchester united"
   ],
   "titles": [
-    "manchester united transfer news: old trafford confirms signing of 18 year old mi",
     "la liga: arsenal target vini jr set to sign six year contract with madrid",
     "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f atletico madrid prepare new official bid for cuti romero as clear frontru",
     "fabrizio romano: arsenal more keen on ezri konsa than liverpool",
@@ -1857,7 +1857,8 @@
     "marcus rashford\u2019s man united shirt number confirmed as matheus cunha keeps no 10",
     "midfielder \u2018keen on joining\u2019 man utd \u2018this summer\u2019 as ineos in talks to reach ag",
     "done deals: frosinone secure terzic, schmid and grillitsch agreements",
-    "curtis jones future: why the liverpool midfielder not included in squad against "
+    "curtis jones future: why the liverpool midfielder not included in squad against ",
+    "midfielder \u2018keen\u2019 to join man utd amid ongoing talks over agreement"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2114,15 +2115,15 @@
     "facundo buonanotte": "https://r2.thesportsdb.com/images/media/player/cutout/ct1hg91772132428.png/small",
     "zachary athekame": "https://r2.thesportsdb.com/images/media/player/cutout/invusy1758893640.png/small",
     "axel donczew": "",
-    "kerem alajbegovic": "",
     "mateo soule": "",
     "ousmane ndiaye": "",
     "martin": "",
     "backup goalkeeper": "",
     "gero": "",
-    "rodri hernandez": ""
+    "rodri hernandez": "",
+    "kerem alajbegovic": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

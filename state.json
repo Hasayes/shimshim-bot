@@ -1193,7 +1193,11 @@
     "d85ee43240e02759fddd909e937ddcc8",
     "tg:FabrizioRomanoTG/64363",
     "tg:FabrizioRomanoTG/64364",
-    "tg:FabrizioRomanoTG/64365"
+    "tg:FabrizioRomanoTG/64365",
+    "9be35527f645cf962935d255ba4f01e8",
+    "tg:FabrizioRomanoTG/64367",
+    "tg:FabrizioRomanoTG/64368",
+    "tg:FabrizioRomanoTG/64370"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1361,7 +1365,7 @@
     "mastantuono -> fiorentina": 2,
     "vitek -> middlesbrough": 2,
     "tomiyasu -> crystal palace": 2,
-    "molina -> as roma": 1,
+    "molina -> as roma": 2,
     "jim -> torino": 2,
     "castro -> as roma": 2,
     "bamba -> newcastle": 2,
@@ -1590,10 +1594,6 @@
     "interest: pave -> psg"
   ],
   "titles": [
-    "chelsea\u2019s transfer madness shows no sign of ending: xabi alonso is set to get th",
-    "\ud83d\udea8 \ud83c\uddf2\ud83c\udde6 the negotiations for ayyoub bouaddi to manchester city are moving to the fi",
-    "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 the negotiations between barca and man city for rodri are underway; direct",
-    "\u26aa\ufe0f \ud83d\udc4b\ud83c\udfff yan diomande, in madrid today with his agents from roc nation ahead of med",
     "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f gleison bremer confirms he never asked to leave juventus this summer: \u201ct",
     "rt @fabrizioromano : \ud83d\udea8 \ud83d\udd35 \ud83d\udd34 the negotiations between barca and man city for rodri",
     "\ud83d\udea8 \ud83c\uddfa\ud83c\uddf8 sergi roberto to la galaxy, here we go! verbal agreement done for former ba",
@@ -1889,7 +1889,11 @@
     "\ud83d\udea8 \u26ab\ufe0f \ud83d\udd35 inter remain keen on djed spence as right wing back, as revealed last nig",
     "transfer rumors, news: barcelona ratchet up efforts to sign man city's rodri",
     "\ud83d\udea8 \ud83c\uddf8\ud83c\udde6 official, exclusive story confirmed berat djimsiti has joined al diriyah fr",
-    "\ud83d\udea8 \ud83d\udd34 official: ronald araujo joins liverpool from barcelona on loan deal with \u20ac55"
+    "\ud83d\udea8 \ud83d\udd34 official: ronald araujo joins liverpool from barcelona on loan deal with \u20ac55",
+    "rashford gets new no 14 shirt as man united signal fresh faith in forward",
+    "\ud83d\udea8 \ud83d\udfe1 \ud83d\udd34 nahuel molina has just landed in rome, welcomed by as roma fans as he join",
+    "rt @fabrizioromano : \ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f atletico madrid prepare new official bid for cuti ro",
+    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f cuti romero and atletico madrid, deal close as new bid will be sent soon "
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2147,16 +2151,16 @@
     "zachary athekame": "https://r2.thesportsdb.com/images/media/player/cutout/invusy1758893640.png/small",
     "axel donczew": "",
     "martin": "",
-    "backup goalkeeper": "",
     "gero": "",
     "rodri hernandez": "",
     "kerem alajbegovic": "",
     "mateo soule": "",
     "berat djimsiti": "https://r2.thesportsdb.com/images/media/player/cutout/a1u2x81695157220.png/small",
     "ousmane ndiaye": "",
-    "lacine megnan pave": ""
+    "lacine megnan pave": "",
+    "backup goalkeeper": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

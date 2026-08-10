@@ -1168,7 +1168,8 @@
     "2fe3a13999dede5ef8cd768dc5ed190a",
     "tg:FabrizioRomanoTG/64334",
     "tg:FabrizioRomanoTG/64335",
-    "06b2e187e42e15ea89d770e3dba76ea2"
+    "06b2e187e42e15ea89d770e3dba76ea2",
+    "db130d7cdf5f4512cfaddba00d93c29e"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1563,7 +1564,6 @@
     "interest: casado -> manchester united"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83d\udd35 pep chavarria, on his way to england today for medical tests and contract si",
     "fabrizio romano says liverpool in talks to sign \u20ac220m duo \u2013 and both want to joi",
     "real madrid transfer news: vinicius jr signs 6 year contract extension until 203",
     "he's open to move: arsenal must sign 'elite' \u00a3140m forward instead of vini jr",
@@ -1862,7 +1862,8 @@
     "\ud83d\udea8 official: lucas digne returns to psg a decade later",
     "\ud83d\udea8 teden mengi has been given the green light by luton town to hold talks with in",
     "\ud83d\udea8 \ud83c\uddfa\ud83c\uddfe liverpool and barcelona have exchanged all documents for ronald araujo deal",
-    "roma set to complete nahuel molina transfer as argentine defender arrives for me"
+    "roma set to complete nahuel molina transfer as argentine defender arrives for me",
+    "serie a: como sign chelsea defender trevoh chalobah"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2120,14 +2121,14 @@
     "zachary athekame": "https://r2.thesportsdb.com/images/media/player/cutout/invusy1758893640.png/small",
     "axel donczew": "",
     "martin": "",
-    "rodri hernandez": "",
     "kerem alajbegovic": "",
     "mateo soule": "",
     "ousmane ndiaye": "",
     "backup goalkeeper": "",
-    "gero": ""
+    "gero": "",
+    "rodri hernandez": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

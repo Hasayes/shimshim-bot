@@ -1233,7 +1233,10 @@
     "d6dbcfb6f76a9c36327c6191b1f58d0b",
     "tg:FabrizioRomanoTG/64383",
     "tg:FabrizioRomanoTG/64384",
-    "tg:FabrizioRomanoTG/64385"
+    "tg:FabrizioRomanoTG/64385",
+    "c8a55c6efcc402bd4440d535ab381881",
+    "e35da7568dbfe69d13a4cc782f7506d7",
+    "50df38bc889d9a201ed72cd8b528c993"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1434,7 +1437,8 @@
     "solomon -> west ham": 1,
     "athekame -> olympique lyon": 1,
     "goalkeeper -> strasbourg": 1,
-    "djimsiti -> al diriyah": 2
+    "djimsiti -> al diriyah": 2,
+    "mubama -> southampton": 1
   },
   "interest": [
     "interest: alvarez -> arsenal",
@@ -1632,9 +1636,6 @@
     "interest: seys -> manchester united"
   ],
   "titles": [
-    "tottenham reach decision on selling cristian romero to arsenal for \u00a338m",
-    "\u23e9 push for rodri, barca open talks with city",
-    "barcelona initiate official rodri talks: club confident despite man city demandi",
     "micky van de ven agrees new tottenham contract after roberto de zerbi plays a bl",
     "talks collapsed: liverpool now in frame to complete \u00a334 2m central defender sign",
     "former ac milan sporting director linked with top job at nottingham forest",
@@ -1931,7 +1932,10 @@
     "liverpool receive green light from 23 year old on personal terms as battle to si",
     "\u26aa\ufe0f \ud83c\udde7\ud83c\uddf7 real madrid decision for endrick to stay has been shared by management and",
     "\ud83d\udea8 \ud83c\udde6\ud83c\uddf7 as of today, barcelona have not opened talks for cuti romero despite links ",
-    "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 ferran torres move to paris saint germain, seen as imminent and matter of "
+    "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 ferran torres move to paris saint germain, seen as imminent and matter of ",
+    "man utd make lewis hall decision as \u00a330m rated bundesliga star says yes to old t",
+    "barcelona transfer news: ferran torres to psg 'gathers pace' after personal term",
+    "gossip: saints agree loan for man city striker mubama"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2192,15 +2196,16 @@
     "berat djimsiti": "https://r2.thesportsdb.com/images/media/player/cutout/a1u2x81695157220.png/small",
     "moussa diaby": "https://r2.thesportsdb.com/images/media/player/cutout/jxusnf1694202001.png/small",
     "joaquin seys": "https://r2.thesportsdb.com/images/media/player/cutout/34zoma1767634511.png/small",
-    "rodri hernandez": "",
     "kerem alajbegovic": "",
     "mateo soule": "",
     "ousmane ndiaye": "",
     "lacine megnan pave": "",
     "backup goalkeeper": "",
-    "gero": ""
+    "gero": "",
+    "divin mubama": "https://r2.thesportsdb.com/images/media/player/cutout/g1avfr1761251337.png/small",
+    "rodri hernandez": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

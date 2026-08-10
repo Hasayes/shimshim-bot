@@ -1,5 +1,25 @@
 [
  {
+  "id": "50df38bc889d9a201ed72cd8b528c993",
+  "ts": "2026-08-10T22:45:51+00:00",
+  "kind": "deal",
+  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/g1avfr1761251337.png/small",
+  "stage": "Here we go",
+  "player": "Divin Mubama",
+  "position": "Striker",
+  "age": "\u2014",
+  "from_club": "Manchester City",
+  "to_club": "Southampton",
+  "fee": "Loan",
+  "style": "Physical, energetic striker who uses his athleticism and movement to create chances in the box.",
+  "fit": "Should operate as Southampton's primary forward to lead the line and develop his finishing in regular first-team football.",
+  "source": "Yahoo",
+  "summary": "Southampton have reportedly reached a verbal agreement to sign striker Divin Mubama on loan from Manchester City.",
+  "outlet": "yahoo",
+  "url": "https://ca.sports.yahoo.com/news/gossip-saints-agree-loan-man-104406095.html",
+  "title": "Gossip: Saints agree loan for Man City striker Mubama"
+ },
+ {
   "id": "c0004db48cff21aa23afac82214293a0",
   "ts": "2026-08-10T20:45:34+00:00",
   "kind": "interest",

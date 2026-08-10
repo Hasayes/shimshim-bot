@@ -1236,7 +1236,9 @@
     "tg:FabrizioRomanoTG/64385",
     "c8a55c6efcc402bd4440d535ab381881",
     "e35da7568dbfe69d13a4cc782f7506d7",
-    "50df38bc889d9a201ed72cd8b528c993"
+    "50df38bc889d9a201ed72cd8b528c993",
+    "tg:FabrizioRomanoTG/64386",
+    "tg:FabrizioRomanoTG/64387"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1636,8 +1638,6 @@
     "interest: seys -> manchester united"
   ],
   "titles": [
-    "micky van de ven agrees new tottenham contract after roberto de zerbi plays a bl",
-    "talks collapsed: liverpool now in frame to complete \u00a334 2m central defender sign",
     "former ac milan sporting director linked with top job at nottingham forest",
     "barcelona submit opening \u20ac45m bid for rodri as city stand firm on valuation",
     "man utd, chelsea learn brentford stance over big igor thiago sale",
@@ -1935,7 +1935,9 @@
     "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 ferran torres move to paris saint germain, seen as imminent and matter of ",
     "man utd make lewis hall decision as \u00a330m rated bundesliga star says yes to old t",
     "barcelona transfer news: ferran torres to psg 'gathers pace' after personal term",
-    "gossip: saints agree loan for man city striker mubama"
+    "gossip: saints agree loan for man city striker mubama",
+    "\ud83d\udea8 \ud83c\udde8\ud83c\udde6 cf montreal agree deal to sign alexis sanchez on a free transfer, here we g",
+    "\ud83d\udea8 \u26ab\ufe0f \ud83d\udd35 inter are prepared to send official bid for djed spence if exit condition"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2196,16 +2198,16 @@
     "berat djimsiti": "https://r2.thesportsdb.com/images/media/player/cutout/a1u2x81695157220.png/small",
     "moussa diaby": "https://r2.thesportsdb.com/images/media/player/cutout/jxusnf1694202001.png/small",
     "joaquin seys": "https://r2.thesportsdb.com/images/media/player/cutout/34zoma1767634511.png/small",
-    "kerem alajbegovic": "",
     "mateo soule": "",
     "ousmane ndiaye": "",
     "lacine megnan pave": "",
     "backup goalkeeper": "",
     "gero": "",
     "divin mubama": "https://r2.thesportsdb.com/images/media/player/cutout/g1avfr1761251337.png/small",
-    "rodri hernandez": ""
+    "rodri hernandez": "",
+    "kerem alajbegovic": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 5,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

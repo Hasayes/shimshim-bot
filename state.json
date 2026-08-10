@@ -1147,7 +1147,8 @@
     "22e00e5a13d97439cdded821faf99268",
     "61a3e2d74784a31a3a2b9b9f621eddbf",
     "eb7700e55f3220a55645cae32a7ea874",
-    "192d3c19bb534f31f338ab72e3cea2ce"
+    "192d3c19bb534f31f338ab72e3cea2ce",
+    "467ea2c0b3ed31e8407c69d83c0fc4e7"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1346,7 +1347,8 @@
     "araujo -> liverpool": 2,
     "diomande -> nottingham forest": 1,
     "solomon -> west ham": 1,
-    "athekame -> olympique lyon": 1
+    "athekame -> olympique lyon": 1,
+    "goalkeeper -> strasbourg": 1
   },
   "interest": [
     "interest: alvarez -> arsenal",
@@ -1541,7 +1543,6 @@
     "interest: casado -> manchester united"
   ],
   "titles": [
-    "west ham stall in talks for premier league winger as italian club target deal",
     "barcelona transfer news: rodri opens doors to camp nou for first time ever after",
     "juventus transfer roundup: a goalkeeper path, a midfield target, and an exit str",
     "atalanta interested in summer transfer for como\u2019s diao",
@@ -1840,7 +1841,8 @@
     "report: marquee liverpool transfer under fresh threat as arsenal line up audacio",
     "aston villa given green light to sign real madrid star",
     "town 'make palacios bid'",
-    "arsenal rejected \u20ac35m bid for ethan nwaneri"
+    "arsenal rejected \u20ac35m bid for ethan nwaneri",
+    "\u201chere we go\u201d \u2013 fabrizio romano announces chelsea deal while blues play friendly"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2102,9 +2104,10 @@
     "kerem alajbegovic": "",
     "mateo soule": "",
     "ousmane ndiaye": "",
+    "backup goalkeeper": "",
     "martin": ""
   },
-  "photo_repair_idx": 6,
+  "photo_repair_idx": 7,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",
@@ -2247,6 +2250,7 @@
     "marseille": "https://r2.thesportsdb.com/images/media/team/badge/c6bazh1779212287.png/small",
     "elche": "https://r2.thesportsdb.com/images/media/team/badge/e4vaw51655594332.png/small",
     "real sociedad": "https://r2.thesportsdb.com/images/media/team/badge/vptvpr1473502986.png/small",
-    "paok saloniki": ""
+    "paok saloniki": "",
+    "strasbourg": "https://r2.thesportsdb.com/images/media/team/badge/b8k77w1766625501.png/small"
   }
 }

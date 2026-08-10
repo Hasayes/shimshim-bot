@@ -1,5 +1,25 @@
 [
  {
+  "id": "467ea2c0b3ed31e8407c69d83c0fc4e7",
+  "ts": "2026-08-10T00:30:40+00:00",
+  "kind": "deal",
+  "photo": "",
+  "stage": "Here we go",
+  "player": "Backup goalkeeper",
+  "position": "Goalkeeper",
+  "age": "\u2014",
+  "from_club": "Chelsea",
+  "to_club": "Strasbourg",
+  "fee": "\u2014",
+  "style": "\u2014",
+  "fit": "\u2014",
+  "source": "Fabrizio Romano",
+  "summary": "Chelsea are sending their backup goalkeeper to sister club Strasbourg on loan, confirmed by Fabrizio Romano.",
+  "outlet": "yahoo",
+  "url": "https://ca.sports.yahoo.com/news/fabrizio-romano-announces-chelsea-deal-122500195.html",
+  "title": "\u201cHere we go\u201d \u2013 Fabrizio Romano announces Chelsea deal while Blues play friendly"
+ },
+ {
   "id": "tg:FabrizioRomanoTG/64324",
   "ts": "2026-08-09T18:15:32+00:00",
   "kind": "deal",

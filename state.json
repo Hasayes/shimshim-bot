@@ -1229,7 +1229,11 @@
     "b5dc0a8b8a9155d7e8eccf19713985f4",
     "97db10e64d7c0842721d4b4697beddcd",
     "f6acf5c8c48133349abfacd31397dd41",
-    "tg:FabrizioRomanoTG/64381"
+    "tg:FabrizioRomanoTG/64381",
+    "d6dbcfb6f76a9c36327c6191b1f58d0b",
+    "tg:FabrizioRomanoTG/64383",
+    "tg:FabrizioRomanoTG/64384",
+    "tg:FabrizioRomanoTG/64385"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1628,10 +1632,6 @@
     "interest: seys -> manchester united"
   ],
   "titles": [
-    "\ud83d\udea8 deal done! the iconic presenter @turkialajmah is joining @thmanyahsports to ho",
-    "romano: man utd must go \u2018crazy\u2019 to sign their dream target",
-    "romano reveals \u2018only\u2019 way lewis hall can join man utd as ineos give green light ",
-    "medical scheduled: chelsea target travelling to england as transfer edges closer",
     "tottenham reach decision on selling cristian romero to arsenal for \u00a338m",
     "\u23e9 push for rodri, barca open talks with city",
     "barcelona initiate official rodri talks: club confident despite man city demandi",
@@ -1927,7 +1927,11 @@
     "arsenal bid rejected as midfielder favours man utd move",
     "romano on when \u201cofficial bid\u201d for barcelona attacker is expected",
     "\u201call documents exchanged\u201d as defender\u2019s liverpool deal gets closer according to ",
-    "\ud83d\udea8 \ud83d\udc09 fc porto have made contact with santi gimenez camp over possible move from a"
+    "\ud83d\udea8 \ud83d\udc09 fc porto have made contact with santi gimenez camp over possible move from a",
+    "liverpool receive green light from 23 year old on personal terms as battle to si",
+    "\u26aa\ufe0f \ud83c\udde7\ud83c\uddf7 real madrid decision for endrick to stay has been shared by management and",
+    "\ud83d\udea8 \ud83c\udde6\ud83c\uddf7 as of today, barcelona have not opened talks for cuti romero despite links ",
+    "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 ferran torres move to paris saint germain, seen as imminent and matter of "
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2187,16 +2191,16 @@
     "martin": "",
     "berat djimsiti": "https://r2.thesportsdb.com/images/media/player/cutout/a1u2x81695157220.png/small",
     "moussa diaby": "https://r2.thesportsdb.com/images/media/player/cutout/jxusnf1694202001.png/small",
-    "gero": "",
     "joaquin seys": "https://r2.thesportsdb.com/images/media/player/cutout/34zoma1767634511.png/small",
     "rodri hernandez": "",
     "kerem alajbegovic": "",
     "mateo soule": "",
     "ousmane ndiaye": "",
     "lacine megnan pave": "",
-    "backup goalkeeper": ""
+    "backup goalkeeper": "",
+    "gero": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

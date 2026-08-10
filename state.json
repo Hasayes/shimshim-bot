@@ -1174,7 +1174,8 @@
     "043b6fe549d172b7038a2037ab1a8bd6",
     "tg:FabrizioRomanoTG/64337",
     "tg:FabrizioRomanoTG/64339",
-    "f0da245be95ae44096b5d2579987ab0f"
+    "f0da245be95ae44096b5d2579987ab0f",
+    "49d8a47d53e929ceae0ab494b1054a0f"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1569,7 +1570,6 @@
     "interest: casado -> manchester united"
   ],
   "titles": [
-    "leeds united bring goalkeeper trafford from man city on club record fee",
     "real madrid signs yan diomande in record deal until 2033",
     "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 breaking: barcelona now in official club to club talks with man city and v",
     "fabrizio romano update gives liverpool the green light to sign 13 goal wonderkid",
@@ -1868,7 +1868,8 @@
     "fabrizio romano confirms world class player is coming to liverpool",
     "\ud83d\udea8 \ud83d\udd03 breaking: swap deal agreed between everton and crystal palace, here we go! d",
     "rt @fabrizioromano : \ud83d\udea8 \ud83d\udd03 breaking: swap deal agreed between everton and crystal ",
-    "what shirt number will marcus rashford wear at manchester united? journalist pro"
+    "what shirt number will marcus rashford wear at manchester united? journalist pro",
+    "leeds target set for medical ahead of record breaking transfer as 49ers forced i"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2126,14 +2127,14 @@
     "zachary athekame": "https://r2.thesportsdb.com/images/media/player/cutout/invusy1758893640.png/small",
     "axel donczew": "",
     "martin": "",
-    "gero": "",
     "rodri hernandez": "",
     "kerem alajbegovic": "",
     "mateo soule": "",
     "ousmane ndiaye": "",
-    "backup goalkeeper": ""
+    "backup goalkeeper": "",
+    "gero": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

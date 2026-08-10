@@ -1149,7 +1149,9 @@
     "eb7700e55f3220a55645cae32a7ea874",
     "192d3c19bb534f31f338ab72e3cea2ce",
     "467ea2c0b3ed31e8407c69d83c0fc4e7",
-    "3788c17e88a7e378f02686b6251108ff"
+    "3788c17e88a7e378f02686b6251108ff",
+    "000e967688e5f32ca0cea359078c800b",
+    "626ed763017c69fc7a6d0da31f7096b3"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1544,7 +1546,6 @@
     "interest: casado -> manchester united"
   ],
   "titles": [
-    "juventus transfer roundup: a goalkeeper path, a midfield target, and an exit str",
     "atalanta interested in summer transfer for como\u2019s diao",
     "fabrizio romano: liverpool \u2018lead the race\u2019 to sign world cup forward",
     "i want michael carrick to follow xabi alonso's latest transfer demand for \u00a351m p",
@@ -1843,7 +1844,8 @@
     "town 'make palacios bid'",
     "arsenal rejected \u20ac35m bid for ethan nwaneri",
     "\u201chere we go\u201d \u2013 fabrizio romano announces chelsea deal while blues play friendly",
-    "man utd active in making \u20ac100m midfielder their seventh summer signing"
+    "man utd active in making \u20ac100m midfielder their seventh summer signing",
+    "jones signal from liverpool, inter could sell stankovic to raise \u20ac40m"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2099,16 +2101,16 @@
     "marc casado": "https://r2.thesportsdb.com/images/media/player/cutout/ocpyt41768321624.png/small",
     "facundo buonanotte": "https://r2.thesportsdb.com/images/media/player/cutout/ct1hg91772132428.png/small",
     "zachary athekame": "https://r2.thesportsdb.com/images/media/player/cutout/invusy1758893640.png/small",
-    "gero": "",
     "axel donczew": "",
     "rodri hernandez": "",
     "kerem alajbegovic": "",
     "mateo soule": "",
     "ousmane ndiaye": "",
     "martin": "",
-    "backup goalkeeper": ""
+    "backup goalkeeper": "",
+    "gero": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

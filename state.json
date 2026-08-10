@@ -1184,7 +1184,8 @@
     "tg:FabrizioRomanoTG/64350",
     "tg:FabrizioRomanoTG/64351",
     "tg:FabrizioRomanoTG/64355",
-    "tg:FabrizioRomanoTG/64356"
+    "tg:FabrizioRomanoTG/64356",
+    "1b12cf6e3830dd820fd981b5a5011221"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1580,7 +1581,6 @@
     "interest: pave -> psg"
   ],
   "titles": [
-    "transfer news and rumours today: ex arsenal star nears possible gunners reunion ",
     "vivell wants \u00a350m midfielder at man utd as another star \u2018keen\u2019 on old trafford m",
     "turkish giants eyeing move for arsenal winger",
     "fabrizio romano says \u2018chelsea agree deal\u2019 for \u20ac21m star \u2013 \u2018here we go\u2019",
@@ -1879,7 +1879,8 @@
     "\ud83d\udea8 breaking: psg are closing in on verbal agreement for ferran torres \ud83d\udd34 \ud83d\udd35 \ud83d\udca3 psg s",
     "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 paris saint germain have agreed on personal terms with france u16 talent l",
     "rt @fabrizioromano : \ud83d\udea8 breaking: psg are closing in on verbal agreement for ferr",
-    "ronald araujo has signed his liverpool contract done and completed \ud83d\udd34 \ud83d\udd10 https://t"
+    "ronald araujo has signed his liverpool contract done and completed \ud83d\udd34 \ud83d\udd10 https://t",
+    "psg increases zion suzuki offer to \u20ac35m, could loan him to juventus"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2137,15 +2138,15 @@
     "zachary athekame": "https://r2.thesportsdb.com/images/media/player/cutout/invusy1758893640.png/small",
     "axel donczew": "",
     "martin": "",
-    "gero": "",
     "rodri hernandez": "",
     "kerem alajbegovic": "",
     "mateo soule": "",
     "ousmane ndiaye": "",
     "lacine megnan pave": "",
-    "backup goalkeeper": ""
+    "backup goalkeeper": "",
+    "gero": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

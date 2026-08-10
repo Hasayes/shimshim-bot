@@ -1225,7 +1225,9 @@
     "d323448b02fc66eaecbc6faed82dca1f",
     "aec38412a7047309a4fa29c81a625d80",
     "3b1f66eff99c0eec88873ba5f84684fd",
-    "55d7248b45a0a422922a59f12579872f"
+    "55d7248b45a0a422922a59f12579872f",
+    "b5dc0a8b8a9155d7e8eccf19713985f4",
+    "97db10e64d7c0842721d4b4697beddcd"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1624,8 +1626,6 @@
     "interest: seys -> manchester united"
   ],
   "titles": [
-    "vini jr arsenal transfer pursuit ends as real madrid star signs new deal until 2",
-    "arsenal news: vinicius jr agreement reached, major transfer twist, bruno guimara",
     "rodri out, fernandez in at city?",
     "fabrizio romano reveals how man utd can unlock lewis hall deal as plan b named",
     "\ud83d\udea8 deal done! the iconic presenter @turkialajmah is joining @thmanyahsports to ho",
@@ -1923,7 +1923,9 @@
     "not savinho! enzo maresca opens up on man city attacker\u2019s future amid tottenham ",
     "romano drops barcola bombshell and issues update on what liverpool need to do ne",
     "inter prepare bumper offer for al ittihad star diaby",
-    "rodri barcelona move: midfielder pushes to fast track his transfer"
+    "rodri barcelona move: midfielder pushes to fast track his transfer",
+    "arsenal bid rejected as midfielder favours man utd move",
+    "romano on when \u201cofficial bid\u201d for barcelona attacker is expected"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2183,16 +2185,16 @@
     "martin": "",
     "berat djimsiti": "https://r2.thesportsdb.com/images/media/player/cutout/a1u2x81695157220.png/small",
     "moussa diaby": "https://r2.thesportsdb.com/images/media/player/cutout/jxusnf1694202001.png/small",
-    "lacine megnan pave": "",
     "backup goalkeeper": "",
     "gero": "",
     "joaquin seys": "https://r2.thesportsdb.com/images/media/player/cutout/34zoma1767634511.png/small",
     "rodri hernandez": "",
     "kerem alajbegovic": "",
     "mateo soule": "",
-    "ousmane ndiaye": ""
+    "ousmane ndiaye": "",
+    "lacine megnan pave": ""
   },
-  "photo_repair_idx": 7,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

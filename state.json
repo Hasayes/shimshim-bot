@@ -1189,7 +1189,8 @@
     "tg:FabrizioRomanoTG/64357",
     "tg:FabrizioRomanoTG/64358",
     "946164e2904a9f281efa5456ba0540ea",
-    "tg:FabrizioRomanoTG/64360"
+    "tg:FabrizioRomanoTG/64360",
+    "d85ee43240e02759fddd909e937ddcc8"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1585,7 +1586,6 @@
     "interest: pave -> psg"
   ],
   "titles": [
-    "fabrizio romano confirms chelsea\u2019s eighth summer signing with \u2018here we go\u2019",
     "contact made as arsenal approached by european giants for star attacker; gunners",
     "rodri's agent confirms player has informed clubs of choice between barcelona & r",
     "chelsea\u2019s transfer madness shows no sign of ending: xabi alonso is set to get th",
@@ -1884,7 +1884,8 @@
     "\ud83d\udd34 \u26aa\ufe0f \ud83d\udd10 official: bayern confirm the signing of bara sapoko ndiaye on a 5 year co",
     "\ud83d\udd35 \u26aa\ufe0f excl: mansour ouro tagba has agreed to join vfl bochum from fc koln, deal n",
     "bayern munich news: not even \u20ac200 million might convince fc bayern to sell micha",
-    "\ud83d\udea8 \u26ab\ufe0f \ud83d\udd35 inter remain keen on djed spence as right wing back, as revealed last nig"
+    "\ud83d\udea8 \u26ab\ufe0f \ud83d\udd35 inter remain keen on djed spence as right wing back, as revealed last nig",
+    "transfer rumors, news: barcelona ratchet up efforts to sign man city's rodri"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2142,15 +2143,15 @@
     "zachary athekame": "https://r2.thesportsdb.com/images/media/player/cutout/invusy1758893640.png/small",
     "axel donczew": "",
     "martin": "",
-    "mateo soule": "",
     "ousmane ndiaye": "",
     "lacine megnan pave": "",
     "backup goalkeeper": "",
     "gero": "",
     "rodri hernandez": "",
-    "kerem alajbegovic": ""
+    "kerem alajbegovic": "",
+    "mateo soule": ""
   },
-  "photo_repair_idx": 5,
+  "photo_repair_idx": 6,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

@@ -1209,7 +1209,11 @@
     "tg:FabrizioRomanoTG/64373",
     "f39821c8a7fa34626efcb661122192bd",
     "c8b82b5080f58c6c8cef94e397a0dbbd",
-    "tg:FabrizioRomanoTG/64375"
+    "tg:FabrizioRomanoTG/64375",
+    "bdc27114230404640cad00f6ad8e8ec8",
+    "7a9ceb8084d7d99e23341a706bc14549",
+    "6dc52d93df80accd02e20d795c600749",
+    "tg:FabrizioRomanoTG/64376"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1603,13 +1607,10 @@
     "interest: adams -> manchester united",
     "interest: araujo -> liverpool",
     "interest: casado -> manchester united",
-    "interest: pave -> psg"
+    "interest: pave -> psg",
+    "interest: diaby -> inter"
   ],
   "titles": [
-    "\ud83d\udc9c \u269c\ufe0f official, confirmed franco mastantuono joins fiorentina on straight loan fr",
-    "\u26aa\ufe0f \ud83d\udc4b\ud83c\udfff yan diomande takes first pic in real madrid (training) kit after his medic",
-    "\ud83d\udea8 \ud83d\udd35 xabi alonso plays down reports on diogo costa or goalkeepers linked to chels",
-    "\ud83d\udea8 rodri has reportedly told real madrid he\u2019s joining barca",
     "bayern munich news: manchester united back in on fc bayern\u2019s kim min jae?; totte",
     "chelsea, rayo vallecano agree \u20ac19+2m pep chavarria transfer \u2014 report we ain't go",
     "\ud83d\udea8 \ud83e\ude75 geronimo rulli to manchester city, here we go! deal closed now between clubs",
@@ -1905,7 +1906,11 @@
     "\ud83d\udea8 \ud83d\udfe1 \ud83d\udd35 understand fenerbahce have sent new official bid to napoli tonight for rom",
     "fabrizio romano reveals whether man utd could still sign aurelien tchouameni fro",
     "brennan johnson joining everton while dwight mcneil joins crystal palace in swap",
-    "rt @fabrizioromano : \ud83d\udea8 real madrid are internally planning with endrick as part "
+    "rt @fabrizioromano : \ud83d\udea8 real madrid are internally planning with endrick as part ",
+    "when medicals will begin as everton find agreement for brennan johnson swap tran",
+    "everton reach agreement for next transfer, medical today report",
+    "inter prepare new offer for moussa diaby as leverkusen face competition",
+    "rt @fabrizioromano : \ud83d\udea8 \ud83d\udfe1 \ud83d\udd35 understand fenerbahce have sent new official bid to n"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2164,15 +2169,16 @@
     "axel donczew": "",
     "martin": "",
     "berat djimsiti": "https://r2.thesportsdb.com/images/media/player/cutout/a1u2x81695157220.png/small",
-    "lacine megnan pave": "",
     "backup goalkeeper": "",
     "gero": "",
     "rodri hernandez": "",
     "kerem alajbegovic": "",
     "mateo soule": "",
-    "ousmane ndiaye": ""
+    "ousmane ndiaye": "",
+    "moussa diaby": "https://r2.thesportsdb.com/images/media/player/cutout/jxusnf1694202001.png/small",
+    "lacine megnan pave": ""
   },
-  "photo_repair_idx": 7,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

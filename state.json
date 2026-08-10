@@ -1205,7 +1205,8 @@
     "8ee2fdb41c4638f5a8865f7b278b0166",
     "1e62fb1e7b8de8a83e75a7f8715ab912",
     "tg:FabrizioRomanoTG/64372",
-    "c3649b38b6e6ad8e9fcb3f459c91bdf2"
+    "c3649b38b6e6ad8e9fcb3f459c91bdf2",
+    "tg:FabrizioRomanoTG/64373"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1602,7 +1603,6 @@
     "interest: pave -> psg"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83c\udde7\ud83c\uddea there are no negotiations or talks at all for romelu lukaku to as monaco he",
     "enzo maresca identifies premier league star as 'dream' successor to rodri as man",
     "@city_xtra gero is still in france no medical (yet, \ud83d\udd1c \u23f3 ) \u2014 fabrizio romano ( @f",
     "arsenal news: vinicius jr agreement, ezri konsa twist, new declan rice issue",
@@ -1901,7 +1901,8 @@
     "transfer news live: arsenal want romero, barcola hijack; liverpool done deal; ma",
     "romano confirms liverpool have \u2018exchanged all documents\u2019 to complete latest sign",
     "\ud83d\udea8 \u26aa\ufe0f \ud83d\udd35 celta vigo are preparing an official bid for exequiel zeballos, expected ",
-    "transfer news live: cristian romero eyes arsenal switch, liverpool want barcola,"
+    "transfer news live: cristian romero eyes arsenal switch, liverpool want barcola,",
+    "\ud83d\udea8 \ud83d\udfe1 \ud83d\udd35 understand fenerbahce have sent new official bid to napoli tonight for rom"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2159,16 +2160,16 @@
     "zachary athekame": "https://r2.thesportsdb.com/images/media/player/cutout/invusy1758893640.png/small",
     "axel donczew": "",
     "martin": "",
-    "mateo soule": "",
     "berat djimsiti": "https://r2.thesportsdb.com/images/media/player/cutout/a1u2x81695157220.png/small",
     "ousmane ndiaye": "",
     "lacine megnan pave": "",
     "backup goalkeeper": "",
     "gero": "",
     "rodri hernandez": "",
-    "kerem alajbegovic": ""
+    "kerem alajbegovic": "",
+    "mateo soule": ""
   },
-  "photo_repair_idx": 5,
+  "photo_repair_idx": 6,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

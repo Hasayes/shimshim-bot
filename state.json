@@ -1201,7 +1201,10 @@
     "3ee7537884053f15ee4c02b9671f0f63",
     "45f7ff5eefd59a53c738bbca481e2f38",
     "b5cd9fa86d7c58dfd238566671aea376",
-    "tg:FabrizioRomanoTG/64371"
+    "tg:FabrizioRomanoTG/64371",
+    "8ee2fdb41c4638f5a8865f7b278b0166",
+    "1e62fb1e7b8de8a83e75a7f8715ab912",
+    "tg:FabrizioRomanoTG/64372"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1598,9 +1601,6 @@
     "interest: pave -> psg"
   ],
   "titles": [
-    "\ud83d\udea8 negotiations continue between liverpool and psg for bradley barcola but nothin",
-    "\ud83d\udea8 \ud83e\ude75 manchester city are expected to close all details of ayyoub bouaddi deal soo",
-    "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 direct club to club talks for rodri continue as barcelona are prepared to ",
     "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 paris saint germain remain in club to club active talks for mika godts wit",
     "\ud83d\udea8 \ud83c\udde7\ud83c\uddea there are no negotiations or talks at all for romelu lukaku to as monaco he",
     "enzo maresca identifies premier league star as 'dream' successor to rodri as man",
@@ -1897,7 +1897,10 @@
     "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f cuti romero and atletico madrid, deal close as new bid will be sent soon ",
     "psg react to liverpool\u2019s \u2018indicated proposal\u2019 for bradley barcola \u2013 fabrizio rom",
     "bradley barcola: psg react to liverpool's 'indicated proposal' \u2013 fabrizio romano",
-    "liverpool given green light to sign \u2018excellent\u2019 star, he\u2019d improve them massivel"
+    "liverpool given green light to sign \u2018excellent\u2019 star, he\u2019d improve them massivel",
+    "transfer news live: arsenal want romero, barcola hijack; liverpool done deal; ma",
+    "romano confirms liverpool have \u2018exchanged all documents\u2019 to complete latest sign",
+    "\ud83d\udea8 \u26aa\ufe0f \ud83d\udd35 celta vigo are preparing an official bid for exequiel zeballos, expected "
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2155,16 +2158,16 @@
     "zachary athekame": "https://r2.thesportsdb.com/images/media/player/cutout/invusy1758893640.png/small",
     "axel donczew": "",
     "martin": "",
-    "rodri hernandez": "",
     "kerem alajbegovic": "",
     "mateo soule": "",
     "berat djimsiti": "https://r2.thesportsdb.com/images/media/player/cutout/a1u2x81695157220.png/small",
     "ousmane ndiaye": "",
     "lacine megnan pave": "",
     "backup goalkeeper": "",
-    "gero": ""
+    "gero": "",
+    "rodri hernandez": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

@@ -1213,7 +1213,8 @@
     "bdc27114230404640cad00f6ad8e8ec8",
     "7a9ceb8084d7d99e23341a706bc14549",
     "6dc52d93df80accd02e20d795c600749",
-    "tg:FabrizioRomanoTG/64376"
+    "tg:FabrizioRomanoTG/64376",
+    "e5933591fbb208185e921341d201f88a"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1611,7 +1612,6 @@
     "interest: diaby -> inter"
   ],
   "titles": [
-    "bayern munich news: manchester united back in on fc bayern\u2019s kim min jae?; totte",
     "chelsea, rayo vallecano agree \u20ac19+2m pep chavarria transfer \u2014 report we ain't go",
     "\ud83d\udea8 \ud83e\ude75 geronimo rulli to manchester city, here we go! deal closed now between clubs",
     "transfer: rodri agrees deal with barcelona",
@@ -1910,7 +1910,8 @@
     "when medicals will begin as everton find agreement for brennan johnson swap tran",
     "everton reach agreement for next transfer, medical today report",
     "inter prepare new offer for moussa diaby as leverkusen face competition",
-    "rt @fabrizioromano : \ud83d\udea8 \ud83d\udfe1 \ud83d\udd35 understand fenerbahce have sent new official bid to n"
+    "rt @fabrizioromano : \ud83d\udea8 \ud83d\udfe1 \ud83d\udd35 understand fenerbahce have sent new official bid to n",
+    "world cup hero wants barcelona future resolved before training return"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2169,16 +2170,16 @@
     "axel donczew": "",
     "martin": "",
     "berat djimsiti": "https://r2.thesportsdb.com/images/media/player/cutout/a1u2x81695157220.png/small",
-    "backup goalkeeper": "",
     "gero": "",
     "rodri hernandez": "",
     "kerem alajbegovic": "",
     "mateo soule": "",
     "ousmane ndiaye": "",
     "moussa diaby": "https://r2.thesportsdb.com/images/media/player/cutout/jxusnf1694202001.png/small",
-    "lacine megnan pave": ""
+    "lacine megnan pave": "",
+    "backup goalkeeper": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

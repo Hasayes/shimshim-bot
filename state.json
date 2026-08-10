@@ -1172,7 +1172,8 @@
     "db130d7cdf5f4512cfaddba00d93c29e",
     "tg:FabrizioRomanoTG/64336",
     "043b6fe549d172b7038a2037ab1a8bd6",
-    "tg:FabrizioRomanoTG/64337"
+    "tg:FabrizioRomanoTG/64337",
+    "tg:FabrizioRomanoTG/64339"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1567,7 +1568,6 @@
     "interest: casado -> manchester united"
   ],
   "titles": [
-    "he's keen to join: arsenal must seal move to sign \u00a3140m forward instead of vini ",
     "report: former milan director moncada offered nottingham forest job",
     "leeds united bring goalkeeper trafford from man city on club record fee",
     "real madrid signs yan diomande in record deal until 2033",
@@ -1866,7 +1866,8 @@
     "serie a: como sign chelsea defender trevoh chalobah",
     "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 barcelona expect to receive opening official bid for ferran torres from pa",
     "fabrizio romano confirms world class player is coming to liverpool",
-    "\ud83d\udea8 \ud83d\udd03 breaking: swap deal agreed between everton and crystal palace, here we go! d"
+    "\ud83d\udea8 \ud83d\udd03 breaking: swap deal agreed between everton and crystal palace, here we go! d",
+    "rt @fabrizioromano : \ud83d\udea8 \ud83d\udd03 breaking: swap deal agreed between everton and crystal "
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2124,14 +2125,14 @@
     "zachary athekame": "https://r2.thesportsdb.com/images/media/player/cutout/invusy1758893640.png/small",
     "axel donczew": "",
     "martin": "",
-    "ousmane ndiaye": "",
     "backup goalkeeper": "",
     "gero": "",
     "rodri hernandez": "",
     "kerem alajbegovic": "",
-    "mateo soule": ""
+    "mateo soule": "",
+    "ousmane ndiaye": ""
   },
-  "photo_repair_idx": 5,
+  "photo_repair_idx": 6,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

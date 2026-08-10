@@ -1214,7 +1214,8 @@
     "7a9ceb8084d7d99e23341a706bc14549",
     "6dc52d93df80accd02e20d795c600749",
     "tg:FabrizioRomanoTG/64376",
-    "e5933591fbb208185e921341d201f88a"
+    "e5933591fbb208185e921341d201f88a",
+    "tg:FabrizioRomanoTG/64377"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1612,7 +1613,6 @@
     "interest: diaby -> inter"
   ],
   "titles": [
-    "chelsea, rayo vallecano agree \u20ac19+2m pep chavarria transfer \u2014 report we ain't go",
     "\ud83d\udea8 \ud83e\ude75 geronimo rulli to manchester city, here we go! deal closed now between clubs",
     "transfer: rodri agrees deal with barcelona",
     "manchester city star rodri set for move to fc barcelona",
@@ -1911,7 +1911,8 @@
     "everton reach agreement for next transfer, medical today report",
     "inter prepare new offer for moussa diaby as leverkusen face competition",
     "rt @fabrizioromano : \ud83d\udea8 \ud83d\udfe1 \ud83d\udd35 understand fenerbahce have sent new official bid to n",
-    "world cup hero wants barcelona future resolved before training return"
+    "world cup hero wants barcelona future resolved before training return",
+    "\ud83d\udea8 \u26aa\ufe0f official: micky van de ven signs new five year deal at tottenham, following"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2170,16 +2171,16 @@
     "axel donczew": "",
     "martin": "",
     "berat djimsiti": "https://r2.thesportsdb.com/images/media/player/cutout/a1u2x81695157220.png/small",
-    "gero": "",
     "rodri hernandez": "",
     "kerem alajbegovic": "",
     "mateo soule": "",
     "ousmane ndiaye": "",
     "moussa diaby": "https://r2.thesportsdb.com/images/media/player/cutout/jxusnf1694202001.png/small",
     "lacine megnan pave": "",
-    "backup goalkeeper": ""
+    "backup goalkeeper": "",
+    "gero": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

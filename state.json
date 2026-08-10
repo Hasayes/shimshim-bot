@@ -1169,7 +1169,8 @@
     "tg:FabrizioRomanoTG/64334",
     "tg:FabrizioRomanoTG/64335",
     "06b2e187e42e15ea89d770e3dba76ea2",
-    "db130d7cdf5f4512cfaddba00d93c29e"
+    "db130d7cdf5f4512cfaddba00d93c29e",
+    "tg:FabrizioRomanoTG/64336"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1564,7 +1565,6 @@
     "interest: casado -> manchester united"
   ],
   "titles": [
-    "fabrizio romano says liverpool in talks to sign \u20ac220m duo \u2013 and both want to joi",
     "real madrid transfer news: vinicius jr signs 6 year contract extension until 203",
     "he's open to move: arsenal must sign 'elite' \u00a3140m forward instead of vini jr",
     "he's keen to join: arsenal must seal move to sign \u00a3140m forward instead of vini ",
@@ -1863,7 +1863,8 @@
     "\ud83d\udea8 teden mengi has been given the green light by luton town to hold talks with in",
     "\ud83d\udea8 \ud83c\uddfa\ud83c\uddfe liverpool and barcelona have exchanged all documents for ronald araujo deal",
     "roma set to complete nahuel molina transfer as argentine defender arrives for me",
-    "serie a: como sign chelsea defender trevoh chalobah"
+    "serie a: como sign chelsea defender trevoh chalobah",
+    "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 barcelona expect to receive opening official bid for ferran torres from pa"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2121,14 +2122,14 @@
     "zachary athekame": "https://r2.thesportsdb.com/images/media/player/cutout/invusy1758893640.png/small",
     "axel donczew": "",
     "martin": "",
-    "kerem alajbegovic": "",
     "mateo soule": "",
     "ousmane ndiaye": "",
     "backup goalkeeper": "",
     "gero": "",
-    "rodri hernandez": ""
+    "rodri hernandez": "",
+    "kerem alajbegovic": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

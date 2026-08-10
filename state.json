@@ -1206,7 +1206,10 @@
     "1e62fb1e7b8de8a83e75a7f8715ab912",
     "tg:FabrizioRomanoTG/64372",
     "c3649b38b6e6ad8e9fcb3f459c91bdf2",
-    "tg:FabrizioRomanoTG/64373"
+    "tg:FabrizioRomanoTG/64373",
+    "f39821c8a7fa34626efcb661122192bd",
+    "c8b82b5080f58c6c8cef94e397a0dbbd",
+    "tg:FabrizioRomanoTG/64375"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1603,9 +1606,6 @@
     "interest: pave -> psg"
   ],
   "titles": [
-    "enzo maresca identifies premier league star as 'dream' successor to rodri as man",
-    "@city_xtra gero is still in france no medical (yet, \ud83d\udd1c \u23f3 ) \u2014 fabrizio romano ( @f",
-    "arsenal news: vinicius jr agreement, ezri konsa twist, new declan rice issue",
     "\ud83d\udc9c \u269c\ufe0f official, confirmed franco mastantuono joins fiorentina on straight loan fr",
     "\u26aa\ufe0f \ud83d\udc4b\ud83c\udfff yan diomande takes first pic in real madrid (training) kit after his medic",
     "\ud83d\udea8 \ud83d\udd35 xabi alonso plays down reports on diogo costa or goalkeepers linked to chels",
@@ -1902,7 +1902,10 @@
     "romano confirms liverpool have \u2018exchanged all documents\u2019 to complete latest sign",
     "\ud83d\udea8 \u26aa\ufe0f \ud83d\udd35 celta vigo are preparing an official bid for exequiel zeballos, expected ",
     "transfer news live: cristian romero eyes arsenal switch, liverpool want barcola,",
-    "\ud83d\udea8 \ud83d\udfe1 \ud83d\udd35 understand fenerbahce have sent new official bid to napoli tonight for rom"
+    "\ud83d\udea8 \ud83d\udfe1 \ud83d\udd35 understand fenerbahce have sent new official bid to napoli tonight for rom",
+    "fabrizio romano reveals whether man utd could still sign aurelien tchouameni fro",
+    "brennan johnson joining everton while dwight mcneil joins crystal palace in swap",
+    "rt @fabrizioromano : \ud83d\udea8 real madrid are internally planning with endrick as part "
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2161,15 +2164,15 @@
     "axel donczew": "",
     "martin": "",
     "berat djimsiti": "https://r2.thesportsdb.com/images/media/player/cutout/a1u2x81695157220.png/small",
-    "ousmane ndiaye": "",
     "lacine megnan pave": "",
     "backup goalkeeper": "",
     "gero": "",
     "rodri hernandez": "",
     "kerem alajbegovic": "",
-    "mateo soule": ""
+    "mateo soule": "",
+    "ousmane ndiaye": ""
   },
-  "photo_repair_idx": 6,
+  "photo_repair_idx": 7,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

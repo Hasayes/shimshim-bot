@@ -1187,7 +1187,9 @@
     "tg:FabrizioRomanoTG/64356",
     "1b12cf6e3830dd820fd981b5a5011221",
     "tg:FabrizioRomanoTG/64357",
-    "tg:FabrizioRomanoTG/64358"
+    "tg:FabrizioRomanoTG/64358",
+    "946164e2904a9f281efa5456ba0540ea",
+    "tg:FabrizioRomanoTG/64360"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1583,8 +1585,6 @@
     "interest: pave -> psg"
   ],
   "titles": [
-    "fabrizio romano says \u2018chelsea agree deal\u2019 for \u20ac21m star \u2013 \u2018here we go\u2019",
-    "fabrizio romano confirms \u201cclub to club\u201d talks for \u00a340m star alexis mac allister ",
     "fabrizio romano confirms chelsea\u2019s eighth summer signing with \u2018here we go\u2019",
     "contact made as arsenal approached by european giants for star attacker; gunners",
     "rodri's agent confirms player has informed clubs of choice between barcelona & r",
@@ -1882,7 +1882,9 @@
     "ronald araujo has signed his liverpool contract done and completed \ud83d\udd34 \ud83d\udd10 https://t",
     "psg increases zion suzuki offer to \u20ac35m, could loan him to juventus",
     "\ud83d\udd34 \u26aa\ufe0f \ud83d\udd10 official: bayern confirm the signing of bara sapoko ndiaye on a 5 year co",
-    "\ud83d\udd35 \u26aa\ufe0f excl: mansour ouro tagba has agreed to join vfl bochum from fc koln, deal n"
+    "\ud83d\udd35 \u26aa\ufe0f excl: mansour ouro tagba has agreed to join vfl bochum from fc koln, deal n",
+    "bayern munich news: not even \u20ac200 million might convince fc bayern to sell micha",
+    "\ud83d\udea8 \u26ab\ufe0f \ud83d\udd35 inter remain keen on djed spence as right wing back, as revealed last nig"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2140,15 +2142,15 @@
     "zachary athekame": "https://r2.thesportsdb.com/images/media/player/cutout/invusy1758893640.png/small",
     "axel donczew": "",
     "martin": "",
-    "kerem alajbegovic": "",
     "mateo soule": "",
     "ousmane ndiaye": "",
     "lacine megnan pave": "",
     "backup goalkeeper": "",
     "gero": "",
-    "rodri hernandez": ""
+    "rodri hernandez": "",
+    "kerem alajbegovic": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 5,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

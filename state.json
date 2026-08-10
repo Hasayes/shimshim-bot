@@ -1161,7 +1161,9 @@
     "ba4c45056483c9efc853616775fd3380",
     "9bd8ee01de94662e23af1a0c850effed",
     "39ddd4370b9fcf83a33d9f2d6f41804c",
-    "94ebc1f65dc4a8a5cd4f892af66aa022"
+    "94ebc1f65dc4a8a5cd4f892af66aa022",
+    "701488a5319569809864c1951c25fdb2",
+    "57127300c60043b6c92e2967a1816b20"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1556,8 +1558,6 @@
     "interest: casado -> manchester united"
   ],
   "titles": [
-    "the truth about vini jr with fabrizio romano and ben jacobs | pm andy burnham ex",
-    "fabrizio romano: vini jr set to stay, rodri picks barca & barcola wants liverpoo",
     "manchester united transfer news: old trafford confirms signing of 18 year old mi",
     "la liga: arsenal target vini jr set to sign six year contract with madrid",
     "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f atletico madrid prepare new official bid for cuti romero as clear frontru",
@@ -1855,7 +1855,9 @@
     "newcastle line up stunning double signing as man city boss maresca hints deal on",
     "romano: \u00a3300,000 a week star snubs man utd exit proposals as carrick verdict rev",
     "marcus rashford\u2019s man united shirt number confirmed as matheus cunha keeps no 10",
-    "midfielder \u2018keen on joining\u2019 man utd \u2018this summer\u2019 as ineos in talks to reach ag"
+    "midfielder \u2018keen on joining\u2019 man utd \u2018this summer\u2019 as ineos in talks to reach ag",
+    "done deals: frosinone secure terzic, schmid and grillitsch agreements",
+    "curtis jones future: why the liverpool midfielder not included in squad against "
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2112,15 +2114,15 @@
     "facundo buonanotte": "https://r2.thesportsdb.com/images/media/player/cutout/ct1hg91772132428.png/small",
     "zachary athekame": "https://r2.thesportsdb.com/images/media/player/cutout/invusy1758893640.png/small",
     "axel donczew": "",
-    "rodri hernandez": "",
     "kerem alajbegovic": "",
     "mateo soule": "",
     "ousmane ndiaye": "",
     "martin": "",
     "backup goalkeeper": "",
-    "gero": ""
+    "gero": "",
+    "rodri hernandez": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

@@ -1215,7 +1215,11 @@
     "6dc52d93df80accd02e20d795c600749",
     "tg:FabrizioRomanoTG/64376",
     "e5933591fbb208185e921341d201f88a",
-    "tg:FabrizioRomanoTG/64377"
+    "tg:FabrizioRomanoTG/64377",
+    "585bab406543918798656b7c77f1e997",
+    "c0004db48cff21aa23afac82214293a0",
+    "817e2353b52365cd8072183564b070b9",
+    "d9dda87b59c65baffbd5fd894176fcbf"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1610,12 +1614,10 @@
     "interest: araujo -> liverpool",
     "interest: casado -> manchester united",
     "interest: pave -> psg",
-    "interest: diaby -> inter"
+    "interest: diaby -> inter",
+    "interest: seys -> manchester united"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83e\ude75 geronimo rulli to manchester city, here we go! deal closed now between clubs",
-    "transfer: rodri agrees deal with barcelona",
-    "manchester city star rodri set for move to fc barcelona",
     "\ud83d\udea8 \ud83c\udde9\ud83c\uddff official: ismael bennacer leaves ac milan with contract mutually terminated",
     "divisive arsenal star emerging as popular transfer option for euro giants",
     "transfer news live: shock arsenal move, alvarez agreement; man utd and chelsea d",
@@ -1912,7 +1914,10 @@
     "inter prepare new offer for moussa diaby as leverkusen face competition",
     "rt @fabrizioromano : \ud83d\udea8 \ud83d\udfe1 \ud83d\udd35 understand fenerbahce have sent new official bid to n",
     "world cup hero wants barcelona future resolved before training return",
-    "\ud83d\udea8 \u26aa\ufe0f official: micky van de ven signs new five year deal at tottenham, following"
+    "\ud83d\udea8 \u26aa\ufe0f official: micky van de ven signs new five year deal at tottenham, following",
+    "done deal: super eagles hopeful set for benevento medical ahead of fiorentina co",
+    "transfer rumors, news: man united turn to youth in chase for leicester, club bru",
+    "bradley barcola \u2018gives green light\u2019 for transfer as arsenal set to battle liverp"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2171,16 +2176,17 @@
     "axel donczew": "",
     "martin": "",
     "berat djimsiti": "https://r2.thesportsdb.com/images/media/player/cutout/a1u2x81695157220.png/small",
-    "rodri hernandez": "",
     "kerem alajbegovic": "",
     "mateo soule": "",
     "ousmane ndiaye": "",
     "moussa diaby": "https://r2.thesportsdb.com/images/media/player/cutout/jxusnf1694202001.png/small",
     "lacine megnan pave": "",
     "backup goalkeeper": "",
-    "gero": ""
+    "gero": "",
+    "joaquin seys": "https://r2.thesportsdb.com/images/media/player/cutout/34zoma1767634511.png/small",
+    "rodri hernandez": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

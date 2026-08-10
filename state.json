@@ -1222,7 +1222,9 @@
     "d9dda87b59c65baffbd5fd894176fcbf",
     "cee51fd520e98d3f4092d01b6715c380",
     "b006db2d85a11f140a7b2b2c334708c4",
-    "d323448b02fc66eaecbc6faed82dca1f"
+    "d323448b02fc66eaecbc6faed82dca1f",
+    "aec38412a7047309a4fa29c81a625d80",
+    "3b1f66eff99c0eec88873ba5f84684fd"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1621,8 +1623,6 @@
     "interest: seys -> manchester united"
   ],
   "titles": [
-    "what man united need in the transfer window: top targets and players leaving bef",
-    "transfer: rodri\u2019s agent confirms why spain midfielder picked barcelona over real",
     "rodri\u2019s agent confirms player has informed clubs of choice between barcelona & r",
     "vini jr arsenal transfer pursuit ends as real madrid star signs new deal until 2",
     "arsenal news: vinicius jr agreement reached, major transfer twist, bruno guimara",
@@ -1920,7 +1920,9 @@
     "bradley barcola \u2018gives green light\u2019 for transfer as arsenal set to battle liverp",
     "just in: midfielder agrees personal terms with man city, wants immediate move",
     "man utd dramatically reignite \u00a386m midfield move as chelsea launch aggressive pu",
-    "not savinho! enzo maresca opens up on man city attacker\u2019s future amid tottenham "
+    "not savinho! enzo maresca opens up on man city attacker\u2019s future amid tottenham ",
+    "romano drops barcola bombshell and issues update on what liverpool need to do ne",
+    "inter prepare bumper offer for al ittihad star diaby"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2179,7 +2181,6 @@
     "axel donczew": "",
     "martin": "",
     "berat djimsiti": "https://r2.thesportsdb.com/images/media/player/cutout/a1u2x81695157220.png/small",
-    "mateo soule": "",
     "ousmane ndiaye": "",
     "moussa diaby": "https://r2.thesportsdb.com/images/media/player/cutout/jxusnf1694202001.png/small",
     "lacine megnan pave": "",
@@ -2187,9 +2188,10 @@
     "gero": "",
     "joaquin seys": "https://r2.thesportsdb.com/images/media/player/cutout/34zoma1767634511.png/small",
     "rodri hernandez": "",
-    "kerem alajbegovic": ""
+    "kerem alajbegovic": "",
+    "mateo soule": ""
   },
-  "photo_repair_idx": 5,
+  "photo_repair_idx": 6,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

@@ -1159,7 +1159,8 @@
     "e4a10ac43e682ea930d9faae28663df6",
     "f903bf4d9fe3a281b9fcef20c85d27fa",
     "ba4c45056483c9efc853616775fd3380",
-    "9bd8ee01de94662e23af1a0c850effed"
+    "9bd8ee01de94662e23af1a0c850effed",
+    "39ddd4370b9fcf83a33d9f2d6f41804c"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1554,7 +1555,6 @@
     "interest: casado -> manchester united"
   ],
   "titles": [
-    "rodri gives barcelona transfer green light as real madrid hopes halt",
     "rb leipzig aim cheeky dig at fabrizio romano with yan diomande transfer announce",
     "the truth about vini jr with fabrizio romano and ben jacobs | pm andy burnham ex",
     "fabrizio romano: vini jr set to stay, rodri picks barca & barcola wants liverpoo",
@@ -1853,7 +1853,8 @@
     "medical date booked with shea charles set to become northern ireland's most expe",
     "marcus rashford gets unexpected new manchester united shirt number after returni",
     "newcastle line up stunning double signing as man city boss maresca hints deal on",
-    "romano: \u00a3300,000 a week star snubs man utd exit proposals as carrick verdict rev"
+    "romano: \u00a3300,000 a week star snubs man utd exit proposals as carrick verdict rev",
+    "marcus rashford\u2019s man united shirt number confirmed as matheus cunha keeps no 10"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2110,15 +2111,15 @@
     "facundo buonanotte": "https://r2.thesportsdb.com/images/media/player/cutout/ct1hg91772132428.png/small",
     "zachary athekame": "https://r2.thesportsdb.com/images/media/player/cutout/invusy1758893640.png/small",
     "axel donczew": "",
-    "backup goalkeeper": "",
     "gero": "",
     "rodri hernandez": "",
     "kerem alajbegovic": "",
     "mateo soule": "",
     "ousmane ndiaye": "",
-    "martin": ""
+    "martin": "",
+    "backup goalkeeper": ""
   },
-  "photo_repair_idx": 7,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

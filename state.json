@@ -1204,7 +1204,8 @@
     "tg:FabrizioRomanoTG/64371",
     "8ee2fdb41c4638f5a8865f7b278b0166",
     "1e62fb1e7b8de8a83e75a7f8715ab912",
-    "tg:FabrizioRomanoTG/64372"
+    "tg:FabrizioRomanoTG/64372",
+    "c3649b38b6e6ad8e9fcb3f459c91bdf2"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1601,7 +1602,6 @@
     "interest: pave -> psg"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 paris saint germain remain in club to club active talks for mika godts wit",
     "\ud83d\udea8 \ud83c\udde7\ud83c\uddea there are no negotiations or talks at all for romelu lukaku to as monaco he",
     "enzo maresca identifies premier league star as 'dream' successor to rodri as man",
     "@city_xtra gero is still in france no medical (yet, \ud83d\udd1c \u23f3 ) \u2014 fabrizio romano ( @f",
@@ -1900,7 +1900,8 @@
     "liverpool given green light to sign \u2018excellent\u2019 star, he\u2019d improve them massivel",
     "transfer news live: arsenal want romero, barcola hijack; liverpool done deal; ma",
     "romano confirms liverpool have \u2018exchanged all documents\u2019 to complete latest sign",
-    "\ud83d\udea8 \u26aa\ufe0f \ud83d\udd35 celta vigo are preparing an official bid for exequiel zeballos, expected "
+    "\ud83d\udea8 \u26aa\ufe0f \ud83d\udd35 celta vigo are preparing an official bid for exequiel zeballos, expected ",
+    "transfer news live: cristian romero eyes arsenal switch, liverpool want barcola,"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2158,16 +2159,16 @@
     "zachary athekame": "https://r2.thesportsdb.com/images/media/player/cutout/invusy1758893640.png/small",
     "axel donczew": "",
     "martin": "",
-    "kerem alajbegovic": "",
     "mateo soule": "",
     "berat djimsiti": "https://r2.thesportsdb.com/images/media/player/cutout/a1u2x81695157220.png/small",
     "ousmane ndiaye": "",
     "lacine megnan pave": "",
     "backup goalkeeper": "",
     "gero": "",
-    "rodri hernandez": ""
+    "rodri hernandez": "",
+    "kerem alajbegovic": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 5,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

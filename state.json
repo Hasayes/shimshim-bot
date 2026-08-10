@@ -1178,7 +1178,8 @@
     "49d8a47d53e929ceae0ab494b1054a0f",
     "tg:FabrizioRomanoTG/64340",
     "tg:FabrizioRomanoTG/64341",
-    "93785e193d5c7e6ffca7b337d9c80886"
+    "93785e193d5c7e6ffca7b337d9c80886",
+    "b904073ffb763cf455ae2406e76cf1c1"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2130,14 +2131,14 @@
     "zachary athekame": "https://r2.thesportsdb.com/images/media/player/cutout/invusy1758893640.png/small",
     "axel donczew": "",
     "martin": "",
-    "ousmane ndiaye": "",
     "backup goalkeeper": "",
     "gero": "",
     "rodri hernandez": "",
     "kerem alajbegovic": "",
-    "mateo soule": ""
+    "mateo soule": "",
+    "ousmane ndiaye": ""
   },
-  "photo_repair_idx": 5,
+  "photo_repair_idx": 6,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

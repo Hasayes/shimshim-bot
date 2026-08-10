@@ -1146,7 +1146,8 @@
     "13b8eedc42d6d6812673a458c3ff3294",
     "22e00e5a13d97439cdded821faf99268",
     "61a3e2d74784a31a3a2b9b9f621eddbf",
-    "eb7700e55f3220a55645cae32a7ea874"
+    "eb7700e55f3220a55645cae32a7ea874",
+    "192d3c19bb534f31f338ab72e3cea2ce"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1540,7 +1541,6 @@
     "interest: casado -> manchester united"
   ],
   "titles": [
-    "romano drops vinicius junior to arsenal \u2018important update\u2019 as mourinho gets invo",
     "west ham stall in talks for premier league winger as italian club target deal",
     "barcelona transfer news: rodri opens doors to camp nou for first time ever after",
     "juventus transfer roundup: a goalkeeper path, a midfield target, and an exit str",
@@ -1839,7 +1839,8 @@
     "forest set to sign ousmane diomande for \u00a334m",
     "report: marquee liverpool transfer under fresh threat as arsenal line up audacio",
     "aston villa given green light to sign real madrid star",
-    "town 'make palacios bid'"
+    "town 'make palacios bid'",
+    "arsenal rejected \u20ac35m bid for ethan nwaneri"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2096,14 +2097,14 @@
     "facundo buonanotte": "https://r2.thesportsdb.com/images/media/player/cutout/ct1hg91772132428.png/small",
     "zachary athekame": "https://r2.thesportsdb.com/images/media/player/cutout/invusy1758893640.png/small",
     "gero": "",
-    "martin": "",
     "axel donczew": "",
     "rodri hernandez": "",
     "kerem alajbegovic": "",
     "mateo soule": "",
-    "ousmane ndiaye": ""
+    "ousmane ndiaye": "",
+    "martin": ""
   },
-  "photo_repair_idx": 5,
+  "photo_repair_idx": 6,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

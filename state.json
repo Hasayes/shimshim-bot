@@ -1224,7 +1224,8 @@
     "b006db2d85a11f140a7b2b2c334708c4",
     "d323448b02fc66eaecbc6faed82dca1f",
     "aec38412a7047309a4fa29c81a625d80",
-    "3b1f66eff99c0eec88873ba5f84684fd"
+    "3b1f66eff99c0eec88873ba5f84684fd",
+    "55d7248b45a0a422922a59f12579872f"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1623,7 +1624,6 @@
     "interest: seys -> manchester united"
   ],
   "titles": [
-    "rodri\u2019s agent confirms player has informed clubs of choice between barcelona & r",
     "vini jr arsenal transfer pursuit ends as real madrid star signs new deal until 2",
     "arsenal news: vinicius jr agreement reached, major transfer twist, bruno guimara",
     "rodri out, fernandez in at city?",
@@ -1922,7 +1922,8 @@
     "man utd dramatically reignite \u00a386m midfield move as chelsea launch aggressive pu",
     "not savinho! enzo maresca opens up on man city attacker\u2019s future amid tottenham ",
     "romano drops barcola bombshell and issues update on what liverpool need to do ne",
-    "inter prepare bumper offer for al ittihad star diaby"
+    "inter prepare bumper offer for al ittihad star diaby",
+    "rodri barcelona move: midfielder pushes to fast track his transfer"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2181,7 +2182,6 @@
     "axel donczew": "",
     "martin": "",
     "berat djimsiti": "https://r2.thesportsdb.com/images/media/player/cutout/a1u2x81695157220.png/small",
-    "ousmane ndiaye": "",
     "moussa diaby": "https://r2.thesportsdb.com/images/media/player/cutout/jxusnf1694202001.png/small",
     "lacine megnan pave": "",
     "backup goalkeeper": "",
@@ -2189,9 +2189,10 @@
     "joaquin seys": "https://r2.thesportsdb.com/images/media/player/cutout/34zoma1767634511.png/small",
     "rodri hernandez": "",
     "kerem alajbegovic": "",
-    "mateo soule": ""
+    "mateo soule": "",
+    "ousmane ndiaye": ""
   },
-  "photo_repair_idx": 6,
+  "photo_repair_idx": 7,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

@@ -1197,7 +1197,11 @@
     "9be35527f645cf962935d255ba4f01e8",
     "tg:FabrizioRomanoTG/64367",
     "tg:FabrizioRomanoTG/64368",
-    "tg:FabrizioRomanoTG/64370"
+    "tg:FabrizioRomanoTG/64370",
+    "3ee7537884053f15ee4c02b9671f0f63",
+    "45f7ff5eefd59a53c738bbca481e2f38",
+    "b5cd9fa86d7c58dfd238566671aea376",
+    "tg:FabrizioRomanoTG/64371"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1594,9 +1598,6 @@
     "interest: pave -> psg"
   ],
   "titles": [
-    "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f gleison bremer confirms he never asked to leave juventus this summer: \u201ct",
-    "rt @fabrizioromano : \ud83d\udea8 \ud83d\udd35 \ud83d\udd34 the negotiations between barca and man city for rodri",
-    "\ud83d\udea8 \ud83c\uddfa\ud83c\uddf8 sergi roberto to la galaxy, here we go! verbal agreement done for former ba",
     "\ud83d\udea8 negotiations continue between liverpool and psg for bradley barcola but nothin",
     "\ud83d\udea8 \ud83e\ude75 manchester city are expected to close all details of ayyoub bouaddi deal soo",
     "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 direct club to club talks for rodri continue as barcelona are prepared to ",
@@ -1893,7 +1894,10 @@
     "rashford gets new no 14 shirt as man united signal fresh faith in forward",
     "\ud83d\udea8 \ud83d\udfe1 \ud83d\udd34 nahuel molina has just landed in rome, welcomed by as roma fans as he join",
     "rt @fabrizioromano : \ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f atletico madrid prepare new official bid for cuti ro",
-    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f cuti romero and atletico madrid, deal close as new bid will be sent soon "
+    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f cuti romero and atletico madrid, deal close as new bid will be sent soon ",
+    "psg react to liverpool\u2019s \u2018indicated proposal\u2019 for bradley barcola \u2013 fabrizio rom",
+    "bradley barcola: psg react to liverpool's 'indicated proposal' \u2013 fabrizio romano",
+    "liverpool given green light to sign \u2018excellent\u2019 star, he\u2019d improve them massivel"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2151,16 +2155,16 @@
     "zachary athekame": "https://r2.thesportsdb.com/images/media/player/cutout/invusy1758893640.png/small",
     "axel donczew": "",
     "martin": "",
-    "gero": "",
     "rodri hernandez": "",
     "kerem alajbegovic": "",
     "mateo soule": "",
     "berat djimsiti": "https://r2.thesportsdb.com/images/media/player/cutout/a1u2x81695157220.png/small",
     "ousmane ndiaye": "",
     "lacine megnan pave": "",
-    "backup goalkeeper": ""
+    "backup goalkeeper": "",
+    "gero": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

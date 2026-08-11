@@ -1291,7 +1291,9 @@
     "c642f9b9d2ad9c555ef805004a9fc7fa",
     "tg:FabrizioRomanoTG/64406",
     "tg:FabrizioRomanoTG/64407",
-    "tg:FabrizioRomanoTG/64408"
+    "tg:FabrizioRomanoTG/64408",
+    "tg:FabrizioRomanoTG/64409",
+    "tg:FabrizioRomanoTG/64410"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1489,7 +1491,7 @@
     "athekame -> olympique lyon": 1,
     "goalkeeper -> strasbourg": 1,
     "djimsiti -> al diriyah": 2,
-    "mubama -> southampton": 1,
+    "mubama -> southampton": 2,
     "almada -> river plate": 2,
     "lukaku -> fenerbahce": 1,
     "suzuki -> psg": 1
@@ -1666,8 +1668,6 @@
     "interest: romero -> atletico madrid"
   ],
   "titles": [
-    "barcelona, roony bardghji \u201cset to explore a move\u201d in final weeks of transfer win",
-    "chelsea closing in on defender signing but midfielder attracting interest from p",
     "latest: new report names chelsea\u2019s asking price for enzo fernandez as man city g",
     "man city transfer news: 'agreement close' for midfield target amid ayyoub bouadd",
     "liverpool gets new bradley barcola transfer update after 'deal agreed' claim",
@@ -1965,7 +1965,9 @@
     "rt @fabrizioromano : \ud83d\udea8 \ud83c\uddfa\ud83c\udde6 chelsea are open to considering loan proposals for myk",
     "\ud83e\udde8 gimenez close to leaving milan: advanced talks with porto",
     "\ud83d\udea8 \ud83d\udfe0 \u26ab\ufe0f nobel mendy deal, completed and agreed for hull city after new talks with",
-    "\ud83d\udfe0 \u26ab\ufe0f \ud83c\uddf8\ud83c\uddf3 excl: nobel mendy, on his way to join hull city from rayo vallecano \u2708\ufe0f f"
+    "\ud83d\udfe0 \u26ab\ufe0f \ud83c\uddf8\ud83c\uddf3 excl: nobel mendy, on his way to join hull city from rayo vallecano \u2708\ufe0f f",
+    "\ud83d\udea8 \ud83c\udf33 official, confirmed ousmane diomande joins nottingham forest contract valid ",
+    "\ud83d\udd34 \u26aa\ufe0f \ud83e\udd1d\ud83c\udfff divin mubama has joined southampton on loan deal from manchester city, a"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2231,13 +2233,13 @@
     "gero": "",
     "endrick": "",
     "romelu lukaku": "https://r2.thesportsdb.com/images/media/player/cutout/qi2z1d1764089572.png/small",
-    "rodri hernandez": "",
     "kerem alajbegovic": "",
     "mateo soule": "",
     "ousmane ndiaye": "",
-    "lacine megnan pave": ""
+    "lacine megnan pave": "",
+    "rodri hernandez": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

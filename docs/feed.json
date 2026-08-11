@@ -1,5 +1,25 @@
 [
  {
+  "id": "50df38bc889d9a201ed72cd8b528c993",
+  "ts": "2026-08-11T11:00:36+00:00",
+  "kind": "deal",
+  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/g1avfr1761251337.png/small",
+  "stage": "Completed",
+  "player": "Divin Mubama",
+  "position": "Striker",
+  "age": "\u2014",
+  "from_club": "Manchester City",
+  "to_club": "Southampton",
+  "fee": "Loan",
+  "style": "Physical, energetic striker who uses his athleticism and movement to create chances in the box.",
+  "fit": "Should operate as Southampton's primary forward to lead the line and develop his finishing in regular first-team football.",
+  "source": "Fabrizio Romano",
+  "summary": "Divin Mubama has joined Southampton on loan from Manchester City with approval from City.",
+  "outlet": "Telegram @fabrizioromanotg",
+  "url": "https://t.me/FabrizioRomanoTG/64410",
+  "title": "\ud83d\udd34 \u26aa\ufe0f \ud83e\udd1d\ud83c\udfff Divin Mubama has joined Southampton on loan deal from Manchester City, as reported. Green light from #MCFC and o"
+ },
+ {
   "id": "tg:FabrizioRomanoTG/63661",
   "ts": "2026-08-11T09:30:39+00:00",
   "kind": "deal",
@@ -78,26 +98,6 @@
   "outlet": "yahoo",
   "url": "https://ca.sports.yahoo.com/news/manor-solomon-joins-west-ham-185500913.html",
   "title": "Manor Solomon joins West Ham from Tottenham Hotspur"
- },
- {
-  "id": "50df38bc889d9a201ed72cd8b528c993",
-  "ts": "2026-08-10T22:45:51+00:00",
-  "kind": "deal",
-  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/g1avfr1761251337.png/small",
-  "stage": "Here we go",
-  "player": "Divin Mubama",
-  "position": "Striker",
-  "age": "\u2014",
-  "from_club": "Manchester City",
-  "to_club": "Southampton",
-  "fee": "Loan",
-  "style": "Physical, energetic striker who uses his athleticism and movement to create chances in the box.",
-  "fit": "Should operate as Southampton's primary forward to lead the line and develop his finishing in regular first-team football.",
-  "source": "Yahoo",
-  "summary": "Southampton have reportedly reached a verbal agreement to sign striker Divin Mubama on loan from Manchester City.",
-  "outlet": "yahoo",
-  "url": "https://ca.sports.yahoo.com/news/gossip-saints-agree-loan-man-104406095.html",
-  "title": "Gossip: Saints agree loan for Man City striker Mubama"
  },
  {
   "id": "c0004db48cff21aa23afac82214293a0",

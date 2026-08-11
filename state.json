@@ -1270,7 +1270,10 @@
     "tg:FabrizioRomanoTG/64390",
     "1701b2a0fb02559d5c96402f9cccc72a",
     "0fb8485c80acce64d55a9e002072bb10",
-    "tg:FabrizioRomanoTG/64391"
+    "tg:FabrizioRomanoTG/64391",
+    "8860cff15e966f6305c4169978254574",
+    "56b65928474bac8a57fd914efe5706e1",
+    "tg:FabrizioRomanoTG/64393"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1642,9 +1645,6 @@
     "interest: seys -> manchester united"
   ],
   "titles": [
-    "arsenal set \u00a317m+ asking price for napoli target",
-    "man utd have just received some bad news about signing \u20ac28m star",
-    "'this is not goodbye' altay bayindir sends message to manchester united fans aft",
     "\u2018this is not goodbye\u2019 altay bayindir sends message to manchester united fans aft",
     "liverpool's centre back pursuit: fabrizio romano update",
     "18 year old tottenham target from psg giving priority to liverpool project",
@@ -1941,7 +1941,10 @@
     "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 paris saint germain plan to return in direct talks over mika godts deal af",
     "manor solomon joins west ham from tottenham hotspur",
     "real reason liverpool haven\u2019t bid for barcola emerges, as arsenal hijack truths ",
-    "\ud83d\udea8 \u26aa\ufe0f thiago pitarch, not expected to join fulham as they signed shea charles rea"
+    "\ud83d\udea8 \u26aa\ufe0f thiago pitarch, not expected to join fulham as they signed shea charles rea",
+    "fenerbahce submit bid to sign second former manchester united attacker of summer",
+    "romelu lukaku transfer: striker's napoli exit 'getting closer' as fabrizio roman",
+    "\ud83d\udea8 \ud83c\uddfa\ud83c\udde6 chelsea are open to considering loan proposals for mykhaylo mudryk to let h"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2206,13 +2209,13 @@
     "backup goalkeeper": "",
     "gero": "",
     "endrick": "",
-    "ousmane ndiaye": "",
     "lacine megnan pave": "",
     "rodri hernandez": "",
     "kerem alajbegovic": "",
-    "mateo soule": ""
+    "mateo soule": "",
+    "ousmane ndiaye": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 5,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

@@ -1297,7 +1297,9 @@
     "tg:FabrizioRomanoTG/64412",
     "3ffd5e50b4ad5715f9f98ab8d5353128",
     "tg:FabrizioRomanoTG/64413",
-    "tg:FabrizioRomanoTG/64414"
+    "tg:FabrizioRomanoTG/64414",
+    "tg:FabrizioRomanoTG/64415",
+    "tg:FabrizioRomanoTG/64416"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1498,7 +1500,8 @@
     "mubama -> southampton": 2,
     "almada -> river plate": 2,
     "lukaku -> fenerbahce": 1,
-    "suzuki -> psg": 1
+    "suzuki -> psg": 1,
+    "phillips -> sheffield united": 1
   },
   "interest": [
     "interest: alvarez -> arsenal",
@@ -1672,8 +1675,6 @@
     "interest: romero -> atletico madrid"
   ],
   "titles": [
-    "djed spence would be the ultimate test of michael carrick man management, he has",
-    "romano: medical taking place for chelsea\u2019s \u20ac21m backup signing after long negoti",
     "liverpool transfer news latest on 'deal agreed' claims as \u20ac115m bradley barcola ",
     "romano: tottenham have 'good chance' of signing \u00a3250,000 a week forward",
     "romano: liverpool now 'lead race' to sign bradley barcola alternative",
@@ -1971,7 +1972,9 @@
     "\ud83d\udea8 \ud83d\udfe0 \u26ab\ufe0f lucas herrington has completed medical tests today as new hull city playe",
     "micky van de ven commits long term future to tottenham with new five year contra",
     "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f napoli have agreed deal to sign costantini favasuli as new right back, he",
-    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f giovanni di lorenzo has verbally agreed to sign new contract at napoli un"
+    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f giovanni di lorenzo has verbally agreed to sign new contract at napoli un",
+    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f verbal agreement in place between sheffield united and manchester city fo",
+    "\ud83d\udea8 \u26ab\ufe0f \ud83d\udd35 excl: inter are set for club to club talks with spurs for djed spence wit"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2237,13 +2240,14 @@
     "gero": "",
     "endrick": "",
     "romelu lukaku": "https://r2.thesportsdb.com/images/media/player/cutout/qi2z1d1764089572.png/small",
-    "lacine megnan pave": "",
     "rodri hernandez": "",
     "kerem alajbegovic": "",
     "mateo soule": "",
-    "ousmane ndiaye": ""
+    "ousmane ndiaye": "",
+    "kalvin phillips": "https://r2.thesportsdb.com/images/media/player/cutout/vokeo81755870309.png/small",
+    "lacine megnan pave": ""
   },
-  "photo_repair_idx": 5,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",
@@ -2389,6 +2393,7 @@
     "paok saloniki": "",
     "strasbourg": "https://r2.thesportsdb.com/images/media/team/badge/b8k77w1766625501.png/small",
     "montpellier": "https://r2.thesportsdb.com/images/media/team/badge/8wn9x31750879448.png/small",
-    "al diriyah": "https://r2.thesportsdb.com/images/media/team/badge/0m7ub31782452735.png/small"
+    "al diriyah": "https://r2.thesportsdb.com/images/media/team/badge/0m7ub31782452735.png/small",
+    "sheffield united": "https://r2.thesportsdb.com/images/media/team/badge/w7f8pj1672950689.png/small"
   }
 }

@@ -1293,7 +1293,8 @@
     "tg:FabrizioRomanoTG/64407",
     "tg:FabrizioRomanoTG/64408",
     "tg:FabrizioRomanoTG/64409",
-    "tg:FabrizioRomanoTG/64410"
+    "tg:FabrizioRomanoTG/64410",
+    "tg:FabrizioRomanoTG/64412"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1668,7 +1669,6 @@
     "interest: romero -> atletico madrid"
   ],
   "titles": [
-    "latest: new report names chelsea\u2019s asking price for enzo fernandez as man city g",
     "man city transfer news: 'agreement close' for midfield target amid ayyoub bouadd",
     "liverpool gets new bradley barcola transfer update after 'deal agreed' claim",
     "ornstein: man city refuse to engage with unserious \u20ac45m offer for midfielder",
@@ -1967,7 +1967,8 @@
     "\ud83d\udea8 \ud83d\udfe0 \u26ab\ufe0f nobel mendy deal, completed and agreed for hull city after new talks with",
     "\ud83d\udfe0 \u26ab\ufe0f \ud83c\uddf8\ud83c\uddf3 excl: nobel mendy, on his way to join hull city from rayo vallecano \u2708\ufe0f f",
     "\ud83d\udea8 \ud83c\udf33 official, confirmed ousmane diomande joins nottingham forest contract valid ",
-    "\ud83d\udd34 \u26aa\ufe0f \ud83e\udd1d\ud83c\udfff divin mubama has joined southampton on loan deal from manchester city, a"
+    "\ud83d\udd34 \u26aa\ufe0f \ud83e\udd1d\ud83c\udfff divin mubama has joined southampton on loan deal from manchester city, a",
+    "\ud83d\udea8 \ud83d\udfe0 \u26ab\ufe0f lucas herrington has completed medical tests today as new hull city playe"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2233,13 +2234,13 @@
     "gero": "",
     "endrick": "",
     "romelu lukaku": "https://r2.thesportsdb.com/images/media/player/cutout/qi2z1d1764089572.png/small",
-    "kerem alajbegovic": "",
     "mateo soule": "",
     "ousmane ndiaye": "",
     "lacine megnan pave": "",
-    "rodri hernandez": ""
+    "rodri hernandez": "",
+    "kerem alajbegovic": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

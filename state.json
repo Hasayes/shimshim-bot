@@ -1262,7 +1262,8 @@
     "5b32797d56de063412aba68335ce0a18",
     "ba9c5817500fd6e0c3fe7ffbf0d1b503",
     "152814561564f7290b48ef6c71e623c5",
-    "tg:FabrizioRomanoTG/64388"
+    "tg:FabrizioRomanoTG/64388",
+    "25e5df87d9b905f28aa4dde9fdeb5ff4"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1634,7 +1635,6 @@
     "interest: seys -> manchester united"
   ],
   "titles": [
-    "romero wants atletico move with spaniards \u2018clear frontrunners\u2019",
     "barcelona \u2018very confident\u2019 of winning rodri transfer race",
     "\ud83d\udea8 \ud83c\uddfa\ud83c\uddfe more on the exclusive story of the day: ronald araujo will join liverpool, ",
     "arsenal star gabriel martinelli \u2018on galatasaray\u2019s transfer shortlist\u2019 with gunne",
@@ -1933,7 +1933,8 @@
     "roma interested in inter defender luis henrique",
     "psg \u201cclosing in\u201d on \u20ac50m verbal agreement for attacker says fabrizio romano",
     "manchester city go all in for rodri\u2019s replacement",
-    "\ud83d\udea8 \ud83c\udde8\ud83c\udded parma 19 year old right back sascha britschgi has officially signed with ca"
+    "\ud83d\udea8 \ud83c\udde8\ud83c\udded parma 19 year old right back sascha britschgi has officially signed with ca",
+    "liverpool target considered \u201ctoo expensive\u201d as fabrizio romano shares troubling "
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2198,13 +2199,13 @@
     "lacine megnan pave": "",
     "backup goalkeeper": "",
     "gero": "",
-    "mateo soule": "",
     "ousmane ndiaye": "",
     "endrick": "",
     "rodri hernandez": "",
-    "kerem alajbegovic": ""
+    "kerem alajbegovic": "",
+    "mateo soule": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

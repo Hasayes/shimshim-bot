@@ -1268,7 +1268,9 @@
     "tg:FabrizioRomanoTG/64389",
     "4318fffe58a1894b616d1805fb8ffb15",
     "tg:FabrizioRomanoTG/64390",
-    "1701b2a0fb02559d5c96402f9cccc72a"
+    "1701b2a0fb02559d5c96402f9cccc72a",
+    "0fb8485c80acce64d55a9e002072bb10",
+    "tg:FabrizioRomanoTG/64391"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1640,8 +1642,6 @@
     "interest: seys -> manchester united"
   ],
   "titles": [
-    "arsenal consider signing tottenham hotspur captain",
-    "liverpool could sign \u00a360m centre back imminently; current squad \u201cincreasingly re",
     "arsenal set \u00a317m+ asking price for napoli target",
     "man utd have just received some bad news about signing \u20ac28m star",
     "'this is not goodbye' altay bayindir sends message to manchester united fans aft",
@@ -1939,7 +1939,9 @@
     "\ud83d\udfe1 \ud83d\udd35 \ud83c\udde6\ud83c\uddf7 parma have reached verbal agreement with tigre for david romero as new fo",
     "why liverpool haven\u2019t bid for bradley barcola revealed as arsenal hijack truths ",
     "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 paris saint germain plan to return in direct talks over mika godts deal af",
-    "manor solomon joins west ham from tottenham hotspur"
+    "manor solomon joins west ham from tottenham hotspur",
+    "real reason liverpool haven\u2019t bid for barcola emerges, as arsenal hijack truths ",
+    "\ud83d\udea8 \u26aa\ufe0f thiago pitarch, not expected to join fulham as they signed shea charles rea"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2204,13 +2206,13 @@
     "backup goalkeeper": "",
     "gero": "",
     "endrick": "",
-    "mateo soule": "",
     "ousmane ndiaye": "",
     "lacine megnan pave": "",
     "rodri hernandez": "",
-    "kerem alajbegovic": ""
+    "kerem alajbegovic": "",
+    "mateo soule": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

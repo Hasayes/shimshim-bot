@@ -1310,7 +1310,12 @@
     "6a4dc306e749137f9bd17116825608fe",
     "0f7df67ca3b31576442a033741dda194",
     "d7a45e0333615e81255dc7a93e96937b",
-    "tg:FabrizioRomanoTG/64430"
+    "tg:FabrizioRomanoTG/64430",
+    "tg:FabrizioRomanoTG/64432",
+    "tg:FabrizioRomanoTG/64433",
+    "tg:FabrizioRomanoTG/64435",
+    "tg:FabrizioRomanoTG/64436",
+    "tg:FabrizioRomanoTG/64438"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1513,7 +1518,8 @@
     "lukaku -> fenerbahce": 1,
     "suzuki -> psg": 1,
     "phillips -> sheffield united": 1,
-    "alleyne -> burnley": 1
+    "alleyne -> burnley": 1,
+    "malonga -> rc strasbourg": 2
   },
   "interest": [
     "interest: alvarez -> arsenal",
@@ -1687,11 +1693,6 @@
     "interest: romero -> atletico madrid"
   ],
   "titles": [
-    "manchester city board bars barcelona\u2019s first move for rodri",
-    "man city transfer news: james trafford replacement's 'medical' scheduled as deta",
-    "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 barcelona are very confident to get rodri deal done no panic after first b",
-    "man utd eye 'very reasonable deal' for midfield 'leader' as tchouameni hopes fad",
-    "\ud83d\udea8 \ud83d\udd34 liverpool and barcelona signed all documents for ronald araujo loan deal the",
     "italian journalist believes \u2018this\u2019 tottenham star represents the \u2018stronger\u2019 opti",
     "barcelona must get serious in their bid to sign a manchester city leader",
     "\ud83d\udea8 newcastle made clear to lewis hall and his camp the intention not to sell him ",
@@ -1986,7 +1987,12 @@
     "rt @fabrizioromano : \ud83d\udea8 \ud83d\udfe3 exclusive: burnley agree deal to sign max alleyne as ne",
     "liverpool news: bradley barcola 'gives transfer green light' and star joins up w",
     "business should pick up now that manchester city have completed their preseason ",
-    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f lazio have approached inter for davide frattesi as new target in midfield"
+    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f lazio have approached inter for davide frattesi as new target in midfield",
+    "here we go! \ud83d\udea8 10 cars headed to 10 winners with @alrajhibank \u2018million savings ac",
+    "\ud83d\udea8 \u26ab\ufe0f \u26aa\ufe0f breaking: dusan vlahovic and his camp gave initial green light to besikt",
+    "rt @fabrizioromano : \ud83d\udea8 \u26ab\ufe0f \u26aa\ufe0f breaking: dusan vlahovic and his camp gave initial ",
+    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f rc strasbourg have agreed on deal to sign hermann malonga after he left p",
+    "\ud83d\udea8 \ud83c\udde6\ud83c\uddf7 enzo maresca would love to reunite with enzo fernandez at manchester city s"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2258,9 +2264,10 @@
     "rodri hernandez": "",
     "kerem alajbegovic": "",
     "mateo soule": "",
+    "hermann malonga": "",
     "ousmane ndiaye": ""
   },
-  "photo_repair_idx": 5,
+  "photo_repair_idx": 6,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

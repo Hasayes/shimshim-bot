@@ -1340,7 +1340,9 @@
     "671662e634456760d7643cc37d2321bd",
     "tg:FabrizioRomanoTG/64448",
     "91b7d5f0a38654f095d1ebb38577f861",
-    "8ee7c47bdcd216ad2fd9051b38a0a4fc"
+    "8ee7c47bdcd216ad2fd9051b38a0a4fc",
+    "1043805e12fd9ff341c486c0471d78e2",
+    "1f470d9f63a4d6b0d376ae058741e810"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1719,8 +1721,6 @@
     "interest: salinas -> manchester united"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 barcelona are set to send their new bid for rodri as the player has told m",
-    "\ud83d\udea8 \ud83c\udf33 ousmane diomande to nottingham forest, here we go! the defender will travel ",
     "bayern munich news: the aftermath of bayern munich\u2019s 2 1 win over aston villa; p",
     "shopping for carrick: who are man utd\u2019s best left back options if hall is unatta",
     "\ud83d\udea8 \u2692\ufe0f excl: manor solomon to west ham, here we go! deal agreed now and medical bo",
@@ -2018,7 +2018,9 @@
     "respected source issues eye catching barcola claim which could nudge him closer ",
     "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 excl: ferran torres, not scheduled to show up at barca training tomorrow t",
     "napoli agree striker sale to enable bid for arsenal 29yo",
-    "fabrizio romano confirms liverpool transfer will be completed \u2018next week\u2019"
+    "fabrizio romano confirms liverpool transfer will be completed \u2018next week\u2019",
+    "psg and parma agree on \u20ac35m deal for zion suzuki",
+    "liverpool will complete transfer \u2018next week\u2019 with \u2018plan decided\u2019 \u2013 fabrizio roma"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2288,13 +2290,13 @@
     "max alleyne": "https://r2.thesportsdb.com/images/media/player/cutout/4iimzs1769182989.png/small",
     "jorge salinas": "https://images.fotmob.com/image_resources/playerimages/1670161.png",
     "ousmane ndiaye": "",
-    "lacine megnan pave": "",
     "rodri hernandez": "",
     "kerem alajbegovic": "",
     "mateo soule": "",
-    "hermann malonga": ""
+    "hermann malonga": "",
+    "lacine megnan pave": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

@@ -1259,7 +1259,8 @@
     "f7a4911eb84ad7c98bf3f3ecd8235699",
     "0ae66f6c9399fbfc1da386489955a60c",
     "06cb36344fc84b2462b54a260e8d2e1e",
-    "5b32797d56de063412aba68335ce0a18"
+    "5b32797d56de063412aba68335ce0a18",
+    "ba9c5817500fd6e0c3fe7ffbf0d1b503"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1631,7 +1632,6 @@
     "interest: seys -> manchester united"
   ],
   "titles": [
-    "vinicius junior ends arsenal speculation with new deal to 2032",
     "\ud83d\udea8 \ud83d\udca3 the exclusive bomba of the day: ronald araujo to liverpool, here we go \ud83c\uddfa\ud83c\uddfe lo",
     "\u201cvery confident\u201d \u2013 manchester city in talks with club to get transfer done, says",
     "romero wants atletico move with spaniards \u2018clear frontrunners\u2019",
@@ -1930,7 +1930,8 @@
     "arsenal working on three transfers and initial talks with west ham are positive",
     "newcastle united transfer news: former spurs stars 'turns down' st james' park m",
     "fabrizio romano: aston villa 'very interested' in 'spectacular' endrick",
-    "roma interested in inter defender luis henrique"
+    "roma interested in inter defender luis henrique",
+    "psg \u201cclosing in\u201d on \u20ac50m verbal agreement for attacker says fabrizio romano"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2195,13 +2196,13 @@
     "lacine megnan pave": "",
     "backup goalkeeper": "",
     "gero": "",
-    "rodri hernandez": "",
     "kerem alajbegovic": "",
     "mateo soule": "",
     "ousmane ndiaye": "",
-    "endrick": ""
+    "endrick": "",
+    "rodri hernandez": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

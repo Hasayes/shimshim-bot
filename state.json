@@ -1240,7 +1240,8 @@
     "tg:FabrizioRomanoTG/64386",
     "tg:FabrizioRomanoTG/64387",
     "90b4e4f342edbfa03361406f03ec3de1",
-    "4bda03c4b944536666f6e8a0daead200"
+    "4bda03c4b944536666f6e8a0daead200",
+    "bc24b6f5d08bfe2cb308e152e5fb3625"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1637,10 +1638,10 @@
     "interest: casado -> manchester united",
     "interest: pave -> psg",
     "interest: diaby -> inter",
-    "interest: seys -> manchester united"
+    "interest: seys -> manchester united",
+    "interest: endrick -> liverpool"
   ],
   "titles": [
-    "man utd, chelsea learn brentford stance over big igor thiago sale",
     "napoli eye arsenal\u2019s gabriel jesus as lukaku heads out",
     "not barcola: fabrizio romano drops massively encouraging liverpool transfer news",
     "ornstein vs romano: why the vini jr arsenal saga shows transfer news isn\u2019t as si",
@@ -1939,7 +1940,8 @@
     "\ud83d\udea8 \ud83c\udde8\ud83c\udde6 cf montreal agree deal to sign alexis sanchez on a free transfer, here we g",
     "\ud83d\udea8 \u26ab\ufe0f \ud83d\udd35 inter are prepared to send official bid for djed spence if exit condition",
     "liverpool have serious defensive concerns but must sign \u00a3100m rated man this sum",
-    "real madrid reporter reveals whether jose mourinho wants to sign martin zubimend"
+    "real madrid reporter reveals whether jose mourinho wants to sign martin zubimend",
+    "endrick: liverpool have \u201ctaken a look\u201d but dislike real madrid\u2019s deal structure "
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2207,9 +2209,10 @@
     "rodri hernandez": "",
     "kerem alajbegovic": "",
     "mateo soule": "",
+    "endrick": "",
     "ousmane ndiaye": ""
   },
-  "photo_repair_idx": 7,
+  "photo_repair_idx": 8,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

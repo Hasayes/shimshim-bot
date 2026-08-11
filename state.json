@@ -1335,7 +1335,10 @@
     "fa014a23d3a29e0f5054d72f7c2c39a4",
     "1106e6c33324f5c5719201fa18483c25",
     "49e046c87026462283b437904498bb40",
-    "tg:FabrizioRomanoTG/64447"
+    "tg:FabrizioRomanoTG/64447",
+    "6a86b6a725305122b1545afbc0e2fcff",
+    "671662e634456760d7643cc37d2321bd",
+    "tg:FabrizioRomanoTG/64448"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1714,9 +1717,6 @@
     "interest: salinas -> manchester united"
   ],
   "titles": [
-    "\u2764\ufe0f \ud83e\udd0d mikel arteta has been pushing for long time with a clear top target for ars",
-    "transfer shocker! rb leipzig deal for fisnik asllani falls through due to medica",
-    "\u2764\ufe0f \ud83e\udd0d \ud83c\udfc6 bruno guimaraes: \u201ci want to win trophies, i want to make history and i th",
     "\u2018deal agreed\u2019 as manchester city set to complete yet another signing with medica",
     "alejandro garnacho chooses between chelsea and napoli with",
     "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 barcelona are set to send their new bid for rodri as the player has told m",
@@ -2013,7 +2013,10 @@
     "lukaku destined to leave napoli to head to fenerbahce",
     "fabrizio romano: liverpool defender will leave as loan offers arrive",
     "real madrid make endrick decision as man utd, aston villa suffer transfer blow",
-    "\ud83d\udea8 \ud83d\udfe3 \ud83d\udd35 aston villa reach verbal agreement to sign matteo ruggeri from atletico ma"
+    "\ud83d\udea8 \ud83d\udfe3 \ud83d\udd35 aston villa reach verbal agreement to sign matteo ruggeri from atletico ma",
+    "roma\u2019s interest in udogie confirmed, spurs remain hesitant",
+    "respected source issues eye catching barcola claim which could nudge him closer ",
+    "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 excl: ferran torres, not scheduled to show up at barca training tomorrow t"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2282,14 +2285,14 @@
     "kalvin phillips": "https://r2.thesportsdb.com/images/media/player/cutout/vokeo81755870309.png/small",
     "max alleyne": "https://r2.thesportsdb.com/images/media/player/cutout/4iimzs1769182989.png/small",
     "jorge salinas": "https://images.fotmob.com/image_resources/playerimages/1670161.png",
-    "kerem alajbegovic": "",
     "mateo soule": "",
     "ousmane ndiaye": "",
     "hermann malonga": "",
     "lacine megnan pave": "",
-    "rodri hernandez": ""
+    "rodri hernandez": "",
+    "kerem alajbegovic": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

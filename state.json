@@ -1265,7 +1265,9 @@
     "tg:FabrizioRomanoTG/64388",
     "25e5df87d9b905f28aa4dde9fdeb5ff4",
     "6808af3340528f3ee770f48607d17b74",
-    "tg:FabrizioRomanoTG/64389"
+    "tg:FabrizioRomanoTG/64389",
+    "4318fffe58a1894b616d1805fb8ffb15",
+    "tg:FabrizioRomanoTG/64390"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1637,8 +1639,6 @@
     "interest: seys -> manchester united"
   ],
   "titles": [
-    "arsenal star gabriel martinelli \u2018on galatasaray\u2019s transfer shortlist\u2019 with gunne",
-    "new bid: liverpool submitted winger transfer offer at 9am today",
     "\u201cmany bonuses\u201d in bruno guimaraes to arsenal transfer that newcastle are keeping",
     "arsenal consider signing tottenham hotspur captain",
     "liverpool could sign \u00a360m centre back imminently; current squad \u201cincreasingly re",
@@ -1936,7 +1936,9 @@
     "\ud83d\udea8 \ud83c\udde8\ud83c\udded parma 19 year old right back sascha britschgi has officially signed with ca",
     "liverpool target considered \u201ctoo expensive\u201d as fabrizio romano shares troubling ",
     "tottenham handed renewed hope after hoffenheim star\u2019s transfer to rb leipzig col",
-    "\ud83d\udfe1 \ud83d\udd35 \ud83c\udde6\ud83c\uddf7 parma have reached verbal agreement with tigre for david romero as new fo"
+    "\ud83d\udfe1 \ud83d\udd35 \ud83c\udde6\ud83c\uddf7 parma have reached verbal agreement with tigre for david romero as new fo",
+    "why liverpool haven\u2019t bid for bradley barcola revealed as arsenal hijack truths ",
+    "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 paris saint germain plan to return in direct talks over mika godts deal af"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2201,13 +2203,13 @@
     "backup goalkeeper": "",
     "gero": "",
     "endrick": "",
-    "rodri hernandez": "",
     "kerem alajbegovic": "",
     "mateo soule": "",
     "ousmane ndiaye": "",
-    "lacine megnan pave": ""
+    "lacine megnan pave": "",
+    "rodri hernandez": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

@@ -1302,7 +1302,8 @@
     "tg:FabrizioRomanoTG/64416",
     "tg:FabrizioRomanoTG/64417",
     "tg:FabrizioRomanoTG/64418",
-    "tg:FabrizioRomanoTG/64420"
+    "tg:FabrizioRomanoTG/64420",
+    "tg:FabrizioRomanoTG/64422"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1678,7 +1679,6 @@
     "interest: romero -> atletico madrid"
   ],
   "titles": [
-    "borussia dortmund revive bundesliga interest in giannis konstantelias",
     "serie a giants target arsenal striker as gunners insist on permanent sale",
     "man city make rodri decision after \u2018derisory\u2019 offer from barcelona",
     "arsenal to re enter barcola race, man utd eye spanish left back euro transfer ne",
@@ -1977,7 +1977,8 @@
     "\ud83d\udea8 \u26ab\ufe0f \ud83d\udd35 excl: inter are set for club to club talks with spurs for djed spence wit",
     "\ud83d\udea8 \u26ab\ufe0f \ud83d\udd35 thomas kristensen to atalanta, here we go! verbal agreement in place on l",
     "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f besiktas have sent their final proposal to dusan vlahovic and his camp t",
-    "\ud83d\udea8 \ud83d\udfe2 \u26ab\ufe0f rafael obrador to sassuolo, here we go! deal in place for left back to jo"
+    "\ud83d\udea8 \ud83d\udfe2 \u26ab\ufe0f rafael obrador to sassuolo, here we go! deal in place for left back to jo",
+    "rt @fabrizioromano : \ud83d\udea8 \ud83d\udfe0 \u26ab\ufe0f lucas herrington has completed medical tests today a"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2243,14 +2244,14 @@
     "gero": "",
     "endrick": "",
     "romelu lukaku": "https://r2.thesportsdb.com/images/media/player/cutout/qi2z1d1764089572.png/small",
-    "ousmane ndiaye": "",
     "kalvin phillips": "https://r2.thesportsdb.com/images/media/player/cutout/vokeo81755870309.png/small",
     "lacine megnan pave": "",
     "rodri hernandez": "",
     "kerem alajbegovic": "",
-    "mateo soule": ""
+    "mateo soule": "",
+    "ousmane ndiaye": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 5,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

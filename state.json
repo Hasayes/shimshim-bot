@@ -1306,7 +1306,8 @@
     "tg:FabrizioRomanoTG/64422",
     "tg:FabrizioRomanoTG/64424",
     "tg:FabrizioRomanoTG/64427",
-    "tg:FabrizioRomanoTG/64429"
+    "tg:FabrizioRomanoTG/64429",
+    "6a4dc306e749137f9bd17116825608fe"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1683,7 +1684,6 @@
     "interest: romero -> atletico madrid"
   ],
   "titles": [
-    "tottenham star djed spence wants to join liverpool alongside barcola",
     "arsenal weigh up move for \u00a377m winger after vinicius blow",
     "paris saint germain begins negotiations for mika godts, ajax promise",
     "manchester city board bars barcelona\u2019s first move for rodri",
@@ -1982,7 +1982,8 @@
     "rt @fabrizioromano : \ud83d\udea8 \ud83d\udfe0 \u26ab\ufe0f lucas herrington has completed medical tests today a",
     "\ud83d\udea8 official: barcelona confirm roony bardghji has torn his acl and will now under",
     "\ud83d\udea8 \ud83d\udfe3 exclusive: burnley agree deal to sign max alleyne as new centre back from ma",
-    "rt @fabrizioromano : \ud83d\udea8 \ud83d\udfe3 exclusive: burnley agree deal to sign max alleyne as ne"
+    "rt @fabrizioromano : \ud83d\udea8 \ud83d\udfe3 exclusive: burnley agree deal to sign max alleyne as ne",
+    "liverpool news: bradley barcola 'gives transfer green light' and star joins up w"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2249,14 +2250,14 @@
     "endrick": "",
     "romelu lukaku": "https://r2.thesportsdb.com/images/media/player/cutout/qi2z1d1764089572.png/small",
     "kalvin phillips": "https://r2.thesportsdb.com/images/media/player/cutout/vokeo81755870309.png/small",
-    "mateo soule": "",
     "ousmane ndiaye": "",
     "lacine megnan pave": "",
     "max alleyne": "https://r2.thesportsdb.com/images/media/player/cutout/4iimzs1769182989.png/small",
     "rodri hernandez": "",
-    "kerem alajbegovic": ""
+    "kerem alajbegovic": "",
+    "mateo soule": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

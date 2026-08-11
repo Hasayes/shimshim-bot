@@ -1279,7 +1279,9 @@
     "8156ee9143bd03c49bb7492cbbee0934",
     "864f063c6a53b063dba51f382ca033a7",
     "ea55abe490694c443a87f905e1d03e11",
-    "tg:FabrizioRomanoTG/64394"
+    "tg:FabrizioRomanoTG/64394",
+    "807046af7c604ea1b766cb3f72ab762d",
+    "tg:FabrizioRomanoTG/64395"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1478,7 +1480,8 @@
     "goalkeeper -> strasbourg": 1,
     "djimsiti -> al diriyah": 2,
     "mubama -> southampton": 1,
-    "almada -> river plate": 2
+    "almada -> river plate": 2,
+    "lukaku -> fenerbahce": 1
   },
   "interest": [
     "interest: alvarez -> arsenal",
@@ -1652,8 +1655,6 @@
     "interest: romero -> atletico madrid"
   ],
   "titles": [
-    "manchester city reject barcelona's opening bid for midfielder rodri: details",
-    "ornstein reveals man city price to sell rodri to barcelona; romano claims succes",
     "\u201cdirect talks\u201d between man city and barcelona after \u20ac50m bid rejected",
     "man utd travelling squad to face psg confirmed, bruno fernandes returns",
     "\u201carsenal are getting a very special player\u201d \u2013 newcastle chief speaks out on brun",
@@ -1951,7 +1952,9 @@
     "three real reasons behind shock liverpool signing revealed as pay cut confirmed",
     "one option is off the table as manchester city move to bolster their midfield",
     "transfer: tottenham take decision on selling romero to arsenal",
-    "\ud83d\udea8 \ud83d\udfe1 \ud83d\udd35 fenerbahce are closing in on romelu lukaku deal after napoli accept second"
+    "\ud83d\udea8 \ud83d\udfe1 \ud83d\udd35 fenerbahce are closing in on romelu lukaku deal after napoli accept second",
+    "tottenham and arsenal had \u2018genuine interest\u2019 in \u00a343m forward before psg gazumped",
+    "\ud83d\udea8 \ud83d\udfe1 \ud83d\udd35 romelu lukaku to fenerbahce, here we go! green light from napoli as club t"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2216,13 +2219,14 @@
     "backup goalkeeper": "",
     "gero": "",
     "endrick": "",
-    "ousmane ndiaye": "",
     "lacine megnan pave": "",
     "rodri hernandez": "",
     "kerem alajbegovic": "",
-    "mateo soule": ""
+    "mateo soule": "",
+    "romelu lukaku": "https://r2.thesportsdb.com/images/media/player/cutout/qi2z1d1764089572.png/small",
+    "ousmane ndiaye": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 5,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

@@ -1295,7 +1295,9 @@
     "tg:FabrizioRomanoTG/64409",
     "tg:FabrizioRomanoTG/64410",
     "tg:FabrizioRomanoTG/64412",
-    "3ffd5e50b4ad5715f9f98ab8d5353128"
+    "3ffd5e50b4ad5715f9f98ab8d5353128",
+    "tg:FabrizioRomanoTG/64413",
+    "tg:FabrizioRomanoTG/64414"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1670,8 +1672,6 @@
     "interest: romero -> atletico madrid"
   ],
   "titles": [
-    "liverpool gets new bradley barcola transfer update after 'deal agreed' claim",
-    "ornstein: man city refuse to engage with unserious \u20ac45m offer for midfielder",
     "djed spence would be the ultimate test of michael carrick man management, he has",
     "romano: medical taking place for chelsea\u2019s \u20ac21m backup signing after long negoti",
     "liverpool transfer news latest on 'deal agreed' claims as \u20ac115m bradley barcola ",
@@ -1969,7 +1969,9 @@
     "\ud83d\udea8 \ud83c\udf33 official, confirmed ousmane diomande joins nottingham forest contract valid ",
     "\ud83d\udd34 \u26aa\ufe0f \ud83e\udd1d\ud83c\udfff divin mubama has joined southampton on loan deal from manchester city, a",
     "\ud83d\udea8 \ud83d\udfe0 \u26ab\ufe0f lucas herrington has completed medical tests today as new hull city playe",
-    "micky van de ven commits long term future to tottenham with new five year contra"
+    "micky van de ven commits long term future to tottenham with new five year contra",
+    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f napoli have agreed deal to sign costantini favasuli as new right back, he",
+    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f giovanni di lorenzo has verbally agreed to sign new contract at napoli un"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2235,13 +2237,13 @@
     "gero": "",
     "endrick": "",
     "romelu lukaku": "https://r2.thesportsdb.com/images/media/player/cutout/qi2z1d1764089572.png/small",
-    "ousmane ndiaye": "",
     "lacine megnan pave": "",
     "rodri hernandez": "",
     "kerem alajbegovic": "",
-    "mateo soule": ""
+    "mateo soule": "",
+    "ousmane ndiaye": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 5,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

@@ -1257,7 +1257,9 @@
     "29dad9fed12fa264268fd5e27cc116b5",
     "08b592cd7d67087dceec19cf8f39b1d2",
     "f7a4911eb84ad7c98bf3f3ecd8235699",
-    "0ae66f6c9399fbfc1da386489955a60c"
+    "0ae66f6c9399fbfc1da386489955a60c",
+    "06cb36344fc84b2462b54a260e8d2e1e",
+    "5b32797d56de063412aba68335ce0a18"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1658,8 +1660,6 @@
     "interest: endrick -> liverpool"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83d\udea8 \ud83d\udca3 exclusive: liverpool agree loan deal to sign ronald araujo from barcelona,",
-    "barcelona send \u20ac45 million opening bid for rodri as talks with man city underway",
     "vinicius junior ends arsenal speculation with new deal to 2032",
     "\ud83d\udea8 \ud83d\udca3 the exclusive bomba of the day: ronald araujo to liverpool, here we go \ud83c\uddfa\ud83c\uddfe lo",
     "\u201cvery confident\u201d \u2013 manchester city in talks with club to get transfer done, says",
@@ -1957,7 +1957,9 @@
     "roony bardghji joined barcelona last summer",
     "juventus still working on loan for zion suzuki, psg working on permanent deal",
     "arsenal working on three transfers and initial talks with west ham are positive",
-    "newcastle united transfer news: former spurs stars 'turns down' st james' park m"
+    "newcastle united transfer news: former spurs stars 'turns down' st james' park m",
+    "fabrizio romano: aston villa 'very interested' in 'spectacular' endrick",
+    "roma interested in inter defender luis henrique"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2219,16 +2221,16 @@
     "moussa diaby": "https://r2.thesportsdb.com/images/media/player/cutout/jxusnf1694202001.png/small",
     "joaquin seys": "https://r2.thesportsdb.com/images/media/player/cutout/34zoma1767634511.png/small",
     "divin mubama": "https://r2.thesportsdb.com/images/media/player/cutout/g1avfr1761251337.png/small",
-    "endrick": "",
     "lacine megnan pave": "",
     "backup goalkeeper": "",
     "gero": "",
     "rodri hernandez": "",
     "kerem alajbegovic": "",
     "mateo soule": "",
-    "ousmane ndiaye": ""
+    "ousmane ndiaye": "",
+    "endrick": ""
   },
-  "photo_repair_idx": 8,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

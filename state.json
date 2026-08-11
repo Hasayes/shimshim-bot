@@ -1331,7 +1331,8 @@
     "tg:FabrizioRomanoTG/64446",
     "d6aec986c0d0f6f865eb369004f71863",
     "201c0fe44a010a6b66c32c6ebfa6ebe9",
-    "1599c48a0fd41cdb1e6caad17d4a4eab"
+    "1599c48a0fd41cdb1e6caad17d4a4eab",
+    "fa014a23d3a29e0f5054d72f7c2c39a4"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1710,7 +1711,6 @@
     "interest: salinas -> manchester united"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83d\udfe1 \ud83d\udd35 fenerbahce are now in direct talks with romelu lukaku\u2019s camp, negotiations",
     "liverpool's newest addition made brave admission amid ongoing mental health batt",
     "arsenal star could leave before deadline after new agent holds talks with serie ",
     "\ud83d\udd34 \u26aa\ufe0f \ud83c\udde7\ud83c\uddf7 official: bruno guimaraes joins arsenal from newcastle for \u00a375m fee cont",
@@ -2009,7 +2009,8 @@
     "\ud83d\udd35 \ud83d\udd10 pep chavarria has signed his contract as new chelsea player from rayo vallec",
     "just in: chelsea open door to mudryk loan as winger makes it preference clear",
     "fabrizio romano confirms liverpool target is wanted by european giants",
-    "inter continue talks for tottenham wing back target djed spence"
+    "inter continue talks for tottenham wing back target djed spence",
+    "lukaku destined to leave napoli to head to fenerbahce"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2278,14 +2279,14 @@
     "kalvin phillips": "https://r2.thesportsdb.com/images/media/player/cutout/vokeo81755870309.png/small",
     "max alleyne": "https://r2.thesportsdb.com/images/media/player/cutout/4iimzs1769182989.png/small",
     "jorge salinas": "https://images.fotmob.com/image_resources/playerimages/1670161.png",
-    "lacine megnan pave": "",
     "rodri hernandez": "",
     "kerem alajbegovic": "",
     "mateo soule": "",
     "ousmane ndiaye": "",
-    "hermann malonga": ""
+    "hermann malonga": "",
+    "lacine megnan pave": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

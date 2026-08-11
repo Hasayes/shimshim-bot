@@ -1244,7 +1244,10 @@
     "bc24b6f5d08bfe2cb308e152e5fb3625",
     "db5a95d20d157a9f2f8c5ed63a6577da",
     "618b8dbaa910c34066c6f24d13af6b18",
-    "b091720f314fcd4b6b0fb4be61309745"
+    "b091720f314fcd4b6b0fb4be61309745",
+    "946f9e940720cff510b1fcd1a10cc0f3",
+    "8bfc7bcd11528aea2e33d39c5d7851d0",
+    "e776b9c7bd9ecf38f5400bef263dd710"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1645,8 +1648,6 @@
     "interest: endrick -> liverpool"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f gabriel jesus\u2019 new agent met with napoli today as he also represents mana",
-    "\ud83d\udfe2 \u26aa\ufe0f \ud83d\udd1f diego buonanotte has signed in as new elche player from brighton on loan ",
     "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f real sociedad reach verbal agreement to sign nayef aguerd from om, here w",
     "\ud83d\udea8 \ud83c\udde6\ud83c\uddf7 geronimo rulli will undergo medical at manchester city on monday after deal",
     "bayindir joins celta vigo on loan manchester united website",
@@ -1944,7 +1945,9 @@
     "endrick: liverpool have \u201ctaken a look\u201d but dislike real madrid\u2019s deal structure ",
     "bezos wants liverpool to sign \u00a3171m megastar and become \u2018no 1 club in world\u2019",
     "real madrid transfer news: juventus captain touted as alternative to rodri?",
-    "real madrid confirm aurelien tchouameni medical after manchester united transfer"
+    "real madrid confirm aurelien tchouameni medical after manchester united transfer",
+    "arsenal in talks with napoli over striker exit",
+    "psg submit \u20ac50m bid to barcelona for ferran torres"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2205,7 +2208,6 @@
     "berat djimsiti": "https://r2.thesportsdb.com/images/media/player/cutout/a1u2x81695157220.png/small",
     "moussa diaby": "https://r2.thesportsdb.com/images/media/player/cutout/jxusnf1694202001.png/small",
     "joaquin seys": "https://r2.thesportsdb.com/images/media/player/cutout/34zoma1767634511.png/small",
-    "lacine megnan pave": "",
     "backup goalkeeper": "",
     "gero": "",
     "divin mubama": "https://r2.thesportsdb.com/images/media/player/cutout/g1avfr1761251337.png/small",
@@ -2213,9 +2215,10 @@
     "kerem alajbegovic": "",
     "mateo soule": "",
     "ousmane ndiaye": "",
-    "endrick": ""
+    "endrick": "",
+    "lacine megnan pave": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

@@ -1338,7 +1338,8 @@
     "tg:FabrizioRomanoTG/64447",
     "6a86b6a725305122b1545afbc0e2fcff",
     "671662e634456760d7643cc37d2321bd",
-    "tg:FabrizioRomanoTG/64448"
+    "tg:FabrizioRomanoTG/64448",
+    "91b7d5f0a38654f095d1ebb38577f861"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1717,7 +1718,6 @@
     "interest: salinas -> manchester united"
   ],
   "titles": [
-    "\u2018deal agreed\u2019 as manchester city set to complete yet another signing with medica",
     "alejandro garnacho chooses between chelsea and napoli with",
     "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 barcelona are set to send their new bid for rodri as the player has told m",
     "\ud83d\udea8 \ud83c\udf33 ousmane diomande to nottingham forest, here we go! the defender will travel ",
@@ -2016,7 +2016,8 @@
     "\ud83d\udea8 \ud83d\udfe3 \ud83d\udd35 aston villa reach verbal agreement to sign matteo ruggeri from atletico ma",
     "roma\u2019s interest in udogie confirmed, spurs remain hesitant",
     "respected source issues eye catching barcola claim which could nudge him closer ",
-    "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 excl: ferran torres, not scheduled to show up at barca training tomorrow t"
+    "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 excl: ferran torres, not scheduled to show up at barca training tomorrow t",
+    "napoli agree striker sale to enable bid for arsenal 29yo"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2285,14 +2286,14 @@
     "kalvin phillips": "https://r2.thesportsdb.com/images/media/player/cutout/vokeo81755870309.png/small",
     "max alleyne": "https://r2.thesportsdb.com/images/media/player/cutout/4iimzs1769182989.png/small",
     "jorge salinas": "https://images.fotmob.com/image_resources/playerimages/1670161.png",
-    "mateo soule": "",
     "ousmane ndiaye": "",
     "hermann malonga": "",
     "lacine megnan pave": "",
     "rodri hernandez": "",
-    "kerem alajbegovic": ""
+    "kerem alajbegovic": "",
+    "mateo soule": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 5,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

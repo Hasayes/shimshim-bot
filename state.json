@@ -1348,7 +1348,8 @@
     "6be35ecad855d667401aa1512e87921c",
     "e5160faff8f543c71d25ffa48638e2f9",
     "36914d274c171a9b8e471db5d69a7dc8",
-    "tg:FabrizioRomanoTG/64450"
+    "tg:FabrizioRomanoTG/64450",
+    "195cdb1845fcff6d036ac24f8cb55a58"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1727,7 +1728,6 @@
     "interest: salinas -> manchester united"
   ],
   "titles": [
-    "newcastle respond to man utd \u2018enquiry\u2019 about signing lewis hall teamtalk com",
     "fabrizio romano says \u201cnew\u201d \u20ac40m bid coming soon as club aim to \u201cavoid any hijack",
     "manchester city sign world cup winner gero rulli in major squad boost",
     "ronald araujo to liverpool loan is \u201call done\u201d and includes buy option, says fabr",
@@ -2026,7 +2026,8 @@
     "man utd, chelsea offered arsenal star as gunners to sell on one condition after ",
     "\u201chere we go\u201d \u2013 psg \u20ac35m transfer confirmed by fabrizio romano; loan could follow",
     "nottingham forest transfer news: ousmane diomande saga ends as ivory coast inter",
-    "\ud83d\udcfa new youtube video uploaded! \ud83c\udfac \ud83d\udea8 \ud83d\udca3 deadline! here we go coming! lautaro, enzo, "
+    "\ud83d\udcfa new youtube video uploaded! \ud83c\udfac \ud83d\udea8 \ud83d\udca3 deadline! here we go coming! lautaro, enzo, ",
+    "fenerbahce secure deal for lukaku transfer from napoli"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2296,13 +2297,13 @@
     "max alleyne": "https://r2.thesportsdb.com/images/media/player/cutout/4iimzs1769182989.png/small",
     "jorge salinas": "https://images.fotmob.com/image_resources/playerimages/1670161.png",
     "ousmane ndiaye": "",
-    "mateo soule": "",
     "hermann malonga": "",
     "lacine megnan pave": "",
     "rodri hernandez": "",
-    "kerem alajbegovic": ""
+    "kerem alajbegovic": "",
+    "mateo soule": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 5,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

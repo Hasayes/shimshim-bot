@@ -1273,7 +1273,9 @@
     "tg:FabrizioRomanoTG/64391",
     "8860cff15e966f6305c4169978254574",
     "56b65928474bac8a57fd914efe5706e1",
-    "tg:FabrizioRomanoTG/64393"
+    "tg:FabrizioRomanoTG/64393",
+    "1567c7306d8e2e67d3e5da8b086afe8e",
+    "4c2bc3894a4f627fe72987d4059bf886"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1645,8 +1647,6 @@
     "interest: seys -> manchester united"
   ],
   "titles": [
-    "\u2018this is not goodbye\u2019 altay bayindir sends message to manchester united fans aft",
-    "liverpool's centre back pursuit: fabrizio romano update",
     "18 year old tottenham target from psg giving priority to liverpool project",
     "rodri to barcelona: there has been a 'major' development in real madrid linked m",
     "man utd can sign lewis hall on one condition as newcastle transfer stance emerge",
@@ -1944,7 +1944,9 @@
     "\ud83d\udea8 \u26aa\ufe0f thiago pitarch, not expected to join fulham as they signed shea charles rea",
     "fenerbahce submit bid to sign second former manchester united attacker of summer",
     "romelu lukaku transfer: striker's napoli exit 'getting closer' as fabrizio roman",
-    "\ud83d\udea8 \ud83c\uddfa\ud83c\udde6 chelsea are open to considering loan proposals for mykhaylo mudryk to let h"
+    "\ud83d\udea8 \ud83c\uddfa\ud83c\udde6 chelsea are open to considering loan proposals for mykhaylo mudryk to let h",
+    "tottenham linked manchester city forward\u2019s latest comments might spell setback f",
+    "why england could be a likelier destination for inter\u2019s luis henrique despite ro"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2209,13 +2211,13 @@
     "backup goalkeeper": "",
     "gero": "",
     "endrick": "",
-    "lacine megnan pave": "",
     "rodri hernandez": "",
     "kerem alajbegovic": "",
     "mateo soule": "",
-    "ousmane ndiaye": ""
+    "ousmane ndiaye": "",
+    "lacine megnan pave": ""
   },
-  "photo_repair_idx": 5,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

@@ -1315,7 +1315,8 @@
     "tg:FabrizioRomanoTG/64433",
     "tg:FabrizioRomanoTG/64435",
     "tg:FabrizioRomanoTG/64436",
-    "tg:FabrizioRomanoTG/64438"
+    "tg:FabrizioRomanoTG/64438",
+    "50d661c80004ded19104d66a3f4b8019"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1693,7 +1694,6 @@
     "interest: romero -> atletico madrid"
   ],
   "titles": [
-    "italian journalist believes \u2018this\u2019 tottenham star represents the \u2018stronger\u2019 opti",
     "barcelona must get serious in their bid to sign a manchester city leader",
     "\ud83d\udea8 newcastle made clear to lewis hall and his camp the intention not to sell him ",
     "\ud83d\udea8 \ud83d\udc4b\ud83c\udffc official: roony bardghji does not travel with barca squad for pre season ga",
@@ -1992,7 +1992,8 @@
     "\ud83d\udea8 \u26ab\ufe0f \u26aa\ufe0f breaking: dusan vlahovic and his camp gave initial green light to besikt",
     "rt @fabrizioromano : \ud83d\udea8 \u26ab\ufe0f \u26aa\ufe0f breaking: dusan vlahovic and his camp gave initial ",
     "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f rc strasbourg have agreed on deal to sign hermann malonga after he left p",
-    "\ud83d\udea8 \ud83c\udde6\ud83c\uddf7 enzo maresca would love to reunite with enzo fernandez at manchester city s"
+    "\ud83d\udea8 \ud83c\udde6\ud83c\uddf7 enzo maresca would love to reunite with enzo fernandez at manchester city s",
+    "transfer news live: arsenal want yildiz, barcola hijack; chelsea done deal; man "
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2264,10 +2265,10 @@
     "rodri hernandez": "",
     "kerem alajbegovic": "",
     "mateo soule": "",
-    "hermann malonga": "",
-    "ousmane ndiaye": ""
+    "ousmane ndiaye": "",
+    "hermann malonga": ""
   },
-  "photo_repair_idx": 6,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

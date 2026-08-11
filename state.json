@@ -1294,7 +1294,8 @@
     "tg:FabrizioRomanoTG/64408",
     "tg:FabrizioRomanoTG/64409",
     "tg:FabrizioRomanoTG/64410",
-    "tg:FabrizioRomanoTG/64412"
+    "tg:FabrizioRomanoTG/64412",
+    "3ffd5e50b4ad5715f9f98ab8d5353128"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1669,7 +1670,6 @@
     "interest: romero -> atletico madrid"
   ],
   "titles": [
-    "man city transfer news: 'agreement close' for midfield target amid ayyoub bouadd",
     "liverpool gets new bradley barcola transfer update after 'deal agreed' claim",
     "ornstein: man city refuse to engage with unserious \u20ac45m offer for midfielder",
     "djed spence would be the ultimate test of michael carrick man management, he has",
@@ -1968,7 +1968,8 @@
     "\ud83d\udfe0 \u26ab\ufe0f \ud83c\uddf8\ud83c\uddf3 excl: nobel mendy, on his way to join hull city from rayo vallecano \u2708\ufe0f f",
     "\ud83d\udea8 \ud83c\udf33 official, confirmed ousmane diomande joins nottingham forest contract valid ",
     "\ud83d\udd34 \u26aa\ufe0f \ud83e\udd1d\ud83c\udfff divin mubama has joined southampton on loan deal from manchester city, a",
-    "\ud83d\udea8 \ud83d\udfe0 \u26ab\ufe0f lucas herrington has completed medical tests today as new hull city playe"
+    "\ud83d\udea8 \ud83d\udfe0 \u26ab\ufe0f lucas herrington has completed medical tests today as new hull city playe",
+    "micky van de ven commits long term future to tottenham with new five year contra"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2234,13 +2235,13 @@
     "gero": "",
     "endrick": "",
     "romelu lukaku": "https://r2.thesportsdb.com/images/media/player/cutout/qi2z1d1764089572.png/small",
-    "mateo soule": "",
     "ousmane ndiaye": "",
     "lacine megnan pave": "",
     "rodri hernandez": "",
-    "kerem alajbegovic": ""
+    "kerem alajbegovic": "",
+    "mateo soule": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

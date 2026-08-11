@@ -1287,7 +1287,10 @@
     "d7c0583e5fcbfae332546e8c614600e5",
     "tg:FabrizioRomanoTG/64400",
     "tg:FabrizioRomanoTG/64403",
-    "tg:FabrizioRomanoTG/64405"
+    "tg:FabrizioRomanoTG/64405",
+    "c642f9b9d2ad9c555ef805004a9fc7fa",
+    "tg:FabrizioRomanoTG/64406",
+    "tg:FabrizioRomanoTG/64407"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1662,9 +1665,6 @@
     "interest: romero -> atletico madrid"
   ],
   "titles": [
-    "\u201cfinal stages\u201d \u2013 man city close in on ligue 1 superstar as rodri replacement",
-    "rodri needs barcelona to offer man city more money",
-    "chelsea open to loan deal with option for troublesome defender with 42 appearanc",
     "barcelona, roony bardghji \u201cset to explore a move\u201d in final weeks of transfer win",
     "chelsea closing in on defender signing but midfielder attracting interest from p",
     "latest: new report names chelsea\u2019s asking price for enzo fernandez as man city g",
@@ -1961,7 +1961,10 @@
     "barcelona confident of signing man city star",
     "\ud83d\udd34 \ud83c\uddfa\ud83c\uddfe ronald araujo\u2019s message to liverpool fans: \u201ci'm going to give my best i wan",
     "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 paris saint germain agree deal in principle with parma to sign zion suzuki",
-    "rt @fabrizioromano : \ud83d\udea8 \ud83c\uddfa\ud83c\udde6 chelsea are open to considering loan proposals for myk"
+    "rt @fabrizioromano : \ud83d\udea8 \ud83c\uddfa\ud83c\udde6 chelsea are open to considering loan proposals for myk",
+    "\ud83e\udde8 gimenez close to leaving milan: advanced talks with porto",
+    "\ud83d\udea8 \ud83d\udfe0 \u26ab\ufe0f nobel mendy deal, completed and agreed for hull city after new talks with",
+    "\ud83d\udfe0 \u26ab\ufe0f \ud83c\uddf8\ud83c\uddf3 excl: nobel mendy, on his way to join hull city from rayo vallecano \u2708\ufe0f f"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2227,13 +2230,13 @@
     "gero": "",
     "endrick": "",
     "romelu lukaku": "https://r2.thesportsdb.com/images/media/player/cutout/qi2z1d1764089572.png/small",
-    "ousmane ndiaye": "",
     "lacine megnan pave": "",
     "rodri hernandez": "",
     "kerem alajbegovic": "",
-    "mateo soule": ""
+    "mateo soule": "",
+    "ousmane ndiaye": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 5,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

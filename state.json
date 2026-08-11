@@ -1256,7 +1256,8 @@
     "f3a5a1bb86788c1876403275221f751c",
     "29dad9fed12fa264268fd5e27cc116b5",
     "08b592cd7d67087dceec19cf8f39b1d2",
-    "f7a4911eb84ad7c98bf3f3ecd8235699"
+    "f7a4911eb84ad7c98bf3f3ecd8235699",
+    "0ae66f6c9399fbfc1da386489955a60c"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1657,7 +1658,6 @@
     "interest: endrick -> liverpool"
   ],
   "titles": [
-    "boost for man united & chelsea in pursuit of premier league midfielder",
     "\ud83d\udea8 \ud83d\udea8 \ud83d\udca3 exclusive: liverpool agree loan deal to sign ronald araujo from barcelona,",
     "barcelona send \u20ac45 million opening bid for rodri as talks with man city underway",
     "vinicius junior ends arsenal speculation with new deal to 2032",
@@ -1956,7 +1956,8 @@
     "endrick, barcola and ferran torres: latest transfer gossip",
     "roony bardghji joined barcelona last summer",
     "juventus still working on loan for zion suzuki, psg working on permanent deal",
-    "arsenal working on three transfers and initial talks with west ham are positive"
+    "arsenal working on three transfers and initial talks with west ham are positive",
+    "newcastle united transfer news: former spurs stars 'turns down' st james' park m"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2218,16 +2219,16 @@
     "moussa diaby": "https://r2.thesportsdb.com/images/media/player/cutout/jxusnf1694202001.png/small",
     "joaquin seys": "https://r2.thesportsdb.com/images/media/player/cutout/34zoma1767634511.png/small",
     "divin mubama": "https://r2.thesportsdb.com/images/media/player/cutout/g1avfr1761251337.png/small",
-    "ousmane ndiaye": "",
     "endrick": "",
     "lacine megnan pave": "",
     "backup goalkeeper": "",
     "gero": "",
     "rodri hernandez": "",
     "kerem alajbegovic": "",
-    "mateo soule": ""
+    "mateo soule": "",
+    "ousmane ndiaye": ""
   },
-  "photo_repair_idx": 7,
+  "photo_repair_idx": 8,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

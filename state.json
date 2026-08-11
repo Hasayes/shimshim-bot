@@ -1300,7 +1300,8 @@
     "tg:FabrizioRomanoTG/64414",
     "tg:FabrizioRomanoTG/64415",
     "tg:FabrizioRomanoTG/64416",
-    "tg:FabrizioRomanoTG/64417"
+    "tg:FabrizioRomanoTG/64417",
+    "tg:FabrizioRomanoTG/64418"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1676,7 +1677,6 @@
     "interest: romero -> atletico madrid"
   ],
   "titles": [
-    "romano: tottenham have 'good chance' of signing \u00a3250,000 a week forward",
     "romano: liverpool now 'lead race' to sign bradley barcola alternative",
     "borussia dortmund revive bundesliga interest in giannis konstantelias",
     "serie a giants target arsenal striker as gunners insist on permanent sale",
@@ -1975,7 +1975,8 @@
     "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f giovanni di lorenzo has verbally agreed to sign new contract at napoli un",
     "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f verbal agreement in place between sheffield united and manchester city fo",
     "\ud83d\udea8 \u26ab\ufe0f \ud83d\udd35 excl: inter are set for club to club talks with spurs for djed spence wit",
-    "\ud83d\udea8 \u26ab\ufe0f \ud83d\udd35 thomas kristensen to atalanta, here we go! verbal agreement in place on l"
+    "\ud83d\udea8 \u26ab\ufe0f \ud83d\udd35 thomas kristensen to atalanta, here we go! verbal agreement in place on l",
+    "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f besiktas have sent their final proposal to dusan vlahovic and his camp t"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2241,14 +2242,14 @@
     "gero": "",
     "endrick": "",
     "romelu lukaku": "https://r2.thesportsdb.com/images/media/player/cutout/qi2z1d1764089572.png/small",
-    "kerem alajbegovic": "",
     "mateo soule": "",
     "ousmane ndiaye": "",
     "kalvin phillips": "https://r2.thesportsdb.com/images/media/player/cutout/vokeo81755870309.png/small",
     "lacine megnan pave": "",
-    "rodri hernandez": ""
+    "rodri hernandez": "",
+    "kerem alajbegovic": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

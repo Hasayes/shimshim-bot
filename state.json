@@ -1283,7 +1283,10 @@
     "807046af7c604ea1b766cb3f72ab762d",
     "tg:FabrizioRomanoTG/64395",
     "tg:FabrizioRomanoTG/64396",
-    "tg:FabrizioRomanoTG/64399"
+    "tg:FabrizioRomanoTG/64399",
+    "d7c0583e5fcbfae332546e8c614600e5",
+    "tg:FabrizioRomanoTG/64400",
+    "tg:FabrizioRomanoTG/64403"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1483,7 +1486,8 @@
     "djimsiti -> al diriyah": 2,
     "mubama -> southampton": 1,
     "almada -> river plate": 2,
-    "lukaku -> fenerbahce": 1
+    "lukaku -> fenerbahce": 1,
+    "suzuki -> psg": 1
   },
   "interest": [
     "interest: alvarez -> arsenal",
@@ -1657,9 +1661,6 @@
     "interest: romero -> atletico madrid"
   ],
   "titles": [
-    "\u201carsenal are getting a very special player\u201d \u2013 newcastle chief speaks out on brun",
-    "\ud83d\udea8 \ud83c\udde6\ud83c\uddf7 atletico madrid will send new bid for cuti romero soon as molina and almada",
-    "rt @fabrizioromano : \ud83d\udea8 \ud83d\udea8 \ud83d\udca3 exclusive: liverpool agree loan deal to sign ronald a",
     "rodri transfer latest update: manchester city reject barcelona\u2019s \u00a338 5m bid for ",
     "\u201cfinal stages\u201d \u2013 man city close in on ligue 1 superstar as rodri replacement",
     "rodri needs barcelona to offer man city more money",
@@ -1956,7 +1957,10 @@
     "tottenham and arsenal had \u2018genuine interest\u2019 in \u00a343m forward before psg gazumped",
     "\ud83d\udea8 \ud83d\udfe1 \ud83d\udd35 romelu lukaku to fenerbahce, here we go! green light from napoli as club t",
     "\u26aa\ufe0f \u26ab\ufe0f official, confirmed shea charles signs in at fulham on \u00a330m package deal f",
-    "\ud83d\udd04 \u2705 swap deal officially completed: dwight mcneil joins crystal palace and brenn"
+    "\ud83d\udd04 \u2705 swap deal officially completed: dwight mcneil joins crystal palace and brenn",
+    "barcelona confident of signing man city star",
+    "\ud83d\udd34 \ud83c\uddfa\ud83c\uddfe ronald araujo\u2019s message to liverpool fans: \u201ci'm going to give my best i wan",
+    "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 paris saint germain agree deal in principle with parma to sign zion suzuki"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2221,14 +2225,14 @@
     "backup goalkeeper": "",
     "gero": "",
     "endrick": "",
-    "kerem alajbegovic": "",
     "mateo soule": "",
     "romelu lukaku": "https://r2.thesportsdb.com/images/media/player/cutout/qi2z1d1764089572.png/small",
     "ousmane ndiaye": "",
     "lacine megnan pave": "",
-    "rodri hernandez": ""
+    "rodri hernandez": "",
+    "kerem alajbegovic": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

@@ -1254,7 +1254,9 @@
     "a7f199988c922d3af70c481ee3924e80",
     "0163ca7c3e9249a6680759432546fab9",
     "f3a5a1bb86788c1876403275221f751c",
-    "29dad9fed12fa264268fd5e27cc116b5"
+    "29dad9fed12fa264268fd5e27cc116b5",
+    "08b592cd7d67087dceec19cf8f39b1d2",
+    "f7a4911eb84ad7c98bf3f3ecd8235699"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1655,8 +1657,6 @@
     "interest: endrick -> liverpool"
   ],
   "titles": [
-    "\ud83d\udfe2 \u26aa\ufe0f \ud83d\udd1f facu buonanotte has signed in as new elche player from brighton on loan d",
-    "liverpool not pursuing spence move friday's gossip",
     "boost for man united & chelsea in pursuit of premier league midfielder",
     "\ud83d\udea8 \ud83d\udea8 \ud83d\udca3 exclusive: liverpool agree loan deal to sign ronald araujo from barcelona,",
     "barcelona send \u20ac45 million opening bid for rodri as talks with man city underway",
@@ -1954,7 +1954,9 @@
     "psg table \u20ac50m offer for world cup final hero ferran torres",
     "\u201ctalks at final stages\u201d \u2013 liverpool closer to ibrahim mbaye transfer than ever b",
     "endrick, barcola and ferran torres: latest transfer gossip",
-    "roony bardghji joined barcelona last summer"
+    "roony bardghji joined barcelona last summer",
+    "juventus still working on loan for zion suzuki, psg working on permanent deal",
+    "arsenal working on three transfers and initial talks with west ham are positive"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2216,16 +2218,16 @@
     "moussa diaby": "https://r2.thesportsdb.com/images/media/player/cutout/jxusnf1694202001.png/small",
     "joaquin seys": "https://r2.thesportsdb.com/images/media/player/cutout/34zoma1767634511.png/small",
     "divin mubama": "https://r2.thesportsdb.com/images/media/player/cutout/g1avfr1761251337.png/small",
-    "mateo soule": "",
     "ousmane ndiaye": "",
     "endrick": "",
     "lacine megnan pave": "",
     "backup goalkeeper": "",
     "gero": "",
     "rodri hernandez": "",
-    "kerem alajbegovic": ""
+    "kerem alajbegovic": "",
+    "mateo soule": ""
   },
-  "photo_repair_idx": 6,
+  "photo_repair_idx": 7,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

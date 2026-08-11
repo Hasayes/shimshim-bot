@@ -1,5 +1,25 @@
 [
  {
+  "id": "9ee5f5a8b8824bb712178e6509fc7ddf",
+  "ts": "2026-08-11T08:15:36+00:00",
+  "kind": "interest",
+  "stage": "\u2014",
+  "player": "Cristian Romero",
+  "position": "Defender",
+  "age": "28",
+  "from_club": "Tottenham Hotspur",
+  "to_club": "Arsenal, Atletico Madrid",
+  "fee": "\u00a338m",
+  "style": "Commanding Argentine center-back who combines aggressive positioning with technical ability, excelling in one-on-one defending and reading the game.",
+  "fit": "A natural fit for Atl\u00e9tico Madrid's defensive system, where his intensity and leadership can anchor their back line under Diego Simeone's tactical demands.",
+  "source": "Fabrizio Romano",
+  "outlet": "dailypost",
+  "url": "https://dailypost.ng/2026/08/10/transfer-tottenham-take-decision-on-selling-romero-to-arsenal/",
+  "title": "Transfer: Tottenham take decision on selling Romero to Arsenal",
+  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/dme7x81757016317.png/small",
+  "summary": "Tottenham have decided against selling Cristian Romero to Arsenal and are instead close to a deal with Atletico Madrid, according to transfer expert Fabrizio Romano."
+ },
+ {
   "id": "7ffdd237bd73c62627b4b47248afcf8d",
   "ts": "2026-08-11T07:00:47+00:00",
   "kind": "deal",
@@ -298,26 +318,6 @@
   "outlet": "Telegram @fabrizioromanotg",
   "url": "https://t.me/FabrizioRomanoTG/64210",
   "title": "\ud83d\udfe2 \u26aa\ufe0f \ud83d\udd1f Diego Buonanotte has signed in as new Elche player from Brighton on loan deal. No buy option clause included. Her"
- },
- {
-  "id": "9ee5f5a8b8824bb712178e6509fc7ddf",
-  "ts": "2026-08-07T19:45:29+00:00",
-  "kind": "interest",
-  "stage": "\u2014",
-  "player": "Cristian Romero",
-  "position": "Defender",
-  "age": "28",
-  "from_club": "Tottenham Hotspur",
-  "to_club": "Arsenal",
-  "fee": "\u00a338m",
-  "style": "Aggressive ball-playing centre-back with strong physical presence and aerial dominance.",
-  "fit": "Would strengthen Arsenal's defensive depth at centre-back, though moving between North London rivals would be controversial.",
-  "source": "Fabrizio Romano via teamtalk",
-  "outlet": "teamtalk",
-  "url": "https://www.teamtalk.com/news/arsenal-transfer-news-cristian-romero-tottenham-shock-sale-fabrizio-romano",
-  "title": "Tottenham reach decision on selling Cristian Romero to Arsenal for \u00a338m",
-  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/dme7x81757016317.png/small",
-  "summary": "Fabrizio Romano reports Arsenal hold interest in Tottenham defender Cristian Romero, with Spurs' stance on a potential \u00a338m move revealed."
  },
  {
   "id": "tg:FabrizioRomanoTG/63607",

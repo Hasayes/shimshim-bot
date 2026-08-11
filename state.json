@@ -1290,7 +1290,8 @@
     "tg:FabrizioRomanoTG/64405",
     "c642f9b9d2ad9c555ef805004a9fc7fa",
     "tg:FabrizioRomanoTG/64406",
-    "tg:FabrizioRomanoTG/64407"
+    "tg:FabrizioRomanoTG/64407",
+    "tg:FabrizioRomanoTG/64408"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2230,13 +2231,13 @@
     "gero": "",
     "endrick": "",
     "romelu lukaku": "https://r2.thesportsdb.com/images/media/player/cutout/qi2z1d1764089572.png/small",
-    "lacine megnan pave": "",
     "rodri hernandez": "",
     "kerem alajbegovic": "",
     "mateo soule": "",
-    "ousmane ndiaye": ""
+    "ousmane ndiaye": "",
+    "lacine megnan pave": ""
   },
-  "photo_repair_idx": 5,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

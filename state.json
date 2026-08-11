@@ -1305,7 +1305,8 @@
     "tg:FabrizioRomanoTG/64420",
     "tg:FabrizioRomanoTG/64422",
     "tg:FabrizioRomanoTG/64424",
-    "tg:FabrizioRomanoTG/64427"
+    "tg:FabrizioRomanoTG/64427",
+    "tg:FabrizioRomanoTG/64429"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1682,7 +1683,6 @@
     "interest: romero -> atletico madrid"
   ],
   "titles": [
-    "arsenal to re enter barcola race, man utd eye spanish left back euro transfer ne",
     "tottenham star djed spence wants to join liverpool alongside barcola",
     "arsenal weigh up move for \u00a377m winger after vinicius blow",
     "paris saint germain begins negotiations for mika godts, ajax promise",
@@ -1981,7 +1981,8 @@
     "\ud83d\udea8 \ud83d\udfe2 \u26ab\ufe0f rafael obrador to sassuolo, here we go! deal in place for left back to jo",
     "rt @fabrizioromano : \ud83d\udea8 \ud83d\udfe0 \u26ab\ufe0f lucas herrington has completed medical tests today a",
     "\ud83d\udea8 official: barcelona confirm roony bardghji has torn his acl and will now under",
-    "\ud83d\udea8 \ud83d\udfe3 exclusive: burnley agree deal to sign max alleyne as new centre back from ma"
+    "\ud83d\udea8 \ud83d\udfe3 exclusive: burnley agree deal to sign max alleyne as new centre back from ma",
+    "rt @fabrizioromano : \ud83d\udea8 \ud83d\udfe3 exclusive: burnley agree deal to sign max alleyne as ne"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2248,14 +2249,14 @@
     "endrick": "",
     "romelu lukaku": "https://r2.thesportsdb.com/images/media/player/cutout/qi2z1d1764089572.png/small",
     "kalvin phillips": "https://r2.thesportsdb.com/images/media/player/cutout/vokeo81755870309.png/small",
-    "kerem alajbegovic": "",
     "mateo soule": "",
     "ousmane ndiaye": "",
     "lacine megnan pave": "",
     "max alleyne": "https://r2.thesportsdb.com/images/media/player/cutout/4iimzs1769182989.png/small",
-    "rodri hernandez": ""
+    "rodri hernandez": "",
+    "kerem alajbegovic": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

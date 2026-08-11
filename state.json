@@ -1326,7 +1326,8 @@
     "6f2e9423959c86d5f8e216879aff6027",
     "e00c3ece2e3a598161d81d3387a29b6d",
     "tg:FabrizioRomanoTG/64444",
-    "tg:FabrizioRomanoTG/64445"
+    "tg:FabrizioRomanoTG/64445",
+    "2a9ba01cf6f2466389ef5d380795db59"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1705,7 +1706,6 @@
     "interest: salinas -> manchester united"
   ],
   "titles": [
-    "liverpool 'agree ronald araujo transfer' as barcelona approve shock defender mov",
     "\ud83d\udd34 \ud83c\uddfa\ud83c\uddfe ronald araujo doesn\u2019t travel with barca squad today as he\u2019s flying to liver",
     "ronald araujo joins liverpool on loan from barcelona: what are the terms of the ",
     "\ud83d\udea8 \ud83d\udfe1 \ud83d\udd34 lorenzo pellegrini has just signed a new one year deal at as roma until ju",
@@ -2004,7 +2004,8 @@
     "liverpool news: \u00a347m ace signs for reds as andoni iraola gets huge transfer 'app",
     "romano confirms tottenham to receive major bid for player who is \u2018keen on the mo",
     "\ud83d\udea8 \u26ab\ufe0f \ud83d\udd35 inter official bid for djed spence will be sent this week, decision will ",
-    "\ud83d\udea8 \ud83d\udfe1 \ud83d\udd34 as roma have sent new official bid to fc porto tonight to seal rodrigo mor"
+    "\ud83d\udea8 \ud83d\udfe1 \ud83d\udd34 as roma have sent new official bid to fc porto tonight to seal rodrigo mor",
+    "fabrizio romano: man utd 'offered' hall transfer alternative salinas"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2272,15 +2273,15 @@
     "romelu lukaku": "https://r2.thesportsdb.com/images/media/player/cutout/qi2z1d1764089572.png/small",
     "kalvin phillips": "https://r2.thesportsdb.com/images/media/player/cutout/vokeo81755870309.png/small",
     "max alleyne": "https://r2.thesportsdb.com/images/media/player/cutout/4iimzs1769182989.png/small",
-    "mateo soule": "",
     "ousmane ndiaye": "",
     "hermann malonga": "",
     "jorge salinas": "https://images.fotmob.com/image_resources/playerimages/1670161.png",
     "lacine megnan pave": "",
     "rodri hernandez": "",
-    "kerem alajbegovic": ""
+    "kerem alajbegovic": "",
+    "mateo soule": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 5,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

@@ -1241,7 +1241,10 @@
     "tg:FabrizioRomanoTG/64387",
     "90b4e4f342edbfa03361406f03ec3de1",
     "4bda03c4b944536666f6e8a0daead200",
-    "bc24b6f5d08bfe2cb308e152e5fb3625"
+    "bc24b6f5d08bfe2cb308e152e5fb3625",
+    "db5a95d20d157a9f2f8c5ed63a6577da",
+    "618b8dbaa910c34066c6f24d13af6b18",
+    "b091720f314fcd4b6b0fb4be61309745"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1642,9 +1645,6 @@
     "interest: endrick -> liverpool"
   ],
   "titles": [
-    "napoli eye arsenal\u2019s gabriel jesus as lukaku heads out",
-    "not barcola: fabrizio romano drops massively encouraging liverpool transfer news",
-    "ornstein vs romano: why the vini jr arsenal saga shows transfer news isn\u2019t as si",
     "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f gabriel jesus\u2019 new agent met with napoli today as he also represents mana",
     "\ud83d\udfe2 \u26aa\ufe0f \ud83d\udd1f diego buonanotte has signed in as new elche player from brighton on loan ",
     "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f real sociedad reach verbal agreement to sign nayef aguerd from om, here w",
@@ -1941,7 +1941,10 @@
     "\ud83d\udea8 \u26ab\ufe0f \ud83d\udd35 inter are prepared to send official bid for djed spence if exit condition",
     "liverpool have serious defensive concerns but must sign \u00a3100m rated man this sum",
     "real madrid reporter reveals whether jose mourinho wants to sign martin zubimend",
-    "endrick: liverpool have \u201ctaken a look\u201d but dislike real madrid\u2019s deal structure "
+    "endrick: liverpool have \u201ctaken a look\u201d but dislike real madrid\u2019s deal structure ",
+    "bezos wants liverpool to sign \u00a3171m megastar and become \u2018no 1 club in world\u2019",
+    "real madrid transfer news: juventus captain touted as alternative to rodri?",
+    "real madrid confirm aurelien tchouameni medical after manchester united transfer"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2209,10 +2212,10 @@
     "rodri hernandez": "",
     "kerem alajbegovic": "",
     "mateo soule": "",
-    "endrick": "",
-    "ousmane ndiaye": ""
+    "ousmane ndiaye": "",
+    "endrick": ""
   },
-  "photo_repair_idx": 8,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

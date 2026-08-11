@@ -1321,7 +1321,8 @@
     "51bec8ddc68353219a075946cb8c8a1c",
     "68a32d3fa0c632b84be61f9a70c81e64",
     "07fb44d82bdfbf74cea68e892a9a404d",
-    "tg:FabrizioRomanoTG/64440"
+    "tg:FabrizioRomanoTG/64440",
+    "tg:FabrizioRomanoTG/64442"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1700,7 +1701,6 @@
     "interest: salinas -> manchester united"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83d\udfe3 \ud83d\udd35 aston villa and atletico madrid have agreed on \u20ac20m deal for matteo rugger",
     "sky sports insiders drop big barcola update as next liverpool signing revealed",
     "liverpool signs fc barcelona defender ronald araujo in shock transfer",
     "enzo fernandez remains manchester city\u2019s dream target to replace rodri despite c",
@@ -1999,7 +1999,8 @@
     "tottenham transfer news: fabrizio romano reveals spurs star 'keen' on \u00a334m exit ",
     "transfer news live: liverpool agree barcola terms, man city close in on rodri re",
     "romano confirms barcelona target likened to sergio ramos has been offered to man",
-    "\ud83d\udea8 \u26ab\ufe0f \u26aa\ufe0f juventus have reached full agreement on personal terms with jhon lucumi "
+    "\ud83d\udea8 \u26ab\ufe0f \u26aa\ufe0f juventus have reached full agreement on personal terms with jhon lucumi ",
+    "\ud83d\udcfa new youtube video uploaded! \ud83c\udfac \ud83d\udea8 \ud83d\udca3 enzo bomba! lewis skelly: united chelsea tru"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2267,15 +2268,15 @@
     "romelu lukaku": "https://r2.thesportsdb.com/images/media/player/cutout/qi2z1d1764089572.png/small",
     "kalvin phillips": "https://r2.thesportsdb.com/images/media/player/cutout/vokeo81755870309.png/small",
     "max alleyne": "https://r2.thesportsdb.com/images/media/player/cutout/4iimzs1769182989.png/small",
-    "rodri hernandez": "",
     "kerem alajbegovic": "",
     "mateo soule": "",
     "ousmane ndiaye": "",
     "hermann malonga": "",
     "jorge salinas": "https://images.fotmob.com/image_resources/playerimages/1670161.png",
-    "lacine megnan pave": ""
+    "lacine megnan pave": "",
+    "rodri hernandez": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

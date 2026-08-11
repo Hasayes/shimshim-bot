@@ -724,6 +724,18 @@ def _article_prompt(article):
 
 VALID_STAGES = {"here we go", "completed"}
 
+# Role/position phrases the model sometimes puts in player= when the article
+# never names the footballer ("Backup goalkeeper", "a third midfielder").
+# One-name stars (Endrick, Rodri) still pass — this only rejects role words.
+_ROLE_PLAYER_RE = re.compile(
+    r"^(?:(?:the|a|an|his|their|its)\s+)?"
+    r"(?:(?:backup|deputy|reserve|second|third|another|unnamed|young|new)\s+)?"
+    r"(?:goalkeepers?|keepers?|strikers?|forwards?|wingers?|midfielders?|"
+    r"defenders?|centre-?backs?|center-?backs?|full-?backs?|right-?backs?|"
+    r"left-?backs?|attackers?|players?)$",
+    re.I,
+)
+
 
 def brief_problems(brief):
     """Structural lint a card must pass before publishing.
@@ -738,6 +750,8 @@ def brief_problems(brief):
         problems.append("no player")
     elif len(player) > 60:
         problems.append("implausible player name")
+    elif _ROLE_PLAYER_RE.match(_norm(player)):
+        problems.append("unnamed/role player")
     if brief.to_club.strip() in ("", "—"):
         problems.append("no destination/suitor club")
     if brief.kind == "deal":

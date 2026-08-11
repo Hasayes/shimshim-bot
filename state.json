@@ -1350,7 +1350,8 @@
     "36914d274c171a9b8e471db5d69a7dc8",
     "tg:FabrizioRomanoTG/64450",
     "195cdb1845fcff6d036ac24f8cb55a58",
-    "9fc9faff39521ee6495d20074a6a1ae2"
+    "9fc9faff39521ee6495d20074a6a1ae2",
+    "7c1ed7a28247e87ebcdc07d69c8dcdf7"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1729,7 +1730,6 @@
     "interest: salinas -> manchester united"
   ],
   "titles": [
-    "manchester city sign world cup winner gero rulli in major squad boost",
     "ronald araujo to liverpool loan is \u201call done\u201d and includes buy option, says fabr",
     "liverpool reportedly secure ronald araujo on loan from barcelona",
     "\u00a3120m star tells his club he wants arsenal transfer after emerging as arteta\u2019s \u201c",
@@ -2028,7 +2028,8 @@
     "nottingham forest transfer news: ousmane diomande saga ends as ivory coast inter",
     "\ud83d\udcfa new youtube video uploaded! \ud83c\udfac \ud83d\udea8 \ud83d\udca3 deadline! here we go coming! lautaro, enzo, ",
     "fenerbahce secure deal for lukaku transfer from napoli",
-    "bayern munich still seeking \u20ac30 million from aston villa, newcastle united for j"
+    "bayern munich still seeking \u20ac30 million from aston villa, newcastle united for j",
+    "romano says \u201cnegotiations are underway\u201d for defender to leave chelsea for serie "
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2298,13 +2299,13 @@
     "max alleyne": "https://r2.thesportsdb.com/images/media/player/cutout/4iimzs1769182989.png/small",
     "jorge salinas": "https://images.fotmob.com/image_resources/playerimages/1670161.png",
     "ousmane ndiaye": "",
-    "lacine megnan pave": "",
     "rodri hernandez": "",
     "kerem alajbegovic": "",
     "mateo soule": "",
-    "hermann malonga": ""
+    "hermann malonga": "",
+    "lacine megnan pave": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

@@ -1286,7 +1286,8 @@
     "tg:FabrizioRomanoTG/64399",
     "d7c0583e5fcbfae332546e8c614600e5",
     "tg:FabrizioRomanoTG/64400",
-    "tg:FabrizioRomanoTG/64403"
+    "tg:FabrizioRomanoTG/64403",
+    "tg:FabrizioRomanoTG/64405"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1661,7 +1662,6 @@
     "interest: romero -> atletico madrid"
   ],
   "titles": [
-    "rodri transfer latest update: manchester city reject barcelona\u2019s \u00a338 5m bid for ",
     "\u201cfinal stages\u201d \u2013 man city close in on ligue 1 superstar as rodri replacement",
     "rodri needs barcelona to offer man city more money",
     "chelsea open to loan deal with option for troublesome defender with 42 appearanc",
@@ -1960,7 +1960,8 @@
     "\ud83d\udd04 \u2705 swap deal officially completed: dwight mcneil joins crystal palace and brenn",
     "barcelona confident of signing man city star",
     "\ud83d\udd34 \ud83c\uddfa\ud83c\uddfe ronald araujo\u2019s message to liverpool fans: \u201ci'm going to give my best i wan",
-    "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 paris saint germain agree deal in principle with parma to sign zion suzuki"
+    "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 paris saint germain agree deal in principle with parma to sign zion suzuki",
+    "rt @fabrizioromano : \ud83d\udea8 \ud83c\uddfa\ud83c\udde6 chelsea are open to considering loan proposals for myk"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2225,14 +2226,14 @@
     "backup goalkeeper": "",
     "gero": "",
     "endrick": "",
-    "mateo soule": "",
     "romelu lukaku": "https://r2.thesportsdb.com/images/media/player/cutout/qi2z1d1764089572.png/small",
     "ousmane ndiaye": "",
     "lacine megnan pave": "",
     "rodri hernandez": "",
-    "kerem alajbegovic": ""
+    "kerem alajbegovic": "",
+    "mateo soule": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

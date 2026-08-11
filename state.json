@@ -1251,7 +1251,9 @@
     "95acaa4b167041cc94cd4220f7ab0f2a",
     "3f287f804d7d3de3e247e40f28ce2a59",
     "4415a7b5003e3cac4e8f97591999b8df",
-    "a7f199988c922d3af70c481ee3924e80"
+    "a7f199988c922d3af70c481ee3924e80",
+    "0163ca7c3e9249a6680759432546fab9",
+    "f3a5a1bb86788c1876403275221f751c"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1652,8 +1654,6 @@
     "interest: endrick -> liverpool"
   ],
   "titles": [
-    "chelsea book medical for 11th new signing as key xabi alonso deal agreed",
-    "chelsea book medical for 11th new signing as key alonso deal agreed london eveni",
     "juventus keep atubolu in reserve as suzuki pursuit drags on",
     "\ud83d\udfe2 \u26aa\ufe0f \ud83d\udd1f facu buonanotte has signed in as new elche player from brighton on loan d",
     "liverpool not pursuing spence move friday's gossip",
@@ -1951,7 +1951,9 @@
     "psg submit \u20ac50m bid to barcelona for ferran torres",
     "nottingham forest transfer latest as medical set but crystal palace scoop oliver",
     "roma in continuous talks with real madrid for endrick: the spanish club will mak",
-    "psg table \u20ac50m offer for world cup final hero ferran torres"
+    "psg table \u20ac50m offer for world cup final hero ferran torres",
+    "\u201ctalks at final stages\u201d \u2013 liverpool closer to ibrahim mbaye transfer than ever b",
+    "endrick, barcola and ferran torres: latest transfer gossip"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2213,16 +2215,16 @@
     "moussa diaby": "https://r2.thesportsdb.com/images/media/player/cutout/jxusnf1694202001.png/small",
     "joaquin seys": "https://r2.thesportsdb.com/images/media/player/cutout/34zoma1767634511.png/small",
     "divin mubama": "https://r2.thesportsdb.com/images/media/player/cutout/g1avfr1761251337.png/small",
-    "rodri hernandez": "",
     "kerem alajbegovic": "",
     "mateo soule": "",
     "ousmane ndiaye": "",
     "endrick": "",
     "lacine megnan pave": "",
     "backup goalkeeper": "",
-    "gero": ""
+    "gero": "",
+    "rodri hernandez": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 5,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

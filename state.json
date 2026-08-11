@@ -1281,7 +1281,8 @@
     "ea55abe490694c443a87f905e1d03e11",
     "tg:FabrizioRomanoTG/64394",
     "807046af7c604ea1b766cb3f72ab762d",
-    "tg:FabrizioRomanoTG/64395"
+    "tg:FabrizioRomanoTG/64395",
+    "tg:FabrizioRomanoTG/64396"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1655,7 +1656,6 @@
     "interest: romero -> atletico madrid"
   ],
   "titles": [
-    "\u201cdirect talks\u201d between man city and barcelona after \u20ac50m bid rejected",
     "man utd travelling squad to face psg confirmed, bruno fernandes returns",
     "\u201carsenal are getting a very special player\u201d \u2013 newcastle chief speaks out on brun",
     "\ud83d\udea8 \ud83c\udde6\ud83c\uddf7 atletico madrid will send new bid for cuti romero soon as molina and almada",
@@ -1954,7 +1954,8 @@
     "transfer: tottenham take decision on selling romero to arsenal",
     "\ud83d\udea8 \ud83d\udfe1 \ud83d\udd35 fenerbahce are closing in on romelu lukaku deal after napoli accept second",
     "tottenham and arsenal had \u2018genuine interest\u2019 in \u00a343m forward before psg gazumped",
-    "\ud83d\udea8 \ud83d\udfe1 \ud83d\udd35 romelu lukaku to fenerbahce, here we go! green light from napoli as club t"
+    "\ud83d\udea8 \ud83d\udfe1 \ud83d\udd35 romelu lukaku to fenerbahce, here we go! green light from napoli as club t",
+    "\u26aa\ufe0f \u26ab\ufe0f official, confirmed shea charles signs in at fulham on \u00a330m package deal f"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2219,14 +2220,14 @@
     "backup goalkeeper": "",
     "gero": "",
     "endrick": "",
-    "lacine megnan pave": "",
     "rodri hernandez": "",
     "kerem alajbegovic": "",
     "mateo soule": "",
     "romelu lukaku": "https://r2.thesportsdb.com/images/media/player/cutout/qi2z1d1764089572.png/small",
-    "ousmane ndiaye": ""
+    "ousmane ndiaye": "",
+    "lacine megnan pave": ""
   },
-  "photo_repair_idx": 5,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

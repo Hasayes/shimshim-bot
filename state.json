@@ -1342,7 +1342,10 @@
     "91b7d5f0a38654f095d1ebb38577f861",
     "8ee7c47bdcd216ad2fd9051b38a0a4fc",
     "1043805e12fd9ff341c486c0471d78e2",
-    "1f470d9f63a4d6b0d376ae058741e810"
+    "1f470d9f63a4d6b0d376ae058741e810",
+    "b89e1d622b69fd962d8b00ad0e7544b6",
+    "795c897f806baf6c88a5725fa1fb00ed",
+    "6be35ecad855d667401aa1512e87921c"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1721,9 +1724,6 @@
     "interest: salinas -> manchester united"
   ],
   "titles": [
-    "bayern munich news: the aftermath of bayern munich\u2019s 2 1 win over aston villa; p",
-    "shopping for carrick: who are man utd\u2019s best left back options if hall is unatta",
-    "\ud83d\udea8 \u2692\ufe0f excl: manor solomon to west ham, here we go! deal agreed now and medical bo",
     "\ud83d\udea8 \ud83c\uddfa\ud83c\uddf8 sergi roberto has officially joined la galaxy as free agent after leaving c",
     "rt @fabrizioromano : \ud83d\udea8 \u2692\ufe0f excl: manor solomon to west ham, here we go! deal agre",
     "\ud83d\udea8 \ud83d\udfe1 \ud83d\udd35 romelu lukaku has given his green light to fenerbahce project and move aft",
@@ -2020,7 +2020,10 @@
     "napoli agree striker sale to enable bid for arsenal 29yo",
     "fabrizio romano confirms liverpool transfer will be completed \u2018next week\u2019",
     "psg and parma agree on \u20ac35m deal for zion suzuki",
-    "liverpool will complete transfer \u2018next week\u2019 with \u2018plan decided\u2019 \u2013 fabrizio roma"
+    "liverpool will complete transfer \u2018next week\u2019 with \u2018plan decided\u2019 \u2013 fabrizio roma",
+    "romano explains chelsea\u2019s decision over mykhailo mudryk future",
+    "fabrizio romano confirms \u2018green light\u2019 in liverpool\u2019s chase for bradley barcola",
+    "man utd, chelsea offered arsenal star as gunners to sell on one condition after "
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2290,13 +2293,13 @@
     "max alleyne": "https://r2.thesportsdb.com/images/media/player/cutout/4iimzs1769182989.png/small",
     "jorge salinas": "https://images.fotmob.com/image_resources/playerimages/1670161.png",
     "ousmane ndiaye": "",
-    "rodri hernandez": "",
     "kerem alajbegovic": "",
     "mateo soule": "",
     "hermann malonga": "",
-    "lacine megnan pave": ""
+    "lacine megnan pave": "",
+    "rodri hernandez": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

@@ -1260,7 +1260,9 @@
     "0ae66f6c9399fbfc1da386489955a60c",
     "06cb36344fc84b2462b54a260e8d2e1e",
     "5b32797d56de063412aba68335ce0a18",
-    "ba9c5817500fd6e0c3fe7ffbf0d1b503"
+    "ba9c5817500fd6e0c3fe7ffbf0d1b503",
+    "152814561564f7290b48ef6c71e623c5",
+    "tg:FabrizioRomanoTG/64388"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1632,8 +1634,6 @@
     "interest: seys -> manchester united"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83d\udca3 the exclusive bomba of the day: ronald araujo to liverpool, here we go \ud83c\uddfa\ud83c\uddfe lo",
-    "\u201cvery confident\u201d \u2013 manchester city in talks with club to get transfer done, says",
     "romero wants atletico move with spaniards \u2018clear frontrunners\u2019",
     "barcelona \u2018very confident\u2019 of winning rodri transfer race",
     "\ud83d\udea8 \ud83c\uddfa\ud83c\uddfe more on the exclusive story of the day: ronald araujo will join liverpool, ",
@@ -1931,7 +1931,9 @@
     "newcastle united transfer news: former spurs stars 'turns down' st james' park m",
     "fabrizio romano: aston villa 'very interested' in 'spectacular' endrick",
     "roma interested in inter defender luis henrique",
-    "psg \u201cclosing in\u201d on \u20ac50m verbal agreement for attacker says fabrizio romano"
+    "psg \u201cclosing in\u201d on \u20ac50m verbal agreement for attacker says fabrizio romano",
+    "manchester city go all in for rodri\u2019s replacement",
+    "\ud83d\udea8 \ud83c\udde8\ud83c\udded parma 19 year old right back sascha britschgi has officially signed with ca"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2196,13 +2198,13 @@
     "lacine megnan pave": "",
     "backup goalkeeper": "",
     "gero": "",
-    "kerem alajbegovic": "",
     "mateo soule": "",
     "ousmane ndiaye": "",
     "endrick": "",
-    "rodri hernandez": ""
+    "rodri hernandez": "",
+    "kerem alajbegovic": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

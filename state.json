@@ -1316,7 +1316,12 @@
     "tg:FabrizioRomanoTG/64435",
     "tg:FabrizioRomanoTG/64436",
     "tg:FabrizioRomanoTG/64438",
-    "50d661c80004ded19104d66a3f4b8019"
+    "50d661c80004ded19104d66a3f4b8019",
+    "56234aefabf921700ac5587bd61facd6",
+    "51bec8ddc68353219a075946cb8c8a1c",
+    "68a32d3fa0c632b84be61f9a70c81e64",
+    "07fb44d82bdfbf74cea68e892a9a404d",
+    "tg:FabrizioRomanoTG/64440"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1691,14 +1696,10 @@
     "interest: pave -> psg",
     "interest: diaby -> inter",
     "interest: seys -> manchester united",
-    "interest: romero -> atletico madrid"
+    "interest: romero -> atletico madrid",
+    "interest: salinas -> manchester united"
   ],
   "titles": [
-    "barcelona must get serious in their bid to sign a manchester city leader",
-    "\ud83d\udea8 newcastle made clear to lewis hall and his camp the intention not to sell him ",
-    "\ud83d\udea8 \ud83d\udc4b\ud83c\udffc official: roony bardghji does not travel with barca squad for pre season ga",
-    "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 marc casado, set to leave barcelona in the upcoming days with offers being",
-    "\ud83d\udd34 \ud83d\udd35 \ud83c\uddef\ud83c\uddf5 plan confirmed: paris saint germain improve their bid to parma for zion s",
     "\ud83d\udea8 \ud83d\udfe3 \ud83d\udd35 aston villa and atletico madrid have agreed on \u20ac20m deal for matteo rugger",
     "sky sports insiders drop big barcola update as next liverpool signing revealed",
     "liverpool signs fc barcelona defender ronald araujo in shock transfer",
@@ -1993,7 +1994,12 @@
     "rt @fabrizioromano : \ud83d\udea8 \u26ab\ufe0f \u26aa\ufe0f breaking: dusan vlahovic and his camp gave initial ",
     "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f rc strasbourg have agreed on deal to sign hermann malonga after he left p",
     "\ud83d\udea8 \ud83c\udde6\ud83c\uddf7 enzo maresca would love to reunite with enzo fernandez at manchester city s",
-    "transfer news live: arsenal want yildiz, barcola hijack; chelsea done deal; man "
+    "transfer news live: arsenal want yildiz, barcola hijack; chelsea done deal; man ",
+    "romano reveals man utd decision on priority next signing as barcelona target \u2018of",
+    "tottenham transfer news: fabrizio romano reveals spurs star 'keen' on \u00a334m exit ",
+    "transfer news live: liverpool agree barcola terms, man city close in on rodri re",
+    "romano confirms barcelona target likened to sergio ramos has been offered to man",
+    "\ud83d\udea8 \u26ab\ufe0f \u26aa\ufe0f juventus have reached full agreement on personal terms with jhon lucumi "
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2260,15 +2266,16 @@
     "endrick": "",
     "romelu lukaku": "https://r2.thesportsdb.com/images/media/player/cutout/qi2z1d1764089572.png/small",
     "kalvin phillips": "https://r2.thesportsdb.com/images/media/player/cutout/vokeo81755870309.png/small",
-    "lacine megnan pave": "",
     "max alleyne": "https://r2.thesportsdb.com/images/media/player/cutout/4iimzs1769182989.png/small",
     "rodri hernandez": "",
     "kerem alajbegovic": "",
     "mateo soule": "",
     "ousmane ndiaye": "",
-    "hermann malonga": ""
+    "hermann malonga": "",
+    "jorge salinas": "https://images.fotmob.com/image_resources/playerimages/1670161.png",
+    "lacine megnan pave": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",
@@ -2415,6 +2422,7 @@
     "strasbourg": "https://r2.thesportsdb.com/images/media/team/badge/b8k77w1766625501.png/small",
     "montpellier": "https://r2.thesportsdb.com/images/media/team/badge/8wn9x31750879448.png/small",
     "al diriyah": "https://r2.thesportsdb.com/images/media/team/badge/0m7ub31782452735.png/small",
-    "sheffield united": "https://r2.thesportsdb.com/images/media/team/badge/w7f8pj1672950689.png/small"
+    "sheffield united": "https://r2.thesportsdb.com/images/media/team/badge/w7f8pj1672950689.png/small",
+    "racing santander": "https://r2.thesportsdb.com/images/media/team/badge/97kkiq1536575158.png/small"
   }
 }

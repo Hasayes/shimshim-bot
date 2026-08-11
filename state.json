@@ -1332,7 +1332,10 @@
     "d6aec986c0d0f6f865eb369004f71863",
     "201c0fe44a010a6b66c32c6ebfa6ebe9",
     "1599c48a0fd41cdb1e6caad17d4a4eab",
-    "fa014a23d3a29e0f5054d72f7c2c39a4"
+    "fa014a23d3a29e0f5054d72f7c2c39a4",
+    "1106e6c33324f5c5719201fa18483c25",
+    "49e046c87026462283b437904498bb40",
+    "tg:FabrizioRomanoTG/64447"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1711,9 +1714,6 @@
     "interest: salinas -> manchester united"
   ],
   "titles": [
-    "liverpool's newest addition made brave admission amid ongoing mental health batt",
-    "arsenal star could leave before deadline after new agent holds talks with serie ",
-    "\ud83d\udd34 \u26aa\ufe0f \ud83c\udde7\ud83c\uddf7 official: bruno guimaraes joins arsenal from newcastle for \u00a375m fee cont",
     "\u2764\ufe0f \ud83e\udd0d mikel arteta has been pushing for long time with a clear top target for ars",
     "transfer shocker! rb leipzig deal for fisnik asllani falls through due to medica",
     "\u2764\ufe0f \ud83e\udd0d \ud83c\udfc6 bruno guimaraes: \u201ci want to win trophies, i want to make history and i th",
@@ -2010,7 +2010,10 @@
     "just in: chelsea open door to mudryk loan as winger makes it preference clear",
     "fabrizio romano confirms liverpool target is wanted by european giants",
     "inter continue talks for tottenham wing back target djed spence",
-    "lukaku destined to leave napoli to head to fenerbahce"
+    "lukaku destined to leave napoli to head to fenerbahce",
+    "fabrizio romano: liverpool defender will leave as loan offers arrive",
+    "real madrid make endrick decision as man utd, aston villa suffer transfer blow",
+    "\ud83d\udea8 \ud83d\udfe3 \ud83d\udd35 aston villa reach verbal agreement to sign matteo ruggeri from atletico ma"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2279,14 +2282,14 @@
     "kalvin phillips": "https://r2.thesportsdb.com/images/media/player/cutout/vokeo81755870309.png/small",
     "max alleyne": "https://r2.thesportsdb.com/images/media/player/cutout/4iimzs1769182989.png/small",
     "jorge salinas": "https://images.fotmob.com/image_resources/playerimages/1670161.png",
-    "rodri hernandez": "",
     "kerem alajbegovic": "",
     "mateo soule": "",
     "ousmane ndiaye": "",
     "hermann malonga": "",
-    "lacine megnan pave": ""
+    "lacine megnan pave": "",
+    "rodri hernandez": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

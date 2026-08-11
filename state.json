@@ -1267,7 +1267,8 @@
     "6808af3340528f3ee770f48607d17b74",
     "tg:FabrizioRomanoTG/64389",
     "4318fffe58a1894b616d1805fb8ffb15",
-    "tg:FabrizioRomanoTG/64390"
+    "tg:FabrizioRomanoTG/64390",
+    "1701b2a0fb02559d5c96402f9cccc72a"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1461,7 +1462,7 @@
     "aguerd -> real sociedad": 1,
     "araujo -> liverpool": 2,
     "diomande -> nottingham forest": 1,
-    "solomon -> west ham": 1,
+    "solomon -> west ham": 2,
     "athekame -> olympique lyon": 1,
     "goalkeeper -> strasbourg": 1,
     "djimsiti -> al diriyah": 2,
@@ -1639,7 +1640,6 @@
     "interest: seys -> manchester united"
   ],
   "titles": [
-    "\u201cmany bonuses\u201d in bruno guimaraes to arsenal transfer that newcastle are keeping",
     "arsenal consider signing tottenham hotspur captain",
     "liverpool could sign \u00a360m centre back imminently; current squad \u201cincreasingly re",
     "arsenal set \u00a317m+ asking price for napoli target",
@@ -1938,7 +1938,8 @@
     "tottenham handed renewed hope after hoffenheim star\u2019s transfer to rb leipzig col",
     "\ud83d\udfe1 \ud83d\udd35 \ud83c\udde6\ud83c\uddf7 parma have reached verbal agreement with tigre for david romero as new fo",
     "why liverpool haven\u2019t bid for bradley barcola revealed as arsenal hijack truths ",
-    "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 paris saint germain plan to return in direct talks over mika godts deal af"
+    "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 paris saint germain plan to return in direct talks over mika godts deal af",
+    "manor solomon joins west ham from tottenham hotspur"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2203,13 +2204,13 @@
     "backup goalkeeper": "",
     "gero": "",
     "endrick": "",
-    "kerem alajbegovic": "",
     "mateo soule": "",
     "ousmane ndiaye": "",
     "lacine megnan pave": "",
-    "rodri hernandez": ""
+    "rodri hernandez": "",
+    "kerem alajbegovic": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

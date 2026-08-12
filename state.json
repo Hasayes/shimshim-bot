@@ -1460,7 +1460,10 @@
     "a7f52108cd3311b78d5adaf10eafaadb",
     "4ecf19da3517e5752d11b6f86ac177e4",
     "dc8d172536c439ad8a52408a5beb2fd4",
-    "3395105be7d3f246f4a089924c67aed6"
+    "3395105be7d3f246f4a089924c67aed6",
+    "68cf70b46e85bd86eca1c0abc45da587",
+    "0850382bf4cb0b6516e50e8f9929d118",
+    "b17af6802e74c5f10ed5bb89d119e257"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1845,12 +1848,10 @@
     "interest: gonzalez -> manchester city",
     "interest: ndiaye -> arsenal",
     "interest: kounde -> arsenal",
-    "interest: mala -> borussia dortmund"
+    "interest: mala -> borussia dortmund",
+    "interest: neto -> manchester city"
   ],
   "titles": [
-    "report: marquee liverpool transfer under fresh threat as arsenal line up audacio",
-    "aston villa given green light to sign real madrid star",
-    "town 'make palacios bid'",
     "arsenal rejected \u20ac35m bid for ethan nwaneri",
     "\u201chere we go\u201d \u2013 fabrizio romano announces chelsea deal while blues play friendly",
     "man utd active in making \u20ac100m midfielder their seventh summer signing",
@@ -2147,7 +2148,10 @@
     "romano claims \u2018deal could happen\u2019 for liverpool player\u2019s late exit this summer",
     "euro giants have \u201csubmitted an official offer\u201d for arsenal duo, claims journalis",
     "boost for ineos: romano confirms man utd target has turned down foreign approach",
-    "pep chavarria: chelsea's \u00a316 3m signing who only broke into club football at 24"
+    "pep chavarria: chelsea's \u00a316 3m signing who only broke into club football at 24",
+    "djed spence said yes to inter as nerazzurri launch formal transfer bid for totte",
+    "barcelona submit new offer for rodri as manchester city stand firm",
+    "chelsea and man city deal on the rocks over \u201csignificant gap\u201d between asking pri"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2423,11 +2427,11 @@
     "rodri hernandez": "",
     "kerem alajbegovic": "",
     "kounde": "https://r2.thesportsdb.com/images/media/player/cutout/qea88i1726509803.png/small",
-    "hermann malonga": "",
     "lacine megnan pave": "",
-    "said el mala": ""
+    "said el mala": "",
+    "hermann malonga": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

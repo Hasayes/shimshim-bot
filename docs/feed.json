@@ -1,5 +1,25 @@
 [
  {
+  "id": "b17af6802e74c5f10ed5bb89d119e257",
+  "ts": "2026-08-12T23:15:47+00:00",
+  "kind": "interest",
+  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/g63rmf1757003837.png/small",
+  "stage": "\u2014",
+  "player": "Pedro Neto",
+  "position": "winger",
+  "age": "\u2014",
+  "from_club": "Chelsea",
+  "to_club": "Manchester City",
+  "fee": "\u2014",
+  "style": "\u2014",
+  "fit": "\u2014",
+  "source": "yahoo",
+  "summary": "Manchester City has made offers for Chelsea winger Pedro Neto, but a significant gap remains between the clubs' asking price and City's bids.",
+  "outlet": "yahoo",
+  "url": "https://sports.yahoo.com/articles/chelsea-man-city-deal-rocks-110500998.html",
+  "title": "Chelsea and Man City deal on the rocks over \u201csignificant gap\u201d between asking price and offer"
+ },
+ {
   "id": "9ee5f5a8b8824bb712178e6509fc7ddf",
   "ts": "2026-08-12T20:15:44+00:00",
   "kind": "deal",

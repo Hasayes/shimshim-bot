@@ -1452,7 +1452,9 @@
     "c6c60a865d8d7254ebd3287351c22ee1",
     "6854b84b45773ee6411de73e8164dd63",
     "tg:FabrizioRomanoTG/64513",
-    "tg:FabrizioRomanoTG/64514"
+    "tg:FabrizioRomanoTG/64514",
+    "cd642d201b6f419107a747cc54c7034d",
+    "7be358b14ed2f07d38780168f1c478d6"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1840,8 +1842,6 @@
     "interest: mala -> borussia dortmund"
   ],
   "titles": [
-    "hansi flick decision all but confirms ronald araujo move to liverpool as medical",
-    "transfer: \u2018i don\u2019t want to get involved\u2019 \u2013 barca star, fermin lopez on rodri\u2019s m",
     "real madrid \u2018will face two main obstacles\u2019 to sign \u20ac90m arsenal star",
     "the \u00a3690million xl that man utd could have signed for just \u00a3114million: caicedo,",
     "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f southampton have reached verbal agreement to sign divin mubama from man c",
@@ -2139,7 +2139,9 @@
     "paris st germain: ferran torres misses barcelona training to finalise move bbc c",
     "latest football transfer news: barcelona make new \u20ac60m rodri bid, manchester cit",
     "\ud83d\udea8 \ud83d\udea8 psg chairman nasser al khelaifi on bradley barcola: \u201cwe\u2019re working calmly, w",
-    "rt @fabrizioromano : \ud83d\udea8 breaking: chelsea fix friday 5pm uk time deadline for enz"
+    "rt @fabrizioromano : \ud83d\udea8 breaking: chelsea fix friday 5pm uk time deadline for enz",
+    "chelsea open door to loan deal as serie a giants step up pursuit for defender",
+    "barcelona raise offer for rodri as man city demand \u20ac80m"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2415,11 +2417,11 @@
     "rodri hernandez": "",
     "kerem alajbegovic": "",
     "kounde": "https://r2.thesportsdb.com/images/media/player/cutout/qea88i1726509803.png/small",
-    "lacine megnan pave": "",
     "said el mala": "",
-    "hermann malonga": ""
+    "hermann malonga": "",
+    "lacine megnan pave": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

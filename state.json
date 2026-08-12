@@ -1445,7 +1445,12 @@
     "a6aa36c44a5f329afc2dff95b0710d2b",
     "ac54fd40a4e93c3b7d1602c79a365d4e",
     "tg:FabrizioRomanoTG/64509",
-    "tg:FabrizioRomanoTG/64510"
+    "tg:FabrizioRomanoTG/64510",
+    "4a9539a9b54b5bbec537a2d55dd66f0e",
+    "3074be1ece90a09364b03d947612f4b5",
+    "143028f33bf7996e1d86e51b03d47712",
+    "c6c60a865d8d7254ebd3287351c22ee1",
+    "6854b84b45773ee6411de73e8164dd63"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1833,11 +1838,6 @@
     "interest: mala -> borussia dortmund"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 olympique lyon reach verbal agreement on loan deal to sign zachary athekam",
-    "\ud83d\udfe1 \ud83d\udd34 \ud83c\udde6\ud83c\uddf7 nahuel molina will sign a four year deal at as roma early next week follo",
-    "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 understand paris saint germain are closing in on the agreement for zion su",
-    "\ud83d\udea8 \ud83d\udfe1 \ud83d\udd34 as roma have submitted \u20ac25m official bid to fc porto for rodrigo mora port",
-    "barcelona defender set to complete his medical at liverpool today ahead of surpr",
     "\ud83c\udf33 \ud83d\udee9\ufe0f ousmane diomande has just landed in england to undergo medical tests on mon",
     "transfer news live: arsenal hijack barcola bid; alvarez 'signs'; liverpool medic",
     "hansi flick decision all but confirms ronald araujo move to liverpool as medical",
@@ -2132,7 +2132,12 @@
     "transfer column: aston villa reach 'verbal agreement' for atletico madrid left b",
     "matthias jaissle has just given green light to make his first newcastle united s",
     "\ud83d\udea8 0\ufe0f\u20e3 zero minutes tonight for bradley barcola in psg aston villa, liverpool\u2019s t",
-    "\ud83d\udd34 \ud83d\udd35 \ud83c\udfc6 official: psg win the uefa super cup beating aston villa! \ud83d\udc51 another one fo"
+    "\ud83d\udd34 \ud83d\udd35 \ud83c\udfc6 official: psg win the uefa super cup beating aston villa! \ud83d\udc51 another one fo",
+    "lazio could aid inter finally land jones from liverpool",
+    "chelsea announce alonso inspired signing as romano drops enzo to man city truth ",
+    "liverpool hold talks over signing iliman ndiaye after fabrizio romano reveals \u2018d",
+    "paris st germain: ferran torres misses barcelona training to finalise move bbc c",
+    "latest football transfer news: barcelona make new \u20ac60m rodri bid, manchester cit"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2408,11 +2413,11 @@
     "rodri hernandez": "",
     "kerem alajbegovic": "",
     "kounde": "https://r2.thesportsdb.com/images/media/player/cutout/qea88i1726509803.png/small",
-    "said el mala": "",
     "hermann malonga": "",
-    "lacine megnan pave": ""
+    "lacine megnan pave": "",
+    "said el mala": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

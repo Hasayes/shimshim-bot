@@ -1434,7 +1434,9 @@
     "bd3e08d1dcf352e6f0ecdd069b446dbd",
     "d8a13228fe1e1579b30ab5a67091b857",
     "tg:FabrizioRomanoTG/64502",
-    "tg:FabrizioRomanoTG/64504"
+    "tg:FabrizioRomanoTG/64504",
+    "tg:FabrizioRomanoTG/64505",
+    "tg:FabrizioRomanoTG/64506"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1822,8 +1824,6 @@
     "interest: mala -> borussia dortmund"
   ],
   "titles": [
-    "rt @fabrizioromano : \ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f exclusive: fulham agree deal to sign shea charles f",
-    "\ud83d\udea8 \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f curtis jones, out of liverpool squad today as he\u2019s not even on the ben",
     "\ud83d\udea8 exclusive: manchester united decide to give marcus rashford new squad number a",
     "\ud83d\udea8 \ud83d\udfe1 \ud83d\udd35 frosinone agree deal to sign aleksa terzic as new fullback from rb salzbur",
     "\ud83d\udfe1 \ud83d\udd35 \ud83c\uddf8\ud83c\udde6 exclusive story from one month ago, confirmed: samu costa signs for al na",
@@ -2121,7 +2121,9 @@
     "transfer news: lewis skelly keen on arsenal stay despite man united, chelsea lin",
     "cologne eye said el mala replacement",
     "rt @fabrizioromano : \ud83d\udea8 \ud83c\uddf3\ud83c\uddf1 breaking: xavi has agreed to become new dutch national",
-    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f breaking: cristian romero to atletico madrid, here we go! \ud83c\udde6\ud83c\uddf7 agreement in"
+    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f breaking: cristian romero to atletico madrid, here we go! \ud83c\udde6\ud83c\uddf7 agreement in",
+    "\ud83d\udd34 \u26aa\ufe0f \ud83d\udd1c cuti romero\u2019s agent ciro palermo agency cifra account on instagram also t",
+    "rt @fabrizioromano : \ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f breaking: cristian romero to atletico madrid, here w"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2398,10 +2400,10 @@
     "kerem alajbegovic": "",
     "kounde": "https://r2.thesportsdb.com/images/media/player/cutout/qea88i1726509803.png/small",
     "hermann malonga": "",
-    "said el mala": "",
-    "lacine megnan pave": ""
+    "lacine megnan pave": "",
+    "said el mala": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

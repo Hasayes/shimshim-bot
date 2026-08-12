@@ -1417,7 +1417,10 @@
     "a4903f64552adfa76a418ce7159455fb",
     "23b757c3d4da655c6f79712cb9bfd7dc",
     "969959c858c6d86ad98f22ba97863e30",
-    "d41d48eeb6e30da266961fbf5b2d6d60"
+    "d41d48eeb6e30da266961fbf5b2d6d60",
+    "36cd8bddbf181f5e498ddf87859c9693",
+    "957ab58dced5a614c6a9a3f606cdfa6b",
+    "36f6e9f6bbaf37dbac32e8b5e580d236"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1802,9 +1805,6 @@
     "interest: ndiaye -> arsenal"
   ],
   "titles": [
-    "\ud83d\udd35 \ud83d\udd34 fermin lopez on rodri to barca: \u201ceveryone knows that rodri is an extraordina",
-    "barcelona winger attracting interest from bundesliga as summer exit looms",
-    "chelsea flop alvaro morata \u2018set for immediate shock transfer exit less than two ",
     "julian alvarez transfer update: atletico madrid star chooses diplomacy as barcel",
     "\ud83d\udea8 \ud83d\udd34 ronald araujo, flying to merseyside today as he will undergo medical at live",
     "ferran torres could be taking his talents to the parc des princes",
@@ -2101,7 +2101,10 @@
     "when matteo ruggeri could join aston villa as medical set",
     "former chelsea manager could raid blues for winger loan signing",
     "man united consider \u00a330m bid for left back on radar of arsenal & aston villa",
-    "next arsenal transfer target named as romano reveals truth on kounde to gunners"
+    "next arsenal transfer target named as romano reveals truth on kounde to gunners",
+    "liverpool stunned as man city shortlist top reds star and romano confirms signin",
+    "arsenal yet to make any concrete advances to sign barcelona defender despite int",
+    "aston villa agree \u20ac26 5m deal to sign ruggeri from atletico madrid"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2376,10 +2379,10 @@
     "davide frattesi": "https://r2.thesportsdb.com/images/media/player/cutout/z58bx11759408884.png/small",
     "rodri hernandez": "",
     "kerem alajbegovic": "",
-    "lacine megnan pave": "",
-    "hermann malonga": ""
+    "hermann malonga": "",
+    "lacine megnan pave": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

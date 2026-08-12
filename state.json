@@ -1382,7 +1382,8 @@
     "tg:FabrizioRomanoTG/64465",
     "057695bb451928bbb52fc78c9405bdfb",
     "b94708e2c37e7b22029a964e338f41df",
-    "tg:FabrizioRomanoTG/64466"
+    "tg:FabrizioRomanoTG/64466",
+    "c6e0542ad1755dd135740c6047afd1d1"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1759,10 +1760,10 @@
     "interest: diaby -> inter",
     "interest: seys -> manchester united",
     "interest: romero -> atletico madrid",
-    "interest: salinas -> manchester united"
+    "interest: salinas -> manchester united",
+    "interest: ven -> liverpool"
   ],
   "titles": [
-    "aston villa transfer breakthrough as player gives 'green light' to deal",
     "romano names liverpool\u2019s purchase option price for barcelona defender",
     "fabrizio romano confirms: star jets out to complete liverpool move",
     "| caughtoffside",
@@ -2061,7 +2062,8 @@
     "\ud83d\udea8 \u26ab\ufe0f \ud83d\udd35 inter mantain curtis jones as priority target since may and now feel deal",
     "frattesi targeted for lazio loan, but inter still hope for nottingham forest",
     "latest bradley barcola transfer odds as liverpool given \u2018green light\u2019 on persona",
-    "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 barcelona have already made new verbal proposal to manchester city for rod"
+    "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 barcelona have already made new verbal proposal to manchester city for rod",
+    "report: liverpool showed \u2018concrete interest\u2019 in summer move for premier league s"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2332,12 +2334,13 @@
     "jorge salinas": "https://images.fotmob.com/image_resources/playerimages/1670161.png",
     "ousmane ndiaye": "",
     "mateo soule": "",
-    "rodri hernandez": "",
     "kerem alajbegovic": "",
     "hermann malonga": "",
-    "lacine megnan pave": ""
+    "lacine megnan pave": "",
+    "micky van de ven": "https://r2.thesportsdb.com/images/media/player/cutout/o51n7v1757016843.png/small",
+    "rodri hernandez": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

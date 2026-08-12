@@ -1396,7 +1396,9 @@
     "fb3a00b76e423bab3f34894a2321bf3e",
     "tg:FabrizioRomanoTG/64473",
     "33d306209120efdab3e54d3c8f1d810f",
-    "3ea3bb395cc1c1142e59fa20c66c2f49"
+    "3ea3bb395cc1c1142e59fa20c66c2f49",
+    "tg:FabrizioRomanoTG/64474",
+    "tg:FabrizioRomanoTG/64475"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1585,7 +1587,7 @@
     "yirenkyi -> coventry city": 2,
     "bouaddi -> manchester city": 1,
     "roberto -> la galaxy": 1,
-    "rulli -> manchester city": 1,
+    "rulli -> manchester city": 2,
     "buonanotte -> elche": 2,
     "aguerd -> real sociedad": 1,
     "araujo -> liverpool": 2,
@@ -1777,8 +1779,6 @@
     "interest: ven -> liverpool"
   ],
   "titles": [
-    "lukaku and napoli set fenerbahce demands, both want \u20ac10m for sale",
-    "romano hints liverpool could yet add new right back to araujo move",
     "barcelona set to launch second bid for man city\u2019s rodri; confident about securin",
     "rt @fabrizioromano : \ud83d\udea8 \ud83d\udd35 \ud83d\udd34 barcelona are set to send their new bid for rodri as ",
     "\u201czero doubts\u201d \u2013 barcelona confident of signing manchester city star as new bid p",
@@ -2076,7 +2076,9 @@
     "coventry eye mudryk on loan wednesday's gossip",
     "\ud83d\udd35 \ud83d\udfe3 matteo ruggeri will fly to england later today to undergo medical at aston v",
     "done deal: ruggeri agrees personal terms with aston villa at total \u20ac26 5m transf",
-    "fenerbahce secure lukaku in \u20ac6m deal"
+    "fenerbahce secure lukaku in \u20ac6m deal",
+    "\ud83d\udd35 \u26aa\ufe0f \ud83c\udde6\ud83c\uddf7 official, exclusive story confirmed geronimo rulli signs a two year deal",
+    "\ud83d\udea8 \u26ab\ufe0f \ud83d\udd35 inter sent opening official bid for djed spence to tottenham as expected,"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2348,12 +2350,12 @@
     "ousmane ndiaye": "",
     "mateo soule": "",
     "micky van de ven": "https://r2.thesportsdb.com/images/media/player/cutout/o51n7v1757016843.png/small",
-    "lacine megnan pave": "",
     "rodri hernandez": "",
     "kerem alajbegovic": "",
-    "hermann malonga": ""
+    "hermann malonga": "",
+    "lacine megnan pave": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

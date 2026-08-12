@@ -1456,7 +1456,8 @@
     "cd642d201b6f419107a747cc54c7034d",
     "7be358b14ed2f07d38780168f1c478d6",
     "f79ca5182b6918e584f55025d4725ce4",
-    "fd43712ed959eaafda9e7e6a18cf4a0a"
+    "fd43712ed959eaafda9e7e6a18cf4a0a",
+    "a7f52108cd3311b78d5adaf10eafaadb"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2419,11 +2420,11 @@
     "rodri hernandez": "",
     "kerem alajbegovic": "",
     "kounde": "https://r2.thesportsdb.com/images/media/player/cutout/qea88i1726509803.png/small",
-    "hermann malonga": "",
     "lacine megnan pave": "",
-    "said el mala": ""
+    "said el mala": "",
+    "hermann malonga": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

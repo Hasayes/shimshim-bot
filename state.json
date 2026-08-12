@@ -1394,7 +1394,8 @@
     "tg:FabrizioRomanoTG/64471",
     "3d5fdfd485e55af1a2f562fff6b55783",
     "fb3a00b76e423bab3f34894a2321bf3e",
-    "tg:FabrizioRomanoTG/64473"
+    "tg:FabrizioRomanoTG/64473",
+    "33d306209120efdab3e54d3c8f1d810f"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1775,7 +1776,6 @@
     "interest: ven -> liverpool"
   ],
   "titles": [
-    "arsenal could cost liverpool millions after making winger approach",
     "\ud83d\udc40 spain's world cup hero wants paris! reports: psg & barca talk",
     "lukaku and napoli set fenerbahce demands, both want \u20ac10m for sale",
     "romano hints liverpool could yet add new right back to araujo move",
@@ -2074,7 +2074,8 @@
     "enzo maresca is reportedly eager to reunite with a midfielder he knows all too w",
     "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f lazio are close to reaching an agreement with inter for davide frattesi a",
     "coventry eye mudryk on loan wednesday's gossip",
-    "\ud83d\udd35 \ud83d\udfe3 matteo ruggeri will fly to england later today to undergo medical at aston v"
+    "\ud83d\udd35 \ud83d\udfe3 matteo ruggeri will fly to england later today to undergo medical at aston v",
+    "done deal: ruggeri agrees personal terms with aston villa at total \u20ac26 5m transf"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2346,12 +2347,12 @@
     "ousmane ndiaye": "",
     "mateo soule": "",
     "micky van de ven": "https://r2.thesportsdb.com/images/media/player/cutout/o51n7v1757016843.png/small",
-    "kerem alajbegovic": "",
     "hermann malonga": "",
     "lacine megnan pave": "",
-    "rodri hernandez": ""
+    "rodri hernandez": "",
+    "kerem alajbegovic": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

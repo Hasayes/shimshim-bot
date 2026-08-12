@@ -1391,7 +1391,10 @@
     "tg:FabrizioRomanoTG/64469",
     "5bbb29acb3ae4800844f6ba08744d04d",
     "80425703c999b8ea672d8fbc4b6787d9",
-    "tg:FabrizioRomanoTG/64471"
+    "tg:FabrizioRomanoTG/64471",
+    "3d5fdfd485e55af1a2f562fff6b55783",
+    "fb3a00b76e423bab3f34894a2321bf3e",
+    "tg:FabrizioRomanoTG/64473"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1772,8 +1775,6 @@
     "interest: ven -> liverpool"
   ],
   "titles": [
-    "transfer news and rumours today: fulham eyeing spectacular move for real madrid ",
-    "liverpool set ronald araujo buy clause as medical scheduled",
     "arsenal could cost liverpool millions after making winger approach",
     "\ud83d\udc40 spain's world cup hero wants paris! reports: psg & barca talk",
     "lukaku and napoli set fenerbahce demands, both want \u20ac10m for sale",
@@ -2071,7 +2072,9 @@
     "\ud83d\udea8 \ud83d\udd35 official, confirmed chelsea sign 28 year old lb pep chavarria from rayo vall",
     "rt @fabrizioromano : \ud83d\udea8 \ud83d\udd34 \ud83d\udd35 excl: ferran torres, not scheduled to show up at barc",
     "enzo maresca is reportedly eager to reunite with a midfielder he knows all too w",
-    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f lazio are close to reaching an agreement with inter for davide frattesi a"
+    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f lazio are close to reaching an agreement with inter for davide frattesi a",
+    "coventry eye mudryk on loan wednesday's gossip",
+    "\ud83d\udd35 \ud83d\udfe3 matteo ruggeri will fly to england later today to undergo medical at aston v"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2343,12 +2346,12 @@
     "ousmane ndiaye": "",
     "mateo soule": "",
     "micky van de ven": "https://r2.thesportsdb.com/images/media/player/cutout/o51n7v1757016843.png/small",
-    "rodri hernandez": "",
     "kerem alajbegovic": "",
     "hermann malonga": "",
-    "lacine megnan pave": ""
+    "lacine megnan pave": "",
+    "rodri hernandez": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

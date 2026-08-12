@@ -1430,7 +1430,11 @@
     "68a1c9716e268b621aab1ee67eda46a9",
     "f87b34a424fbc2ee3511b1a762b2225c",
     "d63dd0eb427682e9e0ae6ac0b5e439d8",
-    "c71414be84f00a0b5a5ac62f2208b943"
+    "c71414be84f00a0b5a5ac62f2208b943",
+    "bd3e08d1dcf352e6f0ecdd069b446dbd",
+    "d8a13228fe1e1579b30ab5a67091b857",
+    "tg:FabrizioRomanoTG/64502",
+    "tg:FabrizioRomanoTG/64504"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1637,7 +1641,8 @@
     "malonga -> rc strasbourg": 2,
     "torres -> psg": 1,
     "frattesi -> lazio": 1,
-    "spence -> inter": 1
+    "spence -> inter": 1,
+    "romero -> atletico madrid": 1
   },
   "interest": [
     "interest: alvarez -> arsenal",
@@ -1813,13 +1818,10 @@
     "interest: ven -> liverpool",
     "interest: gonzalez -> manchester city",
     "interest: ndiaye -> arsenal",
-    "interest: kounde -> arsenal"
+    "interest: kounde -> arsenal",
+    "interest: mala -> borussia dortmund"
   ],
   "titles": [
-    "fabrizio romano drops carlos baleba update as mason mount suffers yet another in",
-    "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f exclusive: fulham agree deal to sign shea charles from southampton, here",
-    "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 barcelona remain in active talks to joao cancelo from al hilal, it\u2019s expec",
-    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f filip jorgensen loan move from chelsea to rc strasbourg, finally set to b",
     "rt @fabrizioromano : \ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f exclusive: fulham agree deal to sign shea charles f",
     "\ud83d\udea8 \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f curtis jones, out of liverpool squad today as he\u2019s not even on the ben",
     "\ud83d\udea8 exclusive: manchester united decide to give marcus rashford new squad number a",
@@ -2115,7 +2117,11 @@
     "moretto: henrique not close to roma due to high fees",
     "fc barcelona makes new rodri bid to manchester city",
     "newcastle nearing agreement for benfica defender after left back exit: breaking",
-    "rumour mongering: inter inch closer to curtis jones move"
+    "rumour mongering: inter inch closer to curtis jones move",
+    "transfer news: lewis skelly keen on arsenal stay despite man united, chelsea lin",
+    "cologne eye said el mala replacement",
+    "rt @fabrizioromano : \ud83d\udea8 \ud83c\uddf3\ud83c\uddf1 breaking: xavi has agreed to become new dutch national",
+    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f breaking: cristian romero to atletico madrid, here we go! \ud83c\udde6\ud83c\uddf7 agreement in"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2392,9 +2398,10 @@
     "kerem alajbegovic": "",
     "kounde": "https://r2.thesportsdb.com/images/media/player/cutout/qea88i1726509803.png/small",
     "hermann malonga": "",
+    "said el mala": "",
     "lacine megnan pave": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",
@@ -2542,6 +2549,7 @@
     "montpellier": "https://r2.thesportsdb.com/images/media/team/badge/8wn9x31750879448.png/small",
     "al diriyah": "https://r2.thesportsdb.com/images/media/team/badge/0m7ub31782452735.png/small",
     "sheffield united": "https://r2.thesportsdb.com/images/media/team/badge/w7f8pj1672950689.png/small",
-    "racing santander": "https://r2.thesportsdb.com/images/media/team/badge/97kkiq1536575158.png/small"
+    "racing santander": "https://r2.thesportsdb.com/images/media/team/badge/97kkiq1536575158.png/small",
+    "cologne": ""
   }
 }

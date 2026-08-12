@@ -1360,7 +1360,10 @@
     "52028bfc9dfef1af0c39172b9cd350eb",
     "722516a97a07f538b41f0afb71900c95",
     "4209cf566b65cba90b71560b4db99d73",
-    "tg:FabrizioRomanoTG/64457"
+    "tg:FabrizioRomanoTG/64457",
+    "1de8eef8b2055946bdf81ee0c16d90ab",
+    "d259a270abc300738d14ff911b95b5c0",
+    "09a6fcc0e703a98a10aaa378e78e13c4"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1739,8 +1742,6 @@
     "interest: salinas -> manchester united"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 paris saint germain have officially informed barcelona about personal term",
-    "\ud83d\udc4b\ud83c\udffc \ud83c\udde8\ud83c\uddee confirmed: ousmane diomande will travel to england tomorrow, as tonight he",
     "fenerbahce lead race for \u20ac40m alexander sorloth as atletico madrid plot dusan vl",
     "manchester city reject barcelona offer for rodri",
     "fabrizio romano delivers man united transfer update after \u201cnew round of conversa",
@@ -2038,7 +2039,9 @@
     "done deal: kristensen ready for atalanta at \u20ac22m plus bonus",
     "juventus continues to work behind the scenes to sign parma man on loan",
     "fabrizio romano hints at life beyond football transfer news: is the \u2018here we go\u2019",
-    "\ud83d\udea8 \ud83d\udfe1 \ud83d\udd34 as roma and porto have been in contact all night for rodrigo mora deal at "
+    "\ud83d\udea8 \ud83d\udfe1 \ud83d\udd34 as roma and porto have been in contact all night for rodrigo mora deal at ",
+    "transfer: lukaku\u2019s next club confirmed",
+    "transfer guru fabrizio romano drops major hint he will retire in bombshell linke"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2309,12 +2312,12 @@
     "jorge salinas": "https://images.fotmob.com/image_resources/playerimages/1670161.png",
     "ousmane ndiaye": "",
     "mateo soule": "",
-    "rodri hernandez": "",
     "kerem alajbegovic": "",
     "hermann malonga": "",
-    "lacine megnan pave": ""
+    "lacine megnan pave": "",
+    "rodri hernandez": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

@@ -1425,7 +1425,8 @@
     "ba361259e3db5224f78558942c9b03e4",
     "3a3215c4405e11f3c3fd0a4de8b8d5ad",
     "f501dff75f0a9d9aa20bc3b747c5c904",
-    "tg:FabrizioRomanoTG/64499"
+    "tg:FabrizioRomanoTG/64499",
+    "ef56fe49181caec43a12f851086417e4"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1811,7 +1812,6 @@
     "interest: kounde -> arsenal"
   ],
   "titles": [
-    "romano confirms surprise arsenal enquiry for 28 year old ahead of \u201ccomplicated\u201d ",
     "arsenal transfer news: mikel arteta suffers blow as gunners need 'historical' gr",
     "\ud83d\udea8 \ud83c\udde6\ud83c\uddf7 excl: ipswich town send official bid for exequiel palacios as argentinian m",
     "\ud83d\udea8 \ud83d\udfe1 \ud83d\udd35 romelu lukaku, closer and closer to fenerbahce move with agreement done on",
@@ -2110,7 +2110,8 @@
     "inter reshape chivu\u2019s squad as roma, lazio and tottenham talks accelerate",
     "fabrizio romano denies rumours of barcelona being interested in argentine intern",
     "fabrizio romano reveals all on arsenal signing \u20ac55m barcelona star \u2013 \u2018smart solu",
-    "\ud83d\udea8 \ud83c\uddf3\ud83c\uddf1 breaking: xavi has agreed to become new dutch national team head coach, don"
+    "\ud83d\udea8 \ud83c\uddf3\ud83c\uddf1 breaking: xavi has agreed to become new dutch national team head coach, don",
+    "transfer news live: liverpool eye cut price barcola deal, arsenal blow, chelsea "
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2385,11 +2386,11 @@
     "davide frattesi": "https://r2.thesportsdb.com/images/media/player/cutout/z58bx11759408884.png/small",
     "rodri hernandez": "",
     "kerem alajbegovic": "",
-    "hermann malonga": "",
     "kounde": "https://r2.thesportsdb.com/images/media/player/cutout/qea88i1726509803.png/small",
-    "lacine megnan pave": ""
+    "lacine megnan pave": "",
+    "hermann malonga": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

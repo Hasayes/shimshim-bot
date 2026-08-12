@@ -1398,7 +1398,9 @@
     "33d306209120efdab3e54d3c8f1d810f",
     "3ea3bb395cc1c1142e59fa20c66c2f49",
     "tg:FabrizioRomanoTG/64474",
-    "tg:FabrizioRomanoTG/64475"
+    "tg:FabrizioRomanoTG/64475",
+    "tg:FabrizioRomanoTG/64476",
+    "tg:FabrizioRomanoTG/64477"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1779,8 +1781,6 @@
     "interest: ven -> liverpool"
   ],
   "titles": [
-    "barcelona set to launch second bid for man city\u2019s rodri; confident about securin",
-    "rt @fabrizioromano : \ud83d\udea8 \ud83d\udd35 \ud83d\udd34 barcelona are set to send their new bid for rodri as ",
     "\u201czero doubts\u201d \u2013 barcelona confident of signing manchester city star as new bid p",
     "cristian romero reaches decision on joining arsenal from tottenham in spectacula",
     "rodri sends clear transfer message to manchester city as barcelona 'prepare' nex",
@@ -2078,7 +2078,9 @@
     "done deal: ruggeri agrees personal terms with aston villa at total \u20ac26 5m transf",
     "fenerbahce secure lukaku in \u20ac6m deal",
     "\ud83d\udd35 \u26aa\ufe0f \ud83c\udde6\ud83c\uddf7 official, exclusive story confirmed geronimo rulli signs a two year deal",
-    "\ud83d\udea8 \u26ab\ufe0f \ud83d\udd35 inter sent opening official bid for djed spence to tottenham as expected,"
+    "\ud83d\udea8 \u26ab\ufe0f \ud83d\udd35 inter sent opening official bid for djed spence to tottenham as expected,",
+    "\ud83d\udea8 \ud83d\udfe3 fiorentina reach verbal agreement to sign mateo pellegrino, here we go! \ud83c\udde6\ud83c\uddf7 d",
+    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f getafe have agreed deal with enes unal as bournemouth gave green light fo"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2350,12 +2352,12 @@
     "ousmane ndiaye": "",
     "mateo soule": "",
     "micky van de ven": "https://r2.thesportsdb.com/images/media/player/cutout/o51n7v1757016843.png/small",
-    "rodri hernandez": "",
     "kerem alajbegovic": "",
     "hermann malonga": "",
-    "lacine megnan pave": ""
+    "lacine megnan pave": "",
+    "rodri hernandez": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

@@ -1388,7 +1388,10 @@
     "fb20c2cac056d38cbf35e7850ebd018c",
     "e3ce98d0103a664ca260d288e49482bd",
     "tg:FabrizioRomanoTG/64468",
-    "tg:FabrizioRomanoTG/64469"
+    "tg:FabrizioRomanoTG/64469",
+    "5bbb29acb3ae4800844f6ba08744d04d",
+    "80425703c999b8ea672d8fbc4b6787d9",
+    "tg:FabrizioRomanoTG/64471"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1769,8 +1772,6 @@
     "interest: ven -> liverpool"
   ],
   "titles": [
-    "napoli enter direct talks to sell romelu lukaku to club",
-    "\ud83d\udd35 \ud83d\udd34 \ud83d\udcad joao cancelo shares a barcelona picture on instagram, while he\u2019s back to t",
     "transfer news and rumours today: fulham eyeing spectacular move for real madrid ",
     "liverpool set ronald araujo buy clause as medical scheduled",
     "arsenal could cost liverpool millions after making winger approach",
@@ -2068,7 +2069,9 @@
     "arsenal join transfer race for tottenham linked winger from chelsea who would se",
     "the answer as to who will be the fifth choice centre back for manchester city no",
     "\ud83d\udea8 \ud83d\udd35 official, confirmed chelsea sign 28 year old lb pep chavarria from rayo vall",
-    "rt @fabrizioromano : \ud83d\udea8 \ud83d\udd34 \ud83d\udd35 excl: ferran torres, not scheduled to show up at barc"
+    "rt @fabrizioromano : \ud83d\udea8 \ud83d\udd34 \ud83d\udd35 excl: ferran torres, not scheduled to show up at barc",
+    "enzo maresca is reportedly eager to reunite with a midfielder he knows all too w",
+    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f lazio are close to reaching an agreement with inter for davide frattesi a"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2339,13 +2342,13 @@
     "jorge salinas": "https://images.fotmob.com/image_resources/playerimages/1670161.png",
     "ousmane ndiaye": "",
     "mateo soule": "",
-    "lacine megnan pave": "",
     "micky van de ven": "https://r2.thesportsdb.com/images/media/player/cutout/o51n7v1757016843.png/small",
     "rodri hernandez": "",
     "kerem alajbegovic": "",
-    "hermann malonga": ""
+    "hermann malonga": "",
+    "lacine megnan pave": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

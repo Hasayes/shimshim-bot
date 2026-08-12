@@ -1410,7 +1410,8 @@
     "tg:FabrizioRomanoTG/64488",
     "tg:FabrizioRomanoTG/64489",
     "ddafe3825c89c915ea654c2e74eee79a",
-    "tg:FabrizioRomanoTG/64493"
+    "tg:FabrizioRomanoTG/64493",
+    "tg:FabrizioRomanoTG/64494"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1794,7 +1795,6 @@
     "interest: gonzalez -> manchester city"
   ],
   "titles": [
-    "father of soccer star lionel messi dies at 68 in argentina",
     "flick wants barcelona defensive prodigy to stay amid offers from spain, england",
     "romano: man utd's 'total leader' midfield target casado 'set to leave'",
     "chelsea working on triple summer exit as fabrizio romano rules out \u00a351m transfer",
@@ -2093,7 +2093,8 @@
     "\ud83d\udea8 \ud83d\udfe1 \ud83d\udd35 excl: fenerbahce agree to sell egyptian defender omar fayed to frosinone d",
     "rt @fabrizioromano : \ud83d\udea8 \u26ab\ufe0f \ud83d\udd35 djed spence to inter, here we go! verbal agreement i",
     "airport vision confirms gun\u2019s move to unlock ucl goal; key step in prodigy\u2019s pl ",
-    "\ud83d\udea8 \ud83d\udfe1 \ud83d\udd35 official, confirmed romelu lukaku joins fenerbahce from napoli for fee in "
+    "\ud83d\udea8 \ud83d\udfe1 \ud83d\udd35 official, confirmed romelu lukaku joins fenerbahce from napoli for fee in ",
+    "\ud83d\udea8 \ud83d\udfe3 \ud83d\udd35 excl: joao palhinha has agreed personal terms with aston villa and told ba"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2368,10 +2369,10 @@
     "davide frattesi": "https://r2.thesportsdb.com/images/media/player/cutout/z58bx11759408884.png/small",
     "rodri hernandez": "",
     "kerem alajbegovic": "",
-    "lacine megnan pave": "",
-    "hermann malonga": ""
+    "hermann malonga": "",
+    "lacine megnan pave": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

@@ -1371,7 +1371,8 @@
     "8ddd961efd1e6237d9786bc97031aec7",
     "082e441e42ecdf24f72263ca84ce6d7d",
     "0900019bc478d6ebc13b0b47c85ad6e3",
-    "23d7a04e056cf8eaee4d4fd6228f338a"
+    "23d7a04e056cf8eaee4d4fd6228f338a",
+    "91514c4d29741fd4a2d1ec1591173f87"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1751,7 +1752,6 @@
     "interest: salinas -> manchester united"
   ],
   "titles": [
-    "negotiations for \u201ctechnically brilliant\u201d arsenal & man united transfer target co",
     "transfer rumors, news: arsenal, man utd both want inter's pio esposito",
     "barcelona will listen to offers for 20 year old la masia defensive talent \u2013 repo",
     "arsenal helped by tottenham rejection",
@@ -2050,7 +2050,8 @@
     "pogba injured again as monaco comeback suffers fresh blow",
     "barcelona give arsenal the green light to sign \u20ac55m player arteta will love",
     "arsenal transfer news: \u00a347m valued vinicius junior alternative 'responds' to 'bi",
-    "latest: psg and barcelona agree \u20ac55m deal for attacker who could sign this frida"
+    "latest: psg and barcelona agree \u20ac55m deal for attacker who could sign this frida",
+    "real madrid confirm tchouameni medical after man utd transfer decision london ev"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2321,12 +2322,12 @@
     "jorge salinas": "https://images.fotmob.com/image_resources/playerimages/1670161.png",
     "ousmane ndiaye": "",
     "mateo soule": "",
-    "lacine megnan pave": "",
     "rodri hernandez": "",
     "kerem alajbegovic": "",
-    "hermann malonga": ""
+    "hermann malonga": "",
+    "lacine megnan pave": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

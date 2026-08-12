@@ -1,5 +1,25 @@
 [
  {
+  "id": "24fee46288122839d637df046f6b68f2",
+  "ts": "2026-08-12T12:45:46+00:00",
+  "kind": "deal",
+  "stage": "Here we go",
+  "player": "Djed Spence",
+  "position": "Left-back",
+  "age": "25",
+  "from_club": "Tottenham Hotspur",
+  "to_club": "Inter",
+  "fee": "\u20ac30m",
+  "style": "Pacey right-back who combines athleticism with defensive solidity and forward-running ability.",
+  "fit": "Can operate as a dynamic fullback option in Inter's defensive setup, providing width and supporting the attack down the right flank.",
+  "source": "Fabrizio Romano",
+  "outlet": "Telegram @fabrizioromanotg",
+  "url": "https://t.me/FabrizioRomanoTG/64483",
+  "title": "\ud83d\udea8 \u26ab\ufe0f \ud83d\udd35 Understand Inter are closing in on Djed Spence deal! Agreement almost done with final steps to follow. Spence has",
+  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/erd1vi1757875565.png/small",
+  "summary": "Inter are closing in on Djed Spence from Tottenham with agreement almost done. Spence has agreed personal terms and the clubs are in contact to finalize the deal over \u20ac30m."
+ },
+ {
   "id": "tg:FabrizioRomanoTG/64482",
   "ts": "2026-08-12T12:04:13+00:00",
   "kind": "deal",
@@ -3538,26 +3558,6 @@
   "title": "From Italy: Man City offer Mateo Kovacic to Inter Milan but squad congestion cools San Siro interest",
   "photo": "https://r2.thesportsdb.com/images/media/player/cutout/m5jml31769183827.png/small",
   "summary": "Inter Milan have been offered Manchester City midfielder Mateo Kova\u010di\u0107, with a fee of between \u20ac10m and \u20ac15m mooted. However, squad congestion at Inter is reported to have cooled their interest."
- },
- {
-  "id": "24fee46288122839d637df046f6b68f2",
-  "ts": "2026-07-15T23:02:00+00:00",
-  "kind": "interest",
-  "stage": "\u2014",
-  "player": "Djed Spence",
-  "position": "Left-back",
-  "age": "25",
-  "from_club": "Tottenham Hotspur",
-  "to_club": "Liverpool, Inter",
-  "fee": "\u00a340m (asking price, disputed)",
-  "style": "An athletic and dynamic full-back who can operate on both flanks, offering pace, defensive solidity and an ability to contribute in transition.",
-  "fit": "Liverpool's interest in a versatile, energetic full-back fits their high-tempo pressing system, with Spence's pace and defensive work-rate suiting their wide defensive roles.",
-  "source": "TEAMtalk",
-  "outlet": "football365",
-  "url": "https://www.football365.com/news/liverpool-tottenham-spence-leave-transfer-world-cup",
-  "title": "Liverpool want Tottenham star who\u2019s been told he can leave after impressive World Cup displays",
-  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/erd1vi1757875565.png/small",
-  "summary": "Liverpool and Inter Milan are both reported to be interested in Tottenham Hotspur right-back Djed Spence, who has been told he can leave the club. Tottenham's asking price is reported to be \u00a340m, though that figure is disputed."
  },
  {
   "id": "tg:FabrizioRomanoTG/63088",

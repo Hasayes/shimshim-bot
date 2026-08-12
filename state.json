@@ -1383,7 +1383,9 @@
     "057695bb451928bbb52fc78c9405bdfb",
     "b94708e2c37e7b22029a964e338f41df",
     "tg:FabrizioRomanoTG/64466",
-    "c6e0542ad1755dd135740c6047afd1d1"
+    "c6e0542ad1755dd135740c6047afd1d1",
+    "b23f3edda20ef6a378f7c2d184d74fdc",
+    "fb20c2cac056d38cbf35e7850ebd018c"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1764,8 +1766,6 @@
     "interest: ven -> liverpool"
   ],
   "titles": [
-    "romano names liverpool\u2019s purchase option price for barcelona defender",
-    "fabrizio romano confirms: star jets out to complete liverpool move",
     "| caughtoffside",
     "official: arsenal complete deal to sign \u00a375m bruno guimaraes from newcastle",
     "napoli enter direct talks to sell romelu lukaku to club",
@@ -2063,7 +2063,9 @@
     "frattesi targeted for lazio loan, but inter still hope for nottingham forest",
     "latest bradley barcola transfer odds as liverpool given \u2018green light\u2019 on persona",
     "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 barcelona have already made new verbal proposal to manchester city for rod",
-    "report: liverpool showed \u2018concrete interest\u2019 in summer move for premier league s"
+    "report: liverpool showed \u2018concrete interest\u2019 in summer move for premier league s",
+    "arsenal join transfer race for tottenham linked winger from chelsea who would se",
+    "the answer as to who will be the fifth choice centre back for manchester city no"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2334,13 +2336,13 @@
     "jorge salinas": "https://images.fotmob.com/image_resources/playerimages/1670161.png",
     "ousmane ndiaye": "",
     "mateo soule": "",
-    "kerem alajbegovic": "",
     "hermann malonga": "",
     "lacine megnan pave": "",
     "micky van de ven": "https://r2.thesportsdb.com/images/media/player/cutout/o51n7v1757016843.png/small",
-    "rodri hernandez": ""
+    "rodri hernandez": "",
+    "kerem alajbegovic": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

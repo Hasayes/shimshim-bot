@@ -1405,7 +1405,8 @@
     "tg:FabrizioRomanoTG/64480",
     "9a9f4b70cd424d32fb4931a292900c85",
     "tg:FabrizioRomanoTG/64482",
-    "tg:FabrizioRomanoTG/64483"
+    "tg:FabrizioRomanoTG/64483",
+    "tg:FabrizioRomanoTG/64487"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1789,7 +1790,6 @@
     "interest: gonzalez -> manchester city"
   ],
   "titles": [
-    "spurs may have leaked arsenal links to defender to ease sale to atletico madrid",
     "rodri communicates his desire to play for barcelona and the club prepares a new ",
     "roma send first offer for endrick",
     "liverpool transfer now looks all but dead in the water after ronald araujo clari",
@@ -2088,7 +2088,8 @@
     "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 story from the morning confirmed by manchester city sources: barcelona new",
     "manchester city formally approach fc porto over midfielder nico",
     "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f lazio reach verbal agreement with inter for davide frattesi at \u20ac1m loan f",
-    "\ud83d\udea8 \u26ab\ufe0f \ud83d\udd35 understand inter are closing in on djed spence deal! agreement almost don"
+    "\ud83d\udea8 \u26ab\ufe0f \ud83d\udd35 understand inter are closing in on djed spence deal! agreement almost don",
+    "\ud83d\udea8 \u26ab\ufe0f \ud83d\udd35 djed spence to inter, here we go! verbal agreement in place now with tott"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2360,13 +2361,13 @@
     "ousmane ndiaye": "",
     "mateo soule": "",
     "micky van de ven": "https://r2.thesportsdb.com/images/media/player/cutout/o51n7v1757016843.png/small",
-    "hermann malonga": "",
     "lacine megnan pave": "",
     "davide frattesi": "https://r2.thesportsdb.com/images/media/player/cutout/z58bx11759408884.png/small",
     "rodri hernandez": "",
-    "kerem alajbegovic": ""
+    "kerem alajbegovic": "",
+    "hermann malonga": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

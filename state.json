@@ -1374,7 +1374,9 @@
     "23d7a04e056cf8eaee4d4fd6228f338a",
     "91514c4d29741fd4a2d1ec1591173f87",
     "b924e6cfbf6ec5aa138b8a137d9ef805",
-    "2aaa7c43cc37022ad54e6802f0a7fe10"
+    "2aaa7c43cc37022ad54e6802f0a7fe10",
+    "tg:FabrizioRomanoTG/64462",
+    "tg:FabrizioRomanoTG/64463"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1754,8 +1756,6 @@
     "interest: salinas -> manchester united"
   ],
   "titles": [
-    "arsenal helped by tottenham rejection",
-    "barcelona consider \u00a385m tottenham and man city deal as romano talks up transfer ",
     "marc casado nears barcelona exit amid manchester united links",
     "ronald araujo to liverpool: loan deal, buy option clause and medical details con",
     "bryan robson to radek vitek: history of players middlesbrough signed from man ut",
@@ -2053,7 +2053,9 @@
     "latest: psg and barcelona agree \u20ac55m deal for attacker who could sign this frida",
     "real madrid confirm tchouameni medical after man utd transfer decision london ev",
     "liverpool transfer news shock link with chelsea star as psg price drop possibili",
-    "official: dominguez joins sassuolo from bologna with purchase option at \u20ac10m"
+    "official: dominguez joins sassuolo from bologna with purchase option at \u20ac10m",
+    "\ud83d\udfe1 \ud83d\udd34 \ud83c\udde6\ud83c\uddf7 nahuel molina has signed his contract as new as roma player, set to be of",
+    "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f dusan vlahovic to besiktas, here we go! verbal agreement in place for th"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2324,12 +2326,12 @@
     "jorge salinas": "https://images.fotmob.com/image_resources/playerimages/1670161.png",
     "ousmane ndiaye": "",
     "mateo soule": "",
-    "hermann malonga": "",
     "lacine megnan pave": "",
     "rodri hernandez": "",
-    "kerem alajbegovic": ""
+    "kerem alajbegovic": "",
+    "hermann malonga": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

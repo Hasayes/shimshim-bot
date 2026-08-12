@@ -1,5 +1,25 @@
 [
  {
+  "id": "24fee46288122839d637df046f6b68f2",
+  "ts": "2026-08-12T12:45:46+00:00",
+  "kind": "deal",
+  "stage": "Here we go",
+  "player": "Djed Spence",
+  "position": "Left-back",
+  "age": "25",
+  "from_club": "Tottenham Hotspur",
+  "to_club": "Inter",
+  "fee": "\u20ac30m",
+  "style": "Pacey right-back who combines athleticism with defensive solidity and forward-running ability.",
+  "fit": "Can operate as a dynamic fullback option in Inter's defensive setup, providing width and supporting the attack down the right flank.",
+  "source": "Fabrizio Romano",
+  "outlet": "Telegram @fabrizioromanotg",
+  "url": "https://t.me/FabrizioRomanoTG/64483",
+  "title": "\ud83d\udea8 \u26ab\ufe0f \ud83d\udd35 Understand Inter are closing in on Djed Spence deal! Agreement almost done with final steps to follow. Spence has",
+  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/erd1vi1757875565.png/small",
+  "summary": "Inter are closing in on Djed Spence from Tottenham with agreement almost done. Spence has agreed personal terms and the clubs are in contact to finalize the deal over \u20ac30m."
+ },
+ {
   "id": "tg:FabrizioRomanoTG/64482",
   "ts": "2026-08-12T12:04:13+00:00",
   "kind": "deal",

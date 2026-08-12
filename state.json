@@ -1381,7 +1381,8 @@
     "25ee828fa2211531f6a5c4e3aeb99b92",
     "tg:FabrizioRomanoTG/64465",
     "057695bb451928bbb52fc78c9405bdfb",
-    "b94708e2c37e7b22029a964e338f41df"
+    "b94708e2c37e7b22029a964e338f41df",
+    "tg:FabrizioRomanoTG/64466"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1761,7 +1762,6 @@
     "interest: salinas -> manchester united"
   ],
   "titles": [
-    "liverpool: romano confirms araujo \u2018buy option\u2019 with \u2018medical tomorrow\u2019 as barcol",
     "aston villa transfer breakthrough as player gives 'green light' to deal",
     "romano names liverpool\u2019s purchase option price for barcelona defender",
     "fabrizio romano confirms: star jets out to complete liverpool move",
@@ -2060,7 +2060,8 @@
     "man city transfer news: max alleyne to 'undergo medical' ahead of championship l",
     "\ud83d\udea8 \u26ab\ufe0f \ud83d\udd35 inter mantain curtis jones as priority target since may and now feel deal",
     "frattesi targeted for lazio loan, but inter still hope for nottingham forest",
-    "latest bradley barcola transfer odds as liverpool given \u2018green light\u2019 on persona"
+    "latest bradley barcola transfer odds as liverpool given \u2018green light\u2019 on persona",
+    "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 barcelona have already made new verbal proposal to manchester city for rod"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2331,12 +2332,12 @@
     "jorge salinas": "https://images.fotmob.com/image_resources/playerimages/1670161.png",
     "ousmane ndiaye": "",
     "mateo soule": "",
-    "lacine megnan pave": "",
     "rodri hernandez": "",
     "kerem alajbegovic": "",
-    "hermann malonga": ""
+    "hermann malonga": "",
+    "lacine megnan pave": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

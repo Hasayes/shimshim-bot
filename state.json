@@ -1423,7 +1423,9 @@
     "36f6e9f6bbaf37dbac32e8b5e580d236",
     "480388cc4c50a044e8fd0b08d602b7f2",
     "ba361259e3db5224f78558942c9b03e4",
-    "3a3215c4405e11f3c3fd0a4de8b8d5ad"
+    "3a3215c4405e11f3c3fd0a4de8b8d5ad",
+    "f501dff75f0a9d9aa20bc3b747c5c904",
+    "tg:FabrizioRomanoTG/64499"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1805,11 +1807,10 @@
     "interest: salinas -> manchester united",
     "interest: ven -> liverpool",
     "interest: gonzalez -> manchester city",
-    "interest: ndiaye -> arsenal"
+    "interest: ndiaye -> arsenal",
+    "interest: kounde -> arsenal"
   ],
   "titles": [
-    "the very best in spain: ronald araujo's real value to liverpool explained",
-    "algeria\u2019s bennacer leaves ac milan after seven years",
     "romano confirms surprise arsenal enquiry for 28 year old ahead of \u201ccomplicated\u201d ",
     "arsenal transfer news: mikel arteta suffers blow as gunners need 'historical' gr",
     "\ud83d\udea8 \ud83c\udde6\ud83c\uddf7 excl: ipswich town send official bid for exequiel palacios as argentinian m",
@@ -2107,7 +2108,9 @@
     "aston villa agree \u20ac26 5m deal to sign ruggeri from atletico madrid",
     "only minor details left to agree for tottenham defender\u2019s move to la liga",
     "inter reshape chivu\u2019s squad as roma, lazio and tottenham talks accelerate",
-    "fabrizio romano denies rumours of barcelona being interested in argentine intern"
+    "fabrizio romano denies rumours of barcelona being interested in argentine intern",
+    "fabrizio romano reveals all on arsenal signing \u20ac55m barcelona star \u2013 \u2018smart solu",
+    "\ud83d\udea8 \ud83c\uddf3\ud83c\uddf1 breaking: xavi has agreed to become new dutch national team head coach, don"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2382,10 +2385,11 @@
     "davide frattesi": "https://r2.thesportsdb.com/images/media/player/cutout/z58bx11759408884.png/small",
     "rodri hernandez": "",
     "kerem alajbegovic": "",
-    "lacine megnan pave": "",
-    "hermann malonga": ""
+    "hermann malonga": "",
+    "kounde": "https://r2.thesportsdb.com/images/media/player/cutout/qea88i1726509803.png/small",
+    "lacine megnan pave": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

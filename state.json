@@ -1463,7 +1463,8 @@
     "3395105be7d3f246f4a089924c67aed6",
     "68cf70b46e85bd86eca1c0abc45da587",
     "0850382bf4cb0b6516e50e8f9929d118",
-    "b17af6802e74c5f10ed5bb89d119e257"
+    "b17af6802e74c5f10ed5bb89d119e257",
+    "263d083ea7aed5f9f3b36a82b60c39e3"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1852,7 +1853,6 @@
     "interest: neto -> manchester city"
   ],
   "titles": [
-    "arsenal rejected \u20ac35m bid for ethan nwaneri",
     "\u201chere we go\u201d \u2013 fabrizio romano announces chelsea deal while blues play friendly",
     "man utd active in making \u20ac100m midfielder their seventh summer signing",
     "jones signal from liverpool, inter could sell stankovic to raise \u20ac40m",
@@ -2151,7 +2151,8 @@
     "pep chavarria: chelsea's \u00a316 3m signing who only broke into club football at 24",
     "djed spence said yes to inter as nerazzurri launch formal transfer bid for totte",
     "barcelona submit new offer for rodri as manchester city stand firm",
-    "chelsea and man city deal on the rocks over \u201csignificant gap\u201d between asking pri"
+    "chelsea and man city deal on the rocks over \u201csignificant gap\u201d between asking pri",
+    "romano: man city hold talks to sign chelsea star pedro neto as update drops"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2427,11 +2428,11 @@
     "rodri hernandez": "",
     "kerem alajbegovic": "",
     "kounde": "https://r2.thesportsdb.com/images/media/player/cutout/qea88i1726509803.png/small",
-    "lacine megnan pave": "",
     "said el mala": "",
-    "hermann malonga": ""
+    "hermann malonga": "",
+    "lacine megnan pave": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

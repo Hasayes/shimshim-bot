@@ -1414,7 +1414,8 @@
     "tg:FabrizioRomanoTG/64494",
     "tg:FabrizioRomanoTG/64496",
     "e2091784974d94a8e2e8ec234cffae2b",
-    "a4903f64552adfa76a418ce7159455fb"
+    "a4903f64552adfa76a418ce7159455fb",
+    "23b757c3d4da655c6f79712cb9bfd7dc"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1799,7 +1800,6 @@
     "interest: ndiaye -> arsenal"
   ],
   "titles": [
-    "atletico madrid prepare new official bid for tottenham star amidst previous link",
     "ferran torres chooses psg as barcelona face tough transfer decision",
     "incredible: liverpool make nine figure offer for second choice star",
     "\ud83d\udd35 \ud83d\udd34 fermin lopez on rodri to barca: \u201ceveryone knows that rodri is an extraordina",
@@ -2098,7 +2098,8 @@
     "\ud83d\udea8 \ud83d\udfe3 \ud83d\udd35 excl: joao palhinha has agreed personal terms with aston villa and told ba",
     "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 official, exclusive story confirmed 18 year old winger josue caicedo joins",
     "\u201cdecision made\u201d \u2013 boost for arsenal as fabrizio romano delivers major transfer u",
-    "when matteo ruggeri could join aston villa as medical set"
+    "when matteo ruggeri could join aston villa as medical set",
+    "former chelsea manager could raid blues for winger loan signing"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2373,10 +2374,10 @@
     "davide frattesi": "https://r2.thesportsdb.com/images/media/player/cutout/z58bx11759408884.png/small",
     "rodri hernandez": "",
     "kerem alajbegovic": "",
-    "hermann malonga": "",
-    "lacine megnan pave": ""
+    "lacine megnan pave": "",
+    "hermann malonga": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

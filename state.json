@@ -1359,7 +1359,8 @@
     "3c211498c0cd520ed3fcf8571cb56e10",
     "52028bfc9dfef1af0c39172b9cd350eb",
     "722516a97a07f538b41f0afb71900c95",
-    "4209cf566b65cba90b71560b4db99d73"
+    "4209cf566b65cba90b71560b4db99d73",
+    "tg:FabrizioRomanoTG/64457"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1738,7 +1739,6 @@
     "interest: salinas -> manchester united"
   ],
   "titles": [
-    "transfer news live: arsenal 'sign' alvarez, guimaraes confirmed, shock liverpool",
     "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 paris saint germain have officially informed barcelona about personal term",
     "\ud83d\udc4b\ud83c\udffc \ud83c\udde8\ud83c\uddee confirmed: ousmane diomande will travel to england tomorrow, as tonight he",
     "fenerbahce lead race for \u20ac40m alexander sorloth as atletico madrid plot dusan vl",
@@ -2037,7 +2037,8 @@
     "liverpool transfer news: when will ifeanyi ndukwe 'leave' on loan amid portugal ",
     "done deal: kristensen ready for atalanta at \u20ac22m plus bonus",
     "juventus continues to work behind the scenes to sign parma man on loan",
-    "fabrizio romano hints at life beyond football transfer news: is the \u2018here we go\u2019"
+    "fabrizio romano hints at life beyond football transfer news: is the \u2018here we go\u2019",
+    "\ud83d\udea8 \ud83d\udfe1 \ud83d\udd34 as roma and porto have been in contact all night for rodrigo mora deal at "
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2308,12 +2309,12 @@
     "jorge salinas": "https://images.fotmob.com/image_resources/playerimages/1670161.png",
     "ousmane ndiaye": "",
     "mateo soule": "",
-    "lacine megnan pave": "",
     "rodri hernandez": "",
     "kerem alajbegovic": "",
-    "hermann malonga": ""
+    "hermann malonga": "",
+    "lacine megnan pave": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

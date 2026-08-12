@@ -1370,7 +1370,8 @@
     "9a3880b3576a2639285a2261fd98ab1d",
     "8ddd961efd1e6237d9786bc97031aec7",
     "082e441e42ecdf24f72263ca84ce6d7d",
-    "0900019bc478d6ebc13b0b47c85ad6e3"
+    "0900019bc478d6ebc13b0b47c85ad6e3",
+    "23d7a04e056cf8eaee4d4fd6228f338a"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1574,7 +1575,8 @@
     "suzuki -> psg": 1,
     "phillips -> sheffield united": 1,
     "alleyne -> burnley": 1,
-    "malonga -> rc strasbourg": 2
+    "malonga -> rc strasbourg": 2,
+    "torres -> psg": 1
   },
   "interest": [
     "interest: alvarez -> arsenal",
@@ -1749,7 +1751,6 @@
     "interest: salinas -> manchester united"
   ],
   "titles": [
-    "liverpool set to sign barcelona captain araujo on loan",
     "negotiations for \u201ctechnically brilliant\u201d arsenal & man united transfer target co",
     "transfer rumors, news: arsenal, man utd both want inter's pio esposito",
     "barcelona will listen to offers for 20 year old la masia defensive talent \u2013 repo",
@@ -2048,7 +2049,8 @@
     "man city transfer news: fabrizio romano confirms 'verbal agreement' for exit of ",
     "pogba injured again as monaco comeback suffers fresh blow",
     "barcelona give arsenal the green light to sign \u20ac55m player arteta will love",
-    "arsenal transfer news: \u00a347m valued vinicius junior alternative 'responds' to 'bi"
+    "arsenal transfer news: \u00a347m valued vinicius junior alternative 'responds' to 'bi",
+    "latest: psg and barcelona agree \u20ac55m deal for attacker who could sign this frida"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2319,12 +2321,12 @@
     "jorge salinas": "https://images.fotmob.com/image_resources/playerimages/1670161.png",
     "ousmane ndiaye": "",
     "mateo soule": "",
-    "hermann malonga": "",
     "lacine megnan pave": "",
     "rodri hernandez": "",
-    "kerem alajbegovic": ""
+    "kerem alajbegovic": "",
+    "hermann malonga": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

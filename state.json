@@ -1457,7 +1457,8 @@
     "7be358b14ed2f07d38780168f1c478d6",
     "f79ca5182b6918e584f55025d4725ce4",
     "fd43712ed959eaafda9e7e6a18cf4a0a",
-    "a7f52108cd3311b78d5adaf10eafaadb"
+    "a7f52108cd3311b78d5adaf10eafaadb",
+    "4ecf19da3517e5752d11b6f86ac177e4"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1845,7 +1846,6 @@
     "interest: mala -> borussia dortmund"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f southampton have reached verbal agreement to sign divin mubama from man c",
     "man utd considering signing assist machine at left back after newcastle block le",
     "forest set to sign ousmane diomande for \u00a334m",
     "report: marquee liverpool transfer under fresh threat as arsenal line up audacio",
@@ -2144,7 +2144,8 @@
     "chelsea open door to loan deal as serie a giants step up pursuit for defender",
     "barcelona raise offer for rodri as man city demand \u20ac80m",
     "chelsea transfer news: pep chavarria signing confirmed, fee, contract length rev",
-    "romano claims \u2018deal could happen\u2019 for liverpool player\u2019s late exit this summer"
+    "romano claims \u2018deal could happen\u2019 for liverpool player\u2019s late exit this summer",
+    "euro giants have \u201csubmitted an official offer\u201d for arsenal duo, claims journalis"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2420,11 +2421,11 @@
     "rodri hernandez": "",
     "kerem alajbegovic": "",
     "kounde": "https://r2.thesportsdb.com/images/media/player/cutout/qea88i1726509803.png/small",
-    "lacine megnan pave": "",
     "said el mala": "",
-    "hermann malonga": ""
+    "hermann malonga": "",
+    "lacine megnan pave": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

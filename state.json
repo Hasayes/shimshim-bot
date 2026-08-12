@@ -1426,7 +1426,8 @@
     "3a3215c4405e11f3c3fd0a4de8b8d5ad",
     "f501dff75f0a9d9aa20bc3b747c5c904",
     "tg:FabrizioRomanoTG/64499",
-    "ef56fe49181caec43a12f851086417e4"
+    "ef56fe49181caec43a12f851086417e4",
+    "68a1c9716e268b621aab1ee67eda46a9"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1812,7 +1813,6 @@
     "interest: kounde -> arsenal"
   ],
   "titles": [
-    "arsenal transfer news: mikel arteta suffers blow as gunners need 'historical' gr",
     "\ud83d\udea8 \ud83c\udde6\ud83c\uddf7 excl: ipswich town send official bid for exequiel palacios as argentinian m",
     "\ud83d\udea8 \ud83d\udfe1 \ud83d\udd35 romelu lukaku, closer and closer to fenerbahce move with agreement done on",
     "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f sevilla agree deal to sign robbie ure as new striker from sirius \u20ac9 2m tr",
@@ -2111,7 +2111,8 @@
     "fabrizio romano denies rumours of barcelona being interested in argentine intern",
     "fabrizio romano reveals all on arsenal signing \u20ac55m barcelona star \u2013 \u2018smart solu",
     "\ud83d\udea8 \ud83c\uddf3\ud83c\uddf1 breaking: xavi has agreed to become new dutch national team head coach, don",
-    "transfer news live: liverpool eye cut price barcola deal, arsenal blow, chelsea "
+    "transfer news live: liverpool eye cut price barcola deal, arsenal blow, chelsea ",
+    "moretto: henrique not close to roma due to high fees"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2387,10 +2388,10 @@
     "rodri hernandez": "",
     "kerem alajbegovic": "",
     "kounde": "https://r2.thesportsdb.com/images/media/player/cutout/qea88i1726509803.png/small",
-    "lacine megnan pave": "",
-    "hermann malonga": ""
+    "hermann malonga": "",
+    "lacine megnan pave": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

@@ -1364,7 +1364,9 @@
     "1de8eef8b2055946bdf81ee0c16d90ab",
     "d259a270abc300738d14ff911b95b5c0",
     "09a6fcc0e703a98a10aaa378e78e13c4",
-    "940ceccbd4fc980759bf236cf8d09dfb"
+    "940ceccbd4fc980759bf236cf8d09dfb",
+    "22c2676bf6071501ca25e8f80ff0a904",
+    "23710c5640891f05c549dc1625d7f1da"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1743,8 +1745,6 @@
     "interest: salinas -> manchester united"
   ],
   "titles": [
-    "manchester city reject barcelona offer for rodri",
-    "fabrizio romano delivers man united transfer update after \u201cnew round of conversa",
     "man utd reach decision on carlos baleba move as fabrizio romano details \u2018crazy\u2019 ",
     "moretto: talks between roma endrick continue",
     "radek vitek officially leaves man utd for middlesbrough, second exit makes lamme",
@@ -2042,7 +2042,9 @@
     "\ud83d\udea8 \ud83d\udfe1 \ud83d\udd34 as roma and porto have been in contact all night for rodrigo mora deal at ",
     "transfer: lukaku\u2019s next club confirmed",
     "transfer guru fabrizio romano drops major hint he will retire in bombshell linke",
-    "man utd in good position to sign everton star after romano reveals \u2018decision mad"
+    "man utd in good position to sign everton star after romano reveals \u2018decision mad",
+    "\u2018i can confirm \u2019 \u2013 ifeanyi ndukwe\u2019s agent hints at where liverpool colossus coul",
+    "liverpool transfer news: bradley barcola gives green light as psg demand \u00a3145m |"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2313,12 +2315,12 @@
     "jorge salinas": "https://images.fotmob.com/image_resources/playerimages/1670161.png",
     "ousmane ndiaye": "",
     "mateo soule": "",
-    "hermann malonga": "",
     "lacine megnan pave": "",
     "rodri hernandez": "",
-    "kerem alajbegovic": ""
+    "kerem alajbegovic": "",
+    "hermann malonga": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

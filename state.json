@@ -1403,7 +1403,8 @@
     "tg:FabrizioRomanoTG/64477",
     "tg:FabrizioRomanoTG/64478",
     "tg:FabrizioRomanoTG/64480",
-    "9a9f4b70cd424d32fb4931a292900c85"
+    "9a9f4b70cd424d32fb4931a292900c85",
+    "tg:FabrizioRomanoTG/64482"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1608,7 +1609,8 @@
     "phillips -> sheffield united": 1,
     "alleyne -> burnley": 1,
     "malonga -> rc strasbourg": 2,
-    "torres -> psg": 1
+    "torres -> psg": 1,
+    "frattesi -> lazio": 1
   },
   "interest": [
     "interest: alvarez -> arsenal",
@@ -1785,7 +1787,6 @@
     "interest: gonzalez -> manchester city"
   ],
   "titles": [
-    "\u201cagreed all terms\u201d \u2013 fabrizio romano drops saturday afternoon bombshell for live",
     "lionel messi's father and 'pillar of support' jorge passes away at 68 after batt",
     "spurs may have leaked arsenal links to defender to ease sale to atletico madrid",
     "rodri communicates his desire to play for barcelona and the club prepares a new ",
@@ -2084,7 +2085,8 @@
     "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f getafe have agreed deal with enes unal as bournemouth gave green light fo",
     "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 bologna agree deal to sign roberto piccoli from fiorentina, here we go! \ud83c\uddee\ud83c\uddf9",
     "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 story from the morning confirmed by manchester city sources: barcelona new",
-    "manchester city formally approach fc porto over midfielder nico"
+    "manchester city formally approach fc porto over midfielder nico",
+    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f lazio reach verbal agreement with inter for davide frattesi at \u20ac1m loan f"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2356,12 +2358,13 @@
     "ousmane ndiaye": "",
     "mateo soule": "",
     "micky van de ven": "https://r2.thesportsdb.com/images/media/player/cutout/o51n7v1757016843.png/small",
-    "rodri hernandez": "",
     "kerem alajbegovic": "",
     "hermann malonga": "",
-    "lacine megnan pave": ""
+    "lacine megnan pave": "",
+    "davide frattesi": "https://r2.thesportsdb.com/images/media/player/cutout/z58bx11759408884.png/small",
+    "rodri hernandez": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

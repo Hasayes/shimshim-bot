@@ -1458,7 +1458,9 @@
     "f79ca5182b6918e584f55025d4725ce4",
     "fd43712ed959eaafda9e7e6a18cf4a0a",
     "a7f52108cd3311b78d5adaf10eafaadb",
-    "4ecf19da3517e5752d11b6f86ac177e4"
+    "4ecf19da3517e5752d11b6f86ac177e4",
+    "dc8d172536c439ad8a52408a5beb2fd4",
+    "3395105be7d3f246f4a089924c67aed6"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1846,8 +1848,6 @@
     "interest: mala -> borussia dortmund"
   ],
   "titles": [
-    "man utd considering signing assist machine at left back after newcastle block le",
-    "forest set to sign ousmane diomande for \u00a334m",
     "report: marquee liverpool transfer under fresh threat as arsenal line up audacio",
     "aston villa given green light to sign real madrid star",
     "town 'make palacios bid'",
@@ -2145,7 +2145,9 @@
     "barcelona raise offer for rodri as man city demand \u20ac80m",
     "chelsea transfer news: pep chavarria signing confirmed, fee, contract length rev",
     "romano claims \u2018deal could happen\u2019 for liverpool player\u2019s late exit this summer",
-    "euro giants have \u201csubmitted an official offer\u201d for arsenal duo, claims journalis"
+    "euro giants have \u201csubmitted an official offer\u201d for arsenal duo, claims journalis",
+    "boost for ineos: romano confirms man utd target has turned down foreign approach",
+    "pep chavarria: chelsea's \u00a316 3m signing who only broke into club football at 24"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2421,11 +2423,11 @@
     "rodri hernandez": "",
     "kerem alajbegovic": "",
     "kounde": "https://r2.thesportsdb.com/images/media/player/cutout/qea88i1726509803.png/small",
-    "said el mala": "",
     "hermann malonga": "",
-    "lacine megnan pave": ""
+    "lacine megnan pave": "",
+    "said el mala": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

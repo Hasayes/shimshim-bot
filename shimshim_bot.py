@@ -27,6 +27,7 @@ Optional:
   CROSS_CHECK          "1" for extra Sonnet pass after verify (default "0")
   WEB_SEARCH_MAX_USES  Web searches per verify (default 1)
   ARTICLE_TEXT_MAX     Max chars of article text sent to Claude (default 1200)
+  MAX_RUMOUR_AGE_DAYS  Drop interest cards older than this from the live feed (default 7)
   STATE_FILE           Path to state file (default state.json next to script)
 """
 import json
@@ -174,6 +175,8 @@ NEWSDATA_PAGES = int(os.environ.get("NEWSDATA_PAGES", "1"))
 # Articles older than this are dropped: news feeds sometimes resurface
 # years-old stories (a 2022 Pulisic swap rumour arrived as "news").
 MAX_ARTICLE_AGE_DAYS = int(os.environ.get("MAX_ARTICLE_AGE_DAYS", "3"))
+# Interest cards older than this are archived and removed from the live feed.
+MAX_RUMOUR_AGE_DAYS = int(os.environ.get("MAX_RUMOUR_AGE_DAYS", "7"))
 
 # Public Telegram channels mirroring journalists' posts, read via the t.me/s/
 # web preview (no auth, no API key). Primary fast source; news articles from
@@ -260,6 +263,25 @@ def archive_cards(cards):
             counts[w] = 0
     (ARCHIVE_DIR / "index.json").write_text(
         json.dumps({"windows": [{"id": w, "cards": counts[w]} for w in index]}, indent=1))
+
+
+def prune_old_rumours(feed):
+    """Archive and drop interest cards older than MAX_RUMOUR_AGE_DAYS."""
+    cutoff = datetime.now(timezone.utc).timestamp() - MAX_RUMOUR_AGE_DAYS * 86400
+    expired, keep = [], []
+    for c in feed:
+        if c.get("kind") == "interest":
+            try:
+                if datetime.fromisoformat(c["ts"]).timestamp() <= cutoff:
+                    expired.append(c)
+                    continue
+            except (ValueError, KeyError):
+                pass
+        keep.append(c)
+    if expired:
+        archive_cards(expired)
+        print(f"pruned {len(expired)} rumour(s) older than {MAX_RUMOUR_AGE_DAYS} days")
+    return keep
 
 
 def rotate_windows():
@@ -1339,6 +1361,7 @@ def append_feed(article, brief, photo="", feed=None):
 
 def write_feed(feed):
     """Persist feed once after a poll; archive overflow."""
+    feed[:] = prune_old_rumours(feed)
     FEED_FILE.parent.mkdir(parents=True, exist_ok=True)
     if len(feed) > MAX_FEED:
         archive_cards(feed[MAX_FEED:])
@@ -1786,6 +1809,16 @@ def main():
               f"{brief.from_club} -> {brief.to_club}")
 
     if not DRY_RUN:
+        if feed or FEED_FILE.exists():
+            if not feed and FEED_FILE.exists():
+                try:
+                    feed = json.loads(FEED_FILE.read_text())
+                except json.JSONDecodeError:
+                    feed = []
+            before = len(feed)
+            feed = prune_old_rumours(feed)
+            if len(feed) != before:
+                feed_dirty = True
         if feed_dirty:
             write_feed(feed)
         rotate_windows()

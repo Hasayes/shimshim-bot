@@ -1353,7 +1353,10 @@
     "9fc9faff39521ee6495d20074a6a1ae2",
     "7c1ed7a28247e87ebcdc07d69c8dcdf7",
     "05e79512a39c93dd466dd97b0b6318a3",
-    "tg:FabrizioRomanoTG/64451"
+    "tg:FabrizioRomanoTG/64451",
+    "7ce7f3396fe3a38fbc8a18d507047b72",
+    "55a7813a65b912e97b2561ad7c5b75ba",
+    "3c211498c0cd520ed3fcf8571cb56e10"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1732,9 +1735,6 @@
     "interest: salinas -> manchester united"
   ],
   "titles": [
-    "\u00a3120m star tells his club he wants arsenal transfer after emerging as arteta\u2019s \u201c",
-    "barcelona ready to improve offer for manchester city star after major rejection",
-    "hint over bruno guimaraes shirt number as another arsenal player\u2019s shirt number ",
     "\ud83d\udcfa new youtube video uploaded! \ud83c\udfac \ud83d\udea8 \ud83d\udca3 united decision! romero: barca arsenal truth",
     "liverpool agree shock loan deal for barcelona defender ronald araujo to relieve ",
     "romano reveals man utd decision on signing baleba as newcastle respond to hall \u2018",
@@ -2031,7 +2031,10 @@
     "bayern munich still seeking \u20ac30 million from aston villa, newcastle united for j",
     "romano says \u201cnegotiations are underway\u201d for defender to leave chelsea for serie ",
     "report: inter milan, spurs in talks over djed spence sale",
-    "\ud83d\udea8 \ud83d\udfe1 \ud83d\udd34 as roma are closing in on rodrigo mora deal at late night with porto \ud83c\uddf5\ud83c\uddf9 ve"
+    "\ud83d\udea8 \ud83d\udfe1 \ud83d\udd34 as roma are closing in on rodrigo mora deal at late night with porto \ud83c\uddf5\ud83c\uddf9 ve",
+    "virgil van dijk reveals ifeanyi ndukwe talks and hopes for jeremy jacquet this i",
+    "end of here we go? fabrizio romano drops big bombshell, hints at change in trans",
+    "liverpool transfer news: when will ifeanyi ndukwe 'leave' on loan amid portugal "
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2301,13 +2304,13 @@
     "max alleyne": "https://r2.thesportsdb.com/images/media/player/cutout/4iimzs1769182989.png/small",
     "jorge salinas": "https://images.fotmob.com/image_resources/playerimages/1670161.png",
     "ousmane ndiaye": "",
-    "kerem alajbegovic": "",
     "mateo soule": "",
     "hermann malonga": "",
     "lacine megnan pave": "",
-    "rodri hernandez": ""
+    "rodri hernandez": "",
+    "kerem alajbegovic": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

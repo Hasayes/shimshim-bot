@@ -55,7 +55,15 @@ function clubsOf(i) {
   return [...out];
 }
 
+const RUMOUR_MAX_DAYS = 7;
+
 const stageOf = (i) => (i.kind === "interest" ? "rumour" : known(i.stage) ? i.stage : "Completed");
+
+function isLiveVisible(i) {
+  if (i.kind !== "interest") return true;
+  const days = (Date.now() - new Date(i.ts).getTime()) / 864e5;
+  return days <= RUMOUR_MAX_DAYS;
+}
 
 function matchesStage(i, want) {
   if (!want) return true;
@@ -201,8 +209,8 @@ async function loadFeed() {
     } catch { /* badges are decoration */ }
     const r = await fetch(`feed.json?t=${Date.now()}`, { cache: "no-cache" });
     feed = await r.json();
-    // last-resort shield: never render a structurally broken card
-    feed = feed.filter((i) => known(i.player) && known(i.to_club));
+    // last-resort shield: never render a structurally broken card; rumours expire after 7 days
+    feed = feed.filter((i) => known(i.player) && known(i.to_club) && isLiveVisible(i));
   } catch {
     feed = [];
   }

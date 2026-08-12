@@ -1412,7 +1412,9 @@
     "ddafe3825c89c915ea654c2e74eee79a",
     "tg:FabrizioRomanoTG/64493",
     "tg:FabrizioRomanoTG/64494",
-    "tg:FabrizioRomanoTG/64496"
+    "tg:FabrizioRomanoTG/64496",
+    "e2091784974d94a8e2e8ec234cffae2b",
+    "a4903f64552adfa76a418ce7159455fb"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1793,11 +1795,10 @@
     "interest: romero -> atletico madrid",
     "interest: salinas -> manchester united",
     "interest: ven -> liverpool",
-    "interest: gonzalez -> manchester city"
+    "interest: gonzalez -> manchester city",
+    "interest: ndiaye -> arsenal"
   ],
   "titles": [
-    "romano: man utd's 'total leader' midfield target casado 'set to leave'",
-    "chelsea working on triple summer exit as fabrizio romano rules out \u00a351m transfer",
     "atletico madrid prepare new official bid for tottenham star amidst previous link",
     "ferran torres chooses psg as barcelona face tough transfer decision",
     "incredible: liverpool make nine figure offer for second choice star",
@@ -2095,7 +2096,9 @@
     "airport vision confirms gun\u2019s move to unlock ucl goal; key step in prodigy\u2019s pl ",
     "\ud83d\udea8 \ud83d\udfe1 \ud83d\udd35 official, confirmed romelu lukaku joins fenerbahce from napoli for fee in ",
     "\ud83d\udea8 \ud83d\udfe3 \ud83d\udd35 excl: joao palhinha has agreed personal terms with aston villa and told ba",
-    "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 official, exclusive story confirmed 18 year old winger josue caicedo joins"
+    "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 official, exclusive story confirmed 18 year old winger josue caicedo joins",
+    "\u201cdecision made\u201d \u2013 boost for arsenal as fabrizio romano delivers major transfer u",
+    "when matteo ruggeri could join aston villa as medical set"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2370,10 +2373,10 @@
     "davide frattesi": "https://r2.thesportsdb.com/images/media/player/cutout/z58bx11759408884.png/small",
     "rodri hernandez": "",
     "kerem alajbegovic": "",
-    "lacine megnan pave": "",
-    "hermann malonga": ""
+    "hermann malonga": "",
+    "lacine megnan pave": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

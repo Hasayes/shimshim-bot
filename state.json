@@ -1420,7 +1420,10 @@
     "d41d48eeb6e30da266961fbf5b2d6d60",
     "36cd8bddbf181f5e498ddf87859c9693",
     "957ab58dced5a614c6a9a3f606cdfa6b",
-    "36f6e9f6bbaf37dbac32e8b5e580d236"
+    "36f6e9f6bbaf37dbac32e8b5e580d236",
+    "480388cc4c50a044e8fd0b08d602b7f2",
+    "ba361259e3db5224f78558942c9b03e4",
+    "3a3215c4405e11f3c3fd0a4de8b8d5ad"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1805,9 +1808,6 @@
     "interest: ndiaye -> arsenal"
   ],
   "titles": [
-    "julian alvarez transfer update: atletico madrid star chooses diplomacy as barcel",
-    "\ud83d\udea8 \ud83d\udd34 ronald araujo, flying to merseyside today as he will undergo medical at live",
-    "ferran torres could be taking his talents to the parc des princes",
     "the very best in spain: ronald araujo's real value to liverpool explained",
     "algeria\u2019s bennacer leaves ac milan after seven years",
     "romano confirms surprise arsenal enquiry for 28 year old ahead of \u201ccomplicated\u201d ",
@@ -2104,7 +2104,10 @@
     "next arsenal transfer target named as romano reveals truth on kounde to gunners",
     "liverpool stunned as man city shortlist top reds star and romano confirms signin",
     "arsenal yet to make any concrete advances to sign barcelona defender despite int",
-    "aston villa agree \u20ac26 5m deal to sign ruggeri from atletico madrid"
+    "aston villa agree \u20ac26 5m deal to sign ruggeri from atletico madrid",
+    "only minor details left to agree for tottenham defender\u2019s move to la liga",
+    "inter reshape chivu\u2019s squad as roma, lazio and tottenham talks accelerate",
+    "fabrizio romano denies rumours of barcelona being interested in argentine intern"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2379,10 +2382,10 @@
     "davide frattesi": "https://r2.thesportsdb.com/images/media/player/cutout/z58bx11759408884.png/small",
     "rodri hernandez": "",
     "kerem alajbegovic": "",
-    "hermann malonga": "",
-    "lacine megnan pave": ""
+    "lacine megnan pave": "",
+    "hermann malonga": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

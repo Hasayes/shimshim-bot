@@ -1,5 +1,25 @@
 [
  {
+  "id": "85b841b0416f4390b4ccf1c03cb32217",
+  "ts": "2026-08-12T12:00:48+00:00",
+  "kind": "interest",
+  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/e6mhnz1762288376.png/small",
+  "stage": "\u2014",
+  "player": "Nico Gonzalez",
+  "position": "Midfielder",
+  "age": "\u2014",
+  "from_club": "FC Porto",
+  "to_club": "Inter, Manchester City",
+  "fee": "\u2014",
+  "style": "Technically gifted midfielder with strong ball progression and pressing intensity in the center of the pitch.",
+  "fit": "Can provide depth and versatility in Manchester City's midfield rotation while adapting to Guardiola's possession-based system.",
+  "source": "ng_shotoe",
+  "outlet": "ng_shotoe",
+  "url": "https://ng.shotoe.com/nico-gonzalez-st_563763/news/manchester-city-formally-approach-fc-porto-over-midfielder-nico-sn_5079852/",
+  "title": "Manchester City formally approach FC Porto over midfielder Nico ...",
+  "summary": "Manchester City have made a formal approach to FC Porto for midfielder Nico Gonzalez."
+ },
+ {
   "id": "tg:FabrizioRomanoTG/63782",
   "ts": "2026-08-12T10:15:37+00:00",
   "kind": "deal",
@@ -938,26 +958,6 @@
   "url": "https://t.me/FabrizioRomanoTG/64024",
   "title": "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f EXCL: Como have formally finalised the agreement with Borussia Dortmund to sign former Man City fullback Yan Cout",
   "summary": "Como have formally finalised an agreement with Borussia Dortmund to sign fullback Yan Couto on a loan deal worth \u20ac2m, with a buy option exceeding \u20ac20m included in the arrangement."
- },
- {
-  "id": "85b841b0416f4390b4ccf1c03cb32217",
-  "ts": "2026-08-04T08:30:40+00:00",
-  "kind": "interest",
-  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/e6mhnz1762288376.png/small",
-  "stage": "\u2014",
-  "player": "Nico Gonzalez",
-  "position": "Wing-back",
-  "age": "\u2014",
-  "from_club": "Juventus",
-  "to_club": "Inter",
-  "fee": "\u2014",
-  "style": "Dynamic wide defender with ball-carrying ability and attacking intent.",
-  "fit": "Offers Inter depth at wing-back, a position where they seek versatile cover alongside their established options.",
-  "source": "Yahoo",
-  "outlet": "yahoo",
-  "url": "https://sports.yahoo.com/articles/inter-interested-juventus-nico-gonzalez-202500084.html",
-  "title": "Inter interested in Juventus\u2019 Nico Gonzalez, initial contact made",
-  "summary": "Inter have made initial contact with Juventus over a potential transfer for Nico Gonzalez, signalling early interest in the midfielder. No fee has been disclosed at this stage."
  },
  {
   "id": "tg:FabrizioRomanoTG/63862",

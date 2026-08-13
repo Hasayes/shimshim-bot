@@ -1,7 +1,5 @@
 {
   "sent": [
-    "0e6d4d5a81ac1b083b8fc40efda02513",
-    "20a546cb3c90b9cf6e2386ecd6ca6296",
     "d6293e60153288ded034cde0ca64515d",
     "ff938fe7f5ac7aa1c6093edf98310e89",
     "6454dc492714cf28c4693204d02763f4",
@@ -1499,7 +1497,9 @@
     "d8eb46e2a881bbd4dc242d4926a8ff03",
     "c3f8d5c0ef53050a1e15cd70825e9881",
     "9bf8f1152e8450bcd3fd05bf85552125",
-    "47ba9cb79099c923c0f37fa1323c898d"
+    "47ba9cb79099c923c0f37fa1323c898d",
+    "1f4655cf25233feffc2391c90f30752a",
+    "b5a3e9a95c1dc479c39e377c7e2009db"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1889,8 +1889,6 @@
     "interest: konsa -> arsenal"
   ],
   "titles": [
-    "barcelona confident of signing man city star",
-    "\ud83d\udd34 \ud83c\uddfa\ud83c\uddfe ronald araujo\u2019s message to liverpool fans: \u201ci'm going to give my best i wan",
     "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 paris saint germain agree deal in principle with parma to sign zion suzuki",
     "rt @fabrizioromano : \ud83d\udea8 \ud83c\uddfa\ud83c\udde6 chelsea are open to considering loan proposals for myk",
     "\ud83e\udde8 gimenez close to leaving milan: advanced talks with porto",
@@ -2188,7 +2186,9 @@
     "romano confirms tottenham \u2018working\u2019 on stunning \u00a3137m double deal",
     "tottenham will pay \u00a370m for new winger as romano confirms spurs \u2018working\u2019 on sig",
     "liverpool's stance on psg double deal with bradley barcola transfer talks ongoin",
-    "liverpool\u2019s premier league rivals are about to ruin their transfer plans anfield"
+    "liverpool\u2019s premier league rivals are about to ruin their transfer plans anfield",
+    "chelsea know their two top options as replacements for enzo if deal goes down",
+    "liverpool remain in talks with psg over bradley barcola as the forward is an unu"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2467,12 +2467,12 @@
     "romeo lavia": "https://r2.thesportsdb.com/images/media/player/cutout/g8wl2r1757003714.png/small",
     "thomas kristensen": "https://images.fotmob.com/image_resources/playerimages/1190029.png",
     "marc pubill": "https://r2.thesportsdb.com/images/media/player/cutout/jf6st71762288533.png/small",
-    "lacine megnan pave": "",
     "heaven kilwa": "",
     "said el mala": "",
-    "hermann malonga": ""
+    "hermann malonga": "",
+    "lacine megnan pave": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

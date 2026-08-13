@@ -1,6 +1,5 @@
 {
   "sent": [
-    "be726b768ab318cfa55dfc8119889ee1",
     "5182e9801dbc483007def30e1299efa7",
     "3181db328181622adc0f0316324edca1",
     "91a816efba5e94d398df68725de2e597",
@@ -1499,7 +1498,8 @@
     "25c9cf652238de988816433bb90f8901",
     "a4c1734822e413892571feab1f125c60",
     "569053a83199eb782315b7ecea755a13",
-    "26c310fb3bdf187c968ea9e288590637"
+    "26c310fb3bdf187c968ea9e288590637",
+    "238db7d9bf6476b3a1bf94a009ca22a4"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1890,7 +1890,6 @@
     "interest: balogun -> tottenham"
   ],
   "titles": [
-    "rt @fabrizioromano : \ud83d\udea8 breaking: psg are closing in on verbal agreement for ferr",
     "ronald araujo has signed his liverpool contract done and completed \ud83d\udd34 \ud83d\udd10 https://t",
     "psg increases zion suzuki offer to \u20ac35m, could loan him to juventus",
     "\ud83d\udd34 \u26aa\ufe0f \ud83d\udd10 official: bayern confirm the signing of bara sapoko ndiaye on a 5 year co",
@@ -2189,7 +2188,8 @@
     "douglas luiz to stay? jones wants inter, milan gimenez update \ud83e\udd11",
     "arsenal \u2018receive \u00a338m gabriel martinelli transfer offer from champions league cl",
     "folarin balogun receiving transfer interest from spurs, galatasaray",
-    "barcelona submit fresh rodri bid as manchester city hold firm on valuation"
+    "barcelona submit fresh rodri bid as manchester city hold firm on valuation",
+    "\u2018here we go!\u2019 26 year old\u2019s tottenham exit confirmed as inter milan deal agreed"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2466,11 +2466,11 @@
     "kerem alajbegovic": "",
     "kounde": "https://r2.thesportsdb.com/images/media/player/cutout/qea88i1726509803.png/small",
     "romeo lavia": "https://r2.thesportsdb.com/images/media/player/cutout/g8wl2r1757003714.png/small",
-    "hermann malonga": "",
     "lacine megnan pave": "",
-    "said el mala": ""
+    "said el mala": "",
+    "hermann malonga": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

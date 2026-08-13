@@ -1,7 +1,5 @@
 {
   "sent": [
-    "c912075ab6a63a020bbed8adfa422829",
-    "1a24205d5b5efd9505194830202bb9b3",
     "c6dae69aaa925baaf2a33f18fcdac3da",
     "4ec31abbfd299d2a3eac48f6178f76f3",
     "dc2245c2b8cdbaa43b128751cab12d8a",
@@ -1499,7 +1497,9 @@
     "ab80e2ae8f0faa7f34ccb9258f4b1a35",
     "61a99d79230d59d24ae70741bbcf706e",
     "0de1c06b9ee7e4985fb872565c74614c",
-    "d2ec06ab5abb4d3b3deb7bf709292651"
+    "d2ec06ab5abb4d3b3deb7bf709292651",
+    "c7cde7e8780a9ef7b03951f1d528c9b5",
+    "tg:FabrizioRomanoTG/64532"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1885,8 +1885,6 @@
     "interest: konsa -> arsenal"
   ],
   "titles": [
-    "inter prepare new offer for moussa diaby as leverkusen face competition",
-    "rt @fabrizioromano : \ud83d\udea8 \ud83d\udfe1 \ud83d\udd35 understand fenerbahce have sent new official bid to n",
     "world cup hero wants barcelona future resolved before training return",
     "\ud83d\udea8 \u26aa\ufe0f official: micky van de ven signs new five year deal at tottenham, following",
     "done deal: super eagles hopeful set for benevento medical ahead of fiorentina co",
@@ -2184,7 +2182,9 @@
     "fabrizio romano confirms arsenal \u2018will\u2019 make signing no 5 amid \u00a360m \u2018negotiation",
     "atletico madrid\u2019s \u20ac40m signing gets the \u2018here we go\u2019",
     "galatasaray submit martinelli bid thursday's gossip",
-    "cristian romero\u2019s agent appears to confirm tottenham exit as romano drops major "
+    "cristian romero\u2019s agent appears to confirm tottenham exit as romano drops major ",
+    "what happened in psg vs aston villa tonight suggests bradley barcola to liverpoo",
+    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f lazio agree deal to sign davide frattesi from inter, here we go! \ud83e\udd85 italia"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2463,11 +2463,11 @@
     "romeo lavia": "https://r2.thesportsdb.com/images/media/player/cutout/g8wl2r1757003714.png/small",
     "thomas kristensen": "https://images.fotmob.com/image_resources/playerimages/1190029.png",
     "marc pubill": "https://r2.thesportsdb.com/images/media/player/cutout/jf6st71762288533.png/small",
-    "lacine megnan pave": "",
     "said el mala": "",
-    "hermann malonga": ""
+    "hermann malonga": "",
+    "lacine megnan pave": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

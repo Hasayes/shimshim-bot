@@ -1,7 +1,5 @@
 {
   "sent": [
-    "532c8f44870654de97c3ebfe07785098",
-    "0e1187c64e1221ea824780d897fed169",
     "tg:FabrizioRomanoTG/63851",
     "tg:FabrizioRomanoTG/63852",
     "ffc6946f0db947ad490dd34131d9a541",
@@ -1499,7 +1497,9 @@
     "c78313d9df6a72527dcf5a7041922730",
     "e265f1dde96973b33000735c0f70982c",
     "tg:FabrizioRomanoTG/64557",
-    "tg:FabrizioRomanoTG/64559"
+    "tg:FabrizioRomanoTG/64559",
+    "3ebcb81b2a46da21d23d83f8747c3382",
+    "6ecc7d64f098258ce45405c88c1d084f"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1888,7 +1888,6 @@
     "interest: konsa -> arsenal"
   ],
   "titles": [
-    "liverpool have serious defensive concerns but must sign \u00a3100m rated man this sum",
     "real madrid reporter reveals whether jose mourinho wants to sign martin zubimend",
     "endrick: liverpool have \u201ctaken a look\u201d but dislike real madrid\u2019s deal structure ",
     "bezos wants liverpool to sign \u00a3171m megastar and become \u2018no 1 club in world\u2019",
@@ -2187,7 +2186,8 @@
     "\u201ca good sign \u201d \u2013 mikel arteta makes interesting arsenal transfer claim after spe",
     "newcastle planning move for man united midfield target after tonali & guimaraes ",
     "rt @fabrizioromano : \ud83d\udea8 \ud83c\uddf8\ud83c\udde6 exclusive: tijjani reijnders says yes to al qadsiah an",
-    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f napoli agree deal to sign benoit badiashile from chelsea, here we go! \ud83c\uddeb\ud83c\uddf7 "
+    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f napoli agree deal to sign benoit badiashile from chelsea, here we go! \ud83c\uddeb\ud83c\uddf7 ",
+    "barcelona target cristian romero set to join atletico madrid in \u20ac40m transfer"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2466,12 +2466,12 @@
     "romeo lavia": "https://r2.thesportsdb.com/images/media/player/cutout/g8wl2r1757003714.png/small",
     "thomas kristensen": "https://images.fotmob.com/image_resources/playerimages/1190029.png",
     "marc pubill": "https://r2.thesportsdb.com/images/media/player/cutout/jf6st71762288533.png/small",
-    "hermann malonga": "",
     "lacine megnan pave": "",
     "heaven kilwa": "",
-    "said el mala": ""
+    "said el mala": "",
+    "hermann malonga": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

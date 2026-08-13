@@ -1,6 +1,5 @@
 {
   "sent": [
-    "b82be799df68f6c0f35c4b9677c632d3",
     "811680b8b30cae4ee449638f06dba912",
     "2fcaad76ee9f376801dcb0289def8d69",
     "tg:FabrizioRomanoTG/63840",
@@ -1499,7 +1498,8 @@
     "5ea0a0c3a12dce3aaf4e4d1a6fcb8eb1",
     "tg:FabrizioRomanoTG/64533",
     "tg:FabrizioRomanoTG/64535",
-    "tg:FabrizioRomanoTG/64536"
+    "tg:FabrizioRomanoTG/64536",
+    "tg:FabrizioRomanoTG/64540"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1886,7 +1886,6 @@
     "interest: konsa -> arsenal"
   ],
   "titles": [
-    "just in: midfielder agrees personal terms with man city, wants immediate move",
     "man utd dramatically reignite \u00a386m midfield move as chelsea launch aggressive pu",
     "not savinho! enzo maresca opens up on man city attacker\u2019s future amid tottenham ",
     "romano drops barcola bombshell and issues update on what liverpool need to do ne",
@@ -2185,7 +2184,8 @@
     "fabrizio romano claims arsenal want world cup winner who got into fight with cur",
     "\ud83d\udea8 \ud83c\uddf8\ud83c\udde6 more on tijjani reijnders and al qadsiah exclusive story there\u2019s a verbal a",
     "\ud83d\udea8 \ud83e\ude75 manchester city have agreed deal for the academy to sign 16 year old winger ",
-    "\ud83d\udea8 \ud83d\udd34 \u26ab\ufe0f fikayo tomori has been included into ac milan exit list today; he\u2019s avail"
+    "\ud83d\udea8 \ud83d\udd34 \u26ab\ufe0f fikayo tomori has been included into ac milan exit list today; he\u2019s avail",
+    "\ud83d\udea8 \u26a0\ufe0f breaking: savinho, not involved in man city training today city sources say"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2465,11 +2465,11 @@
     "thomas kristensen": "https://images.fotmob.com/image_resources/playerimages/1190029.png",
     "marc pubill": "https://r2.thesportsdb.com/images/media/player/cutout/jf6st71762288533.png/small",
     "said el mala": "",
-    "heaven kilwa": "",
     "hermann malonga": "",
-    "lacine megnan pave": ""
+    "lacine megnan pave": "",
+    "heaven kilwa": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

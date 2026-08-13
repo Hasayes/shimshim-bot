@@ -1,6 +1,5 @@
 {
   "sent": [
-    "eac69f6f6ff31c510d185779f4d65413",
     "c912075ab6a63a020bbed8adfa422829",
     "1a24205d5b5efd9505194830202bb9b3",
     "c6dae69aaa925baaf2a33f18fcdac3da",
@@ -1499,7 +1498,8 @@
     "243105437eed68864017ff8d65e0c8f4",
     "ab80e2ae8f0faa7f34ccb9258f4b1a35",
     "61a99d79230d59d24ae70741bbcf706e",
-    "0de1c06b9ee7e4985fb872565c74614c"
+    "0de1c06b9ee7e4985fb872565c74614c",
+    "d2ec06ab5abb4d3b3deb7bf709292651"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1885,7 +1885,6 @@
     "interest: konsa -> arsenal"
   ],
   "titles": [
-    "everton reach agreement for next transfer, medical today report",
     "inter prepare new offer for moussa diaby as leverkusen face competition",
     "rt @fabrizioromano : \ud83d\udea8 \ud83d\udfe1 \ud83d\udd35 understand fenerbahce have sent new official bid to n",
     "world cup hero wants barcelona future resolved before training return",
@@ -2184,7 +2183,8 @@
     "chelsea set enzo fernandez transfer deadline amid man city interest",
     "fabrizio romano confirms arsenal \u2018will\u2019 make signing no 5 amid \u00a360m \u2018negotiation",
     "atletico madrid\u2019s \u20ac40m signing gets the \u2018here we go\u2019",
-    "galatasaray submit martinelli bid thursday's gossip"
+    "galatasaray submit martinelli bid thursday's gossip",
+    "cristian romero\u2019s agent appears to confirm tottenham exit as romano drops major "
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2463,11 +2463,11 @@
     "romeo lavia": "https://r2.thesportsdb.com/images/media/player/cutout/g8wl2r1757003714.png/small",
     "thomas kristensen": "https://images.fotmob.com/image_resources/playerimages/1190029.png",
     "marc pubill": "https://r2.thesportsdb.com/images/media/player/cutout/jf6st71762288533.png/small",
-    "hermann malonga": "",
     "lacine megnan pave": "",
-    "said el mala": ""
+    "said el mala": "",
+    "hermann malonga": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

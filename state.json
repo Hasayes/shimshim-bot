@@ -1480,7 +1480,8 @@
     "7328069a0521ac76b37b730596cb4541",
     "db32083aceaa5a1d4324c3b323c2627d",
     "49b98f1fdfed47a6aa55daa731a95c81",
-    "ec3151c0a88ea0f56d28b196bc39c5e8"
+    "ec3151c0a88ea0f56d28b196bc39c5e8",
+    "b2aa37f2b7c18824fb72003e4e79b762"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1870,7 +1871,6 @@
     "interest: lavia -> bayern munich"
   ],
   "titles": [
-    "\ud83d\udea8 official: lucas digne returns to psg a decade later",
     "\ud83d\udea8 teden mengi has been given the green light by luton town to hold talks with in",
     "\ud83d\udea8 \ud83c\uddfa\ud83c\uddfe liverpool and barcelona have exchanged all documents for ronald araujo deal",
     "roma set to complete nahuel molina transfer as argentine defender arrives for me",
@@ -2169,7 +2169,8 @@
     "\u201cend of this week \u201d romano\u2019s latest update on chelsea\u2019s enzo asking price",
     "aston villa will \u2018find it hard\u2019 to say no to certain arsenal offer for ezri kons",
     "barcelona increases its offer for rodri",
-    "this summer\u2019s mbeumo cunha have arrived, but carrick\u2019s situation is entirely dif"
+    "this summer\u2019s mbeumo cunha have arrived, but carrick\u2019s situation is entirely dif",
+    "\u00a3100m bid required as manchester united & liverpool receive transfer update"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2446,11 +2447,11 @@
     "kerem alajbegovic": "",
     "kounde": "https://r2.thesportsdb.com/images/media/player/cutout/qea88i1726509803.png/small",
     "romeo lavia": "https://r2.thesportsdb.com/images/media/player/cutout/g8wl2r1757003714.png/small",
-    "said el mala": "",
     "hermann malonga": "",
-    "lacine megnan pave": ""
+    "lacine megnan pave": "",
+    "said el mala": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

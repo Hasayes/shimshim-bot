@@ -1,6 +1,5 @@
 {
   "sent": [
-    "b825b2be99ae48064a11e0670aba2875",
     "6933bf97b1a1050d843c0f1e0f811ddd",
     "7238d8ba72191dbaf60eaa7d30c7bfec",
     "c4e0356c78d7ab7d11fa59546df54ba0",
@@ -1499,7 +1498,8 @@
     "tg:FabrizioRomanoTG/64545",
     "913d5fd2dc571dd1eeedfe5b13bb50e6",
     "16deaf83ae84c6168bbaa573b5afb7f2",
-    "tg:FabrizioRomanoTG/64546"
+    "tg:FabrizioRomanoTG/64546",
+    "tg:FabrizioRomanoTG/64547"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1886,7 +1886,6 @@
     "interest: konsa -> arsenal"
   ],
   "titles": [
-    "\u201call documents exchanged\u201d as defender\u2019s liverpool deal gets closer according to ",
     "\ud83d\udea8 \ud83d\udc09 fc porto have made contact with santi gimenez camp over possible move from a",
     "liverpool receive green light from 23 year old on personal terms as battle to si",
     "\u26aa\ufe0f \ud83c\udde7\ud83c\uddf7 real madrid decision for endrick to stay has been shared by management and",
@@ -2185,7 +2184,8 @@
     "rt @fabrizioromano : \ud83d\udea8 \ud83d\udd35 chelsea are yet to receive any official bid for enzo fe",
     "man utd consider alternatives as real madrid star eduardo camavinga rejects \u20ac40m",
     "bayern munich news: kim min jae rejects aston villa, nottingham forest; fc bayer",
-    "\ud83d\udea8 \ud83c\uddf7\ud83c\uddf8 albert riera has just signed his contract as new red star belgrade head coa"
+    "\ud83d\udea8 \ud83c\uddf7\ud83c\uddf8 albert riera has just signed his contract as new red star belgrade head coa",
+    "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f excl: atletico mineiro agree deal to sign fred from fenerbahce, here we "
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2464,12 +2464,12 @@
     "romeo lavia": "https://r2.thesportsdb.com/images/media/player/cutout/g8wl2r1757003714.png/small",
     "thomas kristensen": "https://images.fotmob.com/image_resources/playerimages/1190029.png",
     "marc pubill": "https://r2.thesportsdb.com/images/media/player/cutout/jf6st71762288533.png/small",
-    "lacine megnan pave": "",
     "heaven kilwa": "",
     "said el mala": "",
-    "hermann malonga": ""
+    "hermann malonga": "",
+    "lacine megnan pave": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

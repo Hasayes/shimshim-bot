@@ -1469,7 +1469,9 @@
     "f6588e29204fc6bb8d1298c2f27636a8",
     "3e90084aef6f3411b305707d7e56ee3a",
     "eb629ea5bd941e0b56fe8976534802f2",
-    "38f773e6a0c4215e8110bdd09f4376c9"
+    "38f773e6a0c4215e8110bdd09f4376c9",
+    "1ddef6adbbb7d1324f88742530439048",
+    "4c0690915b2fc49401926c1451decb6f"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1858,8 +1860,6 @@
     "interest: neto -> manchester city"
   ],
   "titles": [
-    "leeds united learn final outcome of shea charles pursuit as medical scheduled",
-    "man utd talks over agreement to sign english midfielder ongoing to avoid arsenal",
     "medical date booked with shea charles set to become northern ireland's most expe",
     "marcus rashford gets unexpected new manchester united shirt number after returni",
     "newcastle line up stunning double signing as man city boss maresca hints deal on",
@@ -2157,7 +2157,9 @@
     "ex liverpool star glen johnson thinks reds are 'desperate for a right back' as h",
     "bbc: chelsea\u2019s 18 year old goal machine ready for new contract and first loan",
     "inter milan to send official bid for 26 year old tottenham star whose stocks ros",
-    "romano: psg target to miss training as \u20ac55m transfer deal gets closer"
+    "romano: psg target to miss training as \u20ac55m transfer deal gets closer",
+    "lautaro martinez appears on barcelona\u2019s radar",
+    "manchester city confident they can sign rodri replacement for \u00a3100m"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2433,11 +2435,11 @@
     "rodri hernandez": "",
     "kerem alajbegovic": "",
     "kounde": "https://r2.thesportsdb.com/images/media/player/cutout/qea88i1726509803.png/small",
-    "hermann malonga": "",
     "lacine megnan pave": "",
-    "said el mala": ""
+    "said el mala": "",
+    "hermann malonga": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

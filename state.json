@@ -1484,7 +1484,11 @@
     "b2aa37f2b7c18824fb72003e4e79b762",
     "dbe59c9257d917d5843dd3950de13644",
     "e8a4de3b048f48be2133f84b2ad1c0b3",
-    "d8499c191b72a60a8d4b0b791b01790e"
+    "d8499c191b72a60a8d4b0b791b01790e",
+    "d2e9631ed5207475e4bb626cfb5e48e7",
+    "288c02c17abb9c29865e61c9f35c2615",
+    "tg:FabrizioRomanoTG/64521",
+    "tg:FabrizioRomanoTG/64522"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1874,10 +1878,6 @@
     "interest: lavia -> bayern munich"
   ],
   "titles": [
-    "serie a: como sign chelsea defender trevoh chalobah",
-    "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 barcelona expect to receive opening official bid for ferran torres from pa",
-    "fabrizio romano confirms world class player is coming to liverpool",
-    "\ud83d\udea8 \ud83d\udd03 breaking: swap deal agreed between everton and crystal palace, here we go! d",
     "rt @fabrizioromano : \ud83d\udea8 \ud83d\udd03 breaking: swap deal agreed between everton and crystal ",
     "what shirt number will marcus rashford wear at manchester united? journalist pro",
     "leeds target set for medical ahead of record breaking transfer as 49ers forced i",
@@ -2173,7 +2173,11 @@
     "\u00a3100m bid required as manchester united & liverpool receive transfer update",
     "myles lewis skelly reaches decision on joining man utd from arsenal for \u00a345m",
     "report: aston villa finally set to seal move for \u20ac26 5m defender",
-    "barcelona transfer news: man city 'take stance' over rodri sale amid \u20ac60m offer"
+    "barcelona transfer news: man city 'take stance' over rodri sale amid \u20ac60m offer",
+    "fabrizio romano gives bizarre tottenham deal \u2018here we go\u2019 confirmation",
+    "fabrizio romano gives bizarre tottenham deal \u2018here we go\u2019 confirmation teamtalk",
+    "\ud83d\udea8 \ud83e\udd85 lazio are expected to close final steps of davide frattesi deal with inter t",
+    "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 paris saint germain set to go all in on the market after winning another s"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2450,11 +2454,11 @@
     "kerem alajbegovic": "",
     "kounde": "https://r2.thesportsdb.com/images/media/player/cutout/qea88i1726509803.png/small",
     "romeo lavia": "https://r2.thesportsdb.com/images/media/player/cutout/g8wl2r1757003714.png/small",
-    "said el mala": "",
     "hermann malonga": "",
-    "lacine megnan pave": ""
+    "lacine megnan pave": "",
+    "said el mala": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

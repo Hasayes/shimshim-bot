@@ -1,8 +1,5 @@
 {
   "sent": [
-    "864410c760ff82cc2ab0bca06fb939ea",
-    "a9e88ad1a4e1651217e776f82f053d25",
-    "31d553d396ed282465378c3127a16334",
     "tg:FabrizioRomanoTG/63832",
     "b287e478e27742801e07d918afd371a1",
     "66ce38d3211f81885a6baefe1522dc58",
@@ -1499,7 +1496,10 @@
     "bc662427ebca9aa19c5266626250802f",
     "c22376b63edb58a54ed5c00a72542e62",
     "cd4899f3dfe6796b29ea77f9163b33ab",
-    "tg:FabrizioRomanoTG/64528"
+    "tg:FabrizioRomanoTG/64528",
+    "c425cf85afbaa18f60614ccadcd7861c",
+    "b3d33c411beccc061eeafe906027a767",
+    "tg:FabrizioRomanoTG/64530"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1892,8 +1892,6 @@
     "interest: reijnders -> manchester city"
   ],
   "titles": [
-    "rt @fabrizioromano : \ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f atletico madrid prepare new official bid for cuti ro",
-    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f cuti romero and atletico madrid, deal close as new bid will be sent soon ",
     "psg react to liverpool\u2019s \u2018indicated proposal\u2019 for bradley barcola \u2013 fabrizio rom",
     "bradley barcola: psg react to liverpool's 'indicated proposal' \u2013 fabrizio romano",
     "liverpool given green light to sign \u2018excellent\u2019 star, he\u2019d improve them massivel",
@@ -2191,7 +2189,9 @@
     "former tottenham star agrees terms with aston villa as euro giants told he wants",
     "\ud83d\udea8 official: xavi to manage the netherlands national team",
     "barcelona target expresses desire to leave current club as he holds talks with h",
-    "\ud83d\udea8 \ud83c\uddf8\ud83c\udde6 understand al qadsiah are in advanced talks with manchester city to sign ti"
+    "\ud83d\udea8 \ud83c\uddf8\ud83c\udde6 understand al qadsiah are in advanced talks with manchester city to sign ti",
+    "luis henrique not eager for roma move, as inter want \u20ac30m payday",
+    "\ud83d\udea8 liverpool could add two wingers to the squad, especially if cody gakpo end up "
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2469,11 +2469,11 @@
     "kounde": "https://r2.thesportsdb.com/images/media/player/cutout/qea88i1726509803.png/small",
     "romeo lavia": "https://r2.thesportsdb.com/images/media/player/cutout/g8wl2r1757003714.png/small",
     "thomas kristensen": "https://images.fotmob.com/image_resources/playerimages/1190029.png",
-    "said el mala": "",
     "hermann malonga": "",
-    "lacine megnan pave": ""
+    "lacine megnan pave": "",
+    "said el mala": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

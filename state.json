@@ -1,7 +1,5 @@
 {
   "sent": [
-    "42d441cf6540fbfa9e99a183a611cc63",
-    "e60e2f70adc0639dbd9ba12a9e1b05e9",
     "d6f65dc30aade185d2049c89b79d4300",
     "c86f7bb340de1f397cfc76c98883f450",
     "65aa6e43bb397531fe40359e7932952d",
@@ -1499,7 +1497,9 @@
     "0f1d29b818a193147ce766c6f6e24b38",
     "2fc91da6d7f496313fa1b147da3b298d",
     "89e6e2f03aa34216f040ce5f9fb3d823",
-    "tg:FabrizioRomanoTG/64531"
+    "tg:FabrizioRomanoTG/64531",
+    "98a2867baf5a58266951b17e8e3281f4",
+    "b6f96494fafa7179a5e0bf6524322696"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1880,11 +1880,10 @@
     "interest: ven -> liverpool",
     "interest: gonzalez -> manchester city",
     "interest: mala -> borussia dortmund",
-    "interest: neto -> manchester city"
+    "interest: neto -> manchester city",
+    "interest: pubill -> arsenal"
   ],
   "titles": [
-    "\ud83d\udea8 \u26aa\ufe0f \ud83d\udd35 celta vigo are preparing an official bid for exequiel zeballos, expected ",
-    "transfer news live: cristian romero eyes arsenal switch, liverpool want barcola,",
     "\ud83d\udea8 \ud83d\udfe1 \ud83d\udd35 understand fenerbahce have sent new official bid to napoli tonight for rom",
     "fabrizio romano reveals whether man utd could still sign aurelien tchouameni fro",
     "brennan johnson joining everton while dwight mcneil joins crystal palace in swap",
@@ -2182,7 +2181,9 @@
     "\u2018deal in place\u2019 \u2013 tottenham reach verbal agreement for another summer transfer a",
     "man utd spy real madrid raid after myles lewis skelly blow",
     "just in: xavi appointed netherlands manager \u2013 reports",
-    "rt @fabrizioromano : \ud83d\udea8 \ud83c\uddf8\ud83c\udde6 understand al qadsiah are in advanced talks with manch"
+    "rt @fabrizioromano : \ud83d\udea8 \ud83c\uddf8\ud83c\udde6 understand al qadsiah are in advanced talks with manch",
+    "fabrizio romano reveals arsenal \u2018contact\u2019 for new atletico madrid star football3",
+    "\u2018here we go!\u2019 cristian romero completes \u20ac40m move to atletico madrid from totten"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2460,11 +2461,12 @@
     "kounde": "https://r2.thesportsdb.com/images/media/player/cutout/qea88i1726509803.png/small",
     "romeo lavia": "https://r2.thesportsdb.com/images/media/player/cutout/g8wl2r1757003714.png/small",
     "thomas kristensen": "https://images.fotmob.com/image_resources/playerimages/1190029.png",
-    "said el mala": "",
     "hermann malonga": "",
-    "lacine megnan pave": ""
+    "lacine megnan pave": "",
+    "marc pubill": "https://r2.thesportsdb.com/images/media/player/cutout/jf6st71762288533.png/small",
+    "said el mala": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

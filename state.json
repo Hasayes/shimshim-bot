@@ -1,6 +1,5 @@
 {
   "sent": [
-    "8dc34db5966c156b6e11c70cbfd102ba",
     "e90138eb3b515da0790f1c3ff8d17590",
     "b82be799df68f6c0f35c4b9677c632d3",
     "811680b8b30cae4ee449638f06dba912",
@@ -1499,7 +1498,8 @@
     "tg:FabrizioRomanoTG/64532",
     "47acada9e9a729c305caa4567e69d834",
     "5ea0a0c3a12dce3aaf4e4d1a6fcb8eb1",
-    "tg:FabrizioRomanoTG/64533"
+    "tg:FabrizioRomanoTG/64533",
+    "tg:FabrizioRomanoTG/64535"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1708,7 +1708,8 @@
     "frattesi -> lazio": 1,
     "spence -> inter": 1,
     "romero -> atletico madrid": 1,
-    "kristensen -> atalanta": 1
+    "kristensen -> atalanta": 1,
+    "kilwa -> manchester city": 1
   },
   "interest": [
     "interest: alvarez -> arsenal",
@@ -1885,7 +1886,6 @@
     "interest: konsa -> arsenal"
   ],
   "titles": [
-    "transfer rumors, news: man united turn to youth in chase for leicester, club bru",
     "bradley barcola \u2018gives green light\u2019 for transfer as arsenal set to battle liverp",
     "just in: midfielder agrees personal terms with man city, wants immediate move",
     "man utd dramatically reignite \u00a386m midfield move as chelsea launch aggressive pu",
@@ -2184,7 +2184,8 @@
     "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f lazio agree deal to sign davide frattesi from inter, here we go! \ud83e\udd85 italia",
     "chelsea make big decision on enzo fernandez as fabrizio romano drops major updat",
     "fabrizio romano claims arsenal want world cup winner who got into fight with cur",
-    "\ud83d\udea8 \ud83c\uddf8\ud83c\udde6 more on tijjani reijnders and al qadsiah exclusive story there\u2019s a verbal a"
+    "\ud83d\udea8 \ud83c\uddf8\ud83c\udde6 more on tijjani reijnders and al qadsiah exclusive story there\u2019s a verbal a",
+    "\ud83d\udea8 \ud83e\ude75 manchester city have agreed deal for the academy to sign 16 year old winger "
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2465,9 +2466,10 @@
     "marc pubill": "https://r2.thesportsdb.com/images/media/player/cutout/jf6st71762288533.png/small",
     "lacine megnan pave": "",
     "said el mala": "",
+    "heaven kilwa": "",
     "hermann malonga": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

@@ -1,9 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/63880",
-    "a5bd4dfa40f5a4952d356d34ecefcf7b",
-    "tg:FabrizioRomanoTG/63882",
-    "tg:FabrizioRomanoTG/63883",
     "tg:FabrizioRomanoTG/63887",
     "21ca870312b5f044f20c4d6a781c7fa5",
     "953cb3e0199078261a3dc896cd54ec55",
@@ -1499,7 +1495,11 @@
     "d9ea5e664b5beead005248b1ae81eefb",
     "9940a6c1988d7b0c4ffc4b341ae2271d",
     "tg:FabrizioRomanoTG/64571",
-    "ae3cb87a79c2693dbbd40cc7403bad47"
+    "ae3cb87a79c2693dbbd40cc7403bad47",
+    "8f599af1006c6e6f5b812df9d1b58844",
+    "a33b23eaa7a0247cf9ae83bf513e818d",
+    "18a1e90d823d56c38848cdaf56dcf62f",
+    "888257bd6d4e7d54bde08c63c07103df"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1889,8 +1889,6 @@
     "interest: konsa -> arsenal"
   ],
   "titles": [
-    "tottenham linked manchester city forward\u2019s latest comments might spell setback f",
-    "why england could be a likelier destination for inter\u2019s luis henrique despite ro",
     "three real reasons behind shock liverpool signing revealed as pay cut confirmed",
     "one option is off the table as manchester city move to bolster their midfield",
     "transfer: tottenham take decision on selling romero to arsenal",
@@ -2188,7 +2186,9 @@
     "liverpool fans would be ecstatic after romano issues exciting transfer update",
     "man city to \u2018recoup\u2019 \u00a3120m enzo fernandez fee with two sales as romano reveals \u2018",
     "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f excl: rangers agree deal to sign james penrice from aek athens on loan wi",
-    "zimbabwean wonderkid set for man city"
+    "zimbabwean wonderkid set for man city",
+    "andoni iraola\u2019s transfer plans: wingers pursuit collides with midfield exit conc",
+    "man city \u2018keen on enzo fernandez\u2019 and could help fund \u00a3120m transfer from chelse"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2467,12 +2467,12 @@
     "romeo lavia": "https://r2.thesportsdb.com/images/media/player/cutout/g8wl2r1757003714.png/small",
     "thomas kristensen": "https://images.fotmob.com/image_resources/playerimages/1190029.png",
     "marc pubill": "https://r2.thesportsdb.com/images/media/player/cutout/jf6st71762288533.png/small",
-    "hermann malonga": "",
     "lacine megnan pave": "",
     "heaven kilwa": "",
-    "said el mala": ""
+    "said el mala": "",
+    "hermann malonga": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

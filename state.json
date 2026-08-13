@@ -1,6 +1,5 @@
 {
   "sent": [
-    "d6293e60153288ded034cde0ca64515d",
     "ff938fe7f5ac7aa1c6093edf98310e89",
     "6454dc492714cf28c4693204d02763f4",
     "616ec8eac12cf65295a49ad9939337dd",
@@ -1499,7 +1498,8 @@
     "9bf8f1152e8450bcd3fd05bf85552125",
     "47ba9cb79099c923c0f37fa1323c898d",
     "1f4655cf25233feffc2391c90f30752a",
-    "b5a3e9a95c1dc479c39e377c7e2009db"
+    "b5a3e9a95c1dc479c39e377c7e2009db",
+    "f3bd388d35b66f1ab3a7492df454730e"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1889,7 +1889,6 @@
     "interest: konsa -> arsenal"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 paris saint germain agree deal in principle with parma to sign zion suzuki",
     "rt @fabrizioromano : \ud83d\udea8 \ud83c\uddfa\ud83c\udde6 chelsea are open to considering loan proposals for myk",
     "\ud83e\udde8 gimenez close to leaving milan: advanced talks with porto",
     "\ud83d\udea8 \ud83d\udfe0 \u26ab\ufe0f nobel mendy deal, completed and agreed for hull city after new talks with",
@@ -2188,7 +2187,8 @@
     "liverpool's stance on psg double deal with bradley barcola transfer talks ongoin",
     "liverpool\u2019s premier league rivals are about to ruin their transfer plans anfield",
     "chelsea know their two top options as replacements for enzo if deal goes down",
-    "liverpool remain in talks with psg over bradley barcola as the forward is an unu"
+    "liverpool remain in talks with psg over bradley barcola as the forward is an unu",
+    "transfer round up: daily speculation and news from premier league market offer o"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2467,12 +2467,12 @@
     "romeo lavia": "https://r2.thesportsdb.com/images/media/player/cutout/g8wl2r1757003714.png/small",
     "thomas kristensen": "https://images.fotmob.com/image_resources/playerimages/1190029.png",
     "marc pubill": "https://r2.thesportsdb.com/images/media/player/cutout/jf6st71762288533.png/small",
-    "heaven kilwa": "",
     "said el mala": "",
     "hermann malonga": "",
-    "lacine megnan pave": ""
+    "lacine megnan pave": "",
+    "heaven kilwa": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

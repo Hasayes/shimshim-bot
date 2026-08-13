@@ -1,7 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/63862",
-    "tg:FabrizioRomanoTG/63863",
     "93efd1d2a8764831f005534a13b90c88",
     "530c5bb9e5702ba5de8b0dab0feaf7af",
     "b3524a0fba5c6a6202737ebbc92e92d5",
@@ -1499,7 +1497,9 @@
     "87891b8a45740000e116a00be65623e7",
     "tg:FabrizioRomanoTG/64564",
     "tg:FabrizioRomanoTG/64566",
-    "tg:FabrizioRomanoTG/64567"
+    "tg:FabrizioRomanoTG/64567",
+    "11bfc0e8411e0b5912a8f56fa235974c",
+    "30bbb99949e50eb1eae917f8f22d2573"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1888,8 +1888,6 @@
     "interest: konsa -> arsenal"
   ],
   "titles": [
-    "roony bardghji joined barcelona last summer",
-    "juventus still working on loan for zion suzuki, psg working on permanent deal",
     "arsenal working on three transfers and initial talks with west ham are positive",
     "newcastle united transfer news: former spurs stars 'turns down' st james' park m",
     "fabrizio romano: aston villa 'very interested' in 'spectacular' endrick",
@@ -2187,7 +2185,9 @@
     "source reveals sell on clause tottenham have secured in \u20ac40m romero transfer to ",
     "\ud83d\udea8 \ud83d\udca3 ferran torres to paris saint germain, here we go! \ud83d\udd34 \ud83d\udd35 https://t co/1fj11v5zp",
     "\ud83d\udd34 \ud83d\udd35 ferran torres has already authorization to travel for medical at psg the tra",
-    "rt @fabrizioromano : \ud83d\udea8 \ud83d\udd34 \ud83d\udd35 breaking: ferran torres to paris saint germain, here "
+    "rt @fabrizioromano : \ud83d\udea8 \ud83d\udd34 \ud83d\udd35 breaking: ferran torres to paris saint germain, here ",
+    "barcelona transfer news: blaugrana move to reassure rodri's potential victim, wa",
+    "transfer news live: camavinga to man utd twist, \u00a338m arsenal bid, enzo fernandez"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2466,12 +2466,12 @@
     "romeo lavia": "https://r2.thesportsdb.com/images/media/player/cutout/g8wl2r1757003714.png/small",
     "thomas kristensen": "https://images.fotmob.com/image_resources/playerimages/1190029.png",
     "marc pubill": "https://r2.thesportsdb.com/images/media/player/cutout/jf6st71762288533.png/small",
-    "hermann malonga": "",
     "lacine megnan pave": "",
     "heaven kilwa": "",
-    "said el mala": ""
+    "said el mala": "",
+    "hermann malonga": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

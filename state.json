@@ -1493,7 +1493,11 @@
     "tg:FabrizioRomanoTG/64523",
     "99b764a205837b89df5de641e70bb5a6",
     "920150f98db0601c39439820f0158c0a",
-    "981e2643fba8c4bf107f3a318367f232"
+    "981e2643fba8c4bf107f3a318367f232",
+    "5237a845de08a30a244a6bcaa4fbdf39",
+    "313a81e1766587f70d8bd77473782fe2",
+    "25c9cf652238de988816433bb90f8901",
+    "a4c1734822e413892571feab1f125c60"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1883,8 +1887,6 @@
     "interest: lavia -> bayern munich"
   ],
   "titles": [
-    "\ud83e\ude75 \ud83e\ude7a medical underway for gero rulli at manchester city https://t co/5k0s8pl0zh \u2014",
-    "andoni iraola makes worrying liverpool admission to fsg as anfield exit slips aw",
     "\ud83d\udea8 breaking: psg are closing in on verbal agreement for ferran torres \ud83d\udd34 \ud83d\udd35 \ud83d\udca3 psg s",
     "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 paris saint germain have agreed on personal terms with france u16 talent l",
     "rt @fabrizioromano : \ud83d\udea8 breaking: psg are closing in on verbal agreement for ferr",
@@ -2182,7 +2184,9 @@
     "curtis jones nears \u00a330m liverpool exit to inter milan, with a newcastle move hol",
     "report: european giants have cunning plan in mind to snap up liverpool stalwart ",
     "turkish raid! galatasaray launch official \u00a338m bid for arsenal star gabriel mart",
-    "victor osimhen: transfer insider reveals the truth behind al hilal links"
+    "victor osimhen: transfer insider reveals the truth behind al hilal links",
+    "douglas luiz to stay? jones wants inter, milan gimenez update \ud83e\udd11",
+    "arsenal \u2018receive \u00a338m gabriel martinelli transfer offer from champions league cl"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2459,11 +2463,11 @@
     "kerem alajbegovic": "",
     "kounde": "https://r2.thesportsdb.com/images/media/player/cutout/qea88i1726509803.png/small",
     "romeo lavia": "https://r2.thesportsdb.com/images/media/player/cutout/g8wl2r1757003714.png/small",
-    "lacine megnan pave": "",
     "said el mala": "",
-    "hermann malonga": ""
+    "hermann malonga": "",
+    "lacine megnan pave": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

@@ -21,11 +21,12 @@ Optional:
                        (default "fabrizioromanotg" — Fabrizio Romano)
   CLAUDE_MODEL         Model for web-verify step (default "claude-sonnet-4-6")
   CLASSIFY_MODEL       Model for classify step (default "claude-haiku-4-5")
-  VERIFY_NEWS          "1" to web-verify news-sourced deals (default "0" — lean)
-  VERIFY_INTEREST      "1" to web-verify rumours (default "0" — classify only)
+  VERIFY_NEWS          "0" to skip web-verify on news deals (default "1")
+  VERIFY_INTEREST      "0" to skip web-verify on news rumours (default "1")
   SKIP_VERIFY_TELEGRAM "0" to web-verify Telegram posts (default "1" — trust source)
   CROSS_CHECK          "1" for extra Sonnet pass after verify (default "0")
-  WEB_SEARCH_MAX_USES  Web searches per verify (default 1)
+  WEB_SEARCH_MAX_USES  Web searches per verify (default 3)
+  ORACLE_SANITY        "0" to skip free club-oracle gate (default "1")
   ARTICLE_TEXT_MAX     Max chars of article text sent to Claude (default 1200)
   MAX_RUMOUR_AGE_DAYS  Drop interest cards older than this from the live feed (default 7)
   STATE_FILE           Path to state file (default state.json next to script)
@@ -184,13 +185,15 @@ MAX_RUMOUR_AGE_DAYS = int(os.environ.get("MAX_RUMOUR_AGE_DAYS", "7"))
 TELEGRAM_CHANNELS = os.environ.get("TELEGRAM_CHANNELS", "fabrizioromanotg")
 CLASSIFY_MODEL = os.environ.get("CLASSIFY_MODEL", "claude-haiku-4-5")
 CLAUDE_MODEL = os.environ.get("CLAUDE_MODEL", "claude-sonnet-4-6")
-# Lean defaults: Haiku kind-gate → lean classify → publish (style/fit only on
-# cards that ship). Web verify / cross-check are opt-in.
-VERIFY_NEWS = os.environ.get("VERIFY_NEWS", "0") == "1"
-VERIFY_INTEREST = os.environ.get("VERIFY_INTEREST", "0") == "1"
+# Accuracy defaults: Haiku kind-gate → lean classify → web-verify news cards
+# (Sonnet + search) → free oracle club check → publish. Telegram from Fabrizio
+# stays trusted (SKIP_VERIFY_TELEGRAM). Cross-check remains opt-in.
+VERIFY_NEWS = os.environ.get("VERIFY_NEWS", "1") == "1"
+VERIFY_INTEREST = os.environ.get("VERIFY_INTEREST", "1") == "1"
 SKIP_VERIFY_TELEGRAM = os.environ.get("SKIP_VERIFY_TELEGRAM", "1") == "1"
 CROSS_CHECK = os.environ.get("CROSS_CHECK", "0") == "1"
-WEB_SEARCH_MAX_USES = max(1, int(os.environ.get("WEB_SEARCH_MAX_USES", "1")))
+WEB_SEARCH_MAX_USES = max(1, int(os.environ.get("WEB_SEARCH_MAX_USES", "3")))
+ORACLE_SANITY = os.environ.get("ORACLE_SANITY", "1") == "1"
 # Cap article text sent to Claude — news blurbs and Telegram posts can be long,
 # and the model only needs the claim, not the full scrollback.
 ARTICLE_TEXT_MAX = max(300, int(os.environ.get("ARTICLE_TEXT_MAX", "1200")))
@@ -413,7 +416,7 @@ CLASSIFY_SYSTEM = (
 
 
 RESEARCH_SYSTEM_TEMPLATE = (
-    "You are a football transfer fact-checker. Today is July 2026. Given a "
+    "You are a football transfer fact-checker. Today is {today}. Given a "
     "headline and summary about a possible transfer, use web search to "
     "verify:\n"
     "0. FIRST: who is this story actually ABOUT? Name its subject — the "
@@ -454,7 +457,10 @@ RESEARCH_SYSTEM_TEMPLATE = (
 
 
 def _research_system():
-    return RESEARCH_SYSTEM_TEMPLATE.format(max_uses=WEB_SEARCH_MAX_USES)
+    today = datetime.now(timezone.utc).strftime("%B %Y")
+    return RESEARCH_SYSTEM_TEMPLATE.format(
+        max_uses=WEB_SEARCH_MAX_USES, today=today
+    )
 
 
 BRIEF_SYSTEM = (
@@ -539,6 +545,169 @@ def _get_json(url):
     req = urllib.request.Request(url, headers={"User-Agent": "shimshim-bot/1.0"})
     with urllib.request.urlopen(req, timeout=30) as resp:
         return json.loads(resp.read().decode())
+
+
+def same_club(a, b):
+    """True when two club name strings refer to the same club."""
+    if not a or not b:
+        return False
+    ka, kb = _norm_club(a), _norm_club(b)
+    if ka == kb:
+        return True
+    ta = {w for w in ka.split() if len(w) > 3}
+    tb = {w for w in kb.split() if len(w) > 3}
+    return bool(ta and tb and (ta <= tb or tb <= ta))
+
+
+def oracle_fotmob(player):
+    """Current club from FotMob suggest, or '' on miss/error."""
+    try:
+        d = _get_json(
+            "https://apigw.fotmob.com/searchapi/suggest?lang=en&term="
+            + urllib.parse.quote(player)
+        )
+        name = _norm(player)
+        parts = name.split()
+        if not parts:
+            return ""
+        surname, first = parts[-1], parts[0] if len(parts) > 1 else ""
+        for g in d.get("squadMemberSuggest") or []:
+            for o in g.get("options") or []:
+                text = _norm((o.get("text") or "").split("|")[0])
+                if surname not in text or (first and first not in text):
+                    continue
+                team = (o.get("payload") or {}).get("teamName") or ""
+                if team:
+                    return re.sub(r"\s+u\d{2}$", "", team, flags=re.I)
+    except Exception:  # noqa: BLE001
+        pass
+    return ""
+
+
+def oracle_sportsdb(player):
+    """Current club from TheSportsDB soccer players, or '' on miss/error."""
+    try:
+        d = _get_json(
+            "https://www.thesportsdb.com/api/v1/json/3/searchplayers.php?p="
+            + urllib.parse.quote(player)
+        )
+        name = _norm(player)
+        parts = name.split()
+        if not parts:
+            return ""
+        surname, first = parts[-1], parts[0] if len(parts) > 1 else ""
+        for p in d.get("player") or []:
+            if (p.get("strSport") or "") != "Soccer":
+                continue
+            pname = _norm(p.get("strPlayer") or "")
+            if surname not in pname or (first and first not in pname):
+                continue
+            return p.get("strTeam") or ""
+    except Exception:  # noqa: BLE001
+        pass
+    return ""
+
+
+def oracle_wikipedia(player):
+    """Current club parsed from a Wikipedia footballer intro, or ''."""
+    try:
+        hits = _get_json(
+            "https://en.wikipedia.org/w/api.php?action=query&list=search"
+            "&format=json&srlimit=3&srsearch="
+            + urllib.parse.quote(f"{player} footballer")
+        )["query"]["search"]
+        name = _norm(player)
+        parts = name.split()
+        if not parts:
+            return ""
+        surname, first = parts[-1], parts[0] if len(parts) > 1 else ""
+        titles = [
+            h["title"] for h in hits
+            if surname in _norm(h.get("title", ""))
+            and (not first or first in _norm(h.get("title", "")))
+        ]
+        if not titles:
+            return ""
+        d = _get_json(
+            "https://en.wikipedia.org/w/api.php?action=query&format=json"
+            "&prop=extracts&exintro=1&explaintext=1&exlimit=1&titles="
+            + urllib.parse.quote(titles[0])
+        )
+        pages = (d.get("query") or {}).get("pages") or {}
+        extract = next(iter(pages.values()), {}).get("extract") or ""
+        m = re.search(
+            r"plays? (?:as [^.]{3,40}? )?for (?:[A-Za-z1]+ )?club ([A-Z][^.,]{2,40})",
+            extract,
+        )
+        return m.group(1).strip() if m else ""
+    except Exception:  # noqa: BLE001
+        pass
+    return ""
+
+
+def oracle_current_clubs(player, max_hits=2):
+    """Query free club oracles until max_hits non-empty answers arrive."""
+    teams = []
+    for oracle in (oracle_fotmob, oracle_sportsdb, oracle_wikipedia):
+        t = oracle(player)
+        if t:
+            teams.append(t)
+        if len(teams) >= max_hits:
+            break
+    return teams
+
+
+def oracle_sanity_check(brief):
+    """Free live-squad check — kill or correct cards that contradict reality.
+
+    Catches the failure modes web-search-off published: recycled Completed
+    deals for players who already moved, interest in a club the player
+    already plays for, and inverted/wrong from_club. Never invents a card;
+    only drops or lightly corrects.
+    """
+    if not ORACLE_SANITY or brief.kind == "none":
+        return brief
+    player = (brief.player or "").strip()
+    if not player or player == "—" or len(_norm(player).split()) < 2:
+        return brief  # single-token names collide with namesakes
+    teams = oracle_current_clubs(player, max_hits=2)
+    if not teams:
+        return brief
+    dests = [c.strip() for c in brief.to_club.split(",") if c.strip() not in ("", "—")]
+    origin = brief.from_club
+    at_dest = [d for d in dests if any(same_club(t, d) for t in teams)]
+    at_origin = any(same_club(t, origin) for t in teams) if known_club(origin) else False
+
+    # Player already at a destination club
+    if at_dest:
+        if brief.kind == "interest":
+            print(f"oracle sanity: drop interest — {player} already at {at_dest[0]}")
+            brief.kind = "none"
+            return brief
+        if brief.kind == "deal" and _norm(brief.stage) != "completed":
+            print(f"oracle sanity: upgrade {player} -> {at_dest[0]} to Completed")
+            brief.stage = "Completed"
+            brief.to_club = at_dest[0]
+        return brief
+
+    # Two oracles agree on a club that is neither origin nor destination
+    if len(teams) >= 2 and same_club(teams[0], teams[1]):
+        agreed = teams[0]
+        if not at_origin and not any(same_club(agreed, d) for d in dests):
+            if brief.kind == "deal" and _norm(brief.stage) == "completed":
+                # Completed deal to X but oracles still show Y elsewhere —
+                # likely a recycled/wrong card. Drop rather than publish.
+                print(f"oracle sanity: drop completed {player} -> {brief.to_club} "
+                      f"(oracles show {agreed})")
+                brief.kind = "none"
+                return brief
+            if known_club(origin) and not same_club(origin, agreed):
+                print(f"oracle sanity: correct from_club {origin} -> {agreed} "
+                      f"for {player}")
+                brief.from_club = agreed
+            elif not known_club(origin):
+                brief.from_club = agreed
+    return brief
 
 
 def fetch_articles():
@@ -844,16 +1013,18 @@ def fill_scout_lines(client, article, brief):
 def needs_web_verify(article, brief):
     """Whether to run verify_deal() (web search) before publishing.
 
-    Lean default: classify-only for everything. Opt in with VERIFY_NEWS=1
-    (news deals) and/or VERIFY_INTEREST=1 (rumours).
+    Accuracy default: web-verify every news-sourced deal and rumour.
+    Trusted Telegram mirrors (Fabrizio) skip search when
+    SKIP_VERIFY_TELEGRAM=1 — their posts are the primary source of truth.
     """
-    if brief.kind == "interest":
-        return VERIFY_INTEREST
-    if SKIP_VERIFY_TELEGRAM and (
+    is_telegram = (
         article["id"].startswith("tg:")
         or "telegram" in _norm(article.get("source", ""))
-    ):
+    )
+    if is_telegram and SKIP_VERIFY_TELEGRAM:
         return False
+    if brief.kind == "interest":
+        return VERIFY_INTEREST
     return VERIFY_NEWS
 
 
@@ -1694,6 +1865,10 @@ def main():
                     brief = verify_deal(client, article)
                 else:
                     print(f"skipped verify ({brief.kind}): {article['title']}")
+                # Free live-squad check — catches recycled/wrong cards that
+                # slipped past classify (and cheaply corroborates verify).
+                if brief.kind != "none":
+                    brief = oracle_sanity_check(brief)
         except Exception as e:  # noqa: BLE001 — leave unprocessed, retry next run
             if "credit balance" in str(e).lower():
                 # Billing outage: alert the user (at most once per 12h) and stop

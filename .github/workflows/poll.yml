@@ -44,6 +44,12 @@ jobs:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           NEWS_PROVIDER: ${{ vars.NEWS_PROVIDER || 'newsdata' }}
           NEWSDATA_PAGES: ${{ vars.NEWSDATA_PAGES || '1' }}
+          # Accuracy defaults (override via repo vars to lean out if needed)
+          VERIFY_NEWS: ${{ vars.VERIFY_NEWS || '1' }}
+          VERIFY_INTEREST: ${{ vars.VERIFY_INTEREST || '1' }}
+          SKIP_VERIFY_TELEGRAM: ${{ vars.SKIP_VERIFY_TELEGRAM || '1' }}
+          WEB_SEARCH_MAX_USES: ${{ vars.WEB_SEARCH_MAX_USES || '3' }}
+          ORACLE_SANITY: ${{ vars.ORACLE_SANITY || '1' }}
           VAPID_PRIVATE_KEY_PEM: ${{ secrets.VAPID_PRIVATE_KEY_PEM }}
           PUSH_SUBSCRIPTIONS: ${{ secrets.PUSH_SUBSCRIPTIONS }}
           PUSH_ENC_KEY: ${{ secrets.PUSH_ENC_KEY }}

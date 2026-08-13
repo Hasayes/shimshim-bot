@@ -1,6 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/63800",
     "6f7f48bc7d43297f4e6368e338dc0735",
     "tg:FabrizioRomanoTG/63829",
     "2c5320bd1a39cbc1bf9185b9b640c0fd",
@@ -1499,7 +1498,8 @@
     "6ec17757e973309987d283ae05109b40",
     "52c0186c5ade4215c7f09551ea9428f5",
     "49618263863b57da86a475c1c3c453d1",
-    "c03f18b2193b1fa6d4b73a12d15801a7"
+    "c03f18b2193b1fa6d4b73a12d15801a7",
+    "tg:FabrizioRomanoTG/64525"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1891,7 +1891,6 @@
     "interest: balogun -> tottenham"
   ],
   "titles": [
-    "\ud83d\udea8 \u26ab\ufe0f \ud83d\udd35 inter remain keen on djed spence as right wing back, as revealed last nig",
     "transfer rumors, news: barcelona ratchet up efforts to sign man city's rodri",
     "\ud83d\udea8 \ud83c\uddf8\ud83c\udde6 official, exclusive story confirmed berat djimsiti has joined al diriyah fr",
     "\ud83d\udea8 \ud83d\udd34 official: ronald araujo joins liverpool from barcelona on loan deal with \u20ac55",
@@ -2190,7 +2189,8 @@
     "video: kristensen arrives for atalanta medical, agreement \u20ac22m plus bonus",
     "transfer: caicedo\u2019s move to barcelona confirmed",
     "tottenham defender all set for exit as fabrizio romano discloses 'transfer fee' ",
-    "bayern munich rejects loan agreement with aston villa for joao palhinha"
+    "bayern munich rejects loan agreement with aston villa for joao palhinha",
+    "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 paris saint germain are set to close ferran torres deal with barca as fina"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2467,12 +2467,12 @@
     "kerem alajbegovic": "",
     "kounde": "https://r2.thesportsdb.com/images/media/player/cutout/qea88i1726509803.png/small",
     "romeo lavia": "https://r2.thesportsdb.com/images/media/player/cutout/g8wl2r1757003714.png/small",
-    "lacine megnan pave": "",
     "thomas kristensen": "https://images.fotmob.com/image_resources/playerimages/1190029.png",
     "said el mala": "",
-    "hermann malonga": ""
+    "hermann malonga": "",
+    "lacine megnan pave": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

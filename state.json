@@ -1471,7 +1471,10 @@
     "eb629ea5bd941e0b56fe8976534802f2",
     "38f773e6a0c4215e8110bdd09f4376c9",
     "1ddef6adbbb7d1324f88742530439048",
-    "4c0690915b2fc49401926c1451decb6f"
+    "4c0690915b2fc49401926c1451decb6f",
+    "63a271042e993bde0bacc8b4a5e7a1be",
+    "4b09f1ec6e669008353e7ed6cb59c107",
+    "6aa85f01f941824b0ddc2f03996a1151"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1857,12 +1860,10 @@
     "interest: ndiaye -> arsenal",
     "interest: kounde -> arsenal",
     "interest: mala -> borussia dortmund",
-    "interest: neto -> manchester city"
+    "interest: neto -> manchester city",
+    "interest: lavia -> bayern munich"
   ],
   "titles": [
-    "medical date booked with shea charles set to become northern ireland's most expe",
-    "marcus rashford gets unexpected new manchester united shirt number after returni",
-    "newcastle line up stunning double signing as man city boss maresca hints deal on",
     "romano: \u00a3300,000 a week star snubs man utd exit proposals as carrick verdict rev",
     "marcus rashford\u2019s man united shirt number confirmed as matheus cunha keeps no 10",
     "midfielder \u2018keen on joining\u2019 man utd \u2018this summer\u2019 as ineos in talks to reach ag",
@@ -2159,7 +2160,10 @@
     "inter milan to send official bid for 26 year old tottenham star whose stocks ros",
     "romano: psg target to miss training as \u20ac55m transfer deal gets closer",
     "lautaro martinez appears on barcelona\u2019s radar",
-    "manchester city confident they can sign rodri replacement for \u00a3100m"
+    "manchester city confident they can sign rodri replacement for \u00a3100m",
+    "chelsea sign defender pep chavarria from rayo vallecano",
+    "could former gunner join spurs this summer?",
+    "bayern munich target surprise chelsea midfielder according to insider"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2435,11 +2439,12 @@
     "rodri hernandez": "",
     "kerem alajbegovic": "",
     "kounde": "https://r2.thesportsdb.com/images/media/player/cutout/qea88i1726509803.png/small",
-    "lacine megnan pave": "",
     "said el mala": "",
-    "hermann malonga": ""
+    "hermann malonga": "",
+    "romeo lavia": "https://r2.thesportsdb.com/images/media/player/cutout/g8wl2r1757003714.png/small",
+    "lacine megnan pave": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

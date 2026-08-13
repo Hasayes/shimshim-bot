@@ -1,7 +1,5 @@
 {
   "sent": [
-    "07c592c5499fd54ebb53cf9c2f878975",
-    "tg:FabrizioRomanoTG/63844",
     "2357ba4c7933444ba573925b4c0bc64f",
     "e57e10b90ab5d067bfa57b02c8e260b1",
     "tg:FabrizioRomanoTG/63845",
@@ -1499,7 +1497,9 @@
     "tg:FabrizioRomanoTG/64547",
     "tg:FabrizioRomanoTG/64548",
     "cdee125015d3c95a035fc93de8d783c9",
-    "tg:FabrizioRomanoTG/64552"
+    "tg:FabrizioRomanoTG/64552",
+    "6b0f4ac4524db982132a2a4e3cad4eac",
+    "tg:FabrizioRomanoTG/64553"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1709,7 +1709,8 @@
     "spence -> inter": 1,
     "romero -> atletico madrid": 1,
     "kristensen -> atalanta": 1,
-    "kilwa -> manchester city": 1
+    "kilwa -> manchester city": 1,
+    "reijnders -> al qadsiah": 1
   },
   "interest": [
     "interest: alvarez -> arsenal",
@@ -1886,8 +1887,6 @@
     "interest: konsa -> arsenal"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83c\udde6\ud83c\uddf7 as of today, barcelona have not opened talks for cuti romero despite links ",
-    "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 ferran torres move to paris saint germain, seen as imminent and matter of ",
     "man utd make lewis hall decision as \u00a330m rated bundesliga star says yes to old t",
     "barcelona transfer news: ferran torres to psg 'gathers pace' after personal term",
     "gossip: saints agree loan for man city striker mubama",
@@ -2185,7 +2184,9 @@
     "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f excl: atletico mineiro agree deal to sign fred from fenerbahce, here we ",
     "\ud83d\udea8 \u26ab\ufe0f \ud83d\udd35 djed spence will undergo medical at inter tomorrow after deal agreed yest",
     "'we attract attention' mikel arteta claims rival interest in myles lewis skelly ",
-    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f cuti romero, flying tonight to madrid with his agent to undergo medical a"
+    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f cuti romero, flying tonight to madrid with his agent to undergo medical a",
+    "liverpool latest: andoni iraola braced for double blow as fresh transfer priorit",
+    "\ud83d\udea8 \ud83c\uddf8\ud83c\udde6 exclusive: tijjani reijnders says yes to al qadsiah and all parties have no"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2464,12 +2465,12 @@
     "romeo lavia": "https://r2.thesportsdb.com/images/media/player/cutout/g8wl2r1757003714.png/small",
     "thomas kristensen": "https://images.fotmob.com/image_resources/playerimages/1190029.png",
     "marc pubill": "https://r2.thesportsdb.com/images/media/player/cutout/jf6st71762288533.png/small",
-    "hermann malonga": "",
     "lacine megnan pave": "",
     "heaven kilwa": "",
-    "said el mala": ""
+    "said el mala": "",
+    "hermann malonga": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",
@@ -2618,6 +2619,7 @@
     "al diriyah": "https://r2.thesportsdb.com/images/media/team/badge/0m7ub31782452735.png/small",
     "sheffield united": "https://r2.thesportsdb.com/images/media/team/badge/w7f8pj1672950689.png/small",
     "racing santander": "https://r2.thesportsdb.com/images/media/team/badge/97kkiq1536575158.png/small",
-    "cologne": ""
+    "cologne": "",
+    "al qadsiah": "https://r2.thesportsdb.com/images/media/team/badge/ok63wb1719134839.png/small"
   }
 }

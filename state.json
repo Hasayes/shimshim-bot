@@ -1,7 +1,5 @@
 {
   "sent": [
-    "0855eb6f13fdb8fc2c499a3bd803fffd",
-    "8bebd8c6a3f72e5c8c7c405b0db0ec62",
     "b825b2be99ae48064a11e0670aba2875",
     "6933bf97b1a1050d843c0f1e0f811ddd",
     "7238d8ba72191dbaf60eaa7d30c7bfec",
@@ -1499,7 +1497,9 @@
     "2608db1947f5e48ba31ee34425524101",
     "tg:FabrizioRomanoTG/64543",
     "tg:FabrizioRomanoTG/64545",
-    "913d5fd2dc571dd1eeedfe5b13bb50e6"
+    "913d5fd2dc571dd1eeedfe5b13bb50e6",
+    "16deaf83ae84c6168bbaa573b5afb7f2",
+    "tg:FabrizioRomanoTG/64546"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1886,8 +1886,6 @@
     "interest: konsa -> arsenal"
   ],
   "titles": [
-    "arsenal bid rejected as midfielder favours man utd move",
-    "romano on when \u201cofficial bid\u201d for barcelona attacker is expected",
     "\u201call documents exchanged\u201d as defender\u2019s liverpool deal gets closer according to ",
     "\ud83d\udea8 \ud83d\udc09 fc porto have made contact with santi gimenez camp over possible move from a",
     "liverpool receive green light from 23 year old on personal terms as battle to si",
@@ -2185,7 +2183,9 @@
     "bradley barcola to liverpool: major boost for reds as psg chief breaks silence o",
     "\ud83d\udea8 \ud83d\udd35 chelsea are yet to receive any official bid for enzo fernandez as of 4pm uk ",
     "rt @fabrizioromano : \ud83d\udea8 \ud83d\udd35 chelsea are yet to receive any official bid for enzo fe",
-    "man utd consider alternatives as real madrid star eduardo camavinga rejects \u20ac40m"
+    "man utd consider alternatives as real madrid star eduardo camavinga rejects \u20ac40m",
+    "bayern munich news: kim min jae rejects aston villa, nottingham forest; fc bayer",
+    "\ud83d\udea8 \ud83c\uddf7\ud83c\uddf8 albert riera has just signed his contract as new red star belgrade head coa"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2464,12 +2464,12 @@
     "romeo lavia": "https://r2.thesportsdb.com/images/media/player/cutout/g8wl2r1757003714.png/small",
     "thomas kristensen": "https://images.fotmob.com/image_resources/playerimages/1190029.png",
     "marc pubill": "https://r2.thesportsdb.com/images/media/player/cutout/jf6st71762288533.png/small",
-    "hermann malonga": "",
     "lacine megnan pave": "",
     "heaven kilwa": "",
-    "said el mala": ""
+    "said el mala": "",
+    "hermann malonga": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

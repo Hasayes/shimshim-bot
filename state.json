@@ -1,6 +1,5 @@
 {
   "sent": [
-    "83af9b4521b832cadbdcae647f2c75e4",
     "96e7a7cc3d7dd6899a3bf126f09b516a",
     "0855eb6f13fdb8fc2c499a3bd803fffd",
     "8bebd8c6a3f72e5c8c7c405b0db0ec62",
@@ -1499,7 +1498,8 @@
     "tg:FabrizioRomanoTG/64540",
     "tg:FabrizioRomanoTG/64541",
     "2608db1947f5e48ba31ee34425524101",
-    "tg:FabrizioRomanoTG/64543"
+    "tg:FabrizioRomanoTG/64543",
+    "tg:FabrizioRomanoTG/64545"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1886,7 +1886,6 @@
     "interest: konsa -> arsenal"
   ],
   "titles": [
-    "inter prepare bumper offer for al ittihad star diaby",
     "rodri barcelona move: midfielder pushes to fast track his transfer",
     "arsenal bid rejected as midfielder favours man utd move",
     "romano on when \u201cofficial bid\u201d for barcelona attacker is expected",
@@ -2185,7 +2184,8 @@
     "\ud83d\udea8 \u26a0\ufe0f breaking: savinho, not involved in man city training today city sources say",
     "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f napoli are aware of conditions to sign gabriel jesus and talks took place",
     "bradley barcola to liverpool: major boost for reds as psg chief breaks silence o",
-    "\ud83d\udea8 \ud83d\udd35 chelsea are yet to receive any official bid for enzo fernandez as of 4pm uk "
+    "\ud83d\udea8 \ud83d\udd35 chelsea are yet to receive any official bid for enzo fernandez as of 4pm uk ",
+    "rt @fabrizioromano : \ud83d\udea8 \ud83d\udd35 chelsea are yet to receive any official bid for enzo fe"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2464,12 +2464,12 @@
     "romeo lavia": "https://r2.thesportsdb.com/images/media/player/cutout/g8wl2r1757003714.png/small",
     "thomas kristensen": "https://images.fotmob.com/image_resources/playerimages/1190029.png",
     "marc pubill": "https://r2.thesportsdb.com/images/media/player/cutout/jf6st71762288533.png/small",
-    "heaven kilwa": "",
     "said el mala": "",
     "hermann malonga": "",
-    "lacine megnan pave": ""
+    "lacine megnan pave": "",
+    "heaven kilwa": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

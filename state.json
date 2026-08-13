@@ -1,7 +1,5 @@
 {
   "sent": [
-    "5500b2dd4d5c4d258335f5c4607407af",
-    "tg:FabrizioRomanoTG/63872",
     "921e597e683c629bdd540c7bfe397926",
     "0ff4dc420ec10c05a9f13a5a4f4e3e05",
     "be639a534b09f587c7f61a082a26e43c",
@@ -1499,7 +1497,9 @@
     "f5632eb5467d59be2b1f1fbea24956e9",
     "5c91493a417a6374c7edc71d95707cdf",
     "b07eaca1f84fa0dd028b9f09fb7744b9",
-    "395397f6a27c10a3d96c4e3e84b523c0"
+    "395397f6a27c10a3d96c4e3e84b523c0",
+    "99ddd3fe2cb64bc17d6bff09575c8187",
+    "tg:FabrizioRomanoTG/64570"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1711,7 +1711,8 @@
     "kristensen -> atalanta": 1,
     "kilwa -> manchester city": 1,
     "reijnders -> al qadsiah": 1,
-    "badiashile -> napoli": 1
+    "badiashile -> napoli": 1,
+    "lucumi -> juventus": 1
   },
   "interest": [
     "interest: alvarez -> arsenal",
@@ -1888,8 +1889,6 @@
     "interest: konsa -> arsenal"
   ],
   "titles": [
-    "\ud83d\udfe1 \ud83d\udd35 \ud83c\udde6\ud83c\uddf7 parma have reached verbal agreement with tigre for david romero as new fo",
-    "why liverpool haven\u2019t bid for bradley barcola revealed as arsenal hijack truths ",
     "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 paris saint germain plan to return in direct talks over mika godts deal af",
     "manor solomon joins west ham from tottenham hotspur",
     "real reason liverpool haven\u2019t bid for barcola emerges, as arsenal hijack truths ",
@@ -2187,7 +2186,9 @@
     "liverpool news: psg boss leaks bradley barcola bombshell as ace 'on the brink' o",
     "fc barcelona has another rodri offer rejected by manchester city",
     "eduardo camavinga makes man utd transfer decision after secret talks held with a",
-    "transfer rumors, news: chelsea eye arsenal's zubimendi to replace man city targe"
+    "transfer rumors, news: chelsea eye arsenal's zubimendi to replace man city targe",
+    "fabrizio romano reveals liverpool want two wingers but ibrahim mbaye deal off",
+    "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f juventus have reached a verbal agreement with bologna for jhon lucumi, h"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2466,12 +2467,12 @@
     "romeo lavia": "https://r2.thesportsdb.com/images/media/player/cutout/g8wl2r1757003714.png/small",
     "thomas kristensen": "https://images.fotmob.com/image_resources/playerimages/1190029.png",
     "marc pubill": "https://r2.thesportsdb.com/images/media/player/cutout/jf6st71762288533.png/small",
-    "said el mala": "",
     "hermann malonga": "",
     "lacine megnan pave": "",
-    "heaven kilwa": ""
+    "heaven kilwa": "",
+    "said el mala": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

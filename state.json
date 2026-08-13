@@ -1,9 +1,5 @@
 {
   "sent": [
-    "efc32a24eef60b8f478a66da4a218928",
-    "ca5bb65e6131cbc15b02e7bdf0d65cbe",
-    "tg:FabrizioRomanoTG/63853",
-    "tg:FabrizioRomanoTG/63854",
     "tg:FabrizioRomanoTG/63855",
     "f98429eb6f2325b7c5c1cc9a34d36e18",
     "tg:FabrizioRomanoTG/63858",
@@ -1499,7 +1495,11 @@
     "6ecc7d64f098258ce45405c88c1d084f",
     "326ed031efcdc3e00d2096f9a35d7b8f",
     "4b10422aee1d6cace685e002fc3ecf75",
-    "tg:FabrizioRomanoTG/64562"
+    "tg:FabrizioRomanoTG/64562",
+    "aa698bb12fbffb049707b2639d621e08",
+    "defc9779ffccfe9172cffc209af7ae5b",
+    "37da9f6b3b70e70b9291a67c08f7c9bc",
+    "tg:FabrizioRomanoTG/64563"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1888,10 +1888,6 @@
     "interest: konsa -> arsenal"
   ],
   "titles": [
-    "real madrid transfer news: juventus captain touted as alternative to rodri?",
-    "real madrid confirm aurelien tchouameni medical after manchester united transfer",
-    "arsenal in talks with napoli over striker exit",
-    "psg submit \u20ac50m bid to barcelona for ferran torres",
     "nottingham forest transfer latest as medical set but crystal palace scoop oliver",
     "roma in continuous talks with real madrid for endrick: the spanish club will mak",
     "psg table \u20ac50m offer for world cup final hero ferran torres",
@@ -2187,7 +2183,11 @@
     "barcelona target cristian romero set to join atletico madrid in \u20ac40m transfer",
     "gabriel martinelli informs arsenal about decision after galatasaray send \u00a338 mil",
     "fabrizio romano exclusive: liverpool holding daily contacts to get \u20ac120m plus tr",
-    "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 breaking: ferran torres to paris saint germain, here we go! \ud83d\udca5 deal confirm"
+    "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 breaking: ferran torres to paris saint germain, here we go! \ud83d\udca5 deal confirm",
+    "transfer: man city unwilling to meet chelsea\u2019s demand for pedro neto",
+    "nicolas jackson gives green light to premier league move as chelsea exit edges c",
+    "transfer news live: shock arsenal move; new man utd target; chelsea done deal; b",
+    "\ud83d\udcfa new youtube video uploaded! \ud83c\udfac \ud83d\udea8 \ud83d\udca3 \ud83d\udca3 two bombas: done deals! rodri boom! mac al"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2466,12 +2466,12 @@
     "romeo lavia": "https://r2.thesportsdb.com/images/media/player/cutout/g8wl2r1757003714.png/small",
     "thomas kristensen": "https://images.fotmob.com/image_resources/playerimages/1190029.png",
     "marc pubill": "https://r2.thesportsdb.com/images/media/player/cutout/jf6st71762288533.png/small",
-    "heaven kilwa": "",
     "said el mala": "",
     "hermann malonga": "",
-    "lacine megnan pave": ""
+    "lacine megnan pave": "",
+    "heaven kilwa": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

@@ -1,7 +1,5 @@
 {
   "sent": [
-    "2357ba4c7933444ba573925b4c0bc64f",
-    "e57e10b90ab5d067bfa57b02c8e260b1",
     "tg:FabrizioRomanoTG/63845",
     "tg:FabrizioRomanoTG/63846",
     "e30042f943920e70e97143a4b77bfcb9",
@@ -1499,7 +1497,9 @@
     "cdee125015d3c95a035fc93de8d783c9",
     "tg:FabrizioRomanoTG/64552",
     "6b0f4ac4524db982132a2a4e3cad4eac",
-    "tg:FabrizioRomanoTG/64553"
+    "tg:FabrizioRomanoTG/64553",
+    "8ad25e517cbaf12a4bf9022a3378dc98",
+    "c78313d9df6a72527dcf5a7041922730"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1887,8 +1887,6 @@
     "interest: konsa -> arsenal"
   ],
   "titles": [
-    "man utd make lewis hall decision as \u00a330m rated bundesliga star says yes to old t",
-    "barcelona transfer news: ferran torres to psg 'gathers pace' after personal term",
     "gossip: saints agree loan for man city striker mubama",
     "\ud83d\udea8 \ud83c\udde8\ud83c\udde6 cf montreal agree deal to sign alexis sanchez on a free transfer, here we g",
     "\ud83d\udea8 \u26ab\ufe0f \ud83d\udd35 inter are prepared to send official bid for djed spence if exit condition",
@@ -2186,7 +2184,9 @@
     "'we attract attention' mikel arteta claims rival interest in myles lewis skelly ",
     "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f cuti romero, flying tonight to madrid with his agent to undergo medical a",
     "liverpool latest: andoni iraola braced for double blow as fresh transfer priorit",
-    "\ud83d\udea8 \ud83c\uddf8\ud83c\udde6 exclusive: tijjani reijnders says yes to al qadsiah and all parties have no"
+    "\ud83d\udea8 \ud83c\uddf8\ud83c\udde6 exclusive: tijjani reijnders says yes to al qadsiah and all parties have no",
+    "sky sports: arsenal offered \u00a338 4m for 'outstanding' gabriel martinelli",
+    "\u201ca good sign \u201d \u2013 mikel arteta makes interesting arsenal transfer claim after spe"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2465,12 +2465,12 @@
     "romeo lavia": "https://r2.thesportsdb.com/images/media/player/cutout/g8wl2r1757003714.png/small",
     "thomas kristensen": "https://images.fotmob.com/image_resources/playerimages/1190029.png",
     "marc pubill": "https://r2.thesportsdb.com/images/media/player/cutout/jf6st71762288533.png/small",
-    "lacine megnan pave": "",
     "heaven kilwa": "",
     "said el mala": "",
-    "hermann malonga": ""
+    "hermann malonga": "",
+    "lacine megnan pave": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

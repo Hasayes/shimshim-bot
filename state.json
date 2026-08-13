@@ -1,8 +1,5 @@
 {
   "sent": [
-    "531eeffb10f30dca8d19df4cdf3bc776",
-    "tg:FabrizioRomanoTG/63876",
-    "b0e6c39daaa61f45ded583e4d3815043",
     "tg:FabrizioRomanoTG/63877",
     "tg:FabrizioRomanoTG/63880",
     "a5bd4dfa40f5a4952d356d34ecefcf7b",
@@ -1499,7 +1496,10 @@
     "78cdc69d007466e400857ccbc5d7a18f",
     "6152641737688b2ec11bd7f27a3d69b7",
     "f4f28dc2f854890a8d37fa89322e8404",
-    "ca5b2cabd35f7d5d8d0bb2061c287a82"
+    "ca5b2cabd35f7d5d8d0bb2061c287a82",
+    "d9ea5e664b5beead005248b1ae81eefb",
+    "9940a6c1988d7b0c4ffc4b341ae2271d",
+    "tg:FabrizioRomanoTG/64571"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1889,9 +1889,6 @@
     "interest: konsa -> arsenal"
   ],
   "titles": [
-    "\ud83d\udea8 \u26aa\ufe0f thiago pitarch, not expected to join fulham as they signed shea charles rea",
-    "fenerbahce submit bid to sign second former manchester united attacker of summer",
-    "romelu lukaku transfer: striker's napoli exit 'getting closer' as fabrizio roman",
     "\ud83d\udea8 \ud83c\uddfa\ud83c\udde6 chelsea are open to considering loan proposals for mykhaylo mudryk to let h",
     "tottenham linked manchester city forward\u2019s latest comments might spell setback f",
     "why england could be a likelier destination for inter\u2019s luis henrique despite ro",
@@ -2188,7 +2185,10 @@
     "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f juventus have reached a verbal agreement with bologna for jhon lucumi, h",
     "fabrizio romano reveals liverpool want two wingers but ibrahim mbaye deal off te",
     "arsenal set to break long standing transfer record, following new bid: report",
-    "fabrizio romano hints liverpool may have to spend \u2018almost \u20ac200m\u2019 to pull off dou"
+    "fabrizio romano hints liverpool may have to spend \u2018almost \u20ac200m\u2019 to pull off dou",
+    "liverpool fans would be ecstatic after romano issues exciting transfer update",
+    "man city to \u2018recoup\u2019 \u00a3120m enzo fernandez fee with two sales as romano reveals \u2018",
+    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f excl: rangers agree deal to sign james penrice from aek athens on loan wi"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2467,12 +2467,12 @@
     "romeo lavia": "https://r2.thesportsdb.com/images/media/player/cutout/g8wl2r1757003714.png/small",
     "thomas kristensen": "https://images.fotmob.com/image_resources/playerimages/1190029.png",
     "marc pubill": "https://r2.thesportsdb.com/images/media/player/cutout/jf6st71762288533.png/small",
-    "heaven kilwa": "",
     "said el mala": "",
     "hermann malonga": "",
-    "lacine megnan pave": ""
+    "lacine megnan pave": "",
+    "heaven kilwa": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

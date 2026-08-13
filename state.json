@@ -1,10 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/63855",
-    "f98429eb6f2325b7c5c1cc9a34d36e18",
-    "tg:FabrizioRomanoTG/63858",
-    "1ab17a61967c4894ca6ee5af3cd99a8b",
-    "tg:FabrizioRomanoTG/63861",
     "tg:FabrizioRomanoTG/63862",
     "tg:FabrizioRomanoTG/63863",
     "93efd1d2a8764831f005534a13b90c88",
@@ -1499,7 +1494,12 @@
     "aa698bb12fbffb049707b2639d621e08",
     "defc9779ffccfe9172cffc209af7ae5b",
     "37da9f6b3b70e70b9291a67c08f7c9bc",
-    "tg:FabrizioRomanoTG/64563"
+    "tg:FabrizioRomanoTG/64563",
+    "5eb7b241b40c1b7ff0df3b6c6c1a230d",
+    "87891b8a45740000e116a00be65623e7",
+    "tg:FabrizioRomanoTG/64564",
+    "tg:FabrizioRomanoTG/64566",
+    "tg:FabrizioRomanoTG/64567"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1888,11 +1888,6 @@
     "interest: konsa -> arsenal"
   ],
   "titles": [
-    "nottingham forest transfer latest as medical set but crystal palace scoop oliver",
-    "roma in continuous talks with real madrid for endrick: the spanish club will mak",
-    "psg table \u20ac50m offer for world cup final hero ferran torres",
-    "\u201ctalks at final stages\u201d \u2013 liverpool closer to ibrahim mbaye transfer than ever b",
-    "endrick, barcola and ferran torres: latest transfer gossip",
     "roony bardghji joined barcelona last summer",
     "juventus still working on loan for zion suzuki, psg working on permanent deal",
     "arsenal working on three transfers and initial talks with west ham are positive",
@@ -2187,7 +2182,12 @@
     "transfer: man city unwilling to meet chelsea\u2019s demand for pedro neto",
     "nicolas jackson gives green light to premier league move as chelsea exit edges c",
     "transfer news live: shock arsenal move; new man utd target; chelsea done deal; b",
-    "\ud83d\udcfa new youtube video uploaded! \ud83c\udfac \ud83d\udea8 \ud83d\udca3 \ud83d\udca3 two bombas: done deals! rodri boom! mac al"
+    "\ud83d\udcfa new youtube video uploaded! \ud83c\udfac \ud83d\udea8 \ud83d\udca3 \ud83d\udca3 two bombas: done deals! rodri boom! mac al",
+    "psg chief\u2019s post match comments about barcola leave the door wide open for liver",
+    "source reveals sell on clause tottenham have secured in \u20ac40m romero transfer to ",
+    "\ud83d\udea8 \ud83d\udca3 ferran torres to paris saint germain, here we go! \ud83d\udd34 \ud83d\udd35 https://t co/1fj11v5zp",
+    "\ud83d\udd34 \ud83d\udd35 ferran torres has already authorization to travel for medical at psg the tra",
+    "rt @fabrizioromano : \ud83d\udea8 \ud83d\udd34 \ud83d\udd35 breaking: ferran torres to paris saint germain, here "
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2466,12 +2466,12 @@
     "romeo lavia": "https://r2.thesportsdb.com/images/media/player/cutout/g8wl2r1757003714.png/small",
     "thomas kristensen": "https://images.fotmob.com/image_resources/playerimages/1190029.png",
     "marc pubill": "https://r2.thesportsdb.com/images/media/player/cutout/jf6st71762288533.png/small",
-    "said el mala": "",
     "hermann malonga": "",
     "lacine megnan pave": "",
-    "heaven kilwa": ""
+    "heaven kilwa": "",
+    "said el mala": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

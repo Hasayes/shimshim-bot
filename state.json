@@ -1,6 +1,5 @@
 {
   "sent": [
-    "a12aeb87b905f8a6e7c2ab3a63490ca9",
     "72ffe565e605d2a27dbc259070f15d4b",
     "f4adafd613f24210477e48949fefc743",
     "409e64612d21db2c6f112ffd6d3a0c04",
@@ -1499,7 +1498,8 @@
     "tg:FabrizioRomanoTG/64572",
     "tg:FabrizioRomanoTG/64573",
     "02bb38234c116d2aa9183d538916641e",
-    "feadb0b071355cb9fd21e4567daa0b53"
+    "feadb0b071355cb9fd21e4567daa0b53",
+    "d8eb46e2a881bbd4dc242d4926a8ff03"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1889,7 +1889,6 @@
     "interest: konsa -> arsenal"
   ],
   "titles": [
-    "tottenham and arsenal had \u2018genuine interest\u2019 in \u00a343m forward before psg gazumped",
     "\ud83d\udea8 \ud83d\udfe1 \ud83d\udd35 romelu lukaku to fenerbahce, here we go! green light from napoli as club t",
     "\u26aa\ufe0f \u26ab\ufe0f official, confirmed shea charles signs in at fulham on \u00a330m package deal f",
     "\ud83d\udd04 \u2705 swap deal officially completed: dwight mcneil joins crystal palace and brenn",
@@ -2188,7 +2187,8 @@
     "\ud83d\udea8 \u26a0\ufe0f nayef aguerd to real sociedad, deal off after he completed medical tests at",
     "\ud83d\udee9\ufe0f \ud83c\uddec\ud83c\udde7 rodri, flying back to manchester from madrid while talks with barcelona co",
     "martinelli and galatasaray could be a concern for milan and roma",
-    "liverpool 'pull out of transfer deal' for attacker after holding talks with agen"
+    "liverpool 'pull out of transfer deal' for attacker after holding talks with agen",
+    "romano confirms tottenham \u2018working\u2019 on stunning \u00a3137m double deal"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2467,12 +2467,12 @@
     "romeo lavia": "https://r2.thesportsdb.com/images/media/player/cutout/g8wl2r1757003714.png/small",
     "thomas kristensen": "https://images.fotmob.com/image_resources/playerimages/1190029.png",
     "marc pubill": "https://r2.thesportsdb.com/images/media/player/cutout/jf6st71762288533.png/small",
-    "said el mala": "",
     "hermann malonga": "",
     "lacine megnan pave": "",
-    "heaven kilwa": ""
+    "heaven kilwa": "",
+    "said el mala": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

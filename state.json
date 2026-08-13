@@ -1,8 +1,5 @@
 {
   "sent": [
-    "73b2ec22cbc73f33cb950bb5e5e872a7",
-    "6463e011e5920016680b8ed3d49bb45b",
-    "cebc8e4959c06932829e85589ce9a8f1",
     "eac69f6f6ff31c510d185779f4d65413",
     "c912075ab6a63a020bbed8adfa422829",
     "1a24205d5b5efd9505194830202bb9b3",
@@ -1499,7 +1496,10 @@
     "f9e75f3edfbeec5bcb9fbeee1db57f70",
     "06248c4034886fef6fd9b48d8aa21b16",
     "442352cfc59f9973229ae5dc132db3e5",
-    "243105437eed68864017ff8d65e0c8f4"
+    "243105437eed68864017ff8d65e0c8f4",
+    "ab80e2ae8f0faa7f34ccb9258f4b1a35",
+    "61a99d79230d59d24ae70741bbcf706e",
+    "0de1c06b9ee7e4985fb872565c74614c"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1885,8 +1885,6 @@
     "interest: konsa -> arsenal"
   ],
   "titles": [
-    "rt @fabrizioromano : \ud83d\udea8 real madrid are internally planning with endrick as part ",
-    "when medicals will begin as everton find agreement for brennan johnson swap tran",
     "everton reach agreement for next transfer, medical today report",
     "inter prepare new offer for moussa diaby as leverkusen face competition",
     "rt @fabrizioromano : \ud83d\udea8 \ud83d\udfe1 \ud83d\udd35 understand fenerbahce have sent new official bid to n",
@@ -2184,7 +2182,9 @@
     "\u2018here we go!\u2019 cristian romero completes \u20ac40m move to atletico madrid from totten",
     "manchester city have a deadline to meet if they want to sign chelsea\u2019s world cup",
     "chelsea set enzo fernandez transfer deadline amid man city interest",
-    "fabrizio romano confirms arsenal \u2018will\u2019 make signing no 5 amid \u00a360m \u2018negotiation"
+    "fabrizio romano confirms arsenal \u2018will\u2019 make signing no 5 amid \u00a360m \u2018negotiation",
+    "atletico madrid\u2019s \u20ac40m signing gets the \u2018here we go\u2019",
+    "galatasaray submit martinelli bid thursday's gossip"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2463,11 +2463,11 @@
     "romeo lavia": "https://r2.thesportsdb.com/images/media/player/cutout/g8wl2r1757003714.png/small",
     "thomas kristensen": "https://images.fotmob.com/image_resources/playerimages/1190029.png",
     "marc pubill": "https://r2.thesportsdb.com/images/media/player/cutout/jf6st71762288533.png/small",
-    "said el mala": "",
     "hermann malonga": "",
-    "lacine megnan pave": ""
+    "lacine megnan pave": "",
+    "said el mala": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

@@ -1,8 +1,5 @@
 {
   "sent": [
-    "72ffe565e605d2a27dbc259070f15d4b",
-    "f4adafd613f24210477e48949fefc743",
-    "409e64612d21db2c6f112ffd6d3a0c04",
     "0e6d4d5a81ac1b083b8fc40efda02513",
     "20a546cb3c90b9cf6e2386ecd6ca6296",
     "d6293e60153288ded034cde0ca64515d",
@@ -1499,7 +1496,10 @@
     "tg:FabrizioRomanoTG/64573",
     "02bb38234c116d2aa9183d538916641e",
     "feadb0b071355cb9fd21e4567daa0b53",
-    "d8eb46e2a881bbd4dc242d4926a8ff03"
+    "d8eb46e2a881bbd4dc242d4926a8ff03",
+    "c3f8d5c0ef53050a1e15cd70825e9881",
+    "9bf8f1152e8450bcd3fd05bf85552125",
+    "47ba9cb79099c923c0f37fa1323c898d"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1889,9 +1889,6 @@
     "interest: konsa -> arsenal"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83d\udfe1 \ud83d\udd35 romelu lukaku to fenerbahce, here we go! green light from napoli as club t",
-    "\u26aa\ufe0f \u26ab\ufe0f official, confirmed shea charles signs in at fulham on \u00a330m package deal f",
-    "\ud83d\udd04 \u2705 swap deal officially completed: dwight mcneil joins crystal palace and brenn",
     "barcelona confident of signing man city star",
     "\ud83d\udd34 \ud83c\uddfa\ud83c\uddfe ronald araujo\u2019s message to liverpool fans: \u201ci'm going to give my best i wan",
     "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 paris saint germain agree deal in principle with parma to sign zion suzuki",
@@ -2188,7 +2185,10 @@
     "\ud83d\udee9\ufe0f \ud83c\uddec\ud83c\udde7 rodri, flying back to manchester from madrid while talks with barcelona co",
     "martinelli and galatasaray could be a concern for milan and roma",
     "liverpool 'pull out of transfer deal' for attacker after holding talks with agen",
-    "romano confirms tottenham \u2018working\u2019 on stunning \u00a3137m double deal"
+    "romano confirms tottenham \u2018working\u2019 on stunning \u00a3137m double deal",
+    "tottenham will pay \u00a370m for new winger as romano confirms spurs \u2018working\u2019 on sig",
+    "liverpool's stance on psg double deal with bradley barcola transfer talks ongoin",
+    "liverpool\u2019s premier league rivals are about to ruin their transfer plans anfield"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2467,12 +2467,12 @@
     "romeo lavia": "https://r2.thesportsdb.com/images/media/player/cutout/g8wl2r1757003714.png/small",
     "thomas kristensen": "https://images.fotmob.com/image_resources/playerimages/1190029.png",
     "marc pubill": "https://r2.thesportsdb.com/images/media/player/cutout/jf6st71762288533.png/small",
-    "hermann malonga": "",
     "lacine megnan pave": "",
     "heaven kilwa": "",
-    "said el mala": ""
+    "said el mala": "",
+    "hermann malonga": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

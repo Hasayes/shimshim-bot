@@ -1,6 +1,5 @@
 {
   "sent": [
-    "d6f65dc30aade185d2049c89b79d4300",
     "c86f7bb340de1f397cfc76c98883f450",
     "65aa6e43bb397531fe40359e7932952d",
     "91b1fff9bcf9391c9087387f3dbcb82d",
@@ -1499,7 +1498,8 @@
     "89e6e2f03aa34216f040ce5f9fb3d823",
     "tg:FabrizioRomanoTG/64531",
     "98a2867baf5a58266951b17e8e3281f4",
-    "b6f96494fafa7179a5e0bf6524322696"
+    "b6f96494fafa7179a5e0bf6524322696",
+    "457971c90e89c8f12a699a6d445a4a58"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1884,7 +1884,6 @@
     "interest: pubill -> arsenal"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83d\udfe1 \ud83d\udd35 understand fenerbahce have sent new official bid to napoli tonight for rom",
     "fabrizio romano reveals whether man utd could still sign aurelien tchouameni fro",
     "brennan johnson joining everton while dwight mcneil joins crystal palace in swap",
     "rt @fabrizioromano : \ud83d\udea8 real madrid are internally planning with endrick as part ",
@@ -2183,7 +2182,8 @@
     "just in: xavi appointed netherlands manager \u2013 reports",
     "rt @fabrizioromano : \ud83d\udea8 \ud83c\uddf8\ud83c\udde6 understand al qadsiah are in advanced talks with manch",
     "fabrizio romano reveals arsenal \u2018contact\u2019 for new atletico madrid star football3",
-    "\u2018here we go!\u2019 cristian romero completes \u20ac40m move to atletico madrid from totten"
+    "\u2018here we go!\u2019 cristian romero completes \u20ac40m move to atletico madrid from totten",
+    "manchester city have a deadline to meet if they want to sign chelsea\u2019s world cup"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2461,12 +2461,12 @@
     "kounde": "https://r2.thesportsdb.com/images/media/player/cutout/qea88i1726509803.png/small",
     "romeo lavia": "https://r2.thesportsdb.com/images/media/player/cutout/g8wl2r1757003714.png/small",
     "thomas kristensen": "https://images.fotmob.com/image_resources/playerimages/1190029.png",
-    "hermann malonga": "",
     "lacine megnan pave": "",
     "marc pubill": "https://r2.thesportsdb.com/images/media/player/cutout/jf6st71762288533.png/small",
-    "said el mala": ""
+    "said el mala": "",
+    "hermann malonga": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

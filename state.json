@@ -1,6 +1,5 @@
 {
   "sent": [
-    "08e2df4a7abf1d559728365ff2fd8ef8",
     "8a7ec10f05c3ee798107cbc4d941ded4",
     "tg:FabrizioRomanoTG/63865",
     "tg:FabrizioRomanoTG/63867",
@@ -1499,7 +1498,8 @@
     "30bbb99949e50eb1eae917f8f22d2573",
     "1d8475e0b1b463748d1bacf2beeacaad",
     "e9ed32f85aa3e92c1ec91a7aef0c42f6",
-    "f98640e723740b0c0d198b73a749d33a"
+    "f98640e723740b0c0d198b73a749d33a",
+    "3d2701806b83d2da047136a103f770cc"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1888,7 +1888,6 @@
     "interest: konsa -> arsenal"
   ],
   "titles": [
-    "roma interested in inter defender luis henrique",
     "psg \u201cclosing in\u201d on \u20ac50m verbal agreement for attacker says fabrizio romano",
     "manchester city go all in for rodri\u2019s replacement",
     "\ud83d\udea8 \ud83c\udde8\ud83c\udded parma 19 year old right back sascha britschgi has officially signed with ca",
@@ -2187,7 +2186,8 @@
     "transfer news live: camavinga to man utd twist, \u00a338m arsenal bid, enzo fernandez",
     "chelsea issue ultimatum to man city over signing enzo fernandez as xabi alonso s",
     "arsenal in \"contact\" over ezri konsa alternative as fabrizio romano reveals gunn",
-    "chelsea join liverpool and manchester united in \u00a343m midfielder race"
+    "chelsea join liverpool and manchester united in \u00a343m midfielder race",
+    "fabrizio romano: liverpool and psg in \u2018daily contact\u2019 over barcola; player is \u2018n"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2466,12 +2466,12 @@
     "romeo lavia": "https://r2.thesportsdb.com/images/media/player/cutout/g8wl2r1757003714.png/small",
     "thomas kristensen": "https://images.fotmob.com/image_resources/playerimages/1190029.png",
     "marc pubill": "https://r2.thesportsdb.com/images/media/player/cutout/jf6st71762288533.png/small",
-    "said el mala": "",
     "hermann malonga": "",
     "lacine megnan pave": "",
-    "heaven kilwa": ""
+    "heaven kilwa": "",
+    "said el mala": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

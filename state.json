@@ -1,7 +1,5 @@
 {
   "sent": [
-    "953cb3e0199078261a3dc896cd54ec55",
-    "c9fcbc2d54ee2c18b05acd744df3d28f",
     "a12aeb87b905f8a6e7c2ab3a63490ca9",
     "72ffe565e605d2a27dbc259070f15d4b",
     "f4adafd613f24210477e48949fefc743",
@@ -1499,7 +1497,9 @@
     "18a1e90d823d56c38848cdaf56dcf62f",
     "888257bd6d4e7d54bde08c63c07103df",
     "tg:FabrizioRomanoTG/64572",
-    "tg:FabrizioRomanoTG/64573"
+    "tg:FabrizioRomanoTG/64573",
+    "02bb38234c116d2aa9183d538916641e",
+    "feadb0b071355cb9fd21e4567daa0b53"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1889,8 +1889,6 @@
     "interest: konsa -> arsenal"
   ],
   "titles": [
-    "transfer: tottenham take decision on selling romero to arsenal",
-    "\ud83d\udea8 \ud83d\udfe1 \ud83d\udd35 fenerbahce are closing in on romelu lukaku deal after napoli accept second",
     "tottenham and arsenal had \u2018genuine interest\u2019 in \u00a343m forward before psg gazumped",
     "\ud83d\udea8 \ud83d\udfe1 \ud83d\udd35 romelu lukaku to fenerbahce, here we go! green light from napoli as club t",
     "\u26aa\ufe0f \u26ab\ufe0f official, confirmed shea charles signs in at fulham on \u00a330m package deal f",
@@ -2188,7 +2186,9 @@
     "andoni iraola\u2019s transfer plans: wingers pursuit collides with midfield exit conc",
     "man city \u2018keen on enzo fernandez\u2019 and could help fund \u00a3120m transfer from chelse",
     "\ud83d\udea8 \u26a0\ufe0f nayef aguerd to real sociedad, deal off after he completed medical tests at",
-    "\ud83d\udee9\ufe0f \ud83c\uddec\ud83c\udde7 rodri, flying back to manchester from madrid while talks with barcelona co"
+    "\ud83d\udee9\ufe0f \ud83c\uddec\ud83c\udde7 rodri, flying back to manchester from madrid while talks with barcelona co",
+    "martinelli and galatasaray could be a concern for milan and roma",
+    "liverpool 'pull out of transfer deal' for attacker after holding talks with agen"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2467,12 +2467,12 @@
     "romeo lavia": "https://r2.thesportsdb.com/images/media/player/cutout/g8wl2r1757003714.png/small",
     "thomas kristensen": "https://images.fotmob.com/image_resources/playerimages/1190029.png",
     "marc pubill": "https://r2.thesportsdb.com/images/media/player/cutout/jf6st71762288533.png/small",
-    "heaven kilwa": "",
     "said el mala": "",
     "hermann malonga": "",
-    "lacine megnan pave": ""
+    "lacine megnan pave": "",
+    "heaven kilwa": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

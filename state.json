@@ -1478,7 +1478,9 @@
     "40545e0ada18fcc6c4ddd94374b869cb",
     "45d976aca9b3c9017e43d76cd87c01b6",
     "7328069a0521ac76b37b730596cb4541",
-    "db32083aceaa5a1d4324c3b323c2627d"
+    "db32083aceaa5a1d4324c3b323c2627d",
+    "49b98f1fdfed47a6aa55daa731a95c81",
+    "ec3151c0a88ea0f56d28b196bc39c5e8"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1868,8 +1870,6 @@
     "interest: lavia -> bayern munich"
   ],
   "titles": [
-    "curtis jones future: why the liverpool midfielder not included in squad against ",
-    "midfielder \u2018keen\u2019 to join man utd amid ongoing talks over agreement",
     "\ud83d\udea8 official: lucas digne returns to psg a decade later",
     "\ud83d\udea8 teden mengi has been given the green light by luton town to hold talks with in",
     "\ud83d\udea8 \ud83c\uddfa\ud83c\uddfe liverpool and barcelona have exchanged all documents for ronald araujo deal",
@@ -2167,7 +2167,9 @@
     "romano: djed spence agrees contract as inter table bid for tottenham star",
     "sources: updates on arsenal trio as one gunners star now likely to stay after wi",
     "\u201cend of this week \u201d romano\u2019s latest update on chelsea\u2019s enzo asking price",
-    "aston villa will \u2018find it hard\u2019 to say no to certain arsenal offer for ezri kons"
+    "aston villa will \u2018find it hard\u2019 to say no to certain arsenal offer for ezri kons",
+    "barcelona increases its offer for rodri",
+    "this summer\u2019s mbeumo cunha have arrived, but carrick\u2019s situation is entirely dif"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2444,11 +2446,11 @@
     "kerem alajbegovic": "",
     "kounde": "https://r2.thesportsdb.com/images/media/player/cutout/qea88i1726509803.png/small",
     "romeo lavia": "https://r2.thesportsdb.com/images/media/player/cutout/g8wl2r1757003714.png/small",
-    "lacine megnan pave": "",
     "said el mala": "",
-    "hermann malonga": ""
+    "hermann malonga": "",
+    "lacine megnan pave": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

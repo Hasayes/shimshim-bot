@@ -1,6 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/63901",
     "2d3978b6c0faf1e69c3735c33104a45c",
     "602f48ca47e1ac3615de1980f8ca739e",
     "49ac040a40fd51c0741ae5dfa5cc3462",
@@ -1499,7 +1498,8 @@
     "ffc37db795e0401f923f8d1bdb49b4b2",
     "c749a26e59c992be42c4f9ade2df88c4",
     "dc873418d554a7aec9ddeceef67ecdc3",
-    "4855522fb422519fd7218c105c737718"
+    "4855522fb422519fd7218c105c737718",
+    "a6e744c39305774147116c1635b16816"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1890,7 +1890,6 @@
     "interest: zirkzee -> juventus"
   ],
   "titles": [
-    "transfer news live: arsenal want yildiz, barcola hijack; chelsea done deal; man ",
     "romano reveals man utd decision on priority next signing as barcelona target \u2018of",
     "tottenham transfer news: fabrizio romano reveals spurs star 'keen' on \u00a334m exit ",
     "transfer news live: liverpool agree barcola terms, man city close in on rodri re",
@@ -2189,7 +2188,8 @@
     "paving the way for bouadi: city agree to their player's move to al qadsiah",
     "what next for barcelona and manchester city for rodri?",
     "chelsea braced for enzo fernandez bid as man city 'near agreement' for \u00a360m tran",
-    "spence set for inter medical after tottenham deal agreed"
+    "spence set for inter medical after tottenham deal agreed",
+    "coventry city get green light after fikayo tomori transfer meeting as southampto"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2468,12 +2468,12 @@
     "romeo lavia": "https://r2.thesportsdb.com/images/media/player/cutout/g8wl2r1757003714.png/small",
     "thomas kristensen": "https://images.fotmob.com/image_resources/playerimages/1190029.png",
     "marc pubill": "https://r2.thesportsdb.com/images/media/player/cutout/jf6st71762288533.png/small",
-    "lacine megnan pave": "",
     "heaven kilwa": "",
     "said el mala": "",
-    "hermann malonga": ""
+    "hermann malonga": "",
+    "lacine megnan pave": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

@@ -1,6 +1,5 @@
 {
   "sent": [
-    "ade47350d507bec6cccd725035759235",
     "16a22cdfda938ee6d026d492c23c8fea",
     "4e94de66eee09221dc411be53766a1a3",
     "8e4c87fbef0c1898ca211060baf077c7",
@@ -1499,7 +1498,8 @@
     "tg:FabrizioRomanoTG/64617",
     "4b3605811e07941a17b54ce10dffd074",
     "58e2de7eb537f5cdffa14040a8fa7c3f",
-    "e9592b874da529399b46b777ed243ca2"
+    "e9592b874da529399b46b777ed243ca2",
+    "414abfe62eb56fcbc14ac3f0ac92cc47"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1893,7 +1893,6 @@
     "interest: quansah -> arsenal"
   ],
   "titles": [
-    "real madrid confirm tchouameni medical after man utd transfer decision london ev",
     "liverpool transfer news shock link with chelsea star as psg price drop possibili",
     "official: dominguez joins sassuolo from bologna with purchase option at \u20ac10m",
     "\ud83d\udfe1 \ud83d\udd34 \ud83c\udde6\ud83c\uddf7 nahuel molina has signed his contract as new as roma player, set to be of",
@@ -2192,7 +2191,8 @@
     "\ud83d\udea8 \ud83c\uddf0\ud83c\uddff dastan satpayev to burnley on loan, here we go! loan deal agreed for the ta",
     "the compromise rangers have reached with aek as james penrice medical set",
     "arsenal open osimhen talks as galatasaray reject \u20ac130m al hilal bid",
-    "romano reveals liverpool, barcola \u2018verbal agreement\u2019 as reds getting closer to \u00a3"
+    "romano reveals liverpool, barcola \u2018verbal agreement\u2019 as reds getting closer to \u00a3",
+    "former hearts star has medical 'booked' at rangers after celtic interest as dere"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2474,11 +2474,11 @@
     "jarell quansah": "https://r2.thesportsdb.com/images/media/player/cutout/wfep8o1756316392.png/small",
     "heaven kilwa": "",
     "said el mala": "",
-    "dastan satpayev": "",
     "hermann malonga": "",
-    "lacine megnan pave": ""
+    "lacine megnan pave": "",
+    "dastan satpayev": ""
   },
-  "photo_repair_idx": 5,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

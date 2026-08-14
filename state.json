@@ -1,7 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/63915",
-    "tg:FabrizioRomanoTG/63916",
     "tg:FabrizioRomanoTG/63917",
     "0e9e137d13dc59e62399b86953e07cfd",
     "tg:FabrizioRomanoTG/63919",
@@ -1499,7 +1497,9 @@
     "tg:FabrizioRomanoTG/64580",
     "fc7d826361db2177c8692a98b2bd469f",
     "12490ef26c5ba7355e6638849ee7e30b",
-    "c617c78c41533859d2071c40fd30b9c7"
+    "c617c78c41533859d2071c40fd30b9c7",
+    "712d9054b172b543381b3ab7ce6b3bcb",
+    "tg:FabrizioRomanoTG/64581"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1890,7 +1890,6 @@
     "interest: zirkzee -> juventus"
   ],
   "titles": [
-    "lukaku destined to leave napoli to head to fenerbahce",
     "fabrizio romano: liverpool defender will leave as loan offers arrive",
     "real madrid make endrick decision as man utd, aston villa suffer transfer blow",
     "\ud83d\udea8 \ud83d\udfe3 \ud83d\udd35 aston villa reach verbal agreement to sign matteo ruggeri from atletico ma",
@@ -2189,7 +2188,8 @@
     "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 barcelona are returning with third proposal for rodri to manchester city a",
     "liverpool transfer news: this is massive! fabrizio romano confirms brand new dea",
     "manchester city set to sell player they signed last summer for \u20ac61m fee as they ",
-    "\"we want more, we need more\" michael carrick asks manchester united to sign more"
+    "\"we want more, we need more\" michael carrick asks manchester united to sign more",
+    "\ud83d\udea8 \u274c ac milan informed christopher nkunku about decision to keep him out of team "
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2468,12 +2468,12 @@
     "romeo lavia": "https://r2.thesportsdb.com/images/media/player/cutout/g8wl2r1757003714.png/small",
     "thomas kristensen": "https://images.fotmob.com/image_resources/playerimages/1190029.png",
     "marc pubill": "https://r2.thesportsdb.com/images/media/player/cutout/jf6st71762288533.png/small",
-    "said el mala": "",
     "hermann malonga": "",
     "lacine megnan pave": "",
-    "heaven kilwa": ""
+    "heaven kilwa": "",
+    "said el mala": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

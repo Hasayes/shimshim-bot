@@ -1,8 +1,5 @@
 {
   "sent": [
-    "a5ab8b636c4ce5b962285ec1252d56aa",
-    "9ead453494c6353dc8eb8326fdd8e74d",
-    "3633c93865f20dd01060f578cbcb5eec",
     "4cf37d7053e43ec3ae8226cbc412d8c5",
     "596bf3a5423df493a2aae9dc47e11fa3",
     "52c02afc5c593fced7080ceba48e8577",
@@ -1499,7 +1496,10 @@
     "6bd5d32b65cd204e8d559c340fd864e3",
     "0d0ab698a51fe301ff81dee17db66cbf",
     "a24d74a70fa309ad997ce92820dc2eda",
-    "92beca5dedb24dd16bcab34035fd7c55"
+    "92beca5dedb24dd16bcab34035fd7c55",
+    "aee85798d07246fcea415e66eeccf533",
+    "3882b4bc271c6dd4f7dc59fd369bbcad",
+    "2cc5aa695c25d091dd8d0ab94ffd817e"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1890,12 +1890,10 @@
     "interest: pubill -> arsenal",
     "interest: konsa -> arsenal",
     "interest: zirkzee -> juventus",
-    "interest: quansah -> arsenal"
+    "interest: quansah -> arsenal",
+    "interest: charris -> barcelona"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f getafe have agreed deal with enes unal as bournemouth gave green light fo",
-    "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 bologna agree deal to sign roberto piccoli from fiorentina, here we go! \ud83c\uddee\ud83c\uddf9",
-    "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 story from the morning confirmed by manchester city sources: barcelona new",
     "manchester city formally approach fc porto over midfielder nico",
     "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f lazio reach verbal agreement with inter for davide frattesi at \u20ac1m loan f",
     "\ud83d\udea8 \u26ab\ufe0f \ud83d\udd35 understand inter are closing in on djed spence deal! agreement almost don",
@@ -2192,7 +2190,10 @@
     "chelsea stance softening on \u00a375m star as liverpool interest revealed",
     "atletico madrid advance romero move and stand firm against arsenal over pubill",
     "recent development gives liverpool boost in bid to sign 50 g/a superstar",
-    "frattesi transfer from inter to lazio put on standby at the last minute"
+    "frattesi transfer from inter to lazio put on standby at the last minute",
+    "just in: barcelona eye 28 year old colombian striker as backup, flick approves t",
+    "just in: arsenal in talks to sign england international as liverpool decide agai",
+    "enzo fernandez day: chelsea hold firm on \u00a3120m fee as manchester city face decis"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2472,13 +2473,14 @@
     "thomas kristensen": "https://images.fotmob.com/image_resources/playerimages/1190029.png",
     "marc pubill": "https://r2.thesportsdb.com/images/media/player/cutout/jf6st71762288533.png/small",
     "jarell quansah": "https://r2.thesportsdb.com/images/media/player/cutout/wfep8o1756316392.png/small",
-    "said el mala": "",
     "hermann malonga": "",
     "lacine megnan pave": "",
     "dastan satpayev": "",
-    "heaven kilwa": ""
+    "heaven kilwa": "",
+    "luis javier suarez charris": "https://r2.thesportsdb.com/images/media/player/cutout/lnqj5l1762290563.png/small",
+    "said el mala": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

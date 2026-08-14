@@ -1,7 +1,5 @@
 {
   "sent": [
-    "16a22cdfda938ee6d026d492c23c8fea",
-    "4e94de66eee09221dc411be53766a1a3",
     "8e4c87fbef0c1898ca211060baf077c7",
     "bdc157f956b25dd231a2b122124f33fb",
     "3bd27a362b8acb60b108f68a3a46bab1",
@@ -1499,7 +1497,9 @@
     "4b3605811e07941a17b54ce10dffd074",
     "58e2de7eb537f5cdffa14040a8fa7c3f",
     "e9592b874da529399b46b777ed243ca2",
-    "414abfe62eb56fcbc14ac3f0ac92cc47"
+    "414abfe62eb56fcbc14ac3f0ac92cc47",
+    "ef7a03517f0c0d7b35cf93be2cd52b47",
+    "c6291fdc3702f7f77aa71ea9d13bd951"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1893,8 +1893,6 @@
     "interest: quansah -> arsenal"
   ],
   "titles": [
-    "liverpool transfer news shock link with chelsea star as psg price drop possibili",
-    "official: dominguez joins sassuolo from bologna with purchase option at \u20ac10m",
     "\ud83d\udfe1 \ud83d\udd34 \ud83c\udde6\ud83c\uddf7 nahuel molina has signed his contract as new as roma player, set to be of",
     "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f dusan vlahovic to besiktas, here we go! verbal agreement in place for th",
     "\ud83d\udea8 \ud83c\uddf5\ud83c\uddf9 fc porto told as roma this morning they want better conditions for the buy ",
@@ -2192,7 +2190,9 @@
     "the compromise rangers have reached with aek as james penrice medical set",
     "arsenal open osimhen talks as galatasaray reject \u20ac130m al hilal bid",
     "romano reveals liverpool, barcola \u2018verbal agreement\u2019 as reds getting closer to \u00a3",
-    "former hearts star has medical 'booked' at rangers after celtic interest as dere"
+    "former hearts star has medical 'booked' at rangers after celtic interest as dere",
+    "rangers agree deal to sign james penrice from aek athens",
+    "man united handed double boost as \u00a342 7m agreement reached and liverpool \u2018pull o"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2472,13 +2472,13 @@
     "thomas kristensen": "https://images.fotmob.com/image_resources/playerimages/1190029.png",
     "marc pubill": "https://r2.thesportsdb.com/images/media/player/cutout/jf6st71762288533.png/small",
     "jarell quansah": "https://r2.thesportsdb.com/images/media/player/cutout/wfep8o1756316392.png/small",
-    "heaven kilwa": "",
     "said el mala": "",
     "hermann malonga": "",
     "lacine megnan pave": "",
-    "dastan satpayev": ""
+    "dastan satpayev": "",
+    "heaven kilwa": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

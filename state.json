@@ -1,10 +1,5 @@
 {
   "sent": [
-    "616d4fa087a01ae7a35ff59db1036955",
-    "487c9f568a063693c3b34b00864b49fe",
-    "5a500ea58a3959a4c324b763b216a86a",
-    "6104ad8a03265015da87aaeba17d6885",
-    "a2c210877f65547af2a02681f665b57b",
     "5cbc1f39ce04ff877ef0dedc767da5d6",
     "0004f5d6399117b4233b24ee56a9415d",
     "b440f39e89722b1af6276e834b771a1a",
@@ -1499,7 +1494,12 @@
     "be02042e8260c0e6a5210cb78c1d296a",
     "b92adb2b981f5a4a1e9260b32d6a0734",
     "98c8a0f07fec2073720db92d3f609bc7",
-    "21223cb583aadad6783311988afb6d68"
+    "21223cb583aadad6783311988afb6d68",
+    "41caa9273175c8beb989e50436a500c7",
+    "f6788f1833aa5b798f6d88eb24570301",
+    "155a49ad59bb7de5ba6e50b8bdd04489",
+    "c518e345645bb9818db8077a0d5d75ca",
+    "fa34f7e92b104f823dd22e43135cccfc"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1894,11 +1894,6 @@
     "interest: charris -> barcelona"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83d\udfe1 \ud83d\udd35 official, confirmed romelu lukaku joins fenerbahce from napoli for fee in ",
-    "\ud83d\udea8 \ud83d\udfe3 \ud83d\udd35 excl: joao palhinha has agreed personal terms with aston villa and told ba",
-    "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 official, exclusive story confirmed 18 year old winger josue caicedo joins",
-    "\u201cdecision made\u201d \u2013 boost for arsenal as fabrizio romano delivers major transfer u",
-    "when matteo ruggeri could join aston villa as medical set",
     "former chelsea manager could raid blues for winger loan signing",
     "man united consider \u00a330m bid for left back on radar of arsenal & aston villa",
     "next arsenal transfer target named as romano reveals truth on kounde to gunners",
@@ -2193,7 +2188,12 @@
     "'already over' fabrizio romano makes bizarre newcastle united transfer claim aft",
     "after ferran torres: paris seal a new deal",
     "two reasons jarell quansah looks like the perfect signing for arsenal",
-    "borussia dortmund pull out of said el mala race"
+    "borussia dortmund pull out of said el mala race",
+    "man utd interested in signing bayern munich star as his very clear stance on tra",
+    "offer made: arsenal approached over loan with view to permanent \u20ac40m transfer",
+    "arsenal hold talks over osimhen deal",
+    "leao and seven other unwanted milan players left out of squad for man united",
+    "romano confirms medical for \u20ac50m psg signing in the coming days"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2473,14 +2473,14 @@
     "thomas kristensen": "https://images.fotmob.com/image_resources/playerimages/1190029.png",
     "marc pubill": "https://r2.thesportsdb.com/images/media/player/cutout/jf6st71762288533.png/small",
     "jarell quansah": "https://r2.thesportsdb.com/images/media/player/cutout/wfep8o1756316392.png/small",
-    "heaven kilwa": "",
     "luis javier suarez charris": "https://r2.thesportsdb.com/images/media/player/cutout/lnqj5l1762290563.png/small",
     "said el mala": "",
     "hermann malonga": "",
     "lacine megnan pave": "",
-    "dastan satpayev": ""
+    "dastan satpayev": "",
+    "heaven kilwa": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

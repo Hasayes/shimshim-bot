@@ -1,7 +1,5 @@
 {
   "sent": [
-    "9ff594833b3ce7be037e19c46ed9bb57",
-    "71be04fc0e5ecbd17603f0e5a294fbfb",
     "8149b821a78a6b59ce8e0cb92e42922e",
     "ac64d3cb7d789d46faf05618414724ab",
     "76b935792f4ee2464e658095111fb72b",
@@ -1499,7 +1497,9 @@
     "ae5529fb74e0983f601bebb57ad84104",
     "a33163cb3a1a386f5a00731119661c81",
     "tg:FabrizioRomanoTG/64621",
-    "tg:FabrizioRomanoTG/64622"
+    "tg:FabrizioRomanoTG/64622",
+    "01505b2f13e01275f6915c5f35ab9835",
+    "46bc053af16d22c4305e54cd0f5ee60e"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1893,8 +1893,6 @@
     "interest: quansah -> arsenal"
   ],
   "titles": [
-    "latest bradley barcola transfer odds as liverpool given \u2018green light\u2019 on persona",
-    "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 barcelona have already made new verbal proposal to manchester city for rod",
     "report: liverpool showed \u2018concrete interest\u2019 in summer move for premier league s",
     "arsenal join transfer race for tottenham linked winger from chelsea who would se",
     "the answer as to who will be the fifth choice centre back for manchester city no",
@@ -2192,7 +2190,9 @@
     "\u201ccrucial hours ahead\u201d as city in contact over signing \u00a3120m chelsea star before ",
     "man city offer chelsea \u00a3102 5m for enzo fernandez and push to finalise signing \u2013",
     "\ud83d\udea8 liverpool still consider the possibility of bringing in two wingers in next tw",
-    "\ud83d\udea8 \u2764\ufe0f \ud83e\udd0d cristian romero has signed his five year contract as new atletico madrid "
+    "\ud83d\udea8 \u2764\ufe0f \ud83e\udd0d cristian romero has signed his five year contract as new atletico madrid ",
+    "barcelona refuse to back down as manchester city rejects two rodri offers",
+    "fabrizio romano exclusive: arsenal aware of transfer conditions to sign premier "
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2472,13 +2472,13 @@
     "thomas kristensen": "https://images.fotmob.com/image_resources/playerimages/1190029.png",
     "marc pubill": "https://r2.thesportsdb.com/images/media/player/cutout/jf6st71762288533.png/small",
     "jarell quansah": "https://r2.thesportsdb.com/images/media/player/cutout/wfep8o1756316392.png/small",
-    "dastan satpayev": "",
     "heaven kilwa": "",
     "said el mala": "",
     "hermann malonga": "",
-    "lacine megnan pave": ""
+    "lacine megnan pave": "",
+    "dastan satpayev": ""
   },
-  "photo_repair_idx": 5,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

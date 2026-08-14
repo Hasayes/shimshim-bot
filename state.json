@@ -1,7 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/63913",
-    "tg:FabrizioRomanoTG/63914",
     "tg:FabrizioRomanoTG/63915",
     "tg:FabrizioRomanoTG/63916",
     "tg:FabrizioRomanoTG/63917",
@@ -1499,7 +1497,9 @@
     "0ab53cefbf9b3ec53dcb3ab40351b44c",
     "e1c385377e33d170e036463a7b33f5f9",
     "tg:FabrizioRomanoTG/64580",
-    "fc7d826361db2177c8692a98b2bd469f"
+    "fc7d826361db2177c8692a98b2bd469f",
+    "12490ef26c5ba7355e6638849ee7e30b",
+    "c617c78c41533859d2071c40fd30b9c7"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1890,8 +1890,6 @@
     "interest: zirkzee -> juventus"
   ],
   "titles": [
-    "fabrizio romano confirms liverpool target is wanted by european giants",
-    "inter continue talks for tottenham wing back target djed spence",
     "lukaku destined to leave napoli to head to fenerbahce",
     "fabrizio romano: liverpool defender will leave as loan offers arrive",
     "real madrid make endrick decision as man utd, aston villa suffer transfer blow",
@@ -2189,7 +2187,9 @@
     "unexpected or planned? rodri stuns barcelona with a radical turnaround in favor ",
     "barcelona seal \u20ac50m deal with psg for ferran torres",
     "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 barcelona are returning with third proposal for rodri to manchester city a",
-    "liverpool transfer news: this is massive! fabrizio romano confirms brand new dea"
+    "liverpool transfer news: this is massive! fabrizio romano confirms brand new dea",
+    "manchester city set to sell player they signed last summer for \u20ac61m fee as they ",
+    "\"we want more, we need more\" michael carrick asks manchester united to sign more"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2468,12 +2468,12 @@
     "romeo lavia": "https://r2.thesportsdb.com/images/media/player/cutout/g8wl2r1757003714.png/small",
     "thomas kristensen": "https://images.fotmob.com/image_resources/playerimages/1190029.png",
     "marc pubill": "https://r2.thesportsdb.com/images/media/player/cutout/jf6st71762288533.png/small",
-    "heaven kilwa": "",
     "said el mala": "",
     "hermann malonga": "",
-    "lacine megnan pave": ""
+    "lacine megnan pave": "",
+    "heaven kilwa": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

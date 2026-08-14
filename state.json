@@ -1,6 +1,5 @@
 {
   "sent": [
-    "76b935792f4ee2464e658095111fb72b",
     "88b979e6754d5f616fbf138804d34c5e",
     "0ad6dd7a4df9daf4dc0a45f7b3449710",
     "fb9428799f884b492c0a03fd56bfbfe2",
@@ -1499,7 +1498,8 @@
     "01505b2f13e01275f6915c5f35ab9835",
     "46bc053af16d22c4305e54cd0f5ee60e",
     "094c111cfee1f4eff3585e680c62b6d5",
-    "4b47082f50db9e0639988ff4e9a29d7f"
+    "4b47082f50db9e0639988ff4e9a29d7f",
+    "91000980297906bcfa2406950449caaf"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1893,7 +1893,6 @@
     "interest: quansah -> arsenal"
   ],
   "titles": [
-    "the answer as to who will be the fifth choice centre back for manchester city no",
     "\ud83d\udea8 \ud83d\udd35 official, confirmed chelsea sign 28 year old lb pep chavarria from rayo vall",
     "rt @fabrizioromano : \ud83d\udea8 \ud83d\udd34 \ud83d\udd35 excl: ferran torres, not scheduled to show up at barc",
     "enzo maresca is reportedly eager to reunite with a midfielder he knows all too w",
@@ -2192,7 +2191,8 @@
     "barcelona refuse to back down as manchester city rejects two rodri offers",
     "fabrizio romano exclusive: arsenal aware of transfer conditions to sign premier ",
     "tottenham offer \u00a385m for savinho as he skips man city training; jacobs predicts ",
-    "la liga: barcelona prepare third bid for rodri"
+    "la liga: barcelona prepare third bid for rodri",
+    "manchester city\u2019s summer transfer puzzle: fernandez deadline, reijnders cash, ro"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2472,13 +2472,13 @@
     "thomas kristensen": "https://images.fotmob.com/image_resources/playerimages/1190029.png",
     "marc pubill": "https://r2.thesportsdb.com/images/media/player/cutout/jf6st71762288533.png/small",
     "jarell quansah": "https://r2.thesportsdb.com/images/media/player/cutout/wfep8o1756316392.png/small",
-    "said el mala": "",
     "hermann malonga": "",
     "lacine megnan pave": "",
     "dastan satpayev": "",
-    "heaven kilwa": ""
+    "heaven kilwa": "",
+    "said el mala": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

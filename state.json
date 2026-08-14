@@ -1,6 +1,5 @@
 {
   "sent": [
-    "3cb1f1c62d207a63456a83635280ccf8",
     "d07436b718acfd283de0084e74562ac8",
     "d07806c0e239f0b8cb142e1fb1f53f38",
     "71f9716881c569d2b865ce6eeb7d92a1",
@@ -1499,7 +1498,8 @@
     "fdd87d285f1c1c26f987be907cfbe4ea",
     "2e2188cce23355d75f3c443e418feaa8",
     "487661ef59104d8b5351965ef796390e",
-    "91d99229d511883292c57f9213ffc7db"
+    "91d99229d511883292c57f9213ffc7db",
+    "tg:FabrizioRomanoTG/64608"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1892,7 +1892,6 @@
     "interest: quansah -> arsenal"
   ],
   "titles": [
-    "juventus continues to work behind the scenes to sign parma man on loan",
     "fabrizio romano hints at life beyond football transfer news: is the \u2018here we go\u2019",
     "\ud83d\udea8 \ud83d\udfe1 \ud83d\udd34 as roma and porto have been in contact all night for rodrigo mora deal at ",
     "transfer: lukaku\u2019s next club confirmed",
@@ -2191,7 +2190,8 @@
     "man city help lens find abdukodir khusanov replacement, with",
     "transfer news live! mudryk set for chelsea medical; new arsenal",
     "report: manchester united agree personal terms with chelsea",
-    "liverpool news: bradley barcola update issued as psg transfer ruled out after ag"
+    "liverpool news: bradley barcola update issued as psg transfer ruled out after ag",
+    "\ud83d\udea8 \ud83d\udd35 chelsea have not received any official bid for enzo fernandez \u2014 as their own"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2471,12 +2471,12 @@
     "thomas kristensen": "https://images.fotmob.com/image_resources/playerimages/1190029.png",
     "marc pubill": "https://r2.thesportsdb.com/images/media/player/cutout/jf6st71762288533.png/small",
     "jarell quansah": "https://r2.thesportsdb.com/images/media/player/cutout/wfep8o1756316392.png/small",
-    "said el mala": "",
     "hermann malonga": "",
     "lacine megnan pave": "",
-    "heaven kilwa": ""
+    "heaven kilwa": "",
+    "said el mala": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

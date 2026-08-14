@@ -1,9 +1,5 @@
 {
   "sent": [
-    "bee978cc19a85515ae1f4d36d590773d",
-    "8bc7549c147429724c6e8e5007c443fa",
-    "tg:FabrizioRomanoTG/63900",
-    "62797b956bbfb44dbe31c7f0c23e6352",
     "52d778492006fa5cbc1a850ba6fe0d2f",
     "tg:FabrizioRomanoTG/63901",
     "2d3978b6c0faf1e69c3735c33104a45c",
@@ -1499,7 +1495,11 @@
     "d115fee849993e8885019854112bb785",
     "5a8cf860e1a4af2a25f47e76df76e2ce",
     "54fed984c2e5824c0fc8216a05b50d2b",
-    "8546726c2c051f8296910e565667a86e"
+    "8546726c2c051f8296910e565667a86e",
+    "fc957074a27412a5e81542c65d9d7ad7",
+    "ffc37db795e0401f923f8d1bdb49b4b2",
+    "c749a26e59c992be42c4f9ade2df88c4",
+    "dc873418d554a7aec9ddeceef67ecdc3"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1890,9 +1890,6 @@
     "interest: zirkzee -> juventus"
   ],
   "titles": [
-    "\ud83d\udea8 \u26ab\ufe0f \u26aa\ufe0f breaking: dusan vlahovic and his camp gave initial green light to besikt",
-    "rt @fabrizioromano : \ud83d\udea8 \u26ab\ufe0f \u26aa\ufe0f breaking: dusan vlahovic and his camp gave initial ",
-    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f rc strasbourg have agreed on deal to sign hermann malonga after he left p",
     "\ud83d\udea8 \ud83c\udde6\ud83c\uddf7 enzo maresca would love to reunite with enzo fernandez at manchester city s",
     "transfer news live: arsenal want yildiz, barcola hijack; chelsea done deal; man ",
     "romano reveals man utd decision on priority next signing as barcelona target \u2018of",
@@ -2189,7 +2186,10 @@
     "liverpool told $138m 'not enough' to secure bradley barcola as 'big package' nee",
     "martinelli and zubimendi to be sold?: latest transfer stories and rumours",
     "transfer updates: martinelli, zubimendi, dedi, barcola, jones, others",
-    "nkunku back on roma radar at \u20ac30m, milan put ex chelsea striker for sale"
+    "nkunku back on roma radar at \u20ac30m, milan put ex chelsea striker for sale",
+    "paving the way for bouadi: city agree to their player's move to al qadsiah",
+    "what next for barcelona and manchester city for rodri?",
+    "chelsea braced for enzo fernandez bid as man city 'near agreement' for \u00a360m tran"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2468,12 +2468,12 @@
     "romeo lavia": "https://r2.thesportsdb.com/images/media/player/cutout/g8wl2r1757003714.png/small",
     "thomas kristensen": "https://images.fotmob.com/image_resources/playerimages/1190029.png",
     "marc pubill": "https://r2.thesportsdb.com/images/media/player/cutout/jf6st71762288533.png/small",
-    "said el mala": "",
     "hermann malonga": "",
     "lacine megnan pave": "",
-    "heaven kilwa": ""
+    "heaven kilwa": "",
+    "said el mala": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

@@ -1,8 +1,5 @@
 {
   "sent": [
-    "7dc9053c8babdb600d82a18d862a12ec",
-    "9ea9f77b0f427a1e5fea5a32cc60ac88",
-    "e435610c7264a5d43409a74dc416157c",
     "30dce4162fe53bee95f3665a0cb02def",
     "25dcdad582144a46a704d47435931ab9",
     "616d4fa087a01ae7a35ff59db1036955",
@@ -1499,7 +1496,10 @@
     "2cc5aa695c25d091dd8d0ab94ffd817e",
     "728862e71a755ec8fe84eecbb45d4c68",
     "dc0870303fef4cdc29fbdeacbc0c5c0e",
-    "tg:FabrizioRomanoTG/64624"
+    "tg:FabrizioRomanoTG/64624",
+    "2f801373980cfa3b541c7e0f4776d8a1",
+    "be02042e8260c0e6a5210cb78c1d296a",
+    "b92adb2b981f5a4a1e9260b32d6a0734"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1894,8 +1894,6 @@
     "interest: charris -> barcelona"
   ],
   "titles": [
-    "\ud83d\udea8 \u26ab\ufe0f \ud83d\udd35 djed spence to inter, here we go! verbal agreement in place now with tott",
-    "\ud83d\udea8 \ud83d\udfe1 \ud83d\udd35 excl: fenerbahce agree to sell egyptian defender omar fayed to frosinone d",
     "rt @fabrizioromano : \ud83d\udea8 \u26ab\ufe0f \ud83d\udd35 djed spence to inter, here we go! verbal agreement i",
     "airport vision confirms gun\u2019s move to unlock ucl goal; key step in prodigy\u2019s pl ",
     "\ud83d\udea8 \ud83d\udfe1 \ud83d\udd35 official, confirmed romelu lukaku joins fenerbahce from napoli for fee in ",
@@ -2193,7 +2191,9 @@
     "enzo fernandez day: chelsea hold firm on \u00a3120m fee as manchester city face decis",
     "arsenal \u2018in talks\u2019 to sign ex liverpool star as gunners must pay \u2018considerably m",
     "fabrizio romano provides barcelona transfer update which could impact arsenal",
-    "\ud83d\udea8 \u2764\ufe0f \ud83e\udd0d mikel arteta confirms plan to sign new deal at arsenal: \u201ci don't have to "
+    "\ud83d\udea8 \u2764\ufe0f \ud83e\udd0d mikel arteta confirms plan to sign new deal at arsenal: \u201ci don't have to ",
+    "'already over' fabrizio romano makes bizarre newcastle united transfer claim aft",
+    "after ferran torres: paris seal a new deal"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2473,14 +2473,14 @@
     "thomas kristensen": "https://images.fotmob.com/image_resources/playerimages/1190029.png",
     "marc pubill": "https://r2.thesportsdb.com/images/media/player/cutout/jf6st71762288533.png/small",
     "jarell quansah": "https://r2.thesportsdb.com/images/media/player/cutout/wfep8o1756316392.png/small",
-    "lacine megnan pave": "",
     "dastan satpayev": "",
     "heaven kilwa": "",
     "luis javier suarez charris": "https://r2.thesportsdb.com/images/media/player/cutout/lnqj5l1762290563.png/small",
     "said el mala": "",
-    "hermann malonga": ""
+    "hermann malonga": "",
+    "lacine megnan pave": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 5,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

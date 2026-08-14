@@ -1,7 +1,5 @@
 {
   "sent": [
-    "26a189eaaf8bd7a8faac52aba98e23ec",
-    "71fffc502ed9619413cd607d9c50b386",
     "830868a5669c3977555d4d9611a216f1",
     "cc64b38cd231f4cd054098a3f349c473",
     "5d826947d2f494a4e5306d3f95c7b7c3",
@@ -1499,7 +1497,9 @@
     "tg:FabrizioRomanoTG/64613",
     "tg:FabrizioRomanoTG/64615",
     "178564bc46d25d1b0757a9d69b97be59",
-    "92eac8c627ffe1c1ef039d6292c1cece"
+    "92eac8c627ffe1c1ef039d6292c1cece",
+    "9fa1059679c3dfcee91c4b9a206996e6",
+    "tg:FabrizioRomanoTG/64617"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1713,7 +1713,8 @@
     "reijnders -> al qadsiah": 1,
     "badiashile -> napoli": 1,
     "lucumi -> juventus": 1,
-    "godts -> psg": 1
+    "godts -> psg": 1,
+    "satpayev -> burnley": 1
   },
   "interest": [
     "interest: alvarez -> arsenal",
@@ -1892,8 +1893,6 @@
     "interest: quansah -> arsenal"
   ],
   "titles": [
-    "man city transfer news: fabrizio romano confirms 'verbal agreement' for exit of ",
-    "pogba injured again as monaco comeback suffers fresh blow",
     "barcelona give arsenal the green light to sign \u20ac55m player arteta will love",
     "arsenal transfer news: \u00a347m valued vinicius junior alternative 'responds' to 'bi",
     "latest: psg and barcelona agree \u20ac55m deal for attacker who could sign this frida",
@@ -2191,7 +2190,9 @@
     "\ud83d\udd34 \u26aa\ufe0f \u270d\ud83c\udffc cuti romero has just completed his medical at atletico madrid signature ",
     "rt @fabrizioromano : \ud83d\udd34 \u26aa\ufe0f \u270d\ud83c\udffc cuti romero has just completed his medical at atlet",
     "liverpool latest: bradley barcola boost as decision made after ibrahim mbaye tal",
-    "this exorbitant amount is what netherlands international tijjani reijnders will "
+    "this exorbitant amount is what netherlands international tijjani reijnders will ",
+    "transfer news live: arsenal done deal, osimhen twist; fernandez deadline; chelse",
+    "\ud83d\udea8 \ud83c\uddf0\ud83c\uddff dastan satpayev to burnley on loan, here we go! loan deal agreed for the ta"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2474,9 +2475,10 @@
     "lacine megnan pave": "",
     "heaven kilwa": "",
     "said el mala": "",
+    "dastan satpayev": "",
     "hermann malonga": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

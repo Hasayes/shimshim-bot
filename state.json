@@ -1,7 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/63898",
-    "5b91c5d15bc8fd7997a4c1d03db21b82",
     "bee978cc19a85515ae1f4d36d590773d",
     "8bc7549c147429724c6e8e5007c443fa",
     "tg:FabrizioRomanoTG/63900",
@@ -1499,7 +1497,9 @@
     "d73d7756fb7187b7f9f77bf7658224b4",
     "726b48ca3d9eb68aa47d9b5a3b11e54b",
     "d115fee849993e8885019854112bb785",
-    "5a8cf860e1a4af2a25f47e76df76e2ce"
+    "5a8cf860e1a4af2a25f47e76df76e2ce",
+    "54fed984c2e5824c0fc8216a05b50d2b",
+    "8546726c2c051f8296910e565667a86e"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1890,7 +1890,6 @@
     "interest: zirkzee -> juventus"
   ],
   "titles": [
-    "here we go! \ud83d\udea8 10 cars headed to 10 winners with @alrajhibank \u2018million savings ac",
     "\ud83d\udea8 \u26ab\ufe0f \u26aa\ufe0f breaking: dusan vlahovic and his camp gave initial green light to besikt",
     "rt @fabrizioromano : \ud83d\udea8 \u26ab\ufe0f \u26aa\ufe0f breaking: dusan vlahovic and his camp gave initial ",
     "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f rc strasbourg have agreed on deal to sign hermann malonga after he left p",
@@ -2189,7 +2188,8 @@
     "man utd reach decision on signing psg star ibrahim mbaye after liverpool cool in",
     "liverpool told $138m 'not enough' to secure bradley barcola as 'big package' nee",
     "martinelli and zubimendi to be sold?: latest transfer stories and rumours",
-    "transfer updates: martinelli, zubimendi, dedi, barcola, jones, others"
+    "transfer updates: martinelli, zubimendi, dedi, barcola, jones, others",
+    "nkunku back on roma radar at \u20ac30m, milan put ex chelsea striker for sale"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2468,12 +2468,12 @@
     "romeo lavia": "https://r2.thesportsdb.com/images/media/player/cutout/g8wl2r1757003714.png/small",
     "thomas kristensen": "https://images.fotmob.com/image_resources/playerimages/1190029.png",
     "marc pubill": "https://r2.thesportsdb.com/images/media/player/cutout/jf6st71762288533.png/small",
-    "heaven kilwa": "",
     "said el mala": "",
     "hermann malonga": "",
-    "lacine megnan pave": ""
+    "lacine megnan pave": "",
+    "heaven kilwa": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

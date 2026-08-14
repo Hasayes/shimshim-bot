@@ -1,6 +1,5 @@
 {
   "sent": [
-    "28bb5a374c8faa0482af49369eab8588",
     "6d01596823c868ea890be085fcd9a5e4",
     "3cb1f1c62d207a63456a83635280ccf8",
     "d07436b718acfd283de0084e74562ac8",
@@ -1499,7 +1498,8 @@
     "e5b585025c52c846f7cfa8d6da579370",
     "tg:FabrizioRomanoTG/64598",
     "fdd87d285f1c1c26f987be907cfbe4ea",
-    "2e2188cce23355d75f3c443e418feaa8"
+    "2e2188cce23355d75f3c443e418feaa8",
+    "487661ef59104d8b5351965ef796390e"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1892,7 +1892,6 @@
     "interest: quansah -> arsenal"
   ],
   "titles": [
-    "liverpool transfer news: when will ifeanyi ndukwe 'leave' on loan amid portugal ",
     "done deal: kristensen ready for atalanta at \u20ac22m plus bonus",
     "juventus continues to work behind the scenes to sign parma man on loan",
     "fabrizio romano hints at life beyond football transfer news: is the \u2018here we go\u2019",
@@ -2191,7 +2190,8 @@
     "arsenal open osimhen talks as gala reject al hilal offer",
     "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f exclusive: como have made initial approach for liam delap as new striker ",
     "man city help lens find abdukodir khusanov replacement, with",
-    "transfer news live! mudryk set for chelsea medical; new arsenal"
+    "transfer news live! mudryk set for chelsea medical; new arsenal",
+    "report: manchester united agree personal terms with chelsea"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2471,12 +2471,12 @@
     "thomas kristensen": "https://images.fotmob.com/image_resources/playerimages/1190029.png",
     "marc pubill": "https://r2.thesportsdb.com/images/media/player/cutout/jf6st71762288533.png/small",
     "jarell quansah": "https://r2.thesportsdb.com/images/media/player/cutout/wfep8o1756316392.png/small",
-    "lacine megnan pave": "",
     "heaven kilwa": "",
     "said el mala": "",
-    "hermann malonga": ""
+    "hermann malonga": "",
+    "lacine megnan pave": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

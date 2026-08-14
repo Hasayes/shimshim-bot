@@ -1,6 +1,5 @@
 {
   "sent": [
-    "602f48ca47e1ac3615de1980f8ca739e",
     "49ac040a40fd51c0741ae5dfa5cc3462",
     "e9a42f9600045dba4a6d35a344f5bfe2",
     "b7541f8b96642fc0bdd392a32afdc61b",
@@ -1499,7 +1498,8 @@
     "dc873418d554a7aec9ddeceef67ecdc3",
     "4855522fb422519fd7218c105c737718",
     "a6e744c39305774147116c1635b16816",
-    "5f26d11a59fbec338b9116ef61fcf493"
+    "5f26d11a59fbec338b9116ef61fcf493",
+    "9a5061f7819cdc64aa950aaa799d900e"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1890,7 +1890,6 @@
     "interest: zirkzee -> juventus"
   ],
   "titles": [
-    "tottenham transfer news: fabrizio romano reveals spurs star 'keen' on \u00a334m exit ",
     "transfer news live: liverpool agree barcola terms, man city close in on rodri re",
     "romano confirms barcelona target likened to sergio ramos has been offered to man",
     "\ud83d\udea8 \u26ab\ufe0f \u26aa\ufe0f juventus have reached full agreement on personal terms with jhon lucumi ",
@@ -2189,7 +2188,8 @@
     "chelsea braced for enzo fernandez bid as man city 'near agreement' for \u00a360m tran",
     "spence set for inter medical after tottenham deal agreed",
     "coventry city get green light after fikayo tomori transfer meeting as southampto",
-    "manchester city submit 120m offer for enzo fernandez in wrong currency or not at"
+    "manchester city submit 120m offer for enzo fernandez in wrong currency or not at",
+    "galatasaray await arsenal response after martinelli bid euro transfer news"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2468,12 +2468,12 @@
     "romeo lavia": "https://r2.thesportsdb.com/images/media/player/cutout/g8wl2r1757003714.png/small",
     "thomas kristensen": "https://images.fotmob.com/image_resources/playerimages/1190029.png",
     "marc pubill": "https://r2.thesportsdb.com/images/media/player/cutout/jf6st71762288533.png/small",
-    "said el mala": "",
     "hermann malonga": "",
     "lacine megnan pave": "",
-    "heaven kilwa": ""
+    "heaven kilwa": "",
+    "said el mala": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

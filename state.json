@@ -1,7 +1,5 @@
 {
   "sent": [
-    "22249d4c79f227d56ab00ec1d580d3f5",
-    "6d8f64c82d5cc7be1efb626148f94f3e",
     "2a392dd4d71b877089153e84baaab49a",
     "tg:FabrizioRomanoTG/63929",
     "tg:FabrizioRomanoTG/63930",
@@ -1499,7 +1497,9 @@
     "cdd28dd3cf67bd79f216143906b36085",
     "ebc7b9084204f3842d718d25b1dac8e9",
     "02cc93906f636ac1dfa58ffd7f018ba5",
-    "fe41b194c67a7b7fa5e312fd02e55289"
+    "fe41b194c67a7b7fa5e312fd02e55289",
+    "17b50198fe175e30ab25afadf40e98cc",
+    "tg:FabrizioRomanoTG/64595"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1712,7 +1712,8 @@
     "kilwa -> manchester city": 1,
     "reijnders -> al qadsiah": 1,
     "badiashile -> napoli": 1,
-    "lucumi -> juventus": 1
+    "lucumi -> juventus": 1,
+    "godts -> psg": 1
   },
   "interest": [
     "interest: alvarez -> arsenal",
@@ -1891,8 +1892,6 @@
     "interest: quansah -> arsenal"
   ],
   "titles": [
-    "bayern munich still seeking \u20ac30 million from aston villa, newcastle united for j",
-    "romano says \u201cnegotiations are underway\u201d for defender to leave chelsea for serie ",
     "report: inter milan, spurs in talks over djed spence sale",
     "\ud83d\udea8 \ud83d\udfe1 \ud83d\udd34 as roma are closing in on rodrigo mora deal at late night with porto \ud83c\uddf5\ud83c\uddf9 ve",
     "virgil van dijk reveals ifeanyi ndukwe talks and hopes for jeremy jacquet this i",
@@ -2190,7 +2189,9 @@
     "brazilian sources spinning it that spurs have gone all in with a reported \u00a385m b",
     "a young midfield gem has committed his future to manchester city",
     "psg nears \u20ac58m deal and final talks expected friday",
-    "video: spence arrives to begin inter adventure from tottenham"
+    "video: spence arrives to begin inter adventure from tottenham",
+    "blow for manchester city and chelsea as father of transfer target breaks silence",
+    "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 breaking: paris saint germain reach verbal agreement with ajax for mika go"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2470,12 +2471,12 @@
     "thomas kristensen": "https://images.fotmob.com/image_resources/playerimages/1190029.png",
     "marc pubill": "https://r2.thesportsdb.com/images/media/player/cutout/jf6st71762288533.png/small",
     "jarell quansah": "https://r2.thesportsdb.com/images/media/player/cutout/wfep8o1756316392.png/small",
-    "heaven kilwa": "",
     "said el mala": "",
     "hermann malonga": "",
-    "lacine megnan pave": ""
+    "lacine megnan pave": "",
+    "heaven kilwa": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

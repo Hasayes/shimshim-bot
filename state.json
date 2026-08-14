@@ -1,6 +1,5 @@
 {
   "sent": [
-    "777a95104e3b1e5d3ee5138bb4606027",
     "eae390583691b40646c3bcace3951b76",
     "58a337fa9b1bb8a60c550f91669d31b5",
     "24c32cbb2181b335102a11aaeb3e6f77",
@@ -1499,7 +1498,8 @@
     "d7038b831ae108333b3529d322248df6",
     "ebeaca0b0073831787880e8cb431e669",
     "a9e0ea34f1534cdf21ffc165ba5e601b",
-    "3bc776fae4ebb4a44b78e823484a2d6a"
+    "3bc776fae4ebb4a44b78e823484a2d6a",
+    "6b2796ddc7dc15dff8612edc936cab10"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1889,7 +1889,6 @@
     "interest: konsa -> arsenal"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f napoli have agreed deal to sign costantini favasuli as new right back, he",
     "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f giovanni di lorenzo has verbally agreed to sign new contract at napoli un",
     "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f verbal agreement in place between sheffield united and manchester city fo",
     "\ud83d\udea8 \u26ab\ufe0f \ud83d\udd35 excl: inter are set for club to club talks with spurs for djed spence wit",
@@ -2188,7 +2187,8 @@
     "transfer updates: martinelli, zubimendi, dedic, barcola, jones, others",
     "\u2018very happy\u2019 \u2013 psg president nasser al khelaifi reveals whether he wants to repl",
     "man utd make contact for psg signing as liverpool step aside",
-    "galatasaray reject \u20ac130m approach for osimhen while launching \u20ac45m martinelli pu"
+    "galatasaray reject \u20ac130m approach for osimhen while launching \u20ac45m martinelli pu",
+    "napoli close in on gabriel jesus: new contacts with arsenal"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2467,12 +2467,12 @@
     "romeo lavia": "https://r2.thesportsdb.com/images/media/player/cutout/g8wl2r1757003714.png/small",
     "thomas kristensen": "https://images.fotmob.com/image_resources/playerimages/1190029.png",
     "marc pubill": "https://r2.thesportsdb.com/images/media/player/cutout/jf6st71762288533.png/small",
-    "hermann malonga": "",
     "lacine megnan pave": "",
     "heaven kilwa": "",
-    "said el mala": ""
+    "said el mala": "",
+    "hermann malonga": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

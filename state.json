@@ -1,7 +1,5 @@
 {
   "sent": [
-    "9ed440313c0a9e1fd7459f0411c2ad1d",
-    "51de0927f55758390f52fdfef11f4a0d",
     "0a94a2fb9a16bca3a3606fe6237928d9",
     "412157604aaf7fd452e68590f72f0eef",
     "454e9c3c0ffaaaccac5c60ed26bacc05",
@@ -1499,7 +1497,9 @@
     "51d69eb1920863a319b81c97d9d10493",
     "tg:FabrizioRomanoTG/64588",
     "tg:FabrizioRomanoTG/64590",
-    "tg:FabrizioRomanoTG/64592"
+    "tg:FabrizioRomanoTG/64592",
+    "d35ad97c91334019ea381e6c97ed79c7",
+    "cdd28dd3cf67bd79f216143906b36085"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1891,8 +1891,6 @@
     "interest: quansah -> arsenal"
   ],
   "titles": [
-    "\u201chere we go\u201d \u2013 psg \u20ac35m transfer confirmed by fabrizio romano; loan could follow",
-    "nottingham forest transfer news: ousmane diomande saga ends as ivory coast inter",
     "\ud83d\udcfa new youtube video uploaded! \ud83c\udfac \ud83d\udea8 \ud83d\udca3 deadline! here we go coming! lautaro, enzo, ",
     "fenerbahce secure deal for lukaku transfer from napoli",
     "bayern munich still seeking \u20ac30 million from aston villa, newcastle united for j",
@@ -2190,7 +2188,9 @@
     "man united pursue liverpool target after reds crumble as german striker a possib",
     "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f arsenal made contact with jarell quansah\u2019s camp over possible move this w",
     "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f understand jhon lucumi will fly to turin tomorrow, saturday to complete ",
-    "\ud83d\udea8 \ud83c\uddf8\ud83c\udde6 exclusive story on reijnders to al qadsiah, confirmed by enzo maresca \u201cwhen"
+    "\ud83d\udea8 \ud83c\uddf8\ud83c\udde6 exclusive story on reijnders to al qadsiah, confirmed by enzo maresca \u201cwhen",
+    "brazilian sources spinning it that spurs have gone all in with a reported \u00a385m b",
+    "a young midfield gem has committed his future to manchester city"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2469,13 +2469,13 @@
     "romeo lavia": "https://r2.thesportsdb.com/images/media/player/cutout/g8wl2r1757003714.png/small",
     "thomas kristensen": "https://images.fotmob.com/image_resources/playerimages/1190029.png",
     "marc pubill": "https://r2.thesportsdb.com/images/media/player/cutout/jf6st71762288533.png/small",
-    "hermann malonga": "",
     "lacine megnan pave": "",
     "jarell quansah": "https://r2.thesportsdb.com/images/media/player/cutout/wfep8o1756316392.png/small",
     "heaven kilwa": "",
-    "said el mala": ""
+    "said el mala": "",
+    "hermann malonga": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

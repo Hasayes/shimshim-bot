@@ -1,7 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/63904",
-    "0bdd7dd8943030f1d93a0e5aa3c0ae57",
     "tg:FabrizioRomanoTG/63906",
     "tg:FabrizioRomanoTG/63907",
     "bf4de06132a33a8f49f250ce314c22e8",
@@ -1499,7 +1497,9 @@
     "b68e4dd40c82a2bc7f4e7c4f857c41d4",
     "tg:FabrizioRomanoTG/64577",
     "edb84dfbf87c687e634cf77195a0a299",
-    "617aa121631da2df4534aea1f471a1e3"
+    "617aa121631da2df4534aea1f471a1e3",
+    "182e35a2843d3c1d67122615e9be6396",
+    "5cf7bfca0879d3321dc428af7e3b301e"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1890,8 +1890,6 @@
     "interest: zirkzee -> juventus"
   ],
   "titles": [
-    "\ud83d\udcfa new youtube video uploaded! \ud83c\udfac \ud83d\udea8 \ud83d\udca3 enzo bomba! lewis skelly: united chelsea tru",
-    "liverpool news: \u00a347m ace signs for reds as andoni iraola gets huge transfer 'app",
     "romano confirms tottenham to receive major bid for player who is \u2018keen on the mo",
     "\ud83d\udea8 \u26ab\ufe0f \ud83d\udd35 inter official bid for djed spence will be sent this week, decision will ",
     "\ud83d\udea8 \ud83d\udfe1 \ud83d\udd34 as roma have sent new official bid to fc porto tonight to seal rodrigo mor",
@@ -2189,7 +2187,9 @@
     "galatasaray await arsenal response after martinelli bid euro transfer news",
     "tottenham table \u00a385m bid to sign man city star savinho",
     "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 crystal palace complete all formal steps for anan khalaili deal with union",
-    "done deal: badiashile ready for napoli on loan with \u20ac27m option to buy from chel"
+    "done deal: badiashile ready for napoli on loan with \u20ac27m option to buy from chel",
+    "the deal is done: argentina star undergoes medical in madrid",
+    "here we go: barcelona reach agreement with psg for \u20ac50 million transfer of ferra"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2468,12 +2468,12 @@
     "romeo lavia": "https://r2.thesportsdb.com/images/media/player/cutout/g8wl2r1757003714.png/small",
     "thomas kristensen": "https://images.fotmob.com/image_resources/playerimages/1190029.png",
     "marc pubill": "https://r2.thesportsdb.com/images/media/player/cutout/jf6st71762288533.png/small",
-    "heaven kilwa": "",
     "said el mala": "",
     "hermann malonga": "",
-    "lacine megnan pave": ""
+    "lacine megnan pave": "",
+    "heaven kilwa": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

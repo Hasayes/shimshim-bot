@@ -1,10 +1,5 @@
 {
   "sent": [
-    "b440f39e89722b1af6276e834b771a1a",
-    "b429600a6705b24c5361b54a4d369a18",
-    "be4c585f1bc5583f3a484dd300051304",
-    "78f8b66ad7c1db32e419cbffe4326489",
-    "tg:FabrizioRomanoTG/63936",
     "8dc5e2257486ea6bc66e7efe3adbb2fa",
     "tg:FabrizioRomanoTG/63938",
     "cc4375a381e5ba258b08d751d4317c19",
@@ -1499,7 +1494,12 @@
     "c518e345645bb9818db8077a0d5d75ca",
     "fa34f7e92b104f823dd22e43135cccfc",
     "ef2369274e64470c76a143cd7e1ab8f6",
-    "a39e25165c2b79a5789523b9cd385a97"
+    "a39e25165c2b79a5789523b9cd385a97",
+    "36b0914eb2537096ff7b1f39132b27a8",
+    "fa17e4e2fc1b6281d08df9a9c37c6255",
+    "d610a34986c864f5d8757d7816c9fa50",
+    "a5bc9ff0f59533c346f482b1cc46a003",
+    "5854c0a29bab00649047f0fbd36783f5"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1893,14 +1893,12 @@
     "interest: quansah -> arsenal",
     "interest: charris -> barcelona",
     "interest: jae -> manchester united",
-    "interest: suarez -> barcelona"
+    "interest: suarez -> barcelona",
+    "interest: neto -> tottenham",
+    "interest: neto -> manchester city",
+    "interest: neto -> arsenal"
   ],
   "titles": [
-    "man united consider \u00a330m bid for left back on radar of arsenal & aston villa",
-    "next arsenal transfer target named as romano reveals truth on kounde to gunners",
-    "liverpool stunned as man city shortlist top reds star and romano confirms signin",
-    "arsenal yet to make any concrete advances to sign barcelona defender despite int",
-    "aston villa agree \u20ac26 5m deal to sign ruggeri from atletico madrid",
     "only minor details left to agree for tottenham defender\u2019s move to la liga",
     "inter reshape chivu\u2019s squad as roma, lazio and tottenham talks accelerate",
     "fabrizio romano denies rumours of barcelona being interested in argentine intern",
@@ -2195,7 +2193,12 @@
     "arsenal hold talks over osimhen deal",
     "leao and seven other unwanted milan players left out of squad for man united",
     "romano confirms medical for \u20ac50m psg signing in the coming days",
-    "barcelona consider \u20ac80m sporting star as julian alvarez alternative"
+    "barcelona consider \u20ac80m sporting star as julian alvarez alternative",
+    "'deal is on' romano confirms new liverpool talks to sign bradley barcola",
+    "borussia dortmund end said el mala pursuit after fourth bid is rejected",
+    "tottenham join race to sign \u00a370m chelsea star ahead of manchester city",
+    "barcelona tip luis suarez as replacement if julian alvarez move fails",
+    "borussia dortmund exits race for said el mala \u2014 at least for now"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2476,15 +2479,15 @@
     "marc pubill": "https://r2.thesportsdb.com/images/media/player/cutout/jf6st71762288533.png/small",
     "jarell quansah": "https://r2.thesportsdb.com/images/media/player/cutout/wfep8o1756316392.png/small",
     "luis javier suarez charris": "https://r2.thesportsdb.com/images/media/player/cutout/lnqj5l1762290563.png/small",
-    "lacine megnan pave": "",
     "dastan satpayev": "",
     "kim min jae": "https://r2.thesportsdb.com/images/media/player/cutout/m4uh701756408877.png/small",
     "heaven kilwa": "",
     "said el mala": "",
     "luis suarez": "https://r2.thesportsdb.com/images/media/player/cutout/vfjd0w1750315193.png/small",
-    "hermann malonga": ""
+    "hermann malonga": "",
+    "lacine megnan pave": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 5,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

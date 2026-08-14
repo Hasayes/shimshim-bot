@@ -1,5 +1,25 @@
 [
  {
+  "id": "b17af6802e74c5f10ed5bb89d119e257",
+  "ts": "2026-08-14T23:31:38+00:00",
+  "kind": "interest",
+  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/g63rmf1757003837.png/small",
+  "stage": "\u2014",
+  "player": "Pedro Neto",
+  "position": "Right winger",
+  "age": "25",
+  "from_club": "Chelsea",
+  "to_club": "Manchester City, Tottenham Hotspur, Arsenal",
+  "fee": "\u00a370m\u2013\u00a375m",
+  "style": "A direct, pacey winger who excels at carrying the ball at defenders, creating chances through dribbling and quick combination play on either flank.",
+  "fit": "His ability to stretch defences and operate across the front line gives Tottenham or City immediate width and creativity, fitting high-tempo, possession-based systems.",
+  "source": "Fabrizio Romano",
+  "summary": "Tottenham have joined Manchester City and Arsenal in the race to sign Chelsea winger Pedro Neto, with Spurs' interest reported by Fabrizio Romano as a conditional fallback should their pursuit of Savinho collapse. Chelsea are open to selling at around \u00a370m\u2013\u00a375m, though no agreement is close.",
+  "outlet": "metro",
+  "url": "https://metro.co.uk/2026/08/14/tottenham-join-race-sign-70m-chelsea-star-ahead-man-city-29377090/",
+  "title": "Tottenham join race to sign \u00a370m Chelsea star ahead of Manchester City"
+ },
+ {
   "id": "a39e25165c2b79a5789523b9cd385a97",
   "ts": "2026-08-14T23:16:21+00:00",
   "kind": "interest",
@@ -278,26 +298,6 @@
   "outlet": "football-italia",
   "url": "https://football-italia.net/video-kristensen-arrives-for-atalanta-medical/",
   "title": "Video: Kristensen arrives for Atalanta medical, agreement \u20ac22m plus bonus"
- },
- {
-  "id": "b17af6802e74c5f10ed5bb89d119e257",
-  "ts": "2026-08-12T23:15:47+00:00",
-  "kind": "interest",
-  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/g63rmf1757003837.png/small",
-  "stage": "\u2014",
-  "player": "Pedro Neto",
-  "position": "winger",
-  "age": "\u2014",
-  "from_club": "Chelsea",
-  "to_club": "Manchester City",
-  "fee": "\u2014",
-  "style": "\u2014",
-  "fit": "\u2014",
-  "source": "yahoo",
-  "summary": "Manchester City has made offers for Chelsea winger Pedro Neto, but a significant gap remains between the clubs' asking price and City's bids.",
-  "outlet": "yahoo",
-  "url": "https://sports.yahoo.com/articles/chelsea-man-city-deal-rocks-110500998.html",
-  "title": "Chelsea and Man City deal on the rocks over \u201csignificant gap\u201d between asking price and offer"
  },
  {
   "id": "9ee5f5a8b8824bb712178e6509fc7ddf",

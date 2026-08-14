@@ -1,6 +1,5 @@
 {
   "sent": [
-    "f8c4a56119bcd3f0d03ee0083c49de0f",
     "f02728fa41fe561f70529ef91aa57222",
     "5ee8c3fcde861e898ef334fb668d657a",
     "891ad0832a991839888d4b51617b09ae",
@@ -1499,7 +1498,8 @@
     "43b701f8b5134619ab19e0ff328ca83e",
     "9b869df7426ae154765612370f79e9b6",
     "fb015d77c8d0fe3e6e22677f0f6e1675",
-    "tg:FabrizioRomanoTG/64582"
+    "tg:FabrizioRomanoTG/64582",
+    "b2d17c28527d9ddb57d2fd2fd7f5ad57"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2468,12 +2468,12 @@
     "romeo lavia": "https://r2.thesportsdb.com/images/media/player/cutout/g8wl2r1757003714.png/small",
     "thomas kristensen": "https://images.fotmob.com/image_resources/playerimages/1190029.png",
     "marc pubill": "https://r2.thesportsdb.com/images/media/player/cutout/jf6st71762288533.png/small",
-    "hermann malonga": "",
     "lacine megnan pave": "",
     "heaven kilwa": "",
-    "said el mala": ""
+    "said el mala": "",
+    "hermann malonga": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

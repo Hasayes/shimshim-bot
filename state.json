@@ -1,10 +1,5 @@
 {
   "sent": [
-    "eae390583691b40646c3bcace3951b76",
-    "58a337fa9b1bb8a60c550f91669d31b5",
-    "24c32cbb2181b335102a11aaeb3e6f77",
-    "08f82c7b8f3f99ec88be1d58442e3d64",
-    "254eefc4fd242e5913eebba7e1be6fea",
     "tg:FabrizioRomanoTG/63892",
     "41c0522460b7b691d0a559c6899c6602",
     "tg:FabrizioRomanoTG/63894",
@@ -1499,7 +1494,12 @@
     "ebeaca0b0073831787880e8cb431e669",
     "a9e0ea34f1534cdf21ffc165ba5e601b",
     "3bc776fae4ebb4a44b78e823484a2d6a",
-    "6b2796ddc7dc15dff8612edc936cab10"
+    "6b2796ddc7dc15dff8612edc936cab10",
+    "70bfb3ec5cc69081b901e6143c1095f9",
+    "61da7a7c13980609897b31f3998c6607",
+    "8e677f81e08bc982cae662cbaa8d3439",
+    "3dbdb941033a33722c229231ec5a5273",
+    "46ee803878925a02067fe34bcb55019c"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1886,14 +1886,10 @@
     "interest: mala -> borussia dortmund",
     "interest: neto -> manchester city",
     "interest: pubill -> arsenal",
-    "interest: konsa -> arsenal"
+    "interest: konsa -> arsenal",
+    "interest: zirkzee -> juventus"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f giovanni di lorenzo has verbally agreed to sign new contract at napoli un",
-    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f verbal agreement in place between sheffield united and manchester city fo",
-    "\ud83d\udea8 \u26ab\ufe0f \ud83d\udd35 excl: inter are set for club to club talks with spurs for djed spence wit",
-    "\ud83d\udea8 \u26ab\ufe0f \ud83d\udd35 thomas kristensen to atalanta, here we go! verbal agreement in place on l",
-    "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f besiktas have sent their final proposal to dusan vlahovic and his camp t",
     "\ud83d\udea8 \ud83d\udfe2 \u26ab\ufe0f rafael obrador to sassuolo, here we go! deal in place for left back to jo",
     "rt @fabrizioromano : \ud83d\udea8 \ud83d\udfe0 \u26ab\ufe0f lucas herrington has completed medical tests today a",
     "\ud83d\udea8 official: barcelona confirm roony bardghji has torn his acl and will now under",
@@ -2188,7 +2184,12 @@
     "\u2018very happy\u2019 \u2013 psg president nasser al khelaifi reveals whether he wants to repl",
     "man utd make contact for psg signing as liverpool step aside",
     "galatasaray reject \u20ac130m approach for osimhen while launching \u20ac45m martinelli pu",
-    "napoli close in on gabriel jesus: new contacts with arsenal"
+    "napoli close in on gabriel jesus: new contacts with arsenal",
+    "chelsea sets deadline and price of r$839 million for enzo fernandez to mancheste",
+    "atletico de madrid signs defender romero, argentina\u2019s standout player at the 202",
+    "amorim recommends milan overhaul: nkunku, tomori and fofana head list of expenda",
+    "man city transfer news: nottingham forest linked tijjani reijnders to make final",
+    "just in: romano reveals ineos made u turn on 13 g/a man utd star after pre seaso"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2467,12 +2468,12 @@
     "romeo lavia": "https://r2.thesportsdb.com/images/media/player/cutout/g8wl2r1757003714.png/small",
     "thomas kristensen": "https://images.fotmob.com/image_resources/playerimages/1190029.png",
     "marc pubill": "https://r2.thesportsdb.com/images/media/player/cutout/jf6st71762288533.png/small",
-    "lacine megnan pave": "",
     "heaven kilwa": "",
     "said el mala": "",
-    "hermann malonga": ""
+    "hermann malonga": "",
+    "lacine megnan pave": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

@@ -1,5 +1,25 @@
 [
  {
+  "id": "46ee803878925a02067fe34bcb55019c",
+  "ts": "2026-08-14T02:17:34+00:00",
+  "kind": "interest",
+  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/h32wk91766827067.png/small",
+  "stage": "\u2014",
+  "player": "Joshua Zirkzee",
+  "position": "Forward",
+  "age": "25",
+  "from_club": "Manchester United",
+  "to_club": "Juventus",
+  "fee": "Loan",
+  "style": "A technically gifted, mobile centre-forward who links play intelligently, holds the ball up well and excels in combination play rather than pure goal-scoring.",
+  "fit": "Juventus would deploy him as a fluid, box-to-box attacking focal point capable of dropping deep to create and exploit space in behind; his experience in Serie A with Bologna makes him a natural fit for the Italian game.",
+  "source": "TuttoSport",
+  "summary": "Juventus have opened loan talks with Manchester United for Joshua Zirkzee, with INEOS unwilling to sanction a permanent sale after Zirkzee impressed in pre-season but remaining open to a temporary deal, as reported by TuttoSport; Romano's direct involvement in the INEOS U-turn story is unverified, with the headline's attribution to him appearing overstated.",
+  "outlet": "yahoo",
+  "url": "https://sports.yahoo.com/articles/just-romano-reveals-ineos-made-141500321.html",
+  "title": "Just in: Romano reveals INEOS made U-turn on 13 G/A Man Utd star after pre-season displays"
+ },
+ {
   "id": "tg:FabrizioRomanoTG/64570",
   "ts": "2026-08-13T20:45:39+00:00",
   "kind": "deal",

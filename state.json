@@ -1,7 +1,5 @@
 {
   "sent": [
-    "87f8a08f2da380d158069a137a85430b",
-    "bafc532a5f27e7e7e5d7725e4e75d611",
     "a5ab8b636c4ce5b962285ec1252d56aa",
     "9ead453494c6353dc8eb8326fdd8e74d",
     "3633c93865f20dd01060f578cbcb5eec",
@@ -1499,7 +1497,9 @@
     "2dbd5cd4888158d86faaec7da74fb86a",
     "f27140c8edeb521e49c03fccb7ae8e0a",
     "6bd5d32b65cd204e8d559c340fd864e3",
-    "0d0ab698a51fe301ff81dee17db66cbf"
+    "0d0ab698a51fe301ff81dee17db66cbf",
+    "a24d74a70fa309ad997ce92820dc2eda",
+    "92beca5dedb24dd16bcab34035fd7c55"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1893,7 +1893,6 @@
     "interest: quansah -> arsenal"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83d\udfe3 fiorentina reach verbal agreement to sign mateo pellegrino, here we go! \ud83c\udde6\ud83c\uddf7 d",
     "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f getafe have agreed deal with enes unal as bournemouth gave green light fo",
     "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 bologna agree deal to sign roberto piccoli from fiorentina, here we go! \ud83c\uddee\ud83c\uddf9",
     "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 story from the morning confirmed by manchester city sources: barcelona new",
@@ -2192,7 +2191,8 @@
     "poker tactic or ruthless toughness? chelsea are reportedly to receive a mega off",
     "chelsea stance softening on \u00a375m star as liverpool interest revealed",
     "atletico madrid advance romero move and stand firm against arsenal over pubill",
-    "recent development gives liverpool boost in bid to sign 50 g/a superstar"
+    "recent development gives liverpool boost in bid to sign 50 g/a superstar",
+    "frattesi transfer from inter to lazio put on standby at the last minute"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2472,13 +2472,13 @@
     "thomas kristensen": "https://images.fotmob.com/image_resources/playerimages/1190029.png",
     "marc pubill": "https://r2.thesportsdb.com/images/media/player/cutout/jf6st71762288533.png/small",
     "jarell quansah": "https://r2.thesportsdb.com/images/media/player/cutout/wfep8o1756316392.png/small",
-    "heaven kilwa": "",
     "said el mala": "",
     "hermann malonga": "",
     "lacine megnan pave": "",
-    "dastan satpayev": ""
+    "dastan satpayev": "",
+    "heaven kilwa": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

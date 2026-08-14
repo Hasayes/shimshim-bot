@@ -1,6 +1,5 @@
 {
   "sent": [
-    "f02728fa41fe561f70529ef91aa57222",
     "5ee8c3fcde861e898ef334fb668d657a",
     "891ad0832a991839888d4b51617b09ae",
     "a20cdfd28338a22b25e19d11af733d15",
@@ -1499,7 +1498,8 @@
     "9b869df7426ae154765612370f79e9b6",
     "fb015d77c8d0fe3e6e22677f0f6e1675",
     "tg:FabrizioRomanoTG/64582",
-    "b2d17c28527d9ddb57d2fd2fd7f5ad57"
+    "b2d17c28527d9ddb57d2fd2fd7f5ad57",
+    "51d69eb1920863a319b81c97d9d10493"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1890,7 +1890,6 @@
     "interest: zirkzee -> juventus"
   ],
   "titles": [
-    "liverpool will complete transfer \u2018next week\u2019 with \u2018plan decided\u2019 \u2013 fabrizio roma",
     "romano explains chelsea\u2019s decision over mykhailo mudryk future",
     "fabrizio romano confirms \u2018green light\u2019 in liverpool\u2019s chase for bradley barcola",
     "man utd, chelsea offered arsenal star as gunners to sell on one condition after ",
@@ -2189,7 +2188,8 @@
     "is everything beginning to line up for manchester city to go big to sign enzo ma",
     "insider reveals bradley barcola desperate to join liverpool as reds attempt to s",
     "epl: maresca to sign two chelsea players for man city",
-    "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 exclusive: barcelona consider sporting striker luis suarez among options \u2014"
+    "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 exclusive: barcelona consider sporting striker luis suarez among options \u2014",
+    "man united pursue liverpool target after reds crumble as german striker a possib"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2468,12 +2468,12 @@
     "romeo lavia": "https://r2.thesportsdb.com/images/media/player/cutout/g8wl2r1757003714.png/small",
     "thomas kristensen": "https://images.fotmob.com/image_resources/playerimages/1190029.png",
     "marc pubill": "https://r2.thesportsdb.com/images/media/player/cutout/jf6st71762288533.png/small",
-    "lacine megnan pave": "",
     "heaven kilwa": "",
     "said el mala": "",
-    "hermann malonga": ""
+    "hermann malonga": "",
+    "lacine megnan pave": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

@@ -1,7 +1,5 @@
 {
   "sent": [
-    "30dce4162fe53bee95f3665a0cb02def",
-    "25dcdad582144a46a704d47435931ab9",
     "616d4fa087a01ae7a35ff59db1036955",
     "487c9f568a063693c3b34b00864b49fe",
     "5a500ea58a3959a4c324b763b216a86a",
@@ -1499,7 +1497,9 @@
     "tg:FabrizioRomanoTG/64624",
     "2f801373980cfa3b541c7e0f4776d8a1",
     "be02042e8260c0e6a5210cb78c1d296a",
-    "b92adb2b981f5a4a1e9260b32d6a0734"
+    "b92adb2b981f5a4a1e9260b32d6a0734",
+    "98c8a0f07fec2073720db92d3f609bc7",
+    "21223cb583aadad6783311988afb6d68"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1894,8 +1894,6 @@
     "interest: charris -> barcelona"
   ],
   "titles": [
-    "rt @fabrizioromano : \ud83d\udea8 \u26ab\ufe0f \ud83d\udd35 djed spence to inter, here we go! verbal agreement i",
-    "airport vision confirms gun\u2019s move to unlock ucl goal; key step in prodigy\u2019s pl ",
     "\ud83d\udea8 \ud83d\udfe1 \ud83d\udd35 official, confirmed romelu lukaku joins fenerbahce from napoli for fee in ",
     "\ud83d\udea8 \ud83d\udfe3 \ud83d\udd35 excl: joao palhinha has agreed personal terms with aston villa and told ba",
     "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 official, exclusive story confirmed 18 year old winger josue caicedo joins",
@@ -2193,7 +2191,9 @@
     "fabrizio romano provides barcelona transfer update which could impact arsenal",
     "\ud83d\udea8 \u2764\ufe0f \ud83e\udd0d mikel arteta confirms plan to sign new deal at arsenal: \u201ci don't have to ",
     "'already over' fabrizio romano makes bizarre newcastle united transfer claim aft",
-    "after ferran torres: paris seal a new deal"
+    "after ferran torres: paris seal a new deal",
+    "two reasons jarell quansah looks like the perfect signing for arsenal",
+    "borussia dortmund pull out of said el mala race"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2473,14 +2473,14 @@
     "thomas kristensen": "https://images.fotmob.com/image_resources/playerimages/1190029.png",
     "marc pubill": "https://r2.thesportsdb.com/images/media/player/cutout/jf6st71762288533.png/small",
     "jarell quansah": "https://r2.thesportsdb.com/images/media/player/cutout/wfep8o1756316392.png/small",
-    "dastan satpayev": "",
     "heaven kilwa": "",
     "luis javier suarez charris": "https://r2.thesportsdb.com/images/media/player/cutout/lnqj5l1762290563.png/small",
     "said el mala": "",
     "hermann malonga": "",
-    "lacine megnan pave": ""
+    "lacine megnan pave": "",
+    "dastan satpayev": ""
   },
-  "photo_repair_idx": 5,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

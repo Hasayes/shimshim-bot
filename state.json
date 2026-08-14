@@ -1,7 +1,5 @@
 {
   "sent": [
-    "2a392dd4d71b877089153e84baaab49a",
-    "tg:FabrizioRomanoTG/63929",
     "tg:FabrizioRomanoTG/63930",
     "ec0ecd3f92c06cc2b22157027ea32093",
     "28bb5a374c8faa0482af49369eab8588",
@@ -1499,7 +1497,9 @@
     "02cc93906f636ac1dfa58ffd7f018ba5",
     "fe41b194c67a7b7fa5e312fd02e55289",
     "17b50198fe175e30ab25afadf40e98cc",
-    "tg:FabrizioRomanoTG/64595"
+    "tg:FabrizioRomanoTG/64595",
+    "e5b585025c52c846f7cfa8d6da579370",
+    "tg:FabrizioRomanoTG/64598"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1892,8 +1892,6 @@
     "interest: quansah -> arsenal"
   ],
   "titles": [
-    "report: inter milan, spurs in talks over djed spence sale",
-    "\ud83d\udea8 \ud83d\udfe1 \ud83d\udd34 as roma are closing in on rodrigo mora deal at late night with porto \ud83c\uddf5\ud83c\uddf9 ve",
     "virgil van dijk reveals ifeanyi ndukwe talks and hopes for jeremy jacquet this i",
     "end of here we go? fabrizio romano drops big bombshell, hints at change in trans",
     "liverpool transfer news: when will ifeanyi ndukwe 'leave' on loan amid portugal ",
@@ -2191,7 +2189,9 @@
     "psg nears \u20ac58m deal and final talks expected friday",
     "video: spence arrives to begin inter adventure from tottenham",
     "blow for manchester city and chelsea as father of transfer target breaks silence",
-    "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 breaking: paris saint germain reach verbal agreement with ajax for mika go"
+    "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 breaking: paris saint germain reach verbal agreement with ajax for mika go",
+    "arsenal open osimhen talks as gala reject al hilal offer",
+    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f exclusive: como have made initial approach for liam delap as new striker "
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2471,12 +2471,12 @@
     "thomas kristensen": "https://images.fotmob.com/image_resources/playerimages/1190029.png",
     "marc pubill": "https://r2.thesportsdb.com/images/media/player/cutout/jf6st71762288533.png/small",
     "jarell quansah": "https://r2.thesportsdb.com/images/media/player/cutout/wfep8o1756316392.png/small",
-    "said el mala": "",
     "hermann malonga": "",
     "lacine megnan pave": "",
-    "heaven kilwa": ""
+    "heaven kilwa": "",
+    "said el mala": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

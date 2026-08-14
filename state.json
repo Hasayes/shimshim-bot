@@ -1,7 +1,5 @@
 {
   "sent": [
-    "49ac040a40fd51c0741ae5dfa5cc3462",
-    "e9a42f9600045dba4a6d35a344f5bfe2",
     "b7541f8b96642fc0bdd392a32afdc61b",
     "b04a8444bd7c2d7ec7f73652fa3a1857",
     "tg:FabrizioRomanoTG/63904",
@@ -1499,7 +1497,9 @@
     "4855522fb422519fd7218c105c737718",
     "a6e744c39305774147116c1635b16816",
     "5f26d11a59fbec338b9116ef61fcf493",
-    "9a5061f7819cdc64aa950aaa799d900e"
+    "9a5061f7819cdc64aa950aaa799d900e",
+    "b68e4dd40c82a2bc7f4e7c4f857c41d4",
+    "tg:FabrizioRomanoTG/64577"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1890,8 +1890,6 @@
     "interest: zirkzee -> juventus"
   ],
   "titles": [
-    "transfer news live: liverpool agree barcola terms, man city close in on rodri re",
-    "romano confirms barcelona target likened to sergio ramos has been offered to man",
     "\ud83d\udea8 \u26ab\ufe0f \u26aa\ufe0f juventus have reached full agreement on personal terms with jhon lucumi ",
     "\ud83d\udcfa new youtube video uploaded! \ud83c\udfac \ud83d\udea8 \ud83d\udca3 enzo bomba! lewis skelly: united chelsea tru",
     "liverpool news: \u00a347m ace signs for reds as andoni iraola gets huge transfer 'app",
@@ -2189,7 +2187,9 @@
     "spence set for inter medical after tottenham deal agreed",
     "coventry city get green light after fikayo tomori transfer meeting as southampto",
     "manchester city submit 120m offer for enzo fernandez in wrong currency or not at",
-    "galatasaray await arsenal response after martinelli bid euro transfer news"
+    "galatasaray await arsenal response after martinelli bid euro transfer news",
+    "tottenham table \u00a385m bid to sign man city star savinho",
+    "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 crystal palace complete all formal steps for anan khalaili deal with union"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2468,12 +2468,12 @@
     "romeo lavia": "https://r2.thesportsdb.com/images/media/player/cutout/g8wl2r1757003714.png/small",
     "thomas kristensen": "https://images.fotmob.com/image_resources/playerimages/1190029.png",
     "marc pubill": "https://r2.thesportsdb.com/images/media/player/cutout/jf6st71762288533.png/small",
-    "hermann malonga": "",
     "lacine megnan pave": "",
     "heaven kilwa": "",
-    "said el mala": ""
+    "said el mala": "",
+    "hermann malonga": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

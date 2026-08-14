@@ -1,10 +1,5 @@
 {
   "sent": [
-    "0ad6dd7a4df9daf4dc0a45f7b3449710",
-    "fb9428799f884b492c0a03fd56bfbfe2",
-    "41e0b288ff021c07a1c3092aa9aa4b11",
-    "ccac952e8b9c23107e29d93a0480dee2",
-    "cd59694c2870962465088bc9ed56d207",
     "888f082ca57ad9e5a661a72986e19dd7",
     "bacbf72eda3da3f09725573ddeb46998",
     "b35636003995839ae6e13515413104bf",
@@ -1499,7 +1494,12 @@
     "094c111cfee1f4eff3585e680c62b6d5",
     "4b47082f50db9e0639988ff4e9a29d7f",
     "91000980297906bcfa2406950449caaf",
-    "3e208a9c72daef6850473a00cf418e6d"
+    "3e208a9c72daef6850473a00cf418e6d",
+    "466142c116bfc3d68e604d53b5a2079c",
+    "b3d3737d5c8d56b9b7922c7ff0c352a9",
+    "19d26120e26d7663c4ba9635684461ca",
+    "ee6cd3967ada0a79121158b8ed656a09",
+    "tg:FabrizioRomanoTG/64623"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1893,11 +1893,6 @@
     "interest: quansah -> arsenal"
   ],
   "titles": [
-    "rt @fabrizioromano : \ud83d\udea8 \ud83d\udd34 \ud83d\udd35 excl: ferran torres, not scheduled to show up at barc",
-    "enzo maresca is reportedly eager to reunite with a midfielder he knows all too w",
-    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f lazio are close to reaching an agreement with inter for davide frattesi a",
-    "coventry eye mudryk on loan wednesday's gossip",
-    "\ud83d\udd35 \ud83d\udfe3 matteo ruggeri will fly to england later today to undergo medical at aston v",
     "done deal: ruggeri agrees personal terms with aston villa at total \u20ac26 5m transf",
     "fenerbahce secure lukaku in \u20ac6m deal",
     "\ud83d\udd35 \u26aa\ufe0f \ud83c\udde6\ud83c\uddf7 official, exclusive story confirmed geronimo rulli signs a two year deal",
@@ -2192,7 +2187,12 @@
     "tottenham offer \u00a385m for savinho as he skips man city training; jacobs predicts ",
     "la liga: barcelona prepare third bid for rodri",
     "manchester city\u2019s summer transfer puzzle: fernandez deadline, reijnders cash, ro",
-    "transfer rumors, news: arsenal hold talks over osimhen deal"
+    "transfer rumors, news: arsenal hold talks over osimhen deal",
+    "man utd \u00a342 7m boost as liverpool make ibrahim mbaye decision",
+    "liverpool could force chelsea to drop price for \u00a375m star with interest shown",
+    "barcelona prepare third bid for rodri after two offers rejected",
+    "henrique unconvinced by roma\u2019s financial offer",
+    "\ud83d\udd34 \ud83d\udd35 \ud83d\udc4b\ud83c\udffc ferran torres and mika godts are both in paris right now, ready for medic"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2472,13 +2472,13 @@
     "thomas kristensen": "https://images.fotmob.com/image_resources/playerimages/1190029.png",
     "marc pubill": "https://r2.thesportsdb.com/images/media/player/cutout/jf6st71762288533.png/small",
     "jarell quansah": "https://r2.thesportsdb.com/images/media/player/cutout/wfep8o1756316392.png/small",
-    "lacine megnan pave": "",
     "dastan satpayev": "",
     "heaven kilwa": "",
     "said el mala": "",
-    "hermann malonga": ""
+    "hermann malonga": "",
+    "lacine megnan pave": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 5,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

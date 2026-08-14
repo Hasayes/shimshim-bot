@@ -1,6 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/63919",
     "tg:FabrizioRomanoTG/63920",
     "tg:FabrizioRomanoTG/63921",
     "tg:FabrizioRomanoTG/63922",
@@ -1499,7 +1498,8 @@
     "712d9054b172b543381b3ab7ce6b3bcb",
     "tg:FabrizioRomanoTG/64581",
     "189995e90487b6c23fdffeda3e118028",
-    "183b278d9e91fd71536c231d0b93b201"
+    "183b278d9e91fd71536c231d0b93b201",
+    "735c254c290f9737a43c628d8130562a"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1890,7 +1890,6 @@
     "interest: zirkzee -> juventus"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83d\udfe3 \ud83d\udd35 aston villa reach verbal agreement to sign matteo ruggeri from atletico ma",
     "roma\u2019s interest in udogie confirmed, spurs remain hesitant",
     "respected source issues eye catching barcola claim which could nudge him closer ",
     "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 excl: ferran torres, not scheduled to show up at barca training tomorrow t",
@@ -2189,7 +2188,8 @@
     "\"we want more, we need more\" michael carrick asks manchester united to sign more",
     "\ud83d\udea8 \u274c ac milan informed christopher nkunku about decision to keep him out of team ",
     "an elegant midfielder looks to be on his way out of manchester city",
-    "michael carrick sends man united hierarchy clear message over more signings"
+    "michael carrick sends man united hierarchy clear message over more signings",
+    "sources: reijnders exits manchester city for \u00a352m saudi move espn com sg"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2468,12 +2468,12 @@
     "romeo lavia": "https://r2.thesportsdb.com/images/media/player/cutout/g8wl2r1757003714.png/small",
     "thomas kristensen": "https://images.fotmob.com/image_resources/playerimages/1190029.png",
     "marc pubill": "https://r2.thesportsdb.com/images/media/player/cutout/jf6st71762288533.png/small",
-    "lacine megnan pave": "",
     "heaven kilwa": "",
     "said el mala": "",
-    "hermann malonga": ""
+    "hermann malonga": "",
+    "lacine megnan pave": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

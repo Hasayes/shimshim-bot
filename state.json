@@ -1,8 +1,5 @@
 {
   "sent": [
-    "e881743b141bf0fb2212c60c703f6a47",
-    "a61e1b1b84f24ba44ab09ead3b54ef3b",
-    "15cf6e13d74777b1017a93af90cc7590",
     "tg:FabrizioRomanoTG/63895",
     "tg:FabrizioRomanoTG/63896",
     "tg:FabrizioRomanoTG/63897",
@@ -1499,7 +1496,10 @@
     "46ee803878925a02067fe34bcb55019c",
     "aca640a0765348a8257baed3aafa2f2f",
     "b7b54b8af3e8d755ce0dbcee38f728a0",
-    "eeb949c20278e635a49b4fd2fe7c8c52"
+    "eeb949c20278e635a49b4fd2fe7c8c52",
+    "a041e5379417132150800da43e7b75a7",
+    "00930747a0d06bd6f18aa996e8346f4a",
+    "d73d7756fb7187b7f9f77bf7658224b4"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1890,9 +1890,6 @@
     "interest: zirkzee -> juventus"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83d\udfe3 exclusive: burnley agree deal to sign max alleyne as new centre back from ma",
-    "rt @fabrizioromano : \ud83d\udea8 \ud83d\udfe3 exclusive: burnley agree deal to sign max alleyne as ne",
-    "liverpool news: bradley barcola 'gives transfer green light' and star joins up w",
     "business should pick up now that manchester city have completed their preseason ",
     "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f lazio have approached inter for davide frattesi as new target in midfield",
     "here we go! \ud83d\udea8 10 cars headed to 10 winners with @alrajhibank \u2018million savings ac",
@@ -2189,7 +2186,10 @@
     "just in: romano reveals ineos made u turn on 13 g/a man utd star after pre seaso",
     "transfer: kilwa joins man city as arsenal sign liverpool striker",
     "romano issues update after tottenham target savinho misses training today",
-    "napoli want gabriel jesus from arsenal, but have two big problems"
+    "napoli want gabriel jesus from arsenal, but have two big problems",
+    "transfer: amorim puts up tomori, two other ac milan players for sale",
+    "man utd reach decision on signing psg star ibrahim mbaye after liverpool cool in",
+    "liverpool told $138m 'not enough' to secure bradley barcola as 'big package' nee"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2468,12 +2468,12 @@
     "romeo lavia": "https://r2.thesportsdb.com/images/media/player/cutout/g8wl2r1757003714.png/small",
     "thomas kristensen": "https://images.fotmob.com/image_resources/playerimages/1190029.png",
     "marc pubill": "https://r2.thesportsdb.com/images/media/player/cutout/jf6st71762288533.png/small",
-    "said el mala": "",
     "hermann malonga": "",
     "lacine megnan pave": "",
-    "heaven kilwa": ""
+    "heaven kilwa": "",
+    "said el mala": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

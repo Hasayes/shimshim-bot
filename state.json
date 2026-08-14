@@ -1,7 +1,5 @@
 {
   "sent": [
-    "8dc5e2257486ea6bc66e7efe3adbb2fa",
-    "tg:FabrizioRomanoTG/63938",
     "cc4375a381e5ba258b08d751d4317c19",
     "2c622413216928ac05445e7152a10437",
     "40c0d9950b5a16f4930ffc9c6b3ef188",
@@ -1499,7 +1497,9 @@
     "fa17e4e2fc1b6281d08df9a9c37c6255",
     "d610a34986c864f5d8757d7816c9fa50",
     "a5bc9ff0f59533c346f482b1cc46a003",
-    "5854c0a29bab00649047f0fbd36783f5"
+    "5854c0a29bab00649047f0fbd36783f5",
+    "8a8ca32a6204dd811d2a46c4e596c797",
+    "9aba1fd02a0b01a4d58b20946edd46d8"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1899,8 +1899,6 @@
     "interest: neto -> arsenal"
   ],
   "titles": [
-    "only minor details left to agree for tottenham defender\u2019s move to la liga",
-    "inter reshape chivu\u2019s squad as roma, lazio and tottenham talks accelerate",
     "fabrizio romano denies rumours of barcelona being interested in argentine intern",
     "fabrizio romano reveals all on arsenal signing \u20ac55m barcelona star \u2013 \u2018smart solu",
     "\ud83d\udea8 \ud83c\uddf3\ud83c\uddf1 breaking: xavi has agreed to become new dutch national team head coach, don",
@@ -2198,7 +2196,9 @@
     "borussia dortmund end said el mala pursuit after fourth bid is rejected",
     "tottenham join race to sign \u00a370m chelsea star ahead of manchester city",
     "barcelona tip luis suarez as replacement if julian alvarez move fails",
-    "borussia dortmund exits race for said el mala \u2014 at least for now"
+    "borussia dortmund exits race for said el mala \u2014 at least for now",
+    "fc barcelona shortlist luis suarez as alternative to julian alvarez amid transfe",
+    "psg transfer push accelerates as torres deal is agreed and godts talks near brea"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2479,15 +2479,15 @@
     "marc pubill": "https://r2.thesportsdb.com/images/media/player/cutout/jf6st71762288533.png/small",
     "jarell quansah": "https://r2.thesportsdb.com/images/media/player/cutout/wfep8o1756316392.png/small",
     "luis javier suarez charris": "https://r2.thesportsdb.com/images/media/player/cutout/lnqj5l1762290563.png/small",
-    "dastan satpayev": "",
     "kim min jae": "https://r2.thesportsdb.com/images/media/player/cutout/m4uh701756408877.png/small",
     "heaven kilwa": "",
     "said el mala": "",
     "luis suarez": "https://r2.thesportsdb.com/images/media/player/cutout/vfjd0w1750315193.png/small",
     "hermann malonga": "",
-    "lacine megnan pave": ""
+    "lacine megnan pave": "",
+    "dastan satpayev": ""
   },
-  "photo_repair_idx": 5,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

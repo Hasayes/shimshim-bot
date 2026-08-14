@@ -1,6 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/63910",
     "tg:FabrizioRomanoTG/63911",
     "tg:FabrizioRomanoTG/63913",
     "tg:FabrizioRomanoTG/63914",
@@ -1499,7 +1498,8 @@
     "a1c0ebc572c019451f45784004697949",
     "25dcb6df41afa689ebf31d7926ddbdb8",
     "0ab53cefbf9b3ec53dcb3ab40351b44c",
-    "e1c385377e33d170e036463a7b33f5f9"
+    "e1c385377e33d170e036463a7b33f5f9",
+    "tg:FabrizioRomanoTG/64580"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1890,7 +1890,6 @@
     "interest: zirkzee -> juventus"
   ],
   "titles": [
-    "\ud83d\udd35 \ud83d\udd10 pep chavarria has signed his contract as new chelsea player from rayo vallec",
     "just in: chelsea open door to mudryk loan as winger makes it preference clear",
     "fabrizio romano confirms liverpool target is wanted by european giants",
     "inter continue talks for tottenham wing back target djed spence",
@@ -2189,7 +2188,8 @@
     "bradley barcola wants liverpool transfer as personal terms close",
     "\ud83d\udea8 barca seal ferran sale to psg, say sport and fabrizio romano",
     "unexpected or planned? rodri stuns barcelona with a radical turnaround in favor ",
-    "barcelona seal \u20ac50m deal with psg for ferran torres"
+    "barcelona seal \u20ac50m deal with psg for ferran torres",
+    "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 barcelona are returning with third proposal for rodri to manchester city a"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2468,12 +2468,12 @@
     "romeo lavia": "https://r2.thesportsdb.com/images/media/player/cutout/g8wl2r1757003714.png/small",
     "thomas kristensen": "https://images.fotmob.com/image_resources/playerimages/1190029.png",
     "marc pubill": "https://r2.thesportsdb.com/images/media/player/cutout/jf6st71762288533.png/small",
-    "hermann malonga": "",
     "lacine megnan pave": "",
     "heaven kilwa": "",
-    "said el mala": ""
+    "said el mala": "",
+    "hermann malonga": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

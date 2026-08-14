@@ -1,9 +1,5 @@
 {
   "sent": [
-    "888f082ca57ad9e5a661a72986e19dd7",
-    "bacbf72eda3da3f09725573ddeb46998",
-    "b35636003995839ae6e13515413104bf",
-    "c8ee16d99bf603852f378ca66b970608",
     "87f8a08f2da380d158069a137a85430b",
     "bafc532a5f27e7e7e5d7725e4e75d611",
     "a5ab8b636c4ce5b962285ec1252d56aa",
@@ -1499,7 +1495,11 @@
     "b3d3737d5c8d56b9b7922c7ff0c352a9",
     "19d26120e26d7663c4ba9635684461ca",
     "ee6cd3967ada0a79121158b8ed656a09",
-    "tg:FabrizioRomanoTG/64623"
+    "tg:FabrizioRomanoTG/64623",
+    "2dbd5cd4888158d86faaec7da74fb86a",
+    "f27140c8edeb521e49c03fccb7ae8e0a",
+    "6bd5d32b65cd204e8d559c340fd864e3",
+    "0d0ab698a51fe301ff81dee17db66cbf"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1893,10 +1893,6 @@
     "interest: quansah -> arsenal"
   ],
   "titles": [
-    "done deal: ruggeri agrees personal terms with aston villa at total \u20ac26 5m transf",
-    "fenerbahce secure lukaku in \u20ac6m deal",
-    "\ud83d\udd35 \u26aa\ufe0f \ud83c\udde6\ud83c\uddf7 official, exclusive story confirmed geronimo rulli signs a two year deal",
-    "\ud83d\udea8 \u26ab\ufe0f \ud83d\udd35 inter sent opening official bid for djed spence to tottenham as expected,",
     "\ud83d\udea8 \ud83d\udfe3 fiorentina reach verbal agreement to sign mateo pellegrino, here we go! \ud83c\udde6\ud83c\uddf7 d",
     "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f getafe have agreed deal with enes unal as bournemouth gave green light fo",
     "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 bologna agree deal to sign roberto piccoli from fiorentina, here we go! \ud83c\uddee\ud83c\uddf9",
@@ -2192,7 +2188,11 @@
     "liverpool could force chelsea to drop price for \u00a375m star with interest shown",
     "barcelona prepare third bid for rodri after two offers rejected",
     "henrique unconvinced by roma\u2019s financial offer",
-    "\ud83d\udd34 \ud83d\udd35 \ud83d\udc4b\ud83c\udffc ferran torres and mika godts are both in paris right now, ready for medic"
+    "\ud83d\udd34 \ud83d\udd35 \ud83d\udc4b\ud83c\udffc ferran torres and mika godts are both in paris right now, ready for medic",
+    "poker tactic or ruthless toughness? chelsea are reportedly to receive a mega off",
+    "chelsea stance softening on \u00a375m star as liverpool interest revealed",
+    "atletico madrid advance romero move and stand firm against arsenal over pubill",
+    "recent development gives liverpool boost in bid to sign 50 g/a superstar"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2472,13 +2472,13 @@
     "thomas kristensen": "https://images.fotmob.com/image_resources/playerimages/1190029.png",
     "marc pubill": "https://r2.thesportsdb.com/images/media/player/cutout/jf6st71762288533.png/small",
     "jarell quansah": "https://r2.thesportsdb.com/images/media/player/cutout/wfep8o1756316392.png/small",
-    "dastan satpayev": "",
     "heaven kilwa": "",
     "said el mala": "",
     "hermann malonga": "",
-    "lacine megnan pave": ""
+    "lacine megnan pave": "",
+    "dastan satpayev": ""
   },
-  "photo_repair_idx": 5,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

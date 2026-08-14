@@ -1,6 +1,5 @@
 {
   "sent": [
-    "86598482ea75598df09d72af7b066d3a",
     "dbb80fb8cc41254e55e7ae79b83da032",
     "26a189eaaf8bd7a8faac52aba98e23ec",
     "71fffc502ed9619413cd607d9c50b386",
@@ -1499,7 +1498,8 @@
     "tg:FabrizioRomanoTG/64612",
     "ee4d022e980e62d92b18d5093d7dca00",
     "tg:FabrizioRomanoTG/64613",
-    "tg:FabrizioRomanoTG/64615"
+    "tg:FabrizioRomanoTG/64615",
+    "178564bc46d25d1b0757a9d69b97be59"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1892,7 +1892,6 @@
     "interest: quansah -> arsenal"
   ],
   "titles": [
-    "\u2018i can confirm \u2019 \u2013 ifeanyi ndukwe\u2019s agent hints at where liverpool colossus coul",
     "liverpool transfer news: bradley barcola gives green light as psg demand \u00a3145m |",
     "man city transfer news: fabrizio romano confirms 'verbal agreement' for exit of ",
     "pogba injured again as monaco comeback suffers fresh blow",
@@ -2191,7 +2190,8 @@
     "despite the denials: deal done 5h ago and mika godts, now on his way to paris \u2708\ufe0f",
     "djed spence arrives in italy for inter medical ahead of \u20ac35m transfer from totte",
     "\ud83d\udd34 \u26aa\ufe0f \u270d\ud83c\udffc cuti romero has just completed his medical at atletico madrid signature ",
-    "rt @fabrizioromano : \ud83d\udd34 \u26aa\ufe0f \u270d\ud83c\udffc cuti romero has just completed his medical at atlet"
+    "rt @fabrizioromano : \ud83d\udd34 \u26aa\ufe0f \u270d\ud83c\udffc cuti romero has just completed his medical at atlet",
+    "liverpool latest: bradley barcola boost as decision made after ibrahim mbaye tal"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2471,12 +2471,12 @@
     "thomas kristensen": "https://images.fotmob.com/image_resources/playerimages/1190029.png",
     "marc pubill": "https://r2.thesportsdb.com/images/media/player/cutout/jf6st71762288533.png/small",
     "jarell quansah": "https://r2.thesportsdb.com/images/media/player/cutout/wfep8o1756316392.png/small",
-    "said el mala": "",
     "hermann malonga": "",
     "lacine megnan pave": "",
-    "heaven kilwa": ""
+    "heaven kilwa": "",
+    "said el mala": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

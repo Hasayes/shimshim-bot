@@ -1,7 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/63930",
-    "ec0ecd3f92c06cc2b22157027ea32093",
     "28bb5a374c8faa0482af49369eab8588",
     "6d01596823c868ea890be085fcd9a5e4",
     "3cb1f1c62d207a63456a83635280ccf8",
@@ -1499,7 +1497,9 @@
     "17b50198fe175e30ab25afadf40e98cc",
     "tg:FabrizioRomanoTG/64595",
     "e5b585025c52c846f7cfa8d6da579370",
-    "tg:FabrizioRomanoTG/64598"
+    "tg:FabrizioRomanoTG/64598",
+    "fdd87d285f1c1c26f987be907cfbe4ea",
+    "2e2188cce23355d75f3c443e418feaa8"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1892,8 +1892,6 @@
     "interest: quansah -> arsenal"
   ],
   "titles": [
-    "virgil van dijk reveals ifeanyi ndukwe talks and hopes for jeremy jacquet this i",
-    "end of here we go? fabrizio romano drops big bombshell, hints at change in trans",
     "liverpool transfer news: when will ifeanyi ndukwe 'leave' on loan amid portugal ",
     "done deal: kristensen ready for atalanta at \u20ac22m plus bonus",
     "juventus continues to work behind the scenes to sign parma man on loan",
@@ -2191,7 +2189,9 @@
     "blow for manchester city and chelsea as father of transfer target breaks silence",
     "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 breaking: paris saint germain reach verbal agreement with ajax for mika go",
     "arsenal open osimhen talks as gala reject al hilal offer",
-    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f exclusive: como have made initial approach for liam delap as new striker "
+    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f exclusive: como have made initial approach for liam delap as new striker ",
+    "man city help lens find abdukodir khusanov replacement, with",
+    "transfer news live! mudryk set for chelsea medical; new arsenal"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2471,12 +2471,12 @@
     "thomas kristensen": "https://images.fotmob.com/image_resources/playerimages/1190029.png",
     "marc pubill": "https://r2.thesportsdb.com/images/media/player/cutout/jf6st71762288533.png/small",
     "jarell quansah": "https://r2.thesportsdb.com/images/media/player/cutout/wfep8o1756316392.png/small",
-    "hermann malonga": "",
     "lacine megnan pave": "",
     "heaven kilwa": "",
-    "said el mala": ""
+    "said el mala": "",
+    "hermann malonga": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

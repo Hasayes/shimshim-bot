@@ -1,7 +1,5 @@
 {
   "sent": [
-    "d48b6e1ef47bfbdae3ab1458747b6024",
-    "fdade97df0d376cc57135ee7e021d009",
     "ff4207348593004aafa7b4b46ac27d2c",
     "tg:FabrizioRomanoTG/63890",
     "53d56064b0b49086fc25808bd84c0c3a",
@@ -1499,7 +1497,9 @@
     "f3bd388d35b66f1ab3a7492df454730e",
     "9ceba38356b98631fa204de0dabd679d",
     "4635144d0a8c98c13a378de8bace6efd",
-    "b1b85817ed7dd96b55a8f66ee43be778"
+    "b1b85817ed7dd96b55a8f66ee43be778",
+    "ae4bc37d4cfb703257223f4bcd9c09fd",
+    "d7038b831ae108333b3529d322248df6"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1889,8 +1889,6 @@
     "interest: konsa -> arsenal"
   ],
   "titles": [
-    "\ud83d\udfe0 \u26ab\ufe0f \ud83c\uddf8\ud83c\uddf3 excl: nobel mendy, on his way to join hull city from rayo vallecano \u2708\ufe0f f",
-    "\ud83d\udea8 \ud83c\udf33 official, confirmed ousmane diomande joins nottingham forest contract valid ",
     "\ud83d\udd34 \u26aa\ufe0f \ud83e\udd1d\ud83c\udfff divin mubama has joined southampton on loan deal from manchester city, a",
     "\ud83d\udea8 \ud83d\udfe0 \u26ab\ufe0f lucas herrington has completed medical tests today as new hull city playe",
     "micky van de ven commits long term future to tottenham with new five year contra",
@@ -2188,7 +2186,9 @@
     "transfer round up: daily speculation and news from premier league market offer o",
     "enzo fernandez agrees terms with man city as chelsea make contact with top two r",
     "arsenal weigh up attacker bid and continue negotiations for defensive signing \u2013 ",
-    "chelsea set enzo fernandez deadline as badiashile talks with napoli intensify"
+    "chelsea set enzo fernandez deadline as badiashile talks with napoli intensify",
+    "\u20ac500m release clause, not for sale, but desperate arsenal ready to \u2018break the ba",
+    "transfer updates: martinelli, zubimendi, dedic, barcola, jones, others"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2467,12 +2467,12 @@
     "romeo lavia": "https://r2.thesportsdb.com/images/media/player/cutout/g8wl2r1757003714.png/small",
     "thomas kristensen": "https://images.fotmob.com/image_resources/playerimages/1190029.png",
     "marc pubill": "https://r2.thesportsdb.com/images/media/player/cutout/jf6st71762288533.png/small",
-    "heaven kilwa": "",
     "said el mala": "",
     "hermann malonga": "",
-    "lacine megnan pave": ""
+    "lacine megnan pave": "",
+    "heaven kilwa": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

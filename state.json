@@ -1,8 +1,5 @@
 {
   "sent": [
-    "bdc157f956b25dd231a2b122124f33fb",
-    "3bd27a362b8acb60b108f68a3a46bab1",
-    "198b5fa8a8611d0733673926f607abc9",
     "d08c582c75e7fc81d7902b97a6ef3f50",
     "f152e8b1f0fe9e38d8d3d45bb5456ba5",
     "9ff594833b3ce7be037e19c46ed9bb57",
@@ -1499,7 +1496,10 @@
     "414abfe62eb56fcbc14ac3f0ac92cc47",
     "ef7a03517f0c0d7b35cf93be2cd52b47",
     "c6291fdc3702f7f77aa71ea9d13bd951",
-    "a0c4872d253ee0aa8c665c39656df733"
+    "a0c4872d253ee0aa8c665c39656df733",
+    "e2e4705c107064ab7804095e725c5f50",
+    "ae5529fb74e0983f601bebb57ad84104",
+    "a33163cb3a1a386f5a00731119661c81"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1893,9 +1893,6 @@
     "interest: quansah -> arsenal"
   ],
   "titles": [
-    "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f dusan vlahovic to besiktas, here we go! verbal agreement in place for th",
-    "\ud83d\udea8 \ud83c\uddf5\ud83c\uddf9 fc porto told as roma this morning they want better conditions for the buy ",
-    "man city transfer news: max alleyne to 'undergo medical' ahead of championship l",
     "\ud83d\udea8 \u26ab\ufe0f \ud83d\udd35 inter mantain curtis jones as priority target since may and now feel deal",
     "frattesi targeted for lazio loan, but inter still hope for nottingham forest",
     "latest bradley barcola transfer odds as liverpool given \u2018green light\u2019 on persona",
@@ -2192,7 +2189,10 @@
     "former hearts star has medical 'booked' at rangers after celtic interest as dere",
     "rangers agree deal to sign james penrice from aek athens",
     "man united handed double boost as \u00a342 7m agreement reached and liverpool \u2018pull o",
-    "berta masterplan ignites as arsenal \u2018hold talks\u2019 over elite striker who wants mo"
+    "berta masterplan ignites as arsenal \u2018hold talks\u2019 over elite striker who wants mo",
+    "celtic linked to olympics ace, rangers medical booked, dundee retain defender in",
+    "\u201ccrucial hours ahead\u201d as city in contact over signing \u00a3120m chelsea star before ",
+    "man city offer chelsea \u00a3102 5m for enzo fernandez and push to finalise signing \u2013"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2472,13 +2472,13 @@
     "thomas kristensen": "https://images.fotmob.com/image_resources/playerimages/1190029.png",
     "marc pubill": "https://r2.thesportsdb.com/images/media/player/cutout/jf6st71762288533.png/small",
     "jarell quansah": "https://r2.thesportsdb.com/images/media/player/cutout/wfep8o1756316392.png/small",
-    "hermann malonga": "",
     "lacine megnan pave": "",
     "dastan satpayev": "",
     "heaven kilwa": "",
-    "said el mala": ""
+    "said el mala": "",
+    "hermann malonga": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

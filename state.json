@@ -1,8 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/63927",
-    "3f7b74b5c07d9b32503701badcbf55e4",
-    "2f1618dad62c755a0ec106c0d09f5a96",
     "f8c4a56119bcd3f0d03ee0083c49de0f",
     "f02728fa41fe561f70529ef91aa57222",
     "5ee8c3fcde861e898ef334fb668d657a",
@@ -1499,7 +1496,10 @@
     "69ab3b4e7cb5566735f764eb9bbef0ce",
     "7a969ceeae19cf26e115c41521fd24d7",
     "f610594254d3e2251df9aaf2ea4c70a6",
-    "43b701f8b5134619ab19e0ff328ca83e"
+    "43b701f8b5134619ab19e0ff328ca83e",
+    "9b869df7426ae154765612370f79e9b6",
+    "fb015d77c8d0fe3e6e22677f0f6e1675",
+    "tg:FabrizioRomanoTG/64582"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1890,9 +1890,6 @@
     "interest: zirkzee -> juventus"
   ],
   "titles": [
-    "napoli agree striker sale to enable bid for arsenal 29yo",
-    "fabrizio romano confirms liverpool transfer will be completed \u2018next week\u2019",
-    "psg and parma agree on \u20ac35m deal for zion suzuki",
     "liverpool will complete transfer \u2018next week\u2019 with \u2018plan decided\u2019 \u2013 fabrizio roma",
     "romano explains chelsea\u2019s decision over mykhailo mudryk future",
     "fabrizio romano confirms \u2018green light\u2019 in liverpool\u2019s chase for bradley barcola",
@@ -2189,7 +2186,10 @@
     "sources: reijnders exits manchester city for \u00a352m saudi move espn com sg",
     "what derek mcinnes said on james penrice rangers link after reports of done deal",
     "done deal: lucumi final details for juventus at \u20ac20m including bonus",
-    "is everything beginning to line up for manchester city to go big to sign enzo ma"
+    "is everything beginning to line up for manchester city to go big to sign enzo ma",
+    "insider reveals bradley barcola desperate to join liverpool as reds attempt to s",
+    "epl: maresca to sign two chelsea players for man city",
+    "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 exclusive: barcelona consider sporting striker luis suarez among options \u2014"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2468,12 +2468,12 @@
     "romeo lavia": "https://r2.thesportsdb.com/images/media/player/cutout/g8wl2r1757003714.png/small",
     "thomas kristensen": "https://images.fotmob.com/image_resources/playerimages/1190029.png",
     "marc pubill": "https://r2.thesportsdb.com/images/media/player/cutout/jf6st71762288533.png/small",
-    "said el mala": "",
     "hermann malonga": "",
     "lacine megnan pave": "",
-    "heaven kilwa": ""
+    "heaven kilwa": "",
+    "said el mala": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

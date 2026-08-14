@@ -1,7 +1,5 @@
 {
   "sent": [
-    "d07436b718acfd283de0084e74562ac8",
-    "d07806c0e239f0b8cb142e1fb1f53f38",
     "71f9716881c569d2b865ce6eeb7d92a1",
     "9e65334867ec923477d72bcd87f76d72",
     "tg:FabrizioRomanoTG/63932",
@@ -1499,7 +1497,9 @@
     "2e2188cce23355d75f3c443e418feaa8",
     "487661ef59104d8b5351965ef796390e",
     "91d99229d511883292c57f9213ffc7db",
-    "tg:FabrizioRomanoTG/64608"
+    "tg:FabrizioRomanoTG/64608",
+    "tg:FabrizioRomanoTG/64609",
+    "tg:FabrizioRomanoTG/64612"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1892,8 +1892,6 @@
     "interest: quansah -> arsenal"
   ],
   "titles": [
-    "fabrizio romano hints at life beyond football transfer news: is the \u2018here we go\u2019",
-    "\ud83d\udea8 \ud83d\udfe1 \ud83d\udd34 as roma and porto have been in contact all night for rodrigo mora deal at ",
     "transfer: lukaku\u2019s next club confirmed",
     "transfer guru fabrizio romano drops major hint he will retire in bombshell linke",
     "man utd in good position to sign everton star after romano reveals \u2018decision mad",
@@ -2191,7 +2189,9 @@
     "transfer news live! mudryk set for chelsea medical; new arsenal",
     "report: manchester united agree personal terms with chelsea",
     "liverpool news: bradley barcola update issued as psg transfer ruled out after ag",
-    "\ud83d\udea8 \ud83d\udd35 chelsea have not received any official bid for enzo fernandez \u2014 as their own"
+    "\ud83d\udea8 \ud83d\udd35 chelsea have not received any official bid for enzo fernandez \u2014 as their own",
+    "\ud83d\udea8 chelsea consider enzo fernandez no longer available at \u00a3120m as terms were mad",
+    "despite the denials: deal done 5h ago and mika godts, now on his way to paris \u2708\ufe0f"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2471,12 +2471,12 @@
     "thomas kristensen": "https://images.fotmob.com/image_resources/playerimages/1190029.png",
     "marc pubill": "https://r2.thesportsdb.com/images/media/player/cutout/jf6st71762288533.png/small",
     "jarell quansah": "https://r2.thesportsdb.com/images/media/player/cutout/wfep8o1756316392.png/small",
-    "hermann malonga": "",
     "lacine megnan pave": "",
     "heaven kilwa": "",
-    "said el mala": ""
+    "said el mala": "",
+    "hermann malonga": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

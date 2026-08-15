@@ -1,5 +1,25 @@
 [
  {
+  "id": "9ee5f5a8b8824bb712178e6509fc7ddf",
+  "ts": "2026-08-15T08:12:35+00:00",
+  "kind": "deal",
+  "stage": "Completed",
+  "player": "Cristian Romero",
+  "position": "Centre-back",
+  "age": "28",
+  "from_club": "Tottenham Hotspur",
+  "to_club": "Atletico Madrid",
+  "fee": "\u20ac40m (including add-ons; Spurs retain 15% sell-on clause)",
+  "style": "An aggressive, commanding centre-back who excels in one-on-one defending, reading the game and winning aerial duels, known for his intensity and ability to carry the ball out from the back.",
+  "fit": "Romero's combative defending and leadership qualities suit Atletico Madrid's historically compact, high-intensity defensive system perfectly, offering immediate organizational quality at the back.",
+  "source": "Fabrizio Romano; Sky Sports; Reuters",
+  "outlet": "arabnewspk",
+  "url": "https://www.arabnews.pk/node/2654711/sport",
+  "title": "Romero bids farewell to Spurs ahead of Atletico move",
+  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/dme7x81757016317.png/small",
+  "summary": "Cristian Romero has completed his move from Tottenham Hotspur to Atletico Madrid, signing a five-year contract through June 2031 after passing his medical. The reported fee is approximately \u20ac40m including add-ons, with Spurs retaining a 15% sell-on clause."
+ },
+ {
   "id": "17a6aca4e71a7ab910cccc33500be132",
   "ts": "2026-08-15T06:02:52+00:00",
   "kind": "interest",
@@ -318,26 +338,6 @@
   "outlet": "football-italia",
   "url": "https://football-italia.net/video-kristensen-arrives-for-atalanta-medical/",
   "title": "Video: Kristensen arrives for Atalanta medical, agreement \u20ac22m plus bonus"
- },
- {
-  "id": "9ee5f5a8b8824bb712178e6509fc7ddf",
-  "ts": "2026-08-12T20:15:44+00:00",
-  "kind": "deal",
-  "stage": "Here we go",
-  "player": "Cristian Romero",
-  "position": "Defender",
-  "age": "28",
-  "from_club": "Tottenham Hotspur",
-  "to_club": "Atletico Madrid",
-  "fee": "\u20ac40m",
-  "style": "Aggressive centre-back who reads the game well, uses physical strength to win duels and dominates the defensive line with commanding presence.",
-  "fit": "Deploy as a key cornerstone of Atl\u00e9tico's defensive unit to anchor their back line with his intensity and leadership in Diego Simeone's rigid defensive structure.",
-  "source": "Fabrizio Romano",
-  "outlet": "Telegram @fabrizioromanotg",
-  "url": "https://t.me/FabrizioRomanoTG/64504",
-  "title": "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f BREAKING: Cristian Romero to Atl\u00e9tico Madrid, HERE WE GO! \ud83c\udde6\ud83c\uddf7 Agreement in place between clubs with Tottenham at \u20ac",
-  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/dme7x81757016317.png/small",
-  "summary": "Cristian Romero to Atl\u00e9tico Madrid, agreement in place between clubs with Tottenham at \u20ac40m package including add-ons."
  },
  {
   "id": "d8a13228fe1e1579b30ab5a67091b857",

@@ -1,8 +1,5 @@
 {
   "sent": [
-    "4eb7bfccf012c2d1aa57bbaa2638d8b0",
-    "87622e88db45c4530d94f766b8da1e64",
-    "af755058128b60ded1c4b216fb3107ed",
     "87c78f46a5a2c5b7f2a83d263b7f036c",
     "tg:FabrizioRomanoTG/63971",
     "59b555b7dfffe727c64b41657531ff37",
@@ -1499,7 +1496,10 @@
     "tg:FabrizioRomanoTG/64636",
     "1c4767440b35bd2845404cc34d4128c3",
     "b3a5186075cc29ab9a186145d7ea596b",
-    "tg:FabrizioRomanoTG/64637"
+    "tg:FabrizioRomanoTG/64637",
+    "a340a7d2580a4fb0d564a482b414fc31",
+    "39c25bea8797ad13d2e6cbbecefb077b",
+    "9670fb59a8ee7bf4cf0b8c227714982f"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1902,9 +1902,6 @@
     "interest: fort -> borussia dortmund"
   ],
   "titles": [
-    "aston villa will \u2018find it hard\u2019 to say no to certain arsenal offer for ezri kons",
-    "barcelona increases its offer for rodri",
-    "this summer\u2019s mbeumo cunha have arrived, but carrick\u2019s situation is entirely dif",
     "\u00a3100m bid required as manchester united & liverpool receive transfer update",
     "myles lewis skelly reaches decision on joining man utd from arsenal for \u00a345m",
     "report: aston villa finally set to seal move for \u20ac26 5m defender",
@@ -2201,7 +2198,10 @@
     "savinho fuels transfer speculation after modifying social media profile",
     "rt @fabrizioromano : \ud83d\udd34 \ud83d\udd35 \ud83d\udc4b\ud83c\udffc ferran torres and mika godts are both in paris right",
     "\u2018i know i wasn\u2019t perfect\u2019 \u2013 cristian romero issues farewell message to tottenham",
-    "\u2764\ufe0f \ud83d\udc99 \ud83c\uddea\ud83c\uddf8 official, confirmed paris saint germain sign ferran torres from barcelon"
+    "\u2764\ufe0f \ud83d\udc99 \ud83c\uddea\ud83c\uddf8 official, confirmed paris saint germain sign ferran torres from barcelon",
+    "napoli edging closer to arsenal striker deal",
+    "barcelona prepare their final push for rodri",
+    "elversberg set to sign eintracht frankfurt striker noel futkeu (23) on loan"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2485,13 +2485,13 @@
     "kim min jae": "https://r2.thesportsdb.com/images/media/player/cutout/m4uh701756408877.png/small",
     "luis suarez": "https://r2.thesportsdb.com/images/media/player/cutout/vfjd0w1750315193.png/small",
     "hector fort": "https://r2.thesportsdb.com/images/media/player/cutout/x1ag1j1762371932.png/small",
-    "lacine megnan pave": "",
     "dastan satpayev": "",
     "heaven kilwa": "",
     "said el mala": "",
-    "hermann malonga": ""
+    "hermann malonga": "",
+    "lacine megnan pave": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 5,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

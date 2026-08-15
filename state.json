@@ -1,8 +1,5 @@
 {
   "sent": [
-    "6646e2351a9d516f572347636cab6763",
-    "306a1fd199f100a1bfdc6fd7a0efc49e",
-    "f32db7a133dfee110391f852235d0d54",
     "tg:FabrizioRomanoTG/63977",
     "189d78eeab1c5d305c07facaa69a57e3",
     "tg:FabrizioRomanoTG/63978",
@@ -1499,7 +1496,10 @@
     "tg:FabrizioRomanoTG/64667",
     "tg:FabrizioRomanoTG/64668",
     "tg:FabrizioRomanoTG/64669",
-    "tg:FabrizioRomanoTG/64670"
+    "tg:FabrizioRomanoTG/64670",
+    "3c8f3f0810ee0708754550e36564b70b",
+    "tg:FabrizioRomanoTG/64671",
+    "tg:FabrizioRomanoTG/64672"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1713,7 +1713,7 @@
     "reijnders -> al qadsiah": 1,
     "badiashile -> napoli": 1,
     "lucumi -> juventus": 1,
-    "godts -> psg": 1,
+    "godts -> psg": 2,
     "satpayev -> burnley": 1
   },
   "interest": [
@@ -1903,9 +1903,6 @@
     "interest: martinez -> juventus"
   ],
   "titles": [
-    "former tottenham star agrees terms with aston villa as euro giants told he wants",
-    "\ud83d\udea8 official: xavi to manage the netherlands national team",
-    "barcelona target expresses desire to leave current club as he holds talks with h",
     "\ud83d\udea8 \ud83c\uddf8\ud83c\udde6 understand al qadsiah are in advanced talks with manchester city to sign ti",
     "luis henrique not eager for roma move, as inter want \u20ac30m payday",
     "\ud83d\udea8 liverpool could add two wingers to the squad, especially if cody gakpo end up ",
@@ -2202,7 +2199,10 @@
     "\ud83d\udea8 \ud83d\udd34 marcus rashford has made his official comeback at manchester united after lo",
     "\ud83d\udd35 \u26aa\ufe0f rangers confirm deal done for james penrice loan with option from aek athen",
     "\ud83d\udea8 \u26ab\ufe0f \ud83d\udd35 official, confirmed djed spence has joined inter on \u20ac35m package deal fro",
-    "rt @fabrizioromano : \ud83d\udea8 \ud83e\ude75 \ud83e\udd0d exclusive: coventry city agree deal to sign taiwo awo"
+    "rt @fabrizioromano : \ud83d\udea8 \ud83e\ude75 \ud83e\udd0d exclusive: coventry city agree deal to sign taiwo awo",
+    "transfer shocker? bayer leverkusen could be eyeing blockbuster sale",
+    "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f discussions between juventus and dibu martinez not at advanced stages af",
+    "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 understand mika godts has just signed his contract as new paris saint germ"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2487,13 +2487,13 @@
     "luis suarez": "https://r2.thesportsdb.com/images/media/player/cutout/vfjd0w1750315193.png/small",
     "hector fort": "https://r2.thesportsdb.com/images/media/player/cutout/x1ag1j1762371932.png/small",
     "emiliano martinez": "https://r2.thesportsdb.com/images/media/player/cutout/ffr5xx1756984715.png/small",
-    "lacine megnan pave": "",
     "dastan satpayev": "",
     "heaven kilwa": "",
     "said el mala": "",
-    "hermann malonga": ""
+    "hermann malonga": "",
+    "lacine megnan pave": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 5,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

@@ -1,6 +1,5 @@
 {
   "sent": [
-    "ecc428c091013c5edc223b152266b34c",
     "bae9c6448d87ab1151ba002d55366e6b",
     "c90a3db7a2a23028576593e4cb77fda6",
     "0e42206b6e2e810929975b9ec185652c",
@@ -1499,7 +1498,8 @@
     "325ac2601846356bdaada478319b45e6",
     "bd9ff3539d0bc14ed2d2341f1ab9d86c",
     "7f39203eca465d10f7268eabea232ded",
-    "tg:FabrizioRomanoTG/64641"
+    "tg:FabrizioRomanoTG/64641",
+    "tg:FabrizioRomanoTG/64643"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1902,7 +1902,6 @@
     "interest: fort -> borussia dortmund"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83e\udd85 lazio are expected to close final steps of davide frattesi deal with inter t",
     "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 paris saint germain set to go all in on the market after winning another s",
     "curtis jones nears \u00a330m liverpool exit to inter milan, with a newcastle move hol",
     "report: european giants have cunning plan in mind to snap up liverpool stalwart ",
@@ -2201,7 +2200,8 @@
     "barcelona hold hector fort transfer talks with borussia dortmund",
     "liverpool\u2019s transfer strategy for winger targets",
     "\u2018tottenham are in very concrete talks\u2019 \u2013 sky sports jounalist drop exciting tott",
-    "\ud83d\udea8 \ud83c\uddf5\ud83c\uddf9 joao palhinha\u2019s future, still open after bayern rejected conditions offered"
+    "\ud83d\udea8 \ud83c\uddf5\ud83c\uddf9 joao palhinha\u2019s future, still open after bayern rejected conditions offered",
+    "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f newcastle have agreed deal with benfica to sign amar dedic, here we go! "
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2485,13 +2485,13 @@
     "kim min jae": "https://r2.thesportsdb.com/images/media/player/cutout/m4uh701756408877.png/small",
     "luis suarez": "https://r2.thesportsdb.com/images/media/player/cutout/vfjd0w1750315193.png/small",
     "hector fort": "https://r2.thesportsdb.com/images/media/player/cutout/x1ag1j1762371932.png/small",
-    "dastan satpayev": "",
     "heaven kilwa": "",
     "said el mala": "",
     "hermann malonga": "",
-    "lacine megnan pave": ""
+    "lacine megnan pave": "",
+    "dastan satpayev": ""
   },
-  "photo_repair_idx": 5,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

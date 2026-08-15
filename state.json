@@ -1,6 +1,5 @@
 {
   "sent": [
-    "efe6ebe66133d51dedca12e5fb7246dc",
     "tg:FabrizioRomanoTG/63942",
     "tg:FabrizioRomanoTG/63943",
     "7d936d01bfcca3f89d52a4d44d68beba",
@@ -1499,7 +1498,8 @@
     "b0082a9a638c0e52998b400480c8c6f7",
     "497accb6fcd834c682adccb7dd3160b5",
     "14943d96528cfc75250cf96d52f0066f",
-    "4d84439f604f0a5d6b16a79cb2407c49"
+    "4d84439f604f0a5d6b16a79cb2407c49",
+    "1347d63546dadd5f0dd054d35648e8ed"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1901,7 +1901,6 @@
     "interest: quansah -> manchester united"
   ],
   "titles": [
-    "rumour mongering: inter inch closer to curtis jones move",
     "transfer news: lewis skelly keen on arsenal stay despite man united, chelsea lin",
     "cologne eye said el mala replacement",
     "rt @fabrizioromano : \ud83d\udea8 \ud83c\uddf3\ud83c\uddf1 breaking: xavi has agreed to become new dutch national",
@@ -2200,7 +2199,8 @@
     "bayer leverkusen face premier league pressure as arsenal track quansah and ipswi",
     "tottenham get new savinho update as man city transfer saga rumbles on",
     "psg, ajax reach agreement on mika godts per report",
-    "psg reach verbal agreement with ajax to sign mika godts"
+    "psg reach verbal agreement with ajax to sign mika godts",
+    "approach made: chelsea could conclude forward deal in final 2 weeks of the windo"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2483,13 +2483,13 @@
     "luis javier suarez charris": "https://r2.thesportsdb.com/images/media/player/cutout/lnqj5l1762290563.png/small",
     "kim min jae": "https://r2.thesportsdb.com/images/media/player/cutout/m4uh701756408877.png/small",
     "luis suarez": "https://r2.thesportsdb.com/images/media/player/cutout/vfjd0w1750315193.png/small",
-    "hermann malonga": "",
     "lacine megnan pave": "",
     "dastan satpayev": "",
     "heaven kilwa": "",
-    "said el mala": ""
+    "said el mala": "",
+    "hermann malonga": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

@@ -1,6 +1,5 @@
 {
   "sent": [
-    "22f56f4b616c28808bd3a3e0e7797e22",
     "8b7a1906a9c98509cfe6a61fde74dc74",
     "c05cb73b271db9802bfcfa9848c53525",
     "56d510dd852da71072dc0a3559f395cd",
@@ -1499,7 +1498,8 @@
     "4a6cbf90b41505a805a27df17064d9f3",
     "b99648e7a1394fea7bede0bd5c91c4be",
     "687e4d7925b2b6f358f4ea40b7cf80e9",
-    "tg:FabrizioRomanoTG/64675"
+    "tg:FabrizioRomanoTG/64675",
+    "6adc610badc65f6c3ef7d45b1234a148"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1903,7 +1903,6 @@
     "interest: martinez -> juventus"
   ],
   "titles": [
-    "fabrizio romano reveals arsenal \u2018contact\u2019 for new atletico madrid star football3",
     "\u2018here we go!\u2019 cristian romero completes \u20ac40m move to atletico madrid from totten",
     "manchester city have a deadline to meet if they want to sign chelsea\u2019s world cup",
     "chelsea set enzo fernandez transfer deadline amid man city interest",
@@ -2202,7 +2201,8 @@
     "man city target reaches terms agreement for exit with chelsea now open to sale",
     "cody gakpo tells liverpool he wants tottenham move with terms agreed and giant b",
     "a midfielder looks to be on his way out of manchester city which is a shame",
-    "\ud83d\udd34 \ud83d\udd35 \ud83c\udde7\ud83c\uddea official, exclusive story confirmed mika godts signs in at paris saint ge"
+    "\ud83d\udd34 \ud83d\udd35 \ud83c\udde7\ud83c\uddea official, exclusive story confirmed mika godts signs in at paris saint ge",
+    "liverpool fully expect to seal agreement with generational star \u2013 exclusive"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2487,13 +2487,13 @@
     "luis suarez": "https://r2.thesportsdb.com/images/media/player/cutout/vfjd0w1750315193.png/small",
     "hector fort": "https://r2.thesportsdb.com/images/media/player/cutout/x1ag1j1762371932.png/small",
     "emiliano martinez": "https://r2.thesportsdb.com/images/media/player/cutout/ffr5xx1756984715.png/small",
-    "lacine megnan pave": "",
     "dastan satpayev": "",
     "heaven kilwa": "",
     "said el mala": "",
-    "hermann malonga": ""
+    "hermann malonga": "",
+    "lacine megnan pave": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 5,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

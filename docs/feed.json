@@ -1,7 +1,7 @@
 [
  {
   "id": "tg:FabrizioRomanoTG/64482",
-  "ts": "2026-08-15T20:01:27+00:00",
+  "ts": "2026-08-15T20:02:43+00:00",
   "kind": "deal",
   "photo": "https://r2.thesportsdb.com/images/media/player/cutout/z58bx11759408884.png/small",
   "stage": "Completed",
@@ -10,11 +10,11 @@
   "age": "26",
   "from_club": "Inter Milan",
   "to_club": "Lazio",
-  "fee": "Loan (\u20ac1m fee, \u20ac14m option to buy; option becomes obligation if appearance threshold met and Lazio finish top 10)",
-  "style": "Box-to-box midfielder with dynamic runs into the penalty area, high work rate, and a knack for late goals.",
-  "fit": "Lazio get an energetic, goal-contributing midfielder who will be central to their project, with a pathway to a permanent deal if both parties meet the agreed conditions.",
-  "source": "Fabrizio Romano, Gianluca Di Marzio, Football Italia",
-  "summary": "Davide Frattesi has officially completed a loan move from Inter Milan to Lazio for the 2026/27 season, with a \u20ac1m loan fee and a \u20ac14m option to buy that becomes an obligation if Frattesi reaches a set appearance threshold and Lazio finish in the top half of Serie A. The deal required last-minute restructuring after the Lega Serie A initially blocked it due to transfer restrictions on Lazio, resolved by an agreement between presidents Lotito and Marotta.",
+  "fee": "\u20ac1m loan fee + \u20ac14m option to buy (potential obligation)",
+  "style": "A dynamic, box-to-box midfielder who makes intelligent runs into the penalty area, presses relentlessly, and contributes goals from midfield.",
+  "fit": "Frattesi's energy and goal threat from deep should make him a focal point in Lazio's midfield, giving him the central role and consistent minutes he was unable to secure at Inter.",
+  "source": "Football Italia (Di Marzio / Fabrizio Romano)",
+  "summary": "Davide Frattesi has officially completed a season-long loan move from Inter Milan to Lazio for a \u20ac1m loan fee, with an option to buy set at \u20ac14m that can become an obligation if Frattesi reaches a minimum appearance threshold and Lazio finish in the top 10 of Serie A. Inter retain a 50% sell-on clause, and both clubs confirmed the deal on 15 August 2026.",
   "outlet": "football-italia",
   "url": "https://football-italia.net/frattesi-seals-lazio-return-home/",
   "title": "Frattesi on Lazio return: \u2018I needed to feel at the centre of a project\u2019"

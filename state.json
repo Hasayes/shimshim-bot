@@ -1,6 +1,5 @@
 {
   "sent": [
-    "c05cb73b271db9802bfcfa9848c53525",
     "56d510dd852da71072dc0a3559f395cd",
     "8f298aff687534a4134cc8655a190482",
     "a21f765230812ffa7dcc32859df44be0",
@@ -1499,7 +1498,8 @@
     "687e4d7925b2b6f358f4ea40b7cf80e9",
     "tg:FabrizioRomanoTG/64675",
     "6adc610badc65f6c3ef7d45b1234a148",
-    "7ff4876fb3af37d1b383df1a1fa44a9f"
+    "7ff4876fb3af37d1b383df1a1fa44a9f",
+    "52a106461031913878242651be1724a3"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1903,7 +1903,6 @@
     "interest: martinez -> juventus"
   ],
   "titles": [
-    "manchester city have a deadline to meet if they want to sign chelsea\u2019s world cup",
     "chelsea set enzo fernandez transfer deadline amid man city interest",
     "fabrizio romano confirms arsenal \u2018will\u2019 make signing no 5 amid \u00a360m \u2018negotiation",
     "atletico madrid\u2019s \u20ac40m signing gets the \u2018here we go\u2019",
@@ -2202,7 +2201,8 @@
     "a midfielder looks to be on his way out of manchester city which is a shame",
     "\ud83d\udd34 \ud83d\udd35 \ud83c\udde7\ud83c\uddea official, exclusive story confirmed mika godts signs in at paris saint ge",
     "liverpool fully expect to seal agreement with generational star \u2013 exclusive",
-    "transfer rumors, news: arsenal turn to versatile brighton midfielder"
+    "transfer rumors, news: arsenal turn to versatile brighton midfielder",
+    "rodri transfer latest news: barcelona make \u20ac70 million third offer to manchester"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2487,13 +2487,13 @@
     "luis suarez": "https://r2.thesportsdb.com/images/media/player/cutout/vfjd0w1750315193.png/small",
     "hector fort": "https://r2.thesportsdb.com/images/media/player/cutout/x1ag1j1762371932.png/small",
     "emiliano martinez": "https://r2.thesportsdb.com/images/media/player/cutout/ffr5xx1756984715.png/small",
-    "heaven kilwa": "",
     "said el mala": "",
     "hermann malonga": "",
     "lacine megnan pave": "",
-    "dastan satpayev": ""
+    "dastan satpayev": "",
+    "heaven kilwa": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

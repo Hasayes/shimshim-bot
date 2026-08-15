@@ -1,5 +1,25 @@
 [
  {
+  "id": "76dd8f18275aab472a34301c7c98a73f",
+  "ts": "2026-08-15T09:30:35+00:00",
+  "kind": "deal",
+  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/feey201726510461.png/small",
+  "stage": "Completed",
+  "player": "Ferran Torres",
+  "position": "Attacker",
+  "age": "\u2014",
+  "from_club": "Barcelona",
+  "to_club": "Paris Saint-Germain",
+  "fee": "\u20ac50m",
+  "style": "Versatile winger with excellent technical ability, capable of playing across the front line with intelligent movement and efficient finishing.",
+  "fit": "Can provide width and creativity in PSG's attacking setup, offering flexibility to rotate across multiple attacking positions alongside their star forwards.",
+  "source": "Fabrizio Romano",
+  "outlet": "Telegram @fabrizioromanotg",
+  "url": "https://t.me/FabrizioRomanoTG/64637",
+  "title": "\u2764\ufe0f \ud83d\udc99 \ud83c\uddea\ud83c\uddf8 Official, confirmed. Paris Saint-Germain sign Ferran Torres from Barcelona for \u20ac50m fee. Contract until June 203",
+  "summary": "Paris Saint-Germain have officially signed Ferran Torres from Barcelona for \u20ac50m on a contract until June 2031."
+ },
+ {
   "id": "9ee5f5a8b8824bb712178e6509fc7ddf",
   "ts": "2026-08-15T08:12:35+00:00",
   "kind": "deal",
@@ -458,26 +478,6 @@
   "outlet": "yahoo",
   "url": "https://ca.sports.yahoo.com/news/report-liverpool-showed-concrete-interest-195000433.html",
   "title": "Report: Liverpool showed \u2018concrete interest\u2019 in summer move for Premier League star"
- },
- {
-  "id": "76dd8f18275aab472a34301c7c98a73f",
-  "ts": "2026-08-12T03:15:30+00:00",
-  "kind": "deal",
-  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/feey201726510461.png/small",
-  "stage": "Here we go",
-  "player": "Ferran Torres",
-  "position": "Attacker",
-  "age": "\u2014",
-  "from_club": "Barcelona",
-  "to_club": "PSG",
-  "fee": "\u20ac55m",
-  "style": "Versatile attacker with pace and directness who can operate across the front three with intelligent movement and clinical finishing.",
-  "fit": "Deploy as a right winger or second striker to provide width and goal-scoring threat alongside PSG's attacking ensemble.",
-  "source": "Yahoo",
-  "outlet": "yahoo",
-  "url": "https://sports.yahoo.com/articles/latest-psg-barcelona-agree-55m-151000540.html",
-  "title": "Latest: PSG and Barcelona agree \u20ac55m deal for attacker who could sign this Friday",
-  "summary": "PSG and Barcelona have agreed a \u20ac55m deal for attacker Ferran Torres, with the Spanish player potentially signing this Friday."
  },
  {
   "id": "tg:FabrizioRomanoTG/63913",

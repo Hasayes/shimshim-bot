@@ -1,6 +1,5 @@
 {
   "sent": [
-    "067db2c55db54da484d70fa519d678ac",
     "tg:FabrizioRomanoTG/63973",
     "cd409ac3e0214db3f0c14e7acadc99fa",
     "baf0bb626fc54792c290c46447b6145d",
@@ -1499,7 +1498,8 @@
     "tg:FabrizioRomanoTG/64660",
     "tg:FabrizioRomanoTG/64661",
     "tg:FabrizioRomanoTG/64662",
-    "tg:FabrizioRomanoTG/64664"
+    "tg:FabrizioRomanoTG/64664",
+    "tg:FabrizioRomanoTG/64665"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1903,7 +1903,6 @@
     "interest: martinez -> juventus"
   ],
   "titles": [
-    "bayern munich\u2019s joao palhinha agrees personal terms with aston villa",
     "video: kristensen arrives for atalanta medical, agreement \u20ac22m plus bonus",
     "transfer: caicedo\u2019s move to barcelona confirmed",
     "tottenham defender all set for exit as fabrizio romano discloses 'transfer fee' ",
@@ -2202,7 +2201,8 @@
     "\ud83d\udea8 \u26a0\ufe0f breaking: zion suzuki to paris saint germain deal, on the verge of collapsi",
     "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 paris saint germain sources confirm deal off for zion suzuki verbal agreem",
     "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f dayann methalie to sunderland, here we go! verbal agreement in place for ",
-    "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f juventus have asked again today about emiliano martinez situation at ast"
+    "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f juventus have asked again today about emiliano martinez situation at ast",
+    "\ud83d\udea8 \ud83d\udfe3 \ud83d\udd35 aston villa have already made formal approach with parma for zion suzuki #"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2486,14 +2486,14 @@
     "kim min jae": "https://r2.thesportsdb.com/images/media/player/cutout/m4uh701756408877.png/small",
     "luis suarez": "https://r2.thesportsdb.com/images/media/player/cutout/vfjd0w1750315193.png/small",
     "hector fort": "https://r2.thesportsdb.com/images/media/player/cutout/x1ag1j1762371932.png/small",
-    "lacine megnan pave": "",
     "dastan satpayev": "",
     "heaven kilwa": "",
     "said el mala": "",
     "emiliano martinez": "https://r2.thesportsdb.com/images/media/player/cutout/ffr5xx1756984715.png/small",
-    "hermann malonga": ""
+    "hermann malonga": "",
+    "lacine megnan pave": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 5,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

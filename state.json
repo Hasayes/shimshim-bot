@@ -1,7 +1,5 @@
 {
   "sent": [
-    "bc627306143c553036e8b66cd0f6d20f",
-    "78a4fde96ad253a35ec0d91f9a1004a5",
     "4ba21af54fdc0f4f52943d21195cf5aa",
     "6d5d3bfa3bcd20be92f2f8f0a1a8410a",
     "a836d1f810fcafaa4284f0e67a86b1cf",
@@ -1499,7 +1497,9 @@
     "56d228f9850f838d443a5088e64222a2",
     "5a4950a22e4af477e5d6e3a5f48c621a",
     "089343fc733f94080d59f655ca807ebf",
-    "55b375497badc5890e9fed43d2b96fbb"
+    "55b375497badc5890e9fed43d2b96fbb",
+    "bff06ae2814fe916c875e49a351c48b1",
+    "a7d49eba68d5f2e3d6af59efa98cc3c4"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1901,8 +1901,6 @@
     "interest: quansah -> manchester united"
   ],
   "titles": [
-    "barcelona raise offer for rodri as man city demand \u20ac80m",
-    "chelsea transfer news: pep chavarria signing confirmed, fee, contract length rev",
     "romano claims \u2018deal could happen\u2019 for liverpool player\u2019s late exit this summer",
     "euro giants have \u201csubmitted an official offer\u201d for arsenal duo, claims journalis",
     "boost for ineos: romano confirms man utd target has turned down foreign approach",
@@ -2200,7 +2198,9 @@
     "alexis mac allister reaches decision on leaving liverpool to join man city amid ",
     "ajax reach verbal agreement to sell mika godts to psg for \u20ac55 million",
     "ornstein: gabriel martinelli makes final decision on arsenal to galatasaray tran",
-    "bradley barcola transfer alternative off the table after devastating injury news"
+    "bradley barcola transfer alternative off the table after devastating injury news",
+    "fabrizio romano: tottenham 'movement expected' to sign savinho and gakpo",
+    "arsenal handed julian alvarez boost as barcelona 'include viktor gyokeres replac"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2483,13 +2483,13 @@
     "luis javier suarez charris": "https://r2.thesportsdb.com/images/media/player/cutout/lnqj5l1762290563.png/small",
     "kim min jae": "https://r2.thesportsdb.com/images/media/player/cutout/m4uh701756408877.png/small",
     "luis suarez": "https://r2.thesportsdb.com/images/media/player/cutout/vfjd0w1750315193.png/small",
-    "lacine megnan pave": "",
     "dastan satpayev": "",
     "heaven kilwa": "",
     "said el mala": "",
-    "hermann malonga": ""
+    "hermann malonga": "",
+    "lacine megnan pave": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 5,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

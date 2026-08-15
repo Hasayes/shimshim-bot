@@ -1,10 +1,5 @@
 {
   "sent": [
-    "57a8fd9e70e4b6b15b15ecb92e4ddbca",
-    "23008b798f5a3d1a51d753feb71edc80",
-    "1dbc0771da52d8f578f1ad8d98afde1d",
-    "4480276063a6bb975351bdf54d897030",
-    "247cc496ddcab5c70e79e26b1c6d7893",
     "efe6ebe66133d51dedca12e5fb7246dc",
     "tg:FabrizioRomanoTG/63942",
     "tg:FabrizioRomanoTG/63943",
@@ -1499,7 +1494,12 @@
     "9aba1fd02a0b01a4d58b20946edd46d8",
     "8274272550dd4650709c9f4678e77e07",
     "bd04610367c351631c61ad06221e2cb3",
-    "ef51c81b5afac53371da43676799324e"
+    "ef51c81b5afac53371da43676799324e",
+    "7687bde46f911ebd74fc2f591a41b3f4",
+    "b0082a9a638c0e52998b400480c8c6f7",
+    "497accb6fcd834c682adccb7dd3160b5",
+    "14943d96528cfc75250cf96d52f0066f",
+    "4d84439f604f0a5d6b16a79cb2407c49"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1901,10 +1901,6 @@
     "interest: quansah -> manchester united"
   ],
   "titles": [
-    "transfer news live: liverpool eye cut price barcola deal, arsenal blow, chelsea ",
-    "moretto: henrique not close to roma due to high fees",
-    "fc barcelona makes new rodri bid to manchester city",
-    "newcastle nearing agreement for benfica defender after left back exit: breaking",
     "rumour mongering: inter inch closer to curtis jones move",
     "transfer news: lewis skelly keen on arsenal stay despite man united, chelsea lin",
     "cologne eye said el mala replacement",
@@ -2200,7 +2196,11 @@
     "psg transfer push accelerates as torres deal is agreed and godts talks near brea",
     "como approach chelsea for delap after securing \u20ac30m chalobah deal",
     "man utd step up efforts to sign arsenal target jarell quansah as liverpool clear",
-    "\u2018package verbally agreed\u2019 \u2013 bradley barcola to liverpool looks imminent after br"
+    "\u2018package verbally agreed\u2019 \u2013 bradley barcola to liverpool looks imminent after br",
+    "bayer leverkusen face premier league pressure as arsenal track quansah and ipswi",
+    "tottenham get new savinho update as man city transfer saga rumbles on",
+    "psg, ajax reach agreement on mika godts per report",
+    "psg reach verbal agreement with ajax to sign mika godts"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2482,14 +2482,14 @@
     "jarell quansah": "https://r2.thesportsdb.com/images/media/player/cutout/wfep8o1756316392.png/small",
     "luis javier suarez charris": "https://r2.thesportsdb.com/images/media/player/cutout/lnqj5l1762290563.png/small",
     "kim min jae": "https://r2.thesportsdb.com/images/media/player/cutout/m4uh701756408877.png/small",
-    "said el mala": "",
     "luis suarez": "https://r2.thesportsdb.com/images/media/player/cutout/vfjd0w1750315193.png/small",
     "hermann malonga": "",
     "lacine megnan pave": "",
     "dastan satpayev": "",
-    "heaven kilwa": ""
+    "heaven kilwa": "",
+    "said el mala": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

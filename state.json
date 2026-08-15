@@ -1,6 +1,5 @@
 {
   "sent": [
-    "cfe47a4b20e148d5a6b30547e016bf1a",
     "75733ebbc043ee333ebb7a8ebb53b19a",
     "5c82cad356895037f46b696fa30a135a",
     "ecc428c091013c5edc223b152266b34c",
@@ -1499,7 +1498,8 @@
     "da9948c91d45a58a8adb669c065bfb3c",
     "6a7f725240239b90694190d580675e03",
     "fc86a7a845dc11a1d40048453fa41bd9",
-    "325ac2601846356bdaada478319b45e6"
+    "325ac2601846356bdaada478319b45e6",
+    "bd9ff3539d0bc14ed2d2341f1ab9d86c"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1902,7 +1902,6 @@
     "interest: fort -> borussia dortmund"
   ],
   "titles": [
-    "barcelona transfer news: man city 'take stance' over rodri sale amid \u20ac60m offer",
     "fabrizio romano gives bizarre tottenham deal \u2018here we go\u2019 confirmation",
     "fabrizio romano gives bizarre tottenham deal \u2018here we go\u2019 confirmation teamtalk",
     "\ud83d\udea8 \ud83e\udd85 lazio are expected to close final steps of davide frattesi deal with inter t",
@@ -2201,7 +2200,8 @@
     "elversberg set to sign eintracht frankfurt striker noel futkeu (23) on loan",
     "fabrizio romano goes \u2018all in\u2019 on bradley barcola to liverpool with agreement don",
     "liverpool have clear plan if cody gakpo joins tottenham as fabrizio romano revea",
-    "barcelona hold hector fort transfer talks with borussia dortmund"
+    "barcelona hold hector fort transfer talks with borussia dortmund",
+    "liverpool\u2019s transfer strategy for winger targets"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2485,13 +2485,13 @@
     "kim min jae": "https://r2.thesportsdb.com/images/media/player/cutout/m4uh701756408877.png/small",
     "luis suarez": "https://r2.thesportsdb.com/images/media/player/cutout/vfjd0w1750315193.png/small",
     "hector fort": "https://r2.thesportsdb.com/images/media/player/cutout/x1ag1j1762371932.png/small",
-    "said el mala": "",
     "hermann malonga": "",
     "lacine megnan pave": "",
     "dastan satpayev": "",
-    "heaven kilwa": ""
+    "heaven kilwa": "",
+    "said el mala": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

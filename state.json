@@ -1,6 +1,5 @@
 {
   "sent": [
-    "8b7a1906a9c98509cfe6a61fde74dc74",
     "c05cb73b271db9802bfcfa9848c53525",
     "56d510dd852da71072dc0a3559f395cd",
     "8f298aff687534a4134cc8655a190482",
@@ -1499,7 +1498,8 @@
     "b99648e7a1394fea7bede0bd5c91c4be",
     "687e4d7925b2b6f358f4ea40b7cf80e9",
     "tg:FabrizioRomanoTG/64675",
-    "6adc610badc65f6c3ef7d45b1234a148"
+    "6adc610badc65f6c3ef7d45b1234a148",
+    "7ff4876fb3af37d1b383df1a1fa44a9f"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1903,7 +1903,6 @@
     "interest: martinez -> juventus"
   ],
   "titles": [
-    "\u2018here we go!\u2019 cristian romero completes \u20ac40m move to atletico madrid from totten",
     "manchester city have a deadline to meet if they want to sign chelsea\u2019s world cup",
     "chelsea set enzo fernandez transfer deadline amid man city interest",
     "fabrizio romano confirms arsenal \u2018will\u2019 make signing no 5 amid \u00a360m \u2018negotiation",
@@ -2202,7 +2201,8 @@
     "cody gakpo tells liverpool he wants tottenham move with terms agreed and giant b",
     "a midfielder looks to be on his way out of manchester city which is a shame",
     "\ud83d\udd34 \ud83d\udd35 \ud83c\udde7\ud83c\uddea official, exclusive story confirmed mika godts signs in at paris saint ge",
-    "liverpool fully expect to seal agreement with generational star \u2013 exclusive"
+    "liverpool fully expect to seal agreement with generational star \u2013 exclusive",
+    "transfer rumors, news: arsenal turn to versatile brighton midfielder"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2487,13 +2487,13 @@
     "luis suarez": "https://r2.thesportsdb.com/images/media/player/cutout/vfjd0w1750315193.png/small",
     "hector fort": "https://r2.thesportsdb.com/images/media/player/cutout/x1ag1j1762371932.png/small",
     "emiliano martinez": "https://r2.thesportsdb.com/images/media/player/cutout/ffr5xx1756984715.png/small",
-    "dastan satpayev": "",
     "heaven kilwa": "",
     "said el mala": "",
     "hermann malonga": "",
-    "lacine megnan pave": ""
+    "lacine megnan pave": "",
+    "dastan satpayev": ""
   },
-  "photo_repair_idx": 5,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

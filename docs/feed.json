@@ -1,5 +1,25 @@
 [
  {
+  "id": "24fee46288122839d637df046f6b68f2",
+  "ts": "2026-08-15T16:45:36+00:00",
+  "kind": "deal",
+  "stage": "Completed",
+  "player": "Djed Spence",
+  "position": "Left-back",
+  "age": "25",
+  "from_club": "Tottenham Hotspur",
+  "to_club": "Inter",
+  "fee": "\u20ac35m",
+  "style": "Pacey right-back with excellent defensive recovery and aggressive pressing off the ball.",
+  "fit": "Deploy him as Inter's primary right-back to provide defensive solidity and attacking thrust down the flank.",
+  "source": "Fabrizio Romano",
+  "outlet": "Telegram @fabrizioromanotg",
+  "url": "https://t.me/FabrizioRomanoTG/64669",
+  "title": "\ud83d\udea8 \u26ab\ufe0f \ud83d\udd35 Official, confirmed. Djed Spence has joined Inter on \u20ac35m package deal from Tottenham. Deal until June 2031. \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65",
+  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/erd1vi1757875565.png/small",
+  "summary": "Djed Spence has officially joined Inter from Tottenham on a \u20ac35m deal until June 2031."
+ },
+ {
   "id": "tg:FabrizioRomanoTG/64664",
   "ts": "2026-08-15T15:30:43+00:00",
   "kind": "interest",
@@ -418,26 +438,6 @@
   "outlet": "yahoo",
   "url": "https://sports.yahoo.com/articles/cologne-eye-said-el-mala-081500053.html",
   "title": "Cologne eye Said El Mala replacement"
- },
- {
-  "id": "24fee46288122839d637df046f6b68f2",
-  "ts": "2026-08-12T12:45:46+00:00",
-  "kind": "deal",
-  "stage": "Here we go",
-  "player": "Djed Spence",
-  "position": "Left-back",
-  "age": "25",
-  "from_club": "Tottenham Hotspur",
-  "to_club": "Inter",
-  "fee": "\u20ac30m",
-  "style": "Pacey right-back who combines athleticism with defensive solidity and forward-running ability.",
-  "fit": "Can operate as a dynamic fullback option in Inter's defensive setup, providing width and supporting the attack down the right flank.",
-  "source": "Fabrizio Romano",
-  "outlet": "Telegram @fabrizioromanotg",
-  "url": "https://t.me/FabrizioRomanoTG/64483",
-  "title": "\ud83d\udea8 \u26ab\ufe0f \ud83d\udd35 Understand Inter are closing in on Djed Spence deal! Agreement almost done with final steps to follow. Spence has",
-  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/erd1vi1757875565.png/small",
-  "summary": "Inter are closing in on Djed Spence from Tottenham with agreement almost done. Spence has agreed personal terms and the clubs are in contact to finalize the deal over \u20ac30m."
  },
  {
   "id": "tg:FabrizioRomanoTG/64482",

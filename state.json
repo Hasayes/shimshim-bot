@@ -1,8 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/63956",
-    "tg:FabrizioRomanoTG/63957",
-    "ebfc98c8aced8f06ab2eaf64c5c2ba4b",
     "b3b4d0cf28bf74494f26ed87f0f92766",
     "cbc7d9e83e0a4a41bc8146574e604c99",
     "7a2f4da04061dd0832e6110d11508ed4",
@@ -1499,7 +1496,10 @@
     "8225b683cc8cd9d6ba0d1e08e09707b9",
     "ed10851d5a940923ac2227ec5b11449a",
     "3b2d8ef30e82cfc23d30cb6a1d10595c",
-    "084126ea2ce3f4c94554ac1637ef04e9"
+    "084126ea2ce3f4c94554ac1637ef04e9",
+    "3368207a392f2a787c728023f12136c6",
+    "5814e0552f2359a45ae5647d642a910a",
+    "86d0e4e69593599597406addd7758368"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1901,8 +1901,6 @@
     "interest: quansah -> manchester united"
   ],
   "titles": [
-    "\ud83d\udea8 breaking: chelsea fix friday 5pm uk time deadline for enzo fernandez exit \ud83d\udca3 ma",
-    "transfer column: aston villa reach 'verbal agreement' for atletico madrid left b",
     "matthias jaissle has just given green light to make his first newcastle united s",
     "\ud83d\udea8 0\ufe0f\u20e3 zero minutes tonight for bradley barcola in psg aston villa, liverpool\u2019s t",
     "\ud83d\udd34 \ud83d\udd35 \ud83c\udfc6 official: psg win the uefa super cup beating aston villa! \ud83d\udc51 another one fo",
@@ -2200,7 +2198,9 @@
     "ruben amorim's desire to offload ac milan star could be sign for ineos to reigni",
     "juventus seeking loan to buy option for 29 year old tottenham star heavily linke",
     "weekend warm up: bayern munich still unable to find a taker for joao palhinha; t",
-    "arsenal most interested club in barcelona defender perfect for arteta\u2019s plans"
+    "arsenal most interested club in barcelona defender perfect for arteta\u2019s plans",
+    "will chelsea receive \u00a3120m enzo fernandez bid today? man city stance as offer 'r",
+    "\u201cverbal agreement\u201d complete for next psg attacking signing; will cost more than "
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2483,13 +2483,13 @@
     "luis javier suarez charris": "https://r2.thesportsdb.com/images/media/player/cutout/lnqj5l1762290563.png/small",
     "kim min jae": "https://r2.thesportsdb.com/images/media/player/cutout/m4uh701756408877.png/small",
     "luis suarez": "https://r2.thesportsdb.com/images/media/player/cutout/vfjd0w1750315193.png/small",
-    "hermann malonga": "",
     "lacine megnan pave": "",
     "dastan satpayev": "",
     "heaven kilwa": "",
-    "said el mala": ""
+    "said el mala": "",
+    "hermann malonga": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

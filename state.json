@@ -1,6 +1,5 @@
 {
   "sent": [
-    "32c8abdaef4f07b6c449b2c4d48df1d9",
     "e84ec3e346f4397cfe9c114b57deb1a1",
     "7a3d0c669110079741e7415b85545130",
     "270c15a69d7f3fb2d7851b9c26e5c6de",
@@ -1499,7 +1498,8 @@
     "tg:FabrizioRomanoTG/64676",
     "6da21d323f99de305cc20e01877baea2",
     "6b2057a04cde8e0ef9b07472d895fe5a",
-    "021f6b9cff4c539840cd044711b4a920"
+    "021f6b9cff4c539840cd044711b4a920",
+    "ce256d2f86890b5985ec917dec172cdb"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1903,7 +1903,6 @@
     "interest: martinez -> juventus"
   ],
   "titles": [
-    "cristian romero\u2019s agent appears to confirm tottenham exit as romano drops major ",
     "what happened in psg vs aston villa tonight suggests bradley barcola to liverpoo",
     "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f lazio agree deal to sign davide frattesi from inter, here we go! \ud83e\udd85 italia",
     "chelsea make big decision on enzo fernandez as fabrizio romano drops major updat",
@@ -2202,7 +2201,8 @@
     "report: liverpool will soon submit opening offer for teenage \u2018phenomenon\u2019",
     "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 barcelona are confident to get green light for joao cancelo\u2019s comeback and",
     "bvb on the verge of a transfer coup? borussia dortmund apparently in pole positi",
-    "liverpool 'fully expect' to 'agree deal' after romano update; fsg 'no longer fea"
+    "liverpool 'fully expect' to 'agree deal' after romano update; fsg 'no longer fea",
+    "it\u2019s official: one major domino has fallen as liverpool handed bradley barcola t"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2487,13 +2487,13 @@
     "luis suarez": "https://r2.thesportsdb.com/images/media/player/cutout/vfjd0w1750315193.png/small",
     "hector fort": "https://r2.thesportsdb.com/images/media/player/cutout/x1ag1j1762371932.png/small",
     "emiliano martinez": "https://r2.thesportsdb.com/images/media/player/cutout/ffr5xx1756984715.png/small",
-    "said el mala": "",
     "hermann malonga": "",
     "lacine megnan pave": "",
     "dastan satpayev": "",
-    "heaven kilwa": ""
+    "heaven kilwa": "",
+    "said el mala": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

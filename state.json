@@ -1,6 +1,5 @@
 {
   "sent": [
-    "968cd44e316269e264ee1f9c3a349abd",
     "057b467bd4e07501eb28467a6c433f65",
     "067db2c55db54da484d70fa519d678ac",
     "tg:FabrizioRomanoTG/63973",
@@ -1499,7 +1498,8 @@
     "tg:FabrizioRomanoTG/64658",
     "tg:FabrizioRomanoTG/64659",
     "tg:FabrizioRomanoTG/64660",
-    "tg:FabrizioRomanoTG/64661"
+    "tg:FabrizioRomanoTG/64661",
+    "tg:FabrizioRomanoTG/64662"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1902,7 +1902,6 @@
     "interest: fort -> borussia dortmund"
   ],
   "titles": [
-    "barcelona submit fresh rodri bid as manchester city hold firm on valuation",
     "\u2018here we go!\u2019 26 year old\u2019s tottenham exit confirmed as inter milan deal agreed",
     "bayern munich\u2019s joao palhinha agrees personal terms with aston villa",
     "video: kristensen arrives for atalanta medical, agreement \u20ac22m plus bonus",
@@ -2201,7 +2200,8 @@
     "\ud83d\udea8 \ud83d\udfe3 \ud83d\udd35 aston villa and atletico madrid have completed documents exchange for matt",
     "\ud83d\udea8 \ud83d\udfe1 \ud83d\udd35 leeds agree deal with borussia monchengladbach for nico elvedi club to clu",
     "\ud83d\udea8 \u26a0\ufe0f breaking: zion suzuki to paris saint germain deal, on the verge of collapsi",
-    "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 paris saint germain sources confirm deal off for zion suzuki verbal agreem"
+    "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 paris saint germain sources confirm deal off for zion suzuki verbal agreem",
+    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f dayann methalie to sunderland, here we go! verbal agreement in place for "
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2485,13 +2485,13 @@
     "kim min jae": "https://r2.thesportsdb.com/images/media/player/cutout/m4uh701756408877.png/small",
     "luis suarez": "https://r2.thesportsdb.com/images/media/player/cutout/vfjd0w1750315193.png/small",
     "hector fort": "https://r2.thesportsdb.com/images/media/player/cutout/x1ag1j1762371932.png/small",
-    "said el mala": "",
     "hermann malonga": "",
     "lacine megnan pave": "",
     "dastan satpayev": "",
-    "heaven kilwa": ""
+    "heaven kilwa": "",
+    "said el mala": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

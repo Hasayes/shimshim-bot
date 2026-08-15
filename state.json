@@ -1,8 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/63943",
-    "7d936d01bfcca3f89d52a4d44d68beba",
-    "5601cbe5943abb20fd5c6bfdda22be97",
     "b1b22f77515ba2c34e1dfa44822ece1c",
     "28c0a89dc42c4d5a6b0af8445c85e04a",
     "tg:FabrizioRomanoTG/63950",
@@ -1499,7 +1496,10 @@
     "14943d96528cfc75250cf96d52f0066f",
     "4d84439f604f0a5d6b16a79cb2407c49",
     "1347d63546dadd5f0dd054d35648e8ed",
-    "7906b55c7f94e85026254164463a82c9"
+    "7906b55c7f94e85026254164463a82c9",
+    "cd5ce11d6cda402e9ceb8e5aebe54dda",
+    "3acb3d270325abc12cebf6323bdeb33d",
+    "95700be4c69252cf4dea25f15045c40a"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1901,8 +1901,6 @@
     "interest: quansah -> manchester united"
   ],
   "titles": [
-    "cologne eye said el mala replacement",
-    "rt @fabrizioromano : \ud83d\udea8 \ud83c\uddf3\ud83c\uddf1 breaking: xavi has agreed to become new dutch national",
     "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f breaking: cristian romero to atletico madrid, here we go! \ud83c\udde6\ud83c\uddf7 agreement in",
     "\ud83d\udd34 \u26aa\ufe0f \ud83d\udd1c cuti romero\u2019s agent ciro palermo agency cifra account on instagram also t",
     "rt @fabrizioromano : \ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f breaking: cristian romero to atletico madrid, here w",
@@ -2200,7 +2198,9 @@
     "psg, ajax reach agreement on mika godts per report",
     "psg reach verbal agreement with ajax to sign mika godts",
     "approach made: chelsea could conclude forward deal in final 2 weeks of the windo",
-    "como make loan move to sign out of favour chelsea forward"
+    "como make loan move to sign out of favour chelsea forward",
+    "fabrizio romano reveals liverpool decision on rio ngumoha sale as barcola deal a",
+    "como make initial approach for chelsea striker liam delap: details"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2483,13 +2483,13 @@
     "luis javier suarez charris": "https://r2.thesportsdb.com/images/media/player/cutout/lnqj5l1762290563.png/small",
     "kim min jae": "https://r2.thesportsdb.com/images/media/player/cutout/m4uh701756408877.png/small",
     "luis suarez": "https://r2.thesportsdb.com/images/media/player/cutout/vfjd0w1750315193.png/small",
-    "dastan satpayev": "",
     "heaven kilwa": "",
     "said el mala": "",
     "hermann malonga": "",
-    "lacine megnan pave": ""
+    "lacine megnan pave": "",
+    "dastan satpayev": ""
   },
-  "photo_repair_idx": 5,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

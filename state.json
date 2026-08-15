@@ -1,7 +1,5 @@
 {
   "sent": [
-    "189d78eeab1c5d305c07facaa69a57e3",
-    "tg:FabrizioRomanoTG/63978",
     "9d845c0eab66082de3c4afe357e84d0a",
     "tg:FabrizioRomanoTG/63979",
     "16cf5eee2e8704be5083011562d74fa7",
@@ -1499,7 +1497,9 @@
     "3c8f3f0810ee0708754550e36564b70b",
     "tg:FabrizioRomanoTG/64671",
     "tg:FabrizioRomanoTG/64672",
-    "fb080f0b287bd127e21914236c0d714c"
+    "fb080f0b287bd127e21914236c0d714c",
+    "68cd3136ca8aa4c49226547d67e3c9b3",
+    "bbfe0c51e18c7f67ba12992b594f6018"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1903,8 +1903,6 @@
     "interest: martinez -> juventus"
   ],
   "titles": [
-    "luis henrique not eager for roma move, as inter want \u20ac30m payday",
-    "\ud83d\udea8 liverpool could add two wingers to the squad, especially if cody gakpo end up ",
     "xavi makes shock return to football as manager of former world cup finalists",
     "\u2018deal in place\u2019 \u2013 tottenham reach verbal agreement for another summer transfer a",
     "man utd spy real madrid raid after myles lewis skelly blow",
@@ -2202,7 +2200,9 @@
     "transfer shocker? bayer leverkusen could be eyeing blockbuster sale",
     "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f discussions between juventus and dibu martinez not at advanced stages af",
     "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 understand mika godts has just signed his contract as new paris saint germ",
-    "\ud83d\udea8 official: cuti romero is now an atletico de madrid player"
+    "\ud83d\udea8 official: cuti romero is now an atletico de madrid player",
+    "barcelona \u2018on the verge\u2019 of completing world cup winner\u2019s signing, a matter of \u2018",
+    "\u201cno one dead\u201d fabrizio romano responds after report claims clubs view him as nui"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2487,13 +2487,13 @@
     "luis suarez": "https://r2.thesportsdb.com/images/media/player/cutout/vfjd0w1750315193.png/small",
     "hector fort": "https://r2.thesportsdb.com/images/media/player/cutout/x1ag1j1762371932.png/small",
     "emiliano martinez": "https://r2.thesportsdb.com/images/media/player/cutout/ffr5xx1756984715.png/small",
-    "heaven kilwa": "",
     "said el mala": "",
     "hermann malonga": "",
     "lacine megnan pave": "",
-    "dastan satpayev": ""
+    "dastan satpayev": "",
+    "heaven kilwa": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

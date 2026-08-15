@@ -1,7 +1,5 @@
 {
   "sent": [
-    "79551dc5f64bc9032dab1285278158e5",
-    "ee8642fb187b4624caa9dc74eac89072",
     "cda7b1ecdeeb7821d0c803ce823c59f7",
     "33a2152f398b9a44ef65261f14c3f311",
     "807970543b25b0503a19381e84078326",
@@ -1499,7 +1497,9 @@
     "tg:FabrizioRomanoTG/64643",
     "tg:FabrizioRomanoTG/64648",
     "c3baeb49950965550c7bcb8c462abbfe",
-    "tg:FabrizioRomanoTG/64656"
+    "tg:FabrizioRomanoTG/64656",
+    "tg:FabrizioRomanoTG/64657",
+    "tg:FabrizioRomanoTG/64658"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1682,7 +1682,7 @@
     "toure -> parma": 1,
     "irankunda -> sporting": 1,
     "asllani -> rb leipzig": 1,
-    "ruggeri -> aston villa": 1,
+    "ruggeri -> aston villa": 2,
     "kostic -> psv": 2,
     "trafford -> leeds": 2,
     "yirenkyi -> coventry city": 2,
@@ -1902,8 +1902,6 @@
     "interest: fort -> borussia dortmund"
   ],
   "titles": [
-    "turkish raid! galatasaray launch official \u00a338m bid for arsenal star gabriel mart",
-    "victor osimhen: transfer insider reveals the truth behind al hilal links",
     "douglas luiz to stay? jones wants inter, milan gimenez update \ud83e\udd11",
     "arsenal \u2018receive \u00a338m gabriel martinelli transfer offer from champions league cl",
     "folarin balogun receiving transfer interest from spurs, galatasaray",
@@ -2201,7 +2199,9 @@
     "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f newcastle have agreed deal with benfica to sign amar dedic, here we go! ",
     "rt @fabrizioromano : \ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f newcastle have agreed deal with benfica to sign ama",
     "ac milan's plan to avoid being scratched with santiago gimenez's contract",
-    "\ud83d\udea8 enzo fernandez, back on the pitch today at stamford bridge after \u00a3120m \u2018verbal"
+    "\ud83d\udea8 enzo fernandez, back on the pitch today at stamford bridge after \u00a3120m \u2018verbal",
+    "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 barcelona have submitter their third bid for rodri yesterday, now closer t",
+    "\ud83d\udea8 \ud83d\udfe3 \ud83d\udd35 aston villa and atletico madrid have completed documents exchange for matt"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2485,13 +2485,13 @@
     "kim min jae": "https://r2.thesportsdb.com/images/media/player/cutout/m4uh701756408877.png/small",
     "luis suarez": "https://r2.thesportsdb.com/images/media/player/cutout/vfjd0w1750315193.png/small",
     "hector fort": "https://r2.thesportsdb.com/images/media/player/cutout/x1ag1j1762371932.png/small",
-    "lacine megnan pave": "",
     "dastan satpayev": "",
     "heaven kilwa": "",
     "said el mala": "",
-    "hermann malonga": ""
+    "hermann malonga": "",
+    "lacine megnan pave": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 5,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

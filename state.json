@@ -1,8 +1,5 @@
 {
   "sent": [
-    "7a1116ceae659a34b66ae9e923563ab1",
-    "tg:FabrizioRomanoTG/63959",
-    "tg:FabrizioRomanoTG/63960",
     "tg:FabrizioRomanoTG/63961",
     "tg:FabrizioRomanoTG/63963",
     "5aa19b37b1cff4fbb838441faefbbda4",
@@ -1499,7 +1496,10 @@
     "4ce23bcf2a203719a00153059783c249",
     "tg:FabrizioRomanoTG/64626",
     "d2b8bb67acb8b66ab61519f0bee57934",
-    "94bf854797a13cfd2056d4c0e6797821"
+    "94bf854797a13cfd2056d4c0e6797821",
+    "4e33109fb92014d76070cb9f19a1c01b",
+    "1f58958d6a3b6adfb8f9fc388d70ce79",
+    "b4d6870eea9f4ded5533eb06b0b67d2a"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1901,9 +1901,6 @@
     "interest: quansah -> manchester united"
   ],
   "titles": [
-    "chelsea announce alonso inspired signing as romano drops enzo to man city truth ",
-    "liverpool hold talks over signing iliman ndiaye after fabrizio romano reveals \u2018d",
-    "paris st germain: ferran torres misses barcelona training to finalise move bbc c",
     "latest football transfer news: barcelona make new \u20ac60m rodri bid, manchester cit",
     "\ud83d\udea8 \ud83d\udea8 psg chairman nasser al khelaifi on bradley barcola: \u201cwe\u2019re working calmly, w",
     "rt @fabrizioromano : \ud83d\udea8 breaking: chelsea fix friday 5pm uk time deadline for enz",
@@ -2200,7 +2197,10 @@
     "gabbia joins growing list of milan absentees for manchester united test",
     "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f exclusive: brentford agree deal to sign 18 year old midfielder darwin gua",
     "psg complete signing that could aid liverpool in pursuit of bradley barcola: rep",
-    "days after trevoh chalobah transfer, como approach chelsea over deal to sign att"
+    "days after trevoh chalobah transfer, como approach chelsea over deal to sign att",
+    "arteta makes nwaneri admission after milan approach for 19 year old talent",
+    "\ud83d\udea8 reports: 19 goals in 2 bundesliga, top flight club signs futkeu",
+    "como consider loan for chelsea\u2019s liam delap after player offered to italian side"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2483,13 +2483,13 @@
     "luis javier suarez charris": "https://r2.thesportsdb.com/images/media/player/cutout/lnqj5l1762290563.png/small",
     "kim min jae": "https://r2.thesportsdb.com/images/media/player/cutout/m4uh701756408877.png/small",
     "luis suarez": "https://r2.thesportsdb.com/images/media/player/cutout/vfjd0w1750315193.png/small",
-    "heaven kilwa": "",
     "said el mala": "",
     "hermann malonga": "",
     "lacine megnan pave": "",
-    "dastan satpayev": ""
+    "dastan satpayev": "",
+    "heaven kilwa": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

@@ -1,11 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/63979",
-    "16cf5eee2e8704be5083011562d74fa7",
-    "269e81e08edbbc7083cb5de4afa98827",
-    "1d20809497006dfd96ce0fc55031b113",
-    "75b1a2104e79f2fc2fb36016dfc94ea4",
-    "6692dd7a3850576310243010488a21b8",
     "22f56f4b616c28808bd3a3e0e7797e22",
     "8b7a1906a9c98509cfe6a61fde74dc74",
     "c05cb73b271db9802bfcfa9848c53525",
@@ -1499,7 +1493,13 @@
     "fb080f0b287bd127e21914236c0d714c",
     "68cd3136ca8aa4c49226547d67e3c9b3",
     "bbfe0c51e18c7f67ba12992b594f6018",
-    "b529728947e2163f26fbf8c41835519b"
+    "b529728947e2163f26fbf8c41835519b",
+    "25d65fdfbae97423846202e25da8bce2",
+    "dc6ae3bfcfcba79cd7abe230b7be9328",
+    "4a6cbf90b41505a805a27df17064d9f3",
+    "b99648e7a1394fea7bede0bd5c91c4be",
+    "687e4d7925b2b6f358f4ea40b7cf80e9",
+    "tg:FabrizioRomanoTG/64675"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1903,10 +1903,6 @@
     "interest: martinez -> juventus"
   ],
   "titles": [
-    "\u2018deal in place\u2019 \u2013 tottenham reach verbal agreement for another summer transfer a",
-    "man utd spy real madrid raid after myles lewis skelly blow",
-    "just in: xavi appointed netherlands manager \u2013 reports",
-    "rt @fabrizioromano : \ud83d\udea8 \ud83c\uddf8\ud83c\udde6 understand al qadsiah are in advanced talks with manch",
     "fabrizio romano reveals arsenal \u2018contact\u2019 for new atletico madrid star football3",
     "\u2018here we go!\u2019 cristian romero completes \u20ac40m move to atletico madrid from totten",
     "manchester city have a deadline to meet if they want to sign chelsea\u2019s world cup",
@@ -2202,7 +2198,11 @@
     "\ud83d\udea8 official: cuti romero is now an atletico de madrid player",
     "barcelona \u2018on the verge\u2019 of completing world cup winner\u2019s signing, a matter of \u2018",
     "\u201cno one dead\u201d fabrizio romano responds after report claims clubs view him as nui",
-    "frattesi on lazio return: \u2018i needed to feel at the centre of a project\u2019"
+    "frattesi on lazio return: \u2018i needed to feel at the centre of a project\u2019",
+    "man city target reaches terms agreement for exit with chelsea now open to sale",
+    "cody gakpo tells liverpool he wants tottenham move with terms agreed and giant b",
+    "a midfielder looks to be on his way out of manchester city which is a shame",
+    "\ud83d\udd34 \ud83d\udd35 \ud83c\udde7\ud83c\uddea official, exclusive story confirmed mika godts signs in at paris saint ge"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2487,13 +2487,13 @@
     "luis suarez": "https://r2.thesportsdb.com/images/media/player/cutout/vfjd0w1750315193.png/small",
     "hector fort": "https://r2.thesportsdb.com/images/media/player/cutout/x1ag1j1762371932.png/small",
     "emiliano martinez": "https://r2.thesportsdb.com/images/media/player/cutout/ffr5xx1756984715.png/small",
-    "hermann malonga": "",
     "lacine megnan pave": "",
     "dastan satpayev": "",
     "heaven kilwa": "",
-    "said el mala": ""
+    "said el mala": "",
+    "hermann malonga": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

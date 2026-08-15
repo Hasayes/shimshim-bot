@@ -1,10 +1,5 @@
 {
   "sent": [
-    "b1b22f77515ba2c34e1dfa44822ece1c",
-    "28c0a89dc42c4d5a6b0af8445c85e04a",
-    "tg:FabrizioRomanoTG/63950",
-    "tg:FabrizioRomanoTG/63952",
-    "tg:FabrizioRomanoTG/63954",
     "tg:FabrizioRomanoTG/63955",
     "tg:FabrizioRomanoTG/63956",
     "tg:FabrizioRomanoTG/63957",
@@ -1499,7 +1494,12 @@
     "7906b55c7f94e85026254164463a82c9",
     "cd5ce11d6cda402e9ceb8e5aebe54dda",
     "3acb3d270325abc12cebf6323bdeb33d",
-    "95700be4c69252cf4dea25f15045c40a"
+    "95700be4c69252cf4dea25f15045c40a",
+    "ff8d97b4aa969b8b3746abad2bb76f66",
+    "4d03f0b8acdd08c8b1c3e4d865e949c4",
+    "8225b683cc8cd9d6ba0d1e08e09707b9",
+    "ed10851d5a940923ac2227ec5b11449a",
+    "3b2d8ef30e82cfc23d30cb6a1d10595c"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1901,10 +1901,6 @@
     "interest: quansah -> manchester united"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f breaking: cristian romero to atletico madrid, here we go! \ud83c\udde6\ud83c\uddf7 agreement in",
-    "\ud83d\udd34 \u26aa\ufe0f \ud83d\udd1c cuti romero\u2019s agent ciro palermo agency cifra account on instagram also t",
-    "rt @fabrizioromano : \ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f breaking: cristian romero to atletico madrid, here w",
-    "transfer rumors, news: maresca wants man city to sign chelsea duo",
     "manchester united record signing offered contract termination in dramatic fall f",
     "\ud83d\udea8 breaking: chelsea fix friday 5pm uk time deadline for enzo fernandez exit \ud83d\udca3 ma",
     "transfer column: aston villa reach 'verbal agreement' for atletico madrid left b",
@@ -2200,7 +2196,11 @@
     "approach made: chelsea could conclude forward deal in final 2 weeks of the windo",
     "como make loan move to sign out of favour chelsea forward",
     "fabrizio romano reveals liverpool decision on rio ngumoha sale as barcola deal a",
-    "como make initial approach for chelsea striker liam delap: details"
+    "como make initial approach for chelsea striker liam delap: details",
+    "transfer updates: osimhen, gakpo, rodri, kounde, wharton, others",
+    "ruben amorim's desire to offload ac milan star could be sign for ineos to reigni",
+    "juventus seeking loan to buy option for 29 year old tottenham star heavily linke",
+    "weekend warm up: bayern munich still unable to find a taker for joao palhinha; t"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2483,13 +2483,13 @@
     "luis javier suarez charris": "https://r2.thesportsdb.com/images/media/player/cutout/lnqj5l1762290563.png/small",
     "kim min jae": "https://r2.thesportsdb.com/images/media/player/cutout/m4uh701756408877.png/small",
     "luis suarez": "https://r2.thesportsdb.com/images/media/player/cutout/vfjd0w1750315193.png/small",
-    "heaven kilwa": "",
     "said el mala": "",
     "hermann malonga": "",
     "lacine megnan pave": "",
-    "dastan satpayev": ""
+    "dastan satpayev": "",
+    "heaven kilwa": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

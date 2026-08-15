@@ -1,5 +1,25 @@
 [
  {
+  "id": "tg:FabrizioRomanoTG/64482",
+  "ts": "2026-08-15T20:01:27+00:00",
+  "kind": "deal",
+  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/z58bx11759408884.png/small",
+  "stage": "Completed",
+  "player": "Davide Frattesi",
+  "position": "Midfielder",
+  "age": "26",
+  "from_club": "Inter Milan",
+  "to_club": "Lazio",
+  "fee": "Loan (\u20ac1m fee, \u20ac14m option to buy; option becomes obligation if appearance threshold met and Lazio finish top 10)",
+  "style": "Box-to-box midfielder with dynamic runs into the penalty area, high work rate, and a knack for late goals.",
+  "fit": "Lazio get an energetic, goal-contributing midfielder who will be central to their project, with a pathway to a permanent deal if both parties meet the agreed conditions.",
+  "source": "Fabrizio Romano, Gianluca Di Marzio, Football Italia",
+  "summary": "Davide Frattesi has officially completed a loan move from Inter Milan to Lazio for the 2026/27 season, with a \u20ac1m loan fee and a \u20ac14m option to buy that becomes an obligation if Frattesi reaches a set appearance threshold and Lazio finish in the top half of Serie A. The deal required last-minute restructuring after the Lega Serie A initially blocked it due to transfer restrictions on Lazio, resolved by an agreement between presidents Lotito and Marotta.",
+  "outlet": "football-italia",
+  "url": "https://football-italia.net/frattesi-seals-lazio-return-home/",
+  "title": "Frattesi on Lazio return: \u2018I needed to feel at the centre of a project\u2019"
+ },
+ {
   "id": "tg:FabrizioRomanoTG/64595",
   "ts": "2026-08-15T17:30:39+00:00",
   "kind": "deal",
@@ -438,26 +458,6 @@
   "outlet": "yahoo",
   "url": "https://sports.yahoo.com/articles/cologne-eye-said-el-mala-081500053.html",
   "title": "Cologne eye Said El Mala replacement"
- },
- {
-  "id": "tg:FabrizioRomanoTG/64482",
-  "ts": "2026-08-12T12:04:13+00:00",
-  "kind": "deal",
-  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/z58bx11759408884.png/small",
-  "stage": "Here we go",
-  "player": "Davide Frattesi",
-  "position": "\u2014",
-  "age": "\u2014",
-  "from_club": "Inter",
-  "to_club": "Lazio",
-  "fee": "\u20ac1m loan + \u20ac14m mandatory buy option",
-  "style": "Versatile midfielder with technical ability and pressing intensity who can operate across the midfield three.",
-  "fit": "Deploy as a box-to-box midfielder in Lazio's system to provide energy, work rate, and creative support in transitions.",
-  "source": "Fabrizio Romano",
-  "summary": "Lazio have reached verbal agreement with Inter for Davide Frattesi on a \u20ac1m loan with a \u20ac14m mandatory buy option clause under certain conditions. Agreement also reached with the player, with formal steps to follow.",
-  "outlet": "Telegram @fabrizioromanotg",
-  "url": "https://t.me/FabrizioRomanoTG/64482",
-  "title": "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f Lazio reach verbal agreement with Inter for Davide Frattesi at \u20ac1m loan fee and \u20ac14m buy option clause to become "
  },
  {
   "id": "85b841b0416f4390b4ccf1c03cb32217",

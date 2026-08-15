@@ -1,8 +1,5 @@
 {
   "sent": [
-    "cc4375a381e5ba258b08d751d4317c19",
-    "2c622413216928ac05445e7152a10437",
-    "40c0d9950b5a16f4930ffc9c6b3ef188",
     "57a8fd9e70e4b6b15b15ecb92e4ddbca",
     "23008b798f5a3d1a51d753feb71edc80",
     "1dbc0771da52d8f578f1ad8d98afde1d",
@@ -1499,7 +1496,10 @@
     "a5bc9ff0f59533c346f482b1cc46a003",
     "5854c0a29bab00649047f0fbd36783f5",
     "8a8ca32a6204dd811d2a46c4e596c797",
-    "9aba1fd02a0b01a4d58b20946edd46d8"
+    "9aba1fd02a0b01a4d58b20946edd46d8",
+    "8274272550dd4650709c9f4678e77e07",
+    "bd04610367c351631c61ad06221e2cb3",
+    "ef51c81b5afac53371da43676799324e"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1896,12 +1896,11 @@
     "interest: suarez -> barcelona",
     "interest: neto -> tottenham",
     "interest: neto -> manchester city",
-    "interest: neto -> arsenal"
+    "interest: neto -> arsenal",
+    "interest: quansah -> arsenal",
+    "interest: quansah -> manchester united"
   ],
   "titles": [
-    "fabrizio romano denies rumours of barcelona being interested in argentine intern",
-    "fabrizio romano reveals all on arsenal signing \u20ac55m barcelona star \u2013 \u2018smart solu",
-    "\ud83d\udea8 \ud83c\uddf3\ud83c\uddf1 breaking: xavi has agreed to become new dutch national team head coach, don",
     "transfer news live: liverpool eye cut price barcola deal, arsenal blow, chelsea ",
     "moretto: henrique not close to roma due to high fees",
     "fc barcelona makes new rodri bid to manchester city",
@@ -2198,7 +2197,10 @@
     "barcelona tip luis suarez as replacement if julian alvarez move fails",
     "borussia dortmund exits race for said el mala \u2014 at least for now",
     "fc barcelona shortlist luis suarez as alternative to julian alvarez amid transfe",
-    "psg transfer push accelerates as torres deal is agreed and godts talks near brea"
+    "psg transfer push accelerates as torres deal is agreed and godts talks near brea",
+    "como approach chelsea for delap after securing \u20ac30m chalobah deal",
+    "man utd step up efforts to sign arsenal target jarell quansah as liverpool clear",
+    "\u2018package verbally agreed\u2019 \u2013 bradley barcola to liverpool looks imminent after br"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2480,14 +2482,14 @@
     "jarell quansah": "https://r2.thesportsdb.com/images/media/player/cutout/wfep8o1756316392.png/small",
     "luis javier suarez charris": "https://r2.thesportsdb.com/images/media/player/cutout/lnqj5l1762290563.png/small",
     "kim min jae": "https://r2.thesportsdb.com/images/media/player/cutout/m4uh701756408877.png/small",
-    "heaven kilwa": "",
     "said el mala": "",
     "luis suarez": "https://r2.thesportsdb.com/images/media/player/cutout/vfjd0w1750315193.png/small",
     "hermann malonga": "",
     "lacine megnan pave": "",
-    "dastan satpayev": ""
+    "dastan satpayev": "",
+    "heaven kilwa": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

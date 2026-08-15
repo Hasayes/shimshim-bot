@@ -1,7 +1,5 @@
 {
   "sent": [
-    "ca69d8ac208c13b808910fff1591210c",
-    "cc41998ecb598a0cc668fec743f3d163",
     "tg:FabrizioRomanoTG/63964",
     "tg:FabrizioRomanoTG/63966",
     "742c9d7208a7d3242b347de0521fd674",
@@ -1499,7 +1497,9 @@
     "d0a1672efa71e4b42394f7f5a7b57be6",
     "3c0799e3262bd47469902a71ce3cd9bb",
     "5eb5f4b98b44cb3bccb2d7d3ec31f1bc",
-    "tg:FabrizioRomanoTG/64629"
+    "tg:FabrizioRomanoTG/64629",
+    "7312539ff8ba7b904fc95c46c6fd4045",
+    "tg:FabrizioRomanoTG/64631"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1901,8 +1901,6 @@
     "interest: quansah -> manchester united"
   ],
   "titles": [
-    "djed spence said yes to inter as nerazzurri launch formal transfer bid for totte",
-    "barcelona submit new offer for rodri as manchester city stand firm",
     "chelsea and man city deal on the rocks over \u201csignificant gap\u201d between asking pri",
     "romano: man city hold talks to sign chelsea star pedro neto as update drops",
     "\u201cstory from the morning confirmed\u201d \u2013 new bid on the table for man city star, say",
@@ -2200,7 +2198,9 @@
     "barcelona\u2019s priority striker target has been julian alvarez all summer",
     "epl: no official offer for fernandez as chelsea deadline expires \u2013 reports",
     "ornstein reveals gabriel martinelli decision on leaving arsenal for galatasaray",
-    "\ud83d\udea8 christopher nkunku left milano on friday but not due to any imminent transfer "
+    "\ud83d\udea8 christopher nkunku left milano on friday but not due to any imminent transfer ",
+    "arteta in dreamland as priority target says yes to joining arsenal and deal \u201999 ",
+    "\ud83d\udea8 \ud83c\uddf8\ud83c\udde6 al qadsiah and manchester city are set to exchange documents today for tijj"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2483,13 +2483,13 @@
     "luis javier suarez charris": "https://r2.thesportsdb.com/images/media/player/cutout/lnqj5l1762290563.png/small",
     "kim min jae": "https://r2.thesportsdb.com/images/media/player/cutout/m4uh701756408877.png/small",
     "luis suarez": "https://r2.thesportsdb.com/images/media/player/cutout/vfjd0w1750315193.png/small",
-    "said el mala": "",
     "hermann malonga": "",
     "lacine megnan pave": "",
     "dastan satpayev": "",
-    "heaven kilwa": ""
+    "heaven kilwa": "",
+    "said el mala": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

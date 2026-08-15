@@ -1,7 +1,5 @@
 {
   "sent": [
-    "cda7b1ecdeeb7821d0c803ce823c59f7",
-    "33a2152f398b9a44ef65261f14c3f311",
     "807970543b25b0503a19381e84078326",
     "968cd44e316269e264ee1f9c3a349abd",
     "057b467bd4e07501eb28467a6c433f65",
@@ -1499,7 +1497,9 @@
     "c3baeb49950965550c7bcb8c462abbfe",
     "tg:FabrizioRomanoTG/64656",
     "tg:FabrizioRomanoTG/64657",
-    "tg:FabrizioRomanoTG/64658"
+    "tg:FabrizioRomanoTG/64658",
+    "tg:FabrizioRomanoTG/64659",
+    "tg:FabrizioRomanoTG/64660"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1902,8 +1902,6 @@
     "interest: fort -> borussia dortmund"
   ],
   "titles": [
-    "douglas luiz to stay? jones wants inter, milan gimenez update \ud83e\udd11",
-    "arsenal \u2018receive \u00a338m gabriel martinelli transfer offer from champions league cl",
     "folarin balogun receiving transfer interest from spurs, galatasaray",
     "barcelona submit fresh rodri bid as manchester city hold firm on valuation",
     "\u2018here we go!\u2019 26 year old\u2019s tottenham exit confirmed as inter milan deal agreed",
@@ -2201,7 +2199,9 @@
     "ac milan's plan to avoid being scratched with santiago gimenez's contract",
     "\ud83d\udea8 enzo fernandez, back on the pitch today at stamford bridge after \u00a3120m \u2018verbal",
     "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 barcelona have submitter their third bid for rodri yesterday, now closer t",
-    "\ud83d\udea8 \ud83d\udfe3 \ud83d\udd35 aston villa and atletico madrid have completed documents exchange for matt"
+    "\ud83d\udea8 \ud83d\udfe3 \ud83d\udd35 aston villa and atletico madrid have completed documents exchange for matt",
+    "\ud83d\udea8 \ud83d\udfe1 \ud83d\udd35 leeds agree deal with borussia monchengladbach for nico elvedi club to clu",
+    "\ud83d\udea8 \u26a0\ufe0f breaking: zion suzuki to paris saint germain deal, on the verge of collapsi"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2485,13 +2485,13 @@
     "kim min jae": "https://r2.thesportsdb.com/images/media/player/cutout/m4uh701756408877.png/small",
     "luis suarez": "https://r2.thesportsdb.com/images/media/player/cutout/vfjd0w1750315193.png/small",
     "hector fort": "https://r2.thesportsdb.com/images/media/player/cutout/x1ag1j1762371932.png/small",
-    "dastan satpayev": "",
     "heaven kilwa": "",
     "said el mala": "",
     "hermann malonga": "",
-    "lacine megnan pave": ""
+    "lacine megnan pave": "",
+    "dastan satpayev": ""
   },
-  "photo_repair_idx": 5,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

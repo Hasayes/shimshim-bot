@@ -1,7 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/63961",
-    "tg:FabrizioRomanoTG/63963",
     "5aa19b37b1cff4fbb838441faefbbda4",
     "cfd38bee94a65d9bfab417bdcfb099f5",
     "bc627306143c553036e8b66cd0f6d20f",
@@ -1499,7 +1497,9 @@
     "94bf854797a13cfd2056d4c0e6797821",
     "4e33109fb92014d76070cb9f19a1c01b",
     "1f58958d6a3b6adfb8f9fc388d70ce79",
-    "b4d6870eea9f4ded5533eb06b0b67d2a"
+    "b4d6870eea9f4ded5533eb06b0b67d2a",
+    "56d228f9850f838d443a5088e64222a2",
+    "5a4950a22e4af477e5d6e3a5f48c621a"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1901,8 +1901,6 @@
     "interest: quansah -> manchester united"
   ],
   "titles": [
-    "latest football transfer news: barcelona make new \u20ac60m rodri bid, manchester cit",
-    "\ud83d\udea8 \ud83d\udea8 psg chairman nasser al khelaifi on bradley barcola: \u201cwe\u2019re working calmly, w",
     "rt @fabrizioromano : \ud83d\udea8 breaking: chelsea fix friday 5pm uk time deadline for enz",
     "chelsea open door to loan deal as serie a giants step up pursuit for defender",
     "barcelona raise offer for rodri as man city demand \u20ac80m",
@@ -2200,7 +2198,9 @@
     "days after trevoh chalobah transfer, como approach chelsea over deal to sign att",
     "arteta makes nwaneri admission after milan approach for 19 year old talent",
     "\ud83d\udea8 reports: 19 goals in 2 bundesliga, top flight club signs futkeu",
-    "como consider loan for chelsea\u2019s liam delap after player offered to italian side"
+    "como consider loan for chelsea\u2019s liam delap after player offered to italian side",
+    "alexis mac allister reaches decision on leaving liverpool to join man city amid ",
+    "ajax reach verbal agreement to sell mika godts to psg for \u20ac55 million"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2483,13 +2483,13 @@
     "luis javier suarez charris": "https://r2.thesportsdb.com/images/media/player/cutout/lnqj5l1762290563.png/small",
     "kim min jae": "https://r2.thesportsdb.com/images/media/player/cutout/m4uh701756408877.png/small",
     "luis suarez": "https://r2.thesportsdb.com/images/media/player/cutout/vfjd0w1750315193.png/small",
-    "said el mala": "",
     "hermann malonga": "",
     "lacine megnan pave": "",
     "dastan satpayev": "",
-    "heaven kilwa": ""
+    "heaven kilwa": "",
+    "said el mala": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

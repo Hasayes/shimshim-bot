@@ -1,8 +1,5 @@
 {
   "sent": [
-    "06cbba1e5fa29614bb4cb1e295de71c9",
-    "a029c22857b75bb8902474ca8947fe2a",
-    "7181c74b6d5eccd713266f90a5b9462a",
     "4deebfbf00fc46b752b19d99c1255976",
     "0921e01b6abd45b8f200d0154b9d94b8",
     "45676ba7ba437a5ae56e1862dbba4199",
@@ -1499,7 +1496,10 @@
     "tg:FabrizioRomanoTG/64745",
     "tg:FabrizioRomanoTG/64749",
     "b23ef4a2fd7c5f0aade3c48056f31117",
-    "527729a5959a030270fac6ee3d780768"
+    "527729a5959a030270fac6ee3d780768",
+    "2e138ed56cea6aaa44e14ffa0611e80e",
+    "tg:FabrizioRomanoTG/64750",
+    "tg:FabrizioRomanoTG/64752"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1909,9 +1909,6 @@
     "interest: martinez -> juventus"
   ],
   "titles": [
-    "\u20ac500m release clause, not for sale, but desperate arsenal ready to \u2018break the ba",
-    "transfer updates: martinelli, zubimendi, dedic, barcola, jones, others",
-    "\u2018very happy\u2019 \u2013 psg president nasser al khelaifi reveals whether he wants to repl",
     "man utd make contact for psg signing as liverpool step aside",
     "galatasaray reject \u20ac130m approach for osimhen while launching \u20ac45m martinelli pu",
     "napoli close in on gabriel jesus: new contacts with arsenal",
@@ -2208,7 +2205,10 @@
     "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f sc braga are closing in on tommy marques deal with barcelona, direct talk",
     "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f tommy marques to sc braga, here we go! deal in place for permanent exit o",
     "juventus make new attempt to sign goalkeeper who wanted to join manchester unite",
-    "transfer rumors, news: liverpool step up barcola chase as psg sign godts espn co"
+    "transfer rumors, news: liverpool step up barcola chase as psg sign godts espn co",
+    "\u2018powerful\u2019 liverpool attacker set for exit as three sides battle to win race",
+    "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f juventus and dibu martinez camp had direct talk tonight: deal officially",
+    "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 understand barcelona mantain right of first refusal clause for tommy marqu"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2499,11 +2499,11 @@
     "dastan satpayev": "",
     "heaven kilwa": "",
     "said el mala": "",
-    "tommy marques": "",
     "hermann malonga": "",
-    "lacine megnan pave": ""
+    "lacine megnan pave": "",
+    "tommy marques": ""
   },
-  "photo_repair_idx": 7,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

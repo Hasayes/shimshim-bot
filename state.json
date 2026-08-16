@@ -1,7 +1,5 @@
 {
   "sent": [
-    "3eef48179798d88b97e7e8a71785f51b",
-    "dbc331e85da457df43603a6582d40edd",
     "88d8a6c7c235d03a4a93f3413872379f",
     "tg:FabrizioRomanoTG/63999",
     "0cbebb85d3871746d368fe25c9b0f956",
@@ -1499,7 +1497,9 @@
     "tg:FabrizioRomanoTG/64682",
     "98a84e1f6b8b34c927a7ab69df8b95aa",
     "022a743a7168f785e34eb02abbc05ca3",
-    "3c3898d3626aed0adb9a559e10541bdf"
+    "3c3898d3626aed0adb9a559e10541bdf",
+    "c98c9b8c2b8ded3f0204ba2119feb3c0",
+    "955d3f98575a4b926d97351fe3b530c6"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1903,8 +1903,6 @@
     "interest: martinez -> juventus"
   ],
   "titles": [
-    "\ud83d\udea8 \u26ab\ufe0f \ud83d\udd35 djed spence will undergo medical at inter tomorrow after deal agreed yest",
-    "'we attract attention' mikel arteta claims rival interest in myles lewis skelly ",
     "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f cuti romero, flying tonight to madrid with his agent to undergo medical a",
     "liverpool latest: andoni iraola braced for double blow as fresh transfer priorit",
     "\ud83d\udea8 \ud83c\uddf8\ud83c\udde6 exclusive: tijjani reijnders says yes to al qadsiah and all parties have no",
@@ -2202,7 +2200,9 @@
     "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 barcelona are prepared to fly joao cancelo to the city early next week if ",
     "aston villa open talks for zion suzuki as psg transfer collapses",
     "leeds agree \u20ac10m fee for experienced bundesliga defender",
-    "martinez hope for juventus as aston villa pounce on suzuki after psg split"
+    "martinez hope for juventus as aston villa pounce on suzuki after psg split",
+    "transfer insider: psg could slash \u00a320m off bradley barcola asking price in huge ",
+    "luis enrique reply to psg transfer question hints at frustration with bradley ba"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2487,13 +2487,13 @@
     "luis suarez": "https://r2.thesportsdb.com/images/media/player/cutout/vfjd0w1750315193.png/small",
     "hector fort": "https://r2.thesportsdb.com/images/media/player/cutout/x1ag1j1762371932.png/small",
     "emiliano martinez": "https://r2.thesportsdb.com/images/media/player/cutout/ffr5xx1756984715.png/small",
-    "lacine megnan pave": "",
     "dastan satpayev": "",
     "heaven kilwa": "",
     "said el mala": "",
-    "hermann malonga": ""
+    "hermann malonga": "",
+    "lacine megnan pave": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 5,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

@@ -1,6 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/64009",
     "a6a6d66e1ee2cf27d1d26ae99c7d653c",
     "3b9dc458b680bc137dcab0d24f95977f",
     "f41492c716a02f02959727e32512aee8",
@@ -1499,7 +1498,8 @@
     "7a617dec338dd0d3c4bef7c9be76b987",
     "da66a03020d15a0c1560c13c58653fcd",
     "896986441266999d80bd96831acc7160",
-    "a7c363aadd81b842ae620aa95a11987c"
+    "a7c363aadd81b842ae620aa95a11987c",
+    "9a5a9c538a062479554a5801a766b8e4"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1904,7 +1904,6 @@
     "interest: martinez -> juventus"
   ],
   "titles": [
-    "\ud83d\udd34 \ud83d\udd35 ferran torres has already authorization to travel for medical at psg the tra",
     "rt @fabrizioromano : \ud83d\udea8 \ud83d\udd34 \ud83d\udd35 breaking: ferran torres to paris saint germain, here ",
     "barcelona transfer news: blaugrana move to reassure rodri's potential victim, wa",
     "transfer news live: camavinga to man utd twist, \u00a338m arsenal bid, enzo fernandez",
@@ -2203,7 +2202,8 @@
     "\ud83d\udea8 \u26ab\ufe0f \ud83d\udd35 inter young defender leonardo bovio has signed a new long term contract a",
     "leeds united edge closer to \u00a38 5m deal: good deal for the whites?",
     "liverpool hopes of barcola transfer boosted as \u00a347m deal confirmed london evenin",
-    "coventry city agree deal to sign taiwo awoniyi"
+    "coventry city agree deal to sign taiwo awoniyi",
+    "liverpool one step closer to bradley barcola deal as \u00a347m transfer confirmed ami"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2488,13 +2488,13 @@
     "luis suarez": "https://r2.thesportsdb.com/images/media/player/cutout/vfjd0w1750315193.png/small",
     "hector fort": "https://r2.thesportsdb.com/images/media/player/cutout/x1ag1j1762371932.png/small",
     "emiliano martinez": "https://r2.thesportsdb.com/images/media/player/cutout/ffr5xx1756984715.png/small",
-    "heaven kilwa": "",
     "said el mala": "",
     "hermann malonga": "",
     "lacine megnan pave": "",
-    "dastan satpayev": ""
+    "dastan satpayev": "",
+    "heaven kilwa": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

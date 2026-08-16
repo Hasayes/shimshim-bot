@@ -1,6 +1,5 @@
 {
   "sent": [
-    "a46b03e149b8116500691ccf79ecacb8",
     "e8f501d32780db590c07b6bbdf6f4e73",
     "067e5a69a04a1b42db8c8c6d5f4ffafb",
     "622a5ec757a7b502c7efac14033a3840",
@@ -1499,7 +1498,8 @@
     "967e281aa6dc99bc91a69271a435ed8a",
     "88f4aee7ea6be064ab1fbf8fd298c8c4",
     "3350585469965491f6a0b949c64d9380",
-    "1709d099119dfc968ef6f701c5f2013d"
+    "1709d099119dfc968ef6f701c5f2013d",
+    "8344cb4aeb2b6772d37bc9b589d08d06"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1903,7 +1903,6 @@
     "interest: martinez -> juventus"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83c\uddf8\ud83c\udde6 exclusive: tijjani reijnders says yes to al qadsiah and all parties have no",
     "sky sports: arsenal offered \u00a338 4m for 'outstanding' gabriel martinelli",
     "\u201ca good sign \u201d \u2013 mikel arteta makes interesting arsenal transfer claim after spe",
     "newcastle planning move for man united midfield target after tonali & guimaraes ",
@@ -2202,7 +2201,8 @@
     "transfer insider: psg could slash \u00a320m off bradley barcola asking price in huge ",
     "luis enrique reply to psg transfer question hints at frustration with bradley ba",
     "nkunku \u20ac35m asking price set for roma, borussia dortmund and rb leipzig",
-    "romano: arsenal want to sign atletico star marc pubill alongside alvarez"
+    "romano: arsenal want to sign atletico star marc pubill alongside alvarez",
+    "newcastle united are pursuing a move for christopher nkunku"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2487,13 +2487,13 @@
     "luis suarez": "https://r2.thesportsdb.com/images/media/player/cutout/vfjd0w1750315193.png/small",
     "hector fort": "https://r2.thesportsdb.com/images/media/player/cutout/x1ag1j1762371932.png/small",
     "emiliano martinez": "https://r2.thesportsdb.com/images/media/player/cutout/ffr5xx1756984715.png/small",
-    "said el mala": "",
     "hermann malonga": "",
     "lacine megnan pave": "",
     "dastan satpayev": "",
-    "heaven kilwa": ""
+    "heaven kilwa": "",
+    "said el mala": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

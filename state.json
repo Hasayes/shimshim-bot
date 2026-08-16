@@ -1,7 +1,5 @@
 {
   "sent": [
-    "c050dbe905df3006fbdde4b68c3c5ebe",
-    "cd4ad839b47a03801fe480f610f64a34",
     "660bdc3866d74249fc6fad9212a3a384",
     "d8655a9d43d1e9f4c0de8a7d8f955498",
     "a50b46085e6c09d1af4dabdcb8c7d29b",
@@ -1499,7 +1497,9 @@
     "6dc4d8d211e02196097af7dcbe1d022c",
     "tg:FabrizioRomanoTG/64741",
     "tg:FabrizioRomanoTG/64742",
-    "tg:FabrizioRomanoTG/64743"
+    "tg:FabrizioRomanoTG/64743",
+    "3edb1e4720628b30685eebc9d0c667a2",
+    "tg:FabrizioRomanoTG/64744"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1908,8 +1908,6 @@
     "interest: martinez -> juventus"
   ],
   "titles": [
-    "chelsea know their two top options as replacements for enzo if deal goes down",
-    "liverpool remain in talks with psg over bradley barcola as the forward is an unu",
     "transfer round up: daily speculation and news from premier league market offer o",
     "enzo fernandez agrees terms with man city as chelsea make contact with top two r",
     "arsenal weigh up attacker bid and continue negotiations for defensive signing \u2013 ",
@@ -2207,7 +2205,9 @@
     "juventus, new offer to aston villa for dibu martinez: the figures, the gap is mi",
     "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f juventus have made official club to club approach with tottenham for gug",
     "\ud83d\udea8 \ud83d\udfe3 \ud83d\udd35 aston villa are still proceeding with all the formal steps of zion suzuki ",
-    "\ud83d\udea8 \ud83d\udfe1 \ud83d\udd34 more on exclusive update from the afternoon: as roma are now closing in on"
+    "\ud83d\udea8 \ud83d\udfe1 \ud83d\udd34 more on exclusive update from the afternoon: as roma are now closing in on",
+    "coventry city 'close' to completing signing of premier league striker as \u00a317m tr",
+    "\ud83d\udea8 \ud83e\udde4 juventus, aston villa and emiliano martinez camp all calling the deal 100% o"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2493,15 +2493,15 @@
     "hector fort": "https://r2.thesportsdb.com/images/media/player/cutout/x1ag1j1762371932.png/small",
     "emiliano martinez": "https://r2.thesportsdb.com/images/media/player/cutout/ffr5xx1756984715.png/small",
     "joey veerman": "https://r2.thesportsdb.com/images/media/player/cutout/gktpip1764609026.png/small",
-    "said el mala": "",
     "hermann malonga": "",
     "amar dedic": "https://r2.thesportsdb.com/images/media/player/cutout/w3npc31781347204.png/small",
     "lacine megnan pave": "",
     "suzuki": "",
     "dastan satpayev": "",
-    "heaven kilwa": ""
+    "heaven kilwa": "",
+    "said el mala": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

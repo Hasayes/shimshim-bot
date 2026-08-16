@@ -1,7 +1,5 @@
 {
   "sent": [
-    "b34786a04c4bcb8c3a5401634116c957",
-    "66e3db7489b899cf2774f10b89480b77",
     "6128c3fef69e40672629296cab7deee6",
     "31902c370ff6ffd9e011efe394203040",
     "6dedfb5ad7ca5c2be4d82f4f0c33517c",
@@ -1499,7 +1497,9 @@
     "tg:FabrizioRomanoTG/64732",
     "3e8f211188400fd6a2b8d55d28ec2367",
     "tg:FabrizioRomanoTG/64733",
-    "tg:FabrizioRomanoTG/64735"
+    "tg:FabrizioRomanoTG/64735",
+    "9e6d08807a1adb473bb76fc2ab06c8a2",
+    "tg:FabrizioRomanoTG/64737"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1718,7 +1718,8 @@
     "gonzalez -> manchester city": 2,
     "suzuki -> aston villa": 2,
     "veerman -> borussia dortmund": 1,
-    "rodri -> barcelona": 1
+    "rodri -> barcelona": 1,
+    "dedic -> newcastle": 1
   },
   "interest": [
     "interest: alvarez -> arsenal",
@@ -1907,8 +1908,6 @@
     "interest: martinez -> juventus"
   ],
   "titles": [
-    "\ud83d\udea8 \u26a0\ufe0f nayef aguerd to real sociedad, deal off after he completed medical tests at",
-    "\ud83d\udee9\ufe0f \ud83c\uddec\ud83c\udde7 rodri, flying back to manchester from madrid while talks with barcelona co",
     "martinelli and galatasaray could be a concern for milan and roma",
     "liverpool 'pull out of transfer deal' for attacker after holding talks with agen",
     "romano confirms tottenham \u2018working\u2019 on stunning \u00a3137m double deal",
@@ -2206,7 +2205,9 @@
     "rt @fabrizioromano : \ud83d\udea8 \ud83d\udd35 \ud83d\udd34 exclusive: rodri to barcelona, here we go! \ud83d\udca5 deal agr",
     "tottenham get fresh savinho update as transfer saga rumbles on london evening st",
     "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 rodri to barcelona, deal agreed: the exclusive story of the night \ud83d\udca5 \ud83c\uddea\ud83c\uddf8 htt",
-    "\ud83d\udcfa new youtube video uploaded! \ud83c\udfac \ud83d\udea8 \ud83d\udca3 double here we go! rodri bomba and not only!"
+    "\ud83d\udcfa new youtube video uploaded! \ud83c\udfac \ud83d\udea8 \ud83d\udca3 double here we go! rodri bomba and not only!",
+    "amar dedic solves a newcastle problem nobody wanted to talk about",
+    "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 rodri will sign a four year contract at barcelona this upcoming week \u2014 it "
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2492,14 +2493,15 @@
     "hector fort": "https://r2.thesportsdb.com/images/media/player/cutout/x1ag1j1762371932.png/small",
     "emiliano martinez": "https://r2.thesportsdb.com/images/media/player/cutout/ffr5xx1756984715.png/small",
     "joey veerman": "https://r2.thesportsdb.com/images/media/player/cutout/gktpip1764609026.png/small",
-    "lacine megnan pave": "",
     "suzuki": "",
     "dastan satpayev": "",
     "heaven kilwa": "",
     "said el mala": "",
-    "hermann malonga": ""
+    "hermann malonga": "",
+    "amar dedic": "https://r2.thesportsdb.com/images/media/player/cutout/w3npc31781347204.png/small",
+    "lacine megnan pave": ""
   },
-  "photo_repair_idx": 5,
+  "photo_repair_idx": 6,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",
@@ -2650,6 +2652,7 @@
     "racing santander": "https://r2.thesportsdb.com/images/media/team/badge/97kkiq1536575158.png/small",
     "cologne": "",
     "al qadsiah": "https://r2.thesportsdb.com/images/media/team/badge/ok63wb1719134839.png/small",
-    "inter miami": "https://r2.thesportsdb.com/images/media/team/badge/m4it3e1602103647.png/small"
+    "inter miami": "https://r2.thesportsdb.com/images/media/team/badge/m4it3e1602103647.png/small",
+    "sl benfica": "https://r2.thesportsdb.com/images/media/team/badge/hj4kyc1781152436.png/small"
   }
 }

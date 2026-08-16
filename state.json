@@ -1,6 +1,5 @@
 {
   "sent": [
-    "f41492c716a02f02959727e32512aee8",
     "db5ecddd59c4c54e01ba2a95bc9119da",
     "f7e4bc4a24eb555439eeda9103c9b024",
     "7a0d2bb2eaabfd9095718496a012a536",
@@ -1499,7 +1498,8 @@
     "a7c363aadd81b842ae620aa95a11987c",
     "9a5a9c538a062479554a5801a766b8e4",
     "tg:FabrizioRomanoTG/64688",
-    "tg:FabrizioRomanoTG/64689"
+    "tg:FabrizioRomanoTG/64689",
+    "tg:FabrizioRomanoTG/64692"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1715,7 +1715,8 @@
     "lucumi -> juventus": 1,
     "godts -> psg": 2,
     "satpayev -> burnley": 1,
-    "gonzalez -> manchester city": 2
+    "gonzalez -> manchester city": 2,
+    "suzuki -> aston villa": 2
   },
   "interest": [
     "interest: alvarez -> arsenal",
@@ -1904,7 +1905,6 @@
     "interest: martinez -> juventus"
   ],
   "titles": [
-    "transfer news live: camavinga to man utd twist, \u00a338m arsenal bid, enzo fernandez",
     "chelsea issue ultimatum to man city over signing enzo fernandez as xabi alonso s",
     "arsenal in \"contact\" over ezri konsa alternative as fabrizio romano reveals gunn",
     "chelsea join liverpool and manchester united in \u00a343m midfielder race",
@@ -2203,7 +2203,8 @@
     "coventry city agree deal to sign taiwo awoniyi",
     "liverpool one step closer to bradley barcola deal as \u00a347m transfer confirmed ami",
     "\ud83d\udea8 \ud83d\udfe3 \ud83d\udd35 aston villa have agreed on personal terms with zion suzuki and closing in ",
-    "\ud83d\udea8 \ud83d\udfe3 \ud83d\udd35 aston villa and parma have started exchanging documents for zion suzuki de"
+    "\ud83d\udea8 \ud83d\udfe3 \ud83d\udd35 aston villa and parma have started exchanging documents for zion suzuki de",
+    "\ud83d\udfe3 \ud83d\udd35 \ud83d\udc40 suzuki, on #avfc shortlist since early days as revealed back in june and n"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2492,9 +2493,10 @@
     "dastan satpayev": "",
     "heaven kilwa": "",
     "said el mala": "",
+    "suzuki": "",
     "hermann malonga": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 5,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

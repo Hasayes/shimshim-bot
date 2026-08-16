@@ -1,6 +1,5 @@
 {
   "sent": [
-    "0f1f19730ceca5a3ba1ce5dedee43533",
     "956293586ded8e25f278941b86329caa",
     "tg:FabrizioRomanoTG/64006",
     "33f46b1672b902ed42e5aa5248fb11cb",
@@ -1499,7 +1498,8 @@
     "c862eb70cceb336c0f41c53ef3f84c41",
     "tg:FabrizioRomanoTG/64686",
     "3052c95ac5eff8c469a1f1ca921c60cf",
-    "82f667e5c6847021f838c3f5fb338673"
+    "82f667e5c6847021f838c3f5fb338673",
+    "tg:FabrizioRomanoTG/64687"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1904,7 +1904,6 @@
     "interest: martinez -> juventus"
   ],
   "titles": [
-    "\ud83d\udcfa new youtube video uploaded! \ud83c\udfac \ud83d\udea8 \ud83d\udca3 \ud83d\udca3 two bombas: done deals! rodri boom! mac al",
     "psg chief\u2019s post match comments about barcola leave the door wide open for liver",
     "source reveals sell on clause tottenham have secured in \u20ac40m romero transfer to ",
     "\ud83d\udea8 \ud83d\udca3 ferran torres to paris saint germain, here we go! \ud83d\udd34 \ud83d\udd35 https://t co/1fj11v5zp",
@@ -2203,7 +2202,8 @@
     "borussia dortmund and rb leipzig join race for manchester united linked attacker",
     "\u201cnothing expected\u201d martinelli not considering moving to turkiye",
     "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f after taiwo awoniyi, coventry city also agree deal for sidiki cherif from",
-    "tottenham hotspur are in concrete talks to sign this liverpool winger: good opti"
+    "tottenham hotspur are in concrete talks to sign this liverpool winger: good opti",
+    "\ud83d\udea8 \u26ab\ufe0f \ud83d\udd35 inter young defender leonardo bovio has signed a new long term contract a"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2488,13 +2488,13 @@
     "luis suarez": "https://r2.thesportsdb.com/images/media/player/cutout/vfjd0w1750315193.png/small",
     "hector fort": "https://r2.thesportsdb.com/images/media/player/cutout/x1ag1j1762371932.png/small",
     "emiliano martinez": "https://r2.thesportsdb.com/images/media/player/cutout/ffr5xx1756984715.png/small",
-    "hermann malonga": "",
     "lacine megnan pave": "",
     "dastan satpayev": "",
     "heaven kilwa": "",
-    "said el mala": ""
+    "said el mala": "",
+    "hermann malonga": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

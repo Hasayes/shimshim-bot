@@ -1,6 +1,5 @@
 {
   "sent": [
-    "78206a419b0ab579c9c7d663c70e3a78",
     "eda5c5384418b1fd3dc6188311a9b8fe",
     "c40bffd5bfa88a3552cf0b627dd06320",
     "abe7650b97e13758d8146e29235a3808",
@@ -1499,7 +1498,8 @@
     "bf98f525faa2bb032c3a4dd6a820f07a",
     "tg:FabrizioRomanoTG/64710",
     "tg:FabrizioRomanoTG/64722",
-    "tg:FabrizioRomanoTG/64723"
+    "tg:FabrizioRomanoTG/64723",
+    "02d3151d0dc320ad32f346b9cbb1f20c"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1906,7 +1906,6 @@
     "interest: martinez -> juventus"
   ],
   "titles": [
-    "arsenal set to break long standing transfer record, following new bid: report",
     "fabrizio romano hints liverpool may have to spend \u2018almost \u20ac200m\u2019 to pull off dou",
     "liverpool fans would be ecstatic after romano issues exciting transfer update",
     "man city to \u2018recoup\u2019 \u00a3120m enzo fernandez fee with two sales as romano reveals \u2018",
@@ -2205,7 +2204,8 @@
     "report \u2013 roma target omitted from arsenal\u2019s community shield squad",
     "\ud83d\udea8 \ud83d\udfe1 \ud83d\udd34 understand as roma have improved their bid and are now confident to get ro",
     "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f excl: rc strasbourg agree deal to sign jeyland mitchell, here we go! \ud83c\udde8\ud83c\uddf7 d",
-    "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 breaking: joao cancelo to barcelona, here we go! agreement done on contrac"
+    "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 breaking: joao cancelo to barcelona, here we go! agreement done on contrac",
+    "barcelona ready to fly top defensive target early next week as summer transfer n"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2491,14 +2491,14 @@
     "hector fort": "https://r2.thesportsdb.com/images/media/player/cutout/x1ag1j1762371932.png/small",
     "emiliano martinez": "https://r2.thesportsdb.com/images/media/player/cutout/ffr5xx1756984715.png/small",
     "joey veerman": "https://r2.thesportsdb.com/images/media/player/cutout/gktpip1764609026.png/small",
-    "hermann malonga": "",
     "lacine megnan pave": "",
     "suzuki": "",
     "dastan satpayev": "",
     "heaven kilwa": "",
-    "said el mala": ""
+    "said el mala": "",
+    "hermann malonga": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 5,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

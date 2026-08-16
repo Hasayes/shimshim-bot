@@ -1,6 +1,5 @@
 {
   "sent": [
-    "3b9dc458b680bc137dcab0d24f95977f",
     "f41492c716a02f02959727e32512aee8",
     "db5ecddd59c4c54e01ba2a95bc9119da",
     "f7e4bc4a24eb555439eeda9103c9b024",
@@ -1499,7 +1498,8 @@
     "896986441266999d80bd96831acc7160",
     "a7c363aadd81b842ae620aa95a11987c",
     "9a5a9c538a062479554a5801a766b8e4",
-    "tg:FabrizioRomanoTG/64688"
+    "tg:FabrizioRomanoTG/64688",
+    "tg:FabrizioRomanoTG/64689"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1904,7 +1904,6 @@
     "interest: martinez -> juventus"
   ],
   "titles": [
-    "barcelona transfer news: blaugrana move to reassure rodri's potential victim, wa",
     "transfer news live: camavinga to man utd twist, \u00a338m arsenal bid, enzo fernandez",
     "chelsea issue ultimatum to man city over signing enzo fernandez as xabi alonso s",
     "arsenal in \"contact\" over ezri konsa alternative as fabrizio romano reveals gunn",
@@ -2203,7 +2202,8 @@
     "liverpool hopes of barcola transfer boosted as \u00a347m deal confirmed london evenin",
     "coventry city agree deal to sign taiwo awoniyi",
     "liverpool one step closer to bradley barcola deal as \u00a347m transfer confirmed ami",
-    "\ud83d\udea8 \ud83d\udfe3 \ud83d\udd35 aston villa have agreed on personal terms with zion suzuki and closing in "
+    "\ud83d\udea8 \ud83d\udfe3 \ud83d\udd35 aston villa have agreed on personal terms with zion suzuki and closing in ",
+    "\ud83d\udea8 \ud83d\udfe3 \ud83d\udd35 aston villa and parma have started exchanging documents for zion suzuki de"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2488,13 +2488,13 @@
     "luis suarez": "https://r2.thesportsdb.com/images/media/player/cutout/vfjd0w1750315193.png/small",
     "hector fort": "https://r2.thesportsdb.com/images/media/player/cutout/x1ag1j1762371932.png/small",
     "emiliano martinez": "https://r2.thesportsdb.com/images/media/player/cutout/ffr5xx1756984715.png/small",
-    "hermann malonga": "",
     "lacine megnan pave": "",
     "dastan satpayev": "",
     "heaven kilwa": "",
-    "said el mala": ""
+    "said el mala": "",
+    "hermann malonga": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

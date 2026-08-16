@@ -1,6 +1,5 @@
 {
   "sent": [
-    "e664641184af53f50293611dbe4fae7c",
     "tg:FabrizioRomanoTG/64005",
     "5207ac881f6a13b2f2bd47156a8618f4",
     "0f1f19730ceca5a3ba1ce5dedee43533",
@@ -1499,7 +1498,8 @@
     "tg:FabrizioRomanoTG/64683",
     "tg:FabrizioRomanoTG/64684",
     "65b8d305eea7b24c6e391dfca02edc02",
-    "c862eb70cceb336c0f41c53ef3f84c41"
+    "c862eb70cceb336c0f41c53ef3f84c41",
+    "tg:FabrizioRomanoTG/64686"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1904,7 +1904,6 @@
     "interest: martinez -> juventus"
   ],
   "titles": [
-    "nicolas jackson gives green light to premier league move as chelsea exit edges c",
     "transfer news live: shock arsenal move; new man utd target; chelsea done deal; b",
     "\ud83d\udcfa new youtube video uploaded! \ud83c\udfac \ud83d\udea8 \ud83d\udca3 \ud83d\udca3 two bombas: done deals! rodri boom! mac al",
     "psg chief\u2019s post match comments about barcola leave the door wide open for liver",
@@ -2203,7 +2202,8 @@
     "\ud83d\udea8 \ud83c\uddf5\ud83c\uddf9 al hilal have genuine interest in pedro neto as part of a three wingers sho",
     "\ud83d\udea8 \ud83e\ude75 enzo maresca says he wants ryan mcaidoo to stay at man city \u201cthe best for hi",
     "borussia dortmund and rb leipzig join race for manchester united linked attacker",
-    "\u201cnothing expected\u201d martinelli not considering moving to turkiye"
+    "\u201cnothing expected\u201d martinelli not considering moving to turkiye",
+    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f after taiwo awoniyi, coventry city also agree deal for sidiki cherif from"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2488,13 +2488,13 @@
     "luis suarez": "https://r2.thesportsdb.com/images/media/player/cutout/vfjd0w1750315193.png/small",
     "hector fort": "https://r2.thesportsdb.com/images/media/player/cutout/x1ag1j1762371932.png/small",
     "emiliano martinez": "https://r2.thesportsdb.com/images/media/player/cutout/ffr5xx1756984715.png/small",
-    "heaven kilwa": "",
     "said el mala": "",
     "hermann malonga": "",
     "lacine megnan pave": "",
-    "dastan satpayev": ""
+    "dastan satpayev": "",
+    "heaven kilwa": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

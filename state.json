@@ -1,7 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/63988",
-    "tg:FabrizioRomanoTG/63990",
     "1da05520c34dfd9ccfabdaaadb640a2c",
     "6050d683bf6813774d44bb7df3371709",
     "46fb5606485d6966d8258e8f73899d12",
@@ -1499,7 +1497,9 @@
     "30ac2caa838b7218cc600e9e473281e1",
     "13bfe9a7f284a842594e9851ab1b96fa",
     "98c91a9c646abed962859d4b177a361e",
-    "b6a9a858849a94dfd3a2e9e14af851b4"
+    "b6a9a858849a94dfd3a2e9e14af851b4",
+    "8f36c9fecb162d37cd61cc189ec764ea",
+    "33919de48f544d9513a0ff984db7318d"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1903,8 +1903,6 @@
     "interest: martinez -> juventus"
   ],
   "titles": [
-    "bradley barcola to liverpool: major boost for reds as psg chief breaks silence o",
-    "\ud83d\udea8 \ud83d\udd35 chelsea are yet to receive any official bid for enzo fernandez as of 4pm uk ",
     "rt @fabrizioromano : \ud83d\udea8 \ud83d\udd35 chelsea are yet to receive any official bid for enzo fe",
     "man utd consider alternatives as real madrid star eduardo camavinga rejects \u20ac40m",
     "bayern munich news: kim min jae rejects aston villa, nottingham forest; fc bayer",
@@ -2202,7 +2200,9 @@
     "dortmund push hard to seal a deal from barcelona",
     "barcelona optimistic of landing rodri after making third offer",
     "mika baur is over the moon to finally be a celtic player",
-    "romano gives \u201chere we go\u201d to \u20ac35m newcastle deal; sellers could be in trouble"
+    "romano gives \u201chere we go\u201d to \u20ac35m newcastle deal; sellers could be in trouble",
+    "leeds and borussia monchengladbach finalise \u20ac10m nico elvedi transfer, yet one o",
+    "conditions met for liverpool to sell player in his prime as romano declares \u2018her"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2487,13 +2487,13 @@
     "luis suarez": "https://r2.thesportsdb.com/images/media/player/cutout/vfjd0w1750315193.png/small",
     "hector fort": "https://r2.thesportsdb.com/images/media/player/cutout/x1ag1j1762371932.png/small",
     "emiliano martinez": "https://r2.thesportsdb.com/images/media/player/cutout/ffr5xx1756984715.png/small",
-    "lacine megnan pave": "",
     "dastan satpayev": "",
     "heaven kilwa": "",
     "said el mala": "",
-    "hermann malonga": ""
+    "hermann malonga": "",
+    "lacine megnan pave": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 5,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

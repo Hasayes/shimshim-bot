@@ -1,6 +1,5 @@
 {
   "sent": [
-    "db5ecddd59c4c54e01ba2a95bc9119da",
     "f7e4bc4a24eb555439eeda9103c9b024",
     "7a0d2bb2eaabfd9095718496a012a536",
     "e431223e9d609393f52ef59e20c49562",
@@ -1499,7 +1498,8 @@
     "9a5a9c538a062479554a5801a766b8e4",
     "tg:FabrizioRomanoTG/64688",
     "tg:FabrizioRomanoTG/64689",
-    "tg:FabrizioRomanoTG/64692"
+    "tg:FabrizioRomanoTG/64692",
+    "tg:FabrizioRomanoTG/64694"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1716,7 +1716,8 @@
     "godts -> psg": 2,
     "satpayev -> burnley": 1,
     "gonzalez -> manchester city": 2,
-    "suzuki -> aston villa": 2
+    "suzuki -> aston villa": 2,
+    "veerman -> borussia dortmund": 1
   },
   "interest": [
     "interest: alvarez -> arsenal",
@@ -1905,7 +1906,6 @@
     "interest: martinez -> juventus"
   ],
   "titles": [
-    "chelsea issue ultimatum to man city over signing enzo fernandez as xabi alonso s",
     "arsenal in \"contact\" over ezri konsa alternative as fabrizio romano reveals gunn",
     "chelsea join liverpool and manchester united in \u00a343m midfielder race",
     "fabrizio romano: liverpool and psg in \u2018daily contact\u2019 over barcola; player is \u2018n",
@@ -2204,7 +2204,8 @@
     "liverpool one step closer to bradley barcola deal as \u00a347m transfer confirmed ami",
     "\ud83d\udea8 \ud83d\udfe3 \ud83d\udd35 aston villa have agreed on personal terms with zion suzuki and closing in ",
     "\ud83d\udea8 \ud83d\udfe3 \ud83d\udd35 aston villa and parma have started exchanging documents for zion suzuki de",
-    "\ud83d\udfe3 \ud83d\udd35 \ud83d\udc40 suzuki, on #avfc shortlist since early days as revealed back in june and n"
+    "\ud83d\udfe3 \ud83d\udd35 \ud83d\udc40 suzuki, on #avfc shortlist since early days as revealed back in june and n",
+    "\ud83d\udea8 \ud83d\udfe1 \u26ab\ufe0f joey veerman to borussia dortmund, here we go! deal agreed for \u20ac21 5m fro"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2489,14 +2490,15 @@
     "luis suarez": "https://r2.thesportsdb.com/images/media/player/cutout/vfjd0w1750315193.png/small",
     "hector fort": "https://r2.thesportsdb.com/images/media/player/cutout/x1ag1j1762371932.png/small",
     "emiliano martinez": "https://r2.thesportsdb.com/images/media/player/cutout/ffr5xx1756984715.png/small",
-    "lacine megnan pave": "",
     "dastan satpayev": "",
     "heaven kilwa": "",
     "said el mala": "",
     "suzuki": "",
-    "hermann malonga": ""
+    "hermann malonga": "",
+    "joey veerman": "https://r2.thesportsdb.com/images/media/player/cutout/gktpip1764609026.png/small",
+    "lacine megnan pave": ""
   },
-  "photo_repair_idx": 5,
+  "photo_repair_idx": 6,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

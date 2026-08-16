@@ -1,6 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/63986",
     "tg:FabrizioRomanoTG/63987",
     "tg:FabrizioRomanoTG/63988",
     "tg:FabrizioRomanoTG/63990",
@@ -1499,7 +1498,8 @@
     "tg:FabrizioRomanoTG/64679",
     "771b588db97b4dd3a184b7b52685b2a7",
     "30ac2caa838b7218cc600e9e473281e1",
-    "13bfe9a7f284a842594e9851ab1b96fa"
+    "13bfe9a7f284a842594e9851ab1b96fa",
+    "98c91a9c646abed962859d4b177a361e"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1903,7 +1903,6 @@
     "interest: martinez -> juventus"
   ],
   "titles": [
-    "\ud83d\udea8 \u26a0\ufe0f breaking: savinho, not involved in man city training today city sources say",
     "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f napoli are aware of conditions to sign gabriel jesus and talks took place",
     "bradley barcola to liverpool: major boost for reds as psg chief breaks silence o",
     "\ud83d\udea8 \ud83d\udd35 chelsea are yet to receive any official bid for enzo fernandez as of 4pm uk ",
@@ -2202,7 +2201,8 @@
     "transfer updates: hinshelwood, rodri, osimhen, neto, delap, quansah, others",
     "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f amar dedic, flying to england today for medical tests and contract signi",
     "dortmund push hard to seal a deal from barcelona",
-    "barcelona optimistic of landing rodri after making third offer"
+    "barcelona optimistic of landing rodri after making third offer",
+    "mika baur is over the moon to finally be a celtic player"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2487,13 +2487,13 @@
     "luis suarez": "https://r2.thesportsdb.com/images/media/player/cutout/vfjd0w1750315193.png/small",
     "hector fort": "https://r2.thesportsdb.com/images/media/player/cutout/x1ag1j1762371932.png/small",
     "emiliano martinez": "https://r2.thesportsdb.com/images/media/player/cutout/ffr5xx1756984715.png/small",
-    "said el mala": "",
     "hermann malonga": "",
     "lacine megnan pave": "",
     "dastan satpayev": "",
-    "heaven kilwa": ""
+    "heaven kilwa": "",
+    "said el mala": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

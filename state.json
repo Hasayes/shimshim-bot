@@ -1,6 +1,5 @@
 {
   "sent": [
-    "88d8a6c7c235d03a4a93f3413872379f",
     "tg:FabrizioRomanoTG/63999",
     "0cbebb85d3871746d368fe25c9b0f956",
     "09f63dc4dec80e53ecbbff4c3bc862d5",
@@ -1499,7 +1498,8 @@
     "022a743a7168f785e34eb02abbc05ca3",
     "3c3898d3626aed0adb9a559e10541bdf",
     "c98c9b8c2b8ded3f0204ba2119feb3c0",
-    "955d3f98575a4b926d97351fe3b530c6"
+    "955d3f98575a4b926d97351fe3b530c6",
+    "8ea84fdab919bbab6ba2bfda90558824"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1903,7 +1903,6 @@
     "interest: martinez -> juventus"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f cuti romero, flying tonight to madrid with his agent to undergo medical a",
     "liverpool latest: andoni iraola braced for double blow as fresh transfer priorit",
     "\ud83d\udea8 \ud83c\uddf8\ud83c\udde6 exclusive: tijjani reijnders says yes to al qadsiah and all parties have no",
     "sky sports: arsenal offered \u00a338 4m for 'outstanding' gabriel martinelli",
@@ -2202,7 +2201,8 @@
     "leeds agree \u20ac10m fee for experienced bundesliga defender",
     "martinez hope for juventus as aston villa pounce on suzuki after psg split",
     "transfer insider: psg could slash \u00a320m off bradley barcola asking price in huge ",
-    "luis enrique reply to psg transfer question hints at frustration with bradley ba"
+    "luis enrique reply to psg transfer question hints at frustration with bradley ba",
+    "nkunku \u20ac35m asking price set for roma, borussia dortmund and rb leipzig"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2487,13 +2487,13 @@
     "luis suarez": "https://r2.thesportsdb.com/images/media/player/cutout/vfjd0w1750315193.png/small",
     "hector fort": "https://r2.thesportsdb.com/images/media/player/cutout/x1ag1j1762371932.png/small",
     "emiliano martinez": "https://r2.thesportsdb.com/images/media/player/cutout/ffr5xx1756984715.png/small",
-    "dastan satpayev": "",
     "heaven kilwa": "",
     "said el mala": "",
     "hermann malonga": "",
-    "lacine megnan pave": ""
+    "lacine megnan pave": "",
+    "dastan satpayev": ""
   },
-  "photo_repair_idx": 5,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

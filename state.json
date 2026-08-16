@@ -1,7 +1,5 @@
 {
   "sent": [
-    "abe7650b97e13758d8146e29235a3808",
-    "ed5d06c5bd72c0e76049a92bfdaa37bf",
     "44dd6e9ba2bad096d125156ce1a10398",
     "e7713ced936e681923c258955fce5406",
     "03446ee69e3e2c41f727651efb529aef",
@@ -1499,7 +1497,9 @@
     "tg:FabrizioRomanoTG/64723",
     "02d3151d0dc320ad32f346b9cbb1f20c",
     "tg:FabrizioRomanoTG/64726",
-    "tg:FabrizioRomanoTG/64730"
+    "tg:FabrizioRomanoTG/64730",
+    "tg:FabrizioRomanoTG/64731",
+    "tg:FabrizioRomanoTG/64732"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1717,7 +1717,8 @@
     "satpayev -> burnley": 1,
     "gonzalez -> manchester city": 2,
     "suzuki -> aston villa": 2,
-    "veerman -> borussia dortmund": 1
+    "veerman -> borussia dortmund": 1,
+    "rodri -> barcelona": 1
   },
   "interest": [
     "interest: alvarez -> arsenal",
@@ -1906,8 +1907,6 @@
     "interest: martinez -> juventus"
   ],
   "titles": [
-    "man city to \u2018recoup\u2019 \u00a3120m enzo fernandez fee with two sales as romano reveals \u2018",
-    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f excl: rangers agree deal to sign james penrice from aek athens on loan wi",
     "zimbabwean wonderkid set for man city",
     "andoni iraola\u2019s transfer plans: wingers pursuit collides with midfield exit conc",
     "man city \u2018keen on enzo fernandez\u2019 and could help fund \u00a3120m transfer from chelse",
@@ -2205,7 +2204,9 @@
     "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 breaking: joao cancelo to barcelona, here we go! agreement done on contrac",
     "barcelona ready to fly top defensive target early next week as summer transfer n",
     "it had to be and it will be next week: joao cancelo will fly to barcelona within",
-    "\ud83d\udea8 \ud83d\udd34 bradley barcola, not even on the bench for paris saint germain tonight \u274c liv"
+    "\ud83d\udea8 \ud83d\udd34 bradley barcola, not even on the bench for paris saint germain tonight \u274c liv",
+    "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 exclusive: rodri to barcelona, here we go! \ud83d\udca5 deal agreed for spanish midfi",
+    "rt @fabrizioromano : \ud83d\udea8 \ud83d\udd35 \ud83d\udd34 exclusive: rodri to barcelona, here we go! \ud83d\udca5 deal agr"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2491,14 +2492,14 @@
     "hector fort": "https://r2.thesportsdb.com/images/media/player/cutout/x1ag1j1762371932.png/small",
     "emiliano martinez": "https://r2.thesportsdb.com/images/media/player/cutout/ffr5xx1756984715.png/small",
     "joey veerman": "https://r2.thesportsdb.com/images/media/player/cutout/gktpip1764609026.png/small",
-    "dastan satpayev": "",
     "heaven kilwa": "",
     "said el mala": "",
     "hermann malonga": "",
     "lacine megnan pave": "",
-    "suzuki": ""
+    "suzuki": "",
+    "dastan satpayev": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

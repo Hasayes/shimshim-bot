@@ -1,6 +1,5 @@
 {
   "sent": [
-    "1fbf3de1a9f599271e42ac2657c711b1",
     "tg:FabrizioRomanoTG/63984",
     "tg:FabrizioRomanoTG/63985",
     "tg:FabrizioRomanoTG/63986",
@@ -1499,7 +1498,8 @@
     "4072631ece9ca0e97792857b077b77a7",
     "tg:FabrizioRomanoTG/64678",
     "6db7f9cd5d4993f7b1a642085b047fd1",
-    "tg:FabrizioRomanoTG/64679"
+    "tg:FabrizioRomanoTG/64679",
+    "771b588db97b4dd3a184b7b52685b2a7"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1903,7 +1903,6 @@
     "interest: martinez -> juventus"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83e\ude75 manchester city have agreed deal for the academy to sign 16 year old winger ",
     "\ud83d\udea8 \ud83d\udd34 \u26ab\ufe0f fikayo tomori has been included into ac milan exit list today; he\u2019s avail",
     "\ud83d\udea8 \u26a0\ufe0f breaking: savinho, not involved in man city training today city sources say",
     "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f napoli are aware of conditions to sign gabriel jesus and talks took place",
@@ -2202,7 +2201,8 @@
     "fabrizio romano: arsenal have shortlisted 'underrated' ezri konsa",
     "\ud83d\udcfa new youtube video uploaded! \ud83c\udfac \ud83d\udea8 \ud83d\udca3 deal off! barca deal done soon! rodri and en",
     "transfer updates: hinshelwood, rodri, osimhen, neto, delap, quansah, others",
-    "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f amar dedic, flying to england today for medical tests and contract signi"
+    "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f amar dedic, flying to england today for medical tests and contract signi",
+    "dortmund push hard to seal a deal from barcelona"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2487,13 +2487,13 @@
     "luis suarez": "https://r2.thesportsdb.com/images/media/player/cutout/vfjd0w1750315193.png/small",
     "hector fort": "https://r2.thesportsdb.com/images/media/player/cutout/x1ag1j1762371932.png/small",
     "emiliano martinez": "https://r2.thesportsdb.com/images/media/player/cutout/ffr5xx1756984715.png/small",
-    "dastan satpayev": "",
     "heaven kilwa": "",
     "said el mala": "",
     "hermann malonga": "",
-    "lacine megnan pave": ""
+    "lacine megnan pave": "",
+    "dastan satpayev": ""
   },
-  "photo_repair_idx": 5,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

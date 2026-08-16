@@ -1,6 +1,5 @@
 {
   "sent": [
-    "cd29ab4034fbae1b61d6a0981e8d99c5",
     "3b0d973c5f5f138290b44e8144e8666f",
     "9839acf8b7252b63fd4fabb76962d68f",
     "f388480b57f10ff4ac46043b5419fe3b",
@@ -1499,7 +1498,8 @@
     "db22563acd5bdd5e6f7dd1771fc6e44f",
     "44f448d773a1960e931834f0026214c0",
     "3c2052afec581470e4015ccf9ba5ec00",
-    "dad53400b39e370d55eab48f3da71113"
+    "dad53400b39e370d55eab48f3da71113",
+    "tg:FabrizioRomanoTG/64683"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1904,7 +1904,6 @@
     "interest: martinez -> juventus"
   ],
   "titles": [
-    "gabriel martinelli informs arsenal about decision after galatasaray send \u00a338 mil",
     "fabrizio romano exclusive: liverpool holding daily contacts to get \u20ac120m plus tr",
     "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 breaking: ferran torres to paris saint germain, here we go! \ud83d\udca5 deal confirm",
     "transfer: man city unwilling to meet chelsea\u2019s demand for pedro neto",
@@ -2203,7 +2202,8 @@
     "transfer: frank lampard signs another super eagles star for coventry city",
     "coventry city agree deal to sign awoniyi from nottingham forest",
     "transfer: coventry city reach agreement with nottingham forest for awoniyi",
-    "juventus follow closely emiliano martinez\u2019s situation as aston villa may have fo"
+    "juventus follow closely emiliano martinez\u2019s situation as aston villa may have fo",
+    "\ud83d\udea8 \ud83c\uddf5\ud83c\uddf9 al hilal have genuine interest in pedro neto as part of a three wingers sho"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2488,13 +2488,13 @@
     "luis suarez": "https://r2.thesportsdb.com/images/media/player/cutout/vfjd0w1750315193.png/small",
     "hector fort": "https://r2.thesportsdb.com/images/media/player/cutout/x1ag1j1762371932.png/small",
     "emiliano martinez": "https://r2.thesportsdb.com/images/media/player/cutout/ffr5xx1756984715.png/small",
-    "said el mala": "",
     "hermann malonga": "",
     "lacine megnan pave": "",
     "dastan satpayev": "",
-    "heaven kilwa": ""
+    "heaven kilwa": "",
+    "said el mala": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

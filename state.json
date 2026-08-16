@@ -1,6 +1,5 @@
 {
   "sent": [
-    "4399c66e03bb4fb3ac71a2662f4c44c4",
     "c7e42e88f926cb046435d276750c5dd0",
     "tg:FabrizioRomanoTG/64011",
     "5668708f1ae7b7fb2d9e9ae2dacf1651",
@@ -1499,7 +1498,8 @@
     "075b8d805e7d31da00d0d6262e3c265e",
     "tg:FabrizioRomanoTG/64695",
     "tg:FabrizioRomanoTG/64698",
-    "tg:FabrizioRomanoTG/64703"
+    "tg:FabrizioRomanoTG/64703",
+    "tg:FabrizioRomanoTG/64706"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1906,7 +1906,6 @@
     "interest: martinez -> juventus"
   ],
   "titles": [
-    "liverpool news: psg boss leaks bradley barcola bombshell as ace 'on the brink' o",
     "fc barcelona has another rodri offer rejected by manchester city",
     "eduardo camavinga makes man utd transfer decision after secret talks held with a",
     "transfer rumors, news: chelsea eye arsenal's zubimendi to replace man city targe",
@@ -2205,7 +2204,8 @@
     "awoniyi joins onyeka at coventry",
     "\ud83d\udea8 \ud83c\udde7\ud83c\uddf7 savinho, not involved into man city squad for community shield today as tal",
     "\ud83d\udea8 \u274c savinho, out of manchester city squad today for community shield as he wants",
-    "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f juventus, open to signing emi martinez for same fee offered in june (\u20ac6 "
+    "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f juventus, open to signing emi martinez for same fee offered in june (\u20ac6 ",
+    "\ud83d\udd34 \u26aa\ufe0f \u2728 two assists on official debut since joining arsenal for christos tzolis \ud83c\uddec"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2490,15 +2490,15 @@
     "luis suarez": "https://r2.thesportsdb.com/images/media/player/cutout/vfjd0w1750315193.png/small",
     "hector fort": "https://r2.thesportsdb.com/images/media/player/cutout/x1ag1j1762371932.png/small",
     "emiliano martinez": "https://r2.thesportsdb.com/images/media/player/cutout/ffr5xx1756984715.png/small",
-    "hermann malonga": "",
     "joey veerman": "https://r2.thesportsdb.com/images/media/player/cutout/gktpip1764609026.png/small",
     "lacine megnan pave": "",
     "suzuki": "",
     "dastan satpayev": "",
     "heaven kilwa": "",
-    "said el mala": ""
+    "said el mala": "",
+    "hermann malonga": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 5,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

@@ -1,7 +1,5 @@
 {
   "sent": [
-    "4deebfbf00fc46b752b19d99c1255976",
-    "0921e01b6abd45b8f200d0154b9d94b8",
     "45676ba7ba437a5ae56e1862dbba4199",
     "29116608ed863728fb3d11e3ee6abe03",
     "780f2000412f2237f1c4253e1419daa4",
@@ -1499,7 +1497,9 @@
     "527729a5959a030270fac6ee3d780768",
     "2e138ed56cea6aaa44e14ffa0611e80e",
     "tg:FabrizioRomanoTG/64750",
-    "tg:FabrizioRomanoTG/64752"
+    "tg:FabrizioRomanoTG/64752",
+    "3770aa9469971fba99162d1d0035c81e",
+    "69e8009983512bdba3d75ec80991fe5b"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1909,8 +1909,6 @@
     "interest: martinez -> juventus"
   ],
   "titles": [
-    "man utd make contact for psg signing as liverpool step aside",
-    "galatasaray reject \u20ac130m approach for osimhen while launching \u20ac45m martinelli pu",
     "napoli close in on gabriel jesus: new contacts with arsenal",
     "chelsea sets deadline and price of r$839 million for enzo fernandez to mancheste",
     "atletico de madrid signs defender romero, argentina\u2019s standout player at the 202",
@@ -2208,7 +2206,9 @@
     "transfer rumors, news: liverpool step up barcola chase as psg sign godts espn co",
     "\u2018powerful\u2019 liverpool attacker set for exit as three sides battle to win race",
     "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f juventus and dibu martinez camp had direct talk tonight: deal officially",
-    "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 understand barcelona mantain right of first refusal clause for tommy marqu"
+    "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 understand barcelona mantain right of first refusal clause for tommy marqu",
+    "dani olmo sends emotional message to ferran torres as spain hero completes \u20ac50m ",
+    "frank lampard targets deal for second chelsea star after mykhailo mudryk approac"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2495,15 +2495,15 @@
     "emiliano martinez": "https://r2.thesportsdb.com/images/media/player/cutout/ffr5xx1756984715.png/small",
     "joey veerman": "https://r2.thesportsdb.com/images/media/player/cutout/gktpip1764609026.png/small",
     "amar dedic": "https://r2.thesportsdb.com/images/media/player/cutout/w3npc31781347204.png/small",
-    "suzuki": "",
     "dastan satpayev": "",
     "heaven kilwa": "",
     "said el mala": "",
     "hermann malonga": "",
     "lacine megnan pave": "",
-    "tommy marques": ""
+    "tommy marques": "",
+    "suzuki": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

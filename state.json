@@ -1,6 +1,5 @@
 {
   "sent": [
-    "42a9b4d8f6daf2cc3ff451806831450f",
     "0116b933b729cf777bc0d5ac16a2a30c",
     "1decebb9e750e676ac09fd0c28a4d0cb",
     "7939e5c3c703e26b53e64eea4e3fb103",
@@ -1499,7 +1498,8 @@
     "88baa6a70cf7fb0325bb03054478d29f",
     "6ff4236098a1721b4a3b389456aa02fe",
     "tg:FabrizioRomanoTG/64754",
-    "782994007d141c9d2a7945ae6b61a410"
+    "782994007d141c9d2a7945ae6b61a410",
+    "14363a4fa6edef12efba7740f379115a"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1909,7 +1909,6 @@
     "interest: martinez -> juventus"
   ],
   "titles": [
-    "man city transfer news: nottingham forest linked tijjani reijnders to make final",
     "just in: romano reveals ineos made u turn on 13 g/a man utd star after pre seaso",
     "transfer: kilwa joins man city as arsenal sign liverpool striker",
     "romano issues update after tottenham target savinho misses training today",
@@ -2208,7 +2207,8 @@
     "liverpool learn the only way they can complete bradley barcola signing this summ",
     "juventus submit new offer for aston villa\u2019s martinez after psg collapse with suz",
     "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 rodri has authorization to fly to barcelona today, monday ahead of move be",
-    "barcelona make decision on luis suarez as potential alternative to julian alvare"
+    "barcelona make decision on luis suarez as potential alternative to julian alvare",
+    "\u201cend is near\u201d \u2013 liverpool set to finalise bradley barcola transfer talks imminen"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2495,15 +2495,15 @@
     "emiliano martinez": "https://r2.thesportsdb.com/images/media/player/cutout/ffr5xx1756984715.png/small",
     "joey veerman": "https://r2.thesportsdb.com/images/media/player/cutout/gktpip1764609026.png/small",
     "amar dedic": "https://r2.thesportsdb.com/images/media/player/cutout/w3npc31781347204.png/small",
-    "hermann malonga": "",
     "lacine megnan pave": "",
     "tommy marques": "",
     "suzuki": "",
     "dastan satpayev": "",
     "heaven kilwa": "",
-    "said el mala": ""
+    "said el mala": "",
+    "hermann malonga": ""
   },
-  "photo_repair_idx": 5,
+  "photo_repair_idx": 6,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

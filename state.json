@@ -1,9 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/63999",
-    "0cbebb85d3871746d368fe25c9b0f956",
-    "09f63dc4dec80e53ecbbff4c3bc862d5",
-    "4f7573b77f086c880f5f8ed4d5f14cb5",
     "a46b03e149b8116500691ccf79ecacb8",
     "e8f501d32780db590c07b6bbdf6f4e73",
     "067e5a69a04a1b42db8c8c6d5f4ffafb",
@@ -1499,7 +1495,11 @@
     "3c3898d3626aed0adb9a559e10541bdf",
     "c98c9b8c2b8ded3f0204ba2119feb3c0",
     "955d3f98575a4b926d97351fe3b530c6",
-    "8ea84fdab919bbab6ba2bfda90558824"
+    "8ea84fdab919bbab6ba2bfda90558824",
+    "967e281aa6dc99bc91a69271a435ed8a",
+    "88f4aee7ea6be064ab1fbf8fd298c8c4",
+    "3350585469965491f6a0b949c64d9380",
+    "1709d099119dfc968ef6f701c5f2013d"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1903,7 +1903,6 @@
     "interest: martinez -> juventus"
   ],
   "titles": [
-    "liverpool latest: andoni iraola braced for double blow as fresh transfer priorit",
     "\ud83d\udea8 \ud83c\uddf8\ud83c\udde6 exclusive: tijjani reijnders says yes to al qadsiah and all parties have no",
     "sky sports: arsenal offered \u00a338 4m for 'outstanding' gabriel martinelli",
     "\u201ca good sign \u201d \u2013 mikel arteta makes interesting arsenal transfer claim after spe",
@@ -2202,7 +2201,8 @@
     "martinez hope for juventus as aston villa pounce on suzuki after psg split",
     "transfer insider: psg could slash \u00a320m off bradley barcola asking price in huge ",
     "luis enrique reply to psg transfer question hints at frustration with bradley ba",
-    "nkunku \u20ac35m asking price set for roma, borussia dortmund and rb leipzig"
+    "nkunku \u20ac35m asking price set for roma, borussia dortmund and rb leipzig",
+    "romano: arsenal want to sign atletico star marc pubill alongside alvarez"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2487,13 +2487,13 @@
     "luis suarez": "https://r2.thesportsdb.com/images/media/player/cutout/vfjd0w1750315193.png/small",
     "hector fort": "https://r2.thesportsdb.com/images/media/player/cutout/x1ag1j1762371932.png/small",
     "emiliano martinez": "https://r2.thesportsdb.com/images/media/player/cutout/ffr5xx1756984715.png/small",
-    "heaven kilwa": "",
     "said el mala": "",
     "hermann malonga": "",
     "lacine megnan pave": "",
-    "dastan satpayev": ""
+    "dastan satpayev": "",
+    "heaven kilwa": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

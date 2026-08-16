@@ -1,6 +1,5 @@
 {
   "sent": [
-    "d8655a9d43d1e9f4c0de8a7d8f955498",
     "a50b46085e6c09d1af4dabdcb8c7d29b",
     "dafde9ba58a6aeda0d8f768c1a7a9818",
     "06cbba1e5fa29614bb4cb1e295de71c9",
@@ -1499,7 +1498,8 @@
     "tg:FabrizioRomanoTG/64743",
     "3edb1e4720628b30685eebc9d0c667a2",
     "tg:FabrizioRomanoTG/64744",
-    "tg:FabrizioRomanoTG/64745"
+    "tg:FabrizioRomanoTG/64745",
+    "tg:FabrizioRomanoTG/64749"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1719,7 +1719,8 @@
     "suzuki -> aston villa": 2,
     "veerman -> borussia dortmund": 1,
     "rodri -> barcelona": 1,
-    "dedic -> newcastle": 1
+    "dedic -> newcastle": 1,
+    "marques -> sc braga": 1
   },
   "interest": [
     "interest: alvarez -> arsenal",
@@ -1908,7 +1909,6 @@
     "interest: martinez -> juventus"
   ],
   "titles": [
-    "enzo fernandez agrees terms with man city as chelsea make contact with top two r",
     "arsenal weigh up attacker bid and continue negotiations for defensive signing \u2013 ",
     "chelsea set enzo fernandez deadline as badiashile talks with napoli intensify",
     "\u20ac500m release clause, not for sale, but desperate arsenal ready to \u2018break the ba",
@@ -2207,7 +2207,8 @@
     "\ud83d\udea8 \ud83d\udfe1 \ud83d\udd34 more on exclusive update from the afternoon: as roma are now closing in on",
     "coventry city 'close' to completing signing of premier league striker as \u00a317m tr",
     "\ud83d\udea8 \ud83e\udde4 juventus, aston villa and emiliano martinez camp all calling the deal 100% o",
-    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f sc braga are closing in on tommy marques deal with barcelona, direct talk"
+    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f sc braga are closing in on tommy marques deal with barcelona, direct talk",
+    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f tommy marques to sc braga, here we go! deal in place for permanent exit o"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2499,9 +2500,10 @@
     "dastan satpayev": "",
     "heaven kilwa": "",
     "said el mala": "",
+    "tommy marques": "",
     "hermann malonga": ""
   },
-  "photo_repair_idx": 5,
+  "photo_repair_idx": 6,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

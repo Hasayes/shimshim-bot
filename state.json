@@ -1,6 +1,5 @@
 {
   "sent": [
-    "46fb5606485d6966d8258e8f73899d12",
     "tg:FabrizioRomanoTG/63994",
     "tg:FabrizioRomanoTG/63997",
     "3eef48179798d88b97e7e8a71785f51b",
@@ -1499,7 +1498,8 @@
     "8f36c9fecb162d37cd61cc189ec764ea",
     "33919de48f544d9513a0ff984db7318d",
     "d51c9ac0db4d451745fbc436e31eb8d5",
-    "tg:FabrizioRomanoTG/64682"
+    "tg:FabrizioRomanoTG/64682",
+    "98a84e1f6b8b34c927a7ab69df8b95aa"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1903,7 +1903,6 @@
     "interest: martinez -> juventus"
   ],
   "titles": [
-    "bayern munich news: kim min jae rejects aston villa, nottingham forest; fc bayer",
     "\ud83d\udea8 \ud83c\uddf7\ud83c\uddf8 albert riera has just signed his contract as new red star belgrade head coa",
     "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f excl: atletico mineiro agree deal to sign fred from fenerbahce, here we ",
     "\ud83d\udea8 \u26ab\ufe0f \ud83d\udd35 djed spence will undergo medical at inter tomorrow after deal agreed yest",
@@ -2202,7 +2201,8 @@
     "leeds and borussia monchengladbach finalise \u20ac10m nico elvedi transfer, yet one o",
     "conditions met for liverpool to sell player in his prime as romano declares \u2018her",
     "suzuki abandoned by psg, furious at agent demands, fresh juventus chance",
-    "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 barcelona are prepared to fly joao cancelo to the city early next week if "
+    "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 barcelona are prepared to fly joao cancelo to the city early next week if ",
+    "aston villa open talks for zion suzuki as psg transfer collapses"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2487,13 +2487,13 @@
     "luis suarez": "https://r2.thesportsdb.com/images/media/player/cutout/vfjd0w1750315193.png/small",
     "hector fort": "https://r2.thesportsdb.com/images/media/player/cutout/x1ag1j1762371932.png/small",
     "emiliano martinez": "https://r2.thesportsdb.com/images/media/player/cutout/ffr5xx1756984715.png/small",
-    "heaven kilwa": "",
     "said el mala": "",
     "hermann malonga": "",
     "lacine megnan pave": "",
-    "dastan satpayev": ""
+    "dastan satpayev": "",
+    "heaven kilwa": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

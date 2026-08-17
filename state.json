@@ -1,10 +1,5 @@
 {
   "sent": [
-    "a259e0e933c3d941354920bf8566f29a",
-    "f67064a6d9ab50d0df575cf8d8da6844",
-    "27dcf70676c1e79e7589f8483a3c4369",
-    "9bff1f18712aa8b872a52523dec4d747",
-    "tg:FabrizioRomanoTG/64020",
     "2d57eaccb9ef101434eef5016fd682f6",
     "613da97010ab3c87ffe134b0131e3a65",
     "6f97dd118f8ab96f8f67478c3b0c0372",
@@ -1499,7 +1494,12 @@
     "39116f3d7edf986c9a1a0b0924cb46bb",
     "e9fc4a0c3b50cfaebcf46d72f53053d9",
     "c6ba6340b317e08a643b6e4218db9ca2",
-    "377a116a713313029476f5d8d4742d4a"
+    "377a116a713313029476f5d8d4742d4a",
+    "56a8317ca56399761c475de05e95dbdd",
+    "98ac1c107123211813b3f97b2127b086",
+    "1ff0b3ce2e048ae00a584f7fc51389fd",
+    "2f768bb4304af034c6a74960fda780c9",
+    "02b456c89bec32739a69998f9b4f464e"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1906,12 +1906,10 @@
     "interest: quansah -> arsenal",
     "interest: quansah -> manchester united",
     "interest: fort -> borussia dortmund",
-    "interest: martinez -> juventus"
+    "interest: martinez -> juventus",
+    "interest: kostov -> milan"
   ],
   "titles": [
-    "transfer updates: martinelli, zubimendi, dedi, barcola, jones, others",
-    "nkunku back on roma radar at \u20ac30m, milan put ex chelsea striker for sale",
-    "paving the way for bouadi: city agree to their player's move to al qadsiah",
     "what next for barcelona and manchester city for rodri?",
     "chelsea braced for enzo fernandez bid as man city 'near agreement' for \u00a360m tran",
     "spence set for inter medical after tottenham deal agreed",
@@ -2208,7 +2206,10 @@
     "football coventry city agree deals for strikers taiwo awoniyi and sidiki cherif",
     "football coventry city agree deals to sign strikers taiwo awoniyi and sidiki che",
     "jose mourinho doubts real madrid star as man utd can capitalise",
-    "lille manager davide ancelotti admits ayyoub bouaddi could join man city amid on"
+    "lille manager davide ancelotti admits ayyoub bouaddi could join man city amid on",
+    "man utd not open to allowing juventus target to leave on a simple loan",
+    "done deal: aston villa strike agreement with parma for japan international suzuk",
+    "report \u2013 milan weigh summer bid for red star prodigy"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2495,15 +2496,16 @@
     "emiliano martinez": "https://r2.thesportsdb.com/images/media/player/cutout/ffr5xx1756984715.png/small",
     "joey veerman": "https://r2.thesportsdb.com/images/media/player/cutout/gktpip1764609026.png/small",
     "amar dedic": "https://r2.thesportsdb.com/images/media/player/cutout/w3npc31781347204.png/small",
-    "hermann malonga": "",
     "lacine megnan pave": "",
     "tommy marques": "",
     "suzuki": "",
     "dastan satpayev": "",
     "heaven kilwa": "",
-    "said el mala": ""
+    "said el mala": "",
+    "vasilije kostov": "https://images.fotmob.com/image_resources/playerimages/1647023.png",
+    "hermann malonga": ""
   },
-  "photo_repair_idx": 5,
+  "photo_repair_idx": 6,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",
@@ -2655,6 +2657,7 @@
     "cologne": "",
     "al qadsiah": "https://r2.thesportsdb.com/images/media/team/badge/ok63wb1719134839.png/small",
     "inter miami": "https://r2.thesportsdb.com/images/media/team/badge/m4it3e1602103647.png/small",
-    "sl benfica": "https://r2.thesportsdb.com/images/media/team/badge/hj4kyc1781152436.png/small"
+    "sl benfica": "https://r2.thesportsdb.com/images/media/team/badge/hj4kyc1781152436.png/small",
+    "fk crvena zvezda": "https://r2.thesportsdb.com/images/media/team/badge/osgmbz1781157114.png/small"
   }
 }

@@ -1,7 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/64051",
-    "tg:FabrizioRomanoTG/64052",
     "tg:FabrizioRomanoTG/64053",
     "9c75e61e15f7d140f245f31dc4174aa0",
     "f921aac477431573b8830c21e0e89236",
@@ -1499,7 +1497,9 @@
     "tg:FabrizioRomanoTG/64772",
     "tg:FabrizioRomanoTG/64775",
     "7049b2f7ac4e84613142cb6fa5d7e25f",
-    "tg:FabrizioRomanoTG/64777"
+    "tg:FabrizioRomanoTG/64777",
+    "014bbd78d427ebc5149f2927b6a558ab",
+    "tg:FabrizioRomanoTG/64779"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1915,8 +1915,6 @@
     "interest: kostov -> milan"
   ],
   "titles": [
-    "blow for manchester city and chelsea as father of transfer target breaks silence",
-    "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 breaking: paris saint germain reach verbal agreement with ajax for mika go",
     "arsenal open osimhen talks as gala reject al hilal offer",
     "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f exclusive: como have made initial approach for liam delap as new striker ",
     "man city help lens find abdukodir khusanov replacement, with",
@@ -2214,7 +2212,9 @@
     "\ud83d\udd34 \u26aa\ufe0f dayann methalie has completed his medical at sunderland today ahead of \u20ac28m",
     "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f costantino favasuli and benoit badiashile will both undergo medical this ",
     "juventus transfer news: guglielmo vicario emerges as new goalkeeper target after",
-    "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 breaking: sergio busquets makes first step in his new career as manager as"
+    "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 breaking: sergio busquets makes first step in his new career as manager as",
+    "romano drops \u201chere we go\u201d on premier league loan deal which sees former top tale",
+    "\ud83d\udd35 \ud83d\udd34 joao cancelo: \u201cwe have a top team this season! i am finally where i wanted t"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2503,7 +2503,6 @@
     "amar dedic": "https://r2.thesportsdb.com/images/media/player/cutout/w3npc31781347204.png/small",
     "vasilije kostov": "https://images.fotmob.com/image_resources/playerimages/1647023.png",
     "david odogu": "https://r2.thesportsdb.com/images/media/player/cutout/ld3b8q1758893781.png/small",
-    "lacine megnan pave": "",
     "tommy marques": "",
     "suzuki": "",
     "dastan satpayev": "",
@@ -2511,9 +2510,10 @@
     "heaven kilwa": "",
     "costantino favasuli": "https://images.fotmob.com/image_resources/playerimages/1403328.png",
     "said el mala": "",
-    "hermann malonga": ""
+    "hermann malonga": "",
+    "lacine megnan pave": ""
   },
-  "photo_repair_idx": 6,
+  "photo_repair_idx": 7,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

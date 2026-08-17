@@ -1,8 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/64022",
-    "6a58a6479c0cd84eeebf7d22a2153279",
-    "tg:FabrizioRomanoTG/64024",
     "0b99ac5e5403c9cd5039dd17a4d42f61",
     "tg:FabrizioRomanoTG/64027",
     "a93f0ac2423f73d6b7cac7113cc4f8bf",
@@ -1499,7 +1496,10 @@
     "tg:FabrizioRomanoTG/64758",
     "74bb4ef435b91de7c70ad73fa8ef95aa",
     "4672c51bcb3117d573481e7c4f3edff2",
-    "tg:FabrizioRomanoTG/64759"
+    "tg:FabrizioRomanoTG/64759",
+    "33c28482e24ecfd06a3ff0e1d71dcaae",
+    "fce23f64d7297c0a23a2a23836aca114",
+    "15c56f668376fbfb8125eed3eb406540"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1910,8 +1910,6 @@
     "interest: kostov -> milan"
   ],
   "titles": [
-    "here we go: barcelona reach agreement with psg for \u20ac50 million transfer of ferra",
-    "bradley barcola wants liverpool transfer as personal terms close",
     "\ud83d\udea8 barca seal ferran sale to psg, say sport and fabrizio romano",
     "unexpected or planned? rodri stuns barcelona with a radical turnaround in favor ",
     "barcelona seal \u20ac50m deal with psg for ferran torres",
@@ -2209,7 +2207,9 @@
     "\ud83d\udea8 \ud83c\uddf8\ud83c\udde6 al hilal have scheduled new direct talks with chelsea to discuss pedro neto",
     "liverpool vs como: curtis jones transfer latest as fabrizio romano provides upda",
     "joao cancelo to join barcelona on free transfer after terminating contract with ",
-    "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 marc casado, next one to leave barcelona after tommy marques who\u2019s joining"
+    "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 marc casado, next one to leave barcelona after tommy marques who\u2019s joining",
+    "reports: juventus make new offer for emi martinez as zion suzuki secures aston v",
+    "liverpool prepare fresh bradley barcola bid as paris saint germain activity clea"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2497,15 +2497,15 @@
     "joey veerman": "https://r2.thesportsdb.com/images/media/player/cutout/gktpip1764609026.png/small",
     "amar dedic": "https://r2.thesportsdb.com/images/media/player/cutout/w3npc31781347204.png/small",
     "vasilije kostov": "https://images.fotmob.com/image_resources/playerimages/1647023.png",
-    "hermann malonga": "",
     "lacine megnan pave": "",
     "tommy marques": "",
     "suzuki": "",
     "dastan satpayev": "",
     "heaven kilwa": "",
-    "said el mala": ""
+    "said el mala": "",
+    "hermann malonga": ""
   },
-  "photo_repair_idx": 5,
+  "photo_repair_idx": 6,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

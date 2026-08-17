@@ -1,6 +1,5 @@
 {
   "sent": [
-    "00fb602eb5e658cb320714147ff1b50b",
     "45f0a0958af1e064d9b27a5ac819463d",
     "1708e6b66f1f0267961d23f551aa87ff",
     "tg:FabrizioRomanoTG/64050",
@@ -1499,7 +1498,8 @@
     "tg:FabrizioRomanoTG/64766",
     "e34b6b7333789b805f383023b30d58fd",
     "e761832d923272bc9371d1e4b4757bfc",
-    "tg:FabrizioRomanoTG/64767"
+    "tg:FabrizioRomanoTG/64767",
+    "dfd8b5f9fbb83084916898903c108240"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1913,7 +1913,6 @@
     "interest: kostov -> milan"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83c\uddf8\ud83c\udde6 exclusive story on reijnders to al qadsiah, confirmed by enzo maresca \u201cwhen",
     "brazilian sources spinning it that spurs have gone all in with a reported \u00a385m b",
     "a young midfield gem has committed his future to manchester city",
     "psg nears \u20ac58m deal and final talks expected friday",
@@ -2212,7 +2211,8 @@
     "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f guglielmo vicario will be in turin today for medical and signatures at j",
     "reports: juventus abruptly end pursuit of emi martinez as talks for guglielmo vi",
     "rodri transfer done as top insiders reveal exactly how much man city will get fr",
-    "\ud83d\udd35 \ud83d\udd34 \u2708\ufe0f joao cancelo, on his way to barcelona today and rodri will be next, both "
+    "\ud83d\udd35 \ud83d\udd34 \u2708\ufe0f joao cancelo, on his way to barcelona today and rodri will be next, both ",
+    "rodri transfer fee revealed as spain star set to sign on at barcelona until 2030"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2500,16 +2500,16 @@
     "joey veerman": "https://r2.thesportsdb.com/images/media/player/cutout/gktpip1764609026.png/small",
     "amar dedic": "https://r2.thesportsdb.com/images/media/player/cutout/w3npc31781347204.png/small",
     "vasilije kostov": "https://images.fotmob.com/image_resources/playerimages/1647023.png",
-    "dastan satpayev": "",
     "heaven kilwa": "",
     "said el mala": "",
     "hermann malonga": "",
     "david odogu": "https://r2.thesportsdb.com/images/media/player/cutout/ld3b8q1758893781.png/small",
     "lacine megnan pave": "",
     "tommy marques": "",
-    "suzuki": ""
+    "suzuki": "",
+    "dastan satpayev": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

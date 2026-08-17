@@ -1,6 +1,5 @@
 {
   "sent": [
-    "bbc62e18f8a67f76926ad010138441a7",
     "6605a61bb85229f4c822937f040744eb",
     "6cab4c70a7b3c4da152c2e58cd8ad12e",
     "7bd07983d2c83b526957888dc7acdfea",
@@ -1499,7 +1498,8 @@
     "1f2e607ff14d5affd34d394dba609b2c",
     "6064766ac9456f2accd0822d885654a6",
     "993a015608cd7bbc4441829ae5ffe786",
-    "e2b7348858a82f799a1e17273b4cc02c"
+    "e2b7348858a82f799a1e17273b4cc02c",
+    "cad54035acf44954a019a08f93c3d9b7"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1918,7 +1918,6 @@
     "interest: moreira -> milan"
   ],
   "titles": [
-    "man city offer chelsea \u00a3102 5m for enzo fernandez and push to finalise signing \u2013",
     "\ud83d\udea8 liverpool still consider the possibility of bringing in two wingers in next tw",
     "\ud83d\udea8 \u2764\ufe0f \ud83e\udd0d cristian romero has signed his five year contract as new atletico madrid ",
     "barcelona refuse to back down as manchester city rejects two rodri offers",
@@ -2217,7 +2216,8 @@
     "romano confirms \u2018direct talks\u2019 for chelsea player as club sends financial packag",
     "transfer news: barca land rodri, barcola wants liverpool, city keen on fernandez",
     "juventus agree deal to sign spurs goalkeeper vicario on loan",
-    "fabrizio romano confirms talks are underway over potential exit of liverpool mid"
+    "fabrizio romano confirms talks are underway over potential exit of liverpool mid",
+    "emiliano martinez alternative found! juventus agree deal to sign guglielmo vicar"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2511,14 +2511,14 @@
     "lacine megnan pave": "",
     "diego moreira": "https://r2.thesportsdb.com/images/media/player/cutout/eyaz0q1766053833.png/small",
     "aron yaakobishvili": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/%C3%81ron_Yaakobishvili_2025.jpg/330px-%C3%81ron_Yaakobishvili_2025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "dastan satpayev": "",
     "heaven kilwa": "",
     "said el mala": "",
     "hermann malonga": "",
     "tommy marques": "",
-    "suzuki": ""
+    "suzuki": "",
+    "dastan satpayev": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

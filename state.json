@@ -1,7 +1,5 @@
 {
   "sent": [
-    "8e42050be13052929768206e6d881ba8",
-    "tg:FabrizioRomanoTG/64021",
     "0deefa86c8146829f37cd4d1e6430346",
     "tg:FabrizioRomanoTG/64022",
     "6a58a6479c0cd84eeebf7d22a2153279",
@@ -1499,7 +1497,9 @@
     "04e25df5e479e45fbb8a1c8a39090f53",
     "d87d1ece6e666550b22cc53826d4b91a",
     "tg:FabrizioRomanoTG/64757",
-    "tg:FabrizioRomanoTG/64758"
+    "tg:FabrizioRomanoTG/64758",
+    "74bb4ef435b91de7c70ad73fa8ef95aa",
+    "4672c51bcb3117d573481e7c4f3edff2"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1910,8 +1910,6 @@
     "interest: kostov -> milan"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 crystal palace complete all formal steps for anan khalaili deal with union",
-    "done deal: badiashile ready for napoli on loan with \u20ac27m option to buy from chel",
     "the deal is done: argentina star undergoes medical in madrid",
     "here we go: barcelona reach agreement with psg for \u20ac50 million transfer of ferra",
     "bradley barcola wants liverpool transfer as personal terms close",
@@ -2209,7 +2207,9 @@
     "the deal is finally done: rodri joins barcelona",
     "the deal is finally done: rodri moves to barcelona",
     "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f getafe have opened talks to sign stefan bajcetic from liverpool formula b",
-    "\ud83d\udea8 \ud83c\uddf8\ud83c\udde6 al hilal have scheduled new direct talks with chelsea to discuss pedro neto"
+    "\ud83d\udea8 \ud83c\uddf8\ud83c\udde6 al hilal have scheduled new direct talks with chelsea to discuss pedro neto",
+    "liverpool vs como: curtis jones transfer latest as fabrizio romano provides upda",
+    "joao cancelo to join barcelona on free transfer after terminating contract with "
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2496,16 +2496,16 @@
     "emiliano martinez": "https://r2.thesportsdb.com/images/media/player/cutout/ffr5xx1756984715.png/small",
     "joey veerman": "https://r2.thesportsdb.com/images/media/player/cutout/gktpip1764609026.png/small",
     "amar dedic": "https://r2.thesportsdb.com/images/media/player/cutout/w3npc31781347204.png/small",
-    "heaven kilwa": "",
     "said el mala": "",
     "vasilije kostov": "https://images.fotmob.com/image_resources/playerimages/1647023.png",
     "hermann malonga": "",
     "lacine megnan pave": "",
     "tommy marques": "",
     "suzuki": "",
-    "dastan satpayev": ""
+    "dastan satpayev": "",
+    "heaven kilwa": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

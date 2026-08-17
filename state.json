@@ -1,8 +1,5 @@
 {
   "sent": [
-    "cd031bf453cc42899e8a83920f9457b6",
-    "2da6ae2ce4d216f9b8f181a04041609f",
-    "86192291e9277f15c63f4285b32fc536",
     "bbc62e18f8a67f76926ad010138441a7",
     "6605a61bb85229f4c822937f040744eb",
     "6cab4c70a7b3c4da152c2e58cd8ad12e",
@@ -1499,7 +1496,10 @@
     "d2f62a3f9b1b2f2d40b0970667360550",
     "bd5fc36bf543c459e2ad9a90d866fa1b",
     "45a1016a26887178005801742187b1bf",
-    "1f2e607ff14d5affd34d394dba609b2c"
+    "1f2e607ff14d5affd34d394dba609b2c",
+    "6064766ac9456f2accd0822d885654a6",
+    "993a015608cd7bbc4441829ae5ffe786",
+    "e2b7348858a82f799a1e17273b4cc02c"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1918,8 +1918,6 @@
     "interest: moreira -> milan"
   ],
   "titles": [
-    "celtic linked to olympics ace, rangers medical booked, dundee retain defender in",
-    "\u201ccrucial hours ahead\u201d as city in contact over signing \u00a3120m chelsea star before ",
     "man city offer chelsea \u00a3102 5m for enzo fernandez and push to finalise signing \u2013",
     "\ud83d\udea8 liverpool still consider the possibility of bringing in two wingers in next tw",
     "\ud83d\udea8 \u2764\ufe0f \ud83e\udd0d cristian romero has signed his five year contract as new atletico madrid ",
@@ -2217,7 +2215,9 @@
     "newcastle united engage in direct talks to sign experience bayern munich midfiel",
     "transfer rumors, news: barcelona eye arsenal striker viktor gyokeres",
     "romano confirms \u2018direct talks\u2019 for chelsea player as club sends financial packag",
-    "transfer news: barca land rodri, barcola wants liverpool, city keen on fernandez"
+    "transfer news: barca land rodri, barcola wants liverpool, city keen on fernandez",
+    "juventus agree deal to sign spurs goalkeeper vicario on loan",
+    "fabrizio romano confirms talks are underway over potential exit of liverpool mid"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2511,14 +2511,14 @@
     "lacine megnan pave": "",
     "diego moreira": "https://r2.thesportsdb.com/images/media/player/cutout/eyaz0q1766053833.png/small",
     "aron yaakobishvili": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/%C3%81ron_Yaakobishvili_2025.jpg/330px-%C3%81ron_Yaakobishvili_2025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "suzuki": "",
     "dastan satpayev": "",
     "heaven kilwa": "",
     "said el mala": "",
     "hermann malonga": "",
-    "tommy marques": ""
+    "tommy marques": "",
+    "suzuki": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

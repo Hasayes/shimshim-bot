@@ -1,6 +1,5 @@
 {
   "sent": [
-    "a99a36455035231c2a7cb781a4a0c49e",
     "b0677a0dcbe6dcac5d85f93b55b5030e",
     "93c333e9e7d0b58d2a6c3959a387419f",
     "f9c28e0608eb54553623cc2f61adc035",
@@ -1499,7 +1498,8 @@
     "77873234f2152bec5bdfeeddd061da54",
     "f29b3083bb0620e42dbd06c5b97ce49b",
     "f4b0d8c52242a25952f0c41ba8b496fb",
-    "c51c8ba634e4fd08911618593ca5488c"
+    "c51c8ba634e4fd08911618593ca5488c",
+    "e4fb3eb804dbd33e7abec28e8967b2fc"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2511,14 +2511,14 @@
     "lacine megnan pave": "",
     "diego moreira": "https://r2.thesportsdb.com/images/media/player/cutout/eyaz0q1766053833.png/small",
     "aron yaakobishvili": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/%C3%81ron_Yaakobishvili_2025.jpg/330px-%C3%81ron_Yaakobishvili_2025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "hermann malonga": "",
     "tommy marques": "",
     "suzuki": "",
     "dastan satpayev": "",
     "heaven kilwa": "",
-    "said el mala": ""
+    "said el mala": "",
+    "hermann malonga": ""
   },
-  "photo_repair_idx": 5,
+  "photo_repair_idx": 6,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

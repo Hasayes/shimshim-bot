@@ -1,7 +1,5 @@
 {
   "sent": [
-    "38872e5b130316e40767e1ca634c0a35",
-    "72ca073081c5ce2cd3b275eae62265fa",
     "e7e52c3202fa0ff3e4e66c1a69988ce0",
     "32f10fe58e17a82fe435079f19c85feb",
     "0afd4eed02506c6c241867cf48d7c06f",
@@ -1499,7 +1497,9 @@
     "tg:FabrizioRomanoTG/64794",
     "tg:FabrizioRomanoTG/64795",
     "tg:FabrizioRomanoTG/64797",
-    "tg:FabrizioRomanoTG/64802"
+    "tg:FabrizioRomanoTG/64802",
+    "8f7c016f36be5ed6a733007891af1c46",
+    "757c215a3e0742befc303281c7cb8b76"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1918,8 +1918,6 @@
     "interest: moreira -> milan"
   ],
   "titles": [
-    "liverpool latest: bradley barcola boost as decision made after ibrahim mbaye tal",
-    "this exorbitant amount is what netherlands international tijjani reijnders will ",
     "transfer news live: arsenal done deal, osimhen twist; fernandez deadline; chelse",
     "\ud83d\udea8 \ud83c\uddf0\ud83c\uddff dastan satpayev to burnley on loan, here we go! loan deal agreed for the ta",
     "the compromise rangers have reached with aek as james penrice medical set",
@@ -2217,7 +2215,9 @@
     "rt @fabrizioromano : \ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f napoli agree deal to sign benoit badiashile from che",
     "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f benoit badiashile\u2019s medical at napoli, booked this week as all documents ",
     "\ud83d\udd34 \u26ab\ufe0f \u2708\ufe0f ac milan have booked diego moreira\u2019s flight for medical tests and contra",
-    "\ud83d\udcfa new youtube video uploaded! \ud83c\udfac \ud83d\udea8 \ud83d\udca3 market on fire! bruno gala, barcola bid, ped"
+    "\ud83d\udcfa new youtube video uploaded! \ud83c\udfac \ud83d\udea8 \ud83d\udca3 market on fire! bruno gala, barcola bid, ped",
+    "here we go: barcelona reach agreement with braga for \u20ac12 million transfer of 19 ",
+    "trio for sale: romano confirms three high profile chelsea exits are still possib"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2510,15 +2510,15 @@
     "costantino favasuli": "https://images.fotmob.com/image_resources/playerimages/1403328.png",
     "lacine megnan pave": "",
     "diego moreira": "https://r2.thesportsdb.com/images/media/player/cutout/eyaz0q1766053833.png/small",
-    "dastan satpayev": "",
     "aron yaakobishvili": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/%C3%81ron_Yaakobishvili_2025.jpg/330px-%C3%81ron_Yaakobishvili_2025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "heaven kilwa": "",
     "said el mala": "",
     "hermann malonga": "",
     "tommy marques": "",
-    "suzuki": ""
+    "suzuki": "",
+    "dastan satpayev": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

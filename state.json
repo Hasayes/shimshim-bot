@@ -1,6 +1,5 @@
 {
   "sent": [
-    "2d57eaccb9ef101434eef5016fd682f6",
     "613da97010ab3c87ffe134b0131e3a65",
     "6f97dd118f8ab96f8f67478c3b0c0372",
     "85b841b0416f4390b4ccf1c03cb32217",
@@ -1499,7 +1498,8 @@
     "98ac1c107123211813b3f97b2127b086",
     "1ff0b3ce2e048ae00a584f7fc51389fd",
     "2f768bb4304af034c6a74960fda780c9",
-    "02b456c89bec32739a69998f9b4f464e"
+    "02b456c89bec32739a69998f9b4f464e",
+    "9d48f75d67bb919a4a0f3f7762c16d07"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1910,7 +1910,6 @@
     "interest: kostov -> milan"
   ],
   "titles": [
-    "what next for barcelona and manchester city for rodri?",
     "chelsea braced for enzo fernandez bid as man city 'near agreement' for \u00a360m tran",
     "spence set for inter medical after tottenham deal agreed",
     "coventry city get green light after fikayo tomori transfer meeting as southampto",
@@ -2209,7 +2208,8 @@
     "lille manager davide ancelotti admits ayyoub bouaddi could join man city amid on",
     "man utd not open to allowing juventus target to leave on a simple loan",
     "done deal: aston villa strike agreement with parma for japan international suzuk",
-    "report \u2013 milan weigh summer bid for red star prodigy"
+    "report \u2013 milan weigh summer bid for red star prodigy",
+    "sunday morning double whammy: bvb set to sign joey veerman and giannis konstante"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2496,16 +2496,16 @@
     "emiliano martinez": "https://r2.thesportsdb.com/images/media/player/cutout/ffr5xx1756984715.png/small",
     "joey veerman": "https://r2.thesportsdb.com/images/media/player/cutout/gktpip1764609026.png/small",
     "amar dedic": "https://r2.thesportsdb.com/images/media/player/cutout/w3npc31781347204.png/small",
-    "lacine megnan pave": "",
     "tommy marques": "",
     "suzuki": "",
     "dastan satpayev": "",
     "heaven kilwa": "",
     "said el mala": "",
     "vasilije kostov": "https://images.fotmob.com/image_resources/playerimages/1647023.png",
-    "hermann malonga": ""
+    "hermann malonga": "",
+    "lacine megnan pave": ""
   },
-  "photo_repair_idx": 6,
+  "photo_repair_idx": 7,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

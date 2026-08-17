@@ -1,7 +1,5 @@
 {
   "sent": [
-    "0b99ac5e5403c9cd5039dd17a4d42f61",
-    "tg:FabrizioRomanoTG/64027",
     "a93f0ac2423f73d6b7cac7113cc4f8bf",
     "tg:FabrizioRomanoTG/64032",
     "tg:FabrizioRomanoTG/64034",
@@ -1499,7 +1497,9 @@
     "tg:FabrizioRomanoTG/64759",
     "33c28482e24ecfd06a3ff0e1d71dcaae",
     "fce23f64d7297c0a23a2a23836aca114",
-    "15c56f668376fbfb8125eed3eb406540"
+    "15c56f668376fbfb8125eed3eb406540",
+    "164dd0817ce928d557e7f8a3350463e3",
+    "tg:FabrizioRomanoTG/64760"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1720,7 +1720,8 @@
     "veerman -> borussia dortmund": 1,
     "rodri -> barcelona": 2,
     "dedic -> newcastle": 1,
-    "marques -> sc braga": 1
+    "marques -> sc braga": 1,
+    "konstantelias -> borussia dortmund": 1
   },
   "interest": [
     "interest: alvarez -> arsenal",
@@ -1910,8 +1911,6 @@
     "interest: kostov -> milan"
   ],
   "titles": [
-    "\ud83d\udea8 barca seal ferran sale to psg, say sport and fabrizio romano",
-    "unexpected or planned? rodri stuns barcelona with a radical turnaround in favor ",
     "barcelona seal \u20ac50m deal with psg for ferran torres",
     "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 barcelona are returning with third proposal for rodri to manchester city a",
     "liverpool transfer news: this is massive! fabrizio romano confirms brand new dea",
@@ -2209,7 +2208,9 @@
     "joao cancelo to join barcelona on free transfer after terminating contract with ",
     "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 marc casado, next one to leave barcelona after tommy marques who\u2019s joining",
     "reports: juventus make new offer for emi martinez as zion suzuki secures aston v",
-    "liverpool prepare fresh bradley barcola bid as paris saint germain activity clea"
+    "liverpool prepare fresh bradley barcola bid as paris saint germain activity clea",
+    "emiliano martinez could leave aston villa for juventus, reportedly opening door ",
+    "\ud83d\udea8 \ud83d\udfe1 \u26ab\ufe0f borussia dortmund have agreed deal to sign giannis konstantelias, here we"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2497,15 +2498,15 @@
     "joey veerman": "https://r2.thesportsdb.com/images/media/player/cutout/gktpip1764609026.png/small",
     "amar dedic": "https://r2.thesportsdb.com/images/media/player/cutout/w3npc31781347204.png/small",
     "vasilije kostov": "https://images.fotmob.com/image_resources/playerimages/1647023.png",
-    "lacine megnan pave": "",
     "tommy marques": "",
     "suzuki": "",
     "dastan satpayev": "",
     "heaven kilwa": "",
     "said el mala": "",
-    "hermann malonga": ""
+    "hermann malonga": "",
+    "lacine megnan pave": ""
   },
-  "photo_repair_idx": 6,
+  "photo_repair_idx": 7,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",
@@ -2658,6 +2659,7 @@
     "al qadsiah": "https://r2.thesportsdb.com/images/media/team/badge/ok63wb1719134839.png/small",
     "inter miami": "https://r2.thesportsdb.com/images/media/team/badge/m4it3e1602103647.png/small",
     "sl benfica": "https://r2.thesportsdb.com/images/media/team/badge/hj4kyc1781152436.png/small",
-    "fk crvena zvezda": "https://r2.thesportsdb.com/images/media/team/badge/osgmbz1781157114.png/small"
+    "fk crvena zvezda": "https://r2.thesportsdb.com/images/media/team/badge/osgmbz1781157114.png/small",
+    "paok": "https://r2.thesportsdb.com/images/media/team/badge/m15zsh1602774126.png/small"
   }
 }

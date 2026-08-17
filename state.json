@@ -1,9 +1,5 @@
 {
   "sent": [
-    "d3aeb38ae220c9de8c7b800e7c3482a9",
-    "3119eb7e343f97be22c8cecd1dcdbd1a",
-    "f07d3c229fbe43b08822fb75733e9f5a",
-    "8e5e12cc941499dafab51b134614f7fd",
     "d7d21e8251865fc44a7310f20acc821a",
     "38872e5b130316e40767e1ca634c0a35",
     "72ca073081c5ce2cd3b275eae62265fa",
@@ -1499,7 +1495,11 @@
     "tg:FabrizioRomanoTG/64790",
     "8f4bdfd10c3a2a1e44f07d85fccc3a0b",
     "cca71c7a59de79a247e18666bbd09f9b",
-    "tg:FabrizioRomanoTG/64792"
+    "tg:FabrizioRomanoTG/64792",
+    "tg:FabrizioRomanoTG/64793",
+    "tg:FabrizioRomanoTG/64794",
+    "tg:FabrizioRomanoTG/64795",
+    "tg:FabrizioRomanoTG/64797"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1918,10 +1918,6 @@
     "interest: moreira -> milan"
   ],
   "titles": [
-    "\ud83d\udea8 chelsea consider enzo fernandez no longer available at \u00a3120m as terms were mad",
-    "despite the denials: deal done 5h ago and mika godts, now on his way to paris \u2708\ufe0f",
-    "djed spence arrives in italy for inter medical ahead of \u20ac35m transfer from totte",
-    "\ud83d\udd34 \u26aa\ufe0f \u270d\ud83c\udffc cuti romero has just completed his medical at atletico madrid signature ",
     "rt @fabrizioromano : \ud83d\udd34 \u26aa\ufe0f \u270d\ud83c\udffc cuti romero has just completed his medical at atlet",
     "liverpool latest: bradley barcola boost as decision made after ibrahim mbaye tal",
     "this exorbitant amount is what netherlands international tijjani reijnders will ",
@@ -2217,7 +2213,11 @@
     "\ud83d\udd34 \u26aa\ufe0f \ud83c\udded\ud83c\uddfa aron yaakobishvili has just signed his contract as new ud almeria player",
     "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f como submit official bid for moise kean to fiorentina: \u20ac5m fixed fee, \u20ac25",
     "bayern munich news: kim min jae not likely to consider manchester united interes",
-    "\ud83d\udea8 \ud83c\uddee\ud83c\uddf9 fiorentina are expected to ask higher fee than \u20ac30m package offered by como"
+    "\ud83d\udea8 \ud83c\uddee\ud83c\uddf9 fiorentina are expected to ask higher fee than \u20ac30m package offered by como",
+    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f harry kane on new contract talks with bayern: \u201ci only have one year left ",
+    "rt @fabrizioromano : \ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f napoli agree deal to sign benoit badiashile from che",
+    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f benoit badiashile\u2019s medical at napoli, booked this week as all documents ",
+    "\ud83d\udd34 \u26ab\ufe0f \u2708\ufe0f ac milan have booked diego moreira\u2019s flight for medical tests and contra"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2509,16 +2509,16 @@
     "dayann methalie": "https://r2.thesportsdb.com/images/media/player/cutout/5fbhj51765967100.png/small",
     "costantino favasuli": "https://images.fotmob.com/image_resources/playerimages/1403328.png",
     "lacine megnan pave": "",
-    "tommy marques": "",
     "diego moreira": "https://r2.thesportsdb.com/images/media/player/cutout/eyaz0q1766053833.png/small",
     "suzuki": "",
     "dastan satpayev": "",
     "aron yaakobishvili": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/%C3%81ron_Yaakobishvili_2025.jpg/330px-%C3%81ron_Yaakobishvili_2025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "heaven kilwa": "",
     "said el mala": "",
-    "hermann malonga": ""
+    "hermann malonga": "",
+    "tommy marques": ""
   },
-  "photo_repair_idx": 6,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

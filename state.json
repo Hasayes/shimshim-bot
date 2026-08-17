@@ -1,8 +1,5 @@
 {
   "sent": [
-    "7bd07983d2c83b526957888dc7acdfea",
-    "9674aa1c8548dea08fbeafea5c044f1b",
-    "a5c7ab7a1b27f8234447f9bed8ec87b1",
     "a99a36455035231c2a7cb781a4a0c49e",
     "b0677a0dcbe6dcac5d85f93b55b5030e",
     "93c333e9e7d0b58d2a6c3959a387419f",
@@ -1499,7 +1496,10 @@
     "e2b7348858a82f799a1e17273b4cc02c",
     "cad54035acf44954a019a08f93c3d9b7",
     "e72baaa19421c6b1815767c96385e535",
-    "77873234f2152bec5bdfeeddd061da54"
+    "77873234f2152bec5bdfeeddd061da54",
+    "f29b3083bb0620e42dbd06c5b97ce49b",
+    "f4b0d8c52242a25952f0c41ba8b496fb",
+    "c51c8ba634e4fd08911618593ca5488c"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1918,9 +1918,6 @@
     "interest: moreira -> milan"
   ],
   "titles": [
-    "\ud83d\udea8 \u2764\ufe0f \ud83e\udd0d cristian romero has signed his five year contract as new atletico madrid ",
-    "barcelona refuse to back down as manchester city rejects two rodri offers",
-    "fabrizio romano exclusive: arsenal aware of transfer conditions to sign premier ",
     "tottenham offer \u00a385m for savinho as he skips man city training; jacobs predicts ",
     "la liga: barcelona prepare third bid for rodri",
     "manchester city\u2019s summer transfer puzzle: fernandez deadline, reijnders cash, ro",
@@ -2217,7 +2214,10 @@
     "juventus agree deal to sign spurs goalkeeper vicario on loan",
     "fabrizio romano confirms talks are underway over potential exit of liverpool mid",
     "emiliano martinez alternative found! juventus agree deal to sign guglielmo vicar",
-    "luis enrique promises bradley barcola 'solution' as liverpool eye psg transfer r"
+    "luis enrique promises bradley barcola 'solution' as liverpool eye psg transfer r",
+    "agent in turin to broker deal with juventus for premier league star",
+    "transfer news and rumours today: are aston villa on the verge of signing paris s",
+    "transfer: rodri set for barcelona medicals"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2511,14 +2511,14 @@
     "lacine megnan pave": "",
     "diego moreira": "https://r2.thesportsdb.com/images/media/player/cutout/eyaz0q1766053833.png/small",
     "aron yaakobishvili": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/%C3%81ron_Yaakobishvili_2025.jpg/330px-%C3%81ron_Yaakobishvili_2025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "said el mala": "",
     "hermann malonga": "",
     "tommy marques": "",
     "suzuki": "",
     "dastan satpayev": "",
-    "heaven kilwa": ""
+    "heaven kilwa": "",
+    "said el mala": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 5,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

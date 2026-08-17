@@ -1,6 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/64058",
     "309f8c55eb43779ce874e72cb436ff2a",
     "311f5769b6c79f166e662033997697b7",
     "tg:FabrizioRomanoTG/64060",
@@ -1499,7 +1498,8 @@
     "tg:FabrizioRomanoTG/64807",
     "2029e9874fe13b7a91b230eca542861f",
     "d9ef18307e6f67f92072e1f46a3ce917",
-    "a4d1e8200ca7d454fca73d7ed7479ada"
+    "a4d1e8200ca7d454fca73d7ed7479ada",
+    "69d1142fb88bd63120917091fa7234ff"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1918,7 +1918,6 @@
     "interest: moreira -> milan"
   ],
   "titles": [
-    "liverpool could force chelsea to drop price for \u00a375m star with interest shown",
     "barcelona prepare third bid for rodri after two offers rejected",
     "henrique unconvinced by roma\u2019s financial offer",
     "\ud83d\udd34 \ud83d\udd35 \ud83d\udc4b\ud83c\udffc ferran torres and mika godts are both in paris right now, ready for medic",
@@ -2217,7 +2216,8 @@
     "\ud83d\udea8 \u26ab\ufe0f \ud83d\udd35 inter are preparing a new bid for curtis jones as he remains the top targ",
     "juventus adding vicario after calling off martinez deal",
     "al hilal schedule fresh chelsea talks to agree neto deal",
-    "the rodri effect: midfielders set to be affected by spaniard\u2019s yet to be confirm"
+    "the rodri effect: midfielders set to be affected by spaniard\u2019s yet to be confirm",
+    "juventus agreement with tottenham for vicario as martinez dropped"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2511,14 +2511,14 @@
     "lacine megnan pave": "",
     "diego moreira": "https://r2.thesportsdb.com/images/media/player/cutout/eyaz0q1766053833.png/small",
     "aron yaakobishvili": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/%C3%81ron_Yaakobishvili_2025.jpg/330px-%C3%81ron_Yaakobishvili_2025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "heaven kilwa": "",
     "said el mala": "",
     "hermann malonga": "",
     "tommy marques": "",
     "suzuki": "",
-    "dastan satpayev": ""
+    "dastan satpayev": "",
+    "heaven kilwa": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

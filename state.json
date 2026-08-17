@@ -1,8 +1,5 @@
 {
   "sent": [
-    "e7e52c3202fa0ff3e4e66c1a69988ce0",
-    "32f10fe58e17a82fe435079f19c85feb",
-    "0afd4eed02506c6c241867cf48d7c06f",
     "3be1adee1ad55141cd106dc0f1be6967",
     "06206852e869874b8ea4b66afb84942e",
     "bf60d5233185586e9b2f4e65e384f6de",
@@ -1499,7 +1496,10 @@
     "tg:FabrizioRomanoTG/64797",
     "tg:FabrizioRomanoTG/64802",
     "8f7c016f36be5ed6a733007891af1c46",
-    "757c215a3e0742befc303281c7cb8b76"
+    "757c215a3e0742befc303281c7cb8b76",
+    "7e3af975f001611ba025285c2e1a6eb8",
+    "96210312cb6009eb3f60573eda1e2f99",
+    "tg:FabrizioRomanoTG/64806"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1918,9 +1918,6 @@
     "interest: moreira -> milan"
   ],
   "titles": [
-    "transfer news live: arsenal done deal, osimhen twist; fernandez deadline; chelse",
-    "\ud83d\udea8 \ud83c\uddf0\ud83c\uddff dastan satpayev to burnley on loan, here we go! loan deal agreed for the ta",
-    "the compromise rangers have reached with aek as james penrice medical set",
     "arsenal open osimhen talks as galatasaray reject \u20ac130m al hilal bid",
     "romano reveals liverpool, barcola \u2018verbal agreement\u2019 as reds getting closer to \u00a3",
     "former hearts star has medical 'booked' at rangers after celtic interest as dere",
@@ -2217,7 +2214,10 @@
     "\ud83d\udd34 \u26ab\ufe0f \u2708\ufe0f ac milan have booked diego moreira\u2019s flight for medical tests and contra",
     "\ud83d\udcfa new youtube video uploaded! \ud83c\udfac \ud83d\udea8 \ud83d\udca3 market on fire! bruno gala, barcola bid, ped",
     "here we go: barcelona reach agreement with braga for \u20ac12 million transfer of 19 ",
-    "trio for sale: romano confirms three high profile chelsea exits are still possib"
+    "trio for sale: romano confirms three high profile chelsea exits are still possib",
+    "arsenal youngster set for summer exit amid links to dortmund, rb leipzig and ac ",
+    "tottenham enter transfer talks over deal with buy clause after negotiations fall",
+    "\ud83d\udea8 \ud83c\uddf5\ud83c\uddf9 manchester united offered new deal to bruno fernandes back in may as reveal"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2511,14 +2511,14 @@
     "lacine megnan pave": "",
     "diego moreira": "https://r2.thesportsdb.com/images/media/player/cutout/eyaz0q1766053833.png/small",
     "aron yaakobishvili": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/%C3%81ron_Yaakobishvili_2025.jpg/330px-%C3%81ron_Yaakobishvili_2025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "heaven kilwa": "",
     "said el mala": "",
     "hermann malonga": "",
     "tommy marques": "",
     "suzuki": "",
-    "dastan satpayev": ""
+    "dastan satpayev": "",
+    "heaven kilwa": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

@@ -1,8 +1,5 @@
 {
   "sent": [
-    "f6563fec98cddb508e767e9bd308c88d",
-    "1205648bff14bef4354e3472faf98c90",
-    "tg:FabrizioRomanoTG/64049",
     "00fb602eb5e658cb320714147ff1b50b",
     "45f0a0958af1e064d9b27a5ac819463d",
     "1708e6b66f1f0267961d23f551aa87ff",
@@ -1499,7 +1496,10 @@
     "64c54744c8f6e41bdecee4e9367f892d",
     "tg:FabrizioRomanoTG/64764",
     "tg:FabrizioRomanoTG/64765",
-    "tg:FabrizioRomanoTG/64766"
+    "tg:FabrizioRomanoTG/64766",
+    "e34b6b7333789b805f383023b30d58fd",
+    "e761832d923272bc9371d1e4b4757bfc",
+    "tg:FabrizioRomanoTG/64767"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1913,9 +1913,6 @@
     "interest: kostov -> milan"
   ],
   "titles": [
-    "man united pursue liverpool target after reds crumble as german striker a possib",
-    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f arsenal made contact with jarell quansah\u2019s camp over possible move this w",
-    "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f understand jhon lucumi will fly to turin tomorrow, saturday to complete ",
     "\ud83d\udea8 \ud83c\uddf8\ud83c\udde6 exclusive story on reijnders to al qadsiah, confirmed by enzo maresca \u201cwhen",
     "brazilian sources spinning it that spurs have gone all in with a reported \u00a385m b",
     "a young midfield gem has committed his future to manchester city",
@@ -2212,7 +2209,10 @@
     "juventus officially end martinez pursuit and identify premier league replacement",
     "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f juventus agree deal to sign guglielmo vicario from tottenham, here we go",
     "\ud83d\udea8 \ud83d\udfe3 \u26aa\ufe0f david odogu leaves ac milan and joins toulouse on loan deal with salary c",
-    "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f guglielmo vicario will be in turin today for medical and signatures at j"
+    "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f guglielmo vicario will be in turin today for medical and signatures at j",
+    "reports: juventus abruptly end pursuit of emi martinez as talks for guglielmo vi",
+    "rodri transfer done as top insiders reveal exactly how much man city will get fr",
+    "\ud83d\udd35 \ud83d\udd34 \u2708\ufe0f joao cancelo, on his way to barcelona today and rodri will be next, both "
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2500,16 +2500,16 @@
     "joey veerman": "https://r2.thesportsdb.com/images/media/player/cutout/gktpip1764609026.png/small",
     "amar dedic": "https://r2.thesportsdb.com/images/media/player/cutout/w3npc31781347204.png/small",
     "vasilije kostov": "https://images.fotmob.com/image_resources/playerimages/1647023.png",
-    "suzuki": "",
     "dastan satpayev": "",
     "heaven kilwa": "",
     "said el mala": "",
     "hermann malonga": "",
     "david odogu": "https://r2.thesportsdb.com/images/media/player/cutout/ld3b8q1758893781.png/small",
     "lacine megnan pave": "",
-    "tommy marques": ""
+    "tommy marques": "",
+    "suzuki": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

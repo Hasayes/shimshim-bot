@@ -1,8 +1,5 @@
 {
   "sent": [
-    "3ee08554753a1b7e3800fb1855ca4097",
-    "af690b50fb82f96f8cd20177e396367d",
-    "f090d3794c95c55d3424ecd05e4cbdfb",
     "d3aeb38ae220c9de8c7b800e7c3482a9",
     "3119eb7e343f97be22c8cecd1dcdbd1a",
     "f07d3c229fbe43b08822fb75733e9f5a",
@@ -1499,7 +1496,10 @@
     "tg:FabrizioRomanoTG/64781",
     "tg:FabrizioRomanoTG/64782",
     "tg:FabrizioRomanoTG/64787",
-    "tg:FabrizioRomanoTG/64790"
+    "tg:FabrizioRomanoTG/64790",
+    "8f4bdfd10c3a2a1e44f07d85fccc3a0b",
+    "cca71c7a59de79a247e18666bbd09f9b",
+    "tg:FabrizioRomanoTG/64792"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1918,8 +1918,6 @@
     "interest: moreira -> milan"
   ],
   "titles": [
-    "liverpool news: bradley barcola update issued as psg transfer ruled out after ag",
-    "\ud83d\udea8 \ud83d\udd35 chelsea have not received any official bid for enzo fernandez \u2014 as their own",
     "\ud83d\udea8 chelsea consider enzo fernandez no longer available at \u00a3120m as terms were mad",
     "despite the denials: deal done 5h ago and mika godts, now on his way to paris \u2708\ufe0f",
     "djed spence arrives in italy for inter medical ahead of \u20ac35m transfer from totte",
@@ -2217,7 +2215,9 @@
     "\ud83d\udea8 \ud83d\udd34 \u26ab\ufe0f ac milan are in advanced talks to sign diego moreira from rc strasbourg n",
     "\ud83d\udea8 \ud83d\udd34 \u26ab\ufe0f ac milan agree deal to sign diego moreira from rc strasbourg, here we go!",
     "\ud83d\udd34 \u26aa\ufe0f \ud83c\udded\ud83c\uddfa aron yaakobishvili has just signed his contract as new ud almeria player",
-    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f como submit official bid for moise kean to fiorentina: \u20ac5m fixed fee, \u20ac25"
+    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f como submit official bid for moise kean to fiorentina: \u20ac5m fixed fee, \u20ac25",
+    "bayern munich news: kim min jae not likely to consider manchester united interes",
+    "\ud83d\udea8 \ud83c\uddee\ud83c\uddf9 fiorentina are expected to ask higher fee than \u20ac30m package offered by como"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2508,7 +2508,6 @@
     "david odogu": "https://r2.thesportsdb.com/images/media/player/cutout/ld3b8q1758893781.png/small",
     "dayann methalie": "https://r2.thesportsdb.com/images/media/player/cutout/5fbhj51765967100.png/small",
     "costantino favasuli": "https://images.fotmob.com/image_resources/playerimages/1403328.png",
-    "hermann malonga": "",
     "lacine megnan pave": "",
     "tommy marques": "",
     "diego moreira": "https://r2.thesportsdb.com/images/media/player/cutout/eyaz0q1766053833.png/small",
@@ -2516,9 +2515,10 @@
     "dastan satpayev": "",
     "aron yaakobishvili": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/%C3%81ron_Yaakobishvili_2025.jpg/330px-%C3%81ron_Yaakobishvili_2025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "heaven kilwa": "",
-    "said el mala": ""
+    "said el mala": "",
+    "hermann malonga": ""
   },
-  "photo_repair_idx": 5,
+  "photo_repair_idx": 6,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

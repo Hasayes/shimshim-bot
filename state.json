@@ -1,6 +1,5 @@
 {
   "sent": [
-    "f921aac477431573b8830c21e0e89236",
     "tg:FabrizioRomanoTG/64055",
     "tg:FabrizioRomanoTG/64056",
     "3ee08554753a1b7e3800fb1855ca4097",
@@ -1499,7 +1498,8 @@
     "014bbd78d427ebc5149f2927b6a558ab",
     "tg:FabrizioRomanoTG/64779",
     "tg:FabrizioRomanoTG/64780",
-    "tg:FabrizioRomanoTG/64781"
+    "tg:FabrizioRomanoTG/64781",
+    "tg:FabrizioRomanoTG/64782"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1725,7 +1725,8 @@
     "vicario -> juventus": 1,
     "odogu -> toulouse": 2,
     "methalie -> sunderland": 1,
-    "favasuli -> napoli": 1
+    "favasuli -> napoli": 1,
+    "moreira -> milan": 1
   },
   "interest": [
     "interest: alvarez -> arsenal",
@@ -1916,7 +1917,6 @@
     "interest: moreira -> milan"
   ],
   "titles": [
-    "man city help lens find abdukodir khusanov replacement, with",
     "transfer news live! mudryk set for chelsea medical; new arsenal",
     "report: manchester united agree personal terms with chelsea",
     "liverpool news: bradley barcola update issued as psg transfer ruled out after ag",
@@ -2215,7 +2215,8 @@
     "romano drops \u201chere we go\u201d on premier league loan deal which sees former top tale",
     "\ud83d\udd35 \ud83d\udd34 joao cancelo: \u201cwe have a top team this season! i am finally where i wanted t",
     "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 joao cancelo, back to barcelona: \u201ci am where i want to be!\u201d \ud83c\udfa5 @victor_nahe",
-    "\ud83d\udea8 \ud83d\udd34 \u26ab\ufe0f ac milan are in advanced talks to sign diego moreira from rc strasbourg n"
+    "\ud83d\udea8 \ud83d\udd34 \u26ab\ufe0f ac milan are in advanced talks to sign diego moreira from rc strasbourg n",
+    "\ud83d\udea8 \ud83d\udd34 \u26ab\ufe0f ac milan agree deal to sign diego moreira from rc strasbourg, here we go!"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2504,7 +2505,6 @@
     "amar dedic": "https://r2.thesportsdb.com/images/media/player/cutout/w3npc31781347204.png/small",
     "vasilije kostov": "https://images.fotmob.com/image_resources/playerimages/1647023.png",
     "david odogu": "https://r2.thesportsdb.com/images/media/player/cutout/ld3b8q1758893781.png/small",
-    "dastan satpayev": "",
     "dayann methalie": "https://r2.thesportsdb.com/images/media/player/cutout/5fbhj51765967100.png/small",
     "heaven kilwa": "",
     "costantino favasuli": "https://images.fotmob.com/image_resources/playerimages/1403328.png",
@@ -2513,9 +2513,10 @@
     "lacine megnan pave": "",
     "tommy marques": "",
     "diego moreira": "https://r2.thesportsdb.com/images/media/player/cutout/eyaz0q1766053833.png/small",
-    "suzuki": ""
+    "suzuki": "",
+    "dastan satpayev": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

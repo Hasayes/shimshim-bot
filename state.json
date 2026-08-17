@@ -1,7 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/64045",
-    "tg:FabrizioRomanoTG/64046",
     "6bbbe32fe39ab99c5735d65e99066df4",
     "tg:FabrizioRomanoTG/64048",
     "411937eb75f266301fbb92a96ef4c36f",
@@ -1499,7 +1497,9 @@
     "95aab345dc58f27235563822eae4fa4d",
     "b3ffa9dac847b2273f6ad9bbe11d1027",
     "be192940f8433aed7f62a04d42687b83",
-    "ef24a853c9462dde0a92e5e9ea3082e3"
+    "ef24a853c9462dde0a92e5e9ea3082e3",
+    "ea1545e754a7a1f63c9b30611d67155c",
+    "tg:FabrizioRomanoTG/64763"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1911,7 +1911,6 @@
     "interest: kostov -> milan"
   ],
   "titles": [
-    "what derek mcinnes said on james penrice rangers link after reports of done deal",
     "done deal: lucumi final details for juventus at \u20ac20m including bonus",
     "is everything beginning to line up for manchester city to go big to sign enzo ma",
     "insider reveals bradley barcola desperate to join liverpool as reds attempt to s",
@@ -2210,7 +2209,8 @@
     "is rodri going to barcelona? how man city star's proposed real madrid transfer h",
     "fabrizio romano potvrdio transfer bombu: rodri prelazi u barcelonu",
     "rodri: man city dealt huge transfer blow as 'deal agreed' for star midfielder",
-    "juventus intensify contact with tottenham for guglielmo vicario"
+    "juventus intensify contact with tottenham for guglielmo vicario",
+    "\ud83d\udea8 \ud83d\udfe3 \ud83d\udd35 zion suzuki, undergoing his medical at aston villa this morning deal agree"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2498,15 +2498,15 @@
     "joey veerman": "https://r2.thesportsdb.com/images/media/player/cutout/gktpip1764609026.png/small",
     "amar dedic": "https://r2.thesportsdb.com/images/media/player/cutout/w3npc31781347204.png/small",
     "vasilije kostov": "https://images.fotmob.com/image_resources/playerimages/1647023.png",
-    "heaven kilwa": "",
     "said el mala": "",
     "hermann malonga": "",
     "lacine megnan pave": "",
     "tommy marques": "",
     "suzuki": "",
-    "dastan satpayev": ""
+    "dastan satpayev": "",
+    "heaven kilwa": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

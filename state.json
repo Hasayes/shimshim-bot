@@ -1,6 +1,5 @@
 {
   "sent": [
-    "0deefa86c8146829f37cd4d1e6430346",
     "tg:FabrizioRomanoTG/64022",
     "6a58a6479c0cd84eeebf7d22a2153279",
     "tg:FabrizioRomanoTG/64024",
@@ -1499,7 +1498,8 @@
     "tg:FabrizioRomanoTG/64757",
     "tg:FabrizioRomanoTG/64758",
     "74bb4ef435b91de7c70ad73fa8ef95aa",
-    "4672c51bcb3117d573481e7c4f3edff2"
+    "4672c51bcb3117d573481e7c4f3edff2",
+    "tg:FabrizioRomanoTG/64759"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1910,7 +1910,6 @@
     "interest: kostov -> milan"
   ],
   "titles": [
-    "the deal is done: argentina star undergoes medical in madrid",
     "here we go: barcelona reach agreement with psg for \u20ac50 million transfer of ferra",
     "bradley barcola wants liverpool transfer as personal terms close",
     "\ud83d\udea8 barca seal ferran sale to psg, say sport and fabrizio romano",
@@ -2209,7 +2208,8 @@
     "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f getafe have opened talks to sign stefan bajcetic from liverpool formula b",
     "\ud83d\udea8 \ud83c\uddf8\ud83c\udde6 al hilal have scheduled new direct talks with chelsea to discuss pedro neto",
     "liverpool vs como: curtis jones transfer latest as fabrizio romano provides upda",
-    "joao cancelo to join barcelona on free transfer after terminating contract with "
+    "joao cancelo to join barcelona on free transfer after terminating contract with ",
+    "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 marc casado, next one to leave barcelona after tommy marques who\u2019s joining"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2496,16 +2496,16 @@
     "emiliano martinez": "https://r2.thesportsdb.com/images/media/player/cutout/ffr5xx1756984715.png/small",
     "joey veerman": "https://r2.thesportsdb.com/images/media/player/cutout/gktpip1764609026.png/small",
     "amar dedic": "https://r2.thesportsdb.com/images/media/player/cutout/w3npc31781347204.png/small",
-    "said el mala": "",
     "vasilije kostov": "https://images.fotmob.com/image_resources/playerimages/1647023.png",
     "hermann malonga": "",
     "lacine megnan pave": "",
     "tommy marques": "",
     "suzuki": "",
     "dastan satpayev": "",
-    "heaven kilwa": ""
+    "heaven kilwa": "",
+    "said el mala": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 5,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

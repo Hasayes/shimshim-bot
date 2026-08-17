@@ -1,6 +1,5 @@
 {
   "sent": [
-    "203538a5000bb223544cfd429cd91dd5",
     "f6563fec98cddb508e767e9bd308c88d",
     "1205648bff14bef4354e3472faf98c90",
     "tg:FabrizioRomanoTG/64049",
@@ -1499,7 +1498,8 @@
     "2659f7651a9a6dce5184c14595c0d18c",
     "64c54744c8f6e41bdecee4e9367f892d",
     "tg:FabrizioRomanoTG/64764",
-    "tg:FabrizioRomanoTG/64765"
+    "tg:FabrizioRomanoTG/64765",
+    "tg:FabrizioRomanoTG/64766"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1913,7 +1913,6 @@
     "interest: kostov -> milan"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 exclusive: barcelona consider sporting striker luis suarez among options \u2014",
     "man united pursue liverpool target after reds crumble as german striker a possib",
     "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f arsenal made contact with jarell quansah\u2019s camp over possible move this w",
     "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f understand jhon lucumi will fly to turin tomorrow, saturday to complete ",
@@ -2212,7 +2211,8 @@
     "\u2018player wants the move\u2019 \u2013 fabrizio romano shares intriguing liverpool transfer u",
     "juventus officially end martinez pursuit and identify premier league replacement",
     "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f juventus agree deal to sign guglielmo vicario from tottenham, here we go",
-    "\ud83d\udea8 \ud83d\udfe3 \u26aa\ufe0f david odogu leaves ac milan and joins toulouse on loan deal with salary c"
+    "\ud83d\udea8 \ud83d\udfe3 \u26aa\ufe0f david odogu leaves ac milan and joins toulouse on loan deal with salary c",
+    "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f guglielmo vicario will be in turin today for medical and signatures at j"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2500,16 +2500,16 @@
     "joey veerman": "https://r2.thesportsdb.com/images/media/player/cutout/gktpip1764609026.png/small",
     "amar dedic": "https://r2.thesportsdb.com/images/media/player/cutout/w3npc31781347204.png/small",
     "vasilije kostov": "https://images.fotmob.com/image_resources/playerimages/1647023.png",
-    "tommy marques": "",
     "suzuki": "",
     "dastan satpayev": "",
     "heaven kilwa": "",
     "said el mala": "",
     "hermann malonga": "",
     "david odogu": "https://r2.thesportsdb.com/images/media/player/cutout/ld3b8q1758893781.png/small",
-    "lacine megnan pave": ""
+    "lacine megnan pave": "",
+    "tommy marques": ""
   },
-  "photo_repair_idx": 7,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

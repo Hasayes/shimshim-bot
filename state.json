@@ -1,6 +1,5 @@
 {
   "sent": [
-    "1decebb9e750e676ac09fd0c28a4d0cb",
     "7939e5c3c703e26b53e64eea4e3fb103",
     "e9b1a5bb93296457b518a2569d2f7265",
     "18c1db8508af8dc096419ee25b754a6f",
@@ -1499,7 +1498,8 @@
     "tg:FabrizioRomanoTG/64754",
     "782994007d141c9d2a7945ae6b61a410",
     "14363a4fa6edef12efba7740f379115a",
-    "tg:FabrizioRomanoTG/64755"
+    "tg:FabrizioRomanoTG/64755",
+    "b2d5316237bcba7bbd41b8081dab5d56"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1909,7 +1909,6 @@
     "interest: martinez -> juventus"
   ],
   "titles": [
-    "transfer: kilwa joins man city as arsenal sign liverpool striker",
     "romano issues update after tottenham target savinho misses training today",
     "napoli want gabriel jesus from arsenal, but have two big problems",
     "transfer: amorim puts up tomori, two other ac milan players for sale",
@@ -2208,7 +2207,8 @@
     "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 rodri has authorization to fly to barcelona today, monday ahead of move be",
     "barcelona make decision on luis suarez as potential alternative to julian alvare",
     "\u201cend is near\u201d \u2013 liverpool set to finalise bradley barcola transfer talks imminen",
-    "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f juventus will offer a loan deal with buy option clause not mandatory for"
+    "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f juventus will offer a loan deal with buy option clause not mandatory for",
+    "ethan nwaneri given green light to leave arsenal with ac milan weighing move for"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2495,15 +2495,15 @@
     "emiliano martinez": "https://r2.thesportsdb.com/images/media/player/cutout/ffr5xx1756984715.png/small",
     "joey veerman": "https://r2.thesportsdb.com/images/media/player/cutout/gktpip1764609026.png/small",
     "amar dedic": "https://r2.thesportsdb.com/images/media/player/cutout/w3npc31781347204.png/small",
-    "tommy marques": "",
     "suzuki": "",
     "dastan satpayev": "",
     "heaven kilwa": "",
     "said el mala": "",
     "hermann malonga": "",
-    "lacine megnan pave": ""
+    "lacine megnan pave": "",
+    "tommy marques": ""
   },
-  "photo_repair_idx": 7,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

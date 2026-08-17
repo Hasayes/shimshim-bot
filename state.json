@@ -1,6 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/64055",
     "tg:FabrizioRomanoTG/64056",
     "3ee08554753a1b7e3800fb1855ca4097",
     "af690b50fb82f96f8cd20177e396367d",
@@ -1499,7 +1498,8 @@
     "tg:FabrizioRomanoTG/64779",
     "tg:FabrizioRomanoTG/64780",
     "tg:FabrizioRomanoTG/64781",
-    "tg:FabrizioRomanoTG/64782"
+    "tg:FabrizioRomanoTG/64782",
+    "tg:FabrizioRomanoTG/64787"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1726,7 +1726,8 @@
     "odogu -> toulouse": 2,
     "methalie -> sunderland": 1,
     "favasuli -> napoli": 1,
-    "moreira -> milan": 1
+    "moreira -> milan": 1,
+    "yaakobishvili -> ud almeria": 2
   },
   "interest": [
     "interest: alvarez -> arsenal",
@@ -1917,7 +1918,6 @@
     "interest: moreira -> milan"
   ],
   "titles": [
-    "transfer news live! mudryk set for chelsea medical; new arsenal",
     "report: manchester united agree personal terms with chelsea",
     "liverpool news: bradley barcola update issued as psg transfer ruled out after ag",
     "\ud83d\udea8 \ud83d\udd35 chelsea have not received any official bid for enzo fernandez \u2014 as their own",
@@ -2216,7 +2216,8 @@
     "\ud83d\udd35 \ud83d\udd34 joao cancelo: \u201cwe have a top team this season! i am finally where i wanted t",
     "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 joao cancelo, back to barcelona: \u201ci am where i want to be!\u201d \ud83c\udfa5 @victor_nahe",
     "\ud83d\udea8 \ud83d\udd34 \u26ab\ufe0f ac milan are in advanced talks to sign diego moreira from rc strasbourg n",
-    "\ud83d\udea8 \ud83d\udd34 \u26ab\ufe0f ac milan agree deal to sign diego moreira from rc strasbourg, here we go!"
+    "\ud83d\udea8 \ud83d\udd34 \u26ab\ufe0f ac milan agree deal to sign diego moreira from rc strasbourg, here we go!",
+    "\ud83d\udd34 \u26aa\ufe0f \ud83c\udded\ud83c\uddfa aron yaakobishvili has just signed his contract as new ud almeria player"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2506,7 +2507,6 @@
     "vasilije kostov": "https://images.fotmob.com/image_resources/playerimages/1647023.png",
     "david odogu": "https://r2.thesportsdb.com/images/media/player/cutout/ld3b8q1758893781.png/small",
     "dayann methalie": "https://r2.thesportsdb.com/images/media/player/cutout/5fbhj51765967100.png/small",
-    "heaven kilwa": "",
     "costantino favasuli": "https://images.fotmob.com/image_resources/playerimages/1403328.png",
     "said el mala": "",
     "hermann malonga": "",
@@ -2514,9 +2514,11 @@
     "tommy marques": "",
     "diego moreira": "https://r2.thesportsdb.com/images/media/player/cutout/eyaz0q1766053833.png/small",
     "suzuki": "",
-    "dastan satpayev": ""
+    "dastan satpayev": "",
+    "aron yaakobishvili": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/%C3%81ron_Yaakobishvili_2025.jpg/330px-%C3%81ron_Yaakobishvili_2025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "heaven kilwa": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",
@@ -2671,6 +2673,7 @@
     "sl benfica": "https://r2.thesportsdb.com/images/media/team/badge/hj4kyc1781152436.png/small",
     "fk crvena zvezda": "https://r2.thesportsdb.com/images/media/team/badge/osgmbz1781157114.png/small",
     "paok": "https://r2.thesportsdb.com/images/media/team/badge/m15zsh1602774126.png/small",
-    "catanzaro": "https://r2.thesportsdb.com/images/media/team/badge/byrc5e1691995858.png/small"
+    "catanzaro": "https://r2.thesportsdb.com/images/media/team/badge/byrc5e1691995858.png/small",
+    "ud almeria": "https://r2.thesportsdb.com/images/media/team/badge/yswsww1473503818.png/small"
   }
 }

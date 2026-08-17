@@ -1,6 +1,5 @@
 {
   "sent": [
-    "1708e6b66f1f0267961d23f551aa87ff",
     "tg:FabrizioRomanoTG/64050",
     "0cc2c3062f9af03616aa8f48e4a87b7c",
     "tg:FabrizioRomanoTG/64051",
@@ -1499,7 +1498,8 @@
     "e761832d923272bc9371d1e4b4757bfc",
     "tg:FabrizioRomanoTG/64767",
     "dfd8b5f9fbb83084916898903c108240",
-    "tg:FabrizioRomanoTG/64772"
+    "tg:FabrizioRomanoTG/64772",
+    "tg:FabrizioRomanoTG/64775"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1724,7 +1724,8 @@
     "konstantelias -> borussia dortmund": 1,
     "vicario -> juventus": 1,
     "odogu -> toulouse": 2,
-    "methalie -> sunderland": 1
+    "methalie -> sunderland": 1,
+    "favasuli -> napoli": 1
   },
   "interest": [
     "interest: alvarez -> arsenal",
@@ -1914,7 +1915,6 @@
     "interest: kostov -> milan"
   ],
   "titles": [
-    "a young midfield gem has committed his future to manchester city",
     "psg nears \u20ac58m deal and final talks expected friday",
     "video: spence arrives to begin inter adventure from tottenham",
     "blow for manchester city and chelsea as father of transfer target breaks silence",
@@ -2213,7 +2213,8 @@
     "rodri transfer done as top insiders reveal exactly how much man city will get fr",
     "\ud83d\udd35 \ud83d\udd34 \u2708\ufe0f joao cancelo, on his way to barcelona today and rodri will be next, both ",
     "rodri transfer fee revealed as spain star set to sign on at barcelona until 2030",
-    "\ud83d\udd34 \u26aa\ufe0f dayann methalie has completed his medical at sunderland today ahead of \u20ac28m"
+    "\ud83d\udd34 \u26aa\ufe0f dayann methalie has completed his medical at sunderland today ahead of \u20ac28m",
+    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f costantino favasuli and benoit badiashile will both undergo medical this "
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2501,7 +2502,6 @@
     "joey veerman": "https://r2.thesportsdb.com/images/media/player/cutout/gktpip1764609026.png/small",
     "amar dedic": "https://r2.thesportsdb.com/images/media/player/cutout/w3npc31781347204.png/small",
     "vasilije kostov": "https://images.fotmob.com/image_resources/playerimages/1647023.png",
-    "said el mala": "",
     "hermann malonga": "",
     "david odogu": "https://r2.thesportsdb.com/images/media/player/cutout/ld3b8q1758893781.png/small",
     "lacine megnan pave": "",
@@ -2509,9 +2509,11 @@
     "suzuki": "",
     "dastan satpayev": "",
     "dayann methalie": "https://r2.thesportsdb.com/images/media/player/cutout/5fbhj51765967100.png/small",
-    "heaven kilwa": ""
+    "heaven kilwa": "",
+    "costantino favasuli": "https://images.fotmob.com/image_resources/playerimages/1403328.png",
+    "said el mala": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 5,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",
@@ -2665,6 +2667,7 @@
     "inter miami": "https://r2.thesportsdb.com/images/media/team/badge/m4it3e1602103647.png/small",
     "sl benfica": "https://r2.thesportsdb.com/images/media/team/badge/hj4kyc1781152436.png/small",
     "fk crvena zvezda": "https://r2.thesportsdb.com/images/media/team/badge/osgmbz1781157114.png/small",
-    "paok": "https://r2.thesportsdb.com/images/media/team/badge/m15zsh1602774126.png/small"
+    "paok": "https://r2.thesportsdb.com/images/media/team/badge/m15zsh1602774126.png/small",
+    "catanzaro": "https://r2.thesportsdb.com/images/media/team/badge/byrc5e1691995858.png/small"
   }
 }

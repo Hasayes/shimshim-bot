@@ -1,8 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/64041",
-    "88e141a4316f23176e68b2882536f982",
-    "tg:FabrizioRomanoTG/64042",
     "tg:FabrizioRomanoTG/64045",
     "tg:FabrizioRomanoTG/64046",
     "6bbbe32fe39ab99c5735d65e99066df4",
@@ -1499,7 +1496,10 @@
     "tg:FabrizioRomanoTG/64761",
     "2cd12e711c48b2d374280c3454069d5a",
     "31ef69a6eed3070a437a37bce718e669",
-    "95aab345dc58f27235563822eae4fa4d"
+    "95aab345dc58f27235563822eae4fa4d",
+    "b3ffa9dac847b2273f6ad9bbe11d1027",
+    "be192940f8433aed7f62a04d42687b83",
+    "ef24a853c9462dde0a92e5e9ea3082e3"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1911,9 +1911,6 @@
     "interest: kostov -> milan"
   ],
   "titles": [
-    "an elegant midfielder looks to be on his way out of manchester city",
-    "michael carrick sends man united hierarchy clear message over more signings",
-    "sources: reijnders exits manchester city for \u00a352m saudi move espn com sg",
     "what derek mcinnes said on james penrice rangers link after reports of done deal",
     "done deal: lucumi final details for juventus at \u20ac20m including bonus",
     "is everything beginning to line up for manchester city to go big to sign enzo ma",
@@ -2210,7 +2207,10 @@
     "\ud83d\udea8 \ud83c\uddf8\ud83c\uddf3 ibrahim mbaye can also leave paris saint germain soon with talks taking pla",
     "barcelona agree deal to sign rodri from manchester city",
     "rodri to barcelona transfer confirmed in latest rumors as world cup star leaves ",
-    "is rodri going to barcelona? how man city star's proposed real madrid transfer h"
+    "is rodri going to barcelona? how man city star's proposed real madrid transfer h",
+    "fabrizio romano potvrdio transfer bombu: rodri prelazi u barcelonu",
+    "rodri: man city dealt huge transfer blow as 'deal agreed' for star midfielder",
+    "juventus intensify contact with tottenham for guglielmo vicario"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2498,15 +2498,15 @@
     "joey veerman": "https://r2.thesportsdb.com/images/media/player/cutout/gktpip1764609026.png/small",
     "amar dedic": "https://r2.thesportsdb.com/images/media/player/cutout/w3npc31781347204.png/small",
     "vasilije kostov": "https://images.fotmob.com/image_resources/playerimages/1647023.png",
-    "dastan satpayev": "",
     "heaven kilwa": "",
     "said el mala": "",
     "hermann malonga": "",
     "lacine megnan pave": "",
     "tommy marques": "",
-    "suzuki": ""
+    "suzuki": "",
+    "dastan satpayev": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

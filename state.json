@@ -1,7 +1,5 @@
 {
   "sent": [
-    "18c1db8508af8dc096419ee25b754a6f",
-    "d1c698c038dc6868e29f9e241230e09c",
     "tg:FabrizioRomanoTG/64017",
     "053089de13ac27f103804aeaa8bb11cf",
     "a259e0e933c3d941354920bf8566f29a",
@@ -1499,7 +1497,9 @@
     "tg:FabrizioRomanoTG/64755",
     "b2d5316237bcba7bbd41b8081dab5d56",
     "981b2780ec9a81abfa91add147d9bc11",
-    "9d9c9a9d96f4346d15da5909d1307f11"
+    "9d9c9a9d96f4346d15da5909d1307f11",
+    "39116f3d7edf986c9a1a0b0924cb46bb",
+    "e9fc4a0c3b50cfaebcf46d72f53053d9"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1909,8 +1909,6 @@
     "interest: martinez -> juventus"
   ],
   "titles": [
-    "transfer: amorim puts up tomori, two other ac milan players for sale",
-    "man utd reach decision on signing psg star ibrahim mbaye after liverpool cool in",
     "liverpool told $138m 'not enough' to secure bradley barcola as 'big package' nee",
     "martinelli and zubimendi to be sold?: latest transfer stories and rumours",
     "transfer updates: martinelli, zubimendi, dedi, barcola, jones, others",
@@ -2208,7 +2206,9 @@
     "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f juventus will offer a loan deal with buy option clause not mandatory for",
     "ethan nwaneri given green light to leave arsenal with ac milan weighing move for",
     "two reasons why delap is unlikely for como despite champions league attraction",
-    "juventus closing in on emi martinez with aston villa set to sign exciting \u00a330m r"
+    "juventus closing in on emi martinez with aston villa set to sign exciting \u00a330m r",
+    "football coventry city agree deals for strikers taiwo awoniyi and sidiki cherif",
+    "football coventry city agree deals to sign strikers taiwo awoniyi and sidiki che"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2495,15 +2495,15 @@
     "emiliano martinez": "https://r2.thesportsdb.com/images/media/player/cutout/ffr5xx1756984715.png/small",
     "joey veerman": "https://r2.thesportsdb.com/images/media/player/cutout/gktpip1764609026.png/small",
     "amar dedic": "https://r2.thesportsdb.com/images/media/player/cutout/w3npc31781347204.png/small",
-    "dastan satpayev": "",
     "heaven kilwa": "",
     "said el mala": "",
     "hermann malonga": "",
     "lacine megnan pave": "",
     "tommy marques": "",
-    "suzuki": ""
+    "suzuki": "",
+    "dastan satpayev": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

@@ -1,7 +1,5 @@
 {
   "sent": [
-    "311f5769b6c79f166e662033997697b7",
-    "tg:FabrizioRomanoTG/64060",
     "tg:FabrizioRomanoTG/64061",
     "tg:FabrizioRomanoTG/64062",
     "51c907af5fad9a914b0dd1fd15213fd8",
@@ -1499,7 +1497,9 @@
     "d9ef18307e6f67f92072e1f46a3ce917",
     "a4d1e8200ca7d454fca73d7ed7479ada",
     "69d1142fb88bd63120917091fa7234ff",
-    "0c026cc3a16b24608bcd8f406708e57e"
+    "0c026cc3a16b24608bcd8f406708e57e",
+    "b5837e7b5ede948e6a2950d1f449beeb",
+    "6698c98880ca61e367e5e56fbe327c1b"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1918,8 +1918,6 @@
     "interest: moreira -> milan"
   ],
   "titles": [
-    "henrique unconvinced by roma\u2019s financial offer",
-    "\ud83d\udd34 \ud83d\udd35 \ud83d\udc4b\ud83c\udffc ferran torres and mika godts are both in paris right now, ready for medic",
     "poker tactic or ruthless toughness? chelsea are reportedly to receive a mega off",
     "chelsea stance softening on \u00a375m star as liverpool interest revealed",
     "atletico madrid advance romero move and stand firm against arsenal over pubill",
@@ -2217,7 +2215,9 @@
     "al hilal schedule fresh chelsea talks to agree neto deal",
     "the rodri effect: midfielders set to be affected by spaniard\u2019s yet to be confirm",
     "juventus agreement with tottenham for vicario as martinez dropped",
-    "barcelona target surprise arsenal star as hansi flick eyes replacement after fer"
+    "barcelona target surprise arsenal star as hansi flick eyes replacement after fer",
+    "video: fabrizio romano provides crucial update on victor osimhen\u2019s potential tra",
+    "romano expects man city to \u2018try again\u2019 for fernandez as medical is scheduled for"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2511,14 +2511,14 @@
     "lacine megnan pave": "",
     "diego moreira": "https://r2.thesportsdb.com/images/media/player/cutout/eyaz0q1766053833.png/small",
     "aron yaakobishvili": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/%C3%81ron_Yaakobishvili_2025.jpg/330px-%C3%81ron_Yaakobishvili_2025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "hermann malonga": "",
     "tommy marques": "",
     "suzuki": "",
     "dastan satpayev": "",
     "heaven kilwa": "",
-    "said el mala": ""
+    "said el mala": "",
+    "hermann malonga": ""
   },
-  "photo_repair_idx": 5,
+  "photo_repair_idx": 6,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

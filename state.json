@@ -1,8 +1,5 @@
 {
   "sent": [
-    "06206852e869874b8ea4b66afb84942e",
-    "bf60d5233185586e9b2f4e65e384f6de",
-    "320a9bc140c5918c078a8572281d0b09",
     "1c34c4b4be5f2da074b0444c7d4924f9",
     "6f0239890b05fae81a83e72d315c1415",
     "cd031bf453cc42899e8a83920f9457b6",
@@ -1499,7 +1496,10 @@
     "7e3af975f001611ba025285c2e1a6eb8",
     "96210312cb6009eb3f60573eda1e2f99",
     "tg:FabrizioRomanoTG/64806",
-    "ce5a4767364336295e8810be1ea00853"
+    "ce5a4767364336295e8810be1ea00853",
+    "ebb6926fa958e4b3763c4f5732a3323b",
+    "d2f62a3f9b1b2f2d40b0970667360550",
+    "bd5fc36bf543c459e2ad9a90d866fa1b"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1918,9 +1918,6 @@
     "interest: moreira -> milan"
   ],
   "titles": [
-    "romano reveals liverpool, barcola \u2018verbal agreement\u2019 as reds getting closer to \u00a3",
-    "former hearts star has medical 'booked' at rangers after celtic interest as dere",
-    "rangers agree deal to sign james penrice from aek athens",
     "man united handed double boost as \u00a342 7m agreement reached and liverpool \u2018pull o",
     "berta masterplan ignites as arsenal \u2018hold talks\u2019 over elite striker who wants mo",
     "celtic linked to olympics ace, rangers medical booked, dundee retain defender in",
@@ -2217,7 +2214,10 @@
     "arsenal youngster set for summer exit amid links to dortmund, rb leipzig and ac ",
     "tottenham enter transfer talks over deal with buy clause after negotiations fall",
     "\ud83d\udea8 \ud83c\uddf5\ud83c\uddf9 manchester united offered new deal to bruno fernandes back in may as reveal",
-    "transfer news live: osimhen to man utd, liverpool barcola bid, \u00a325m spurs raid"
+    "transfer news live: osimhen to man utd, liverpool barcola bid, \u00a325m spurs raid",
+    "psg transfer plans shift as zion suzuki chooses premier league path with aston v",
+    "newcastle united engage in direct talks to sign experience bayern munich midfiel",
+    "transfer rumors, news: barcelona eye arsenal striker viktor gyokeres"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2511,14 +2511,14 @@
     "lacine megnan pave": "",
     "diego moreira": "https://r2.thesportsdb.com/images/media/player/cutout/eyaz0q1766053833.png/small",
     "aron yaakobishvili": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/%C3%81ron_Yaakobishvili_2025.jpg/330px-%C3%81ron_Yaakobishvili_2025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "hermann malonga": "",
     "tommy marques": "",
     "suzuki": "",
     "dastan satpayev": "",
     "heaven kilwa": "",
-    "said el mala": ""
+    "said el mala": "",
+    "hermann malonga": ""
   },
-  "photo_repair_idx": 5,
+  "photo_repair_idx": 6,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

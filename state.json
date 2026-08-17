@@ -1,7 +1,5 @@
 {
   "sent": [
-    "b0677a0dcbe6dcac5d85f93b55b5030e",
-    "93c333e9e7d0b58d2a6c3959a387419f",
     "f9c28e0608eb54553623cc2f61adc035",
     "e01f7ade12c9749896024cf08b2a1645",
     "df702459f05721d3c78ac1205c056922",
@@ -1499,7 +1497,9 @@
     "f29b3083bb0620e42dbd06c5b97ce49b",
     "f4b0d8c52242a25952f0c41ba8b496fb",
     "c51c8ba634e4fd08911618593ca5488c",
-    "e4fb3eb804dbd33e7abec28e8967b2fc"
+    "e4fb3eb804dbd33e7abec28e8967b2fc",
+    "6395d5b3fa67491b97593ddb946e0b1c",
+    "tg:FabrizioRomanoTG/64807"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1918,8 +1918,6 @@
     "interest: moreira -> milan"
   ],
   "titles": [
-    "tottenham offer \u00a385m for savinho as he skips man city training; jacobs predicts ",
-    "la liga: barcelona prepare third bid for rodri",
     "manchester city\u2019s summer transfer puzzle: fernandez deadline, reijnders cash, ro",
     "transfer rumors, news: arsenal hold talks over osimhen deal",
     "man utd \u00a342 7m boost as liverpool make ibrahim mbaye decision",
@@ -2217,7 +2215,9 @@
     "luis enrique promises bradley barcola 'solution' as liverpool eye psg transfer r",
     "agent in turin to broker deal with juventus for premier league star",
     "transfer news and rumours today: are aston villa on the verge of signing paris s",
-    "transfer: rodri set for barcelona medicals"
+    "transfer: rodri set for barcelona medicals",
+    "chelsea transfer news: al hilal 'schedule direct talks' over potential deal for ",
+    "\ud83d\udea8 \u26ab\ufe0f \ud83d\udd35 inter are preparing a new bid for curtis jones as he remains the top targ"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2511,14 +2511,14 @@
     "lacine megnan pave": "",
     "diego moreira": "https://r2.thesportsdb.com/images/media/player/cutout/eyaz0q1766053833.png/small",
     "aron yaakobishvili": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/%C3%81ron_Yaakobishvili_2025.jpg/330px-%C3%81ron_Yaakobishvili_2025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "tommy marques": "",
     "suzuki": "",
     "dastan satpayev": "",
     "heaven kilwa": "",
     "said el mala": "",
-    "hermann malonga": ""
+    "hermann malonga": "",
+    "tommy marques": ""
   },
-  "photo_repair_idx": 6,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

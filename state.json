@@ -1,6 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/64056",
     "3ee08554753a1b7e3800fb1855ca4097",
     "af690b50fb82f96f8cd20177e396367d",
     "f090d3794c95c55d3424ecd05e4cbdfb",
@@ -1499,7 +1498,8 @@
     "tg:FabrizioRomanoTG/64780",
     "tg:FabrizioRomanoTG/64781",
     "tg:FabrizioRomanoTG/64782",
-    "tg:FabrizioRomanoTG/64787"
+    "tg:FabrizioRomanoTG/64787",
+    "tg:FabrizioRomanoTG/64790"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1918,7 +1918,6 @@
     "interest: moreira -> milan"
   ],
   "titles": [
-    "report: manchester united agree personal terms with chelsea",
     "liverpool news: bradley barcola update issued as psg transfer ruled out after ag",
     "\ud83d\udea8 \ud83d\udd35 chelsea have not received any official bid for enzo fernandez \u2014 as their own",
     "\ud83d\udea8 chelsea consider enzo fernandez no longer available at \u00a3120m as terms were mad",
@@ -2217,7 +2216,8 @@
     "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 joao cancelo, back to barcelona: \u201ci am where i want to be!\u201d \ud83c\udfa5 @victor_nahe",
     "\ud83d\udea8 \ud83d\udd34 \u26ab\ufe0f ac milan are in advanced talks to sign diego moreira from rc strasbourg n",
     "\ud83d\udea8 \ud83d\udd34 \u26ab\ufe0f ac milan agree deal to sign diego moreira from rc strasbourg, here we go!",
-    "\ud83d\udd34 \u26aa\ufe0f \ud83c\udded\ud83c\uddfa aron yaakobishvili has just signed his contract as new ud almeria player"
+    "\ud83d\udd34 \u26aa\ufe0f \ud83c\udded\ud83c\uddfa aron yaakobishvili has just signed his contract as new ud almeria player",
+    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f como submit official bid for moise kean to fiorentina: \u20ac5m fixed fee, \u20ac25"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2508,7 +2508,6 @@
     "david odogu": "https://r2.thesportsdb.com/images/media/player/cutout/ld3b8q1758893781.png/small",
     "dayann methalie": "https://r2.thesportsdb.com/images/media/player/cutout/5fbhj51765967100.png/small",
     "costantino favasuli": "https://images.fotmob.com/image_resources/playerimages/1403328.png",
-    "said el mala": "",
     "hermann malonga": "",
     "lacine megnan pave": "",
     "tommy marques": "",
@@ -2516,9 +2515,10 @@
     "suzuki": "",
     "dastan satpayev": "",
     "aron yaakobishvili": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/%C3%81ron_Yaakobishvili_2025.jpg/330px-%C3%81ron_Yaakobishvili_2025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "heaven kilwa": ""
+    "heaven kilwa": "",
+    "said el mala": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 5,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

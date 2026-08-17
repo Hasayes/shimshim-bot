@@ -1,7 +1,5 @@
 {
   "sent": [
-    "3e8ecd7819753a32b3e8ce35fc31bd95",
-    "93e9288627d415ae93e2f9b0ec4d7c42",
     "aebb1cf1867fc19fc3c6498bcbf1ea3f",
     "58b8560d9a52e117bf4b8294a6794693",
     "8e42050be13052929768206e6d881ba8",
@@ -1499,7 +1497,9 @@
     "9d48f75d67bb919a4a0f3f7762c16d07",
     "a0d80beff8ec9630192dabf91cb046db",
     "6c30d12aeee21c395fb78e491a53fb14",
-    "8c0302f668acc9a710cf205bb707655d"
+    "8c0302f668acc9a710cf205bb707655d",
+    "04e25df5e479e45fbb8a1c8a39090f53",
+    "d87d1ece6e666550b22cc53826d4b91a"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1718,7 +1718,7 @@
     "gonzalez -> manchester city": 2,
     "suzuki -> aston villa": 2,
     "veerman -> borussia dortmund": 1,
-    "rodri -> barcelona": 1,
+    "rodri -> barcelona": 2,
     "dedic -> newcastle": 1,
     "marques -> sc braga": 1
   },
@@ -1910,8 +1910,6 @@
     "interest: kostov -> milan"
   ],
   "titles": [
-    "coventry city get green light after fikayo tomori transfer meeting as southampto",
-    "manchester city submit 120m offer for enzo fernandez in wrong currency or not at",
     "galatasaray await arsenal response after martinelli bid euro transfer news",
     "tottenham table \u00a385m bid to sign man city star savinho",
     "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 crystal palace complete all formal steps for anan khalaili deal with union",
@@ -2209,7 +2207,9 @@
     "report \u2013 milan weigh summer bid for red star prodigy",
     "sunday morning double whammy: bvb set to sign joey veerman and giannis konstante",
     "barcelona target gives up a huge chunk of salary to fast track move to camp nou",
-    "fabrizio romano reveals how man city can still land enzo fernandez after chelsea"
+    "fabrizio romano reveals how man city can still land enzo fernandez after chelsea",
+    "the deal is finally done: rodri joins barcelona",
+    "the deal is finally done: rodri moves to barcelona"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2496,16 +2496,16 @@
     "emiliano martinez": "https://r2.thesportsdb.com/images/media/player/cutout/ffr5xx1756984715.png/small",
     "joey veerman": "https://r2.thesportsdb.com/images/media/player/cutout/gktpip1764609026.png/small",
     "amar dedic": "https://r2.thesportsdb.com/images/media/player/cutout/w3npc31781347204.png/small",
-    "suzuki": "",
     "dastan satpayev": "",
     "heaven kilwa": "",
     "said el mala": "",
     "vasilije kostov": "https://images.fotmob.com/image_resources/playerimages/1647023.png",
     "hermann malonga": "",
     "lacine megnan pave": "",
-    "tommy marques": ""
+    "tommy marques": "",
+    "suzuki": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

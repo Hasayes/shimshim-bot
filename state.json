@@ -1,6 +1,5 @@
 {
   "sent": [
-    "373572a4ecc1806540fafcdfa32b2b90",
     "71e94c64ad34c77538679d029cd7a4c0",
     "2d53d35cba2c6ff073745413de82b6e3",
     "tg:FabrizioRomanoTG/64103",
@@ -1499,7 +1498,8 @@
     "tg:FabrizioRomanoTG/64827",
     "tg:FabrizioRomanoTG/64830",
     "tg:FabrizioRomanoTG/64831",
-    "tg:FabrizioRomanoTG/64833"
+    "tg:FabrizioRomanoTG/64833",
+    "tg:FabrizioRomanoTG/64834"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1921,7 +1921,6 @@
     "interest: endrick -> milan"
   ],
   "titles": [
-    "\ud83d\udea8 christopher nkunku left milano on friday but not due to any imminent transfer ",
     "arteta in dreamland as priority target says yes to joining arsenal and deal \u201999 ",
     "\ud83d\udea8 \ud83c\uddf8\ud83c\udde6 al qadsiah and manchester city are set to exchange documents today for tijj",
     "ac milan: former chelsea stars feature in ruben amorim 'bomb squad' ahead of man",
@@ -2220,7 +2219,8 @@
     "\ud83d\udea8 \u26ab\ufe0f \ud83d\udd35 inter are closing in on new deal agreement with pio esposito until june 2",
     "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f excl: monza send official bid to derby county for swedish gk jacob widell",
     "\ud83d\udd35 \ud83d\udd34 \ud83d\udd10 rodri has signed his contract as new barcelona player until june 2030 \u2014 fa",
-    "\ud83d\udea8 \u26aa\ufe0f jose mourinho, officially presented by president florentino perez as new re"
+    "\ud83d\udea8 \u26aa\ufe0f jose mourinho, officially presented by president florentino perez as new re",
+    "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 \u201ci am so, so happy it\u2019s a dream\u201d rodri has signed with barcelona until jun"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2516,14 +2516,14 @@
     "suzuki": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/ZION_SUZUKI_-_JPN_vs_THA_-_Friendly_Match_-_2024.01.01.jpg/330px-ZION_SUZUKI_-_JPN_vs_THA_-_Friendly_Match_-_2024.01.01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "rodrigo mora": "https://r2.thesportsdb.com/images/media/player/cutout/t8dncf1750440274.png/small",
     "nico elvedi": "https://r2.thesportsdb.com/images/media/player/cutout/aelb5v1756313277.png/small",
-    "tommy marques": "",
     "endrick": "https://r2.thesportsdb.com/images/media/player/cutout/5yb3rv1733653315.png/small",
     "dastan satpayev": "",
     "heaven kilwa": "",
     "said el mala": "",
-    "hermann malonga": ""
+    "hermann malonga": "",
+    "tommy marques": ""
   },
-  "photo_repair_idx": 5,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

@@ -1,9 +1,5 @@
 {
   "sent": [
-    "8c40f3c0c68e34a54a8ec378732e926a",
-    "55906f62f5900546b7481efd5ddd8ec1",
-    "ed8eddf1de8581a3a1954eb6a1252441",
-    "a7f4a495b1ad8cc457f2cdb4a9629c49",
     "83ba56a3f38c35fec9740db23e35070f",
     "3eab8eea3348fa3b25bba25c33cdde84",
     "b227251dd1bbf0f4840f821d9e801579",
@@ -1499,7 +1495,11 @@
     "458d3d879eee442408e34db2c0379059",
     "2bf438bf532ddfdfe81f83c55bb720de",
     "d9a42cc80e06f44e67235d33589ec339",
-    "tg:FabrizioRomanoTG/64876"
+    "tg:FabrizioRomanoTG/64876",
+    "f0f0003e443cedcfe1a4ad10972f2a37",
+    "727a9bf821ebc0a65c3fbccfb611912a",
+    "17d40ee5634bd852fd4169932f0e34ce",
+    "eb9ffa4255b926cf2530d486bf4ceaa2"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1730,7 +1730,8 @@
     "yaakobishvili -> ud almeria": 2,
     "mora -> as roma": 1,
     "elvedi -> leeds": 1,
-    "bissaka -> aston villa": 1
+    "bissaka -> aston villa": 1,
+    "fullkrug -> werder bremen": 2
   },
   "interest": [
     "interest: alvarez -> arsenal",
@@ -1922,10 +1923,6 @@
     "interest: endrick -> milan"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83d\udd34 marcus rashford has made his official comeback at manchester united after lo",
-    "\ud83d\udd35 \u26aa\ufe0f rangers confirm deal done for james penrice loan with option from aek athen",
-    "\ud83d\udea8 \u26ab\ufe0f \ud83d\udd35 official, confirmed djed spence has joined inter on \u20ac35m package deal fro",
-    "rt @fabrizioromano : \ud83d\udea8 \ud83e\ude75 \ud83e\udd0d exclusive: coventry city agree deal to sign taiwo awo",
     "transfer shocker? bayer leverkusen could be eyeing blockbuster sale",
     "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f discussions between juventus and dibu martinez not at advanced stages af",
     "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 understand mika godts has just signed his contract as new paris saint germ",
@@ -2221,7 +2218,11 @@
     "inter\u2019s \u20ac20m offer falls short for liverpool\u2019s curtis jones",
     "video: fresh italy debutant favasuli arrives for napoli medical",
     "\u00a3100m double liverpool exit accelerates as romano confirms new bid imminent",
-    "rt @fabrizioromano : \ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f excl: al hilal submit official bid to aston villa fo"
+    "rt @fabrizioromano : \ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f excl: al hilal submit official bid to aston villa fo",
+    "liverpool midfielder\u2019s exit seems imminent as club prepare to make increased bid",
+    "gyokeres linked to barcelona as lewandowski, torres depart\u2014but arsenal say no ap",
+    "fabrizio romano confirms man utd plotting huge double signing after carrick \u2018pus",
+    "watch as niclas fullkrug arrives for medical in style ahead of west ham exit"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2519,13 +2520,14 @@
     "nico elvedi": "https://r2.thesportsdb.com/images/media/player/cutout/aelb5v1756313277.png/small",
     "endrick": "https://r2.thesportsdb.com/images/media/player/cutout/5yb3rv1733653315.png/small",
     "aaron wan bissaka": "https://r2.thesportsdb.com/images/media/player/cutout/xdt9hb1756984581.png/small",
-    "tommy marques": "",
     "dastan satpayev": "",
     "heaven kilwa": "",
     "said el mala": "",
-    "hermann malonga": ""
+    "hermann malonga": "",
+    "niclas fullkrug": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/NiclasF%C3%BCllkrug_%28cropped%29.jpg/330px-NiclasF%C3%BCllkrug_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "tommy marques": ""
   },
-  "photo_repair_idx": 5,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

@@ -1,6 +1,5 @@
 {
   "sent": [
-    "2c894776d6b6d14d8a4e07af5d0bf2be",
     "bd66af0153cbe83a25945ab44591be45",
     "1240f103306ebd446640f22fd90f7daf",
     "tg:FabrizioRomanoTG/64074",
@@ -1499,7 +1498,8 @@
     "tg:FabrizioRomanoTG/64810",
     "tg:FabrizioRomanoTG/64811",
     "tg:FabrizioRomanoTG/64813",
-    "c3622ba9549422a705de90dfaff02382"
+    "c3622ba9549422a705de90dfaff02382",
+    "b6dca0416c608074f853117620012a5b"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1919,7 +1919,6 @@
     "interest: moreira -> milan"
   ],
   "titles": [
-    "man utd interested in signing bayern munich star as his very clear stance on tra",
     "offer made: arsenal approached over loan with view to permanent \u20ac40m transfer",
     "arsenal hold talks over osimhen deal",
     "leao and seven other unwanted milan players left out of squad for man united",
@@ -2218,7 +2217,8 @@
     "\ud83d\udd34 \u26aa\ufe0f \ud83c\udde7\ud83c\uddf7 internacional have agreed deal to sign tonny sanabria from cremonese con",
     "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f fc porto are ready to advance and try close santi gimenez deal soon as fi",
     "\ud83d\udea8 \ud83d\udfe1 \ud83d\udd34 after rodrigo mora deal done, as roma will now decide whether they want to",
-    "psg make fresh decision on barcola asking price as romano reveals liverpool \u2018agr"
+    "psg make fresh decision on barcola asking price as romano reveals liverpool \u2018agr",
+    "ibrahim mbaye wants liverpool transfer as talks opened"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2512,15 +2512,15 @@
     "lacine megnan pave": "",
     "diego moreira": "https://r2.thesportsdb.com/images/media/player/cutout/eyaz0q1766053833.png/small",
     "aron yaakobishvili": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/%C3%81ron_Yaakobishvili_2025.jpg/330px-%C3%81ron_Yaakobishvili_2025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "dastan satpayev": "",
     "suzuki": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/ZION_SUZUKI_-_JPN_vs_THA_-_Friendly_Match_-_2024.01.01.jpg/330px-ZION_SUZUKI_-_JPN_vs_THA_-_Friendly_Match_-_2024.01.01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "rodrigo mora": "https://r2.thesportsdb.com/images/media/player/cutout/t8dncf1750440274.png/small",
     "heaven kilwa": "",
     "said el mala": "",
     "hermann malonga": "",
-    "tommy marques": ""
+    "tommy marques": "",
+    "dastan satpayev": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

@@ -1,8 +1,5 @@
 {
   "sent": [
-    "e4e797af4ed567fdf109f55472e6ad07",
-    "02cda27e86be4c9d5ef05a8c8328c6bd",
-    "221d517fe66d597c20afd31fd98966be",
     "f05f5446ae63ceb32b6b7e552d3a144b",
     "0bf8e775c4df2f904ea447de6fd1a1e2",
     "2a1821bd2abe7211e9874a98b44eb1ad",
@@ -1499,7 +1496,10 @@
     "tg:FabrizioRomanoTG/64860",
     "tg:FabrizioRomanoTG/64861",
     "tg:FabrizioRomanoTG/64862",
-    "tg:FabrizioRomanoTG/64865"
+    "tg:FabrizioRomanoTG/64865",
+    "020256818c6e7c7bbcce99599480321c",
+    "tg:FabrizioRomanoTG/64866",
+    "tg:FabrizioRomanoTG/64867"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1922,9 +1922,6 @@
     "interest: endrick -> milan"
   ],
   "titles": [
-    "napoli edging closer to arsenal striker deal",
-    "barcelona prepare their final push for rodri",
-    "elversberg set to sign eintracht frankfurt striker noel futkeu (23) on loan",
     "fabrizio romano goes \u2018all in\u2019 on bradley barcola to liverpool with agreement don",
     "liverpool have clear plan if cody gakpo joins tottenham as fabrizio romano revea",
     "barcelona hold hector fort transfer talks with borussia dortmund",
@@ -2221,7 +2218,10 @@
     "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f alessandro circati to benfica, here we go! deal in place for \u20ac20m plus ad",
     "\ud83d\udea8 \ud83c\udde7\ud83c\uddf7 juventus have offered arthur melo the possibility to terminate the contract",
     "\ud83d\udea8 \ud83c\uddf2\ud83c\uddfd fc porto sent the following official bid to ac milan for santi gimenez toda",
-    "\ud83d\udd35 \ud83d\udd34 hansi flick: \u201cwith rodri, we\u2019ve signed the best no6 in the world he can help"
+    "\ud83d\udd35 \ud83d\udd34 hansi flick: \u201cwith rodri, we\u2019ve signed the best no6 in the world he can help",
+    "liverpool 'offered barcola discount' as agreement reached in psg talks london ev",
+    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f rc strasbourg are advancing to get karim coulibaly deal done with werder ",
+    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f excl: lutsharel geertruida to psv eindhoven, deal now agreed in principle"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2518,14 +2518,14 @@
     "rodrigo mora": "https://r2.thesportsdb.com/images/media/player/cutout/t8dncf1750440274.png/small",
     "nico elvedi": "https://r2.thesportsdb.com/images/media/player/cutout/aelb5v1756313277.png/small",
     "endrick": "https://r2.thesportsdb.com/images/media/player/cutout/5yb3rv1733653315.png/small",
-    "said el mala": "",
     "aaron wan bissaka": "https://r2.thesportsdb.com/images/media/player/cutout/xdt9hb1756984581.png/small",
     "hermann malonga": "",
     "tommy marques": "",
     "dastan satpayev": "",
-    "heaven kilwa": ""
+    "heaven kilwa": "",
+    "said el mala": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

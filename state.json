@@ -1,6 +1,5 @@
 {
   "sent": [
-    "e81e5ff25162251ef376bd3131891ed2",
     "b35abe2bb1fd43072c9bbe74bfc60ed5",
     "8c40f3c0c68e34a54a8ec378732e926a",
     "55906f62f5900546b7481efd5ddd8ec1",
@@ -1499,7 +1498,8 @@
     "13dd504c06cb0d636ee5f4d9055719bf",
     "0be91f0a90768350a870a1bdf9d981c5",
     "458d3d879eee442408e34db2c0379059",
-    "2bf438bf532ddfdfe81f83c55bb720de"
+    "2bf438bf532ddfdfe81f83c55bb720de",
+    "d9a42cc80e06f44e67235d33589ec339"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1922,7 +1922,6 @@
     "interest: endrick -> milan"
   ],
   "titles": [
-    "bayern munich news: did real madrid\u2019s yan diomande pave way for michael olise to",
     "\ud83d\udea8 \ud83e\ude75 \ud83e\udd0d exclusive: coventry city agree deal to sign taiwo awoniyi from nottingham ",
     "\ud83d\udea8 \ud83d\udd34 marcus rashford has made his official comeback at manchester united after lo",
     "\ud83d\udd35 \u26aa\ufe0f rangers confirm deal done for james penrice loan with option from aek athen",
@@ -2221,7 +2220,8 @@
     "romano reveals gavi decision on joining man utd from barcelona for \u00a347m",
     "romano reveals gavi decision on joining man utd from barcelona for \u00a347m teamtalk",
     "inter\u2019s \u20ac20m offer falls short for liverpool\u2019s curtis jones",
-    "video: fresh italy debutant favasuli arrives for napoli medical"
+    "video: fresh italy debutant favasuli arrives for napoli medical",
+    "\u00a3100m double liverpool exit accelerates as romano confirms new bid imminent"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2519,13 +2519,13 @@
     "nico elvedi": "https://r2.thesportsdb.com/images/media/player/cutout/aelb5v1756313277.png/small",
     "endrick": "https://r2.thesportsdb.com/images/media/player/cutout/5yb3rv1733653315.png/small",
     "aaron wan bissaka": "https://r2.thesportsdb.com/images/media/player/cutout/xdt9hb1756984581.png/small",
-    "said el mala": "",
     "hermann malonga": "",
     "tommy marques": "",
     "dastan satpayev": "",
-    "heaven kilwa": ""
+    "heaven kilwa": "",
+    "said el mala": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

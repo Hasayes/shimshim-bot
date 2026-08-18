@@ -1,6 +1,5 @@
 {
   "sent": [
-    "3eab8eea3348fa3b25bba25c33cdde84",
     "b227251dd1bbf0f4840f821d9e801579",
     "5c5fc3e8d3a24abee2f90c3b189b0f66",
     "cffe3bfe9a5861059c6050c4a2c0f1b0",
@@ -1499,7 +1498,8 @@
     "727a9bf821ebc0a65c3fbccfb611912a",
     "17d40ee5634bd852fd4169932f0e34ce",
     "eb9ffa4255b926cf2530d486bf4ceaa2",
-    "2bed67eec0a1faf302dacdaf3333cefc"
+    "2bed67eec0a1faf302dacdaf3333cefc",
+    "15cd7001f4a5a6af7b7fe8f466116d34"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1923,7 +1923,6 @@
     "interest: endrick -> milan"
   ],
   "titles": [
-    "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f discussions between juventus and dibu martinez not at advanced stages af",
     "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 understand mika godts has just signed his contract as new paris saint germ",
     "\ud83d\udea8 official: cuti romero is now an atletico de madrid player",
     "barcelona \u2018on the verge\u2019 of completing world cup winner\u2019s signing, a matter of \u2018",
@@ -2222,7 +2221,8 @@
     "gyokeres linked to barcelona as lewandowski, torres depart\u2014but arsenal say no ap",
     "fabrizio romano confirms man utd plotting huge double signing after carrick \u2018pus",
     "watch as niclas fullkrug arrives for medical in style ahead of west ham exit",
-    "premier league club join crowded race for chelsea attacker liam delap"
+    "premier league club join crowded race for chelsea attacker liam delap",
+    "man utd target kane holds talks to complete stunning transfer after reaching dec"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2520,14 +2520,14 @@
     "nico elvedi": "https://r2.thesportsdb.com/images/media/player/cutout/aelb5v1756313277.png/small",
     "endrick": "https://r2.thesportsdb.com/images/media/player/cutout/5yb3rv1733653315.png/small",
     "aaron wan bissaka": "https://r2.thesportsdb.com/images/media/player/cutout/xdt9hb1756984581.png/small",
-    "heaven kilwa": "",
     "said el mala": "",
     "hermann malonga": "",
     "niclas fullkrug": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/NiclasF%C3%BCllkrug_%28cropped%29.jpg/330px-NiclasF%C3%BCllkrug_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "tommy marques": "",
-    "dastan satpayev": ""
+    "dastan satpayev": "",
+    "heaven kilwa": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

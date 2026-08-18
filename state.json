@@ -1,7 +1,5 @@
 {
   "sent": [
-    "fe6640b9c48627d0a06ec87910e9814b",
-    "4a03c548f3659a681ca963192a816aef",
     "862fb4095362ae79dcacde14b9c61f15",
     "a5ecc5a515c946d37167942f441db25f",
     "3e75ca0c3caf1f9a70a7bc189ce9f7b2",
@@ -1499,7 +1497,9 @@
     "dc7ac054e8d4efd43187f3d910433f9e",
     "6f2238009a868e12d4dc7711ee94c1a2",
     "9fae2bf3efe35a55afb76d0b5e6c7c1d",
-    "29a06d212fa0518e3b40324997b0d4b7"
+    "29a06d212fa0518e3b40324997b0d4b7",
+    "17d71e4e28db012ad275d8b37b66808d",
+    "ba72e5dbc93360e3e689ca9f6a37f582"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1921,7 +1921,6 @@
     "interest: endrick -> milan"
   ],
   "titles": [
-    "fabrizio romano: tottenham 'movement expected' to sign savinho and gakpo",
     "arsenal handed julian alvarez boost as barcelona 'include viktor gyokeres replac",
     "barcelona\u2019s priority striker target has been julian alvarez all summer",
     "epl: no official offer for fernandez as chelsea deadline expires \u2013 reports",
@@ -2220,7 +2219,8 @@
     "\ud83d\udea8 \ud83c\uddf8\ud83c\udde6 tijjani reijnders, in saudi arabia today as al qadsiah deal is completed be",
     "romano reveals new bid coming for liverpool star as reds target agrees terms",
     "ac milan make move for endrick as real madrid deliver huge response to loan prop",
-    "psg wonderkid ibrahim mbaye agrees personal terms with liverpool tribalfootball"
+    "psg wonderkid ibrahim mbaye agrees personal terms with liverpool tribalfootball",
+    "barcola and mbaye boost hinted in french super cup the liverpool offside"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2517,13 +2517,13 @@
     "rodrigo mora": "https://r2.thesportsdb.com/images/media/player/cutout/t8dncf1750440274.png/small",
     "nico elvedi": "https://r2.thesportsdb.com/images/media/player/cutout/aelb5v1756313277.png/small",
     "tommy marques": "",
-    "dastan satpayev": "",
     "heaven kilwa": "",
     "said el mala": "",
     "hermann malonga": "",
-    "endrick": "https://r2.thesportsdb.com/images/media/player/cutout/5yb3rv1733653315.png/small"
+    "endrick": "https://r2.thesportsdb.com/images/media/player/cutout/5yb3rv1733653315.png/small",
+    "dastan satpayev": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

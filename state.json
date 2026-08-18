@@ -1,6 +1,5 @@
 {
   "sent": [
-    "86ac982fc0bb405f6d3a702f1c8661e2",
     "bdbba9427e98a250b49cf5bd1d6d030c",
     "tg:FabrizioRomanoTG/64097",
     "tg:FabrizioRomanoTG/64098",
@@ -1499,7 +1498,8 @@
     "b3f8138610d2ea19fbdd643523a2f82f",
     "37b8a41dcd04417ba1ccd23d46c92247",
     "c2c3b5ddc101c55ebc0e5a85b54a8139",
-    "3e4316ab8d674ce01a827509bd763c62"
+    "3e4316ab8d674ce01a827509bd763c62",
+    "81d8af673636f25da42115d60ffe0b65"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1920,7 +1920,6 @@
     "interest: moreira -> milan"
   ],
   "titles": [
-    "transfer updates: osimhen, gakpo, rodri, kounde, wharton, others",
     "ruben amorim's desire to offload ac milan star could be sign for ineos to reigni",
     "juventus seeking loan to buy option for 29 year old tottenham star heavily linke",
     "weekend warm up: bayern munich still unable to find a taker for joao palhinha; t",
@@ -2219,7 +2218,8 @@
     "liverpool transfer news: la liga club 'open talks' to sign versatile reds midfie",
     "forgotten chelsea winger diego moreira \u2018agrees \u00a347 5m transfer to ruben amorim\u2019s",
     "viktor gyokeres offered arsenal escape route after worrying summer form: report",
-    "barcelona considering gyokeres as torres replacement euro transfer news"
+    "barcelona considering gyokeres as torres replacement euro transfer news",
+    "liverpool launch \u20ac135m new bradley barcola bid after psg drop demands"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2516,13 +2516,13 @@
     "suzuki": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/ZION_SUZUKI_-_JPN_vs_THA_-_Friendly_Match_-_2024.01.01.jpg/330px-ZION_SUZUKI_-_JPN_vs_THA_-_Friendly_Match_-_2024.01.01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "rodrigo mora": "https://r2.thesportsdb.com/images/media/player/cutout/t8dncf1750440274.png/small",
     "nico elvedi": "https://r2.thesportsdb.com/images/media/player/cutout/aelb5v1756313277.png/small",
-    "hermann malonga": "",
     "tommy marques": "",
     "dastan satpayev": "",
     "heaven kilwa": "",
-    "said el mala": ""
+    "said el mala": "",
+    "hermann malonga": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 5,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

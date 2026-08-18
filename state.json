@@ -1,8 +1,5 @@
 {
   "sent": [
-    "abd2314904ee3dcb25de916d75834985",
-    "4848faa053eb3819c239dc82dea758a6",
-    "0415e582da7d344cba6119b32b2cdcae",
     "ded58fa855d88cfcc10ff9a5f9e66f1a",
     "c058ef6fbe6aa6927c2c7492d45b11c2",
     "c0cf65d8cda04a280c1bba73a9e478bc",
@@ -1499,7 +1496,10 @@
     "3de00a4ba86f3ae1e33cea218d74aabc",
     "1e592aece86b63fce1429d6bfd618d6b",
     "1dbae230628a2bd719f82327b01d67ab",
-    "aac3e23ec2157f79ac575be21d122737"
+    "aac3e23ec2157f79ac575be21d122737",
+    "c0a6583bb668fb2f43f54428ef796d24",
+    "b3594c7a9fc527141803f5e497ca9a02",
+    "tg:FabrizioRomanoTG/64822"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1920,8 +1920,6 @@
     "interest: moreira -> milan"
   ],
   "titles": [
-    "como consider loan for chelsea\u2019s liam delap after player offered to italian side",
-    "alexis mac allister reaches decision on leaving liverpool to join man city amid ",
     "ajax reach verbal agreement to sell mika godts to psg for \u20ac55 million",
     "ornstein: gabriel martinelli makes final decision on arsenal to galatasaray tran",
     "bradley barcola transfer alternative off the table after devastating injury news",
@@ -2219,7 +2217,9 @@
     "liverpool agree transfer deal for psg forward liverpool fc",
     "transfer news and rumours today: destiny udogie eyed by serie a giant, joey veer",
     "liverpool 'agree 5 year contract' with psg prodigy as transfer talks advance rus",
-    "reports: juventus, tottenham hotspur agree to loan deal for guglielmo vicario"
+    "reports: juventus, tottenham hotspur agree to loan deal for guglielmo vicario",
+    "fabrizio romano confirms bruno fernandes \u2018talks\u2019 as man utd respond to galatasar",
+    "\ud83d\udea8 \ud83c\uddf8\ud83c\udde6 tijjani reijnders, in saudi arabia today as al qadsiah deal is completed be"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2516,13 +2516,13 @@
     "suzuki": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/ZION_SUZUKI_-_JPN_vs_THA_-_Friendly_Match_-_2024.01.01.jpg/330px-ZION_SUZUKI_-_JPN_vs_THA_-_Friendly_Match_-_2024.01.01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "rodrigo mora": "https://r2.thesportsdb.com/images/media/player/cutout/t8dncf1750440274.png/small",
     "nico elvedi": "https://r2.thesportsdb.com/images/media/player/cutout/aelb5v1756313277.png/small",
-    "said el mala": "",
     "hermann malonga": "",
     "tommy marques": "",
     "dastan satpayev": "",
-    "heaven kilwa": ""
+    "heaven kilwa": "",
+    "said el mala": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

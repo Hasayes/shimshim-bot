@@ -1,7 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/64103",
-    "tg:FabrizioRomanoTG/64104",
     "d71b3b7cac2a77d127dcfe8341820daa",
     "8770eac95b7d14aef6a0fd774cc851e7",
     "9c8ba3d042e67014c07b9f4136aece02",
@@ -1499,7 +1497,9 @@
     "tg:FabrizioRomanoTG/64833",
     "tg:FabrizioRomanoTG/64834",
     "tg:FabrizioRomanoTG/64838",
-    "tg:FabrizioRomanoTG/64841"
+    "tg:FabrizioRomanoTG/64841",
+    "tg:FabrizioRomanoTG/64843",
+    "tg:FabrizioRomanoTG/64844"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1722,7 +1722,7 @@
     "dedic -> newcastle": 1,
     "marques -> sc braga": 1,
     "konstantelias -> borussia dortmund": 1,
-    "vicario -> juventus": 1,
+    "vicario -> juventus": 2,
     "odogu -> toulouse": 2,
     "methalie -> sunderland": 1,
     "favasuli -> napoli": 1,
@@ -1921,8 +1921,6 @@
     "interest: endrick -> milan"
   ],
   "titles": [
-    "ac milan: former chelsea stars feature in ruben amorim 'bomb squad' ahead of man",
-    "borussia dortmund hold talks to sign 20 year old barcelona defender \u2013 report",
     "borussia dortmund hold talks to sign 20 year old barcelona defender",
     "manchester united in talks with psg star, after liverpool drop out of race: repo",
     "liverpool are in talks to land this paris saint germain youngster: one for the f",
@@ -2220,7 +2218,9 @@
     "\ud83d\udea8 \u26aa\ufe0f jose mourinho, officially presented by president florentino perez as new re",
     "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 \u201ci am so, so happy it\u2019s a dream\u201d rodri has signed with barcelona until jun",
     "\u26aa\ufe0f \ud83d\udd25 jose mourinho: \u201ci am here to work for real madrid everyone should follow th",
-    "\ud83d\udea8 \u26aa\ufe0f jose mourinho: \u201ci feel this is a mission it goes beyond words\u201d \u201ci am here t"
+    "\ud83d\udea8 \u26aa\ufe0f jose mourinho: \u201ci feel this is a mission it goes beyond words\u201d \u201ci am here t",
+    "\u26aa\ufe0f \u26ab\ufe0f \u270d\ud83c\udffb guglielmo vicario has signed his contract as new juventus goalkeeper fr",
+    "\ud83d\udea8 \ud83c\uddf8\ud83c\uddf3 patrick vieira signs in as new senegal national team head coach, agreement "
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2517,13 +2517,13 @@
     "rodrigo mora": "https://r2.thesportsdb.com/images/media/player/cutout/t8dncf1750440274.png/small",
     "nico elvedi": "https://r2.thesportsdb.com/images/media/player/cutout/aelb5v1756313277.png/small",
     "endrick": "https://r2.thesportsdb.com/images/media/player/cutout/5yb3rv1733653315.png/small",
-    "said el mala": "",
     "hermann malonga": "",
     "tommy marques": "",
     "dastan satpayev": "",
-    "heaven kilwa": ""
+    "heaven kilwa": "",
+    "said el mala": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

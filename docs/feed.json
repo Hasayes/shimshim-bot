@@ -1,5 +1,25 @@
 [
  {
+  "id": "tg:FabrizioRomanoTG/64764",
+  "ts": "2026-08-18T13:30:39+00:00",
+  "kind": "deal",
+  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/5xu8ds1757015525.png/small",
+  "stage": "Completed",
+  "player": "Guglielmo Vicario",
+  "position": "Goalkeeper",
+  "age": "\u2014",
+  "from_club": "Tottenham Hotspur",
+  "to_club": "Juventus",
+  "fee": "Free loan with \u20ac8m buy option and \u20ac2m add-ons",
+  "style": "Modern goalkeeper with excellent distribution and sweeping abilities, commanding in the box with consistent shot-stopping prowess.",
+  "fit": "Deploy as Juventus's primary keeper to provide stability between the posts and enable possession-based build-up play through quick, accurate passing.",
+  "source": "Fabrizio Romano",
+  "summary": "Guglielmo Vicario has completed his signing for Juventus from Tottenham Hotspur on a free loan with an \u20ac8m buy option clause and \u20ac2m in add-ons.",
+  "outlet": "Telegram @fabrizioromanotg",
+  "url": "https://t.me/FabrizioRomanoTG/64843",
+  "title": "\u26aa\ufe0f \u26ab\ufe0f \u270d\ud83c\udffb Guglielmo Vicario has signed his contract as new Juventus goalkeeper from Spurs. Free loan, \u20ac8m buy option clau"
+ },
+ {
   "id": "6f2238009a868e12d4dc7711ee94c1a2",
   "ts": "2026-08-18T10:31:29+00:00",
   "kind": "interest",
@@ -158,26 +178,6 @@
   "outlet": "Telegram @fabrizioromanotg",
   "url": "https://t.me/FabrizioRomanoTG/64765",
   "title": "\ud83d\udea8 \ud83d\udfe3 \u26aa\ufe0f David Odogu leaves AC Milan and joins Toulouse on loan deal with salary covered until June. Deal agreed, as @LesV"
- },
- {
-  "id": "tg:FabrizioRomanoTG/64764",
-  "ts": "2026-08-17T08:00:46+00:00",
-  "kind": "deal",
-  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/5xu8ds1757015525.png/small",
-  "stage": "Here we go",
-  "player": "Guglielmo Vicario",
-  "position": "Goalkeeper",
-  "age": "\u2014",
-  "from_club": "Tottenham Hotspur",
-  "to_club": "Juventus",
-  "fee": "Loan with buy option",
-  "style": "Commanding goalkeeper with excellent distribution and shot-stopping ability, combining modern sweeper-keeper qualities with traditional shot-blocking prowess.",
-  "fit": "Deploy as Juventus's primary goalkeeper to provide reliable defensive coverage and initiate attacks from the back with his progressive passing range.",
-  "source": "Fabrizio Romano",
-  "summary": "Juventus have agreed a deal to sign Guglielmo Vicario from Tottenham on loan with a buy option clause. Spurs have accepted the proposal and Vicario leaves the club today.",
-  "outlet": "Telegram @fabrizioromanotg",
-  "url": "https://t.me/FabrizioRomanoTG/64764",
-  "title": "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f Juventus agree deal to sign Guglielmo Vicario from Tottenham, here we go! Spurs accept loan proposal with buy op"
  },
  {
   "id": "tg:FabrizioRomanoTG/64760",

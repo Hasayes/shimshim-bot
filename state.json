@@ -1,7 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/64089",
-    "tg:FabrizioRomanoTG/64090",
     "ec51be4c40d40dcdc185fa132daf2e6c",
     "27de05b717199046568dd277a941379f",
     "tg:FabrizioRomanoTG/64091",
@@ -1499,7 +1497,9 @@
     "30e3a2b188ec4e1056ca625d5c3f0cbe",
     "8b2024b17fe7b256a4a2bcb55ca5d76b",
     "d0783c32ae372263fa9c7a1dcc86a105",
-    "8d9bb32af06a08b299119bb9f3bf8d83"
+    "8d9bb32af06a08b299119bb9f3bf8d83",
+    "c73c50157b05b73427a76d01b63be249",
+    "9177b711fc913e997956ff43cbb2d3c2"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1920,7 +1920,6 @@
     "interest: moreira -> milan"
   ],
   "titles": [
-    "tottenham get new savinho update as man city transfer saga rumbles on",
     "psg, ajax reach agreement on mika godts per report",
     "psg reach verbal agreement with ajax to sign mika godts",
     "approach made: chelsea could conclude forward deal in final 2 weeks of the windo",
@@ -2219,7 +2218,8 @@
     "\ud83d\udcb8 galatasaray leao, roma fofana \ud83e\udde8 di gregorio out: today's deals \ud83e\udd11",
     "transfer updates: gyokeres, zubimendi, barcola, savinho, osimhen, others",
     "barcelona youngster completes loan move with buy option to spanish club \u2013 romano",
-    "liverpool want two members of psg\u2019s forward line"
+    "liverpool want two members of psg\u2019s forward line",
+    "barcelona star to give up shirt number for rodri after man city legend\u2019s request"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2516,13 +2516,13 @@
     "suzuki": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/ZION_SUZUKI_-_JPN_vs_THA_-_Friendly_Match_-_2024.01.01.jpg/330px-ZION_SUZUKI_-_JPN_vs_THA_-_Friendly_Match_-_2024.01.01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "rodrigo mora": "https://r2.thesportsdb.com/images/media/player/cutout/t8dncf1750440274.png/small",
     "nico elvedi": "https://r2.thesportsdb.com/images/media/player/cutout/aelb5v1756313277.png/small",
-    "hermann malonga": "",
     "tommy marques": "",
     "dastan satpayev": "",
     "heaven kilwa": "",
-    "said el mala": ""
+    "said el mala": "",
+    "hermann malonga": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 5,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

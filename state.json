@@ -1,7 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/64095",
-    "aa9c51591f52dabb5bc6b72bc14c53da",
     "f592003bda50d2952d2ff18d4541cbed",
     "86ac982fc0bb405f6d3a702f1c8661e2",
     "bdbba9427e98a250b49cf5bd1d6d030c",
@@ -1499,7 +1497,9 @@
     "c16372b450f9bedf8d58135d743b94c7",
     "21ead2d451b94d1c4991fa0293911d10",
     "565e368ca701c2f63fcd97452c57a925",
-    "b3f8138610d2ea19fbdd643523a2f82f"
+    "b3f8138610d2ea19fbdd643523a2f82f",
+    "37b8a41dcd04417ba1ccd23d46c92247",
+    "c2c3b5ddc101c55ebc0e5a85b54a8139"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1920,7 +1920,6 @@
     "interest: moreira -> milan"
   ],
   "titles": [
-    "fabrizio romano reveals liverpool decision on rio ngumoha sale as barcola deal a",
     "como make initial approach for chelsea striker liam delap: details",
     "transfer updates: osimhen, gakpo, rodri, kounde, wharton, others",
     "ruben amorim's desire to offload ac milan star could be sign for ineos to reigni",
@@ -2219,7 +2218,8 @@
     "midfielder could be on the move as liverpool and la liga side open talks over po",
     "video: vicario arrives to start juventus medical, loan from tottenham",
     "liverpool transfer news: la liga club 'open talks' to sign versatile reds midfie",
-    "forgotten chelsea winger diego moreira \u2018agrees \u00a347 5m transfer to ruben amorim\u2019s"
+    "forgotten chelsea winger diego moreira \u2018agrees \u00a347 5m transfer to ruben amorim\u2019s",
+    "viktor gyokeres offered arsenal escape route after worrying summer form: report"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2516,13 +2516,13 @@
     "suzuki": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/ZION_SUZUKI_-_JPN_vs_THA_-_Friendly_Match_-_2024.01.01.jpg/330px-ZION_SUZUKI_-_JPN_vs_THA_-_Friendly_Match_-_2024.01.01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "rodrigo mora": "https://r2.thesportsdb.com/images/media/player/cutout/t8dncf1750440274.png/small",
     "nico elvedi": "https://r2.thesportsdb.com/images/media/player/cutout/aelb5v1756313277.png/small",
-    "heaven kilwa": "",
     "said el mala": "",
     "hermann malonga": "",
     "tommy marques": "",
-    "dastan satpayev": ""
+    "dastan satpayev": "",
+    "heaven kilwa": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

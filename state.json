@@ -1,6 +1,5 @@
 {
   "sent": [
-    "2d53d35cba2c6ff073745413de82b6e3",
     "tg:FabrizioRomanoTG/64103",
     "tg:FabrizioRomanoTG/64104",
     "d71b3b7cac2a77d127dcfe8341820daa",
@@ -1499,7 +1498,8 @@
     "tg:FabrizioRomanoTG/64831",
     "tg:FabrizioRomanoTG/64833",
     "tg:FabrizioRomanoTG/64834",
-    "tg:FabrizioRomanoTG/64838"
+    "tg:FabrizioRomanoTG/64838",
+    "tg:FabrizioRomanoTG/64841"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1921,7 +1921,6 @@
     "interest: endrick -> milan"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83c\uddf8\ud83c\udde6 al qadsiah and manchester city are set to exchange documents today for tijj",
     "ac milan: former chelsea stars feature in ruben amorim 'bomb squad' ahead of man",
     "borussia dortmund hold talks to sign 20 year old barcelona defender \u2013 report",
     "borussia dortmund hold talks to sign 20 year old barcelona defender",
@@ -2220,7 +2219,8 @@
     "\ud83d\udd35 \ud83d\udd34 \ud83d\udd10 rodri has signed his contract as new barcelona player until june 2030 \u2014 fa",
     "\ud83d\udea8 \u26aa\ufe0f jose mourinho, officially presented by president florentino perez as new re",
     "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 \u201ci am so, so happy it\u2019s a dream\u201d rodri has signed with barcelona until jun",
-    "\u26aa\ufe0f \ud83d\udd25 jose mourinho: \u201ci am here to work for real madrid everyone should follow th"
+    "\u26aa\ufe0f \ud83d\udd25 jose mourinho: \u201ci am here to work for real madrid everyone should follow th",
+    "\ud83d\udea8 \u26aa\ufe0f jose mourinho: \u201ci feel this is a mission it goes beyond words\u201d \u201ci am here t"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2517,13 +2517,13 @@
     "rodrigo mora": "https://r2.thesportsdb.com/images/media/player/cutout/t8dncf1750440274.png/small",
     "nico elvedi": "https://r2.thesportsdb.com/images/media/player/cutout/aelb5v1756313277.png/small",
     "endrick": "https://r2.thesportsdb.com/images/media/player/cutout/5yb3rv1733653315.png/small",
-    "heaven kilwa": "",
     "said el mala": "",
     "hermann malonga": "",
     "tommy marques": "",
-    "dastan satpayev": ""
+    "dastan satpayev": "",
+    "heaven kilwa": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

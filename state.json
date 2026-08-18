@@ -1,6 +1,5 @@
 {
   "sent": [
-    "bd66af0153cbe83a25945ab44591be45",
     "1240f103306ebd446640f22fd90f7daf",
     "tg:FabrizioRomanoTG/64074",
     "5b5ffe9eb10807744b7f7b052380d405",
@@ -1499,7 +1498,8 @@
     "tg:FabrizioRomanoTG/64811",
     "tg:FabrizioRomanoTG/64813",
     "c3622ba9549422a705de90dfaff02382",
-    "b6dca0416c608074f853117620012a5b"
+    "b6dca0416c608074f853117620012a5b",
+    "0b855f517457a3b8400ff98024929561"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1728,7 +1728,8 @@
     "favasuli -> napoli": 1,
     "moreira -> milan": 1,
     "yaakobishvili -> ud almeria": 2,
-    "mora -> as roma": 1
+    "mora -> as roma": 1,
+    "elvedi -> leeds": 1
   },
   "interest": [
     "interest: alvarez -> arsenal",
@@ -1919,7 +1920,6 @@
     "interest: moreira -> milan"
   ],
   "titles": [
-    "offer made: arsenal approached over loan with view to permanent \u20ac40m transfer",
     "arsenal hold talks over osimhen deal",
     "leao and seven other unwanted milan players left out of squad for man united",
     "romano confirms medical for \u20ac50m psg signing in the coming days",
@@ -2218,7 +2218,8 @@
     "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f fc porto are ready to advance and try close santi gimenez deal soon as fi",
     "\ud83d\udea8 \ud83d\udfe1 \ud83d\udd34 after rodrigo mora deal done, as roma will now decide whether they want to",
     "psg make fresh decision on barcola asking price as romano reveals liverpool \u2018agr",
-    "ibrahim mbaye wants liverpool transfer as talks opened"
+    "ibrahim mbaye wants liverpool transfer as talks opened",
+    "borussia monchengladbach defender nico elvedi set to be unveiled at leeds shortl"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2514,13 +2515,14 @@
     "aron yaakobishvili": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/%C3%81ron_Yaakobishvili_2025.jpg/330px-%C3%81ron_Yaakobishvili_2025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "suzuki": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/ZION_SUZUKI_-_JPN_vs_THA_-_Friendly_Match_-_2024.01.01.jpg/330px-ZION_SUZUKI_-_JPN_vs_THA_-_Friendly_Match_-_2024.01.01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "rodrigo mora": "https://r2.thesportsdb.com/images/media/player/cutout/t8dncf1750440274.png/small",
-    "heaven kilwa": "",
     "said el mala": "",
     "hermann malonga": "",
     "tommy marques": "",
-    "dastan satpayev": ""
+    "dastan satpayev": "",
+    "nico elvedi": "https://r2.thesportsdb.com/images/media/player/cutout/aelb5v1756313277.png/small",
+    "heaven kilwa": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",
@@ -2676,6 +2678,7 @@
     "fk crvena zvezda": "https://r2.thesportsdb.com/images/media/team/badge/osgmbz1781157114.png/small",
     "paok": "https://r2.thesportsdb.com/images/media/team/badge/m15zsh1602774126.png/small",
     "catanzaro": "https://r2.thesportsdb.com/images/media/team/badge/byrc5e1691995858.png/small",
-    "ud almeria": "https://r2.thesportsdb.com/images/media/team/badge/yswsww1473503818.png/small"
+    "ud almeria": "https://r2.thesportsdb.com/images/media/team/badge/yswsww1473503818.png/small",
+    "borussia monchengladbach": "https://r2.thesportsdb.com/images/media/team/badge/sysurw1473453380.png/small"
   }
 }

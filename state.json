@@ -1,6 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/64080",
     "tg:FabrizioRomanoTG/64083",
     "edb1344fb55c9b3d2014a7f2ec40c3b7",
     "tg:FabrizioRomanoTG/64084",
@@ -1499,7 +1498,8 @@
     "d07a6e19d74d046dc03dcd8a56521a86",
     "e832f9dea88c1e1ff2b71e42fb7b2b64",
     "bfa2e97ff30b2c1f4b617da6f0f4be1b",
-    "8b66e2e94a4e9c51b2b1fa2d7197c720"
+    "8b66e2e94a4e9c51b2b1fa2d7197c720",
+    "14373c44f6079a9d5499b4d8927fb164"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1920,7 +1920,6 @@
     "interest: moreira -> milan"
   ],
   "titles": [
-    "fc barcelona shortlist luis suarez as alternative to julian alvarez amid transfe",
     "psg transfer push accelerates as torres deal is agreed and godts talks near brea",
     "como approach chelsea for delap after securing \u20ac30m chalobah deal",
     "man utd step up efforts to sign arsenal target jarell quansah as liverpool clear",
@@ -2219,7 +2218,8 @@
     "\u2018here we go!\u2019 juventus complete breakthrough deal to sign 29yo from tottenham ho",
     "fermin lopez given new barcelona squad number ahead of rodri\u2019s arrival",
     "ethan nwaneri transfer race heats up as premier league clubs join italian and ge",
-    "atletico madrid move into position for premier league striker who could be a per"
+    "atletico madrid move into position for premier league striker who could be a per",
+    "liverpool in \u2018talks\u2019 to offload star andoni iraola \u2018likes a lot\u2019 \u2013 top sources"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2516,13 +2516,13 @@
     "suzuki": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/ZION_SUZUKI_-_JPN_vs_THA_-_Friendly_Match_-_2024.01.01.jpg/330px-ZION_SUZUKI_-_JPN_vs_THA_-_Friendly_Match_-_2024.01.01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "rodrigo mora": "https://r2.thesportsdb.com/images/media/player/cutout/t8dncf1750440274.png/small",
     "nico elvedi": "https://r2.thesportsdb.com/images/media/player/cutout/aelb5v1756313277.png/small",
-    "hermann malonga": "",
     "tommy marques": "",
     "dastan satpayev": "",
     "heaven kilwa": "",
-    "said el mala": ""
+    "said el mala": "",
+    "hermann malonga": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 5,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

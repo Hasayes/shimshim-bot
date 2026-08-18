@@ -1,7 +1,5 @@
 {
   "sent": [
-    "1240f103306ebd446640f22fd90f7daf",
-    "tg:FabrizioRomanoTG/64074",
     "5b5ffe9eb10807744b7f7b052380d405",
     "b68637ec485a09694169e215a1d79f14",
     "c9095863220dc2fad32a00e51403f859",
@@ -1499,7 +1497,9 @@
     "tg:FabrizioRomanoTG/64813",
     "c3622ba9549422a705de90dfaff02382",
     "b6dca0416c608074f853117620012a5b",
-    "0b855f517457a3b8400ff98024929561"
+    "0b855f517457a3b8400ff98024929561",
+    "09f0e23fc6a06644cee40bf19c238fe3",
+    "35e8668c1d2451a04b81d7ec62448363"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1920,8 +1920,6 @@
     "interest: moreira -> milan"
   ],
   "titles": [
-    "arsenal hold talks over osimhen deal",
-    "leao and seven other unwanted milan players left out of squad for man united",
     "romano confirms medical for \u20ac50m psg signing in the coming days",
     "barcelona consider \u20ac80m sporting star as julian alvarez alternative",
     "'deal is on' romano confirms new liverpool talks to sign bradley barcola",
@@ -2219,7 +2217,9 @@
     "\ud83d\udea8 \ud83d\udfe1 \ud83d\udd34 after rodrigo mora deal done, as roma will now decide whether they want to",
     "psg make fresh decision on barcola asking price as romano reveals liverpool \u2018agr",
     "ibrahim mbaye wants liverpool transfer as talks opened",
-    "borussia monchengladbach defender nico elvedi set to be unveiled at leeds shortl"
+    "borussia monchengladbach defender nico elvedi set to be unveiled at leeds shortl",
+    "prem clubs \u2018coming\u2019 for arsenal ace as sale decision reached and two suitors nam",
+    "prem clubs 'coming' for arsenal ace as sale decision reached and two suitors nam"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2515,14 +2515,14 @@
     "aron yaakobishvili": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/%C3%81ron_Yaakobishvili_2025.jpg/330px-%C3%81ron_Yaakobishvili_2025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "suzuki": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/ZION_SUZUKI_-_JPN_vs_THA_-_Friendly_Match_-_2024.01.01.jpg/330px-ZION_SUZUKI_-_JPN_vs_THA_-_Friendly_Match_-_2024.01.01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "rodrigo mora": "https://r2.thesportsdb.com/images/media/player/cutout/t8dncf1750440274.png/small",
-    "said el mala": "",
     "hermann malonga": "",
     "tommy marques": "",
     "dastan satpayev": "",
     "nico elvedi": "https://r2.thesportsdb.com/images/media/player/cutout/aelb5v1756313277.png/small",
-    "heaven kilwa": ""
+    "heaven kilwa": "",
+    "said el mala": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

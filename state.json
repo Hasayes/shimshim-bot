@@ -1,6 +1,5 @@
 {
   "sent": [
-    "b88966b23cefa372ac563e5b189de0df",
     "fe6640b9c48627d0a06ec87910e9814b",
     "4a03c548f3659a681ca963192a816aef",
     "862fb4095362ae79dcacde14b9c61f15",
@@ -1499,7 +1498,8 @@
     "tg:FabrizioRomanoTG/64822",
     "dc7ac054e8d4efd43187f3d910433f9e",
     "6f2238009a868e12d4dc7711ee94c1a2",
-    "9fae2bf3efe35a55afb76d0b5e6c7c1d"
+    "9fae2bf3efe35a55afb76d0b5e6c7c1d",
+    "29a06d212fa0518e3b40324997b0d4b7"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1921,7 +1921,6 @@
     "interest: endrick -> milan"
   ],
   "titles": [
-    "bradley barcola transfer alternative off the table after devastating injury news",
     "fabrizio romano: tottenham 'movement expected' to sign savinho and gakpo",
     "arsenal handed julian alvarez boost as barcelona 'include viktor gyokeres replac",
     "barcelona\u2019s priority striker target has been julian alvarez all summer",
@@ -2220,7 +2219,8 @@
     "fabrizio romano confirms bruno fernandes \u2018talks\u2019 as man utd respond to galatasar",
     "\ud83d\udea8 \ud83c\uddf8\ud83c\udde6 tijjani reijnders, in saudi arabia today as al qadsiah deal is completed be",
     "romano reveals new bid coming for liverpool star as reds target agrees terms",
-    "ac milan make move for endrick as real madrid deliver huge response to loan prop"
+    "ac milan make move for endrick as real madrid deliver huge response to loan prop",
+    "psg wonderkid ibrahim mbaye agrees personal terms with liverpool tribalfootball"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2484,7 +2484,6 @@
     "divin mubama": "https://r2.thesportsdb.com/images/media/player/cutout/g1avfr1761251337.png/small",
     "backup goalkeeper": "",
     "gero": "",
-    "endrick": "",
     "romelu lukaku": "https://r2.thesportsdb.com/images/media/player/cutout/qi2z1d1764089572.png/small",
     "kalvin phillips": "https://r2.thesportsdb.com/images/media/player/cutout/vokeo81755870309.png/small",
     "max alleyne": "https://r2.thesportsdb.com/images/media/player/cutout/4iimzs1769182989.png/small",
@@ -2521,9 +2520,10 @@
     "dastan satpayev": "",
     "heaven kilwa": "",
     "said el mala": "",
-    "hermann malonga": ""
+    "hermann malonga": "",
+    "endrick": "https://r2.thesportsdb.com/images/media/player/cutout/5yb3rv1733653315.png/small"
   },
-  "photo_repair_idx": 6,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

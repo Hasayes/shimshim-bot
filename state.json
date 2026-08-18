@@ -1,6 +1,5 @@
 {
   "sent": [
-    "82b17111be67b861b11f04461347a67d",
     "11d2a044f121bedf4884976c483d64ea",
     "2226906b53ca3d8bcae5e0e74d22dfd3",
     "e1d6a9817f0fe4e4d41be8eda1973783",
@@ -1499,7 +1498,8 @@
     "tg:FabrizioRomanoTG/64848",
     "tg:FabrizioRomanoTG/64849",
     "tg:FabrizioRomanoTG/64850",
-    "9c0b2bc1b12efea8262b7d1f2b0277f2"
+    "9c0b2bc1b12efea8262b7d1f2b0277f2",
+    "tg:FabrizioRomanoTG/64852"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1921,7 +1921,6 @@
     "interest: endrick -> milan"
   ],
   "titles": [
-    "liverpool to launch opening bid in deal fabrizio romano claimed was \u2018off\u2019",
     "romero bids farewell to spurs ahead of atletico move",
     "savinho fuels transfer speculation after modifying social media profile",
     "rt @fabrizioromano : \ud83d\udd34 \ud83d\udd35 \ud83d\udc4b\ud83c\udffc ferran torres and mika godts are both in paris right",
@@ -2220,7 +2219,8 @@
     "\ud83d\udea8 \u26a0\ufe0f dayann methalie returns to france after medical at sunderland as he doesn\u2019t",
     "\ud83d\udea8 \ud83e\ude77 \ud83d\udda4 palermo are in club to club talks to sign mattia perin from juventus as ne",
     "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 official: rodri joins barcelona on \u20ac60m plus \u20ac15m add ons deal from man ci",
-    "liverpool latest: bradley barcola 'discount offered' as details of failed bid re"
+    "liverpool latest: bradley barcola 'discount offered' as details of failed bid re",
+    "\ud83d\udea8 \ud83d\udfe3 \ud83d\udd35 breaking: aston villa agree deal to sign aaron wan bissaka from west ham, "
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2517,13 +2517,13 @@
     "rodrigo mora": "https://r2.thesportsdb.com/images/media/player/cutout/t8dncf1750440274.png/small",
     "nico elvedi": "https://r2.thesportsdb.com/images/media/player/cutout/aelb5v1756313277.png/small",
     "endrick": "https://r2.thesportsdb.com/images/media/player/cutout/5yb3rv1733653315.png/small",
-    "said el mala": "",
     "hermann malonga": "",
     "tommy marques": "",
     "dastan satpayev": "",
-    "heaven kilwa": ""
+    "heaven kilwa": "",
+    "said el mala": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

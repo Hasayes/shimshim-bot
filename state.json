@@ -1,6 +1,5 @@
 {
   "sent": [
-    "c403271117377575894cfe0828db4d4d",
     "e81e5ff25162251ef376bd3131891ed2",
     "b35abe2bb1fd43072c9bbe74bfc60ed5",
     "8c40f3c0c68e34a54a8ec378732e926a",
@@ -1499,7 +1498,8 @@
     "cf0f072fc4acf09b6761e72dcb4ee1ff",
     "13dd504c06cb0d636ee5f4d9055719bf",
     "0be91f0a90768350a870a1bdf9d981c5",
-    "458d3d879eee442408e34db2c0379059"
+    "458d3d879eee442408e34db2c0379059",
+    "2bf438bf532ddfdfe81f83c55bb720de"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1922,7 +1922,6 @@
     "interest: endrick -> milan"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83d\udfe3 \ud83d\udd35 aston villa have already made formal approach with parma for zion suzuki #",
     "bayern munich news: did real madrid\u2019s yan diomande pave way for michael olise to",
     "\ud83d\udea8 \ud83e\ude75 \ud83e\udd0d exclusive: coventry city agree deal to sign taiwo awoniyi from nottingham ",
     "\ud83d\udea8 \ud83d\udd34 marcus rashford has made his official comeback at manchester united after lo",
@@ -2221,7 +2220,8 @@
     "liverpool expected to bid for bradley barcola this week this is anfield",
     "romano reveals gavi decision on joining man utd from barcelona for \u00a347m",
     "romano reveals gavi decision on joining man utd from barcelona for \u00a347m teamtalk",
-    "inter\u2019s \u20ac20m offer falls short for liverpool\u2019s curtis jones"
+    "inter\u2019s \u20ac20m offer falls short for liverpool\u2019s curtis jones",
+    "video: fresh italy debutant favasuli arrives for napoli medical"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2519,13 +2519,13 @@
     "nico elvedi": "https://r2.thesportsdb.com/images/media/player/cutout/aelb5v1756313277.png/small",
     "endrick": "https://r2.thesportsdb.com/images/media/player/cutout/5yb3rv1733653315.png/small",
     "aaron wan bissaka": "https://r2.thesportsdb.com/images/media/player/cutout/xdt9hb1756984581.png/small",
-    "heaven kilwa": "",
     "said el mala": "",
     "hermann malonga": "",
     "tommy marques": "",
-    "dastan satpayev": ""
+    "dastan satpayev": "",
+    "heaven kilwa": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

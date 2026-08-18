@@ -1,6 +1,5 @@
 {
   "sent": [
-    "87ac999cbc7523c91d9841e81579cc09",
     "abd2314904ee3dcb25de916d75834985",
     "4848faa053eb3819c239dc82dea758a6",
     "0415e582da7d344cba6119b32b2cdcae",
@@ -1499,7 +1498,8 @@
     "75710b6bedbc50906c86f61cf3e98763",
     "3de00a4ba86f3ae1e33cea218d74aabc",
     "1e592aece86b63fce1429d6bfd618d6b",
-    "1dbae230628a2bd719f82327b01d67ab"
+    "1dbae230628a2bd719f82327b01d67ab",
+    "aac3e23ec2157f79ac575be21d122737"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1920,7 +1920,6 @@
     "interest: moreira -> milan"
   ],
   "titles": [
-    "\ud83d\udea8 reports: 19 goals in 2 bundesliga, top flight club signs futkeu",
     "como consider loan for chelsea\u2019s liam delap after player offered to italian side",
     "alexis mac allister reaches decision on leaving liverpool to join man city amid ",
     "ajax reach verbal agreement to sell mika godts to psg for \u20ac55 million",
@@ -2219,7 +2218,8 @@
     "man united captain and star man bruno fernandes could 'end his career' at old tr",
     "liverpool agree transfer deal for psg forward liverpool fc",
     "transfer news and rumours today: destiny udogie eyed by serie a giant, joey veer",
-    "liverpool 'agree 5 year contract' with psg prodigy as transfer talks advance rus"
+    "liverpool 'agree 5 year contract' with psg prodigy as transfer talks advance rus",
+    "reports: juventus, tottenham hotspur agree to loan deal for guglielmo vicario"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2516,13 +2516,13 @@
     "suzuki": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/ZION_SUZUKI_-_JPN_vs_THA_-_Friendly_Match_-_2024.01.01.jpg/330px-ZION_SUZUKI_-_JPN_vs_THA_-_Friendly_Match_-_2024.01.01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "rodrigo mora": "https://r2.thesportsdb.com/images/media/player/cutout/t8dncf1750440274.png/small",
     "nico elvedi": "https://r2.thesportsdb.com/images/media/player/cutout/aelb5v1756313277.png/small",
-    "heaven kilwa": "",
     "said el mala": "",
     "hermann malonga": "",
     "tommy marques": "",
-    "dastan satpayev": ""
+    "dastan satpayev": "",
+    "heaven kilwa": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

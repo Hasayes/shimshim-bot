@@ -1,6 +1,5 @@
 {
   "sent": [
-    "b68637ec485a09694169e215a1d79f14",
     "c9095863220dc2fad32a00e51403f859",
     "d7f05b5bb4bb4a0d25e3d0f288f17527",
     "7027a74ef4f6f3464db98af1cfa631c5",
@@ -1499,7 +1498,8 @@
     "0b855f517457a3b8400ff98024929561",
     "09f0e23fc6a06644cee40bf19c238fe3",
     "35e8668c1d2451a04b81d7ec62448363",
-    "38800517207732fd6135d4205cb25822"
+    "38800517207732fd6135d4205cb25822",
+    "04432498c0352da324ad939347135c73"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1920,7 +1920,6 @@
     "interest: moreira -> milan"
   ],
   "titles": [
-    "barcelona consider \u20ac80m sporting star as julian alvarez alternative",
     "'deal is on' romano confirms new liverpool talks to sign bradley barcola",
     "borussia dortmund end said el mala pursuit after fourth bid is rejected",
     "tottenham join race to sign \u00a370m chelsea star ahead of manchester city",
@@ -2219,7 +2218,8 @@
     "borussia monchengladbach defender nico elvedi set to be unveiled at leeds shortl",
     "prem clubs \u2018coming\u2019 for arsenal ace as sale decision reached and two suitors nam",
     "prem clubs 'coming' for arsenal ace as sale decision reached and two suitors nam",
-    "rodri asks barcelona player to give up his shirt number"
+    "rodri asks barcelona player to give up his shirt number",
+    "report moreira ready for milan in sudden \u20ac50m swoop"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2515,14 +2515,14 @@
     "aron yaakobishvili": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/%C3%81ron_Yaakobishvili_2025.jpg/330px-%C3%81ron_Yaakobishvili_2025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "suzuki": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/ZION_SUZUKI_-_JPN_vs_THA_-_Friendly_Match_-_2024.01.01.jpg/330px-ZION_SUZUKI_-_JPN_vs_THA_-_Friendly_Match_-_2024.01.01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "rodrigo mora": "https://r2.thesportsdb.com/images/media/player/cutout/t8dncf1750440274.png/small",
-    "tommy marques": "",
     "dastan satpayev": "",
     "nico elvedi": "https://r2.thesportsdb.com/images/media/player/cutout/aelb5v1756313277.png/small",
     "heaven kilwa": "",
     "said el mala": "",
-    "hermann malonga": ""
+    "hermann malonga": "",
+    "tommy marques": ""
   },
-  "photo_repair_idx": 5,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

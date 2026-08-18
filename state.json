@@ -1,6 +1,5 @@
 {
   "sent": [
-    "2226906b53ca3d8bcae5e0e74d22dfd3",
     "e1d6a9817f0fe4e4d41be8eda1973783",
     "4cf5a9363f39388d9b7d9e7888f04d38",
     "e1bcac702090b1bbd6e78b2af7339fdc",
@@ -1499,7 +1498,8 @@
     "tg:FabrizioRomanoTG/64850",
     "9c0b2bc1b12efea8262b7d1f2b0277f2",
     "tg:FabrizioRomanoTG/64852",
-    "tg:FabrizioRomanoTG/64855"
+    "tg:FabrizioRomanoTG/64855",
+    "tg:FabrizioRomanoTG/64860"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1922,7 +1922,6 @@
     "interest: endrick -> milan"
   ],
   "titles": [
-    "savinho fuels transfer speculation after modifying social media profile",
     "rt @fabrizioromano : \ud83d\udd34 \ud83d\udd35 \ud83d\udc4b\ud83c\udffc ferran torres and mika godts are both in paris right",
     "\u2018i know i wasn\u2019t perfect\u2019 \u2013 cristian romero issues farewell message to tottenham",
     "\u2764\ufe0f \ud83d\udc99 \ud83c\uddea\ud83c\uddf8 official, confirmed paris saint germain sign ferran torres from barcelon",
@@ -2221,7 +2220,8 @@
     "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 official: rodri joins barcelona on \u20ac60m plus \u20ac15m add ons deal from man ci",
     "liverpool latest: bradley barcola 'discount offered' as details of failed bid re",
     "\ud83d\udea8 \ud83d\udfe3 \ud83d\udd35 breaking: aston villa agree deal to sign aaron wan bissaka from west ham, ",
-    "rt @fabrizioromano : \ud83d\udea8 \ud83d\udfe3 \ud83d\udd35 breaking: aston villa agree deal to sign aaron wan bi"
+    "rt @fabrizioromano : \ud83d\udea8 \ud83d\udfe3 \ud83d\udd35 breaking: aston villa agree deal to sign aaron wan bi",
+    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f alessandro circati to benfica, here we go! deal in place for \u20ac20m plus ad"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2518,14 +2518,14 @@
     "rodrigo mora": "https://r2.thesportsdb.com/images/media/player/cutout/t8dncf1750440274.png/small",
     "nico elvedi": "https://r2.thesportsdb.com/images/media/player/cutout/aelb5v1756313277.png/small",
     "endrick": "https://r2.thesportsdb.com/images/media/player/cutout/5yb3rv1733653315.png/small",
-    "tommy marques": "",
     "dastan satpayev": "",
     "heaven kilwa": "",
     "said el mala": "",
     "aaron wan bissaka": "https://r2.thesportsdb.com/images/media/player/cutout/xdt9hb1756984581.png/small",
-    "hermann malonga": ""
+    "hermann malonga": "",
+    "tommy marques": ""
   },
-  "photo_repair_idx": 5,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

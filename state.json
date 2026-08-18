@@ -1,7 +1,5 @@
 {
   "sent": [
-    "2972cfc6e0dae05257c41dc792e7c69a",
-    "96b1b5dc665321af20cb7f22423e3687",
     "387cde712afb59e8f4ac26fc891b1a95",
     "4427a2a20de49125dac4542da8145f8d",
     "87ac999cbc7523c91d9841e81579cc09",
@@ -1499,7 +1497,9 @@
     "2f7ab31d4ea029d38958206549dc90fa",
     "24936c197ef2777e55d25f25672fde6c",
     "d1cc08490bfe4cd980c8ec0cb38a6399",
-    "tg:FabrizioRomanoTG/64817"
+    "tg:FabrizioRomanoTG/64817",
+    "75710b6bedbc50906c86f61cf3e98763",
+    "3de00a4ba86f3ae1e33cea218d74aabc"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1920,8 +1920,6 @@
     "interest: moreira -> milan"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f exclusive: brentford agree deal to sign 18 year old midfielder darwin gua",
-    "psg complete signing that could aid liverpool in pursuit of bradley barcola: rep",
     "days after trevoh chalobah transfer, como approach chelsea over deal to sign att",
     "arteta makes nwaneri admission after milan approach for 19 year old talent",
     "\ud83d\udea8 reports: 19 goals in 2 bundesliga, top flight club signs futkeu",
@@ -2219,7 +2217,9 @@
     "liverpool transfer news: fabrizio romano confirms amazing double deal is now pos",
     "tottenham suffer transfer setback as saudi giants schedule direct talks for summ",
     "manchester united face bruno fernandes transfer challenge with 'offer prepared'",
-    "\ud83d\udea8 \ud83d\ude9c excl: ipswich town have sent new official bid to bayer leverkusen for exequi"
+    "\ud83d\udea8 \ud83d\ude9c excl: ipswich town have sent new official bid to bayer leverkusen for exequi",
+    "man united captain and star man bruno fernandes could 'end his career' at old tr",
+    "liverpool agree transfer deal for psg forward liverpool fc"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2516,13 +2516,13 @@
     "suzuki": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/ZION_SUZUKI_-_JPN_vs_THA_-_Friendly_Match_-_2024.01.01.jpg/330px-ZION_SUZUKI_-_JPN_vs_THA_-_Friendly_Match_-_2024.01.01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "rodrigo mora": "https://r2.thesportsdb.com/images/media/player/cutout/t8dncf1750440274.png/small",
     "nico elvedi": "https://r2.thesportsdb.com/images/media/player/cutout/aelb5v1756313277.png/small",
-    "hermann malonga": "",
     "tommy marques": "",
     "dastan satpayev": "",
     "heaven kilwa": "",
-    "said el mala": ""
+    "said el mala": "",
+    "hermann malonga": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 5,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

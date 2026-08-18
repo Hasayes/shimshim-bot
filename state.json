@@ -1,7 +1,5 @@
 {
   "sent": [
-    "c058ef6fbe6aa6927c2c7492d45b11c2",
-    "c0cf65d8cda04a280c1bba73a9e478bc",
     "b88966b23cefa372ac563e5b189de0df",
     "fe6640b9c48627d0a06ec87910e9814b",
     "4a03c548f3659a681ca963192a816aef",
@@ -1499,7 +1497,9 @@
     "c0a6583bb668fb2f43f54428ef796d24",
     "b3594c7a9fc527141803f5e497ca9a02",
     "tg:FabrizioRomanoTG/64822",
-    "dc7ac054e8d4efd43187f3d910433f9e"
+    "dc7ac054e8d4efd43187f3d910433f9e",
+    "6f2238009a868e12d4dc7711ee94c1a2",
+    "9fae2bf3efe35a55afb76d0b5e6c7c1d"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1917,10 +1917,10 @@
     "interest: fort -> borussia dortmund",
     "interest: martinez -> juventus",
     "interest: kostov -> milan",
-    "interest: moreira -> milan"
+    "interest: moreira -> milan",
+    "interest: endrick -> milan"
   ],
   "titles": [
-    "ornstein: gabriel martinelli makes final decision on arsenal to galatasaray tran",
     "bradley barcola transfer alternative off the table after devastating injury news",
     "fabrizio romano: tottenham 'movement expected' to sign savinho and gakpo",
     "arsenal handed julian alvarez boost as barcelona 'include viktor gyokeres replac",
@@ -2219,7 +2219,8 @@
     "reports: juventus, tottenham hotspur agree to loan deal for guglielmo vicario",
     "fabrizio romano confirms bruno fernandes \u2018talks\u2019 as man utd respond to galatasar",
     "\ud83d\udea8 \ud83c\uddf8\ud83c\udde6 tijjani reijnders, in saudi arabia today as al qadsiah deal is completed be",
-    "romano reveals new bid coming for liverpool star as reds target agrees terms"
+    "romano reveals new bid coming for liverpool star as reds target agrees terms",
+    "ac milan make move for endrick as real madrid deliver huge response to loan prop"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2522,7 +2523,7 @@
     "said el mala": "",
     "hermann malonga": ""
   },
-  "photo_repair_idx": 5,
+  "photo_repair_idx": 6,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

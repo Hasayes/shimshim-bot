@@ -1,5 +1,25 @@
 [
  {
+  "id": "6f2238009a868e12d4dc7711ee94c1a2",
+  "ts": "2026-08-18T10:31:29+00:00",
+  "kind": "interest",
+  "photo": "",
+  "stage": "\u2014",
+  "player": "Endrick",
+  "position": "Forward",
+  "age": "19",
+  "from_club": "Real Madrid",
+  "to_club": "AC Milan",
+  "fee": "Undisclosed",
+  "style": "An explosive, direct forward with pace, technical ability and a natural instinct for goal.",
+  "fit": "Would provide AC Milan with a dynamic attacking threat, though Real Madrid have rejected the loan approach and no deal is currently close.",
+  "source": "Fabrizio Romano",
+  "summary": "AC Milan owner Gerry Cardinale personally contacted Real Madrid and Endrick's agents to explore a loan move, but Real Madrid swiftly rejected the proposal. AS Roma made a similar approach and received the same negative response, with Endrick himself reportedly keen to fight for his place at the Bernab\u00e9u.",
+  "outlet": "yardbarker",
+  "url": "https://www.yardbarker.com/soccer/articles/ac_milan_make_move_for_endrick_as_real_madrid_deliver_huge_response_to_loan_proposal/s1_17664_44187636",
+  "title": "AC Milan make move for Endrick as Real Madrid deliver huge response to loan proposal"
+ },
+ {
   "id": "0b855f517457a3b8400ff98024929561",
   "ts": "2026-08-18T00:31:23+00:00",
   "kind": "deal",

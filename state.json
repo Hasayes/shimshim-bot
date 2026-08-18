@@ -1,7 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/64092",
-    "tg:FabrizioRomanoTG/64094",
     "tg:FabrizioRomanoTG/64095",
     "aa9c51591f52dabb5bc6b72bc14c53da",
     "f592003bda50d2952d2ff18d4541cbed",
@@ -1499,7 +1497,9 @@
     "9177b711fc913e997956ff43cbb2d3c2",
     "84adeb003e4a82c28b0266ffc58e874d",
     "c16372b450f9bedf8d58135d743b94c7",
-    "21ead2d451b94d1c4991fa0293911d10"
+    "21ead2d451b94d1c4991fa0293911d10",
+    "565e368ca701c2f63fcd97452c57a925",
+    "b3f8138610d2ea19fbdd643523a2f82f"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1920,7 +1920,6 @@
     "interest: moreira -> milan"
   ],
   "titles": [
-    "como make loan move to sign out of favour chelsea forward",
     "fabrizio romano reveals liverpool decision on rio ngumoha sale as barcola deal a",
     "como make initial approach for chelsea striker liam delap: details",
     "transfer updates: osimhen, gakpo, rodri, kounde, wharton, others",
@@ -2219,7 +2218,8 @@
     "barcelona star to give up shirt number for rodri after man city legend\u2019s request",
     "midfielder could be on the move as liverpool and la liga side open talks over po",
     "video: vicario arrives to start juventus medical, loan from tottenham",
-    "liverpool transfer news: la liga club 'open talks' to sign versatile reds midfie"
+    "liverpool transfer news: la liga club 'open talks' to sign versatile reds midfie",
+    "forgotten chelsea winger diego moreira \u2018agrees \u00a347 5m transfer to ruben amorim\u2019s"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2516,13 +2516,13 @@
     "suzuki": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/ZION_SUZUKI_-_JPN_vs_THA_-_Friendly_Match_-_2024.01.01.jpg/330px-ZION_SUZUKI_-_JPN_vs_THA_-_Friendly_Match_-_2024.01.01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "rodrigo mora": "https://r2.thesportsdb.com/images/media/player/cutout/t8dncf1750440274.png/small",
     "nico elvedi": "https://r2.thesportsdb.com/images/media/player/cutout/aelb5v1756313277.png/small",
-    "dastan satpayev": "",
     "heaven kilwa": "",
     "said el mala": "",
     "hermann malonga": "",
-    "tommy marques": ""
+    "tommy marques": "",
+    "dastan satpayev": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

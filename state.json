@@ -1,6 +1,5 @@
 {
   "sent": [
-    "d909610f529631fca1d42869efa52950",
     "82b17111be67b861b11f04461347a67d",
     "11d2a044f121bedf4884976c483d64ea",
     "2226906b53ca3d8bcae5e0e74d22dfd3",
@@ -1499,7 +1498,8 @@
     "ff364a525548908bff99650a7f0c1ead",
     "tg:FabrizioRomanoTG/64848",
     "tg:FabrizioRomanoTG/64849",
-    "tg:FabrizioRomanoTG/64850"
+    "tg:FabrizioRomanoTG/64850",
+    "9c0b2bc1b12efea8262b7d1f2b0277f2"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1921,7 +1921,6 @@
     "interest: endrick -> milan"
   ],
   "titles": [
-    "arsenal star rejects surprise transfer despite \u20ac45m offer on the table",
     "liverpool to launch opening bid in deal fabrizio romano claimed was \u2018off\u2019",
     "romero bids farewell to spurs ahead of atletico move",
     "savinho fuels transfer speculation after modifying social media profile",
@@ -2220,7 +2219,8 @@
     "bayern munich news: newcastle united to step up chase for fc bayern\u2019s joao palhi",
     "\ud83d\udea8 \u26a0\ufe0f dayann methalie returns to france after medical at sunderland as he doesn\u2019t",
     "\ud83d\udea8 \ud83e\ude77 \ud83d\udda4 palermo are in club to club talks to sign mattia perin from juventus as ne",
-    "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 official: rodri joins barcelona on \u20ac60m plus \u20ac15m add ons deal from man ci"
+    "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 official: rodri joins barcelona on \u20ac60m plus \u20ac15m add ons deal from man ci",
+    "liverpool latest: bradley barcola 'discount offered' as details of failed bid re"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2517,13 +2517,13 @@
     "rodrigo mora": "https://r2.thesportsdb.com/images/media/player/cutout/t8dncf1750440274.png/small",
     "nico elvedi": "https://r2.thesportsdb.com/images/media/player/cutout/aelb5v1756313277.png/small",
     "endrick": "https://r2.thesportsdb.com/images/media/player/cutout/5yb3rv1733653315.png/small",
-    "heaven kilwa": "",
     "said el mala": "",
     "hermann malonga": "",
     "tommy marques": "",
-    "dastan satpayev": ""
+    "dastan satpayev": "",
+    "heaven kilwa": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

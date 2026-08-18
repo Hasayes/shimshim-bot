@@ -1,12 +1,5 @@
 {
   "sent": [
-    "0bf8e775c4df2f904ea447de6fd1a1e2",
-    "2a1821bd2abe7211e9874a98b44eb1ad",
-    "39e5db405fa6563615bd7e935f4dcf40",
-    "7e0df6cbdb315e48dd97f756499527ad",
-    "46743a599d50d6a0695b4174f32dfc10",
-    "edb7d9a1e703111bc9e9d155a4a4c583",
-    "603dee480f7164816b603ec293aeb76c",
     "tg:FabrizioRomanoTG/64105",
     "e1087bbd6a9e6fa298cdf4841201ae56",
     "6884882e3765bcc7e94e0e05217bde87",
@@ -1499,7 +1492,14 @@
     "020256818c6e7c7bbcce99599480321c",
     "tg:FabrizioRomanoTG/64866",
     "tg:FabrizioRomanoTG/64867",
-    "6b5fd07d82bfb32b0c903172640006b6"
+    "6b5fd07d82bfb32b0c903172640006b6",
+    "987575b5ed210571c615762e42fac11d",
+    "db4144ffb636f012a89b471c7846ac32",
+    "8f8b8176c189e5279772ca15414901cf",
+    "499b36fbb5a5f04e7654bf4cf783c589",
+    "c35ff256521e50bf3ff1dc2f509b059d",
+    "e12aecd29632ba4d41081bb730599725",
+    "tg:FabrizioRomanoTG/64868"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1922,13 +1922,6 @@
     "interest: endrick -> milan"
   ],
   "titles": [
-    "liverpool have clear plan if cody gakpo joins tottenham as fabrizio romano revea",
-    "barcelona hold hector fort transfer talks with borussia dortmund",
-    "liverpool\u2019s transfer strategy for winger targets",
-    "\u2018tottenham are in very concrete talks\u2019 \u2013 sky sports jounalist drop exciting tott",
-    "\ud83d\udea8 \ud83c\uddf5\ud83c\uddf9 joao palhinha\u2019s future, still open after bayern rejected conditions offered",
-    "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f newcastle have agreed deal with benfica to sign amar dedic, here we go! ",
-    "rt @fabrizioromano : \ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f newcastle have agreed deal with benfica to sign ama",
     "ac milan's plan to avoid being scratched with santiago gimenez's contract",
     "\ud83d\udea8 enzo fernandez, back on the pitch today at stamford bridge after \u00a3120m \u2018verbal",
     "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 barcelona have submitter their third bid for rodri yesterday, now closer t",
@@ -2221,7 +2214,14 @@
     "liverpool 'offered barcola discount' as agreement reached in psg talks london ev",
     "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f rc strasbourg are advancing to get karim coulibaly deal done with werder ",
     "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f excl: lutsharel geertruida to psv eindhoven, deal now agreed in principle",
-    "barcelona fan favourite\u2019s \u20ac55m manchester united transfer links have no basis \u2013 "
+    "barcelona fan favourite\u2019s \u20ac55m manchester united transfer links have no basis \u2013 ",
+    "arsenal informed of the conditions to sign victor osimhen despite galatasaray's ",
+    "man utd: romano confirms fernandes deal is \u2018advancing\u2019 amid \u00a318 3m galatasaray o",
+    "romano: arsenal make viktor gyokeres decision amid barcelona rumours",
+    "romano confirms fernandes deal is 'advancing' at man utd amid \u00a318 3m galatasaray",
+    "after united's interest: barcelona surprise gavi following rodri's signing!",
+    "al hilal step up pursuit of barcelona midfielder marc casado",
+    "\ud83d\udea8 \ud83d\udca3 jeff stelling to club, here we go! \ud83d\udca3 \ud83d\udea8 agreement reached between the legenda"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2519,13 +2519,13 @@
     "nico elvedi": "https://r2.thesportsdb.com/images/media/player/cutout/aelb5v1756313277.png/small",
     "endrick": "https://r2.thesportsdb.com/images/media/player/cutout/5yb3rv1733653315.png/small",
     "aaron wan bissaka": "https://r2.thesportsdb.com/images/media/player/cutout/xdt9hb1756984581.png/small",
-    "tommy marques": "",
     "dastan satpayev": "",
     "heaven kilwa": "",
     "said el mala": "",
-    "hermann malonga": ""
+    "hermann malonga": "",
+    "tommy marques": ""
   },
-  "photo_repair_idx": 5,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

@@ -1,8 +1,5 @@
 {
   "sent": [
-    "250bfc57519b8d55c204c5a65ac63cc4",
-    "13263c3c01fcb709b3c136e973c6cc79",
-    "38b5e422885552e41305ba94b1daf995",
     "c403271117377575894cfe0828db4d4d",
     "e81e5ff25162251ef376bd3131891ed2",
     "b35abe2bb1fd43072c9bbe74bfc60ed5",
@@ -1499,7 +1496,10 @@
     "20c82f2d086d40e6208a944f5c9e77a0",
     "ab4252ecf347026a992f7409df11ea3d",
     "tg:FabrizioRomanoTG/64872",
-    "cf0f072fc4acf09b6761e72dcb4ee1ff"
+    "cf0f072fc4acf09b6761e72dcb4ee1ff",
+    "13dd504c06cb0d636ee5f4d9055719bf",
+    "0be91f0a90768350a870a1bdf9d981c5",
+    "458d3d879eee442408e34db2c0379059"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1922,9 +1922,6 @@
     "interest: endrick -> milan"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 paris saint germain sources confirm deal off for zion suzuki verbal agreem",
-    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f dayann methalie to sunderland, here we go! verbal agreement in place for ",
-    "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f juventus have asked again today about emiliano martinez situation at ast",
     "\ud83d\udea8 \ud83d\udfe3 \ud83d\udd35 aston villa have already made formal approach with parma for zion suzuki #",
     "bayern munich news: did real madrid\u2019s yan diomande pave way for michael olise to",
     "\ud83d\udea8 \ud83e\ude75 \ud83e\udd0d exclusive: coventry city agree deal to sign taiwo awoniyi from nottingham ",
@@ -2221,7 +2218,10 @@
     "liverpool transfer news: fabrizio romano confirms reds begin talks over midfield",
     "fabrizio romano declares next man utd midfield signing link as \u2018fake news\u2019 footb",
     "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f excl: al hilal submit official bid to aston villa for ollie watkins worth",
-    "liverpool expected to bid for bradley barcola this week this is anfield"
+    "liverpool expected to bid for bradley barcola this week this is anfield",
+    "romano reveals gavi decision on joining man utd from barcelona for \u00a347m",
+    "romano reveals gavi decision on joining man utd from barcelona for \u00a347m teamtalk",
+    "inter\u2019s \u20ac20m offer falls short for liverpool\u2019s curtis jones"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2519,13 +2519,13 @@
     "nico elvedi": "https://r2.thesportsdb.com/images/media/player/cutout/aelb5v1756313277.png/small",
     "endrick": "https://r2.thesportsdb.com/images/media/player/cutout/5yb3rv1733653315.png/small",
     "aaron wan bissaka": "https://r2.thesportsdb.com/images/media/player/cutout/xdt9hb1756984581.png/small",
-    "dastan satpayev": "",
     "heaven kilwa": "",
     "said el mala": "",
     "hermann malonga": "",
-    "tommy marques": ""
+    "tommy marques": "",
+    "dastan satpayev": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

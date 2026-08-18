@@ -1,6 +1,5 @@
 {
   "sent": [
-    "b35abe2bb1fd43072c9bbe74bfc60ed5",
     "8c40f3c0c68e34a54a8ec378732e926a",
     "55906f62f5900546b7481efd5ddd8ec1",
     "ed8eddf1de8581a3a1954eb6a1252441",
@@ -1499,7 +1498,8 @@
     "0be91f0a90768350a870a1bdf9d981c5",
     "458d3d879eee442408e34db2c0379059",
     "2bf438bf532ddfdfe81f83c55bb720de",
-    "d9a42cc80e06f44e67235d33589ec339"
+    "d9a42cc80e06f44e67235d33589ec339",
+    "tg:FabrizioRomanoTG/64876"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1922,7 +1922,6 @@
     "interest: endrick -> milan"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83e\ude75 \ud83e\udd0d exclusive: coventry city agree deal to sign taiwo awoniyi from nottingham ",
     "\ud83d\udea8 \ud83d\udd34 marcus rashford has made his official comeback at manchester united after lo",
     "\ud83d\udd35 \u26aa\ufe0f rangers confirm deal done for james penrice loan with option from aek athen",
     "\ud83d\udea8 \u26ab\ufe0f \ud83d\udd35 official, confirmed djed spence has joined inter on \u20ac35m package deal fro",
@@ -2221,7 +2220,8 @@
     "romano reveals gavi decision on joining man utd from barcelona for \u00a347m teamtalk",
     "inter\u2019s \u20ac20m offer falls short for liverpool\u2019s curtis jones",
     "video: fresh italy debutant favasuli arrives for napoli medical",
-    "\u00a3100m double liverpool exit accelerates as romano confirms new bid imminent"
+    "\u00a3100m double liverpool exit accelerates as romano confirms new bid imminent",
+    "rt @fabrizioromano : \ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f excl: al hilal submit official bid to aston villa fo"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2519,13 +2519,13 @@
     "nico elvedi": "https://r2.thesportsdb.com/images/media/player/cutout/aelb5v1756313277.png/small",
     "endrick": "https://r2.thesportsdb.com/images/media/player/cutout/5yb3rv1733653315.png/small",
     "aaron wan bissaka": "https://r2.thesportsdb.com/images/media/player/cutout/xdt9hb1756984581.png/small",
-    "hermann malonga": "",
     "tommy marques": "",
     "dastan satpayev": "",
     "heaven kilwa": "",
-    "said el mala": ""
+    "said el mala": "",
+    "hermann malonga": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 5,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

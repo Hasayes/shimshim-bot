@@ -1,6 +1,5 @@
 {
   "sent": [
-    "6884882e3765bcc7e94e0e05217bde87",
     "1cf917e36a2d703788c9756377a8fed5",
     "tg:FabrizioRomanoTG/64107",
     "7973861ee232ab0de973c3a09d216272",
@@ -1499,7 +1498,8 @@
     "e12aecd29632ba4d41081bb730599725",
     "tg:FabrizioRomanoTG/64868",
     "69cb26acb56db1d6a377050846a01ce7",
-    "e8077e857961f55d59ff2b6f9b2c7e17"
+    "e8077e857961f55d59ff2b6f9b2c7e17",
+    "20c82f2d086d40e6208a944f5c9e77a0"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1922,7 +1922,6 @@
     "interest: endrick -> milan"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 barcelona have submitter their third bid for rodri yesterday, now closer t",
     "\ud83d\udea8 \ud83d\udfe3 \ud83d\udd35 aston villa and atletico madrid have completed documents exchange for matt",
     "\ud83d\udea8 \ud83d\udfe1 \ud83d\udd35 leeds agree deal with borussia monchengladbach for nico elvedi club to clu",
     "\ud83d\udea8 \u26a0\ufe0f breaking: zion suzuki to paris saint germain deal, on the verge of collapsi",
@@ -2221,7 +2220,8 @@
     "al hilal step up pursuit of barcelona midfielder marc casado",
     "\ud83d\udea8 \ud83d\udca3 jeff stelling to club, here we go! \ud83d\udca3 \ud83d\udea8 agreement reached between the legenda",
     "real madrid reject enquiries for 20 year old talent from italian clubs \u2013 romano",
-    "arsenal make viktor gyokeres transfer decision after victor osimhen approach"
+    "arsenal make viktor gyokeres transfer decision after victor osimhen approach",
+    "liverpool transfer news: fabrizio romano confirms reds begin talks over midfield"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2519,13 +2519,13 @@
     "nico elvedi": "https://r2.thesportsdb.com/images/media/player/cutout/aelb5v1756313277.png/small",
     "endrick": "https://r2.thesportsdb.com/images/media/player/cutout/5yb3rv1733653315.png/small",
     "aaron wan bissaka": "https://r2.thesportsdb.com/images/media/player/cutout/xdt9hb1756984581.png/small",
-    "said el mala": "",
     "hermann malonga": "",
     "tommy marques": "",
     "dastan satpayev": "",
-    "heaven kilwa": ""
+    "heaven kilwa": "",
+    "said el mala": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

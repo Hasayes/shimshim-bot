@@ -1,7 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/64084",
-    "tg:FabrizioRomanoTG/64085",
     "tg:FabrizioRomanoTG/64088",
     "tg:FabrizioRomanoTG/64089",
     "tg:FabrizioRomanoTG/64090",
@@ -1499,7 +1497,9 @@
     "8b66e2e94a4e9c51b2b1fa2d7197c720",
     "14373c44f6079a9d5499b4d8927fb164",
     "938f23b7896ee9c0c0fb99576b8e09a7",
-    "30e3a2b188ec4e1056ca625d5c3f0cbe"
+    "30e3a2b188ec4e1056ca625d5c3f0cbe",
+    "8b2024b17fe7b256a4a2bcb55ca5d76b",
+    "d0783c32ae372263fa9c7a1dcc86a105"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1920,8 +1920,6 @@
     "interest: moreira -> milan"
   ],
   "titles": [
-    "man utd step up efforts to sign arsenal target jarell quansah as liverpool clear",
-    "\u2018package verbally agreed\u2019 \u2013 bradley barcola to liverpool looks imminent after br",
     "bayer leverkusen face premier league pressure as arsenal track quansah and ipswi",
     "tottenham get new savinho update as man city transfer saga rumbles on",
     "psg, ajax reach agreement on mika godts per report",
@@ -2219,7 +2217,9 @@
     "atletico madrid move into position for premier league striker who could be a per",
     "liverpool in \u2018talks\u2019 to offload star andoni iraola \u2018likes a lot\u2019 \u2013 top sources",
     "liverpool \u2018offer\u2019 \u00a356m for real madrid star who will be next signing after bradl",
-    "\ud83d\udcb8 galatasaray leao, roma fofana \ud83e\udde8 di gregorio out: today's deals \ud83e\udd11"
+    "\ud83d\udcb8 galatasaray leao, roma fofana \ud83e\udde8 di gregorio out: today's deals \ud83e\udd11",
+    "transfer updates: gyokeres, zubimendi, barcola, savinho, osimhen, others",
+    "barcelona youngster completes loan move with buy option to spanish club \u2013 romano"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2516,13 +2516,13 @@
     "suzuki": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/ZION_SUZUKI_-_JPN_vs_THA_-_Friendly_Match_-_2024.01.01.jpg/330px-ZION_SUZUKI_-_JPN_vs_THA_-_Friendly_Match_-_2024.01.01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "rodrigo mora": "https://r2.thesportsdb.com/images/media/player/cutout/t8dncf1750440274.png/small",
     "nico elvedi": "https://r2.thesportsdb.com/images/media/player/cutout/aelb5v1756313277.png/small",
-    "heaven kilwa": "",
     "said el mala": "",
     "hermann malonga": "",
     "tommy marques": "",
-    "dastan satpayev": ""
+    "dastan satpayev": "",
+    "heaven kilwa": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

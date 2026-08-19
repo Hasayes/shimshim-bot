@@ -1,7 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/64131",
-    "tg:FabrizioRomanoTG/64133",
     "tg:FabrizioRomanoTG/64135",
     "tg:FabrizioRomanoTG/64136",
     "tg:FabrizioRomanoTG/64137",
@@ -1499,7 +1497,9 @@
     "tg:FabrizioRomanoTG/64904",
     "fe911d1caadc818d73df1d00afed033a",
     "tg:FabrizioRomanoTG/64906",
-    "fcec73945905a21bb787178b415ce1e6"
+    "fcec73945905a21bb787178b415ce1e6",
+    "a5013678dd12d3e6f0f844a9bbef6ac2",
+    "tg:FabrizioRomanoTG/64908"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1923,8 +1923,6 @@
     "interest: endrick -> milan"
   ],
   "titles": [
-    "transfer: coventry city reach agreement with nottingham forest for awoniyi",
-    "juventus follow closely emiliano martinez\u2019s situation as aston villa may have fo",
     "\ud83d\udea8 \ud83c\uddf5\ud83c\uddf9 al hilal have genuine interest in pedro neto as part of a three wingers sho",
     "\ud83d\udea8 \ud83e\ude75 enzo maresca says he wants ryan mcaidoo to stay at man city \u201cthe best for hi",
     "borussia dortmund and rb leipzig join race for manchester united linked attacker",
@@ -2222,7 +2220,9 @@
     "\ud83d\udfe3 \ud83d\udd35 after matteo ruggeri, also zion suzuki announced as new aston villa player \ud83c\uddef",
     "de zerbi facing double tottenham signing nightmare as another savinho hurdle eme",
     "\ud83d\udea8 \ud83d\udd34 carlos baleba made clear to his camp his only dream since august 2025: manch",
-    "manchester city haven\u2019t reportedly given up on enzo fernandez even after missing"
+    "manchester city haven\u2019t reportedly given up on enzo fernandez even after missing",
+    "aston villa transfer news: ollie watkins 'takes stance' as al hilal launch \u00a338 5",
+    "\ud83d\udea8 \ud83e\udd85 benfica are pushing to try get joao palhinha deal done after aston villa bid"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2521,13 +2521,13 @@
     "endrick": "https://r2.thesportsdb.com/images/media/player/cutout/5yb3rv1733653315.png/small",
     "aaron wan bissaka": "https://r2.thesportsdb.com/images/media/player/cutout/xdt9hb1756984581.png/small",
     "niclas fullkrug": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/NiclasF%C3%BCllkrug_%28cropped%29.jpg/330px-NiclasF%C3%BCllkrug_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "hermann malonga": "",
     "tommy marques": "",
     "dastan satpayev": "",
     "heaven kilwa": "",
-    "said el mala": ""
+    "said el mala": "",
+    "hermann malonga": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 5,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

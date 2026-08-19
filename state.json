@@ -1,6 +1,5 @@
 {
   "sent": [
-    "db4165b3d1a88c3121977a37b9a29562",
     "450d23debb14405ca096cf4866d4aa99",
     "355c423df4b058b4808b9debdca980e3",
     "0f2948812a23c60a7f510858975706e4",
@@ -1499,7 +1498,8 @@
     "c8257942e29b8957096f4fd734497c69",
     "f217c23f7effb9d91094bedcaf8efc79",
     "22007548faa9af75e3eb5a05fc28a7c7",
-    "tg:FabrizioRomanoTG/64888"
+    "tg:FabrizioRomanoTG/64888",
+    "a80ec505738435d8d65cecc35072998e"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1923,7 +1923,6 @@
     "interest: endrick -> milan"
   ],
   "titles": [
-    "\ud83d\udcfa new youtube video uploaded! \ud83c\udfac \ud83d\udea8 \ud83d\udca3 deal off! barca deal done soon! rodri and en",
     "transfer updates: hinshelwood, rodri, osimhen, neto, delap, quansah, others",
     "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f amar dedic, flying to england today for medical tests and contract signi",
     "dortmund push hard to seal a deal from barcelona",
@@ -2222,7 +2221,8 @@
     "champions league outfit reaches decision on record man utd swoop for lewis hall ",
     "how barcelona beat real madrid to \u20ac76 5m rodri transfer that started with a wedd",
     "david ornstein: newcastle in talks to sign man city star nico gonzalez",
-    "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f michele di gregorio accepts to leave juventus before the end of the wind"
+    "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f michele di gregorio accepts to leave juventus before the end of the wind",
+    "como push for ricci as milan hold firm on permanent sale"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2521,13 +2521,13 @@
     "endrick": "https://r2.thesportsdb.com/images/media/player/cutout/5yb3rv1733653315.png/small",
     "aaron wan bissaka": "https://r2.thesportsdb.com/images/media/player/cutout/xdt9hb1756984581.png/small",
     "niclas fullkrug": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/NiclasF%C3%BCllkrug_%28cropped%29.jpg/330px-NiclasF%C3%BCllkrug_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "hermann malonga": "",
     "tommy marques": "",
     "dastan satpayev": "",
     "heaven kilwa": "",
-    "said el mala": ""
+    "said el mala": "",
+    "hermann malonga": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 5,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

@@ -1,8 +1,5 @@
 {
   "sent": [
-    "6cca4ea3731a787a755c0f948d24ab56",
-    "31923800b03fb88f038ce3a76697ff4b",
-    "34554c885d7cf9370da721a8c4dc92a7",
     "6f95b99a8419253c6f896ab9879190b2",
     "ff99aaa88e3fbd143ded74fa97b78ca4",
     "4d95411a230755ca4d15ca75272b021b",
@@ -1499,7 +1496,10 @@
     "4b367d68261cc5149e2b25e80ab89430",
     "510482d3abe09f7b7ea6e4675e83c2aa",
     "a681f51c5881c7fbc0aa5088dcc6c243",
-    "tg:FabrizioRomanoTG/64947"
+    "tg:FabrizioRomanoTG/64947",
+    "2ec5a1efc8be08b8a4dde918a8b87e54",
+    "403b535dfde56fa39cd4b30b3b7323cd",
+    "7b79a8f5341be9bbdb021b2d7994daa3"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1930,12 +1930,10 @@
     "interest: zirkzee -> juventus",
     "interest: zirkzee -> napoli",
     "interest: skelly -> chelsea",
-    "interest: skelly -> manchester united"
+    "interest: skelly -> manchester united",
+    "interest: scott -> manchester city"
   ],
   "titles": [
-    "\u2018powerful\u2019 liverpool attacker set for exit as three sides battle to win race",
-    "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f juventus and dibu martinez camp had direct talk tonight: deal officially",
-    "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 understand barcelona mantain right of first refusal clause for tommy marqu",
     "dani olmo sends emotional message to ferran torres as spain hero completes \u20ac50m ",
     "frank lampard targets deal for second chelsea star after mykhailo mudryk approac",
     "liverpool learn the only way they can complete bradley barcola signing this summ",
@@ -2232,7 +2230,10 @@
     "inter \u2018ready\u2019 to submit another offer for curtis jones \u2013 their proposed bid is l",
     "here we go: az sell troy parrott for \u20ac20 million",
     "arsenal ceo sends mixed myles lewis skelly transfer messages to man utd, chelsea",
-    "\u26ab\ufe0f \ud83d\udd35 \u2708\ufe0f curtis jones will fly to milano on thursday for medical tests after deal"
+    "\u26ab\ufe0f \ud83d\udd35 \u2708\ufe0f curtis jones will fly to milano on thursday for medical tests after deal",
+    "man utd, chelsea sent mixed messages by arsenal ceo in myles lewis skelly chase",
+    "emmanuel petit warns \u00a3130m liverpool target amid arsenal transfer speculation me",
+    "man city \u2018open talks\u2019 to sign chelsea replacement for enzo fernandez"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2531,13 +2532,13 @@
     "dominik livakovic": "https://r2.thesportsdb.com/images/media/player/cutout/pp3yab1762457197.png/small",
     "juan musso": "https://r2.thesportsdb.com/images/media/player/cutout/401mle1762287491.png/small",
     "said el mala": "",
-    "tommy marques": "",
     "dastan satpayev": "",
     "heaven kilwa": "",
     "troy parrott": "https://r2.thesportsdb.com/images/media/player/cutout/rkteg41722970805.png/small",
-    "hermann malonga": ""
+    "hermann malonga": "",
+    "tommy marques": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

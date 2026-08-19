@@ -1,6 +1,5 @@
 {
   "sent": [
-    "6ded7feb6c1042e0cda0c76ca643c6c5",
     "cd49afdd783efcdb8688d9b3142ee458",
     "ca58bbeecfdbbbfd6ce1877b81d3734e",
     "tg:FabrizioRomanoTG/64122",
@@ -1499,7 +1498,8 @@
     "61b050cde764ecf186e3a73b903b9967",
     "tg:FabrizioRomanoTG/64898",
     "tg:FabrizioRomanoTG/64899",
-    "tg:FabrizioRomanoTG/64901"
+    "tg:FabrizioRomanoTG/64901",
+    "11a37e4fe020d75869172e37ee3e52f9"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1923,7 +1923,6 @@
     "interest: endrick -> milan"
   ],
   "titles": [
-    "luis enrique reply to psg transfer question hints at frustration with bradley ba",
     "nkunku \u20ac35m asking price set for roma, borussia dortmund and rb leipzig",
     "romano: arsenal want to sign atletico star marc pubill alongside alvarez",
     "newcastle united are pursuing a move for christopher nkunku",
@@ -2222,7 +2221,8 @@
     "arsenal target julian alvarez \u2018dropped\u2019 for laliga opener as atletico madrid rea",
     "\ud83d\udd34 \u26aa\ufe0f \ud83c\uddec\ud83c\udded 18 year old ghanaian international emmanuel abrokwa signed his contract ",
     "\ud83d\udfe3 \ud83d\udd35 \ud83d\udd10 official, confirmed: aston villa sign matteo ruggeri from atletico madrid ",
-    "\ud83d\udea8 \ud83d\udd35 joao pedro puts pen to paper and signs new chelsea deal until june 2032, doc"
+    "\ud83d\udea8 \ud83d\udd35 joao pedro puts pen to paper and signs new chelsea deal until june 2032, doc",
+    "al hilal target england's kane wednesday's gossip"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2521,13 +2521,13 @@
     "endrick": "https://r2.thesportsdb.com/images/media/player/cutout/5yb3rv1733653315.png/small",
     "aaron wan bissaka": "https://r2.thesportsdb.com/images/media/player/cutout/xdt9hb1756984581.png/small",
     "niclas fullkrug": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/NiclasF%C3%BCllkrug_%28cropped%29.jpg/330px-NiclasF%C3%BCllkrug_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "said el mala": "",
     "hermann malonga": "",
     "tommy marques": "",
     "dastan satpayev": "",
-    "heaven kilwa": ""
+    "heaven kilwa": "",
+    "said el mala": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

@@ -1,6 +1,5 @@
 {
   "sent": [
-    "42ec55fc6868d02821f1000d4126aa15",
     "tg:FabrizioRomanoTG/64146",
     "tg:FabrizioRomanoTG/64147",
     "tg:FabrizioRomanoTG/64148",
@@ -1499,7 +1498,8 @@
     "217ae8eab6b6f1f655d3c9ecd0cd0b1c",
     "tg:FabrizioRomanoTG/64915",
     "tg:FabrizioRomanoTG/64918",
-    "tg:FabrizioRomanoTG/64919"
+    "tg:FabrizioRomanoTG/64919",
+    "tg:FabrizioRomanoTG/64920"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1923,10 +1923,10 @@
     "interest: kostov -> milan",
     "interest: moreira -> milan",
     "interest: endrick -> milan",
-    "interest: livakovic -> barcelona"
+    "interest: livakovic -> barcelona",
+    "interest: musso -> napoli"
   ],
   "titles": [
-    "liverpool one step closer to bradley barcola deal as \u00a347m transfer confirmed ami",
     "\ud83d\udea8 \ud83d\udfe3 \ud83d\udd35 aston villa have agreed on personal terms with zion suzuki and closing in ",
     "\ud83d\udea8 \ud83d\udfe3 \ud83d\udd35 aston villa and parma have started exchanging documents for zion suzuki de",
     "\ud83d\udfe3 \ud83d\udd35 \ud83d\udc40 suzuki, on #avfc shortlist since early days as revealed back in june and n",
@@ -2225,11 +2225,11 @@
     "official: ruggeri joins aston villa from atletico madrid",
     "\ud83d\udea8 \u26aa\ufe0f \ud83d\udfe2 real betis agree deal to sign troy parrott as new striker, here we go! \ud83c\uddee\ud83c\uddea",
     "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 barcelona are considering a move for croatian gk dominik livakovic nothing",
-    "\ud83d\udea8 \u26ab\ufe0f \ud83d\udd35 exclusive: inter agree deal to sign curtis jones from liverpool, here we "
+    "\ud83d\udea8 \u26ab\ufe0f \ud83d\udd35 exclusive: inter agree deal to sign curtis jones from liverpool, here we ",
+    "\ud83d\udea8 napoli and atletico madrid have discussed potential swap deal between juan mus"
   ],
   "tg_update_offset": 263617426,
   "photos": {
-    "andreas schjelderup": "https://r2.thesportsdb.com/images/media/player/cutout/ihgav61758216246.png/small",
     "crysencio summerville": "https://r2.thesportsdb.com/images/media/player/cutout/b51rjk1756984653.png/small",
     "iliman ndiaye": "https://r2.thesportsdb.com/images/media/player/cutout/rten2t1756977078.png/small",
     "karim adeyemi": "https://r2.thesportsdb.com/images/media/player/cutout/go6jti1756325880.png/small",
@@ -2522,15 +2522,16 @@
     "endrick": "https://r2.thesportsdb.com/images/media/player/cutout/5yb3rv1733653315.png/small",
     "aaron wan bissaka": "https://r2.thesportsdb.com/images/media/player/cutout/xdt9hb1756984581.png/small",
     "niclas fullkrug": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/NiclasF%C3%BCllkrug_%28cropped%29.jpg/330px-NiclasF%C3%BCllkrug_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "heaven kilwa": "",
     "darwin nunez": "https://r2.thesportsdb.com/images/media/player/cutout/i78juc1693941560.png/small",
     "said el mala": "",
     "hermann malonga": "",
     "dominik livakovic": "https://r2.thesportsdb.com/images/media/player/cutout/pp3yab1762457197.png/small",
     "tommy marques": "",
-    "dastan satpayev": ""
+    "dastan satpayev": "",
+    "juan musso": "https://r2.thesportsdb.com/images/media/player/cutout/401mle1762287491.png/small",
+    "heaven kilwa": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

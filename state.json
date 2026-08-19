@@ -1,6 +1,5 @@
 {
   "sent": [
-    "dbdd71b9a19e8d8de49b2cd72deecb79",
     "520572a07558ccc4cb0249ab62e384c3",
     "bb547fa88038da3de081ff33db535c3e",
     "145d52446ffa8bf14b628fa4d37d6443",
@@ -1499,7 +1498,8 @@
     "2171dcf6702d8b4475fa27919c257182",
     "tg:FabrizioRomanoTG/64938",
     "b18d128469a399718d755ee661a7660f",
-    "85dffa25bafe321aedbb4cff34c4b8a5"
+    "85dffa25bafe321aedbb4cff34c4b8a5",
+    "b568a02fb25fe4906bd87e0428c44ee9"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1928,7 +1928,6 @@
     "interest: musso -> napoli"
   ],
   "titles": [
-    "barcelona ready to fly top defensive target early next week as summer transfer n",
     "it had to be and it will be next week: joao cancelo will fly to barcelona within",
     "\ud83d\udea8 \ud83d\udd34 bradley barcola, not even on the bench for paris saint germain tonight \u274c liv",
     "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 exclusive: rodri to barcelona, here we go! \ud83d\udca5 deal agreed for spanish midfi",
@@ -2227,7 +2226,8 @@
     "\ud83d\udea8 \ud83d\udc02 torino agree deal to sign niccolo fortini as new fullback from fiorentina de",
     "aston villa face major ollie watkins decision after \u20ac45m bid was made",
     "\ud83d\udd34 \u26aa\ufe0f \ud83e\udd85 alessandro circati signs in as new benfica player from parma, deal confir",
-    "romano \u2018clarifies two things\u2019 after bruno fernandes \u2018rejects\u2019 man utd contract r"
+    "romano \u2018clarifies two things\u2019 after bruno fernandes \u2018rejects\u2019 man utd contract r",
+    "why madrid did not sign rodri \u2014 mourinho"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2526,13 +2526,13 @@
     "darwin nunez": "https://r2.thesportsdb.com/images/media/player/cutout/i78juc1693941560.png/small",
     "dominik livakovic": "https://r2.thesportsdb.com/images/media/player/cutout/pp3yab1762457197.png/small",
     "juan musso": "https://r2.thesportsdb.com/images/media/player/cutout/401mle1762287491.png/small",
-    "tommy marques": "",
     "dastan satpayev": "",
     "heaven kilwa": "",
     "said el mala": "",
-    "hermann malonga": ""
+    "hermann malonga": "",
+    "tommy marques": ""
   },
-  "photo_repair_idx": 5,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

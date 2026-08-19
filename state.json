@@ -1,7 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/64158",
-    "1fe8696d140a103aa409ad5c51dc76f1",
     "d1b5fae59d84c48724fbda4f668c7f8a",
     "tg:FabrizioRomanoTG/64159",
     "3127e7b958ec79bcbb077ef4f82c9bfe",
@@ -1499,7 +1497,9 @@
     "ca9b36c305f18d42750c0b2eecb62cf2",
     "5f81e0a550d3a1fc17c1234e5db43892",
     "a1afa3ad641d3490d91c1aba6b9e6897",
-    "055a4b981fb0d04ad111cb73d0a7a813"
+    "055a4b981fb0d04ad111cb73d0a7a813",
+    "fac76602a3cfdbee498288f13a2a9bfd",
+    "8d7526dff93391bd428035973211cee3"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1930,8 +1930,6 @@
     "interest: zirkzee -> napoli"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 rodri will sign a four year contract at barcelona this upcoming week \u2014 it ",
-    "\ud83d\udea8 \ud83d\udd35 manchester city are now set to close ayyoub bouaddi deal with lille after se",
     "barcelona rule out move for \u20ac80 million rated forward target as sporting refuse ",
     "juventus, new offer to aston villa for dibu martinez: the figures, the gap is mi",
     "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f juventus have made official club to club approach with tottenham for gug",
@@ -2229,7 +2227,9 @@
     "\ud83d\udea8 \ud83d\udd34 \u26ab\ufe0f official: diego moreira joins ac milan from rc strasbourg \u20ac50m fixed fee,",
     "everton move for barcelona right back hits obstacles as three exciting alternati",
     "flashscore sources: man utd drawing up forward shortlist ahead of zirkzee depart",
-    "david ornstein: man utd close in on carlos baleba transfer after \u00a365m bid"
+    "david ornstein: man utd close in on carlos baleba transfer after \u00a365m bid",
+    "man utd set to sign premier league star after shock \u00a365m offer",
+    "just in: man united closing in on deal to sign \u2018high energy\u2019 premier league midf"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2529,12 +2529,12 @@
     "dominik livakovic": "https://r2.thesportsdb.com/images/media/player/cutout/pp3yab1762457197.png/small",
     "juan musso": "https://r2.thesportsdb.com/images/media/player/cutout/401mle1762287491.png/small",
     "said el mala": "",
-    "hermann malonga": "",
     "tommy marques": "",
     "dastan satpayev": "",
-    "heaven kilwa": ""
+    "heaven kilwa": "",
+    "hermann malonga": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

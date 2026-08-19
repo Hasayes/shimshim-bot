@@ -1,6 +1,5 @@
 {
   "sent": [
-    "3630ed7c1daecbc0ad6cb0461339b2c7",
     "aed04685e3b687da576d5b2ff3e92dea",
     "db52d19d8c4684331fde46e8940a068e",
     "29000037de985689e6e26409170c82b2",
@@ -1499,7 +1498,8 @@
     "15cd7001f4a5a6af7b7fe8f466116d34",
     "b22a546b2c820a7e4663085d3f11f56f",
     "2398f3b8b029409c08ec6568e015b8a5",
-    "fe975282db2e725e002e52c55753583e"
+    "fe975282db2e725e002e52c55753583e",
+    "tg:FabrizioRomanoTG/64880"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1923,7 +1923,6 @@
     "interest: endrick -> milan"
   ],
   "titles": [
-    "\u201cno one dead\u201d fabrizio romano responds after report claims clubs view him as nui",
     "frattesi on lazio return: \u2018i needed to feel at the centre of a project\u2019",
     "man city target reaches terms agreement for exit with chelsea now open to sale",
     "cody gakpo tells liverpool he wants tottenham move with terms agreed and giant b",
@@ -2222,7 +2221,8 @@
     "man utd target kane holds talks to complete stunning transfer after reaching dec",
     "watch video: rodri arrives in barcelona for medical ahead of \u20ac76 5 million move ",
     "fabrizio romano confirms arsenal star is moving closer to exit",
-    "watch video: rodri arrives in barcelona to complete long awaited manchester city"
+    "watch video: rodri arrives in barcelona to complete long awaited manchester city",
+    "\u26aa\ufe0f \ud83d\udc40 jose mourinho on what he wants from his players at real madrid: \u201ci want com"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2520,14 +2520,14 @@
     "nico elvedi": "https://r2.thesportsdb.com/images/media/player/cutout/aelb5v1756313277.png/small",
     "endrick": "https://r2.thesportsdb.com/images/media/player/cutout/5yb3rv1733653315.png/small",
     "aaron wan bissaka": "https://r2.thesportsdb.com/images/media/player/cutout/xdt9hb1756984581.png/small",
-    "hermann malonga": "",
     "niclas fullkrug": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/NiclasF%C3%BCllkrug_%28cropped%29.jpg/330px-NiclasF%C3%BCllkrug_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "tommy marques": "",
     "dastan satpayev": "",
     "heaven kilwa": "",
-    "said el mala": ""
+    "said el mala": "",
+    "hermann malonga": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 5,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

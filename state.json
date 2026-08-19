@@ -1,7 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/64139",
-    "tg:FabrizioRomanoTG/64140",
     "tg:FabrizioRomanoTG/64142",
     "tg:FabrizioRomanoTG/64143",
     "a76c396a1021f72796a9e1beca524f9b",
@@ -1499,7 +1497,9 @@
     "a61680c6e7483a10e36915a1ab72ecce",
     "32e660354c07e3f446dee47b3f0086c8",
     "tg:FabrizioRomanoTG/64910",
-    "tg:FabrizioRomanoTG/64911"
+    "tg:FabrizioRomanoTG/64911",
+    "a96e048816647569e3c8f6c8c24ea51b",
+    "tg:FabrizioRomanoTG/64914"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1923,8 +1923,6 @@
     "interest: endrick -> milan"
   ],
   "titles": [
-    "\u201cnothing expected\u201d martinelli not considering moving to turkiye",
-    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f after taiwo awoniyi, coventry city also agree deal for sidiki cherif from",
     "tottenham hotspur are in concrete talks to sign this liverpool winger: good opti",
     "\ud83d\udea8 \u26ab\ufe0f \ud83d\udd35 inter young defender leonardo bovio has signed a new long term contract a",
     "leeds united edge closer to \u00a38 5m deal: good deal for the whites?",
@@ -2222,7 +2220,9 @@
     "\ud83d\udea8 \ud83e\udd85 benfica are pushing to try get joao palhinha deal done after aston villa bid",
     "yet another manchester city midfielder is linked with a summer departure but wou",
     "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f ezri konsa has agreed personal terms with arsenal: he wants the move as n",
-    "\ud83d\udea8 \u26aa\ufe0f \ud83d\udfe2 al ahli are exchanging paperwork and documents with shakhtar donetsk for "
+    "\ud83d\udea8 \u26aa\ufe0f \ud83d\udfe2 al ahli are exchanging paperwork and documents with shakhtar donetsk for ",
+    "\u2018already approved\u2019 \u2013 fabrizio romano drops nico gonzalez to newcastle united new",
+    "\ud83d\udea8 \ud83c\uddf8\ud83c\udde6 darwin nunez to al diriyah, here we go! verbal agreement in place between s"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2521,13 +2521,13 @@
     "endrick": "https://r2.thesportsdb.com/images/media/player/cutout/5yb3rv1733653315.png/small",
     "aaron wan bissaka": "https://r2.thesportsdb.com/images/media/player/cutout/xdt9hb1756984581.png/small",
     "niclas fullkrug": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/NiclasF%C3%BCllkrug_%28cropped%29.jpg/330px-NiclasF%C3%BCllkrug_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "said el mala": "",
     "hermann malonga": "",
     "tommy marques": "",
     "dastan satpayev": "",
-    "heaven kilwa": ""
+    "heaven kilwa": "",
+    "said el mala": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

@@ -1,8 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/64142",
-    "tg:FabrizioRomanoTG/64143",
-    "a76c396a1021f72796a9e1beca524f9b",
     "03e0fa07f8aeaccb471135599eb77e7f",
     "tg:FabrizioRomanoTG/64144",
     "42ec55fc6868d02821f1000d4126aa15",
@@ -1499,7 +1496,10 @@
     "tg:FabrizioRomanoTG/64910",
     "tg:FabrizioRomanoTG/64911",
     "a96e048816647569e3c8f6c8c24ea51b",
-    "tg:FabrizioRomanoTG/64914"
+    "tg:FabrizioRomanoTG/64914",
+    "eae169dfa79388db51dfa667d5a99d64",
+    "217ae8eab6b6f1f655d3c9ecd0cd0b1c",
+    "tg:FabrizioRomanoTG/64915"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1924,9 +1924,6 @@
     "interest: endrick -> milan"
   ],
   "titles": [
-    "tottenham hotspur are in concrete talks to sign this liverpool winger: good opti",
-    "\ud83d\udea8 \u26ab\ufe0f \ud83d\udd35 inter young defender leonardo bovio has signed a new long term contract a",
-    "leeds united edge closer to \u00a38 5m deal: good deal for the whites?",
     "liverpool hopes of barcola transfer boosted as \u00a347m deal confirmed london evenin",
     "coventry city agree deal to sign taiwo awoniyi",
     "liverpool one step closer to bradley barcola deal as \u00a347m transfer confirmed ami",
@@ -2223,7 +2220,10 @@
     "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f ezri konsa has agreed personal terms with arsenal: he wants the move as n",
     "\ud83d\udea8 \u26aa\ufe0f \ud83d\udfe2 al ahli are exchanging paperwork and documents with shakhtar donetsk for ",
     "\u2018already approved\u2019 \u2013 fabrizio romano drops nico gonzalez to newcastle united new",
-    "\ud83d\udea8 \ud83c\uddf8\ud83c\udde6 darwin nunez to al diriyah, here we go! verbal agreement in place between s"
+    "\ud83d\udea8 \ud83c\uddf8\ud83c\udde6 darwin nunez to al diriyah, here we go! verbal agreement in place between s",
+    "di marzio: serie a giants keen on both chelsea and manchester united attackers",
+    "official: ruggeri joins aston villa from atletico madrid",
+    "\ud83d\udea8 \u26aa\ufe0f \ud83d\udfe2 real betis agree deal to sign troy parrott as new striker, here we go! \ud83c\uddee\ud83c\uddea"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2521,14 +2521,14 @@
     "endrick": "https://r2.thesportsdb.com/images/media/player/cutout/5yb3rv1733653315.png/small",
     "aaron wan bissaka": "https://r2.thesportsdb.com/images/media/player/cutout/xdt9hb1756984581.png/small",
     "niclas fullkrug": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/NiclasF%C3%BCllkrug_%28cropped%29.jpg/330px-NiclasF%C3%BCllkrug_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "hermann malonga": "",
     "tommy marques": "",
     "dastan satpayev": "",
     "heaven kilwa": "",
     "darwin nunez": "https://r2.thesportsdb.com/images/media/player/cutout/i78juc1693941560.png/small",
-    "said el mala": ""
+    "said el mala": "",
+    "hermann malonga": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 5,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

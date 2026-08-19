@@ -1,7 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/64122",
-    "503b0ef07dc750ca0fbc4435102aa3d2",
     "tg:FabrizioRomanoTG/64123",
     "d91155d300e644afd30b9c92fede6295",
     "tg:FabrizioRomanoTG/64130",
@@ -1499,7 +1497,9 @@
     "tg:FabrizioRomanoTG/64901",
     "11a37e4fe020d75869172e37ee3e52f9",
     "4f3a9204114757dd5ac606d61a640ca8",
-    "tg:FabrizioRomanoTG/64902"
+    "tg:FabrizioRomanoTG/64902",
+    "tg:FabrizioRomanoTG/64903",
+    "tg:FabrizioRomanoTG/64904"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1923,8 +1923,6 @@
     "interest: endrick -> milan"
   ],
   "titles": [
-    "newcastle united are pursuing a move for christopher nkunku",
-    "why juventus still unsure of martinez after aston villa dive in for suzuki",
     "arsenal get alvarez transfer boost as new barcelona striker shortlist 'revealed'",
     "transfer: frank lampard signs another super eagles star for coventry city",
     "coventry city agree deal to sign awoniyi from nottingham forest",
@@ -2222,7 +2220,9 @@
     "\ud83d\udea8 \ud83d\udd35 joao pedro puts pen to paper and signs new chelsea deal until june 2032, doc",
     "al hilal target england's kane wednesday's gossip",
     "newcastle exploring surprise raid on man city after multiple midfield misses tea",
-    "\ud83d\udea8 \ud83d\udd34 manchester united are set to sign carlos baleba from brighton as new midfiel"
+    "\ud83d\udea8 \ud83d\udd34 manchester united are set to sign carlos baleba from brighton as new midfiel",
+    "\ud83d\udd35 \u26aa\ufe0f \ud83c\udde8\ud83c\uddf7 official, exclusive story confirmed jeyland mitchell signs 5 year deal a",
+    "\ud83d\udfe3 \ud83d\udd35 after matteo ruggeri, also zion suzuki announced as new aston villa player \ud83c\uddef"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2521,13 +2521,13 @@
     "endrick": "https://r2.thesportsdb.com/images/media/player/cutout/5yb3rv1733653315.png/small",
     "aaron wan bissaka": "https://r2.thesportsdb.com/images/media/player/cutout/xdt9hb1756984581.png/small",
     "niclas fullkrug": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/NiclasF%C3%BCllkrug_%28cropped%29.jpg/330px-NiclasF%C3%BCllkrug_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "dastan satpayev": "",
     "heaven kilwa": "",
     "said el mala": "",
     "hermann malonga": "",
-    "tommy marques": ""
+    "tommy marques": "",
+    "dastan satpayev": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

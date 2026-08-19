@@ -1,8 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/64115",
-    "tg:FabrizioRomanoTG/64116",
-    "e078c8206fbf37cf4a177d840dde8bee",
     "da08bd0d29939d0c91e5a78f46e20937",
     "tg:FabrizioRomanoTG/64117",
     "tg:FabrizioRomanoTG/64118",
@@ -1499,7 +1496,10 @@
     "5f323caaaacf54f8f6fb64b7a6787add",
     "d9540b7d1f28c593a7cc60e494212565",
     "e15e8b838523a85311ad2cbd25e05f0a",
-    "tg:FabrizioRomanoTG/64893"
+    "tg:FabrizioRomanoTG/64893",
+    "ee1690f468ddec41b284a456542ba96c",
+    "0d23c9c88ca998cca252ccf55c4f4305",
+    "c1e8304d0d27380fafdeda81d94cf565"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1923,8 +1923,6 @@
     "interest: endrick -> milan"
   ],
   "titles": [
-    "leeds and borussia monchengladbach finalise \u20ac10m nico elvedi transfer, yet one o",
-    "conditions met for liverpool to sell player in his prime as romano declares \u2018her",
     "suzuki abandoned by psg, furious at agent demands, fresh juventus chance",
     "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 barcelona are prepared to fly joao cancelo to the city early next week if ",
     "aston villa open talks for zion suzuki as psg transfer collapses",
@@ -2222,7 +2220,9 @@
     "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f rc strasbourg agree deal to sign karim coulibaly from werder bremen, here",
     "manchester united in contract renewal talks with key midfielder",
     "chelsea eye werder bremen talent as potential future defender",
-    "\ud83d\udea8 \ud83d\udca3 jose mourinho on rodri\u2019s doubts: \u201creal madrid can not have players who think"
+    "\ud83d\udea8 \ud83d\udca3 jose mourinho on rodri\u2019s doubts: \u201creal madrid can not have players who think",
+    "fabrizio romano reveals new man city talks to sign enzo fernandez",
+    "milan reject porto offer for gimenez as rossoneri hold out for larger sum"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2521,13 +2521,13 @@
     "endrick": "https://r2.thesportsdb.com/images/media/player/cutout/5yb3rv1733653315.png/small",
     "aaron wan bissaka": "https://r2.thesportsdb.com/images/media/player/cutout/xdt9hb1756984581.png/small",
     "niclas fullkrug": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/NiclasF%C3%BCllkrug_%28cropped%29.jpg/330px-NiclasF%C3%BCllkrug_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "hermann malonga": "",
     "tommy marques": "",
     "dastan satpayev": "",
     "heaven kilwa": "",
-    "said el mala": ""
+    "said el mala": "",
+    "hermann malonga": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 5,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

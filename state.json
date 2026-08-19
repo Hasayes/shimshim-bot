@@ -1,6 +1,5 @@
 {
   "sent": [
-    "7cb71ac7d502d5a5932ef4ee1d35b85d",
     "28046480005f0eafbe00beb9105890e5",
     "tg:FabrizioRomanoTG/64150",
     "49557266b055c56d5b8f34f69ba764e7",
@@ -1499,7 +1498,8 @@
     "tg:FabrizioRomanoTG/64920",
     "tg:FabrizioRomanoTG/64921",
     "tg:FabrizioRomanoTG/64922",
-    "tg:FabrizioRomanoTG/64923"
+    "tg:FabrizioRomanoTG/64923",
+    "tg:FabrizioRomanoTG/64926"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1928,7 +1928,6 @@
     "interest: musso -> napoli"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83d\udfe1 \u26ab\ufe0f joey veerman to borussia dortmund, here we go! deal agreed for \u20ac21 5m fro",
     "awoniyi joins onyeka at coventry",
     "\ud83d\udea8 \ud83c\udde7\ud83c\uddf7 savinho, not involved into man city squad for community shield today as tal",
     "\ud83d\udea8 \u274c savinho, out of manchester city squad today for community shield as he wants",
@@ -2227,7 +2226,8 @@
     "\ud83d\udea8 napoli and atletico madrid have discussed potential swap deal between juan mus",
     "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f breaking: arsenal agree deal to sign ezri konsa from aston villa, here we",
     "\ud83d\udea8 \ud83c\udde6\ud83c\uddf9 sturm graz have sent loan with buy option bid to napoli for 23 year old def",
-    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f atletico madrid president enrique cerezo: \u201ci don\u2019t know if julian alvarez"
+    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f atletico madrid president enrique cerezo: \u201ci don\u2019t know if julian alvarez",
+    "rt @fabrizioromano : \ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f breaking: arsenal agree deal to sign ezri konsa from"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2525,14 +2525,14 @@
     "niclas fullkrug": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/NiclasF%C3%BCllkrug_%28cropped%29.jpg/330px-NiclasF%C3%BCllkrug_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "darwin nunez": "https://r2.thesportsdb.com/images/media/player/cutout/i78juc1693941560.png/small",
     "dominik livakovic": "https://r2.thesportsdb.com/images/media/player/cutout/pp3yab1762457197.png/small",
-    "tommy marques": "",
     "dastan satpayev": "",
     "juan musso": "https://r2.thesportsdb.com/images/media/player/cutout/401mle1762287491.png/small",
     "heaven kilwa": "",
     "said el mala": "",
-    "hermann malonga": ""
+    "hermann malonga": "",
+    "tommy marques": ""
   },
-  "photo_repair_idx": 5,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

@@ -1,7 +1,5 @@
 {
   "sent": [
-    "520572a07558ccc4cb0249ab62e384c3",
-    "bb547fa88038da3de081ff33db535c3e",
     "145d52446ffa8bf14b628fa4d37d6443",
     "2590fb94eab3daef795370e506c1c449",
     "5808f8f64411445f9b789dc2f539ce70",
@@ -1499,7 +1497,9 @@
     "tg:FabrizioRomanoTG/64938",
     "b18d128469a399718d755ee661a7660f",
     "85dffa25bafe321aedbb4cff34c4b8a5",
-    "b568a02fb25fe4906bd87e0428c44ee9"
+    "b568a02fb25fe4906bd87e0428c44ee9",
+    "tg:FabrizioRomanoTG/64941",
+    "tg:FabrizioRomanoTG/64942"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1928,8 +1928,6 @@
     "interest: musso -> napoli"
   ],
   "titles": [
-    "it had to be and it will be next week: joao cancelo will fly to barcelona within",
-    "\ud83d\udea8 \ud83d\udd34 bradley barcola, not even on the bench for paris saint germain tonight \u274c liv",
     "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 exclusive: rodri to barcelona, here we go! \ud83d\udca5 deal agreed for spanish midfi",
     "rt @fabrizioromano : \ud83d\udea8 \ud83d\udd35 \ud83d\udd34 exclusive: rodri to barcelona, here we go! \ud83d\udca5 deal agr",
     "tottenham get fresh savinho update as transfer saga rumbles on london evening st",
@@ -2227,7 +2225,9 @@
     "aston villa face major ollie watkins decision after \u20ac45m bid was made",
     "\ud83d\udd34 \u26aa\ufe0f \ud83e\udd85 alessandro circati signs in as new benfica player from parma, deal confir",
     "romano \u2018clarifies two things\u2019 after bruno fernandes \u2018rejects\u2019 man utd contract r",
-    "why madrid did not sign rodri \u2014 mourinho"
+    "why madrid did not sign rodri \u2014 mourinho",
+    "\ud83d\udd35 \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc73\udb40\udc63\udb40\udc74\udb40\udc7f scotland u19 centre back alfie osborn has signed in at chelsea today h",
+    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f bamba dieng will undergo medical at lazio on thursday ahead of possible m"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2526,13 +2526,13 @@
     "darwin nunez": "https://r2.thesportsdb.com/images/media/player/cutout/i78juc1693941560.png/small",
     "dominik livakovic": "https://r2.thesportsdb.com/images/media/player/cutout/pp3yab1762457197.png/small",
     "juan musso": "https://r2.thesportsdb.com/images/media/player/cutout/401mle1762287491.png/small",
-    "dastan satpayev": "",
     "heaven kilwa": "",
     "said el mala": "",
     "hermann malonga": "",
-    "tommy marques": ""
+    "tommy marques": "",
+    "dastan satpayev": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

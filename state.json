@@ -1,6 +1,5 @@
 {
   "sent": [
-    "f9a20c7282c6884169f98e99d670319f",
     "4cd529089efb1ff0d0f55ab485eedf86",
     "68cfb6886e64d3cee3f55648fbd93aba",
     "095c7fa0988bdbe6cb0c9ebc0054eea8",
@@ -1499,7 +1498,8 @@
     "69e86f5345a6023d89a63610df34c791",
     "c120e1414c942f35552cadf3ef0ece0b",
     "576fa6cd9095c53f96c3087aab47b5df",
-    "d9a72c13c46ba62f1da4e1576c0bc4b1"
+    "d9a72c13c46ba62f1da4e1576c0bc4b1",
+    "adfb73163aca892df64558014439dfd3"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1923,7 +1923,6 @@
     "interest: endrick -> milan"
   ],
   "titles": [
-    "bvb on the verge of a transfer coup? borussia dortmund apparently in pole positi",
     "liverpool 'fully expect' to 'agree deal' after romano update; fsg 'no longer fea",
     "it\u2019s official: one major domino has fallen as liverpool handed bradley barcola t",
     "'confirmed' fabrizio romano shares promising man utd transfer update",
@@ -2222,7 +2221,8 @@
     "patrick vieira set to land new coaching job",
     "myles lewis skelley is the wrong target, man utd should be signing his available",
     "man utd suffer transfer blow as barcelona midfielder gavi snubs premier league m",
-    "man utd a \u2018disgrace\u2019 for not backing michael carrick with elite signings \u2013 sky s"
+    "man utd a \u2018disgrace\u2019 for not backing michael carrick with elite signings \u2013 sky s",
+    "real madrid officially unveils mourinho as coach"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2521,13 +2521,13 @@
     "endrick": "https://r2.thesportsdb.com/images/media/player/cutout/5yb3rv1733653315.png/small",
     "aaron wan bissaka": "https://r2.thesportsdb.com/images/media/player/cutout/xdt9hb1756984581.png/small",
     "niclas fullkrug": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/NiclasF%C3%BCllkrug_%28cropped%29.jpg/330px-NiclasF%C3%BCllkrug_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "tommy marques": "",
     "dastan satpayev": "",
     "heaven kilwa": "",
     "said el mala": "",
-    "hermann malonga": ""
+    "hermann malonga": "",
+    "tommy marques": ""
   },
-  "photo_repair_idx": 5,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

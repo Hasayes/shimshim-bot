@@ -1,5 +1,25 @@
 [
  {
+  "id": "442352cfc59f9973229ae5dc132db3e5",
+  "ts": "2026-08-19T14:00:42+00:00",
+  "kind": "deal",
+  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/rnu4al1756984921.png/small",
+  "stage": "Here we go",
+  "player": "Ezri Konsa",
+  "position": "Defender",
+  "age": "28",
+  "from_club": "Aston Villa",
+  "to_club": "Arsenal",
+  "fee": "\u00a350m plus add-ons",
+  "style": "Dominant left-footed center-back with excellent positioning, strong aerial ability, and composure on the ball in building play.",
+  "fit": "Deploy as the primary left center-back in Arsenal's defensive line to provide defensive stability and left-side progression in their possession-based system.",
+  "source": "Fabrizio Romano",
+  "summary": "Arsenal have agreed a deal to sign defender Ezri Konsa from Aston Villa for \u00a350m plus add-ons on a long-term contract, with medical to follow in the next 48 hours.",
+  "outlet": "Telegram @fabrizioromanotg",
+  "url": "https://t.me/FabrizioRomanoTG/64921",
+  "title": "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f BREAKING: Arsenal agree deal to sign Ezri Konsa from Aston Villa, here we go! Fee agreed at \u00a350m plus add-ons and"
+ },
+ {
   "id": "tg:FabrizioRomanoTG/64920",
   "ts": "2026-08-19T13:00:42+00:00",
   "kind": "interest",
@@ -818,26 +838,6 @@
   "outlet": "Telegram @fabrizioromanotg",
   "url": "https://t.me/FabrizioRomanoTG/64535",
   "title": "\ud83d\udea8 \ud83e\ude75 Manchester City have agreed deal for the Academy to sign 16 year old winger Heaven Kilwa from Aston Villa. Kilwa has"
- },
- {
-  "id": "442352cfc59f9973229ae5dc132db3e5",
-  "ts": "2026-08-13T09:23:20+00:00",
-  "kind": "interest",
-  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/rnu4al1756984921.png/small",
-  "stage": "\u2014",
-  "player": "Ezri Konsa",
-  "position": "Centre-back",
-  "age": "28",
-  "from_club": "Aston Villa",
-  "to_club": "Arsenal",
-  "fee": "\u00a360m",
-  "style": "A dominant, athletic centre-back who excels in aerial duels, aggressive defending, and carrying the ball out from the back.",
-  "fit": "Provides proven Premier League quality and physicality to cover for the injured William Saliba, slotting seamlessly into Arsenal's high defensive line.",
-  "source": "Fabrizio Romano",
-  "summary": "Arsenal are in active negotiations to sign Aston Villa centre-back Ezri Konsa, with an opening bid of \u00a330m already rejected by Villa, who value the 28-year-old at \u00a360m. Fabrizio Romano has confirmed concrete contact on both club and player sides, describing Konsa as Arsenal's 'most easy solution' among their centre-back targets.",
-  "outlet": "teamtalk",
-  "url": "https://www.teamtalk.com/arsenal/transfer-news-fabrizio-romano-marc-pubill-atletico-madrid-ezri-konsa",
-  "title": "Fabrizio Romano confirms Arsenal \u2018will\u2019 make signing No 5 amid \u00a360m \u2018negotiation\u2019"
  },
  {
   "id": "98a2867baf5a58266951b17e8e3281f4",

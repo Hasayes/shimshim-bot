@@ -1,6 +1,5 @@
 {
   "sent": [
-    "5808f8f64411445f9b789dc2f539ce70",
     "8626b45414c194af904a3e7246ece166",
     "ddaba2edd8a580e553a2eab9f6361f3b",
     "07ecee025a082b15ac4cd60d1a746367",
@@ -1499,7 +1498,8 @@
     "tg:FabrizioRomanoTG/64941",
     "tg:FabrizioRomanoTG/64942",
     "84e0c0453d251914b921fa0149a2ee81",
-    "f267fb8cbccd288b581f754e6c7817bb"
+    "f267fb8cbccd288b581f754e6c7817bb",
+    "tg:FabrizioRomanoTG/64943"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1726,7 +1726,7 @@
     "odogu -> toulouse": 2,
     "methalie -> sunderland": 1,
     "favasuli -> napoli": 1,
-    "moreira -> milan": 1,
+    "moreira -> milan": 2,
     "yaakobishvili -> ud almeria": 2,
     "mora -> as roma": 1,
     "elvedi -> leeds": 1,
@@ -1930,7 +1930,6 @@
     "interest: zirkzee -> napoli"
   ],
   "titles": [
-    "tottenham get fresh savinho update as transfer saga rumbles on london evening st",
     "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 rodri to barcelona, deal agreed: the exclusive story of the night \ud83d\udca5 \ud83c\uddea\ud83c\uddf8 htt",
     "\ud83d\udcfa new youtube video uploaded! \ud83c\udfac \ud83d\udea8 \ud83d\udca3 double here we go! rodri bomba and not only!",
     "amar dedic solves a newcastle problem nobody wanted to talk about",
@@ -2229,7 +2228,8 @@
     "\ud83d\udd35 \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc73\udb40\udc63\udb40\udc74\udb40\udc7f scotland u19 centre back alfie osborn has signed in at chelsea today h",
     "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f bamba dieng will undergo medical at lazio on thursday ahead of possible m",
     "juventus face a serie a competition for man utd star",
-    "bruno fernandes rejects first man utd contract offer as ineos seek \u2018solution\u2019 an"
+    "bruno fernandes rejects first man utd contract offer as ineos seek \u2018solution\u2019 an",
+    "\ud83d\udea8 \ud83d\udd34 \u26ab\ufe0f official: diego moreira joins ac milan from rc strasbourg \u20ac50m fixed fee,"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2529,12 +2529,12 @@
     "dominik livakovic": "https://r2.thesportsdb.com/images/media/player/cutout/pp3yab1762457197.png/small",
     "juan musso": "https://r2.thesportsdb.com/images/media/player/cutout/401mle1762287491.png/small",
     "said el mala": "",
-    "hermann malonga": "",
     "tommy marques": "",
     "dastan satpayev": "",
-    "heaven kilwa": ""
+    "heaven kilwa": "",
+    "hermann malonga": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

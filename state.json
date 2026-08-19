@@ -1,8 +1,5 @@
 {
   "sent": [
-    "58dd4fd1f7d12f9df27ef4410934cae7",
-    "da04335acc55a81d11f629e5c044db34",
-    "eb0ce598840fe37de8ece732e03c1918",
     "7733d66b04751b5d7a2719317f35e533",
     "88d898720c7331beaf6c36688a502388",
     "99918e46c7137b6d817cb8bd523b3cfd",
@@ -1499,7 +1496,10 @@
     "tg:FabrizioRomanoTG/64929",
     "tg:FabrizioRomanoTG/64930",
     "8df382fb6469f658369412fab65339e9",
-    "tg:FabrizioRomanoTG/64931"
+    "tg:FabrizioRomanoTG/64931",
+    "e35f11ba6423166cdea2ec2429f9dc4c",
+    "1b78ae806d8c9d2d0b54d82c68f5ea58",
+    "tg:FabrizioRomanoTG/64936"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1928,8 +1928,6 @@
     "interest: musso -> napoli"
   ],
   "titles": [
-    "\ud83d\udea8 \u26a0\ufe0f curtis jones, out of both friendly games for liverpool today inter remain k",
-    "report \u2013 roma target omitted from arsenal\u2019s community shield squad",
     "\ud83d\udea8 \ud83d\udfe1 \ud83d\udd34 understand as roma have improved their bid and are now confident to get ro",
     "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f excl: rc strasbourg agree deal to sign jeyland mitchell, here we go! \ud83c\udde8\ud83c\uddf7 d",
     "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 breaking: joao cancelo to barcelona, here we go! agreement done on contrac",
@@ -2227,7 +2225,9 @@
     "\ud83d\udea8 \ud83c\uddf8\ud83c\udde6 official, exclusive story confirmed tijjani reijnders signs for al qadsiah ",
     "\ud83d\udea8 ederson on deal off with man united: \u201cno idea why that happened i've always ha",
     "barcelona consider surprise goalkeeper bid",
-    "\ud83d\udea8 \ud83d\udfe1 \ud83d\udd34 exclusive: galatasaray sent official bid to crystal palace for ismaila sar"
+    "\ud83d\udea8 \ud83d\udfe1 \ud83d\udd34 exclusive: galatasaray sent official bid to crystal palace for ismaila sar",
+    "aaron wan bissaka medical update emerges as aston villa on verge of triple signi",
+    "\ud83d\udea8 \ud83d\udc02 torino agree deal to sign niccolo fortini as new fullback from fiorentina de"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2526,13 +2526,13 @@
     "darwin nunez": "https://r2.thesportsdb.com/images/media/player/cutout/i78juc1693941560.png/small",
     "dominik livakovic": "https://r2.thesportsdb.com/images/media/player/cutout/pp3yab1762457197.png/small",
     "juan musso": "https://r2.thesportsdb.com/images/media/player/cutout/401mle1762287491.png/small",
-    "tommy marques": "",
     "dastan satpayev": "",
     "heaven kilwa": "",
     "said el mala": "",
-    "hermann malonga": ""
+    "hermann malonga": "",
+    "tommy marques": ""
   },
-  "photo_repair_idx": 5,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

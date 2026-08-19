@@ -1,6 +1,5 @@
 {
   "sent": [
-    "ca58bbeecfdbbbfd6ce1877b81d3734e",
     "tg:FabrizioRomanoTG/64122",
     "503b0ef07dc750ca0fbc4435102aa3d2",
     "tg:FabrizioRomanoTG/64123",
@@ -1499,7 +1498,8 @@
     "tg:FabrizioRomanoTG/64899",
     "tg:FabrizioRomanoTG/64901",
     "11a37e4fe020d75869172e37ee3e52f9",
-    "4f3a9204114757dd5ac606d61a640ca8"
+    "4f3a9204114757dd5ac606d61a640ca8",
+    "tg:FabrizioRomanoTG/64902"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1923,7 +1923,6 @@
     "interest: endrick -> milan"
   ],
   "titles": [
-    "romano: arsenal want to sign atletico star marc pubill alongside alvarez",
     "newcastle united are pursuing a move for christopher nkunku",
     "why juventus still unsure of martinez after aston villa dive in for suzuki",
     "arsenal get alvarez transfer boost as new barcelona striker shortlist 'revealed'",
@@ -2222,7 +2221,8 @@
     "\ud83d\udfe3 \ud83d\udd35 \ud83d\udd10 official, confirmed: aston villa sign matteo ruggeri from atletico madrid ",
     "\ud83d\udea8 \ud83d\udd35 joao pedro puts pen to paper and signs new chelsea deal until june 2032, doc",
     "al hilal target england's kane wednesday's gossip",
-    "newcastle exploring surprise raid on man city after multiple midfield misses tea"
+    "newcastle exploring surprise raid on man city after multiple midfield misses tea",
+    "\ud83d\udea8 \ud83d\udd34 manchester united are set to sign carlos baleba from brighton as new midfiel"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2521,13 +2521,13 @@
     "endrick": "https://r2.thesportsdb.com/images/media/player/cutout/5yb3rv1733653315.png/small",
     "aaron wan bissaka": "https://r2.thesportsdb.com/images/media/player/cutout/xdt9hb1756984581.png/small",
     "niclas fullkrug": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/NiclasF%C3%BCllkrug_%28cropped%29.jpg/330px-NiclasF%C3%BCllkrug_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "tommy marques": "",
     "dastan satpayev": "",
     "heaven kilwa": "",
     "said el mala": "",
-    "hermann malonga": ""
+    "hermann malonga": "",
+    "tommy marques": ""
   },
-  "photo_repair_idx": 5,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

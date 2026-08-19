@@ -1,6 +1,5 @@
 {
   "sent": [
-    "73c08bf8e8d2182cc5349edcb86146a5",
     "adb3ba5f53ec01a4d4b353565869771b",
     "71e209a020eb0a4d84cfceb0e5f1b501",
     "58dd4fd1f7d12f9df27ef4410934cae7",
@@ -1499,7 +1498,8 @@
     "tg:FabrizioRomanoTG/64926",
     "tg:FabrizioRomanoTG/64928",
     "3e06bef34f37c0447032a576160297c0",
-    "tg:FabrizioRomanoTG/64929"
+    "tg:FabrizioRomanoTG/64929",
+    "tg:FabrizioRomanoTG/64930"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1928,7 +1928,6 @@
     "interest: musso -> napoli"
   ],
   "titles": [
-    "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f juventus, open to signing emi martinez for same fee offered in june (\u20ac6 ",
     "\ud83d\udd34 \u26aa\ufe0f \u2728 two assists on official debut since joining arsenal for christos tzolis \ud83c\uddec",
     "bayern munich news: the aftermath of fc bayern\u2019s 3 1 win over rb leipzig; fc bar",
     "\ud83d\udea8 \u26a0\ufe0f curtis jones, out of both friendly games for liverpool today inter remain k",
@@ -2227,7 +2226,8 @@
     "rt @fabrizioromano : \ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f breaking: arsenal agree deal to sign ezri konsa from",
     "rt @fabrizioromano : \ud83d\udea8 manchester united mantain regular contact with carlos bal",
     "napoli eye stunning premier league triple raid for gabriel jesus, joshua zirkzee",
-    "\ud83d\udea8 \ud83c\uddf8\ud83c\udde6 official, exclusive story confirmed tijjani reijnders signs for al qadsiah "
+    "\ud83d\udea8 \ud83c\uddf8\ud83c\udde6 official, exclusive story confirmed tijjani reijnders signs for al qadsiah ",
+    "\ud83d\udea8 ederson on deal off with man united: \u201cno idea why that happened i've always ha"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2526,13 +2526,13 @@
     "darwin nunez": "https://r2.thesportsdb.com/images/media/player/cutout/i78juc1693941560.png/small",
     "dominik livakovic": "https://r2.thesportsdb.com/images/media/player/cutout/pp3yab1762457197.png/small",
     "juan musso": "https://r2.thesportsdb.com/images/media/player/cutout/401mle1762287491.png/small",
-    "said el mala": "",
     "hermann malonga": "",
     "tommy marques": "",
     "dastan satpayev": "",
-    "heaven kilwa": ""
+    "heaven kilwa": "",
+    "said el mala": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

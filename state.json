@@ -1,9 +1,5 @@
 {
   "sent": [
-    "acb273466b3906c57308e892f17720d4",
-    "tg:FabrizioRomanoTG/64161",
-    "tg:FabrizioRomanoTG/64163",
-    "4da7ea56513a9607e9d93d25509ed0bc",
     "a2acc34e8d0c23e6fc1e7f94da744c78",
     "dc47c45296c1994ed67f82f63322c00e",
     "d6fc9b2b34e594070dbdaf4f02833af3",
@@ -1499,7 +1495,11 @@
     "0329b48611df833006519289a013c415",
     "73c6d8577568ded8a00c896f370191b7",
     "477dd24cb7aa35474e61b1b1a327f4c7",
-    "c5b695773a81debba8f1e438a15f4fc3"
+    "c5b695773a81debba8f1e438a15f4fc3",
+    "23ecab8e7b104b512b4424d6b4957323",
+    "bba0abafcf338a117f02b4f8e51b3fa6",
+    "657596ec15a8dea1289b71f95421bbaf",
+    "4b367d68261cc5149e2b25e80ab89430"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1930,10 +1930,6 @@
     "interest: zirkzee -> napoli"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83d\udfe1 \ud83d\udd34 more on exclusive update from the afternoon: as roma are now closing in on",
-    "coventry city 'close' to completing signing of premier league striker as \u00a317m tr",
-    "\ud83d\udea8 \ud83e\udde4 juventus, aston villa and emiliano martinez camp all calling the deal 100% o",
-    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f sc braga are closing in on tommy marques deal with barcelona, direct talk",
     "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f tommy marques to sc braga, here we go! deal in place for permanent exit o",
     "juventus make new attempt to sign goalkeeper who wanted to join manchester unite",
     "transfer rumors, news: liverpool step up barcola chase as psg sign godts espn co",
@@ -2229,7 +2225,11 @@
     "man utd fans react to ineos \u2018moving in silence\u2019 for carlos baleba transfer as al",
     "ornstein reveals man utd are \u2018closing in\u2019 on shock deal for third midfielder wit",
     "carlos baleba passes paul scholes demand with flying colours, roy keane will als",
-    "epl: bruno fernandes rejects man utd\u2019s contract offer"
+    "epl: bruno fernandes rejects man utd\u2019s contract offer",
+    "joao pedro commits future to chelsea with new deal until 2032",
+    "manchester united confident on baleba deal despite opening bid rejection",
+    "rodri joins barcelona from manchester city on a 5 year deal until 2030",
+    "inter \u2018ready\u2019 to submit another offer for curtis jones \u2013 their proposed bid is l"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2529,12 +2529,12 @@
     "dominik livakovic": "https://r2.thesportsdb.com/images/media/player/cutout/pp3yab1762457197.png/small",
     "juan musso": "https://r2.thesportsdb.com/images/media/player/cutout/401mle1762287491.png/small",
     "said el mala": "",
-    "heaven kilwa": "",
     "hermann malonga": "",
     "tommy marques": "",
-    "dastan satpayev": ""
+    "dastan satpayev": "",
+    "heaven kilwa": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

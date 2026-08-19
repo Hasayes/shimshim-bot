@@ -1,7 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/64147",
-    "tg:FabrizioRomanoTG/64148",
     "7cb71ac7d502d5a5932ef4ee1d35b85d",
     "28046480005f0eafbe00beb9105890e5",
     "tg:FabrizioRomanoTG/64150",
@@ -1499,7 +1497,9 @@
     "tg:FabrizioRomanoTG/64918",
     "tg:FabrizioRomanoTG/64919",
     "tg:FabrizioRomanoTG/64920",
-    "tg:FabrizioRomanoTG/64921"
+    "tg:FabrizioRomanoTG/64921",
+    "tg:FabrizioRomanoTG/64922",
+    "tg:FabrizioRomanoTG/64923"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1928,8 +1928,6 @@
     "interest: musso -> napoli"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83d\udfe3 \ud83d\udd35 aston villa and parma have started exchanging documents for zion suzuki de",
-    "\ud83d\udfe3 \ud83d\udd35 \ud83d\udc40 suzuki, on #avfc shortlist since early days as revealed back in june and n",
     "\ud83d\udea8 \ud83d\udfe1 \u26ab\ufe0f joey veerman to borussia dortmund, here we go! deal agreed for \u20ac21 5m fro",
     "awoniyi joins onyeka at coventry",
     "\ud83d\udea8 \ud83c\udde7\ud83c\uddf7 savinho, not involved into man city squad for community shield today as tal",
@@ -2227,7 +2225,9 @@
     "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 barcelona are considering a move for croatian gk dominik livakovic nothing",
     "\ud83d\udea8 \u26ab\ufe0f \ud83d\udd35 exclusive: inter agree deal to sign curtis jones from liverpool, here we ",
     "\ud83d\udea8 napoli and atletico madrid have discussed potential swap deal between juan mus",
-    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f breaking: arsenal agree deal to sign ezri konsa from aston villa, here we"
+    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f breaking: arsenal agree deal to sign ezri konsa from aston villa, here we",
+    "\ud83d\udea8 \ud83c\udde6\ud83c\uddf9 sturm graz have sent loan with buy option bid to napoli for 23 year old def",
+    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f atletico madrid president enrique cerezo: \u201ci don\u2019t know if julian alvarez"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2524,15 +2524,15 @@
     "aaron wan bissaka": "https://r2.thesportsdb.com/images/media/player/cutout/xdt9hb1756984581.png/small",
     "niclas fullkrug": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/NiclasF%C3%BCllkrug_%28cropped%29.jpg/330px-NiclasF%C3%BCllkrug_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "darwin nunez": "https://r2.thesportsdb.com/images/media/player/cutout/i78juc1693941560.png/small",
-    "hermann malonga": "",
     "dominik livakovic": "https://r2.thesportsdb.com/images/media/player/cutout/pp3yab1762457197.png/small",
     "tommy marques": "",
     "dastan satpayev": "",
     "juan musso": "https://r2.thesportsdb.com/images/media/player/cutout/401mle1762287491.png/small",
     "heaven kilwa": "",
-    "said el mala": ""
+    "said el mala": "",
+    "hermann malonga": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 5,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

@@ -1,6 +1,5 @@
 {
   "sent": [
-    "68cfb6886e64d3cee3f55648fbd93aba",
     "095c7fa0988bdbe6cb0c9ebc0054eea8",
     "753b2fb607f3796d0390f1ff64e320bc",
     "db4165b3d1a88c3121977a37b9a29562",
@@ -1499,7 +1498,8 @@
     "576fa6cd9095c53f96c3087aab47b5df",
     "d9a72c13c46ba62f1da4e1576c0bc4b1",
     "adfb73163aca892df64558014439dfd3",
-    "c8257942e29b8957096f4fd734497c69"
+    "c8257942e29b8957096f4fd734497c69",
+    "f217c23f7effb9d91094bedcaf8efc79"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1923,7 +1923,6 @@
     "interest: endrick -> milan"
   ],
   "titles": [
-    "it\u2019s official: one major domino has fallen as liverpool handed bradley barcola t",
     "'confirmed' fabrizio romano shares promising man utd transfer update",
     "fabrizio romano: arsenal have shortlisted 'underrated' ezri konsa",
     "\ud83d\udcfa new youtube video uploaded! \ud83c\udfac \ud83d\udea8 \ud83d\udca3 deal off! barca deal done soon! rodri and en",
@@ -2222,7 +2221,8 @@
     "man utd suffer transfer blow as barcelona midfielder gavi snubs premier league m",
     "man utd a \u2018disgrace\u2019 for not backing michael carrick with elite signings \u2013 sky s",
     "real madrid officially unveils mourinho as coach",
-    "champions league outfit reaches decision on record man utd swoop for lewis hall "
+    "champions league outfit reaches decision on record man utd swoop for lewis hall ",
+    "how barcelona beat real madrid to \u20ac76 5m rodri transfer that started with a wedd"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2521,13 +2521,13 @@
     "endrick": "https://r2.thesportsdb.com/images/media/player/cutout/5yb3rv1733653315.png/small",
     "aaron wan bissaka": "https://r2.thesportsdb.com/images/media/player/cutout/xdt9hb1756984581.png/small",
     "niclas fullkrug": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/NiclasF%C3%BCllkrug_%28cropped%29.jpg/330px-NiclasF%C3%BCllkrug_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "heaven kilwa": "",
     "said el mala": "",
     "hermann malonga": "",
     "tommy marques": "",
-    "dastan satpayev": ""
+    "dastan satpayev": "",
+    "heaven kilwa": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

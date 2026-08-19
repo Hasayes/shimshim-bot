@@ -1,7 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/64135",
-    "tg:FabrizioRomanoTG/64136",
     "tg:FabrizioRomanoTG/64137",
     "tg:FabrizioRomanoTG/64138",
     "tg:FabrizioRomanoTG/64139",
@@ -1499,7 +1497,9 @@
     "tg:FabrizioRomanoTG/64906",
     "fcec73945905a21bb787178b415ce1e6",
     "a5013678dd12d3e6f0f844a9bbef6ac2",
-    "tg:FabrizioRomanoTG/64908"
+    "tg:FabrizioRomanoTG/64908",
+    "a61680c6e7483a10e36915a1ab72ecce",
+    "32e660354c07e3f446dee47b3f0086c8"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1923,7 +1923,6 @@
     "interest: endrick -> milan"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83c\uddf5\ud83c\uddf9 al hilal have genuine interest in pedro neto as part of a three wingers sho",
     "\ud83d\udea8 \ud83e\ude75 enzo maresca says he wants ryan mcaidoo to stay at man city \u201cthe best for hi",
     "borussia dortmund and rb leipzig join race for manchester united linked attacker",
     "\u201cnothing expected\u201d martinelli not considering moving to turkiye",
@@ -2222,7 +2221,8 @@
     "\ud83d\udea8 \ud83d\udd34 carlos baleba made clear to his camp his only dream since august 2025: manch",
     "manchester city haven\u2019t reportedly given up on enzo fernandez even after missing",
     "aston villa transfer news: ollie watkins 'takes stance' as al hilal launch \u00a338 5",
-    "\ud83d\udea8 \ud83e\udd85 benfica are pushing to try get joao palhinha deal done after aston villa bid"
+    "\ud83d\udea8 \ud83e\udd85 benfica are pushing to try get joao palhinha deal done after aston villa bid",
+    "yet another manchester city midfielder is linked with a summer departure but wou"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2521,13 +2521,13 @@
     "endrick": "https://r2.thesportsdb.com/images/media/player/cutout/5yb3rv1733653315.png/small",
     "aaron wan bissaka": "https://r2.thesportsdb.com/images/media/player/cutout/xdt9hb1756984581.png/small",
     "niclas fullkrug": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/NiclasF%C3%BCllkrug_%28cropped%29.jpg/330px-NiclasF%C3%BCllkrug_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "tommy marques": "",
     "dastan satpayev": "",
     "heaven kilwa": "",
     "said el mala": "",
-    "hermann malonga": ""
+    "hermann malonga": "",
+    "tommy marques": ""
   },
-  "photo_repair_idx": 5,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

@@ -1,6 +1,5 @@
 {
   "sent": [
-    "7e6236b416ae603cd613d388c7842d46",
     "d875c7925414905a24f91914e09cd14b",
     "0cb66e1757f4afecd2b167cb8c14ac9d",
     "e1b94a267cacf7fd474e2c5a6ee70fd7",
@@ -1499,7 +1498,8 @@
     "tg:FabrizioRomanoTG/64880",
     "2a371ed8be27f37991a6f40b9b39e02a",
     "dcfb0f36b49d9a8e4d7748986b39edf8",
-    "tg:FabrizioRomanoTG/64883"
+    "tg:FabrizioRomanoTG/64883",
+    "a85cbc3dea27a7c87e1491550126b3d3"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1923,7 +1923,6 @@
     "interest: endrick -> milan"
   ],
   "titles": [
-    "a midfielder looks to be on his way out of manchester city which is a shame",
     "\ud83d\udd34 \ud83d\udd35 \ud83c\udde7\ud83c\uddea official, exclusive story confirmed mika godts signs in at paris saint ge",
     "liverpool fully expect to seal agreement with generational star \u2013 exclusive",
     "transfer rumors, news: arsenal turn to versatile brighton midfielder",
@@ -2222,7 +2221,8 @@
     "\u26aa\ufe0f \ud83d\udc40 jose mourinho on what he wants from his players at real madrid: \u201ci want com",
     "romano says tottenham star vicario has 'signed his contract' with juventus",
     "newcastle united prowl for milan\u2019s christopher nkunku but leipzig advance in mov",
-    "\u26aa\ufe0f \u2705 jose mourinho confirms he got involved into vini jr new contract process \u201ci"
+    "\u26aa\ufe0f \u2705 jose mourinho confirms he got involved into vini jr new contract process \u201ci",
+    "\u26a0\ufe0fjuve kessie, napoli keeper, wesley backup, kean heir: today\u2019s deals \ud83e\udd11"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2521,13 +2521,13 @@
     "endrick": "https://r2.thesportsdb.com/images/media/player/cutout/5yb3rv1733653315.png/small",
     "aaron wan bissaka": "https://r2.thesportsdb.com/images/media/player/cutout/xdt9hb1756984581.png/small",
     "niclas fullkrug": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/NiclasF%C3%BCllkrug_%28cropped%29.jpg/330px-NiclasF%C3%BCllkrug_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "dastan satpayev": "",
     "heaven kilwa": "",
     "said el mala": "",
     "hermann malonga": "",
-    "tommy marques": ""
+    "tommy marques": "",
+    "dastan satpayev": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

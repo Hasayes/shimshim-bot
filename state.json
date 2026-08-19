@@ -1,7 +1,5 @@
 {
   "sent": [
-    "355c423df4b058b4808b9debdca980e3",
-    "0f2948812a23c60a7f510858975706e4",
     "b6698941d9c95e976c7d23149078b8aa",
     "tg:FabrizioRomanoTG/64109",
     "tg:FabrizioRomanoTG/64111",
@@ -1499,7 +1497,9 @@
     "22007548faa9af75e3eb5a05fc28a7c7",
     "tg:FabrizioRomanoTG/64888",
     "a80ec505738435d8d65cecc35072998e",
-    "tg:FabrizioRomanoTG/64889"
+    "tg:FabrizioRomanoTG/64889",
+    "1a3c09b87aaa92802564eda3a0892415",
+    "tg:FabrizioRomanoTG/64890"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1923,8 +1923,6 @@
     "interest: endrick -> milan"
   ],
   "titles": [
-    "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f amar dedic, flying to england today for medical tests and contract signi",
-    "dortmund push hard to seal a deal from barcelona",
     "barcelona optimistic of landing rodri after making third offer",
     "mika baur is over the moon to finally be a celtic player",
     "romano gives \u201chere we go\u201d to \u20ac35m newcastle deal; sellers could be in trouble",
@@ -2222,7 +2220,9 @@
     "david ornstein: newcastle in talks to sign man city star nico gonzalez",
     "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f michele di gregorio accepts to leave juventus before the end of the wind",
     "como push for ricci as milan hold firm on permanent sale",
-    "\ud83d\udea8 \ud83d\udfe3 \ud83d\udd35 busy hours at aston villa as aaron wan bissaka starts his medical at the c"
+    "\ud83d\udea8 \ud83d\udfe3 \ud83d\udd35 busy hours at aston villa as aaron wan bissaka starts his medical at the c",
+    "former inter milan striker puts lazio on hold as he evaluates his options",
+    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f rc strasbourg agree deal to sign karim coulibaly from werder bremen, here"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2521,13 +2521,13 @@
     "endrick": "https://r2.thesportsdb.com/images/media/player/cutout/5yb3rv1733653315.png/small",
     "aaron wan bissaka": "https://r2.thesportsdb.com/images/media/player/cutout/xdt9hb1756984581.png/small",
     "niclas fullkrug": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/NiclasF%C3%BCllkrug_%28cropped%29.jpg/330px-NiclasF%C3%BCllkrug_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "dastan satpayev": "",
     "heaven kilwa": "",
     "said el mala": "",
     "hermann malonga": "",
-    "tommy marques": ""
+    "tommy marques": "",
+    "dastan satpayev": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

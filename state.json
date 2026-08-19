@@ -1731,7 +1731,8 @@
     "mora -> as roma": 1,
     "elvedi -> leeds": 1,
     "bissaka -> aston villa": 1,
-    "fullkrug -> werder bremen": 2
+    "fullkrug -> werder bremen": 2,
+    "nunez -> al diriyah": 1
   },
   "interest": [
     "interest: alvarez -> arsenal",
@@ -2226,7 +2227,6 @@
   ],
   "tg_update_offset": 263617426,
   "photos": {
-    "marcus rashford": "https://r2.thesportsdb.com/images/media/player/cutout/soi5zw1761512565.png/small",
     "nico schlotterbeck": "https://r2.thesportsdb.com/images/media/player/cutout/fw07jw1756326507.png/small",
     "andreas schjelderup": "https://r2.thesportsdb.com/images/media/player/cutout/ihgav61758216246.png/small",
     "crysencio summerville": "https://r2.thesportsdb.com/images/media/player/cutout/b51rjk1756984653.png/small",
@@ -2525,6 +2525,7 @@
     "tommy marques": "",
     "dastan satpayev": "",
     "heaven kilwa": "",
+    "darwin nunez": "https://r2.thesportsdb.com/images/media/player/cutout/i78juc1693941560.png/small",
     "said el mala": ""
   },
   "photo_repair_idx": 4,

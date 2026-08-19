@@ -1,6 +1,5 @@
 {
   "sent": [
-    "fb9e1811aef458d24791f20ed1f59699",
     "b67f55cb8ee4a93e4f30965eb2ea3cdd",
     "f207f01f59510136400832b16f29f63b",
     "0a2b0061781f45a79b7484615211eed4",
@@ -1499,7 +1498,8 @@
     "e1501c629fe65cde60525577b7e5655a",
     "a17a20c38160bd5b749250a728763425",
     "d0f3114ec41cbedbd6bb554b8386859c",
-    "65988e72d01b53fefa2e551ed3583b12"
+    "65988e72d01b53fefa2e551ed3583b12",
+    "1515089384588c3853054f905257fab3"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1936,7 +1936,6 @@
     "interest: viadero -> atletico madrid"
   ],
   "titles": [
-    "report \u2013 milan weigh summer bid for red star prodigy",
     "sunday morning double whammy: bvb set to sign joey veerman and giannis konstante",
     "barcelona target gives up a huge chunk of salary to fast track move to camp nou",
     "fabrizio romano reveals how man city can still land enzo fernandez after chelsea",
@@ -2235,7 +2234,8 @@
     "transfer news and rumours today: defender set for aston villa medical, jamal mus",
     "carlos baleba's shirt number at man utd: three options if \u00a365m signing is comple",
     "arsenal transfer news: david ornstein reveals gunners are now 'closing in' on fi",
-    "romano: man utd 'very interested' in signing lewis skelly after baleba"
+    "romano: man utd 'very interested' in signing lewis skelly after baleba",
+    "ezri konsa transfer news: arsenal in advanced talks to sign aston villa and engl"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2534,13 +2534,13 @@
     "juan musso": "https://r2.thesportsdb.com/images/media/player/cutout/401mle1762287491.png/small",
     "said el mala": "",
     "troy parrott": "https://r2.thesportsdb.com/images/media/player/cutout/rkteg41722970805.png/small",
-    "dastan satpayev": "",
     "jorge salinas viadero": "https://r2.thesportsdb.com/images/media/player/cutout/xn4s6u1784896958.png/small",
     "heaven kilwa": "",
     "hermann malonga": "",
-    "tommy marques": ""
+    "tommy marques": "",
+    "dastan satpayev": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

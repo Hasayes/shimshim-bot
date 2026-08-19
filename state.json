@@ -1,6 +1,5 @@
 {
   "sent": [
-    "3bec4aee2b425db26da107e860049f90",
     "tg:FabrizioRomanoTG/64157",
     "tg:FabrizioRomanoTG/64158",
     "1fe8696d140a103aa409ad5c51dc76f1",
@@ -1499,7 +1498,8 @@
     "tg:FabrizioRomanoTG/64943",
     "8cb0b1faa252d7553d38b192f11aa8e9",
     "ca9b36c305f18d42750c0b2eecb62cf2",
-    "5f81e0a550d3a1fc17c1234e5db43892"
+    "5f81e0a550d3a1fc17c1234e5db43892",
+    "a1afa3ad641d3490d91c1aba6b9e6897"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2529,12 +2529,12 @@
     "dominik livakovic": "https://r2.thesportsdb.com/images/media/player/cutout/pp3yab1762457197.png/small",
     "juan musso": "https://r2.thesportsdb.com/images/media/player/cutout/401mle1762287491.png/small",
     "said el mala": "",
-    "dastan satpayev": "",
     "heaven kilwa": "",
     "hermann malonga": "",
-    "tommy marques": ""
+    "tommy marques": "",
+    "dastan satpayev": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

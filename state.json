@@ -1,7 +1,5 @@
 {
   "sent": [
-    "edc3a7222b2ee60c7aeb7cbfe4742be4",
-    "ba4f4b232b18d21c8fb98f2bf207d586",
     "f9a20c7282c6884169f98e99d670319f",
     "4cd529089efb1ff0d0f55ab485eedf86",
     "68cfb6886e64d3cee3f55648fbd93aba",
@@ -1499,7 +1497,9 @@
     "db2424c0ad8e03f4ddf339d370447bd9",
     "4e821f9d6e0166fc946c67ee06d49785",
     "69e86f5345a6023d89a63610df34c791",
-    "c120e1414c942f35552cadf3ef0ece0b"
+    "c120e1414c942f35552cadf3ef0ece0b",
+    "576fa6cd9095c53f96c3087aab47b5df",
+    "d9a72c13c46ba62f1da4e1576c0bc4b1"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1923,8 +1923,6 @@
     "interest: endrick -> milan"
   ],
   "titles": [
-    "report: liverpool will soon submit opening offer for teenage \u2018phenomenon\u2019",
-    "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 barcelona are confident to get green light for joao cancelo\u2019s comeback and",
     "bvb on the verge of a transfer coup? borussia dortmund apparently in pole positi",
     "liverpool 'fully expect' to 'agree deal' after romano update; fsg 'no longer fea",
     "it\u2019s official: one major domino has fallen as liverpool handed bradley barcola t",
@@ -2222,7 +2220,9 @@
     "barcelona star gavi responds to man utd transfer interest as red devils eye thir",
     "fc barcelona pay enormous fee and sign rodri",
     "patrick vieira set to land new coaching job",
-    "myles lewis skelley is the wrong target, man utd should be signing his available"
+    "myles lewis skelley is the wrong target, man utd should be signing his available",
+    "man utd suffer transfer blow as barcelona midfielder gavi snubs premier league m",
+    "man utd a \u2018disgrace\u2019 for not backing michael carrick with elite signings \u2013 sky s"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2521,13 +2521,13 @@
     "endrick": "https://r2.thesportsdb.com/images/media/player/cutout/5yb3rv1733653315.png/small",
     "aaron wan bissaka": "https://r2.thesportsdb.com/images/media/player/cutout/xdt9hb1756984581.png/small",
     "niclas fullkrug": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/NiclasF%C3%BCllkrug_%28cropped%29.jpg/330px-NiclasF%C3%BCllkrug_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "hermann malonga": "",
     "tommy marques": "",
     "dastan satpayev": "",
     "heaven kilwa": "",
-    "said el mala": ""
+    "said el mala": "",
+    "hermann malonga": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 5,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

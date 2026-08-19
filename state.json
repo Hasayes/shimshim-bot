@@ -1,7 +1,5 @@
 {
   "sent": [
-    "3127e7b958ec79bcbb077ef4f82c9bfe",
-    "3aa77f00f966798b6ae8cc1b3a50f0c6",
     "acb273466b3906c57308e892f17720d4",
     "tg:FabrizioRomanoTG/64161",
     "tg:FabrizioRomanoTG/64163",
@@ -1499,7 +1497,9 @@
     "fac76602a3cfdbee498288f13a2a9bfd",
     "8d7526dff93391bd428035973211cee3",
     "0329b48611df833006519289a013c415",
-    "73c6d8577568ded8a00c896f370191b7"
+    "73c6d8577568ded8a00c896f370191b7",
+    "477dd24cb7aa35474e61b1b1a327f4c7",
+    "c5b695773a81debba8f1e438a15f4fc3"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1930,8 +1930,6 @@
     "interest: zirkzee -> napoli"
   ],
   "titles": [
-    "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f juventus have made official club to club approach with tottenham for gug",
-    "\ud83d\udea8 \ud83d\udfe3 \ud83d\udd35 aston villa are still proceeding with all the formal steps of zion suzuki ",
     "\ud83d\udea8 \ud83d\udfe1 \ud83d\udd34 more on exclusive update from the afternoon: as roma are now closing in on",
     "coventry city 'close' to completing signing of premier league striker as \u00a317m tr",
     "\ud83d\udea8 \ud83e\udde4 juventus, aston villa and emiliano martinez camp all calling the deal 100% o",
@@ -2229,7 +2227,9 @@
     "man utd set to sign premier league star after shock \u00a365m offer",
     "just in: man united closing in on deal to sign \u2018high energy\u2019 premier league midf",
     "man utd fans react to ineos \u2018moving in silence\u2019 for carlos baleba transfer as al",
-    "ornstein reveals man utd are \u2018closing in\u2019 on shock deal for third midfielder wit"
+    "ornstein reveals man utd are \u2018closing in\u2019 on shock deal for third midfielder wit",
+    "carlos baleba passes paul scholes demand with flying colours, roy keane will als",
+    "epl: bruno fernandes rejects man utd\u2019s contract offer"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2529,12 +2529,12 @@
     "dominik livakovic": "https://r2.thesportsdb.com/images/media/player/cutout/pp3yab1762457197.png/small",
     "juan musso": "https://r2.thesportsdb.com/images/media/player/cutout/401mle1762287491.png/small",
     "said el mala": "",
-    "dastan satpayev": "",
     "heaven kilwa": "",
     "hermann malonga": "",
-    "tommy marques": ""
+    "tommy marques": "",
+    "dastan satpayev": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

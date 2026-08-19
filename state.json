@@ -1,13 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/64164",
-    "tg:FabrizioRomanoTG/64165",
-    "2eb57aa07292a1cf9dbf3258acda6504",
-    "2dd4498a6f1e323dca44062ebf62a727",
-    "1f48c948c76b1d0838a825010d3ac3fc",
-    "2c93644743774eade469c9b9d9c3002b",
-    "0fbe6b3946e2b067ed7e05ed71f3e30a",
-    "4321bc458b583c5516323c5dc7b747fb",
     "78a1e25fa72c4060eb765277733dc1c8",
     "tg:FabrizioRomanoTG/64167",
     "fb9e1811aef458d24791f20ed1f59699",
@@ -1499,7 +1491,15 @@
     "52ac4d18e95858010b46eb29a5a20077",
     "70af5aad9e28d04b1324aeba94398ac8",
     "3f5ff4fbf487f953c0ff7d0ba8f085b2",
-    "tg:FabrizioRomanoTG/64949"
+    "tg:FabrizioRomanoTG/64949",
+    "187f5bcfbe0ab2907d848f416fae68f1",
+    "764401f333214e9bef92b952474c9165",
+    "ee136f204ec5df1f9e6744726953dbca",
+    "ef473a5a67f326bfe51d24b5e2668d10",
+    "72bba66cedb22c2c7cc2d2bdc1ef94fa",
+    "ca2daa610a6ee1507d9327888c9ddea3",
+    "e1501c629fe65cde60525577b7e5655a",
+    "a17a20c38160bd5b749250a728763425"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1931,17 +1931,11 @@
     "interest: zirkzee -> napoli",
     "interest: skelly -> chelsea",
     "interest: skelly -> manchester united",
-    "interest: scott -> manchester city"
+    "interest: scott -> manchester city",
+    "interest: viadero -> manchester united",
+    "interest: viadero -> atletico madrid"
   ],
   "titles": [
-    "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f juventus will offer a loan deal with buy option clause not mandatory for",
-    "ethan nwaneri given green light to leave arsenal with ac milan weighing move for",
-    "two reasons why delap is unlikely for como despite champions league attraction",
-    "juventus closing in on emi martinez with aston villa set to sign exciting \u00a330m r",
-    "football coventry city agree deals for strikers taiwo awoniyi and sidiki cherif",
-    "football coventry city agree deals to sign strikers taiwo awoniyi and sidiki che",
-    "jose mourinho doubts real madrid star as man utd can capitalise",
-    "lille manager davide ancelotti admits ayyoub bouaddi could join man city amid on",
     "man utd not open to allowing juventus target to leave on a simple loan",
     "done deal: aston villa strike agreement with parma for japan international suzuk",
     "report \u2013 milan weigh summer bid for red star prodigy",
@@ -2233,11 +2227,18 @@
     "ornstein: arsenal close to signing ezri konsa after new aston villa talks",
     "newcastle united open exploratory talks to sign \u00a352m man city player",
     "epl: man united set to sign carlos baleba as new proposal prepared for brighton",
-    "\ud83d\udcfa new youtube video uploaded! \ud83c\udfac \ud83d\udea8 \ud83d\udca3 united: three! julian, sarr bid, martinelli "
+    "\ud83d\udcfa new youtube video uploaded! \ud83c\udfac \ud83d\udea8 \ud83d\udca3 united: three! julian, sarr bid, martinelli ",
+    "manchester united transfer news: michael carrick closes in on carlos baleba afte",
+    "after baleba: man utd negotiating transfer for \u00a337m attacker with sky sports con",
+    "arsenal close in on aston villa signing",
+    "arsenal get new transfer update as napoli 'make enquiries' for gabriel jesus alt",
+    "david ornstein drops arsenal bombshell involving england international defender",
+    "man utd face \u00a313 7m transfer misery as atletico madrid raise stakes for spanish ",
+    "transfer news and rumours today: defender set for aston villa medical, jamal mus",
+    "carlos baleba's shirt number at man utd: three options if \u00a365m signing is comple"
   ],
   "tg_update_offset": 263617426,
   "photos": {
-    "iliman ndiaye": "https://r2.thesportsdb.com/images/media/player/cutout/rten2t1756977078.png/small",
     "karim adeyemi": "https://r2.thesportsdb.com/images/media/player/cutout/go6jti1756325880.png/small",
     "valentin barco": "https://r2.thesportsdb.com/images/media/player/cutout/9yluhs1766053865.png/small",
     "ismaila sarr": "https://r2.thesportsdb.com/images/media/player/cutout/1abo611761492444.png/small",
@@ -2532,13 +2533,14 @@
     "dominik livakovic": "https://r2.thesportsdb.com/images/media/player/cutout/pp3yab1762457197.png/small",
     "juan musso": "https://r2.thesportsdb.com/images/media/player/cutout/401mle1762287491.png/small",
     "said el mala": "",
-    "heaven kilwa": "",
     "troy parrott": "https://r2.thesportsdb.com/images/media/player/cutout/rkteg41722970805.png/small",
     "hermann malonga": "",
     "tommy marques": "",
-    "dastan satpayev": ""
+    "dastan satpayev": "",
+    "jorge salinas viadero": "https://r2.thesportsdb.com/images/media/player/cutout/xn4s6u1784896958.png/small",
+    "heaven kilwa": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

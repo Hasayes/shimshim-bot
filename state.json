@@ -1,6 +1,5 @@
 {
   "sent": [
-    "7733d66b04751b5d7a2719317f35e533",
     "88d898720c7331beaf6c36688a502388",
     "99918e46c7137b6d817cb8bd523b3cfd",
     "tg:FabrizioRomanoTG/64154",
@@ -1499,7 +1498,8 @@
     "tg:FabrizioRomanoTG/64931",
     "e35f11ba6423166cdea2ec2429f9dc4c",
     "1b78ae806d8c9d2d0b54d82c68f5ea58",
-    "tg:FabrizioRomanoTG/64936"
+    "tg:FabrizioRomanoTG/64936",
+    "2171dcf6702d8b4475fa27919c257182"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1928,7 +1928,6 @@
     "interest: musso -> napoli"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83d\udfe1 \ud83d\udd34 understand as roma have improved their bid and are now confident to get ro",
     "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f excl: rc strasbourg agree deal to sign jeyland mitchell, here we go! \ud83c\udde8\ud83c\uddf7 d",
     "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 breaking: joao cancelo to barcelona, here we go! agreement done on contrac",
     "barcelona ready to fly top defensive target early next week as summer transfer n",
@@ -2227,7 +2226,8 @@
     "barcelona consider surprise goalkeeper bid",
     "\ud83d\udea8 \ud83d\udfe1 \ud83d\udd34 exclusive: galatasaray sent official bid to crystal palace for ismaila sar",
     "aaron wan bissaka medical update emerges as aston villa on verge of triple signi",
-    "\ud83d\udea8 \ud83d\udc02 torino agree deal to sign niccolo fortini as new fullback from fiorentina de"
+    "\ud83d\udea8 \ud83d\udc02 torino agree deal to sign niccolo fortini as new fullback from fiorentina de",
+    "aston villa face major ollie watkins decision after \u20ac45m bid was made"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2526,13 +2526,13 @@
     "darwin nunez": "https://r2.thesportsdb.com/images/media/player/cutout/i78juc1693941560.png/small",
     "dominik livakovic": "https://r2.thesportsdb.com/images/media/player/cutout/pp3yab1762457197.png/small",
     "juan musso": "https://r2.thesportsdb.com/images/media/player/cutout/401mle1762287491.png/small",
-    "dastan satpayev": "",
     "heaven kilwa": "",
     "said el mala": "",
     "hermann malonga": "",
-    "tommy marques": ""
+    "tommy marques": "",
+    "dastan satpayev": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

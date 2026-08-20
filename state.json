@@ -1,6 +1,5 @@
 {
   "sent": [
-    "a8625c359b0a4540b090dde8ba09e0a8",
     "774ee67ca42ab50af80ebe212df2c737",
     "27db9d046e56bf0999351262b760b741",
     "01307649621c1c0f74e07fd082c54c08",
@@ -1499,7 +1498,8 @@
     "31160da9944f0f0989bea0867edb1d5b",
     "348809734857fc4b689d379705c4c150",
     "6ca4375ae69149ae3eeba655b7f9f02f",
-    "058c7eaf9c75d794f62c59f4f8cb1d96"
+    "058c7eaf9c75d794f62c59f4f8cb1d96",
+    "100851bb68326c3f28fdecaee0cdc661"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1938,7 +1938,6 @@
     "interest: tomori -> juventus"
   ],
   "titles": [
-    "liverpool prepare fresh bradley barcola bid as paris saint germain activity clea",
     "emiliano martinez could leave aston villa for juventus, reportedly opening door ",
     "\ud83d\udea8 \ud83d\udfe1 \u26ab\ufe0f borussia dortmund have agreed deal to sign giannis konstantelias, here we",
     "fc barcelona finally seals rodri transfer after manchester city accept",
@@ -2237,7 +2236,8 @@
     "barcelona have a plan for goal: dominik livakovic",
     "transfer updates: kane, watkins, zirkzee, jackson, zabarnyi, others",
     "inter reach \u20ac35m agreement to sign curtis jones from liverpool",
-    "joao pedro \u2018snubs arsenal interest as he agrees lucrative new six year chelsea d"
+    "joao pedro \u2018snubs arsenal interest as he agrees lucrative new six year chelsea d",
+    "manchester city bid farewell to tijjani reijnders and pocket \u20ac60 million"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2537,12 +2537,12 @@
     "troy parrott": "https://r2.thesportsdb.com/images/media/player/cutout/rkteg41722970805.png/small",
     "jorge salinas viadero": "https://r2.thesportsdb.com/images/media/player/cutout/xn4s6u1784896958.png/small",
     "fikayo tomori": "https://r2.thesportsdb.com/images/media/player/cutout/7a8yy11758893186.png/small",
-    "tommy marques": "",
     "dastan satpayev": "",
     "heaven kilwa": "",
-    "hermann malonga": ""
+    "hermann malonga": "",
+    "tommy marques": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

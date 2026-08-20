@@ -1,6 +1,5 @@
 {
   "sent": [
-    "7709b2c7d183b5893d9b138760e2a213",
     "tg:FabrizioRomanoTG/64172",
     "5debc3a756998a1ddf51e1cd6ae4efd9",
     "6f8dd48a565cd294438e8fafaccd9f10",
@@ -1499,7 +1498,8 @@
     "0e64b25e962a1750baf6488f8317b70f",
     "e0f9d52f4819765927ad76567d624147",
     "3a03c14ad8b84eaa497a038db4664af5",
-    "b6bdcfd593182d48ca338834193c4837"
+    "b6bdcfd593182d48ca338834193c4837",
+    "66ec95bec0667e50d1292ce07162d475"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1940,7 +1940,6 @@
     "interest: marmoush -> tottenham"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83c\uddee\ud83c\uddf9 fiorentina are expected to ask higher fee than \u20ac30m package offered by como",
     "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f harry kane on new contract talks with bayern: \u201ci only have one year left ",
     "rt @fabrizioromano : \ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f napoli agree deal to sign benoit badiashile from che",
     "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f benoit badiashile\u2019s medical at napoli, booked this week as all documents ",
@@ -2239,7 +2238,8 @@
     "romano confirms man city in talks to sell midfielder to newcastle with reijnders",
     "newcastle united agree deal to sign tottenham linked african talent from gencler",
     "man utd get \u2018personal\u2019 for dream signing after baleba with star \u2018desperate\u2019 to j",
-    "man utd get 'personal' for 'dream' signing after baleba with star 'desperate' to"
+    "man utd get 'personal' for 'dream' signing after baleba with star 'desperate' to",
+    "european heavyweights launch \u2018official bid\u2019 for 33 goal attacker linked with man"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2539,12 +2539,12 @@
     "fikayo tomori": "https://r2.thesportsdb.com/images/media/player/cutout/7a8yy11758893186.png/small",
     "gavi": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Gavi_France_v_Spain_7.24.26-275_%28cropped%29.jpg/330px-Gavi_France_v_Spain_7.24.26-275_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "omar marmoush": "https://r2.thesportsdb.com/images/media/player/cutout/kgn5451757098568.png/small",
-    "tommy marques": "",
     "dastan satpayev": "",
     "heaven kilwa": "",
-    "hermann malonga": ""
+    "hermann malonga": "",
+    "tommy marques": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

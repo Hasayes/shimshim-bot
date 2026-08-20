@@ -1,8 +1,5 @@
 {
   "sent": [
-    "35dca335677ab581c3f1bc6b6dd416b1",
-    "642b1e1bafffc91e08f0fda50b314331",
-    "92510d291c9daa99206f1c710fde893b",
     "a79ac5c3dc963664367cf9d35585c6f8",
     "tg:FabrizioRomanoTG/64176",
     "1eabddefd09769b05e2669b3a5b34b7e",
@@ -1499,7 +1496,10 @@
     "tg:FabrizioRomanoTG/64968",
     "35111feaa250c68327e6f47a53de3d89",
     "5e5a0bd70e2f62448f9772c7bb97768e",
-    "0b7155dedf33db708c3b502a7e1cd5cb"
+    "0b7155dedf33db708c3b502a7e1cd5cb",
+    "62473e69165c16c7e6a17c93c9d34063",
+    "tg:FabrizioRomanoTG/64970",
+    "tg:FabrizioRomanoTG/64971"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1940,9 +1940,6 @@
     "interest: marmoush -> tottenham"
   ],
   "titles": [
-    "romano confirms \u2018direct talks\u2019 for chelsea player as club sends financial packag",
-    "transfer news: barca land rodri, barcola wants liverpool, city keen on fernandez",
-    "juventus agree deal to sign spurs goalkeeper vicario on loan",
     "fabrizio romano confirms talks are underway over potential exit of liverpool mid",
     "emiliano martinez alternative found! juventus agree deal to sign guglielmo vicar",
     "luis enrique promises bradley barcola 'solution' as liverpool eye psg transfer r",
@@ -2239,7 +2236,10 @@
     "\ud83d\udea8 \u274c bamba dieng will not join lazio as free agent as there\u2019s no green light foll",
     "pedro neto identified as tottenham backup target in winger transfer domino",
     "chelsea target mathys tel wants to leave bayern",
-    "andoni iraola green lights stunning \u00a378m liverpool swoop for curtis jones replac"
+    "andoni iraola green lights stunning \u00a378m liverpool swoop for curtis jones replac",
+    "\u2018all confirmed\u2019 \u2013 sky sports man drops late night liverpool update on \u20ac35m trans",
+    "\ud83d\udea8 \u26ab\ufe0f \ud83d\udd35 inter have decided to anticipate curtis jones arrival today \u2014 then medica",
+    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f fc porto and ac milan are back in direct club to club contact for santi g"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2539,12 +2539,12 @@
     "fikayo tomori": "https://r2.thesportsdb.com/images/media/player/cutout/7a8yy11758893186.png/small",
     "gavi": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Gavi_France_v_Spain_7.24.26-275_%28cropped%29.jpg/330px-Gavi_France_v_Spain_7.24.26-275_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "omar marmoush": "https://r2.thesportsdb.com/images/media/player/cutout/kgn5451757098568.png/small",
-    "dastan satpayev": "",
     "heaven kilwa": "",
     "hermann malonga": "",
-    "tommy marques": ""
+    "tommy marques": "",
+    "dastan satpayev": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

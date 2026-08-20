@@ -1,6 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/64191",
     "tg:FabrizioRomanoTG/64192",
     "tg:FabrizioRomanoTG/64193",
     "019884607b5111202189c82566cc3b79",
@@ -1499,7 +1498,8 @@
     "tg:FabrizioRomanoTG/64996",
     "tg:FabrizioRomanoTG/64997",
     "fb75a6ad3309aa103b2815d455591a88",
-    "54f36076f32c0601a047a5867595b369"
+    "54f36076f32c0601a047a5867595b369",
+    "a16e054bc3f74c8b9af485cb4ef93d21"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2544,12 +2544,12 @@
     "divine mukasa": "https://images.fotmob.com/image_resources/playerimages/1463282.png",
     "marc domenech": "https://images.fotmob.com/image_resources/playerimages/1675933.png",
     "allan": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Allan-palmeiras-sport-ago-25-4.jpg/330px-Allan-palmeiras-sport-ago-25-4.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "tommy marques": "",
     "dastan satpayev": "",
     "heaven kilwa": "",
-    "hermann malonga": ""
+    "hermann malonga": "",
+    "tommy marques": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

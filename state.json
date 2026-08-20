@@ -1,6 +1,5 @@
 {
   "sent": [
-    "1cfbfb424bf11bdd6d769771c3a2d544",
     "9f10f734a4a8ff80a7f3eaabf72bb842",
     "73ef2f507e02670a3943231d583c08a5",
     "8f8d8d43ac2f57248a4e7088b2dfc222",
@@ -1499,7 +1498,8 @@
     "02ebae7208fc00ece7e43c6b914b49bd",
     "f272816e7e3a96387ae351e8a75d4fa9",
     "a38bf0a524d53724cdd2e4f67c7a57ca",
-    "284cd8a99b33ed654a7c35fe7ed2a41e"
+    "284cd8a99b33ed654a7c35fe7ed2a41e",
+    "c94c686c20736f9796b96b24a2d559b6"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1938,7 +1938,6 @@
     "interest: tomori -> juventus"
   ],
   "titles": [
-    "is rodri going to barcelona? how man city star's proposed real madrid transfer h",
     "fabrizio romano potvrdio transfer bombu: rodri prelazi u barcelonu",
     "rodri: man city dealt huge transfer blow as 'deal agreed' for star midfielder",
     "juventus intensify contact with tottenham for guglielmo vicario",
@@ -2237,7 +2236,8 @@
     "medical tomorrow: arsenal agree \u00a351m+ deal to sign aston villa star ezri konsa",
     "tottenham hotspur pursue cody gakpo deal as negotiations remain active",
     "curtis jones to inter milan: liverpool accept \u20ac35m offer for midfielder as trans",
-    "arsenal agree \u00a351m deal with aston villa to sign ezri konsa"
+    "arsenal agree \u00a351m deal with aston villa to sign ezri konsa",
+    "fabrizio romano confirms brilliant arsenal signing is \u2018here we go\u2019 done"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2537,12 +2537,12 @@
     "troy parrott": "https://r2.thesportsdb.com/images/media/player/cutout/rkteg41722970805.png/small",
     "jorge salinas viadero": "https://r2.thesportsdb.com/images/media/player/cutout/xn4s6u1784896958.png/small",
     "fikayo tomori": "https://r2.thesportsdb.com/images/media/player/cutout/7a8yy11758893186.png/small",
-    "dastan satpayev": "",
     "heaven kilwa": "",
     "hermann malonga": "",
-    "tommy marques": ""
+    "tommy marques": "",
+    "dastan satpayev": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

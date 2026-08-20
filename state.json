@@ -1,8 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/64198",
-    "1339f0d34191b2058b5c849d1ae9eca7",
-    "820620ae9ab65897cd8f92bf046974cf",
     "641ec48bb59086de4ba3a8dd0745ffdc",
     "ffaf410f3ee0987d49700c6e8cc6bf2f",
     "tg:FabrizioRomanoTG/64200",
@@ -1499,7 +1496,10 @@
     "tg:FabrizioRomanoTG/64999",
     "28745ddfc028b3bfdea5479ad27b36b5",
     "bacb5fa30030d006d555c7d5ff9badbe",
-    "e5ea520bdd5e90c9fe08574fc95a21f4"
+    "e5ea520bdd5e90c9fe08574fc95a21f4",
+    "a84a30d7c65a3ee921e091bc22c94d1b",
+    "512d528a2a5b47d27d787a474bce0991",
+    "670a51c6a606aab16bb622735e715734"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1946,9 +1946,6 @@
     "interest: martinez -> barcelona"
   ],
   "titles": [
-    "prem clubs 'coming' for arsenal ace as sale decision reached and two suitors nam",
-    "rodri asks barcelona player to give up his shirt number",
-    "report moreira ready for milan in sudden \u20ac50m swoop",
     "liverpool have \u2018opened talks\u2019 with laliga side for risky transfer \u2013 \u2018formula bei",
     "\u2018here we go!\u2019 juventus complete breakthrough deal to sign 29yo from tottenham ho",
     "fermin lopez given new barcelona squad number ahead of rodri\u2019s arrival",
@@ -2245,7 +2242,10 @@
     "\ud83d\udea8 \ud83c\uddf8\ud83c\udde6 darwin nunez has signed in as new al diriyah player on loan from al hilal, ",
     "romano confirms arsenal attacker emerges as shock target for saudi side al hilal",
     "ajax send japan international back to bundesliga as \u20ac15m camara deal nears compl",
-    "liverpool to complete transfer today after bid \u2018formally accepted\u2019 and clause in"
+    "liverpool to complete transfer today after bid \u2018formally accepted\u2019 and clause in",
+    "david ornstein claims man utd are set to complete \u00a365m swoop for newcastle unite",
+    "liverpool transfer becoming official today with bid \u2018formally accepted\u2019 and clau",
+    "transfer updates: kone, adarabioyo, savinho, marmoush, wharton, others"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2545,12 +2545,12 @@
     "marc domenech": "https://images.fotmob.com/image_resources/playerimages/1675933.png",
     "allan": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Allan-palmeiras-sport-ago-25-4.jpg/330px-Allan-palmeiras-sport-ago-25-4.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "lautaro martinez": "https://r2.thesportsdb.com/images/media/player/cutout/vwxq811759408924.png/small",
-    "heaven kilwa": "",
     "hermann malonga": "",
     "tommy marques": "",
-    "dastan satpayev": ""
+    "dastan satpayev": "",
+    "heaven kilwa": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

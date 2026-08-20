@@ -1,8 +1,5 @@
 {
   "sent": [
-    "774ee67ca42ab50af80ebe212df2c737",
-    "27db9d046e56bf0999351262b760b741",
-    "01307649621c1c0f74e07fd082c54c08",
     "72ef72bbfd0cfe8b6d4369ce4141439a",
     "d99069acac85113a2ed5424f26a2401b",
     "714b3e56988eab98b75867427efa345f",
@@ -1499,7 +1496,10 @@
     "348809734857fc4b689d379705c4c150",
     "6ca4375ae69149ae3eeba655b7f9f02f",
     "058c7eaf9c75d794f62c59f4f8cb1d96",
-    "100851bb68326c3f28fdecaee0cdc661"
+    "100851bb68326c3f28fdecaee0cdc661",
+    "ae6b91e2b5c8abed6184a83ade1c40a5",
+    "ef610fc1714669b2faf82f95a8820cd2",
+    "tg:FabrizioRomanoTG/64953"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1938,9 +1938,6 @@
     "interest: tomori -> juventus"
   ],
   "titles": [
-    "emiliano martinez could leave aston villa for juventus, reportedly opening door ",
-    "\ud83d\udea8 \ud83d\udfe1 \u26ab\ufe0f borussia dortmund have agreed deal to sign giannis konstantelias, here we",
-    "fc barcelona finally seals rodri transfer after manchester city accept",
     "\ud83d\udea8 reports: shock move on after all?! rodri joins barca",
     "\ud83d\udea8 \ud83c\uddf8\ud83c\uddf3 ibrahim mbaye can also leave paris saint germain soon with talks taking pla",
     "barcelona agree deal to sign rodri from manchester city",
@@ -2237,7 +2234,10 @@
     "transfer updates: kane, watkins, zirkzee, jackson, zabarnyi, others",
     "inter reach \u20ac35m agreement to sign curtis jones from liverpool",
     "joao pedro \u2018snubs arsenal interest as he agrees lucrative new six year chelsea d",
-    "manchester city bid farewell to tijjani reijnders and pocket \u20ac60 million"
+    "manchester city bid farewell to tijjani reijnders and pocket \u20ac60 million",
+    "liverpool finally agree to sell curtis jones to euro giants with second exit to ",
+    "romano finally gives \u2018here we go\u2019 to next liverpool transfer with \u2018medical being",
+    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f new round of talks scheduled for ayyoub bouaddi deal to be completed as m"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2537,12 +2537,12 @@
     "troy parrott": "https://r2.thesportsdb.com/images/media/player/cutout/rkteg41722970805.png/small",
     "jorge salinas viadero": "https://r2.thesportsdb.com/images/media/player/cutout/xn4s6u1784896958.png/small",
     "fikayo tomori": "https://r2.thesportsdb.com/images/media/player/cutout/7a8yy11758893186.png/small",
-    "dastan satpayev": "",
     "heaven kilwa": "",
     "hermann malonga": "",
-    "tommy marques": ""
+    "tommy marques": "",
+    "dastan satpayev": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

@@ -1,7 +1,5 @@
 {
   "sent": [
-    "0466bbe1c57bf5cc43164950a65b5498",
-    "6802d6b7a7bb02dc93a8d13ffd696102",
     "a9298c8fd0d3cb1702d275cda48ecedb",
     "538d8ebd8a0434ba423385849a1f0224",
     "ce056b67ae7afc5276d79ef530045b13",
@@ -1499,7 +1497,9 @@
     "tg:FabrizioRomanoTG/64986",
     "tg:FabrizioRomanoTG/64987",
     "tg:FabrizioRomanoTG/64988",
-    "a8b22b53704718d146066f4f9ad2fb34"
+    "a8b22b53704718d146066f4f9ad2fb34",
+    "f0460eed98a78e5607c42d1ed72fbdd2",
+    "tg:FabrizioRomanoTG/64991"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1939,11 +1939,10 @@
     "interest: jackson -> napoli",
     "interest: tomori -> juventus",
     "interest: gavi -> manchester united",
-    "interest: marmoush -> tottenham"
+    "interest: marmoush -> tottenham",
+    "interest: allan -> manchester city"
   ],
   "titles": [
-    "\ud83d\udea8 \u26ab\ufe0f \ud83d\udd35 inter are preparing a new bid for curtis jones as he remains the top targ",
-    "juventus adding vicario after calling off martinez deal",
     "al hilal schedule fresh chelsea talks to agree neto deal",
     "the rodri effect: midfielders set to be affected by spaniard\u2019s yet to be confirm",
     "juventus agreement with tottenham for vicario as martinez dropped",
@@ -2241,11 +2240,12 @@
     "\ud83d\udea8 \u2692\ufe0f west ham agree deal to sign divine mukasa from man city, here we go! deal d",
     "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f joao palhinha to benfica, here we go! verbal agreement with fc bayern don",
     "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f atletico madrid have reached verbal agreement to sign 19 year old talent ",
-    "liverpool announce winger transfer and romano confirms another deal agreed"
+    "liverpool announce winger transfer and romano confirms another deal agreed",
+    "arsenal news: ethan nwaneri transfer stance clear as interest in two man utd sta",
+    "\ud83d\udea8 \ud83c\udde7\ud83c\uddf7 manchester city have made contact with palmeiras for 22 year old winger all"
   ],
   "tg_update_offset": 263617426,
   "photos": {
-    "lucas digne": "https://r2.thesportsdb.com/images/media/player/cutout/ywg68z1756984819.png/small",
     "morgan rogers": "https://r2.thesportsdb.com/images/media/player/cutout/hcpqx81756987242.png/small",
     "joao gomes": "https://r2.thesportsdb.com/images/media/player/cutout/u8mcha1756975493.png/small",
     "issa diop": "https://r2.thesportsdb.com/images/media/player/cutout/e758ud1757070461.png/small",
@@ -2539,14 +2539,15 @@
     "fikayo tomori": "https://r2.thesportsdb.com/images/media/player/cutout/7a8yy11758893186.png/small",
     "gavi": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Gavi_France_v_Spain_7.24.26-275_%28cropped%29.jpg/330px-Gavi_France_v_Spain_7.24.26-275_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "omar marmoush": "https://r2.thesportsdb.com/images/media/player/cutout/kgn5451757098568.png/small",
-    "tommy marques": "",
     "divine mukasa": "https://images.fotmob.com/image_resources/playerimages/1463282.png",
     "dastan satpayev": "",
     "marc domenech": "https://images.fotmob.com/image_resources/playerimages/1675933.png",
     "heaven kilwa": "",
-    "hermann malonga": ""
+    "hermann malonga": "",
+    "allan": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Allan-palmeiras-sport-ago-25-4.jpg/330px-Allan-palmeiras-sport-ago-25-4.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "tommy marques": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",
@@ -2705,6 +2706,7 @@
     "ud almeria": "https://r2.thesportsdb.com/images/media/team/badge/yswsww1473503818.png/small",
     "borussia monchengladbach": "https://r2.thesportsdb.com/images/media/team/badge/sysurw1473453380.png/small",
     "az alkmaar": "https://r2.thesportsdb.com/images/media/team/badge/wtqwvv1473534757.png/small",
-    "mallorca": "https://r2.thesportsdb.com/images/media/team/badge/ssptsx1473503730.png/small"
+    "mallorca": "https://r2.thesportsdb.com/images/media/team/badge/ssptsx1473503730.png/small",
+    "palmeiras": "https://r2.thesportsdb.com/images/media/team/badge/vsqwqp1473538105.png/small"
   }
 }

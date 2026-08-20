@@ -1,6 +1,5 @@
 {
   "sent": [
-    "fabe8c222f54b96c3891cf5932485d2e",
     "e681206bcd039367e4532f81283466fc",
     "4f2eeda141abedc36dad804ef434389a",
     "4eb0b7c683b3964edc4bd6fd0b4a2484",
@@ -1499,7 +1498,8 @@
     "77a3df79a9af82c9ece55b4fb746314a",
     "31e06f158e11c334401fd0bd524bdabc",
     "3d1f12e35777144a3faccbf02cb7b5f6",
-    "ac737d56fb19a44041314a8c36a27ede"
+    "ac737d56fb19a44041314a8c36a27ede",
+    "3c9d0118532e1ac82dff2af788049e59"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1935,10 +1935,10 @@
     "interest: viadero -> manchester united",
     "interest: viadero -> atletico madrid",
     "interest: jackson -> napoli",
-    "interest: tomori -> juventus"
+    "interest: tomori -> juventus",
+    "interest: gavi -> manchester united"
   ],
   "titles": [
-    "juventus officially end martinez pursuit and identify premier league replacement",
     "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f juventus agree deal to sign guglielmo vicario from tottenham, here we go",
     "\ud83d\udea8 \ud83d\udfe3 \u26aa\ufe0f david odogu leaves ac milan and joins toulouse on loan deal with salary c",
     "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f guglielmo vicario will be in turin today for medical and signatures at j",
@@ -2237,11 +2237,11 @@
     "fabrizio romano reveals liverpool want barcola deal wrapped up asap but second d",
     "free agent dieng set for intensive lazio medical on august 20",
     "tottenham hotspur are working on a deal for a duo from manchester city alongside",
-    "joao pedro signs new chelsea deal"
+    "joao pedro signs new chelsea deal",
+    "manchester united make approach to sign barcelona star after \u00a365m rodri transfer"
   ],
   "tg_update_offset": 263617426,
   "photos": {
-    "valentin barco": "https://r2.thesportsdb.com/images/media/player/cutout/9yluhs1766053865.png/small",
     "ismaila sarr": "https://r2.thesportsdb.com/images/media/player/cutout/1abo611761492444.png/small",
     "bradley barcola": "https://r2.thesportsdb.com/images/media/player/cutout/l2v71f1766334537.png/small",
     "ben nelson": "https://r2.thesportsdb.com/images/media/player/cutout/kgjita1761861683.png/small",
@@ -2537,12 +2537,13 @@
     "troy parrott": "https://r2.thesportsdb.com/images/media/player/cutout/rkteg41722970805.png/small",
     "jorge salinas viadero": "https://r2.thesportsdb.com/images/media/player/cutout/xn4s6u1784896958.png/small",
     "fikayo tomori": "https://r2.thesportsdb.com/images/media/player/cutout/7a8yy11758893186.png/small",
-    "tommy marques": "",
     "dastan satpayev": "",
     "heaven kilwa": "",
-    "hermann malonga": ""
+    "hermann malonga": "",
+    "gavi": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Gavi_France_v_Spain_7.24.26-275_%28cropped%29.jpg/330px-Gavi_France_v_Spain_7.24.26-275_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "tommy marques": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

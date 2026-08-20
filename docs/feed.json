@@ -1,5 +1,25 @@
 [
  {
+  "id": "3c9d0118532e1ac82dff2af788049e59",
+  "ts": "2026-08-20T04:16:25+00:00",
+  "kind": "interest",
+  "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Gavi_France_v_Spain_7.24.26-275_%28cropped%29.jpg/330px-Gavi_France_v_Spain_7.24.26-275_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "stage": "\u2014",
+  "player": "Gavi",
+  "position": "Midfielder",
+  "age": "22",
+  "from_club": "FC Barcelona",
+  "to_club": "Manchester United",
+  "fee": "\u00a335m\u2013\u00a347m (reported)",
+  "style": "An energetic, press-resistant central midfielder who excels at ball retention, quick combinations, and driving forward from deep.",
+  "fit": "Would add dynamism and technical quality to Manchester United's midfield, though his rejection of the move suggests no genuine fit at this stage.",
+  "source": "Jeremy Cross / Daily Mirror",
+  "summary": "Manchester United made an approach to sign Barcelona midfielder Gavi, with reported figures ranging from \u00a335m to \u20ac55m (\u00a347m), as covered by Jeremy Cross at the Daily Mirror and corroborated by Fabrizio Romano. However, Gavi has since rejected the move, reaffirming his commitment to Barcelona.",
+  "outlet": "metro",
+  "url": "https://metro.co.uk/2026/08/19/man-utd-make-approach-sign-barcelona-star-65m-rodri-transfer-29412103/",
+  "title": "Manchester United make approach to sign Barcelona star after \u00a365m Rodri transfer"
+ },
+ {
   "id": "d82ed9e3fe16d77b732b32ab23c37eaf",
   "ts": "2026-08-20T00:17:32+00:00",
   "kind": "interest",

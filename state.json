@@ -1,7 +1,5 @@
 {
   "sent": [
-    "ce056b67ae7afc5276d79ef530045b13",
-    "7a8597e95795ba8d994d9adfa3bbeb68",
     "725e623bf9970c8446a8afc36df67e29",
     "81b12aa6cc74f6b004eefb8e8b7e5ca8",
     "cc4a74e54f30f491d4f2c4249078ac58",
@@ -1499,7 +1497,9 @@
     "f0460eed98a78e5607c42d1ed72fbdd2",
     "tg:FabrizioRomanoTG/64991",
     "dad09817b9c32eda480297f7e8df7e4b",
-    "tg:FabrizioRomanoTG/64994"
+    "tg:FabrizioRomanoTG/64994",
+    "8184bfc1cab8b02e9d3c4f1064ea1162",
+    "eac1abf7b33f0ffdac09844ab7751473"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1943,8 +1943,6 @@
     "interest: allan -> manchester city"
   ],
   "titles": [
-    "juventus agreement with tottenham for vicario as martinez dropped",
-    "barcelona target surprise arsenal star as hansi flick eyes replacement after fer",
     "video: fabrizio romano provides crucial update on victor osimhen\u2019s potential tra",
     "romano expects man city to \u2018try again\u2019 for fernandez as medical is scheduled for",
     "liverpool transfer news live: bradley barcola and ibrahim mbaye hint, stefan baj",
@@ -2242,7 +2240,9 @@
     "arsenal news: ethan nwaneri transfer stance clear as interest in two man utd sta",
     "\ud83d\udea8 \ud83c\udde7\ud83c\uddf7 manchester city have made contact with palmeiras for 22 year old winger all",
     "bayern munich news: fc bayern won\u2019t add player to help with jamal musiala situat",
-    "\ud83d\udd35 \ud83c\udde7\ud83c\uddf7 joao pedro has signed his new deal at chelsea \u2014 fabrizio romano ( @fabrizio"
+    "\ud83d\udd35 \ud83c\udde7\ud83c\uddf7 joao pedro has signed his new deal at chelsea \u2014 fabrizio romano ( @fabrizio",
+    "barcola to liverpool deal will 'be done this week' as collymore labels star a 'm",
+    "liverpool latest: cody gakpo update issued as transfer talks for exit reignited"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2541,13 +2541,13 @@
     "omar marmoush": "https://r2.thesportsdb.com/images/media/player/cutout/kgn5451757098568.png/small",
     "divine mukasa": "https://images.fotmob.com/image_resources/playerimages/1463282.png",
     "marc domenech": "https://images.fotmob.com/image_resources/playerimages/1675933.png",
-    "hermann malonga": "",
     "allan": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Allan-palmeiras-sport-ago-25-4.jpg/330px-Allan-palmeiras-sport-ago-25-4.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "tommy marques": "",
     "dastan satpayev": "",
-    "heaven kilwa": ""
+    "heaven kilwa": "",
+    "hermann malonga": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

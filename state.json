@@ -1,6 +1,5 @@
 {
   "sent": [
-    "4ee5424600864a584a1ea813c81e74c0",
     "a62e949c701524853bb7de6d0fea160f",
     "9cdb703e6d75082d18a6a0584d7b6c78",
     "4c12b7f1fc026bd9a6c547087e3602fc",
@@ -1499,7 +1498,8 @@
     "d82ed9e3fe16d77b732b32ab23c37eaf",
     "ef2f376816ca12b0bade4f723a4de2ed",
     "df4e9fd380072622f4e2094881f882b5",
-    "252f22e68c600705671b7b863b0fb168"
+    "252f22e68c600705671b7b863b0fb168",
+    "31160da9944f0f0989bea0867edb1d5b"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1938,7 +1938,6 @@
     "interest: tomori -> juventus"
   ],
   "titles": [
-    "joao cancelo to join barcelona on free transfer after terminating contract with ",
     "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 marc casado, next one to leave barcelona after tommy marques who\u2019s joining",
     "reports: juventus make new offer for emi martinez as zion suzuki secures aston v",
     "liverpool prepare fresh bradley barcola bid as paris saint germain activity clea",
@@ -2237,7 +2236,8 @@
     "juventus waiting in the wings for outgoing milan duo",
     "tottenham transfer news: liverpool to decide cody gakpo\u2019s future as spurs talks ",
     "liverpool agree \u00a330m transfer for midfield star with 'medical planned'",
-    "barcelona have a plan for goal: dominik livakovic"
+    "barcelona have a plan for goal: dominik livakovic",
+    "transfer updates: kane, watkins, zirkzee, jackson, zabarnyi, others"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2536,13 +2536,13 @@
     "said el mala": "",
     "troy parrott": "https://r2.thesportsdb.com/images/media/player/cutout/rkteg41722970805.png/small",
     "jorge salinas viadero": "https://r2.thesportsdb.com/images/media/player/cutout/xn4s6u1784896958.png/small",
-    "heaven kilwa": "",
     "hermann malonga": "",
     "fikayo tomori": "https://r2.thesportsdb.com/images/media/player/cutout/7a8yy11758893186.png/small",
     "tommy marques": "",
-    "dastan satpayev": ""
+    "dastan satpayev": "",
+    "heaven kilwa": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

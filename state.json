@@ -1,6 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/64192",
     "tg:FabrizioRomanoTG/64193",
     "019884607b5111202189c82566cc3b79",
     "tg:FabrizioRomanoTG/64195",
@@ -1499,7 +1498,8 @@
     "tg:FabrizioRomanoTG/64997",
     "fb75a6ad3309aa103b2815d455591a88",
     "54f36076f32c0601a047a5867595b369",
-    "a16e054bc3f74c8b9af485cb4ef93d21"
+    "a16e054bc3f74c8b9af485cb4ef93d21",
+    "1f8feb0317550f7829b556582e4063e2"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1942,10 +1942,10 @@
     "interest: marmoush -> tottenham",
     "interest: allan -> manchester city",
     "interest: kone -> manchester united",
-    "interest: kone -> manchester city"
+    "interest: kone -> manchester city",
+    "interest: martinez -> barcelona"
   ],
   "titles": [
-    "\ud83d\udd34 \u26aa\ufe0f \ud83c\udde7\ud83c\uddf7 internacional have agreed deal to sign tonny sanabria from cremonese con",
     "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f fc porto are ready to advance and try close santi gimenez deal soon as fi",
     "\ud83d\udea8 \ud83d\udfe1 \ud83d\udd34 after rodrigo mora deal done, as roma will now decide whether they want to",
     "psg make fresh decision on barcola asking price as romano reveals liverpool \u2018agr",
@@ -2244,11 +2244,11 @@
     "rt @carlosalcaraz : here we go! \ud83d\udc4b\ud83c\udffb \ud83c\uddfa\ud83c\uddf8 \u2014 fabrizio romano ( @fabrizioromano ) aug ",
     "\ud83d\udea8 \u26ab\ufe0f \ud83d\udd35 atalanta confirm deal agreed for bartol levacic for the academy \ud83c\udded\ud83c\uddf7 16 yea",
     "liverpool \u00a370m transfer is still on as reds reach agreement after failed bids",
-    "awaiting the medical: ayoub bouaddi puts one foot in manchester city"
+    "awaiting the medical: ayoub bouaddi puts one foot in manchester city",
+    "barcelona hit immediate brick wall in lautaro martinez transfer pursuit"
   ],
   "tg_update_offset": 263617426,
   "photos": {
-    "morgan rogers": "https://r2.thesportsdb.com/images/media/player/cutout/hcpqx81756987242.png/small",
     "joao gomes": "https://r2.thesportsdb.com/images/media/player/cutout/u8mcha1756975493.png/small",
     "issa diop": "https://r2.thesportsdb.com/images/media/player/cutout/e758ud1757070461.png/small",
     "lucas bergvall": "https://r2.thesportsdb.com/images/media/player/cutout/6hbkx51757016291.png/small",
@@ -2544,12 +2544,13 @@
     "divine mukasa": "https://images.fotmob.com/image_resources/playerimages/1463282.png",
     "marc domenech": "https://images.fotmob.com/image_resources/playerimages/1675933.png",
     "allan": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Allan-palmeiras-sport-ago-25-4.jpg/330px-Allan-palmeiras-sport-ago-25-4.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "dastan satpayev": "",
     "heaven kilwa": "",
     "hermann malonga": "",
-    "tommy marques": ""
+    "tommy marques": "",
+    "lautaro martinez": "https://r2.thesportsdb.com/images/media/player/cutout/vwxq811759408924.png/small",
+    "dastan satpayev": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

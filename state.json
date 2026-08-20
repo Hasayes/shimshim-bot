@@ -1,8 +1,5 @@
 {
   "sent": [
-    "a6d59e103e14976837525db8a1e41896",
-    "45cfec8e17102ac73f1e62c42ae0dfcb",
-    "1dbf2f3587ff65e3b5f897121a92605e",
     "b1b0cb30a9064c87be56bdb3ce8c72c1",
     "e082d8f0148d58c50011319cc89a7670",
     "6ccf9f2f0430d47f360db9ea5b27d26d",
@@ -1499,7 +1496,10 @@
     "3968a2092585f64906302e3f1c0dbe8a",
     "661bf768f3d8d9f27f8cdff98c119674",
     "88ec37ae090babdc24715a6489262706",
-    "a5b1cb601c9e99197629975a3fbc207f"
+    "a5b1cb601c9e99197629975a3fbc207f",
+    "fd6772e8384e7c3b3db7b224438d52e0",
+    "6d886f0f27fd979edeb89c83a5848140",
+    "40c7101018627d790220606f95f43b0f"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1936,12 +1936,10 @@
     "interest: viadero -> atletico madrid",
     "interest: jackson -> napoli",
     "interest: tomori -> juventus",
-    "interest: gavi -> manchester united"
+    "interest: gavi -> manchester united",
+    "interest: marmoush -> tottenham"
   ],
   "titles": [
-    "rodri transfer done as top insiders reveal exactly how much man city will get fr",
-    "\ud83d\udd35 \ud83d\udd34 \u2708\ufe0f joao cancelo, on his way to barcelona today and rodri will be next, both ",
-    "rodri transfer fee revealed as spain star set to sign on at barcelona until 2030",
     "\ud83d\udd34 \u26aa\ufe0f dayann methalie has completed his medical at sunderland today ahead of \u20ac28m",
     "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f costantino favasuli and benoit badiashile will both undergo medical this ",
     "juventus transfer news: guglielmo vicario emerges as new goalkeeper target after",
@@ -2238,11 +2236,13 @@
     "\ud83d\ude2e inter eye jesus, kone update and musso savic swap? today's market",
     "crystal palace receive bid for ismaila sarr",
     "ederson must feel even worse about man utd snub after carlos baleba revelation",
-    "transfer: julian alvarez goes on strike to force atletico madrid exit"
+    "transfer: julian alvarez goes on strike to force atletico madrid exit",
+    "fabrizio romano hints at next two man utd signings after carlos baleba",
+    "by order of de zerbi: tottenham request marmoush from manchester city",
+    "the extra layer of cruelty for ezri konsa's aston villa exit as medical looms at"
   ],
   "tg_update_offset": 263617426,
   "photos": {
-    "ismaila sarr": "https://r2.thesportsdb.com/images/media/player/cutout/1abo611761492444.png/small",
     "bradley barcola": "https://r2.thesportsdb.com/images/media/player/cutout/l2v71f1766334537.png/small",
     "ben nelson": "https://r2.thesportsdb.com/images/media/player/cutout/kgjita1761861683.png/small",
     "lucas digne": "https://r2.thesportsdb.com/images/media/player/cutout/ywg68z1756984819.png/small",
@@ -2537,13 +2537,14 @@
     "troy parrott": "https://r2.thesportsdb.com/images/media/player/cutout/rkteg41722970805.png/small",
     "jorge salinas viadero": "https://r2.thesportsdb.com/images/media/player/cutout/xn4s6u1784896958.png/small",
     "fikayo tomori": "https://r2.thesportsdb.com/images/media/player/cutout/7a8yy11758893186.png/small",
-    "hermann malonga": "",
     "gavi": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Gavi_France_v_Spain_7.24.26-275_%28cropped%29.jpg/330px-Gavi_France_v_Spain_7.24.26-275_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "tommy marques": "",
     "dastan satpayev": "",
-    "heaven kilwa": ""
+    "heaven kilwa": "",
+    "omar marmoush": "https://r2.thesportsdb.com/images/media/player/cutout/kgn5451757098568.png/small",
+    "hermann malonga": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

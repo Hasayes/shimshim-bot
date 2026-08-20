@@ -1,7 +1,5 @@
 {
   "sent": [
-    "d6eef1d40757f285fe33c92ff0e300a4",
-    "tg:FabrizioRomanoTG/64169",
     "83e8508a1dc000c781a533caa44b96d9",
     "6bf67f20002379e9458d7c8db71decb8",
     "fabe8c222f54b96c3891cf5932485d2e",
@@ -1499,7 +1497,9 @@
     "c94c686c20736f9796b96b24a2d559b6",
     "292957d8d128b84c1e4371854eb55a21",
     "7fe3b8751cf79bef86191e74ac97ac3f",
-    "fc1977debd9bfd852fe42c4949b20eeb"
+    "fc1977debd9bfd852fe42c4949b20eeb",
+    "77a3df79a9af82c9ece55b4fb746314a",
+    "31e06f158e11c334401fd0bd524bdabc"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1938,7 +1938,6 @@
     "interest: tomori -> juventus"
   ],
   "titles": [
-    "juventus intensify contact with tottenham for guglielmo vicario",
     "\ud83d\udea8 \ud83d\udfe3 \ud83d\udd35 zion suzuki, undergoing his medical at aston villa this morning deal agree",
     "\u2018player wants the move\u2019 \u2013 fabrizio romano shares intriguing liverpool transfer u",
     "juventus officially end martinez pursuit and identify premier league replacement",
@@ -2237,7 +2236,8 @@
     "arsenal agree \u00a351m deal with aston villa to sign ezri konsa",
     "fabrizio romano confirms brilliant arsenal signing is \u2018here we go\u2019 done",
     "liverpool streak ends as curtis jones follows trent alexander arnold out the doo",
-    "fabrizio romano reveals liverpool want barcola deal wrapped up asap but second d"
+    "fabrizio romano reveals liverpool want barcola deal wrapped up asap but second d",
+    "free agent dieng set for intensive lazio medical on august 20"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2537,12 +2537,12 @@
     "troy parrott": "https://r2.thesportsdb.com/images/media/player/cutout/rkteg41722970805.png/small",
     "jorge salinas viadero": "https://r2.thesportsdb.com/images/media/player/cutout/xn4s6u1784896958.png/small",
     "fikayo tomori": "https://r2.thesportsdb.com/images/media/player/cutout/7a8yy11758893186.png/small",
-    "dastan satpayev": "",
     "heaven kilwa": "",
     "hermann malonga": "",
-    "tommy marques": ""
+    "tommy marques": "",
+    "dastan satpayev": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

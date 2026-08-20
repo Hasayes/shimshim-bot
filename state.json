@@ -1,6 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/64181",
     "tg:FabrizioRomanoTG/64182",
     "tg:FabrizioRomanoTG/64183",
     "tg:FabrizioRomanoTG/64184",
@@ -1499,7 +1498,8 @@
     "c7a242b94416c2f8d7e33cf69e8694d3",
     "bc76f15726ff2aaa965c6debdfd2562e",
     "1a92aa38c2e890e1c206466e7adf05fd",
-    "tg:FabrizioRomanoTG/64995"
+    "tg:FabrizioRomanoTG/64995",
+    "d14ee7bd5e5306a4329204c7650c4767"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1943,7 +1943,6 @@
     "interest: allan -> manchester city"
   ],
   "titles": [
-    "liverpool in 'crucial' bradley barcola talks after psg decision",
     "when could leeds united announce nico elvedi as medical details revealed",
     "barcelona transfer stance on arsenal striker viktor gyokeres",
     "\ud83d\udea8 \ud83d\udfe1 \ud83d\udd34 as roma reach verbal agreement to sign rodrigo mora, here we go! deal in p",
@@ -2242,7 +2241,8 @@
     "tottenham advancing talks for savinho and omar marmoush double deal",
     "napoli open talks with chelsea over a deal for out of favour striker nicolas jac",
     "bayern munich not interested in signing replacement for jamal musiala",
-    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f said el mala signs new contract at koln with pay rise and gets number 10 "
+    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f said el mala signs new contract at koln with pay rise and gets number 10 ",
+    "liverpool player allowed to fly away on thursday to complete late summer exit"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2542,12 +2542,12 @@
     "divine mukasa": "https://images.fotmob.com/image_resources/playerimages/1463282.png",
     "marc domenech": "https://images.fotmob.com/image_resources/playerimages/1675933.png",
     "allan": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Allan-palmeiras-sport-ago-25-4.jpg/330px-Allan-palmeiras-sport-ago-25-4.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "hermann malonga": "",
     "tommy marques": "",
     "dastan satpayev": "",
-    "heaven kilwa": ""
+    "heaven kilwa": "",
+    "hermann malonga": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

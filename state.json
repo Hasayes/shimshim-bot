@@ -1,7 +1,5 @@
 {
   "sent": [
-    "641ec48bb59086de4ba3a8dd0745ffdc",
-    "ffaf410f3ee0987d49700c6e8cc6bf2f",
     "tg:FabrizioRomanoTG/64200",
     "ac8fe146ee3a0d0fce3e2815640eb688",
     "54623bb389941a47ae4e55de9b5e5407",
@@ -1499,7 +1497,9 @@
     "e5ea520bdd5e90c9fe08574fc95a21f4",
     "a84a30d7c65a3ee921e091bc22c94d1b",
     "512d528a2a5b47d27d787a474bce0991",
-    "670a51c6a606aab16bb622735e715734"
+    "670a51c6a606aab16bb622735e715734",
+    "efadde147bb9771c26841085a30f53f2",
+    "1439c6b38f60f8c5700835060f009496"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1943,11 +1943,10 @@
     "interest: allan -> manchester city",
     "interest: kone -> manchester united",
     "interest: kone -> manchester city",
-    "interest: martinez -> barcelona"
+    "interest: martinez -> barcelona",
+    "interest: wharton -> manchester city"
   ],
   "titles": [
-    "liverpool have \u2018opened talks\u2019 with laliga side for risky transfer \u2013 \u2018formula bei",
-    "\u2018here we go!\u2019 juventus complete breakthrough deal to sign 29yo from tottenham ho",
     "fermin lopez given new barcelona squad number ahead of rodri\u2019s arrival",
     "ethan nwaneri transfer race heats up as premier league clubs join italian and ge",
     "atletico madrid move into position for premier league striker who could be a per",
@@ -2245,11 +2244,12 @@
     "liverpool to complete transfer today after bid \u2018formally accepted\u2019 and clause in",
     "david ornstein claims man utd are set to complete \u00a365m swoop for newcastle unite",
     "liverpool transfer becoming official today with bid \u2018formally accepted\u2019 and clau",
-    "transfer updates: kone, adarabioyo, savinho, marmoush, wharton, others"
+    "transfer updates: kone, adarabioyo, savinho, marmoush, wharton, others",
+    "man city eyeing \u00a351m rated man utd cast off as maresca dismantles pep\u2019s squad",
+    "blackburn rovers implications after man city's adam wharton 'enquiry'"
   ],
   "tg_update_offset": 263617426,
   "photos": {
-    "joao gomes": "https://r2.thesportsdb.com/images/media/player/cutout/u8mcha1756975493.png/small",
     "issa diop": "https://r2.thesportsdb.com/images/media/player/cutout/e758ud1757070461.png/small",
     "lucas bergvall": "https://r2.thesportsdb.com/images/media/player/cutout/6hbkx51757016291.png/small",
     "maxence lacroix": "https://r2.thesportsdb.com/images/media/player/cutout/6p7f5w1761492552.png/small",
@@ -2545,12 +2545,13 @@
     "marc domenech": "https://images.fotmob.com/image_resources/playerimages/1675933.png",
     "allan": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Allan-palmeiras-sport-ago-25-4.jpg/330px-Allan-palmeiras-sport-ago-25-4.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "lautaro martinez": "https://r2.thesportsdb.com/images/media/player/cutout/vwxq811759408924.png/small",
-    "hermann malonga": "",
     "tommy marques": "",
     "dastan satpayev": "",
-    "heaven kilwa": ""
+    "heaven kilwa": "",
+    "adam wharton": "https://r2.thesportsdb.com/images/media/player/cutout/dierqf1761492318.png/small",
+    "hermann malonga": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

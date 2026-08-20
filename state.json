@@ -1,6 +1,5 @@
 {
   "sent": [
-    "6bf67f20002379e9458d7c8db71decb8",
     "fabe8c222f54b96c3891cf5932485d2e",
     "e681206bcd039367e4532f81283466fc",
     "4f2eeda141abedc36dad804ef434389a",
@@ -1499,7 +1498,8 @@
     "fc1977debd9bfd852fe42c4949b20eeb",
     "77a3df79a9af82c9ece55b4fb746314a",
     "31e06f158e11c334401fd0bd524bdabc",
-    "3d1f12e35777144a3faccbf02cb7b5f6"
+    "3d1f12e35777144a3faccbf02cb7b5f6",
+    "ac737d56fb19a44041314a8c36a27ede"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1938,7 +1938,6 @@
     "interest: tomori -> juventus"
   ],
   "titles": [
-    "\u2018player wants the move\u2019 \u2013 fabrizio romano shares intriguing liverpool transfer u",
     "juventus officially end martinez pursuit and identify premier league replacement",
     "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f juventus agree deal to sign guglielmo vicario from tottenham, here we go",
     "\ud83d\udea8 \ud83d\udfe3 \u26aa\ufe0f david odogu leaves ac milan and joins toulouse on loan deal with salary c",
@@ -2237,7 +2236,8 @@
     "liverpool streak ends as curtis jones follows trent alexander arnold out the doo",
     "fabrizio romano reveals liverpool want barcola deal wrapped up asap but second d",
     "free agent dieng set for intensive lazio medical on august 20",
-    "tottenham hotspur are working on a deal for a duo from manchester city alongside"
+    "tottenham hotspur are working on a deal for a duo from manchester city alongside",
+    "joao pedro signs new chelsea deal"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2537,12 +2537,12 @@
     "troy parrott": "https://r2.thesportsdb.com/images/media/player/cutout/rkteg41722970805.png/small",
     "jorge salinas viadero": "https://r2.thesportsdb.com/images/media/player/cutout/xn4s6u1784896958.png/small",
     "fikayo tomori": "https://r2.thesportsdb.com/images/media/player/cutout/7a8yy11758893186.png/small",
-    "hermann malonga": "",
     "tommy marques": "",
     "dastan satpayev": "",
-    "heaven kilwa": ""
+    "heaven kilwa": "",
+    "hermann malonga": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

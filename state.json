@@ -1,6 +1,5 @@
 {
   "sent": [
-    "ff48ac38c59a569ee6aa5d974aa8cfe2",
     "3ae5cf0637a7ff141a675e4355a283d9",
     "c4aae3b4b893ade5652e1354df507831",
     "d727f0b3bd36bb4be304835b3fc49921",
@@ -1499,7 +1498,8 @@
     "c3ff67366023fee682763d1057721bd9",
     "tg:FabrizioRomanoTG/64964",
     "tg:FabrizioRomanoTG/64965",
-    "e152d77ef6f5f9c975df65b28cd62d9e"
+    "e152d77ef6f5f9c975df65b28cd62d9e",
+    "tg:FabrizioRomanoTG/64968"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1940,7 +1940,6 @@
     "interest: marmoush -> tottenham"
   ],
   "titles": [
-    "transfer news live: osimhen to man utd, liverpool barcola bid, \u00a325m spurs raid",
     "psg transfer plans shift as zion suzuki chooses premier league path with aston v",
     "newcastle united engage in direct talks to sign experience bayern munich midfiel",
     "transfer rumors, news: barcelona eye arsenal striker viktor gyokeres",
@@ -2239,7 +2238,8 @@
     "done deal: jones permission to fly for inter medical, \u20ac35m including bonus from ",
     "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f lazio agree deal in principle to sign josip sutalo from ajax, here we go!",
     "\u26ab\ufe0f \ud83d\udd35 \u2708\ufe0f inter have now scheduled travel and medical for curtis jones on friday f",
-    "tottenham in advanced talks for sensational \u00a3150m double swoop"
+    "tottenham in advanced talks for sensational \u00a3150m double swoop",
+    "\ud83d\udea8 \u274c bamba dieng will not join lazio as free agent as there\u2019s no green light foll"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2539,12 +2539,12 @@
     "fikayo tomori": "https://r2.thesportsdb.com/images/media/player/cutout/7a8yy11758893186.png/small",
     "gavi": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Gavi_France_v_Spain_7.24.26-275_%28cropped%29.jpg/330px-Gavi_France_v_Spain_7.24.26-275_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "omar marmoush": "https://r2.thesportsdb.com/images/media/player/cutout/kgn5451757098568.png/small",
-    "heaven kilwa": "",
     "hermann malonga": "",
     "tommy marques": "",
-    "dastan satpayev": ""
+    "dastan satpayev": "",
+    "heaven kilwa": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

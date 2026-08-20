@@ -1,6 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/64176",
     "1eabddefd09769b05e2669b3a5b34b7e",
     "dc7c1dd0ec2f142a16404559e5782732",
     "3d83e3d7b637b2121b39c64ec99fa573",
@@ -1499,7 +1498,8 @@
     "62473e69165c16c7e6a17c93c9d34063",
     "tg:FabrizioRomanoTG/64970",
     "tg:FabrizioRomanoTG/64971",
-    "tg:FabrizioRomanoTG/64977"
+    "tg:FabrizioRomanoTG/64977",
+    "tg:FabrizioRomanoTG/64980"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1940,7 +1940,6 @@
     "interest: marmoush -> tottenham"
   ],
   "titles": [
-    "emiliano martinez alternative found! juventus agree deal to sign guglielmo vicar",
     "luis enrique promises bradley barcola 'solution' as liverpool eye psg transfer r",
     "agent in turin to broker deal with juventus for premier league star",
     "transfer news and rumours today: are aston villa on the verge of signing paris s",
@@ -2239,7 +2238,8 @@
     "\u2018all confirmed\u2019 \u2013 sky sports man drops late night liverpool update on \u20ac35m trans",
     "\ud83d\udea8 \u26ab\ufe0f \ud83d\udd35 inter have decided to anticipate curtis jones arrival today \u2014 then medica",
     "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f fc porto and ac milan are back in direct club to club contact for santi g",
-    "\ud83d\udd34 \u26aa\ufe0f bayern talent cassiano kiala has signed new deal at the club until june 203"
+    "\ud83d\udd34 \u26aa\ufe0f bayern talent cassiano kiala has signed new deal at the club until june 203",
+    "\ud83d\udd35 \ud83d\udd34 official, confirmed joao cancelo joins barcelona on three year contract \ud83c\uddf5\ud83c\uddf9 h"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2539,12 +2539,12 @@
     "fikayo tomori": "https://r2.thesportsdb.com/images/media/player/cutout/7a8yy11758893186.png/small",
     "gavi": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Gavi_France_v_Spain_7.24.26-275_%28cropped%29.jpg/330px-Gavi_France_v_Spain_7.24.26-275_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "omar marmoush": "https://r2.thesportsdb.com/images/media/player/cutout/kgn5451757098568.png/small",
-    "hermann malonga": "",
     "tommy marques": "",
     "dastan satpayev": "",
-    "heaven kilwa": ""
+    "heaven kilwa": "",
+    "hermann malonga": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

@@ -1,6 +1,5 @@
 {
   "sent": [
-    "81b12aa6cc74f6b004eefb8e8b7e5ca8",
     "cc4a74e54f30f491d4f2c4249078ac58",
     "tg:FabrizioRomanoTG/64180",
     "tg:FabrizioRomanoTG/64181",
@@ -1499,7 +1498,8 @@
     "tg:FabrizioRomanoTG/64994",
     "8184bfc1cab8b02e9d3c4f1064ea1162",
     "eac1abf7b33f0ffdac09844ab7751473",
-    "c7a242b94416c2f8d7e33cf69e8694d3"
+    "c7a242b94416c2f8d7e33cf69e8694d3",
+    "bc76f15726ff2aaa965c6debdfd2562e"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1943,7 +1943,6 @@
     "interest: allan -> manchester city"
   ],
   "titles": [
-    "romano expects man city to \u2018try again\u2019 for fernandez as medical is scheduled for",
     "liverpool transfer news live: bradley barcola and ibrahim mbaye hint, stefan baj",
     "arsenal transfer news: barcelona eye shock viktor gyokeres move as alvarez pursu",
     "liverpool in 'crucial' bradley barcola talks after psg decision",
@@ -2242,7 +2241,8 @@
     "\ud83d\udd35 \ud83c\udde7\ud83c\uddf7 joao pedro has signed his new deal at chelsea \u2014 fabrizio romano ( @fabrizio",
     "barcola to liverpool deal will 'be done this week' as collymore labels star a 'm",
     "liverpool latest: cody gakpo update issued as transfer talks for exit reignited",
-    "tottenham advancing talks for savinho and omar marmoush double deal"
+    "tottenham advancing talks for savinho and omar marmoush double deal",
+    "napoli open talks with chelsea over a deal for out of favour striker nicolas jac"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2542,12 +2542,12 @@
     "divine mukasa": "https://images.fotmob.com/image_resources/playerimages/1463282.png",
     "marc domenech": "https://images.fotmob.com/image_resources/playerimages/1675933.png",
     "allan": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Allan-palmeiras-sport-ago-25-4.jpg/330px-Allan-palmeiras-sport-ago-25-4.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "dastan satpayev": "",
     "heaven kilwa": "",
     "hermann malonga": "",
-    "tommy marques": ""
+    "tommy marques": "",
+    "dastan satpayev": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

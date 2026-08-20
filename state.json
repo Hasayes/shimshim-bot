@@ -1,6 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/64173",
     "7083828e174768b596aa80755ae1bccb",
     "7550b51265d1f6bf9a5f964b0ac3aed7",
     "tg:FabrizioRomanoTG/64174",
@@ -1499,7 +1498,8 @@
     "ac33194abd020aad58ed7eb744d98440",
     "tg:FabrizioRomanoTG/64963",
     "2524a65f9af07c723856b089c18b2575",
-    "1657fd62ff199bfdef7e425ca0a4ec3f"
+    "1657fd62ff199bfdef7e425ca0a4ec3f",
+    "c3ff67366023fee682763d1057721bd9"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1940,7 +1940,6 @@
     "interest: marmoush -> tottenham"
   ],
   "titles": [
-    "trio for sale: romano confirms three high profile chelsea exits are still possib",
     "arsenal youngster set for summer exit amid links to dortmund, rb leipzig and ac ",
     "tottenham enter transfer talks over deal with buy clause after negotiations fall",
     "\ud83d\udea8 \ud83c\uddf5\ud83c\uddf9 manchester united offered new deal to bruno fernandes back in may as reveal",
@@ -2239,7 +2238,8 @@
     "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f como are advancing in talks to sign willy kambwala as new centre back fro",
     "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 formal steps also completed: joao cancelo will sign his three year deal at",
     "omar marmoush responds to tottenham transfer links",
-    "arsenal star \u2018offering himself to barcelona daily\u2019 as deco gets desperate"
+    "arsenal star \u2018offering himself to barcelona daily\u2019 as deco gets desperate",
+    "done deal: jones permission to fly for inter medical, \u20ac35m including bonus from "
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2539,12 +2539,12 @@
     "fikayo tomori": "https://r2.thesportsdb.com/images/media/player/cutout/7a8yy11758893186.png/small",
     "gavi": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Gavi_France_v_Spain_7.24.26-275_%28cropped%29.jpg/330px-Gavi_France_v_Spain_7.24.26-275_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "omar marmoush": "https://r2.thesportsdb.com/images/media/player/cutout/kgn5451757098568.png/small",
-    "hermann malonga": "",
     "tommy marques": "",
     "dastan satpayev": "",
-    "heaven kilwa": ""
+    "heaven kilwa": "",
+    "hermann malonga": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

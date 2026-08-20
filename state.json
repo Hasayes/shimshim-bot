@@ -1,7 +1,5 @@
 {
   "sent": [
-    "ba7466b1150047e7f4e91f9451b2be34",
-    "tg:FabrizioRomanoTG/64196",
     "tg:FabrizioRomanoTG/64197",
     "tg:FabrizioRomanoTG/64198",
     "1339f0d34191b2058b5c849d1ae9eca7",
@@ -1499,7 +1497,9 @@
     "1f8feb0317550f7829b556582e4063e2",
     "bb5bc91841573ef048035272037b2e20",
     "402f97c106c8170a4a65e56bd09ac99c",
-    "tg:FabrizioRomanoTG/64999"
+    "tg:FabrizioRomanoTG/64999",
+    "28745ddfc028b3bfdea5479ad27b36b5",
+    "bacb5fa30030d006d555c7d5ff9badbe"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1946,8 +1946,6 @@
     "interest: martinez -> barcelona"
   ],
   "titles": [
-    "ibrahim mbaye wants liverpool transfer as talks opened",
-    "borussia monchengladbach defender nico elvedi set to be unveiled at leeds shortl",
     "prem clubs \u2018coming\u2019 for arsenal ace as sale decision reached and two suitors nam",
     "prem clubs 'coming' for arsenal ace as sale decision reached and two suitors nam",
     "rodri asks barcelona player to give up his shirt number",
@@ -2245,7 +2243,9 @@
     "barcelona hit immediate brick wall in lautaro martinez transfer pursuit",
     "fresh report from top tier source suggests that spurs could be set to move on fr",
     "inter close in on liverpool midfielder curtis jones",
-    "\ud83d\udea8 \ud83c\uddf8\ud83c\udde6 darwin nunez has signed in as new al diriyah player on loan from al hilal, "
+    "\ud83d\udea8 \ud83c\uddf8\ud83c\udde6 darwin nunez has signed in as new al diriyah player on loan from al hilal, ",
+    "romano confirms arsenal attacker emerges as shock target for saudi side al hilal",
+    "ajax send japan international back to bundesliga as \u20ac15m camara deal nears compl"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2544,13 +2544,13 @@
     "divine mukasa": "https://images.fotmob.com/image_resources/playerimages/1463282.png",
     "marc domenech": "https://images.fotmob.com/image_resources/playerimages/1675933.png",
     "allan": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Allan-palmeiras-sport-ago-25-4.jpg/330px-Allan-palmeiras-sport-ago-25-4.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "tommy marques": "",
     "lautaro martinez": "https://r2.thesportsdb.com/images/media/player/cutout/vwxq811759408924.png/small",
     "dastan satpayev": "",
     "heaven kilwa": "",
-    "hermann malonga": ""
+    "hermann malonga": "",
+    "tommy marques": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

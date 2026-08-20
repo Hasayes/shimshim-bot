@@ -1,5 +1,25 @@
 [
  {
+  "id": "38005c35cdfd5cf554371fd99b9e1071",
+  "ts": "2026-08-20T23:13:27+00:00",
+  "kind": "deal",
+  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/4bdrsm1722880866.png/small",
+  "stage": "Here we go",
+  "player": "Josip Sutalo",
+  "position": "Centre-back",
+  "age": "26",
+  "from_club": "Ajax",
+  "to_club": "Lazio",
+  "fee": "\u20ac3m loan fee; \u20ac7.5m buy option (up to \u20ac15m with bonuses)",
+  "style": "A commanding and mobile centre-back who is comfortable on the ball and capable of playing out from the back.",
+  "fit": "Lazio gain an experienced, technically sound defender to bolster their backline, with a cost-controlled loan structure and a flexible buy option if he impresses.",
+  "source": "Fabrizio Romano; De Telegraaf",
+  "summary": "Ajax have completed the paperwork for Josip Sutalo's loan move to Lazio, with Fabrizio Romano confirming a 'here we go' on the deal. Lazio will pay a \u20ac3m loan fee, absorb Sutalo's \u20ac2.5m salary, and hold a \u20ac7.5m buy option that could rise to \u20ac15m via bonuses, with Ajax also retaining a 10% sell-on clause.",
+  "outlet": "yardbarker",
+  "url": "https://www.yardbarker.com/soccer/articles/ajax_can_sell_sutalo_next_year_for_a_maximum_of_15_million/s1_17790_44197162",
+  "title": "Ajax can sell Sutalo next year for a maximum of \u20ac15 million"
+ },
+ {
   "id": "7b689903355e372808943b04282e70f1",
   "ts": "2026-08-20T23:01:32+00:00",
   "kind": "interest",

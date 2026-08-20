@@ -1,7 +1,5 @@
 {
   "sent": [
-    "828f41c1f801f3144cd0f38711cad877",
-    "81a1605401c2cd630e77bafcf472ee3a",
     "9f3a5920b82d9e413227257664e0e491",
     "4f4460fcbe369f5cd144fdfc8eec3922",
     "eb68de7a3a4abad08c32f3b0df3c8660",
@@ -1499,7 +1497,9 @@
     "7b689903355e372808943b04282e70f1",
     "5b42fdee5f0f81693618a258892c46b0",
     "cd53eb7aa4215b7c6c1c224789ae31d5",
-    "tg:FabrizioRomanoTG/65003"
+    "tg:FabrizioRomanoTG/65003",
+    "38005c35cdfd5cf554371fd99b9e1071",
+    "5e51016cb431eaef69452c801574689a"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1737,7 +1737,8 @@
     "konsa -> arsenal": 1,
     "parrott -> real betis": 1,
     "mukasa -> west ham": 1,
-    "domenech -> atletico madrid": 1
+    "domenech -> atletico madrid": 1,
+    "sutalo -> lazio": 1
   },
   "interest": [
     "interest: alvarez -> arsenal",
@@ -1948,8 +1949,6 @@
     "interest: minteh -> liverpool"
   ],
   "titles": [
-    "liverpool \u2018offer\u2019 \u00a356m for real madrid star who will be next signing after bradl",
-    "\ud83d\udcb8 galatasaray leao, roma fofana \ud83e\udde8 di gregorio out: today's deals \ud83e\udd11",
     "transfer updates: gyokeres, zubimendi, barcola, savinho, osimhen, others",
     "barcelona youngster completes loan move with buy option to spanish club \u2013 romano",
     "liverpool want two members of psg\u2019s forward line",
@@ -2247,11 +2246,12 @@
     "transfer news live: liverpool have minteh bid rejected, city enquire for wharton",
     "stankovic wants to fight for his place at inter and isn\u2019t interested in a loan m",
     "crystal palace reach decision on selling adam wharton to liverpool or man city f",
-    "\ud83d\udea8 \u26aa\ufe0f breaking: tottenham reach verbal agreement with manchester city to sign sav"
+    "\ud83d\udea8 \u26aa\ufe0f breaking: tottenham reach verbal agreement with manchester city to sign sav",
+    "ajax can sell sutalo next year for a maximum of \u20ac15 million",
+    "done deal: lazio seal sutalo agreement with ajax"
   ],
   "tg_update_offset": 263617426,
   "photos": {
-    "lucas bergvall": "https://r2.thesportsdb.com/images/media/player/cutout/6hbkx51757016291.png/small",
     "maxence lacroix": "https://r2.thesportsdb.com/images/media/player/cutout/6p7f5w1761492552.png/small",
     "yan diomande": "https://r2.thesportsdb.com/images/media/player/cutout/zbzyn51763561086.png/small",
     "alejandro garnacho": "https://r2.thesportsdb.com/images/media/player/cutout/69y34j1757003249.png/small",
@@ -2545,14 +2545,15 @@
     "marc domenech": "https://images.fotmob.com/image_resources/playerimages/1675933.png",
     "allan": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Allan-palmeiras-sport-ago-25-4.jpg/330px-Allan-palmeiras-sport-ago-25-4.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "lautaro martinez": "https://r2.thesportsdb.com/images/media/player/cutout/vwxq811759408924.png/small",
-    "dastan satpayev": "",
     "heaven kilwa": "",
     "adam wharton": "https://r2.thesportsdb.com/images/media/player/cutout/dierqf1761492318.png/small",
     "hermann malonga": "",
     "yankuba minteh": "https://r2.thesportsdb.com/images/media/player/cutout/1345u71756998901.png/small",
-    "tommy marques": ""
+    "tommy marques": "",
+    "josip sutalo": "https://r2.thesportsdb.com/images/media/player/cutout/4bdrsm1722880866.png/small",
+    "dastan satpayev": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

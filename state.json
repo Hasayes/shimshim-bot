@@ -1,7 +1,5 @@
 {
   "sent": [
-    "8e27dc3506c40ec130ff152246270daa",
-    "e3926873e881ed750ad1c5b79b9b37ae",
     "b17cb31b6d13f6e872d4dc703309ee51",
     "a89c91cdfc04ef1d6dc6691596f26e9b",
     "8c1f8477f598cd5d51cbff5ebca62f58",
@@ -1499,7 +1497,9 @@
     "608035979e2b5ad071d522a9a2a27745",
     "eed75800e3605eca8ff9886616b57a30",
     "6b7a0076d74eb461dcdf3ec77577e654",
-    "65e7b2a9963237ff72086ef21fdc6ec3"
+    "65e7b2a9963237ff72086ef21fdc6ec3",
+    "b3a5f451762ed1ef306983b37f85d615",
+    "d82ed9e3fe16d77b732b32ab23c37eaf"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1934,11 +1934,10 @@
     "interest: scott -> manchester city",
     "interest: viadero -> manchester united",
     "interest: viadero -> atletico madrid",
-    "interest: jackson -> napoli"
+    "interest: jackson -> napoli",
+    "interest: tomori -> juventus"
   ],
   "titles": [
-    "the deal is finally done: rodri joins barcelona",
-    "the deal is finally done: rodri moves to barcelona",
     "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f getafe have opened talks to sign stefan bajcetic from liverpool formula b",
     "\ud83d\udea8 \ud83c\uddf8\ud83c\udde6 al hilal have scheduled new direct talks with chelsea to discuss pedro neto",
     "liverpool vs como: curtis jones transfer latest as fabrizio romano provides upda",
@@ -2236,11 +2235,12 @@
     "ezri konsa transfer news: arsenal in advanced talks to sign aston villa and engl",
     "napoli interested in chelsea and man united attackers as well as gabriel jesus",
     "napoli in hunt for a new striker: contacts with arsenal over gabriel jesus, who ",
-    "(video): chelsea man appears after medical ahead of potential \u20ac30m move to serie"
+    "(video): chelsea man appears after medical ahead of potential \u20ac30m move to serie",
+    "the deal is done: inter snatch liverpool star",
+    "juventus waiting in the wings for outgoing milan duo"
   ],
   "tg_update_offset": 263617426,
   "photos": {
-    "karim adeyemi": "https://r2.thesportsdb.com/images/media/player/cutout/go6jti1756325880.png/small",
     "valentin barco": "https://r2.thesportsdb.com/images/media/player/cutout/9yluhs1766053865.png/small",
     "ismaila sarr": "https://r2.thesportsdb.com/images/media/player/cutout/1abo611761492444.png/small",
     "bradley barcola": "https://r2.thesportsdb.com/images/media/player/cutout/l2v71f1766334537.png/small",
@@ -2536,12 +2536,13 @@
     "said el mala": "",
     "troy parrott": "https://r2.thesportsdb.com/images/media/player/cutout/rkteg41722970805.png/small",
     "jorge salinas viadero": "https://r2.thesportsdb.com/images/media/player/cutout/xn4s6u1784896958.png/small",
-    "tommy marques": "",
     "dastan satpayev": "",
     "heaven kilwa": "",
-    "hermann malonga": ""
+    "hermann malonga": "",
+    "fikayo tomori": "https://r2.thesportsdb.com/images/media/player/cutout/7a8yy11758893186.png/small",
+    "tommy marques": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

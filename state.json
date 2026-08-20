@@ -1,6 +1,5 @@
 {
   "sent": [
-    "9b0766d15dd1d888c511054d9acd754c",
     "c9b568c761b4d6ae0f51ac6014062f19",
     "5656b9a45766baaf61f4982b2fb1099b",
     "acfbbdb9cfffc56dfafeff9b926a8fe5",
@@ -1499,7 +1498,8 @@
     "a1527214361deacc90e54edf6337cc0f",
     "tg:FabrizioRomanoTG/64957",
     "741d6d95509347fd05dc087f02b9c47e",
-    "0e676ff91735ced33430da01af3959d5"
+    "0e676ff91735ced33430da01af3959d5",
+    "0e64b25e962a1750baf6488f8317b70f"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1940,7 +1940,6 @@
     "interest: marmoush -> tottenham"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83d\udd34 \u26ab\ufe0f ac milan agree deal to sign diego moreira from rc strasbourg, here we go!",
     "\ud83d\udd34 \u26aa\ufe0f \ud83c\udded\ud83c\uddfa aron yaakobishvili has just signed his contract as new ud almeria player",
     "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f como submit official bid for moise kean to fiorentina: \u20ac5m fixed fee, \u20ac25",
     "bayern munich news: kim min jae not likely to consider manchester united interes",
@@ -2239,7 +2238,8 @@
     "napoli enquire for manchester united attacker to replace romelu lukaku",
     "\ud83d\udea8 manchester united set to return to table of negotiations today with brighton f",
     "romano: arsenal make call to sign pubill before completing konsa deal",
-    "myles lewis skelly sees manchester united interest intensify"
+    "myles lewis skelly sees manchester united interest intensify",
+    "romano confirms man city in talks to sell midfielder to newcastle with reijnders"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2539,12 +2539,12 @@
     "fikayo tomori": "https://r2.thesportsdb.com/images/media/player/cutout/7a8yy11758893186.png/small",
     "gavi": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Gavi_France_v_Spain_7.24.26-275_%28cropped%29.jpg/330px-Gavi_France_v_Spain_7.24.26-275_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "omar marmoush": "https://r2.thesportsdb.com/images/media/player/cutout/kgn5451757098568.png/small",
-    "dastan satpayev": "",
     "heaven kilwa": "",
     "hermann malonga": "",
-    "tommy marques": ""
+    "tommy marques": "",
+    "dastan satpayev": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

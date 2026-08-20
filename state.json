@@ -1,7 +1,5 @@
 {
   "sent": [
-    "14c0f44fc6a6f4a6ecef27fe6aca51fc",
-    "87ba3d7d64a2a77880599ba57e55bd97",
     "4107f60c657cf317115fd85f7e8c6435",
     "adf4a243743ea7a3883450e3055f1a47",
     "tg:FabrizioRomanoTG/64173",
@@ -1499,7 +1497,9 @@
     "46dd247c820add715713fca8f8af12df",
     "d35aee421845b1d6bd85c9a162b84bc1",
     "tg:FabrizioRomanoTG/64960",
-    "tg:FabrizioRomanoTG/64962"
+    "tg:FabrizioRomanoTG/64962",
+    "ac33194abd020aad58ed7eb744d98440",
+    "tg:FabrizioRomanoTG/64963"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1940,7 +1940,6 @@
     "interest: marmoush -> tottenham"
   ],
   "titles": [
-    "\ud83d\udd34 \u26ab\ufe0f \u2708\ufe0f ac milan have booked diego moreira\u2019s flight for medical tests and contra",
     "\ud83d\udcfa new youtube video uploaded! \ud83c\udfac \ud83d\udea8 \ud83d\udca3 market on fire! bruno gala, barcola bid, ped",
     "here we go: barcelona reach agreement with braga for \u20ac12 million transfer of 19 ",
     "trio for sale: romano confirms three high profile chelsea exits are still possib",
@@ -2239,7 +2238,8 @@
     "european heavyweights launch \u2018official bid\u2019 for 33 goal attacker linked with man",
     "transfer rumors, news: al hilal eye shock move for kane",
     "official: moreira joins milan from rc strasbourg for circa \u20ac65m including bonus",
-    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f como are advancing in talks to sign willy kambwala as new centre back fro"
+    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f como are advancing in talks to sign willy kambwala as new centre back fro",
+    "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 formal steps also completed: joao cancelo will sign his three year deal at"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2539,12 +2539,12 @@
     "fikayo tomori": "https://r2.thesportsdb.com/images/media/player/cutout/7a8yy11758893186.png/small",
     "gavi": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Gavi_France_v_Spain_7.24.26-275_%28cropped%29.jpg/330px-Gavi_France_v_Spain_7.24.26-275_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "omar marmoush": "https://r2.thesportsdb.com/images/media/player/cutout/kgn5451757098568.png/small",
-    "tommy marques": "",
     "dastan satpayev": "",
     "heaven kilwa": "",
-    "hermann malonga": ""
+    "hermann malonga": "",
+    "tommy marques": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

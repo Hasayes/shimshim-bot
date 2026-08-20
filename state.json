@@ -1,8 +1,5 @@
 {
   "sent": [
-    "e681206bcd039367e4532f81283466fc",
-    "4f2eeda141abedc36dad804ef434389a",
-    "4eb0b7c683b3964edc4bd6fd0b4a2484",
     "8cc6b2d5001443d33a1c1ade2cffc6e1",
     "a6d59e103e14976837525db8a1e41896",
     "45cfec8e17102ac73f1e62c42ae0dfcb",
@@ -1499,7 +1496,10 @@
     "31e06f158e11c334401fd0bd524bdabc",
     "3d1f12e35777144a3faccbf02cb7b5f6",
     "ac737d56fb19a44041314a8c36a27ede",
-    "3c9d0118532e1ac82dff2af788049e59"
+    "3c9d0118532e1ac82dff2af788049e59",
+    "3968a2092585f64906302e3f1c0dbe8a",
+    "661bf768f3d8d9f27f8cdff98c119674",
+    "88ec37ae090babdc24715a6489262706"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1939,9 +1939,6 @@
     "interest: gavi -> manchester united"
   ],
   "titles": [
-    "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f juventus agree deal to sign guglielmo vicario from tottenham, here we go",
-    "\ud83d\udea8 \ud83d\udfe3 \u26aa\ufe0f david odogu leaves ac milan and joins toulouse on loan deal with salary c",
-    "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f guglielmo vicario will be in turin today for medical and signatures at j",
     "reports: juventus abruptly end pursuit of emi martinez as talks for guglielmo vi",
     "rodri transfer done as top insiders reveal exactly how much man city will get fr",
     "\ud83d\udd35 \ud83d\udd34 \u2708\ufe0f joao cancelo, on his way to barcelona today and rodri will be next, both ",
@@ -2238,7 +2235,10 @@
     "free agent dieng set for intensive lazio medical on august 20",
     "tottenham hotspur are working on a deal for a duo from manchester city alongside",
     "joao pedro signs new chelsea deal",
-    "manchester united make approach to sign barcelona star after \u00a365m rodri transfer"
+    "manchester united make approach to sign barcelona star after \u00a365m rodri transfer",
+    "\ud83d\ude2e inter eye jesus, kone update and musso savic swap? today's market",
+    "crystal palace receive bid for ismaila sarr",
+    "ederson must feel even worse about man utd snub after carlos baleba revelation"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2537,13 +2537,13 @@
     "troy parrott": "https://r2.thesportsdb.com/images/media/player/cutout/rkteg41722970805.png/small",
     "jorge salinas viadero": "https://r2.thesportsdb.com/images/media/player/cutout/xn4s6u1784896958.png/small",
     "fikayo tomori": "https://r2.thesportsdb.com/images/media/player/cutout/7a8yy11758893186.png/small",
-    "dastan satpayev": "",
     "heaven kilwa": "",
     "hermann malonga": "",
     "gavi": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Gavi_France_v_Spain_7.24.26-275_%28cropped%29.jpg/330px-Gavi_France_v_Spain_7.24.26-275_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "tommy marques": ""
+    "tommy marques": "",
+    "dastan satpayev": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

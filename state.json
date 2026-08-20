@@ -1,8 +1,5 @@
 {
   "sent": [
-    "b17cb31b6d13f6e872d4dc703309ee51",
-    "a89c91cdfc04ef1d6dc6691596f26e9b",
-    "8c1f8477f598cd5d51cbff5ebca62f58",
     "4ee5424600864a584a1ea813c81e74c0",
     "a62e949c701524853bb7de6d0fea160f",
     "9cdb703e6d75082d18a6a0584d7b6c78",
@@ -1499,7 +1496,10 @@
     "6b7a0076d74eb461dcdf3ec77577e654",
     "65e7b2a9963237ff72086ef21fdc6ec3",
     "b3a5f451762ed1ef306983b37f85d615",
-    "d82ed9e3fe16d77b732b32ab23c37eaf"
+    "d82ed9e3fe16d77b732b32ab23c37eaf",
+    "ef2f376816ca12b0bade4f723a4de2ed",
+    "df4e9fd380072622f4e2094881f882b5",
+    "252f22e68c600705671b7b863b0fb168"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1938,9 +1938,6 @@
     "interest: tomori -> juventus"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f getafe have opened talks to sign stefan bajcetic from liverpool formula b",
-    "\ud83d\udea8 \ud83c\uddf8\ud83c\udde6 al hilal have scheduled new direct talks with chelsea to discuss pedro neto",
-    "liverpool vs como: curtis jones transfer latest as fabrizio romano provides upda",
     "joao cancelo to join barcelona on free transfer after terminating contract with ",
     "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 marc casado, next one to leave barcelona after tommy marques who\u2019s joining",
     "reports: juventus make new offer for emi martinez as zion suzuki secures aston v",
@@ -2237,7 +2234,10 @@
     "napoli in hunt for a new striker: contacts with arsenal over gabriel jesus, who ",
     "(video): chelsea man appears after medical ahead of potential \u20ac30m move to serie",
     "the deal is done: inter snatch liverpool star",
-    "juventus waiting in the wings for outgoing milan duo"
+    "juventus waiting in the wings for outgoing milan duo",
+    "tottenham transfer news: liverpool to decide cody gakpo\u2019s future as spurs talks ",
+    "liverpool agree \u00a330m transfer for midfield star with 'medical planned'",
+    "barcelona have a plan for goal: dominik livakovic"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2536,13 +2536,13 @@
     "said el mala": "",
     "troy parrott": "https://r2.thesportsdb.com/images/media/player/cutout/rkteg41722970805.png/small",
     "jorge salinas viadero": "https://r2.thesportsdb.com/images/media/player/cutout/xn4s6u1784896958.png/small",
-    "dastan satpayev": "",
     "heaven kilwa": "",
     "hermann malonga": "",
     "fikayo tomori": "https://r2.thesportsdb.com/images/media/player/cutout/7a8yy11758893186.png/small",
-    "tommy marques": ""
+    "tommy marques": "",
+    "dastan satpayev": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

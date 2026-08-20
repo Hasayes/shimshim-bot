@@ -1,6 +1,5 @@
 {
   "sent": [
-    "34a541f3dbfb691f0ca21e5a6cb92598",
     "0466bbe1c57bf5cc43164950a65b5498",
     "6802d6b7a7bb02dc93a8d13ffd696102",
     "a9298c8fd0d3cb1702d275cda48ecedb",
@@ -1499,7 +1498,8 @@
     "tg:FabrizioRomanoTG/64985",
     "tg:FabrizioRomanoTG/64986",
     "tg:FabrizioRomanoTG/64987",
-    "tg:FabrizioRomanoTG/64988"
+    "tg:FabrizioRomanoTG/64988",
+    "a8b22b53704718d146066f4f9ad2fb34"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1942,7 +1942,6 @@
     "interest: marmoush -> tottenham"
   ],
   "titles": [
-    "chelsea transfer news: al hilal 'schedule direct talks' over potential deal for ",
     "\ud83d\udea8 \u26ab\ufe0f \ud83d\udd35 inter are preparing a new bid for curtis jones as he remains the top targ",
     "juventus adding vicario after calling off martinez deal",
     "al hilal schedule fresh chelsea talks to agree neto deal",
@@ -2241,7 +2240,8 @@
     "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 joao cancelo on beating real madrid: \u201ci want to beat every team, not only ",
     "\ud83d\udea8 \u2692\ufe0f west ham agree deal to sign divine mukasa from man city, here we go! deal d",
     "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f joao palhinha to benfica, here we go! verbal agreement with fc bayern don",
-    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f atletico madrid have reached verbal agreement to sign 19 year old talent "
+    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f atletico madrid have reached verbal agreement to sign 19 year old talent ",
+    "liverpool announce winger transfer and romano confirms another deal agreed"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2539,14 +2539,14 @@
     "fikayo tomori": "https://r2.thesportsdb.com/images/media/player/cutout/7a8yy11758893186.png/small",
     "gavi": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Gavi_France_v_Spain_7.24.26-275_%28cropped%29.jpg/330px-Gavi_France_v_Spain_7.24.26-275_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "omar marmoush": "https://r2.thesportsdb.com/images/media/player/cutout/kgn5451757098568.png/small",
-    "hermann malonga": "",
     "tommy marques": "",
     "divine mukasa": "https://images.fotmob.com/image_resources/playerimages/1463282.png",
     "dastan satpayev": "",
     "marc domenech": "https://images.fotmob.com/image_resources/playerimages/1675933.png",
-    "heaven kilwa": ""
+    "heaven kilwa": "",
+    "hermann malonga": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

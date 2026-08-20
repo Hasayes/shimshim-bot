@@ -1,6 +1,5 @@
 {
   "sent": [
-    "7ffdd237bd73c62627b4b47248afcf8d",
     "17b1d26281ff1a77f12da215545d6fef",
     "2f5280aa0ebc0658ec22f000418999e6",
     "9b0766d15dd1d888c511054d9acd754c",
@@ -1499,7 +1498,8 @@
     "55c98ea62f0e3d92ddbf3fd620921d91",
     "fbb1bb4f99c327b9eb74bedb21617a80",
     "e15b5a1e5d70733c23e80d90722b6d4b",
-    "a1527214361deacc90e54edf6337cc0f"
+    "a1527214361deacc90e54edf6337cc0f",
+    "tg:FabrizioRomanoTG/64957"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1940,7 +1940,6 @@
     "interest: marmoush -> tottenham"
   ],
   "titles": [
-    "\ud83d\udd35 \ud83d\udd34 joao cancelo: \u201cwe have a top team this season! i am finally where i wanted t",
     "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 joao cancelo, back to barcelona: \u201ci am where i want to be!\u201d \ud83c\udfa5 @victor_nahe",
     "\ud83d\udea8 \ud83d\udd34 \u26ab\ufe0f ac milan are in advanced talks to sign diego moreira from rc strasbourg n",
     "\ud83d\udea8 \ud83d\udd34 \u26ab\ufe0f ac milan agree deal to sign diego moreira from rc strasbourg, here we go!",
@@ -2239,7 +2238,8 @@
     "tottenham advance in talks for double deal to sign marmoush and savinho",
     "reijnders\u2019 man city exit confirmed as romano confirms renewed newcastle contact ",
     "transfer: lewandowski in shock return to barcelona",
-    "napoli enquire for manchester united attacker to replace romelu lukaku"
+    "napoli enquire for manchester united attacker to replace romelu lukaku",
+    "\ud83d\udea8 manchester united set to return to table of negotiations today with brighton f"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2539,12 +2539,12 @@
     "fikayo tomori": "https://r2.thesportsdb.com/images/media/player/cutout/7a8yy11758893186.png/small",
     "gavi": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Gavi_France_v_Spain_7.24.26-275_%28cropped%29.jpg/330px-Gavi_France_v_Spain_7.24.26-275_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "omar marmoush": "https://r2.thesportsdb.com/images/media/player/cutout/kgn5451757098568.png/small",
-    "hermann malonga": "",
     "tommy marques": "",
     "dastan satpayev": "",
-    "heaven kilwa": ""
+    "heaven kilwa": "",
+    "hermann malonga": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

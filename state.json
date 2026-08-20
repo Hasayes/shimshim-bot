@@ -1,8 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/64183",
-    "tg:FabrizioRomanoTG/64184",
-    "tg:FabrizioRomanoTG/64185",
     "tg:FabrizioRomanoTG/64187",
     "tg:FabrizioRomanoTG/64188",
     "tg:FabrizioRomanoTG/64189",
@@ -1499,7 +1496,10 @@
     "1a92aa38c2e890e1c206466e7adf05fd",
     "tg:FabrizioRomanoTG/64995",
     "d14ee7bd5e5306a4329204c7650c4767",
-    "3fda1e870fc4e8c7f9780bfec12c576d"
+    "3fda1e870fc4e8c7f9780bfec12c576d",
+    "5541f698707d550eafb65a1bab96db1e",
+    "76dbadcbee19fd82a141a6e9787dbd3e",
+    "tg:FabrizioRomanoTG/64996"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1940,12 +1940,11 @@
     "interest: tomori -> juventus",
     "interest: gavi -> manchester united",
     "interest: marmoush -> tottenham",
-    "interest: allan -> manchester city"
+    "interest: allan -> manchester city",
+    "interest: kone -> manchester united",
+    "interest: kone -> manchester city"
   ],
   "titles": [
-    "barcelona transfer stance on arsenal striker viktor gyokeres",
-    "\ud83d\udea8 \ud83d\udfe1 \ud83d\udd34 as roma reach verbal agreement to sign rodrigo mora, here we go! deal in p",
-    "\ud83d\udfe1 \ud83d\udd34 \u2708\ufe0f fc porto have just authorized rodrigo mora to travel for medical tests an",
     "forgotten liverpool star dubbed \u2018next sergio busquets\u2019 offered escape route afte",
     "three reasons named why monster \u00a3120m midfielder deal could still happen this su",
     "juventus reach loan agreement for vicario following martinez u turn",
@@ -2242,7 +2241,10 @@
     "bayern munich not interested in signing replacement for jamal musiala",
     "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f said el mala signs new contract at koln with pay rise and gets number 10 ",
     "liverpool player allowed to fly away on thursday to complete late summer exit",
-    "transfer news live: arsenal triple deal, alvarez boost; man utd medical; chelsea"
+    "transfer news live: arsenal triple deal, alvarez boost; man utd medical; chelsea",
+    "man united to face increasing competition from man city for 25 year old frenchma",
+    "liverpool news: \u00a370m transfer talks continue as deal finally struck and 'medical",
+    "rt @carlosalcaraz : here we go! \ud83d\udc4b\ud83c\udffb \ud83c\uddfa\ud83c\uddf8 \u2014 fabrizio romano ( @fabrizioromano ) aug "
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2542,12 +2544,12 @@
     "divine mukasa": "https://images.fotmob.com/image_resources/playerimages/1463282.png",
     "marc domenech": "https://images.fotmob.com/image_resources/playerimages/1675933.png",
     "allan": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Allan-palmeiras-sport-ago-25-4.jpg/330px-Allan-palmeiras-sport-ago-25-4.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "dastan satpayev": "",
     "heaven kilwa": "",
     "hermann malonga": "",
-    "tommy marques": ""
+    "tommy marques": "",
+    "dastan satpayev": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

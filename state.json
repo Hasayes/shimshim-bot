@@ -1,6 +1,5 @@
 {
   "sent": [
-    "2aee65da5bd2f47eb066e48a78b85ffe",
     "14c0f44fc6a6f4a6ecef27fe6aca51fc",
     "87ba3d7d64a2a77880599ba57e55bd97",
     "4107f60c657cf317115fd85f7e8c6435",
@@ -1499,7 +1498,8 @@
     "30d1934fd05f742888919cd9ff313310",
     "46dd247c820add715713fca8f8af12df",
     "d35aee421845b1d6bd85c9a162b84bc1",
-    "tg:FabrizioRomanoTG/64960"
+    "tg:FabrizioRomanoTG/64960",
+    "tg:FabrizioRomanoTG/64962"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2539,12 +2539,12 @@
     "fikayo tomori": "https://r2.thesportsdb.com/images/media/player/cutout/7a8yy11758893186.png/small",
     "gavi": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Gavi_France_v_Spain_7.24.26-275_%28cropped%29.jpg/330px-Gavi_France_v_Spain_7.24.26-275_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "omar marmoush": "https://r2.thesportsdb.com/images/media/player/cutout/kgn5451757098568.png/small",
-    "hermann malonga": "",
     "tommy marques": "",
     "dastan satpayev": "",
-    "heaven kilwa": ""
+    "heaven kilwa": "",
+    "hermann malonga": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

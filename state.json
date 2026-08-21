@@ -1,6 +1,5 @@
 {
   "sent": [
-    "247727d7b1bbf6e70016ff1fe5b3903c",
     "tg:FabrizioRomanoTG/64271",
     "cdff685dd88e3b30abfd6bf990b2d85b",
     "a4bd63a406fa205940493e0c0a18044d",
@@ -1499,7 +1498,8 @@
     "tg:FabrizioRomanoTG/65079",
     "f5cc8a88bfc3165b3a6f992a048dccac",
     "b6add95b4901aa24a0f255da80167c3d",
-    "edf0336b2f16f5bca29a24d144bba36c"
+    "edf0336b2f16f5bca29a24d144bba36c",
+    "93faf411a3d7d0e229e2269719f20ebd"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1960,7 +1960,6 @@
     "interest: gyokeres -> barcelona"
   ],
   "titles": [
-    "manchester city haven\u2019t reportedly given up on enzo fernandez even after missing",
     "aston villa transfer news: ollie watkins 'takes stance' as al hilal launch \u00a338 5",
     "\ud83d\udea8 \ud83e\udd85 benfica are pushing to try get joao palhinha deal done after aston villa bid",
     "yet another manchester city midfielder is linked with a summer departure but wou",
@@ -2259,7 +2258,8 @@
     "\ud83d\udea8 \ud83d\udd34 the exclusive update of the night: manchester united sign carlos baleba for ",
     "\ud83d\udea8 \ud83d\udd34 understand carlos baleba to man united deal fee will be \u00a365m plus \u00a35m add on",
     "\ud83d\udea8 breaking: ezri konsa 'completes move' from aston villa to arsenal",
-    "ornstein: konsa to arsenal complete"
+    "ornstein: konsa to arsenal complete",
+    "transfer rumors, news: arsenal want yildiz as al hilal add martinelli to shortli"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2559,12 +2559,12 @@
     "thomas partey": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Thomas_Partey_5_England_v_Ghana_at_2026_Fifa_World_Cup_by_YantsImages_02_%28cropped%29.jpg/330px-Thomas_Partey_5_England_v_Ghana_at_2026_Fifa_World_Cup_by_YantsImages_02_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "deivid washington": "https://r2.thesportsdb.com/images/media/player/cutout/553nc21699732538.png/small",
     "david raum": "https://r2.thesportsdb.com/images/media/player/cutout/wxbgdk1763561343.png/small",
-    "hermann malonga": "",
     "tommy marques": "",
     "dastan satpayev": "",
-    "heaven kilwa": ""
+    "heaven kilwa": "",
+    "hermann malonga": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

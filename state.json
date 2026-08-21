@@ -1,7 +1,5 @@
 {
   "sent": [
-    "3ef48e8d09fea62e6d886c5a59b17698",
-    "tg:FabrizioRomanoTG/64235",
     "tg:FabrizioRomanoTG/64236",
     "tg:FabrizioRomanoTG/64237",
     "tg:FabrizioRomanoTG/64240",
@@ -1499,7 +1497,9 @@
     "tg:FabrizioRomanoTG/65050",
     "tg:FabrizioRomanoTG/65051",
     "tg:FabrizioRomanoTG/65054",
-    "tg:FabrizioRomanoTG/65055"
+    "tg:FabrizioRomanoTG/65055",
+    "511c3784d2e0fed259b702833e4a64a5",
+    "tg:FabrizioRomanoTG/65056"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1955,8 +1955,6 @@
     "interest: balde -> manchester united"
   ],
   "titles": [
-    "romano says tottenham star vicario has 'signed his contract' with juventus",
-    "newcastle united prowl for milan\u2019s christopher nkunku but leipzig advance in mov",
     "\u26aa\ufe0f \u2705 jose mourinho confirms he got involved into vini jr new contract process \u201ci",
     "\u26a0\ufe0fjuve kessie, napoli keeper, wesley backup, kean heir: today\u2019s deals \ud83e\udd11",
     "barcelona star gavi responds to man utd transfer interest as red devils eye thir",
@@ -2254,7 +2252,9 @@
     "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f sunderland agree deal to sign jules ahoka from antwerp, here we go! deal ",
     "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f excl: sunderland agree deal to sign jules ahoka from antwerp, here we go!",
     "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f arsenal made contact with atletico madrid to discuss julian alvarez deal ",
-    "\ud83d\udea8 \u26aa\ufe0f tottenham are confident to proceed with omar marmoush deal by next week as "
+    "\ud83d\udea8 \u26aa\ufe0f tottenham are confident to proceed with omar marmoush deal by next week as ",
+    "fabrizio romano confirms personal terms agreed as liverpool push to finalise bra",
+    "\ud83d\udea8 \ud83c\udde6\ud83c\uddf7 official: fifa ban leandro paredes for 10 games after argentina spain post "
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2554,12 +2554,12 @@
     "alejandro balde": "https://r2.thesportsdb.com/images/media/player/cutout/ix83yt1768321088.png/small",
     "axel disasi": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/AxelDisasi_%28cropped%29.jpg/330px-AxelDisasi_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "thomas partey": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Thomas_Partey_5_England_v_Ghana_at_2026_Fifa_World_Cup_by_YantsImages_02_%28cropped%29.jpg/330px-Thomas_Partey_5_England_v_Ghana_at_2026_Fifa_World_Cup_by_YantsImages_02_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "hermann malonga": "",
     "tommy marques": "",
     "dastan satpayev": "",
-    "heaven kilwa": ""
+    "heaven kilwa": "",
+    "hermann malonga": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

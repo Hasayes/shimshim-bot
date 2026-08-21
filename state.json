@@ -1,6 +1,5 @@
 {
   "sent": [
-    "4d5bc6e9a9e95a55380475b1c1ca168a",
     "d0dcc66e7167efc79621b29a2b02a58c",
     "19f50ee134052a91b57d9fca579f148f",
     "bb88c18a083cbf13048fa7e40a719ab9",
@@ -1499,7 +1498,8 @@
     "7fd783984a7a0110b4e32944e035443a",
     "6c571865a3d700ddf25d2b2a31ccbe37",
     "fe72be7e0472aeb5beb9539f99bfd30c",
-    "59e705eb0c679ed7e74daf341ed4f9a0"
+    "59e705eb0c679ed7e74daf341ed4f9a0",
+    "d023720a78013393f5b5e753935ca670"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1738,7 +1738,8 @@
     "parrott -> real betis": 1,
     "mukasa -> west ham": 1,
     "domenech -> atletico madrid": 1,
-    "sutalo -> lazio": 1
+    "sutalo -> lazio": 1,
+    "ramsay -> st mirren": 1
   },
   "interest": [
     "interest: alvarez -> arsenal",
@@ -1950,7 +1951,6 @@
     "interest: yildiz -> arsenal"
   ],
   "titles": [
-    "tottenham suffer transfer setback as saudi giants schedule direct talks for summ",
     "manchester united face bruno fernandes transfer challenge with 'offer prepared'",
     "\ud83d\udea8 \ud83d\ude9c excl: ipswich town have sent new official bid to bayer leverkusen for exequi",
     "man united captain and star man bruno fernandes could 'end his career' at old tr",
@@ -2249,11 +2249,11 @@
     "romano: tottenham in two way battle for pedro neto after man city decision",
     "omar marmoush reaches decision on joining tottenham after man city name price",
     "aston villa in talks to sign ac milan midfielder as insider doubts second midfie",
-    "lazio walk away from dieng transfer after failed medical"
+    "lazio walk away from dieng transfer after failed medical",
+    "liverpool strike third club to club agreement in two days \u2013 fabrizio romano team"
   ],
   "tg_update_offset": 263617426,
   "photos": {
-    "yan diomande": "https://r2.thesportsdb.com/images/media/player/cutout/zbzyn51763561086.png/small",
     "alejandro garnacho": "https://r2.thesportsdb.com/images/media/player/cutout/69y34j1757003249.png/small",
     "cristian romero": "https://r2.thesportsdb.com/images/media/player/cutout/dme7x81757016317.png/small",
     "konstantinos karetsas": "https://r2.thesportsdb.com/images/media/player/cutout/kttsl71767641854.png/small",
@@ -2549,12 +2549,13 @@
     "yankuba minteh": "https://r2.thesportsdb.com/images/media/player/cutout/1345u71756998901.png/small",
     "josip sutalo": "https://r2.thesportsdb.com/images/media/player/cutout/4bdrsm1722880866.png/small",
     "kenan yildiz": "https://images.fotmob.com/image_resources/playerimages/1412132.png",
-    "dastan satpayev": "",
     "heaven kilwa": "",
     "hermann malonga": "",
-    "tommy marques": ""
+    "tommy marques": "",
+    "calvin ramsay": "https://r2.thesportsdb.com/images/media/player/cutout/wp2ern1695308880.png/small",
+    "dastan satpayev": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",
@@ -2714,6 +2715,7 @@
     "borussia monchengladbach": "https://r2.thesportsdb.com/images/media/team/badge/sysurw1473453380.png/small",
     "az alkmaar": "https://r2.thesportsdb.com/images/media/team/badge/wtqwvv1473534757.png/small",
     "mallorca": "https://r2.thesportsdb.com/images/media/team/badge/ssptsx1473503730.png/small",
-    "palmeiras": "https://r2.thesportsdb.com/images/media/team/badge/vsqwqp1473538105.png/small"
+    "palmeiras": "https://r2.thesportsdb.com/images/media/team/badge/vsqwqp1473538105.png/small",
+    "st mirren": "https://r2.thesportsdb.com/images/media/team/badge/xvtuvv1447604452.png/small"
   }
 }

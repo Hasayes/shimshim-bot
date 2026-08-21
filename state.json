@@ -1,7 +1,5 @@
 {
   "sent": [
-    "97053aa825a11f71893606712864884f",
-    "777672ba0834943458c24d954f78cb4e",
     "tg:FabrizioRomanoTG/64233",
     "0c91e708fc4b71639464ecb620be49ae",
     "tg:FabrizioRomanoTG/64234",
@@ -1499,7 +1497,9 @@
     "tg:FabrizioRomanoTG/65038",
     "tg:FabrizioRomanoTG/65039",
     "tg:FabrizioRomanoTG/65045",
-    "tg:FabrizioRomanoTG/65046"
+    "tg:FabrizioRomanoTG/65046",
+    "tg:FabrizioRomanoTG/65048",
+    "tg:FabrizioRomanoTG/65049"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1741,7 +1741,8 @@
     "sutalo -> lazio": 1,
     "ramsay -> st mirren": 1,
     "disasi -> crystal palace": 1,
-    "livakovic -> barcelona": 1
+    "livakovic -> barcelona": 1,
+    "partey -> al shabab": 2
   },
   "interest": [
     "interest: alvarez -> arsenal",
@@ -1954,8 +1955,6 @@
     "interest: balde -> manchester united"
   ],
   "titles": [
-    "premier league club join crowded race for chelsea attacker liam delap",
-    "man utd target kane holds talks to complete stunning transfer after reaching dec",
     "watch video: rodri arrives in barcelona for medical ahead of \u20ac76 5 million move ",
     "fabrizio romano confirms arsenal star is moving closer to exit",
     "watch video: rodri arrives in barcelona to complete long awaited manchester city",
@@ -2253,11 +2252,12 @@
     "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 barcelona have reached a verbal agreement for dominik livakovic to join fr",
     "\ud83d\udea8 \ud83c\uddf2\ud83c\uddfd santi gimenez has no injury or fitness issues; he\u2019s training alone as talks",
     "\ud83d\udea8 \ud83c\udde6\ud83c\uddf7 inter manager cristian chivu: \u201clautaro is our captain and we keep him with ",
-    "\ud83d\udea8 \u26aa\ufe0f denzel dumfries, presented as new real madrid player by florentino perez he"
+    "\ud83d\udea8 \u26aa\ufe0f denzel dumfries, presented as new real madrid player by florentino perez he",
+    "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f saudi pro league side al shabab sign thomas partey on a free transfer \ud83c\uddf8\ud83c\udde6",
+    "@transfersector it\u2019s agreed since this morning, medical done today : ) https://t"
   ],
   "tg_update_offset": 263617426,
   "photos": {
-    "konstantinos karetsas": "https://r2.thesportsdb.com/images/media/player/cutout/kttsl71767641854.png/small",
     "christ inao oulai": "https://r2.thesportsdb.com/images/media/player/cutout/8x66ls1779129624.png/small",
     "ibrahim mbaye": "https://r2.thesportsdb.com/images/media/player/cutout/aquiiw1766335383.png/small",
     "ezri konsa": "https://r2.thesportsdb.com/images/media/player/cutout/rnu4al1756984921.png/small",
@@ -2553,12 +2553,13 @@
     "calvin ramsay": "https://r2.thesportsdb.com/images/media/player/cutout/wp2ern1695308880.png/small",
     "alejandro balde": "https://r2.thesportsdb.com/images/media/player/cutout/ix83yt1768321088.png/small",
     "axel disasi": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/AxelDisasi_%28cropped%29.jpg/330px-AxelDisasi_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "hermann malonga": "",
     "tommy marques": "",
     "dastan satpayev": "",
-    "heaven kilwa": ""
+    "heaven kilwa": "",
+    "thomas partey": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Thomas_Partey_5_England_v_Ghana_at_2026_Fifa_World_Cup_by_YantsImages_02_%28cropped%29.jpg/330px-Thomas_Partey_5_England_v_Ghana_at_2026_Fifa_World_Cup_by_YantsImages_02_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "hermann malonga": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",
@@ -2719,6 +2720,7 @@
     "az alkmaar": "https://r2.thesportsdb.com/images/media/team/badge/wtqwvv1473534757.png/small",
     "mallorca": "https://r2.thesportsdb.com/images/media/team/badge/ssptsx1473503730.png/small",
     "palmeiras": "https://r2.thesportsdb.com/images/media/team/badge/vsqwqp1473538105.png/small",
-    "st mirren": "https://r2.thesportsdb.com/images/media/team/badge/xvtuvv1447604452.png/small"
+    "st mirren": "https://r2.thesportsdb.com/images/media/team/badge/xvtuvv1447604452.png/small",
+    "al shabab": "https://images.fotmob.com/image_resources/logo/teamlogo/101916.png"
   }
 }

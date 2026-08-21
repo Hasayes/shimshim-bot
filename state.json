@@ -1,9 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/64223",
-    "8b6b51c1cfe6b535ceeadb21a7fbd814",
-    "8cef01aa250a332424b25daf0b844a9a",
-    "02b786c653894b4b7886965cd4a7ec42",
     "3162c502cc06c87de6d115ba09bac962",
     "abc901cf566cab80904c9aca25de05a4",
     "c68413ccba0fd9aaaefdc6fdad7c070b",
@@ -1499,7 +1495,11 @@
     "7efa0d67b4e28265e29cd5287832dca0",
     "9d07e3a2c2c9acdc3f96d3d04b8c44b8",
     "ee82a8f401cf75f138b8af6c971e45a8",
-    "fa32c9acbcb709c26074e9dd245a0fc8"
+    "fa32c9acbcb709c26074e9dd245a0fc8",
+    "44ee5f9e7a7ac413cee9cb3e2bb54ca9",
+    "634beb89537462d0aa22873cfccad81c",
+    "c467cbb42ae1e0cfbf9a869c2534f528",
+    "c8b84baaaa4426a3822ec2d5bbbfff84"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1952,10 +1952,6 @@
     "interest: balde -> manchester united"
   ],
   "titles": [
-    "united and fernandes in talks after galatasaray offer tribalfootball",
-    "\ud83d\udea8 \u26aa\ufe0f \ud83d\udd35 como and ac milan are in direct talks for samuele ricci as formula of the",
-    "bayern munich news: newcastle united to step up chase for fc bayern\u2019s joao palhi",
-    "\ud83d\udea8 \u26a0\ufe0f dayann methalie returns to france after medical at sunderland as he doesn\u2019t",
     "\ud83d\udea8 \ud83e\ude77 \ud83d\udda4 palermo are in club to club talks to sign mattia perin from juventus as ne",
     "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 official: rodri joins barcelona on \u20ac60m plus \u20ac15m add ons deal from man ci",
     "liverpool latest: bradley barcola 'discount offered' as details of failed bid re",
@@ -2251,7 +2247,11 @@
     "liverpool learn new transfer decision after \u00a350m bid for bradley barcola alterna",
     "'here we go' alcaraz to make return from injury at us open",
     "carlos alcaraz to return from injury for 2026 us open after missing wimbledon, r",
-    "liverpool barcola stance revealed after ornstein confirms \u00a350m minteh bid"
+    "liverpool barcola stance revealed after ornstein confirms \u00a350m minteh bid",
+    "alcaraz confirms us open return after four month injury layoff",
+    "us open 2026: carlos alcaraz to return in new york after four months out with wr",
+    "carlos alcaraz confirms he'll be back at us open \u2014 and he chose a football style",
+    "'here we go!': carlos alcaraz confirms us open comeback in unexpected fashion"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2551,12 +2551,12 @@
     "kenan yildiz": "https://images.fotmob.com/image_resources/playerimages/1412132.png",
     "calvin ramsay": "https://r2.thesportsdb.com/images/media/player/cutout/wp2ern1695308880.png/small",
     "alejandro balde": "https://r2.thesportsdb.com/images/media/player/cutout/ix83yt1768321088.png/small",
-    "tommy marques": "",
     "dastan satpayev": "",
     "heaven kilwa": "",
-    "hermann malonga": ""
+    "hermann malonga": "",
+    "tommy marques": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

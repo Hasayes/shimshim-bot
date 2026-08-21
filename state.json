@@ -1,6 +1,5 @@
 {
   "sent": [
-    "a273e4c96080b89c0097190fd98b350b",
     "4d5bc6e9a9e95a55380475b1c1ca168a",
     "d0dcc66e7167efc79621b29a2b02a58c",
     "19f50ee134052a91b57d9fca579f148f",
@@ -1499,7 +1498,8 @@
     "6526e53f5de60139ece3a652e53e48b0",
     "7fd783984a7a0110b4e32944e035443a",
     "6c571865a3d700ddf25d2b2a31ccbe37",
-    "fe72be7e0472aeb5beb9539f99bfd30c"
+    "fe72be7e0472aeb5beb9539f99bfd30c",
+    "59e705eb0c679ed7e74daf341ed4f9a0"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2549,12 +2549,12 @@
     "yankuba minteh": "https://r2.thesportsdb.com/images/media/player/cutout/1345u71756998901.png/small",
     "josip sutalo": "https://r2.thesportsdb.com/images/media/player/cutout/4bdrsm1722880866.png/small",
     "kenan yildiz": "https://images.fotmob.com/image_resources/playerimages/1412132.png",
-    "tommy marques": "",
     "dastan satpayev": "",
     "heaven kilwa": "",
-    "hermann malonga": ""
+    "hermann malonga": "",
+    "tommy marques": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

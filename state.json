@@ -1,6 +1,5 @@
 {
   "sent": [
-    "9149b69b389a5ccfb8b214b1f53f25d8",
     "4a18aa98bfbd5a45c86cf811029363ed",
     "3411dcf93f7dbf3d0863f91366cb415c",
     "tg:FabrizioRomanoTG/64223",
@@ -1499,7 +1498,8 @@
     "a4333588df1ad1ba247c2c2ac2285641",
     "681234710eea6c5c7c3c2260504567e4",
     "36d7e7cab0f0d632119b2d72273f9f39",
-    "7efa0d67b4e28265e29cd5287832dca0"
+    "7efa0d67b4e28265e29cd5287832dca0",
+    "9d07e3a2c2c9acdc3f96d3d04b8c44b8"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1952,7 +1952,6 @@
     "interest: balde -> manchester united"
   ],
   "titles": [
-    "\ud83d\udea8 \u26aa\ufe0f jose mourinho: \u201ci feel this is a mission it goes beyond words\u201d \u201ci am here t",
     "\u26aa\ufe0f \u26ab\ufe0f \u270d\ud83c\udffb guglielmo vicario has signed his contract as new juventus goalkeeper fr",
     "\ud83d\udea8 \ud83c\uddf8\ud83c\uddf3 patrick vieira signs in as new senegal national team head coach, agreement ",
     "united and fernandes in talks after galatasaray offer tribalfootball",
@@ -2251,7 +2250,8 @@
     "ornstein: liverpool see \u00a350m bid for brighton forward yankuba minteh rejected",
     "breaking romano bombshell: man utd make approach for barcelona star as \u2018next pri",
     "newcastle's lewis hall wants to join man utd after carlos baleba",
-    "liverpool learn new transfer decision after \u00a350m bid for bradley barcola alterna"
+    "liverpool learn new transfer decision after \u00a350m bid for bradley barcola alterna",
+    "'here we go' alcaraz to make return from injury at us open"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2551,12 +2551,12 @@
     "kenan yildiz": "https://images.fotmob.com/image_resources/playerimages/1412132.png",
     "calvin ramsay": "https://r2.thesportsdb.com/images/media/player/cutout/wp2ern1695308880.png/small",
     "alejandro balde": "https://r2.thesportsdb.com/images/media/player/cutout/ix83yt1768321088.png/small",
-    "heaven kilwa": "",
     "hermann malonga": "",
     "tommy marques": "",
-    "dastan satpayev": ""
+    "dastan satpayev": "",
+    "heaven kilwa": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

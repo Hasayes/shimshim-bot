@@ -1,6 +1,5 @@
 {
   "sent": [
-    "f004030a602bcc0dbe2cc8448f9a79f7",
     "c5914545afd35f7f82ee94fba662a5e9",
     "d53419ab69cac13bdfb8aa2b8baf3fe4",
     "fea0f170e7f0c124fd028a59b793315c",
@@ -1499,7 +1498,8 @@
     "9dd9cb57cff2a33bc54fc51c7ec08153",
     "fd16b8c891f2af73e01048f2ab924996",
     "915071972baee4e1cd783f2f1388e180",
-    "4414b441db4dbc7193f58e1c879d3fe6"
+    "4414b441db4dbc7193f58e1c879d3fe6",
+    "c1d5932bc2b20939c1a63ace62358dd4"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1961,7 +1961,6 @@
     "interest: gyokeres -> barcelona"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83d\udc02 torino agree deal to sign niccolo fortini as new fullback from fiorentina de",
     "aston villa face major ollie watkins decision after \u20ac45m bid was made",
     "\ud83d\udd34 \u26aa\ufe0f \ud83e\udd85 alessandro circati signs in as new benfica player from parma, deal confir",
     "romano \u2018clarifies two things\u2019 after bruno fernandes \u2018rejects\u2019 man utd contract r",
@@ -2260,7 +2259,8 @@
     "\u2018here we go!\u2019 fabrizio romano reports that tottenham have agreed a deal with man",
     "confusion over joao pedro contract as new deal appears to be shorter than the la",
     "jorge mendes backs lamine yamal for 2026 ballon d\u2019or",
-    "when tottenham could green light mikey moore exit as timeframe emerges"
+    "when tottenham could green light mikey moore exit as timeframe emerges",
+    "liverpool reach decision on new yankuba minteh bid after brighton snub \u00a350m offe"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2560,12 +2560,12 @@
     "deivid washington": "https://r2.thesportsdb.com/images/media/player/cutout/553nc21699732538.png/small",
     "david raum": "https://r2.thesportsdb.com/images/media/player/cutout/wxbgdk1763561343.png/small",
     "michele di gregorio": "https://r2.thesportsdb.com/images/media/player/cutout/fgvi9t1759222392.png/small",
-    "hermann malonga": "",
     "tommy marques": "",
     "dastan satpayev": "",
-    "heaven kilwa": ""
+    "heaven kilwa": "",
+    "hermann malonga": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

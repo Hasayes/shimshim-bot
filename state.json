@@ -1,8 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/64247",
-    "283b32557c309fe5e0f5ab4e90703fa9",
-    "99e97e15ad8f989dbcf9f5b1d65fd4b4",
     "tg:FabrizioRomanoTG/64248",
     "tg:FabrizioRomanoTG/64251",
     "98965104f8c0548eef500fa05128a1a7",
@@ -1499,7 +1496,10 @@
     "tg:FabrizioRomanoTG/65068",
     "tg:FabrizioRomanoTG/65070",
     "tg:FabrizioRomanoTG/65071",
-    "21d5ae4767b64cb1aecf499bc40cf860"
+    "21d5ae4767b64cb1aecf499bc40cf860",
+    "de4964976405c7ad0028cc6e3ab5f76f",
+    "ccdf099d7c7a9531693b360c6443c5ca",
+    "tg:FabrizioRomanoTG/65073"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1953,12 +1953,11 @@
     "interest: wharton -> manchester city",
     "interest: minteh -> liverpool",
     "interest: yildiz -> arsenal",
-    "interest: balde -> manchester united"
+    "interest: balde -> manchester united",
+    "interest: raum -> manchester united",
+    "interest: wharton -> liverpool"
   ],
   "titles": [
-    "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f michele di gregorio accepts to leave juventus before the end of the wind",
-    "como push for ricci as milan hold firm on permanent sale",
-    "\ud83d\udea8 \ud83d\udfe3 \ud83d\udd35 busy hours at aston villa as aaron wan bissaka starts his medical at the c",
     "former inter milan striker puts lazio on hold as he evaluates his options",
     "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f rc strasbourg agree deal to sign karim coulibaly from werder bremen, here",
     "manchester united in contract renewal talks with key midfielder",
@@ -2255,11 +2254,13 @@
     "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f rc strasbourg have agreed deal to sign deivid washington from chelsea, he",
     "\ud83d\udea8 \ud83d\udd34 liverpool submit \u00a360m proposal for yankuba minteh after personal terms agree",
     "\ud83d\udea8 \ud83d\udd34 liverpool and yankuba minteh have a broad verbal agreement on contract terms",
-    "tottenham advancing on omar marmoush, who mido recommended two years ago"
+    "tottenham advancing on omar marmoush, who mido recommended two years ago",
+    "man utd offered david raum as carlos baleba deal edges closer",
+    "sources: liverpool target \u2018outstanding\u2019 midfielder but move could rise towards \u00a3",
+    "\ud83d\udea8 \ud83c\uddeb\ud83c\uddf7 both newcastle and rb leipzig are in direct contact with ac milan for chris"
   ],
   "tg_update_offset": 263617426,
   "photos": {
-    "ibrahim mbaye": "https://r2.thesportsdb.com/images/media/player/cutout/aquiiw1766335383.png/small",
     "ezri konsa": "https://r2.thesportsdb.com/images/media/player/cutout/rnu4al1756984921.png/small",
     "savinho": "https://r2.thesportsdb.com/images/media/player/cutout/khqgy21769183420.png/small",
     "nico raskin": "https://r2.thesportsdb.com/images/media/player/cutout/zdlxoe1701946661.png/small",
@@ -2554,13 +2555,14 @@
     "alejandro balde": "https://r2.thesportsdb.com/images/media/player/cutout/ix83yt1768321088.png/small",
     "axel disasi": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/AxelDisasi_%28cropped%29.jpg/330px-AxelDisasi_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "thomas partey": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Thomas_Partey_5_England_v_Ghana_at_2026_Fifa_World_Cup_by_YantsImages_02_%28cropped%29.jpg/330px-Thomas_Partey_5_England_v_Ghana_at_2026_Fifa_World_Cup_by_YantsImages_02_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "hermann malonga": "",
     "deivid washington": "https://r2.thesportsdb.com/images/media/player/cutout/553nc21699732538.png/small",
     "tommy marques": "",
     "dastan satpayev": "",
-    "heaven kilwa": ""
+    "heaven kilwa": "",
+    "david raum": "https://r2.thesportsdb.com/images/media/player/cutout/wxbgdk1763561343.png/small",
+    "hermann malonga": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

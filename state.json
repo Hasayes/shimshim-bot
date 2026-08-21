@@ -1,7 +1,5 @@
 {
   "sent": [
-    "24f973c1c58298fac8dee1be8894d37f",
-    "9847a6c06ad19d71785401c78f8aebbd",
     "c1a8119c26e1cd386228d0a3b488e679",
     "eca4cf248e67ff9e3a6c051654ece3cd",
     "aed0f5d966cfc6ba9c8ea93ef6187c73",
@@ -1499,7 +1497,9 @@
     "849571ed2efc4d13f43806da4d15f5fa",
     "a43449eb74606516c25f9e183964f1a4",
     "e9fc24d667f9f6b670b6dd2ea324bc07",
-    "1bb8cbbb6ce13a1f7e692a37203c122e"
+    "1bb8cbbb6ce13a1f7e692a37203c122e",
+    "0284d4db28ee2ec5a1d2f5d4d8179945",
+    "49a85775583aa1f54830121a6944ef30"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1952,8 +1952,6 @@
     "interest: balde -> manchester united"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83c\uddf2\ud83c\uddfd fc porto sent the following official bid to ac milan for santi gimenez toda",
-    "\ud83d\udd35 \ud83d\udd34 hansi flick: \u201cwith rodri, we\u2019ve signed the best no6 in the world he can help",
     "liverpool 'offered barcola discount' as agreement reached in psg talks london ev",
     "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f rc strasbourg are advancing to get karim coulibaly deal done with werder ",
     "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f excl: lutsharel geertruida to psv eindhoven, deal now agreed in principle",
@@ -2251,7 +2249,9 @@
     "carlos alcaraz confirms blockbuster return date to tennis after 4 months absence",
     "andrea berta eyes arsenal transfer ally as aston villa make surprise bid for ezr",
     "man united transfer news: red devils targeting late summer move for \"expensive\" ",
-    "\u2018here we go\u2019: carlos alcaraz confirms us open return after four month injury abs"
+    "\u2018here we go\u2019: carlos alcaraz confirms us open return after four month injury abs",
+    "brighton journalist confirms carlos baleba news",
+    "fabrizio romano confirms it: medical booked as liverpool set to complete deal"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2551,12 +2551,12 @@
     "kenan yildiz": "https://images.fotmob.com/image_resources/playerimages/1412132.png",
     "calvin ramsay": "https://r2.thesportsdb.com/images/media/player/cutout/wp2ern1695308880.png/small",
     "alejandro balde": "https://r2.thesportsdb.com/images/media/player/cutout/ix83yt1768321088.png/small",
-    "dastan satpayev": "",
     "heaven kilwa": "",
     "hermann malonga": "",
-    "tommy marques": ""
+    "tommy marques": "",
+    "dastan satpayev": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

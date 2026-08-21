@@ -1,6 +1,5 @@
 {
   "sent": [
-    "b539c23a52394a7d36ab46dff408dea1",
     "tg:FabrizioRomanoTG/64247",
     "283b32557c309fe5e0f5ab4e90703fa9",
     "99e97e15ad8f989dbcf9f5b1d65fd4b4",
@@ -1499,7 +1498,8 @@
     "tg:FabrizioRomanoTG/65065",
     "tg:FabrizioRomanoTG/65068",
     "tg:FabrizioRomanoTG/65070",
-    "tg:FabrizioRomanoTG/65071"
+    "tg:FabrizioRomanoTG/65071",
+    "21d5ae4767b64cb1aecf499bc40cf860"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1956,7 +1956,6 @@
     "interest: balde -> manchester united"
   ],
   "titles": [
-    "david ornstein: newcastle in talks to sign man city star nico gonzalez",
     "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f michele di gregorio accepts to leave juventus before the end of the wind",
     "como push for ricci as milan hold firm on permanent sale",
     "\ud83d\udea8 \ud83d\udfe3 \ud83d\udd35 busy hours at aston villa as aaron wan bissaka starts his medical at the c",
@@ -2255,7 +2254,8 @@
     "\ud83d\udea8 \ud83c\uddfa\ud83c\udde6 mykhaylo mudryk, 100% expected to leave chelsea on loan as revealed earlier",
     "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f rc strasbourg have agreed deal to sign deivid washington from chelsea, he",
     "\ud83d\udea8 \ud83d\udd34 liverpool submit \u00a360m proposal for yankuba minteh after personal terms agree",
-    "\ud83d\udea8 \ud83d\udd34 liverpool and yankuba minteh have a broad verbal agreement on contract terms"
+    "\ud83d\udea8 \ud83d\udd34 liverpool and yankuba minteh have a broad verbal agreement on contract terms",
+    "tottenham advancing on omar marmoush, who mido recommended two years ago"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2554,13 +2554,13 @@
     "alejandro balde": "https://r2.thesportsdb.com/images/media/player/cutout/ix83yt1768321088.png/small",
     "axel disasi": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/AxelDisasi_%28cropped%29.jpg/330px-AxelDisasi_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "thomas partey": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Thomas_Partey_5_England_v_Ghana_at_2026_Fifa_World_Cup_by_YantsImages_02_%28cropped%29.jpg/330px-Thomas_Partey_5_England_v_Ghana_at_2026_Fifa_World_Cup_by_YantsImages_02_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "heaven kilwa": "",
     "hermann malonga": "",
     "deivid washington": "https://r2.thesportsdb.com/images/media/player/cutout/553nc21699732538.png/small",
     "tommy marques": "",
-    "dastan satpayev": ""
+    "dastan satpayev": "",
+    "heaven kilwa": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

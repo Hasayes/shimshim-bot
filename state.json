@@ -1,7 +1,5 @@
 {
   "sent": [
-    "ee3cbe0413d475c73b77633c672de186",
-    "tg:FabrizioRomanoTG/64215",
     "c0c18db554280d9ef0a0dd98f056f6e0",
     "431e1fd9c1c6eb36b5f676c7e3c046e4",
     "8b5ebf75e4eed738abfef2cdd35e4e32",
@@ -1499,7 +1497,9 @@
     "5a12df0509aa9fb568a391739cc57d91",
     "6ebbcd9348277725a2b2aaa16000a84b",
     "07faeb969752000f60d9cbec104b7dcb",
-    "c144721267e319e9cd134b999309218e"
+    "c144721267e319e9cd134b999309218e",
+    "3caf5ce59b8f2d0fa9c150e64f1fa5f4",
+    "a94b1f7225a0760519065296fb28323c"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1952,8 +1952,6 @@
     "interest: balde -> manchester united"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f excl: monza send official bid to derby county for swedish gk jacob widell",
-    "\ud83d\udd35 \ud83d\udd34 \ud83d\udd10 rodri has signed his contract as new barcelona player until june 2030 \u2014 fa",
     "\ud83d\udea8 \u26aa\ufe0f jose mourinho, officially presented by president florentino perez as new re",
     "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 \u201ci am so, so happy it\u2019s a dream\u201d rodri has signed with barcelona until jun",
     "\u26aa\ufe0f \ud83d\udd25 jose mourinho: \u201ci am here to work for real madrid everyone should follow th",
@@ -2251,7 +2249,9 @@
     "liverpool reach decision on signing ethan nwaneri from arsenal for \u00a350m",
     "manchester united open talks to sign barcelona star after \u00a365m carlos baleba tra",
     "manchester united make contact for alejandro balde",
-    "bradley barcola latest, cody gakpo exit, transfer needs your liverpool questions"
+    "bradley barcola latest, cody gakpo exit, transfer needs your liverpool questions",
+    "decision reached as liverpool linked with stunning arsenal raid for ethan nwaner",
+    "ornstein: liverpool see \u00a350m bid for brighton forward yankuba minteh rejected"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2550,13 +2550,13 @@
     "josip sutalo": "https://r2.thesportsdb.com/images/media/player/cutout/4bdrsm1722880866.png/small",
     "kenan yildiz": "https://images.fotmob.com/image_resources/playerimages/1412132.png",
     "calvin ramsay": "https://r2.thesportsdb.com/images/media/player/cutout/wp2ern1695308880.png/small",
-    "hermann malonga": "",
     "alejandro balde": "https://r2.thesportsdb.com/images/media/player/cutout/ix83yt1768321088.png/small",
     "tommy marques": "",
     "dastan satpayev": "",
-    "heaven kilwa": ""
+    "heaven kilwa": "",
+    "hermann malonga": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

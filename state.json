@@ -1,6 +1,5 @@
 {
   "sent": [
-    "a27a5ffd308d768e6d2661027fdab647",
     "bbbff9bdf70ef3f7e10cd88044502731",
     "14d84ab9682af296db76d735e18c293c",
     "f2a483dde172d02eef1884300c74f0ee",
@@ -1499,7 +1498,8 @@
     "3d8bc75e61b2e630195a9f6c43f7c62d",
     "33e4b14daaf3dd0915eb7f6727723c5b",
     "09403a3fddb7e37f97833b33ff771068",
-    "0a3dcf9f32ade3846e0b79436b5532ff"
+    "0a3dcf9f32ade3846e0b79436b5532ff",
+    "9c90d3571f7b74bbf950fb3b2830a7d7"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1961,7 +1961,6 @@
     "interest: gyokeres -> barcelona"
   ],
   "titles": [
-    "napoli eye stunning premier league triple raid for gabriel jesus, joshua zirkzee",
     "\ud83d\udea8 \ud83c\uddf8\ud83c\udde6 official, exclusive story confirmed tijjani reijnders signs for al qadsiah ",
     "\ud83d\udea8 ederson on deal off with man united: \u201cno idea why that happened i've always ha",
     "barcelona consider surprise goalkeeper bid",
@@ -2260,7 +2259,8 @@
     "man utd enter bidding for sixth signing after baleba with deadline set as jacobs",
     "aston villa could sell emi martinez to premier league rivals",
     "from spain: barcelona have agreement with inter star lautaro martinez",
-    "yankuba minteh and liverpool \u00a350m rejected bid to brighton"
+    "yankuba minteh and liverpool \u00a350m rejected bid to brighton",
+    "liverpool rocked as manager confirms mega money transfer is off"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2560,12 +2560,12 @@
     "deivid washington": "https://r2.thesportsdb.com/images/media/player/cutout/553nc21699732538.png/small",
     "david raum": "https://r2.thesportsdb.com/images/media/player/cutout/wxbgdk1763561343.png/small",
     "michele di gregorio": "https://r2.thesportsdb.com/images/media/player/cutout/fgvi9t1759222392.png/small",
-    "tommy marques": "",
     "dastan satpayev": "",
     "heaven kilwa": "",
-    "hermann malonga": ""
+    "hermann malonga": "",
+    "tommy marques": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

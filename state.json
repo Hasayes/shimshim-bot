@@ -1,6 +1,5 @@
 {
   "sent": [
-    "50fcb0f10279319cd72604e67aaf97de",
     "a27a5ffd308d768e6d2661027fdab647",
     "bbbff9bdf70ef3f7e10cd88044502731",
     "14d84ab9682af296db76d735e18c293c",
@@ -1499,7 +1498,8 @@
     "7a37c9e90f088e6fba1bd2d90ae2feb4",
     "3d8bc75e61b2e630195a9f6c43f7c62d",
     "33e4b14daaf3dd0915eb7f6727723c5b",
-    "09403a3fddb7e37f97833b33ff771068"
+    "09403a3fddb7e37f97833b33ff771068",
+    "0a3dcf9f32ade3846e0b79436b5532ff"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1961,7 +1961,6 @@
     "interest: gyokeres -> barcelona"
   ],
   "titles": [
-    "rt @fabrizioromano : \ud83d\udea8 manchester united mantain regular contact with carlos bal",
     "napoli eye stunning premier league triple raid for gabriel jesus, joshua zirkzee",
     "\ud83d\udea8 \ud83c\uddf8\ud83c\udde6 official, exclusive story confirmed tijjani reijnders signs for al qadsiah ",
     "\ud83d\udea8 ederson on deal off with man united: \u201cno idea why that happened i've always ha",
@@ -2260,7 +2259,8 @@
     "chelsea double defensive exit underway as badiashile joins napoli and disasi hea",
     "man utd enter bidding for sixth signing after baleba with deadline set as jacobs",
     "aston villa could sell emi martinez to premier league rivals",
-    "from spain: barcelona have agreement with inter star lautaro martinez"
+    "from spain: barcelona have agreement with inter star lautaro martinez",
+    "yankuba minteh and liverpool \u00a350m rejected bid to brighton"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2559,13 +2559,13 @@
     "thomas partey": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Thomas_Partey_5_England_v_Ghana_at_2026_Fifa_World_Cup_by_YantsImages_02_%28cropped%29.jpg/330px-Thomas_Partey_5_England_v_Ghana_at_2026_Fifa_World_Cup_by_YantsImages_02_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "deivid washington": "https://r2.thesportsdb.com/images/media/player/cutout/553nc21699732538.png/small",
     "david raum": "https://r2.thesportsdb.com/images/media/player/cutout/wxbgdk1763561343.png/small",
-    "hermann malonga": "",
     "michele di gregorio": "https://r2.thesportsdb.com/images/media/player/cutout/fgvi9t1759222392.png/small",
     "tommy marques": "",
     "dastan satpayev": "",
-    "heaven kilwa": ""
+    "heaven kilwa": "",
+    "hermann malonga": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

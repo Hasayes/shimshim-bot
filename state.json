@@ -1,6 +1,5 @@
 {
   "sent": [
-    "80b04a94cbf68be318e55d739c162e52",
     "98b647f253c636e847d78beff39542b1",
     "5f886fb1d9c22fb9395e265c84267ace",
     "98123bddef6c05ef1aebcce163e45ce9",
@@ -1499,7 +1498,8 @@
     "c8b84baaaa4426a3822ec2d5bbbfff84",
     "27d98f2685ed6a70d73a184f63cd0695",
     "fd23eeb0a154ec80f9e129e05779effd",
-    "tg:FabrizioRomanoTG/65015"
+    "tg:FabrizioRomanoTG/65015",
+    "849571ed2efc4d13f43806da4d15f5fa"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1952,7 +1952,6 @@
     "interest: balde -> manchester united"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83d\udfe3 \ud83d\udd35 breaking: aston villa agree deal to sign aaron wan bissaka from west ham, ",
     "rt @fabrizioromano : \ud83d\udea8 \ud83d\udfe3 \ud83d\udd35 breaking: aston villa agree deal to sign aaron wan bi",
     "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f alessandro circati to benfica, here we go! deal in place for \u20ac20m plus ad",
     "\ud83d\udea8 \ud83c\udde7\ud83c\uddf7 juventus have offered arthur melo the possibility to terminate the contract",
@@ -2251,7 +2250,8 @@
     "'here we go!': carlos alcaraz confirms us open comeback in unexpected fashion",
     "carlos alcaraz announces return from injury for u s open 'here we go'",
     "carlos alcaraz us open decision confirmed as update on tennis star given",
-    "\ud83d\udea8 \u26aa\ufe0f savinho\u2019s move will cost spurs fee in excess of \u00a375m, expected to reach pac"
+    "\ud83d\udea8 \u26aa\ufe0f savinho\u2019s move will cost spurs fee in excess of \u00a375m, expected to reach pac",
+    "carlos alcaraz confirms blockbuster return date to tennis after 4 months absence"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2551,12 +2551,12 @@
     "kenan yildiz": "https://images.fotmob.com/image_resources/playerimages/1412132.png",
     "calvin ramsay": "https://r2.thesportsdb.com/images/media/player/cutout/wp2ern1695308880.png/small",
     "alejandro balde": "https://r2.thesportsdb.com/images/media/player/cutout/ix83yt1768321088.png/small",
-    "hermann malonga": "",
     "tommy marques": "",
     "dastan satpayev": "",
-    "heaven kilwa": ""
+    "heaven kilwa": "",
+    "hermann malonga": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

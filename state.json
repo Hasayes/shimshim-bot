@@ -1,6 +1,5 @@
 {
   "sent": [
-    "9a59cd586748326f8597dec34dabc733",
     "ee3cbe0413d475c73b77633c672de186",
     "tg:FabrizioRomanoTG/64215",
     "c0c18db554280d9ef0a0dd98f056f6e0",
@@ -1499,7 +1498,8 @@
     "98da08be5c6e485c348ac6d55225bd81",
     "5a12df0509aa9fb568a391739cc57d91",
     "6ebbcd9348277725a2b2aaa16000a84b",
-    "07faeb969752000f60d9cbec104b7dcb"
+    "07faeb969752000f60d9cbec104b7dcb",
+    "c144721267e319e9cd134b999309218e"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1952,7 +1952,6 @@
     "interest: balde -> manchester united"
   ],
   "titles": [
-    "\ud83d\udea8 \u26ab\ufe0f \ud83d\udd35 inter are closing in on new deal agreement with pio esposito until june 2",
     "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f excl: monza send official bid to derby county for swedish gk jacob widell",
     "\ud83d\udd35 \ud83d\udd34 \ud83d\udd10 rodri has signed his contract as new barcelona player until june 2030 \u2014 fa",
     "\ud83d\udea8 \u26aa\ufe0f jose mourinho, officially presented by president florentino perez as new re",
@@ -2251,7 +2250,8 @@
     "just in: manchester united call super agent to enquire about barcelona defender ",
     "liverpool reach decision on signing ethan nwaneri from arsenal for \u00a350m",
     "manchester united open talks to sign barcelona star after \u00a365m carlos baleba tra",
-    "manchester united make contact for alejandro balde"
+    "manchester united make contact for alejandro balde",
+    "bradley barcola latest, cody gakpo exit, transfer needs your liverpool questions"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2550,13 +2550,13 @@
     "josip sutalo": "https://r2.thesportsdb.com/images/media/player/cutout/4bdrsm1722880866.png/small",
     "kenan yildiz": "https://images.fotmob.com/image_resources/playerimages/1412132.png",
     "calvin ramsay": "https://r2.thesportsdb.com/images/media/player/cutout/wp2ern1695308880.png/small",
-    "heaven kilwa": "",
     "hermann malonga": "",
     "alejandro balde": "https://r2.thesportsdb.com/images/media/player/cutout/ix83yt1768321088.png/small",
     "tommy marques": "",
-    "dastan satpayev": ""
+    "dastan satpayev": "",
+    "heaven kilwa": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

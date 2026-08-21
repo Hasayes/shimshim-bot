@@ -1,7 +1,5 @@
 {
   "sent": [
-    "3162c502cc06c87de6d115ba09bac962",
-    "abc901cf566cab80904c9aca25de05a4",
     "c68413ccba0fd9aaaefdc6fdad7c070b",
     "80b04a94cbf68be318e55d739c162e52",
     "98b647f253c636e847d78beff39542b1",
@@ -1499,7 +1497,9 @@
     "44ee5f9e7a7ac413cee9cb3e2bb54ca9",
     "634beb89537462d0aa22873cfccad81c",
     "c467cbb42ae1e0cfbf9a869c2534f528",
-    "c8b84baaaa4426a3822ec2d5bbbfff84"
+    "c8b84baaaa4426a3822ec2d5bbbfff84",
+    "27d98f2685ed6a70d73a184f63cd0695",
+    "fd23eeb0a154ec80f9e129e05779effd"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1952,8 +1952,6 @@
     "interest: balde -> manchester united"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83e\ude77 \ud83d\udda4 palermo are in club to club talks to sign mattia perin from juventus as ne",
-    "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 official: rodri joins barcelona on \u20ac60m plus \u20ac15m add ons deal from man ci",
     "liverpool latest: bradley barcola 'discount offered' as details of failed bid re",
     "\ud83d\udea8 \ud83d\udfe3 \ud83d\udd35 breaking: aston villa agree deal to sign aaron wan bissaka from west ham, ",
     "rt @fabrizioromano : \ud83d\udea8 \ud83d\udfe3 \ud83d\udd35 breaking: aston villa agree deal to sign aaron wan bi",
@@ -2251,7 +2249,9 @@
     "alcaraz confirms us open return after four month injury layoff",
     "us open 2026: carlos alcaraz to return in new york after four months out with wr",
     "carlos alcaraz confirms he'll be back at us open \u2014 and he chose a football style",
-    "'here we go!': carlos alcaraz confirms us open comeback in unexpected fashion"
+    "'here we go!': carlos alcaraz confirms us open comeback in unexpected fashion",
+    "carlos alcaraz announces return from injury for u s open 'here we go'",
+    "carlos alcaraz us open decision confirmed as update on tennis star given"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2551,12 +2551,12 @@
     "kenan yildiz": "https://images.fotmob.com/image_resources/playerimages/1412132.png",
     "calvin ramsay": "https://r2.thesportsdb.com/images/media/player/cutout/wp2ern1695308880.png/small",
     "alejandro balde": "https://r2.thesportsdb.com/images/media/player/cutout/ix83yt1768321088.png/small",
-    "dastan satpayev": "",
     "heaven kilwa": "",
     "hermann malonga": "",
-    "tommy marques": ""
+    "tommy marques": "",
+    "dastan satpayev": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

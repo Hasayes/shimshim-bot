@@ -1,9 +1,5 @@
 {
   "sent": [
-    "14df323d5497ccc7cc9ade506d021e89",
-    "a9f5f5c9c26c6b0a4b82e047d4120daa",
-    "tg:FabrizioRomanoTG/64213",
-    "88fc5a55b0763d53f6eba83074344294",
     "9a59cd586748326f8597dec34dabc733",
     "ee3cbe0413d475c73b77633c672de186",
     "tg:FabrizioRomanoTG/64215",
@@ -1499,7 +1495,11 @@
     "088391325b3765e46ae102379ae95c68",
     "4f992a3932f188c9a1186bed9a6f53ea",
     "56cca4839cd256b7690063e5d5d85af7",
-    "73e011980164f2665346b2dbef18242d"
+    "73e011980164f2665346b2dbef18242d",
+    "98da08be5c6e485c348ac6d55225bd81",
+    "5a12df0509aa9fb568a391739cc57d91",
+    "6ebbcd9348277725a2b2aaa16000a84b",
+    "07faeb969752000f60d9cbec104b7dcb"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1952,10 +1952,6 @@
     "interest: balde -> manchester united"
   ],
   "titles": [
-    "romano reveals new bid coming for liverpool star as reds target agrees terms",
-    "ac milan make move for endrick as real madrid deliver huge response to loan prop",
-    "psg wonderkid ibrahim mbaye agrees personal terms with liverpool tribalfootball",
-    "barcola and mbaye boost hinted in french super cup the liverpool offside",
     "\ud83d\udea8 \u26ab\ufe0f \ud83d\udd35 inter are closing in on new deal agreement with pio esposito until june 2",
     "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f excl: monza send official bid to derby county for swedish gk jacob widell",
     "\ud83d\udd35 \ud83d\udd34 \ud83d\udd10 rodri has signed his contract as new barcelona player until june 2030 \u2014 fa",
@@ -2251,7 +2247,11 @@
     "arsenal \u2018have no plans to sell viktor gyokeres but could still sign new striker ",
     "romano: man utd in talks to sign barcelona star alejandro balde",
     "man utd call barcelona to ask about alejandro balde",
-    "top man utd target now \u2018in discussions\u2019 to sign different deal after decision ma"
+    "top man utd target now \u2018in discussions\u2019 to sign different deal after decision ma",
+    "just in: manchester united call super agent to enquire about barcelona defender ",
+    "liverpool reach decision on signing ethan nwaneri from arsenal for \u00a350m",
+    "manchester united open talks to sign barcelona star after \u00a365m carlos baleba tra",
+    "manchester united make contact for alejandro balde"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2550,13 +2550,13 @@
     "josip sutalo": "https://r2.thesportsdb.com/images/media/player/cutout/4bdrsm1722880866.png/small",
     "kenan yildiz": "https://images.fotmob.com/image_resources/playerimages/1412132.png",
     "calvin ramsay": "https://r2.thesportsdb.com/images/media/player/cutout/wp2ern1695308880.png/small",
-    "dastan satpayev": "",
     "heaven kilwa": "",
     "hermann malonga": "",
     "alejandro balde": "https://r2.thesportsdb.com/images/media/player/cutout/ix83yt1768321088.png/small",
-    "tommy marques": ""
+    "tommy marques": "",
+    "dastan satpayev": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

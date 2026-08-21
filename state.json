@@ -1,7 +1,5 @@
 {
   "sent": [
-    "c11ecbb2f3f2a892ee38c0969a700777",
-    "f9b29afd83f6afcfc0fb1d6765553c3a",
     "50b15a4666a77b5d7b582bad1a055438",
     "4b4008c2b5c4d2b5ac92ee72a91a3087",
     "a273e4c96080b89c0097190fd98b350b",
@@ -1499,7 +1497,9 @@
     "tg:FabrizioRomanoTG/65004",
     "7c1749ea24a4bae7e473fd23a68f9a11",
     "tg:FabrizioRomanoTG/65005",
-    "898510d33bb961cfd5d7bc1f05378c13"
+    "898510d33bb961cfd5d7bc1f05378c13",
+    "6526e53f5de60139ece3a652e53e48b0",
+    "7fd783984a7a0110b4e32944e035443a"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1950,8 +1950,6 @@
     "interest: yildiz -> arsenal"
   ],
   "titles": [
-    "liverpool submit massive new bradley barcola offer as agreement edges closer",
-    "liverpool transfer news: \u2060fabrizio romano confirms african star can join liverpo",
     "\ud83d\udea8 \ud83d\udd34 manchester united new deal proposal has been sent to bruno fernandes in may ",
     "liverpool transfer news: fabrizio romano confirms amazing double deal is now pos",
     "tottenham suffer transfer setback as saudi giants schedule direct talks for summ",
@@ -2249,7 +2247,9 @@
     "\ud83d\udea8 \u26aa\ufe0f tottenham also confident to get omar marmoush deal done after savinho deal ",
     "arsenal, chelsea players worth \u00a3139m combined \u2018included on three man shortlist\u2019 ",
     "rt @fabrizioromano : \ud83d\udea8 \u26aa\ufe0f breaking: tottenham reach verbal agreement with manche",
-    "mourinho rules out real madrid move for barcelona star lamine yamal"
+    "mourinho rules out real madrid move for barcelona star lamine yamal",
+    "romano: tottenham in two way battle for pedro neto after man city decision",
+    "omar marmoush reaches decision on joining tottenham after man city name price"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2548,13 +2548,13 @@
     "adam wharton": "https://r2.thesportsdb.com/images/media/player/cutout/dierqf1761492318.png/small",
     "yankuba minteh": "https://r2.thesportsdb.com/images/media/player/cutout/1345u71756998901.png/small",
     "josip sutalo": "https://r2.thesportsdb.com/images/media/player/cutout/4bdrsm1722880866.png/small",
-    "heaven kilwa": "",
     "kenan yildiz": "https://images.fotmob.com/image_resources/playerimages/1412132.png",
     "hermann malonga": "",
     "tommy marques": "",
-    "dastan satpayev": ""
+    "dastan satpayev": "",
+    "heaven kilwa": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

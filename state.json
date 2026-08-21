@@ -1,8 +1,5 @@
 {
   "sent": [
-    "72b0654a3a86079c750567e1faaa5082",
-    "4c1cc1974b484c63f2b55ef37ff6f9b9",
-    "9cbe6790fa7faad16637c39a6a9d20fd",
     "51d21d8f41f917f7edc86392db0d99aa",
     "99a4f2ad94523069b3d9c8f27fc07eed",
     "7f7ea25e95a7f92e80081b6c9f45ef54",
@@ -1499,7 +1496,10 @@
     "tg:FabrizioRomanoTG/65022",
     "tg:FabrizioRomanoTG/65023",
     "tg:FabrizioRomanoTG/65024",
-    "d647ad0ff81c1d60cfed3ce7e5a89cf4"
+    "d647ad0ff81c1d60cfed3ce7e5a89cf4",
+    "18113490ee5dd97c1a1f4b4c0de89c83",
+    "tg:FabrizioRomanoTG/65032",
+    "tg:FabrizioRomanoTG/65033"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1953,9 +1953,6 @@
     "interest: balde -> manchester united"
   ],
   "titles": [
-    "romano reveals gavi decision on joining man utd from barcelona for \u00a347m teamtalk",
-    "inter\u2019s \u20ac20m offer falls short for liverpool\u2019s curtis jones",
-    "video: fresh italy debutant favasuli arrives for napoli medical",
     "\u00a3100m double liverpool exit accelerates as romano confirms new bid imminent",
     "rt @fabrizioromano : \ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f excl: al hilal submit official bid to aston villa fo",
     "liverpool midfielder\u2019s exit seems imminent as club prepare to make increased bid",
@@ -2252,7 +2249,10 @@
     "\ud83d\udfe3 \ud83d\udd35 official, confirmed aaron wan bissaka joins aston villa from west ham awb he",
     "\ud83d\udea8 \ud83e\ude77 \ud83d\udda4 palermo are closing in on mattia perin deal from juventus as talks are acc",
     "rt @fabrizioromano : \ud83d\udea8 \u26aa\ufe0f tottenham also confident to get omar marmoush deal don",
-    "the ideal loan move looks to have been found for a player that manchester city h"
+    "the ideal loan move looks to have been found for a player that manchester city h",
+    "karim benzema shuts down rumors about a saudi pro league departure: \u2018i\u2019m gonna s",
+    "\ud83d\udea8 \ud83c\uddf8\ud83c\uddf3 crucial days ahead for nicolas jackson to leave chelsea as clubs working on",
+    "\ud83d\udc40 \ud83c\udde7\ud83c\uddf7 xavi simons shares \u2018here we go morning\u2019 post as he\u2019s ready to play again wi"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2552,12 +2552,12 @@
     "calvin ramsay": "https://r2.thesportsdb.com/images/media/player/cutout/wp2ern1695308880.png/small",
     "alejandro balde": "https://r2.thesportsdb.com/images/media/player/cutout/ix83yt1768321088.png/small",
     "axel disasi": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/AxelDisasi_%28cropped%29.jpg/330px-AxelDisasi_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "heaven kilwa": "",
     "hermann malonga": "",
     "tommy marques": "",
-    "dastan satpayev": ""
+    "dastan satpayev": "",
+    "heaven kilwa": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

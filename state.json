@@ -1,6 +1,5 @@
 {
   "sent": [
-    "d4a54e793f3c7f7e0ba1b017249d5351",
     "c11ecbb2f3f2a892ee38c0969a700777",
     "f9b29afd83f6afcfc0fb1d6765553c3a",
     "50b15a4666a77b5d7b582bad1a055438",
@@ -1499,7 +1498,8 @@
     "1c589883225bdd43ca34bc5b966c5eaa",
     "tg:FabrizioRomanoTG/65004",
     "7c1749ea24a4bae7e473fd23a68f9a11",
-    "tg:FabrizioRomanoTG/65005"
+    "tg:FabrizioRomanoTG/65005",
+    "898510d33bb961cfd5d7bc1f05378c13"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1950,7 +1950,6 @@
     "interest: yildiz -> arsenal"
   ],
   "titles": [
-    "liverpool launch \u20ac135m new bradley barcola bid after psg drop demands",
     "liverpool submit massive new bradley barcola offer as agreement edges closer",
     "liverpool transfer news: \u2060fabrizio romano confirms african star can join liverpo",
     "\ud83d\udea8 \ud83d\udd34 manchester united new deal proposal has been sent to bruno fernandes in may ",
@@ -2249,7 +2248,8 @@
     "omar marmoush gives green light to tottenham transfer as spurs eye sensational \u00a3",
     "\ud83d\udea8 \u26aa\ufe0f tottenham also confident to get omar marmoush deal done after savinho deal ",
     "arsenal, chelsea players worth \u00a3139m combined \u2018included on three man shortlist\u2019 ",
-    "rt @fabrizioromano : \ud83d\udea8 \u26aa\ufe0f breaking: tottenham reach verbal agreement with manche"
+    "rt @fabrizioromano : \ud83d\udea8 \u26aa\ufe0f breaking: tottenham reach verbal agreement with manche",
+    "mourinho rules out real madrid move for barcelona star lamine yamal"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2548,13 +2548,13 @@
     "adam wharton": "https://r2.thesportsdb.com/images/media/player/cutout/dierqf1761492318.png/small",
     "yankuba minteh": "https://r2.thesportsdb.com/images/media/player/cutout/1345u71756998901.png/small",
     "josip sutalo": "https://r2.thesportsdb.com/images/media/player/cutout/4bdrsm1722880866.png/small",
-    "dastan satpayev": "",
     "heaven kilwa": "",
     "kenan yildiz": "https://images.fotmob.com/image_resources/playerimages/1412132.png",
     "hermann malonga": "",
-    "tommy marques": ""
+    "tommy marques": "",
+    "dastan satpayev": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

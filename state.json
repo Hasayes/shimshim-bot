@@ -1,7 +1,5 @@
 {
   "sent": [
-    "9786a3b8dd3d8917bb111d0028acbdfe",
-    "ba5c80ff7c47b909d11e0c54e8226f4c",
     "0bf563f0076a7a534cb9135fbd7bfd88",
     "d57772020dc13f47440286d4474588a0",
     "04f0761c18bb3620499bec5f8c098f1f",
@@ -1499,7 +1497,9 @@
     "da7fe8b7dd85937b4e4426e61f99a092",
     "860a0f46a1945419b0bfff919b2c82bd",
     "0411217800bf49656973ec9ee5915e31",
-    "a3b8c650dfcc2c9ceb5fff91b72c1a6c"
+    "a3b8c650dfcc2c9ceb5fff91b72c1a6c",
+    "d05b625c4bbc143da9ec880cd03b264c",
+    "tg:FabrizioRomanoTG/65020"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1953,7 +1953,6 @@
     "interest: balde -> manchester united"
   ],
   "titles": [
-    "real madrid reject enquiries for 20 year old talent from italian clubs \u2013 romano",
     "arsenal make viktor gyokeres transfer decision after victor osimhen approach",
     "liverpool transfer news: fabrizio romano confirms reds begin talks over midfield",
     "fabrizio romano declares next man utd midfield signing link as \u2018fake news\u2019 footb",
@@ -2252,7 +2251,8 @@
     "liverpool highly likely to sign yankuba minteh despite rejected bid \u2013 top source",
     "carlos alcaraz confirms us open return after four month absence",
     "man utd \u2018make contact with barcelona star alejandro balde\u2019 as they target lewis ",
-    "new manchester united transfer target revealed as '\u00a365m deal agreed'"
+    "new manchester united transfer target revealed as '\u00a365m deal agreed'",
+    "\ud83d\udea8 \ud83c\udde7\ud83c\uddf7 manchester city have reached a verbal agreement on personal terms with alla"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2552,12 +2552,12 @@
     "calvin ramsay": "https://r2.thesportsdb.com/images/media/player/cutout/wp2ern1695308880.png/small",
     "alejandro balde": "https://r2.thesportsdb.com/images/media/player/cutout/ix83yt1768321088.png/small",
     "axel disasi": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/AxelDisasi_%28cropped%29.jpg/330px-AxelDisasi_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "heaven kilwa": "",
     "hermann malonga": "",
     "tommy marques": "",
-    "dastan satpayev": ""
+    "dastan satpayev": "",
+    "heaven kilwa": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

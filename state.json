@@ -1,6 +1,5 @@
 {
   "sent": [
-    "1f41842fb045e5936d03b79cba4b9e5d",
     "8ee1f7fd59d7a454e9a57f11ec95e424",
     "c9a8736e7254493a5d0cd91bc4521088",
     "tg:FabrizioRomanoTG/64231",
@@ -1499,7 +1498,8 @@
     "833fa9c3cfea647d539cb1c8ede75812",
     "tg:FabrizioRomanoTG/65016",
     "tg:FabrizioRomanoTG/65017",
-    "77bd956b82eddeb02ca5fd19c496da3e"
+    "77bd956b82eddeb02ca5fd19c496da3e",
+    "cb23537a3ffb3c6b8aa6e4524739333a"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1953,7 +1953,6 @@
     "interest: balde -> manchester united"
   ],
   "titles": [
-    "arsenal informed of the conditions to sign victor osimhen despite galatasaray's ",
     "man utd: romano confirms fernandes deal is \u2018advancing\u2019 amid \u00a318 3m galatasaray o",
     "romano: arsenal make viktor gyokeres decision amid barcelona rumours",
     "romano confirms fernandes deal is 'advancing' at man utd amid \u00a318 3m galatasaray",
@@ -2252,7 +2251,8 @@
     "carlos alcaraz announces he's playing in us open after wrist injury sidelined hi",
     "what alejandro balde said about his barcelona future amid man utd interest",
     "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 crystal palace reach verbal agreement to sign axel disasi from chelsea, he",
-    "\u2018look no further than \u2019 \u2013 tottenham urged to sign crystal palace forward by form"
+    "\u2018look no further than \u2019 \u2013 tottenham urged to sign crystal palace forward by form",
+    "manchester city have interest in signing an uncapped brazilian to fill the role "
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2551,13 +2551,13 @@
     "kenan yildiz": "https://images.fotmob.com/image_resources/playerimages/1412132.png",
     "calvin ramsay": "https://r2.thesportsdb.com/images/media/player/cutout/wp2ern1695308880.png/small",
     "alejandro balde": "https://r2.thesportsdb.com/images/media/player/cutout/ix83yt1768321088.png/small",
-    "tommy marques": "",
     "dastan satpayev": "",
     "axel disasi": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/AxelDisasi_%28cropped%29.jpg/330px-AxelDisasi_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "heaven kilwa": "",
-    "hermann malonga": ""
+    "hermann malonga": "",
+    "tommy marques": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

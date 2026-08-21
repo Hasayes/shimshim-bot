@@ -1,8 +1,5 @@
 {
   "sent": [
-    "bbbff9bdf70ef3f7e10cd88044502731",
-    "14d84ab9682af296db76d735e18c293c",
-    "f2a483dde172d02eef1884300c74f0ee",
     "5b5f890c7d63b3c08ff67237115369ed",
     "bea7f707e92daf3425c5fe2e630b8d34",
     "f004030a602bcc0dbe2cc8448f9a79f7",
@@ -1499,7 +1496,10 @@
     "33e4b14daaf3dd0915eb7f6727723c5b",
     "09403a3fddb7e37f97833b33ff771068",
     "0a3dcf9f32ade3846e0b79436b5532ff",
-    "9c90d3571f7b74bbf950fb3b2830a7d7"
+    "9c90d3571f7b74bbf950fb3b2830a7d7",
+    "9eabe2794904d1b9bbf3e9a839fe2e7c",
+    "9dd9cb57cff2a33bc54fc51c7ec08153",
+    "fd16b8c891f2af73e01048f2ab924996"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1961,9 +1961,6 @@
     "interest: gyokeres -> barcelona"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83c\uddf8\ud83c\udde6 official, exclusive story confirmed tijjani reijnders signs for al qadsiah ",
-    "\ud83d\udea8 ederson on deal off with man united: \u201cno idea why that happened i've always ha",
-    "barcelona consider surprise goalkeeper bid",
     "\ud83d\udea8 \ud83d\udfe1 \ud83d\udd34 exclusive: galatasaray sent official bid to crystal palace for ismaila sar",
     "aaron wan bissaka medical update emerges as aston villa on verge of triple signi",
     "\ud83d\udea8 \ud83d\udc02 torino agree deal to sign niccolo fortini as new fullback from fiorentina de",
@@ -2260,7 +2257,10 @@
     "aston villa could sell emi martinez to premier league rivals",
     "from spain: barcelona have agreement with inter star lautaro martinez",
     "yankuba minteh and liverpool \u00a350m rejected bid to brighton",
-    "liverpool rocked as manager confirms mega money transfer is off"
+    "liverpool rocked as manager confirms mega money transfer is off",
+    "liverpool bid \u00a350m for forward after controversial newcastle united transfer dec",
+    "\u2018here we go!\u2019 fabrizio romano reports that tottenham have agreed a deal with man",
+    "confusion over joao pedro contract as new deal appears to be shorter than the la"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2560,12 +2560,12 @@
     "deivid washington": "https://r2.thesportsdb.com/images/media/player/cutout/553nc21699732538.png/small",
     "david raum": "https://r2.thesportsdb.com/images/media/player/cutout/wxbgdk1763561343.png/small",
     "michele di gregorio": "https://r2.thesportsdb.com/images/media/player/cutout/fgvi9t1759222392.png/small",
-    "dastan satpayev": "",
     "heaven kilwa": "",
     "hermann malonga": "",
-    "tommy marques": ""
+    "tommy marques": "",
+    "dastan satpayev": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

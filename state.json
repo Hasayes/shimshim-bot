@@ -1,7 +1,5 @@
 {
   "sent": [
-    "4a18aa98bfbd5a45c86cf811029363ed",
-    "3411dcf93f7dbf3d0863f91366cb415c",
     "tg:FabrizioRomanoTG/64223",
     "8b6b51c1cfe6b535ceeadb21a7fbd814",
     "8cef01aa250a332424b25daf0b844a9a",
@@ -1499,7 +1497,9 @@
     "681234710eea6c5c7c3c2260504567e4",
     "36d7e7cab0f0d632119b2d72273f9f39",
     "7efa0d67b4e28265e29cd5287832dca0",
-    "9d07e3a2c2c9acdc3f96d3d04b8c44b8"
+    "9d07e3a2c2c9acdc3f96d3d04b8c44b8",
+    "ee82a8f401cf75f138b8af6c971e45a8",
+    "fa32c9acbcb709c26074e9dd245a0fc8"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1952,8 +1952,6 @@
     "interest: balde -> manchester united"
   ],
   "titles": [
-    "\u26aa\ufe0f \u26ab\ufe0f \u270d\ud83c\udffb guglielmo vicario has signed his contract as new juventus goalkeeper fr",
-    "\ud83d\udea8 \ud83c\uddf8\ud83c\uddf3 patrick vieira signs in as new senegal national team head coach, agreement ",
     "united and fernandes in talks after galatasaray offer tribalfootball",
     "\ud83d\udea8 \u26aa\ufe0f \ud83d\udd35 como and ac milan are in direct talks for samuele ricci as formula of the",
     "bayern munich news: newcastle united to step up chase for fc bayern\u2019s joao palhi",
@@ -2251,7 +2249,9 @@
     "breaking romano bombshell: man utd make approach for barcelona star as \u2018next pri",
     "newcastle's lewis hall wants to join man utd after carlos baleba",
     "liverpool learn new transfer decision after \u00a350m bid for bradley barcola alterna",
-    "'here we go' alcaraz to make return from injury at us open"
+    "'here we go' alcaraz to make return from injury at us open",
+    "carlos alcaraz to return from injury for 2026 us open after missing wimbledon, r",
+    "liverpool barcola stance revealed after ornstein confirms \u00a350m minteh bid"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2551,12 +2551,12 @@
     "kenan yildiz": "https://images.fotmob.com/image_resources/playerimages/1412132.png",
     "calvin ramsay": "https://r2.thesportsdb.com/images/media/player/cutout/wp2ern1695308880.png/small",
     "alejandro balde": "https://r2.thesportsdb.com/images/media/player/cutout/ix83yt1768321088.png/small",
-    "hermann malonga": "",
     "tommy marques": "",
     "dastan satpayev": "",
-    "heaven kilwa": ""
+    "heaven kilwa": "",
+    "hermann malonga": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

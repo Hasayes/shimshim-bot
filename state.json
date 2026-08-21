@@ -1,7 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/64264",
-    "tg:FabrizioRomanoTG/64267",
     "tg:FabrizioRomanoTG/64268",
     "0496d542782dcc5d4f27dc6a1d0edcb5",
     "30e53eeaf7bf67473938d87683900e11",
@@ -1499,7 +1497,9 @@
     "1a1d9e7f37e208f2dc532433b6ef41d8",
     "04f4955068e6902c58f133e2c4a99452",
     "7c9820e9df2c044bec2f8b1027a55c95",
-    "tg:FabrizioRomanoTG/65076"
+    "tg:FabrizioRomanoTG/65076",
+    "08ab070ee4c71aa904eab7bca38bccf2",
+    "tg:FabrizioRomanoTG/65077"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1959,8 +1959,6 @@
     "interest: gyokeres -> barcelona"
   ],
   "titles": [
-    "\ud83d\udfe3 \ud83d\udd35 \ud83d\udd10 official, confirmed: aston villa sign matteo ruggeri from atletico madrid ",
-    "\ud83d\udea8 \ud83d\udd35 joao pedro puts pen to paper and signs new chelsea deal until june 2032, doc",
     "al hilal target england's kane wednesday's gossip",
     "newcastle exploring surprise raid on man city after multiple midfield misses tea",
     "\ud83d\udea8 \ud83d\udd34 manchester united are set to sign carlos baleba from brighton as new midfiel",
@@ -2258,7 +2256,9 @@
     "transfer news live: arsenal done deal, alvarez offered; man utd medical; liverpo",
     "marmoush to tottenham: an adventure or a golden deal both parties need?",
     "liverpool transfer approved as the reds accelerate move to sign prem star after ",
-    "\u26ab\ufe0f \ud83d\udd35 \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f official, exclusive story confirmed: curtis jones joins inter on \u20ac3"
+    "\u26ab\ufe0f \ud83d\udd35 \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f official, exclusive story confirmed: curtis jones joins inter on \u20ac3",
+    "\u201cin the next hours\u201d \u2013 romano drops overnight update on baleba to man utd as fina",
+    "\ud83d\udea8 \ud83d\udca3 breaking: carlos baleba to manchester united, here we go! verbal agreement i"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2558,12 +2558,12 @@
     "thomas partey": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Thomas_Partey_5_England_v_Ghana_at_2026_Fifa_World_Cup_by_YantsImages_02_%28cropped%29.jpg/330px-Thomas_Partey_5_England_v_Ghana_at_2026_Fifa_World_Cup_by_YantsImages_02_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "deivid washington": "https://r2.thesportsdb.com/images/media/player/cutout/553nc21699732538.png/small",
     "david raum": "https://r2.thesportsdb.com/images/media/player/cutout/wxbgdk1763561343.png/small",
-    "heaven kilwa": "",
     "hermann malonga": "",
     "tommy marques": "",
-    "dastan satpayev": ""
+    "dastan satpayev": "",
+    "heaven kilwa": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

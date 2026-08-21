@@ -1,8 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/64212",
-    "38ab044a68cdde86f1e36b4d2c80d9de",
-    "f0f25851f788174df63a08c8a2a01ba6",
     "14df323d5497ccc7cc9ade506d021e89",
     "a9f5f5c9c26c6b0a4b82e047d4120daa",
     "tg:FabrizioRomanoTG/64213",
@@ -1499,7 +1496,10 @@
     "3fafca8fc29c707e76f61d859dbda0de",
     "eb21094448da2291176408f0647677d3",
     "22981afd9ea566f090fa5583ce2f86d2",
-    "088391325b3765e46ae102379ae95c68"
+    "088391325b3765e46ae102379ae95c68",
+    "4f992a3932f188c9a1186bed9a6f53ea",
+    "56cca4839cd256b7690063e5d5d85af7",
+    "73e011980164f2665346b2dbef18242d"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1948,12 +1948,10 @@
     "interest: martinez -> barcelona",
     "interest: wharton -> manchester city",
     "interest: minteh -> liverpool",
-    "interest: yildiz -> arsenal"
+    "interest: yildiz -> arsenal",
+    "interest: balde -> manchester united"
   ],
   "titles": [
-    "reports: juventus, tottenham hotspur agree to loan deal for guglielmo vicario",
-    "fabrizio romano confirms bruno fernandes \u2018talks\u2019 as man utd respond to galatasar",
-    "\ud83d\udea8 \ud83c\uddf8\ud83c\udde6 tijjani reijnders, in saudi arabia today as al qadsiah deal is completed be",
     "romano reveals new bid coming for liverpool star as reds target agrees terms",
     "ac milan make move for endrick as real madrid deliver huge response to loan prop",
     "psg wonderkid ibrahim mbaye agrees personal terms with liverpool tribalfootball",
@@ -2250,11 +2248,13 @@
     "'here we go' romano: west ham agree deal for man city ace divine mukasa",
     "aleksandar stankovic keen on inter stay despite interest from many clubs",
     "transfer rumors, news: man united move for racing santander left back",
-    "arsenal \u2018have no plans to sell viktor gyokeres but could still sign new striker "
+    "arsenal \u2018have no plans to sell viktor gyokeres but could still sign new striker ",
+    "romano: man utd in talks to sign barcelona star alejandro balde",
+    "man utd call barcelona to ask about alejandro balde",
+    "top man utd target now \u2018in discussions\u2019 to sign different deal after decision ma"
   ],
   "tg_update_offset": 263617426,
   "photos": {
-    "alejandro garnacho": "https://r2.thesportsdb.com/images/media/player/cutout/69y34j1757003249.png/small",
     "cristian romero": "https://r2.thesportsdb.com/images/media/player/cutout/dme7x81757016317.png/small",
     "konstantinos karetsas": "https://r2.thesportsdb.com/images/media/player/cutout/kttsl71767641854.png/small",
     "christ inao oulai": "https://r2.thesportsdb.com/images/media/player/cutout/8x66ls1779129624.png/small",
@@ -2549,13 +2549,14 @@
     "yankuba minteh": "https://r2.thesportsdb.com/images/media/player/cutout/1345u71756998901.png/small",
     "josip sutalo": "https://r2.thesportsdb.com/images/media/player/cutout/4bdrsm1722880866.png/small",
     "kenan yildiz": "https://images.fotmob.com/image_resources/playerimages/1412132.png",
-    "tommy marques": "",
     "calvin ramsay": "https://r2.thesportsdb.com/images/media/player/cutout/wp2ern1695308880.png/small",
     "dastan satpayev": "",
     "heaven kilwa": "",
-    "hermann malonga": ""
+    "hermann malonga": "",
+    "alejandro balde": "https://r2.thesportsdb.com/images/media/player/cutout/ix83yt1768321088.png/small",
+    "tommy marques": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

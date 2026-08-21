@@ -1,7 +1,5 @@
 {
   "sent": [
-    "1b4c14b5dbc5ff9f16b51bab5434f1d7",
-    "3f9bd12633486eb1184d865261dd2e38",
     "505d190b551a98a58d0cd428239e50af",
     "c8f38cfb16b3da6d939e506b9898275e",
     "742cd85c9e13830d358085b2cafd9225",
@@ -1499,7 +1497,9 @@
     "tg:FabrizioRomanoTG/65077",
     "466ca4f39e1d08dea5ee58297dd79fc5",
     "d108a6f1a8068d06a28bfba32dcb89af",
-    "d276a74bbd49796a1f203d3983a05101"
+    "d276a74bbd49796a1f203d3983a05101",
+    "tg:FabrizioRomanoTG/65078",
+    "tg:FabrizioRomanoTG/65079"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1743,7 +1743,8 @@
     "disasi -> crystal palace": 1,
     "livakovic -> barcelona": 1,
     "partey -> al shabab": 2,
-    "washington -> rc strasbourg": 1
+    "washington -> rc strasbourg": 1,
+    "baleba -> manchester united": 1
   },
   "interest": [
     "interest: alvarez -> arsenal",
@@ -1959,8 +1960,6 @@
     "interest: gyokeres -> barcelona"
   ],
   "titles": [
-    "\ud83d\udd35 \u26aa\ufe0f \ud83c\udde8\ud83c\uddf7 official, exclusive story confirmed jeyland mitchell signs 5 year deal a",
-    "\ud83d\udfe3 \ud83d\udd35 after matteo ruggeri, also zion suzuki announced as new aston villa player \ud83c\uddef",
     "de zerbi facing double tottenham signing nightmare as another savinho hurdle eme",
     "\ud83d\udea8 \ud83d\udd34 carlos baleba made clear to his camp his only dream since august 2025: manch",
     "manchester city haven\u2019t reportedly given up on enzo fernandez even after missing",
@@ -2258,7 +2257,9 @@
     "\ud83d\udea8 \ud83d\udca3 breaking: carlos baleba to manchester united, here we go! verbal agreement i",
     "'here we go' romano: crystal palace agree deal to sign axel disasi",
     "tottenham reach agreement for manchester city star as spurs spending this summer",
-    "tottenham agree \u00a375m savinho deal as talks progress for man city teammate marmou"
+    "tottenham agree \u00a375m savinho deal as talks progress for man city teammate marmou",
+    "\ud83d\udea8 \ud83d\udd34 the exclusive update of the night: manchester united sign carlos baleba for ",
+    "\ud83d\udea8 \ud83d\udd34 understand carlos baleba to man united deal fee will be \u00a365m plus \u00a35m add on"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2558,12 +2559,12 @@
     "thomas partey": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Thomas_Partey_5_England_v_Ghana_at_2026_Fifa_World_Cup_by_YantsImages_02_%28cropped%29.jpg/330px-Thomas_Partey_5_England_v_Ghana_at_2026_Fifa_World_Cup_by_YantsImages_02_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "deivid washington": "https://r2.thesportsdb.com/images/media/player/cutout/553nc21699732538.png/small",
     "david raum": "https://r2.thesportsdb.com/images/media/player/cutout/wxbgdk1763561343.png/small",
-    "dastan satpayev": "",
     "heaven kilwa": "",
     "hermann malonga": "",
-    "tommy marques": ""
+    "tommy marques": "",
+    "dastan satpayev": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

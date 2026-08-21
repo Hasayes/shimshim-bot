@@ -1,7 +1,5 @@
 {
   "sent": [
-    "99a4f2ad94523069b3d9c8f27fc07eed",
-    "7f7ea25e95a7f92e80081b6c9f45ef54",
     "37ced5b668718f7f3b85f5b238a6e605",
     "82c03c152859652aded1cbd1996d71c1",
     "d3819648c67aa90c953df760d72b203c",
@@ -1499,7 +1497,9 @@
     "18113490ee5dd97c1a1f4b4c0de89c83",
     "tg:FabrizioRomanoTG/65032",
     "tg:FabrizioRomanoTG/65033",
-    "e69178ecdf1028b8af12414b1dae9c10"
+    "e69178ecdf1028b8af12414b1dae9c10",
+    "fba5ec1f87c4cb772206d1e0792c0e05",
+    "tg:FabrizioRomanoTG/65038"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1740,7 +1740,8 @@
     "domenech -> atletico madrid": 1,
     "sutalo -> lazio": 1,
     "ramsay -> st mirren": 1,
-    "disasi -> crystal palace": 1
+    "disasi -> crystal palace": 1,
+    "livakovic -> barcelona": 1
   },
   "interest": [
     "interest: alvarez -> arsenal",
@@ -1953,8 +1954,6 @@
     "interest: balde -> manchester united"
   ],
   "titles": [
-    "rt @fabrizioromano : \ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f excl: al hilal submit official bid to aston villa fo",
-    "liverpool midfielder\u2019s exit seems imminent as club prepare to make increased bid",
     "gyokeres linked to barcelona as lewandowski, torres depart\u2014but arsenal say no ap",
     "fabrizio romano confirms man utd plotting huge double signing after carrick \u2018pus",
     "watch as niclas fullkrug arrives for medical in style ahead of west ham exit",
@@ -2252,7 +2251,9 @@
     "karim benzema shuts down rumors about a saudi pro league departure: \u2018i\u2019m gonna s",
     "\ud83d\udea8 \ud83c\uddf8\ud83c\uddf3 crucial days ahead for nicolas jackson to leave chelsea as clubs working on",
     "\ud83d\udc40 \ud83c\udde7\ud83c\uddf7 xavi simons shares \u2018here we go morning\u2019 post as he\u2019s ready to play again wi",
-    "carlos alcaraz us open status confirmed amid long injury recovery"
+    "carlos alcaraz us open status confirmed amid long injury recovery",
+    "transfer news live: arsenal target yildiz, liverpool in minteh bid, spurs agree ",
+    "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 barcelona have reached a verbal agreement for dominik livakovic to join fr"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2552,12 +2553,12 @@
     "calvin ramsay": "https://r2.thesportsdb.com/images/media/player/cutout/wp2ern1695308880.png/small",
     "alejandro balde": "https://r2.thesportsdb.com/images/media/player/cutout/ix83yt1768321088.png/small",
     "axel disasi": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/AxelDisasi_%28cropped%29.jpg/330px-AxelDisasi_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "tommy marques": "",
     "dastan satpayev": "",
     "heaven kilwa": "",
-    "hermann malonga": ""
+    "hermann malonga": "",
+    "tommy marques": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

@@ -1,8 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/64232",
-    "a11e85fb5bd96409b6a9362f66ca1c79",
-    "488f576d101e4f18490536fb3a183349",
     "e2e926d287772d22df828e8385145fe8",
     "3f43baeb9a90ded6ad7ceea4cefc9a45",
     "b25221e6f683480723eb826b4ac01e79",
@@ -1499,7 +1496,10 @@
     "cb23537a3ffb3c6b8aa6e4524739333a",
     "4490ec57c89dc968d876d76b4f7b86d7",
     "bf3eb4edb1e9eb75ed4b0bc4f0887a02",
-    "769dd57991fe13fae09db07d256524c9"
+    "769dd57991fe13fae09db07d256524c9",
+    "224043946bdf6d6f3cb9f8b30d555878",
+    "43133f074e869d36f3caebd6500e4cbf",
+    "cc65c35146b04d4012c72c6189f60491"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1953,8 +1953,6 @@
     "interest: balde -> manchester united"
   ],
   "titles": [
-    "romano confirms fernandes deal is 'advancing' at man utd amid \u00a318 3m galatasaray",
-    "after united's interest: barcelona surprise gavi following rodri's signing!",
     "al hilal step up pursuit of barcelona midfielder marc casado",
     "\ud83d\udea8 \ud83d\udca3 jeff stelling to club, here we go! \ud83d\udca3 \ud83d\udea8 agreement reached between the legenda",
     "real madrid reject enquiries for 20 year old talent from italian clubs \u2013 romano",
@@ -2252,7 +2250,9 @@
     "\u2018look no further than \u2019 \u2013 tottenham urged to sign crystal palace forward by form",
     "manchester city have interest in signing an uncapped brazilian to fill the role ",
     "fabrizio romano confirms surprise liverpool deal: star has completed move",
-    "what the spanish media say about alejandro balde and jorge salinas links to manc"
+    "what the spanish media say about alejandro balde and jorge salinas links to manc",
+    "liverpool highly likely to sign yankuba minteh despite rejected bid \u2013 top source",
+    "carlos alcaraz confirms us open return after four month absence"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2552,12 +2552,12 @@
     "calvin ramsay": "https://r2.thesportsdb.com/images/media/player/cutout/wp2ern1695308880.png/small",
     "alejandro balde": "https://r2.thesportsdb.com/images/media/player/cutout/ix83yt1768321088.png/small",
     "axel disasi": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/AxelDisasi_%28cropped%29.jpg/330px-AxelDisasi_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "hermann malonga": "",
     "tommy marques": "",
     "dastan satpayev": "",
-    "heaven kilwa": ""
+    "heaven kilwa": "",
+    "hermann malonga": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

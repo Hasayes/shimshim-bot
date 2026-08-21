@@ -1,6 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/64256",
     "tg:FabrizioRomanoTG/64262",
     "3fbae3a04b450e9553280d5eccaff815",
     "cc7c5b2099ee433a4ef1459756d7b82c",
@@ -1499,7 +1498,8 @@
     "acd2ddbbbd07a2bf965a8d2c9ae99c45",
     "e75072dddbe6d93aac28473b4e4d0410",
     "47fa7ba160bd7c1d0141be7941184170",
-    "tg:FabrizioRomanoTG/65075"
+    "tg:FabrizioRomanoTG/65075",
+    "509691edc28eba3f052fc0e48e679601"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1959,7 +1959,6 @@
     "interest: gyokeres -> barcelona"
   ],
   "titles": [
-    "milan reject porto offer for gimenez as rossoneri hold out for larger sum",
     "fabrizio romano reveals new man city talks for enzo fernandez deal",
     "\ud83d\udea8 \u26aa\ufe0f jose mourinho: \u201ci called vini jr and told him: vini, where do you want to g",
     "arsenal target julian alvarez \u2018dropped\u2019 for laliga opener as atletico madrid rea",
@@ -2258,7 +2257,8 @@
     "arsenal consider late move for \u2018extraordinary player\u2019 to strengthen attacking po",
     "'here we go' romano: tottenham agree \u00a375m+ deal to sign savinho",
     "crystal palace look to have squashed any chance of manchester city signing an en",
-    "\ud83d\udcfa new youtube video uploaded! \ud83c\udfac \ud83d\udea8 \ud83d\udca3 boom \u00a360m bid! julian update! balde, united "
+    "\ud83d\udcfa new youtube video uploaded! \ud83c\udfac \ud83d\udea8 \ud83d\udca3 boom \u00a360m bid! julian update! balde, united ",
+    "fabrizio romano confirms two forwards coming when gakpo is sold"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2558,12 +2558,12 @@
     "thomas partey": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Thomas_Partey_5_England_v_Ghana_at_2026_Fifa_World_Cup_by_YantsImages_02_%28cropped%29.jpg/330px-Thomas_Partey_5_England_v_Ghana_at_2026_Fifa_World_Cup_by_YantsImages_02_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "deivid washington": "https://r2.thesportsdb.com/images/media/player/cutout/553nc21699732538.png/small",
     "david raum": "https://r2.thesportsdb.com/images/media/player/cutout/wxbgdk1763561343.png/small",
-    "hermann malonga": "",
     "tommy marques": "",
     "dastan satpayev": "",
-    "heaven kilwa": ""
+    "heaven kilwa": "",
+    "hermann malonga": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

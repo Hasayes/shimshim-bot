@@ -1,11 +1,5 @@
 {
   "sent": [
-    "d0dcc66e7167efc79621b29a2b02a58c",
-    "19f50ee134052a91b57d9fca579f148f",
-    "bb88c18a083cbf13048fa7e40a719ab9",
-    "1275546da62ca5360fd9157cd4cc2f2e",
-    "55615fe8964e5244e0274a230f046e84",
-    "tg:FabrizioRomanoTG/64208",
     "tg:FabrizioRomanoTG/64210",
     "tg:FabrizioRomanoTG/64211",
     "tg:FabrizioRomanoTG/64212",
@@ -1499,7 +1493,13 @@
     "6c571865a3d700ddf25d2b2a31ccbe37",
     "fe72be7e0472aeb5beb9539f99bfd30c",
     "59e705eb0c679ed7e74daf341ed4f9a0",
-    "d023720a78013393f5b5e753935ca670"
+    "d023720a78013393f5b5e753935ca670",
+    "483617c53cd18ba62eb54b020fe67cb4",
+    "a646299e0b356f524821b790dd8778bd",
+    "12eea44192a6a3895c5a2f4321fe7d38",
+    "77ccabbe6b341679c073d0e76f141c02",
+    "3fafca8fc29c707e76f61d859dbda0de",
+    "eb21094448da2291176408f0647677d3"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1951,11 +1951,6 @@
     "interest: yildiz -> arsenal"
   ],
   "titles": [
-    "manchester united face bruno fernandes transfer challenge with 'offer prepared'",
-    "\ud83d\udea8 \ud83d\ude9c excl: ipswich town have sent new official bid to bayer leverkusen for exequi",
-    "man united captain and star man bruno fernandes could 'end his career' at old tr",
-    "liverpool agree transfer deal for psg forward liverpool fc",
-    "transfer news and rumours today: destiny udogie eyed by serie a giant, joey veer",
     "liverpool 'agree 5 year contract' with psg prodigy as transfer talks advance rus",
     "reports: juventus, tottenham hotspur agree to loan deal for guglielmo vicario",
     "fabrizio romano confirms bruno fernandes \u2018talks\u2019 as man utd respond to galatasar",
@@ -2250,7 +2245,12 @@
     "omar marmoush reaches decision on joining tottenham after man city name price",
     "aston villa in talks to sign ac milan midfielder as insider doubts second midfie",
     "lazio walk away from dieng transfer after failed medical",
-    "liverpool strike third club to club agreement in two days \u2013 fabrizio romano team"
+    "liverpool strike third club to club agreement in two days \u2013 fabrizio romano team",
+    "brighton ceo comments on carlos baleba\u2019s future amid \u00a365m man united bid",
+    "brighton chief refuses to address baleba to man utd after huge update \u2018today\u2019",
+    "'here we go' romano: west ham agree deal for man city ace divine mukasa",
+    "aleksandar stankovic keen on inter stay despite interest from many clubs",
+    "transfer rumors, news: man united move for racing santander left back"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2549,13 +2549,13 @@
     "yankuba minteh": "https://r2.thesportsdb.com/images/media/player/cutout/1345u71756998901.png/small",
     "josip sutalo": "https://r2.thesportsdb.com/images/media/player/cutout/4bdrsm1722880866.png/small",
     "kenan yildiz": "https://images.fotmob.com/image_resources/playerimages/1412132.png",
-    "heaven kilwa": "",
     "hermann malonga": "",
     "tommy marques": "",
     "calvin ramsay": "https://r2.thesportsdb.com/images/media/player/cutout/wp2ern1695308880.png/small",
-    "dastan satpayev": ""
+    "dastan satpayev": "",
+    "heaven kilwa": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

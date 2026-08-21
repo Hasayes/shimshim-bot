@@ -1,6 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/64231",
     "tg:FabrizioRomanoTG/64232",
     "a11e85fb5bd96409b6a9362f66ca1c79",
     "488f576d101e4f18490536fb3a183349",
@@ -1499,7 +1498,8 @@
     "77bd956b82eddeb02ca5fd19c496da3e",
     "cb23537a3ffb3c6b8aa6e4524739333a",
     "4490ec57c89dc968d876d76b4f7b86d7",
-    "bf3eb4edb1e9eb75ed4b0bc4f0887a02"
+    "bf3eb4edb1e9eb75ed4b0bc4f0887a02",
+    "769dd57991fe13fae09db07d256524c9"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1953,7 +1953,6 @@
     "interest: balde -> manchester united"
   ],
   "titles": [
-    "romano: arsenal make viktor gyokeres decision amid barcelona rumours",
     "romano confirms fernandes deal is 'advancing' at man utd amid \u00a318 3m galatasaray",
     "after united's interest: barcelona surprise gavi following rodri's signing!",
     "al hilal step up pursuit of barcelona midfielder marc casado",
@@ -2252,7 +2251,8 @@
     "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 crystal palace reach verbal agreement to sign axel disasi from chelsea, he",
     "\u2018look no further than \u2019 \u2013 tottenham urged to sign crystal palace forward by form",
     "manchester city have interest in signing an uncapped brazilian to fill the role ",
-    "fabrizio romano confirms surprise liverpool deal: star has completed move"
+    "fabrizio romano confirms surprise liverpool deal: star has completed move",
+    "what the spanish media say about alejandro balde and jorge salinas links to manc"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2552,12 +2552,12 @@
     "calvin ramsay": "https://r2.thesportsdb.com/images/media/player/cutout/wp2ern1695308880.png/small",
     "alejandro balde": "https://r2.thesportsdb.com/images/media/player/cutout/ix83yt1768321088.png/small",
     "axel disasi": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/AxelDisasi_%28cropped%29.jpg/330px-AxelDisasi_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "heaven kilwa": "",
     "hermann malonga": "",
     "tommy marques": "",
-    "dastan satpayev": ""
+    "dastan satpayev": "",
+    "heaven kilwa": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

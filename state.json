@@ -1,7 +1,5 @@
 {
   "sent": [
-    "eb4c051910e5ff08720e393bfeaf588c",
-    "tg:FabrizioRomanoTG/64291",
     "4eb00aed0f6ffa6b7c91f56696debda4",
     "e2fa37d103ae0920d8722a369a41deab",
     "892df328fbfd9678c593e4459b16d8b9",
@@ -1499,7 +1497,9 @@
     "cea08b4a0c91823c34c9cb2c03c80ac1",
     "def3b2219d577eb224d35272e3eb57ad",
     "be4b3772d4c348aa21eb5a4a0a3e3b05",
-    "9a6e9c9e77377ba712cd88c8a36ff396"
+    "9a6e9c9e77377ba712cd88c8a36ff396",
+    "44fcae1203ebfae4ca7079801ce8c882",
+    "a3bf60dabf4c166038f9fe34304fc167"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1963,8 +1963,6 @@
     "interest: jackson -> tottenham"
   ],
   "titles": [
-    "manchester united transfer news: michael carrick closes in on carlos baleba afte",
-    "after baleba: man utd negotiating transfer for \u00a337m attacker with sky sports con",
     "arsenal close in on aston villa signing",
     "arsenal get new transfer update as napoli 'make enquiries' for gabriel jesus alt",
     "david ornstein drops arsenal bombshell involving england international defender",
@@ -2262,7 +2260,9 @@
     "personal terms agreed, negotiations underway: journalist shares exciting liverpo",
     "ajax defender lands in rome ahead of lazio medical \u2013 (video)",
     "liverpool transfer latest news: reds submit \u00a360m offer for brighton\u2019s yankuba mi",
-    "'here we go' man utd agree deal to sign brighton star carlos baleba"
+    "'here we go' man utd agree deal to sign brighton star carlos baleba",
+    "man utd \u2018agree carlos baleba transfer and land star for just over half of what b",
+    "man utd \u2018agree carlos baleba transfer just hours before first game of new season"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2562,12 +2562,12 @@
     "david raum": "https://r2.thesportsdb.com/images/media/player/cutout/wxbgdk1763561343.png/small",
     "michele di gregorio": "https://r2.thesportsdb.com/images/media/player/cutout/fgvi9t1759222392.png/small",
     "nosa obaretin": "https://images.fotmob.com/image_resources/playerimages/1526621.png",
-    "hermann malonga": "",
     "tommy marques": "",
     "dastan satpayev": "",
-    "heaven kilwa": ""
+    "heaven kilwa": "",
+    "hermann malonga": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

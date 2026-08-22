@@ -1,7 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/64320",
-    "tg:FabrizioRomanoTG/64321",
     "tg:FabrizioRomanoTG/64322",
     "tg:FabrizioRomanoTG/64323",
     "tg:FabrizioRomanoTG/64324",
@@ -1499,7 +1497,9 @@
     "tg:FabrizioRomanoTG/65105",
     "tg:FabrizioRomanoTG/65108",
     "tg:FabrizioRomanoTG/65109",
-    "tg:FabrizioRomanoTG/65113"
+    "tg:FabrizioRomanoTG/65113",
+    "8f9eddb20be4a70c5d9d34676f441a82",
+    "42e6e87760c0db1b0cdd6aeaac407f9d"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1965,7 +1965,6 @@
     "interest: grabara -> juventus"
   ],
   "titles": [
-    "transfer updates: kane, watkins, zirkzee, jackson, zabarnyi, others",
     "inter reach \u20ac35m agreement to sign curtis jones from liverpool",
     "joao pedro \u2018snubs arsenal interest as he agrees lucrative new six year chelsea d",
     "manchester city bid farewell to tijjani reijnders and pocket \u20ac60 million",
@@ -2264,7 +2263,8 @@
     "\ud83d\udea8 \ud83d\udfe3 \ud83d\udd35 leon goretzka to aston villa, here we go! verbal agreement in place with t",
     "rt @fabrizioromano : \ud83d\udea8 \ud83d\udfe3 \ud83d\udd35 leon goretzka to aston villa, here we go! verbal agre",
     "\ud83d\udd35 \ud83c\udde7\ud83c\uddf7 joao pedro after signing new deal at chelsea: \u201cthis club has ambition, trad",
-    "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f juventus manager spalletti closes doors to all clubs keen on kenan yildi"
+    "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f juventus manager spalletti closes doors to all clubs keen on kenan yildi",
+    "bayern munich news: espanyol eyeing fc bayern\u2019s bryan zaragoza; max eberl happy "
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2564,12 +2564,12 @@
     "michele di gregorio": "https://r2.thesportsdb.com/images/media/player/cutout/fgvi9t1759222392.png/small",
     "nosa obaretin": "https://images.fotmob.com/image_resources/playerimages/1526621.png",
     "kamil grabara": "https://r2.thesportsdb.com/images/media/player/cutout/vls14a1763669328.png/small",
-    "tommy marques": "",
     "dastan satpayev": "",
     "heaven kilwa": "",
-    "hermann malonga": ""
+    "hermann malonga": "",
+    "tommy marques": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

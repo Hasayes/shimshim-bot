@@ -142,6 +142,23 @@ function stageBadge(i) {
   return `<span class="badge ${cls}">${txt}</span>`;
 }
 
+// Source-trust chip: corroboration count is the primary (objective) signal;
+// club/league officials and top ITKs get a distinct chip; a lone unknown
+// outlet is flagged as single-source so readers self-calibrate.
+function trustChip(i) {
+  const srcs = (Array.isArray(i.sources) ? i.sources : []).filter(known);
+  const all = esc(srcs.join(", "));
+  if (i.srcTier === "official")
+    return `<span class="badge s-completed" title="${all}">✅ Official</span>`;
+  if (srcs.length >= 2)
+    return `<span class="badge s-completed" title="${all}">🔗 ${srcs.length} sources agree</span>`;
+  if (i.srcTier === "tier1")
+    return `<span class="badge s-herewego" title="${esc(srcs[0] || i.source || "")}">✓ Trusted source</span>`;
+  if (known(i.source))
+    return `<span class="badge s-rumour" title="${esc(srcs[0] || i.source)}">1 source</span>`;
+  return "";
+}
+
 // ---------- cards ----------
 function cardHTML(i, forClub) {
   const isRumour = i.kind === "interest";
@@ -155,11 +172,14 @@ function cardHTML(i, forClub) {
     inout = `<span class="badge ${joined ? "in" : "out"}">${joined ? "⬅ In" : "➡ Out"}</span>`;
   }
   const meta = [i.position, i.age].filter(known).join(" · ");
+  // prefer the accumulated source list (all corroborators) over the single
+  // latest source, so the detail view credits every outlet that reported it
+  const srcList = (Array.isArray(i.sources) && i.sources.length) ? i.sources.join(", ") : (i.source || "");
   const detail = [
     meta && `<p>📍 ${esc(meta)}</p>`,
     known(i.style) && `<p>🎮 ${esc(i.style)}</p>`,
     known(i.fit) && `<p>🧩 ${esc(i.fit)}</p>`,
-    `<p class="src">${known(i.source) ? "🗞 " + esc(i.source) : ""}${known(i.source) && i.outlet ? " · " : ""}${esc(i.outlet || "")}` +
+    `<p class="src">${known(srcList) ? "🗞 " + esc(srcList) : ""}${known(srcList) && i.outlet ? " · " : ""}${esc(i.outlet || "")}` +
       `${i.url ? ` · <a href="${esc(i.url)}" target="_blank" rel="noopener">Read more</a>` : ""}</p>`,
   ].filter(Boolean).join("");
   const canon = canonClub(mainClub);
@@ -175,6 +195,7 @@ function cardHTML(i, forClub) {
       ${stageBadge(i)}${inout}</div>
     ${known(i.fee) ? `<div class="fee">💰 ${esc(i.fee)}</div>` : ""}
     ${known(i.summary) ? `<div class="newsline">${esc(i.summary)}</div>` : ""}
+    ${trustChip(i) ? `<div class="trust">${trustChip(i)}</div>` : ""}
     <div class="morelink">More ›</div>
     <div class="detail">${detail}</div>
   </div>`;
@@ -438,4 +459,4 @@ loadFeed().then(() => {
   else if (location.hash.startsWith("#club=")) openClub(decodeURIComponent(location.hash.slice(6)));
 });
 setInterval(loadFeed, 5 * 60 * 1000);
-$("#version").textContent = "ShimShim v3.8";
+$("#version").textContent = "ShimShim v3.9";

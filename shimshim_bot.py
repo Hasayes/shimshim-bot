@@ -829,6 +829,70 @@ def _norm(s):
     return " ".join(s.lower().replace(".", " ").replace("-", " ").split())
 
 
+# --- Source trust: corroboration + tier ------------------------------------
+# A mostly-objective trust signal to replace the web-verify we turned off.
+# We do NOT editorialise the long tail; we only whitelist club/league officials
+# and the well-established transfer ITKs, and let CORROBORATION (independent
+# sources agreeing) carry the rest — a card named by 3 outlets is trustworthy
+# regardless of who they are; a lone unknown handle is where caution is due.
+OFFICIAL_MARKERS = ("official", "website", "club statement", "medical complete")
+TIER1_SOURCES = (
+    "fabrizio romano", "david ornstein", "the athletic", "gianluca di marzio",
+    "di marzio", "matteo moretto", "nicolo schira", "florian plettenberg",
+    "christian falk", "sky sports", "sky sport", "sky germany", "sky italia",
+    "paul joyce", "craig hope", "bbc", "reuters", "l equipe",
+)
+_SOURCE_SPLIT = re.compile(r"\s*[;,/]\s*|\s+and\s+", re.I)
+
+
+def split_sources(raw):
+    """Free-text source string -> distinct, trimmed reporter/outlet names.
+
+    Splits on ',', ';', '/' and ' and ', drops parenthetical asides
+    ('(City interest)'), and dedupes by normalized key so 'Fabrizio Romano'
+    and 'fabrizio romano' collapse to one."""
+    if not raw or raw.strip() in ("", "—"):
+        return []
+    seen, out = set(), []
+    for part in _SOURCE_SPLIT.split(raw):
+        name = re.sub(r"\s*\(.*?\)\s*", " ", part).strip().strip(".")
+        key = _norm(name)
+        if not key or key in seen:
+            continue
+        seen.add(key)
+        out.append(name)
+    return out
+
+
+def tier_of(names):
+    """official > tier1 > standard, from a list of source names."""
+    joined = " || ".join(_norm(n) for n in names)
+    if any(m in joined for m in OFFICIAL_MARKERS):
+        return "official"
+    if any(t in joined for t in TIER1_SOURCES):
+        return "tier1"
+    return "standard"
+
+
+def source_meta(raw):
+    """(distinct source names, trust tier) for a free-text source string."""
+    names = split_sources(raw)
+    return names, tier_of(names)
+
+
+def merge_sources(existing, new):
+    """Order-stable union of two source-name lists, deduped by normalized key.
+    This is where cross-poll corroboration accumulates: the same journey
+    reported by a second outlet in a later poll grows this list."""
+    seen, out = set(), []
+    for name in list(existing or []) + list(new or []):
+        key = _norm(re.sub(r"\(.*?\)", "", name))
+        if key and key not in seen:
+            seen.add(key)
+            out.append(name)
+    return out
+
+
 def known_club(club):
     return bool(club) and club.strip() not in ("", "—")
 
@@ -1445,9 +1509,24 @@ def append_feed(article, brief, photo="", feed=None):
             except json.JSONDecodeError:
                 pass
     sig = _card_sig(brief.kind, brief.stage, brief.player, brief.to_club)
-    if any(_card_sig(c["kind"], c.get("stage", ""), c["player"], c["to_club"]) == sig
-           for c in feed):
-        print(f"feed append skipped (identical card exists): {brief.player}")
+    dup = next((c for c in feed
+                if _card_sig(c["kind"], c.get("stage", ""), c["player"], c["to_club"]) == sig),
+               None)
+    if dup is not None:
+        # Same journey at the same stage already exists. Not a re-stage — but a
+        # DIFFERENT outlet reporting the same thing is corroboration, so merge
+        # its source in (this is the signal the sig-dedup used to throw away).
+        before = dup.get("sources") or split_sources(dup.get("source", ""))
+        merged = merge_sources(before, split_sources(brief.source))
+        if len(merged) > len(before):
+            dup["sources"] = merged
+            dup["srcTier"] = tier_of(merged)
+            if write:
+                FEED_FILE.parent.mkdir(parents=True, exist_ok=True)
+                FEED_FILE.write_text(json.dumps(feed[:MAX_FEED], indent=1))
+            print(f"corroborated: {brief.player} now {len(merged)} sources")
+        else:
+            print(f"feed append skipped (identical card exists): {brief.player}")
         return "noop"
 
     player_key = _norm(brief.player)
@@ -1483,12 +1562,17 @@ def append_feed(article, brief, photo="", feed=None):
             existing["kind"] = "deal"
             existing["stage"] = brief.stage
             existing["to_club"] = brief.to_club
+        # snapshot prior sources BEFORE the field loop overwrites "source"
+        prior_sources = existing.get("sources") or split_sources(existing.get("source", ""))
         for field, val in (("from_club", brief.from_club), ("fee", brief.fee),
                            ("position", brief.position), ("age", brief.age),
                            ("style", brief.style), ("fit", brief.fit),
                            ("source", brief.source), ("summary", brief.summary)):
             if (val or "").strip() not in ("", "—"):
                 existing[field] = val
+        # accumulate distinct sources across polls -> corroboration signal
+        existing["sources"] = merge_sources(prior_sources, split_sources(brief.source))
+        existing["srcTier"] = tier_of(existing["sources"])
         if photo and not existing.get("photo"):
             existing["photo"] = photo
         existing["ts"] = datetime.now(timezone.utc).isoformat(timespec="seconds")
@@ -1502,6 +1586,7 @@ def append_feed(article, brief, photo="", feed=None):
             FEED_FILE.write_text(json.dumps(feed[:MAX_FEED], indent=1))
         print(f"card upgraded: {brief.player} -> {brief.to_club} ({brief.kind}/{brief.stage})")
         return "upgraded"
+    _names, _tier = source_meta(brief.source)
     feed.insert(0, {
         "id": article["id"],
         "ts": datetime.now(timezone.utc).isoformat(timespec="seconds"),
@@ -1517,6 +1602,8 @@ def append_feed(article, brief, photo="", feed=None):
         "style": brief.style,
         "fit": brief.fit,
         "source": brief.source,
+        "sources": _names,
+        "srcTier": _tier,
         "summary": brief.summary,
         "outlet": article["source"],
         "url": article["url"],

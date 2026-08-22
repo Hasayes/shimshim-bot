@@ -138,6 +138,7 @@ main { padding: 4px 14px 48px; max-width: 640px; margin: 0 auto; }
 .s-rumour { background: var(--s-rumour-bg); color: var(--s-rumour-fg); }
 .badge.in { background: var(--in-bg); color: var(--in-fg); margin-left: 6px; }
 .badge.out { background: var(--out-bg); color: var(--out-fg); margin-left: 6px; }
+.card .trust { margin-top: 9px; }
 .card .fee { margin-top: 10px; font-size: 14px; font-weight: 700; }
 .card .newsline {
   margin-top: 9px; font-size: 13.5px; line-height: 1.45; color: var(--text);

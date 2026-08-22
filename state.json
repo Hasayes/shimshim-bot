@@ -1,6 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/64283",
     "18ab7c6afd250434af0d42384c2a3887",
     "cbc95d2ada015cb6ffe38e7a96b0442b",
     "cd552ac2a4a1f426c8a039352c32b907",
@@ -1499,7 +1498,8 @@
     "0a088d4a15e9f8ad44baed69ed39c758",
     "edf20e0c5c0e2612e144202b1906e097",
     "60bc11cb07daadbfc5a18a79a5e1ab47",
-    "fe4e24e5677bb0c1e9c0d28e8d593224"
+    "fe4e24e5677bb0c1e9c0d28e8d593224",
+    "362f46cda58b0dc2397c8dc839f1f59d"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1962,7 +1962,6 @@
     "interest: jackson -> tottenham"
   ],
   "titles": [
-    "ornstein reveals man utd are \u2018closing in\u2019 on shock deal for third midfielder wit",
     "carlos baleba passes paul scholes demand with flying colours, roy keane will als",
     "epl: bruno fernandes rejects man utd\u2019s contract offer",
     "joao pedro commits future to chelsea with new deal until 2032",
@@ -2261,7 +2260,8 @@
     "nicolas jackson transfer latest news: aston villa lead chelsea exit race for \u00a365",
     "iraola didn\u2019t want to sell departing liverpool star as \u2018best player\u2019 claim made ",
     "liverpool learn fee needed to sign yankuba minteh as ibrahim mbaye snubbed",
-    "diomande pledges \u2018to die\u2019 for mourinho after \u20ac140m real madrid move"
+    "diomande pledges \u2018to die\u2019 for mourinho after \u20ac140m real madrid move",
+    "julian alvarez only wants barcelona despite arsenal opening talks with atletico "
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2561,12 +2561,12 @@
     "deivid washington": "https://r2.thesportsdb.com/images/media/player/cutout/553nc21699732538.png/small",
     "david raum": "https://r2.thesportsdb.com/images/media/player/cutout/wxbgdk1763561343.png/small",
     "michele di gregorio": "https://r2.thesportsdb.com/images/media/player/cutout/fgvi9t1759222392.png/small",
-    "heaven kilwa": "",
     "hermann malonga": "",
     "tommy marques": "",
-    "dastan satpayev": ""
+    "dastan satpayev": "",
+    "heaven kilwa": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

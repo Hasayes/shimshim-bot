@@ -1,5 +1,25 @@
 [
  {
+  "id": "6d886f0f27fd979edeb89c83a5848140",
+  "ts": "2026-08-22T16:15:35+00:00",
+  "kind": "deal",
+  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/kgn5451757098568.png/small",
+  "stage": "Here we go",
+  "player": "Omar Marmoush",
+  "position": "Forward",
+  "age": "27",
+  "from_club": "Manchester City",
+  "to_club": "Tottenham Hotspur",
+  "fee": "~\u20ac70\u201379m (asking price, no agreed fee)",
+  "style": "Pacy, direct winger who combines technical ability with goal-scoring threat from wide positions.",
+  "fit": "Deploy as a right winger in Tottenham's attacking setup to provide width and penetration in the final third.",
+  "source": "Fabrizio Romano",
+  "summary": "Tottenham are calm and confident to complete the Omar Marmoush deal by the start of next week.",
+  "outlet": "Telegram @fabrizioromanotg",
+  "url": "https://t.me/FabrizioRomanoTG/65118",
+  "title": "\ud83d\udea8 \u26aa\ufe0f Tottenham, calm and confident to get Omar Marmoush deal done by the start of next week. \ud83c\udfa5 \u2795 https://t.co/D89LMY1NMG"
+ },
+ {
   "id": "tg:FabrizioRomanoTG/65094",
   "ts": "2026-08-22T11:00:42+00:00",
   "kind": "interest",
@@ -498,26 +518,6 @@
   "outlet": "Telegram @fabrizioromanotg",
   "url": "https://t.me/FabrizioRomanoTG/64985",
   "title": "\ud83d\udea8 \u2692\ufe0f West Ham agree deal to sign Divine Mukasa from Man City, here we go! Deal done on straight loan, no buy option clau"
- },
- {
-  "id": "6d886f0f27fd979edeb89c83a5848140",
-  "ts": "2026-08-20T05:01:37+00:00",
-  "kind": "interest",
-  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/kgn5451757098568.png/small",
-  "stage": "\u2014",
-  "player": "Omar Marmoush",
-  "position": "Forward",
-  "age": "27",
-  "from_club": "Manchester City",
-  "to_club": "Tottenham Hotspur",
-  "fee": "~\u20ac70\u201379m (asking price, no agreed fee)",
-  "style": "A dynamic, high-energy forward who presses aggressively, runs in behind, and combines technical creativity with a prolific eye for goal.",
-  "fit": "De Zerbi's possession-based, positionally fluid system suits Marmoush's ability to drift wide, press high, and arrive late into the box, giving Spurs a versatile attacking weapon capable of playing across the front line.",
-  "source": "David Ornstein / The Athletic",
-  "summary": "Tottenham Hotspur, under manager Roberto De Zerbi, have entered talks to sign Omar Marmoush from Manchester City in the current summer window, with David Ornstein of The Athletic confirming concrete interest. No agreement has been reached, with City's reported asking price in the region of \u20ac70\u201379m and Marmoush contracted at the Etihad until 2029.",
-  "outlet": "yardbarker",
-  "url": "https://www.yardbarker.com/soccer/articles/by_order_of_de_zerbi_tottenham_request_marmoush_from_manchester_city/s1_17790_44194708",
-  "title": "By order of De Zerbi: Tottenham request Marmoush from Manchester City"
  },
  {
   "id": "3c9d0118532e1ac82dff2af788049e59",

@@ -17,7 +17,11 @@
   "summary": "Juventus have made enquiries about Emiliano Mart\u00ednez's availability at Aston Villa as they consider goalkeepers for their squad, with \u00c9derson and Vicario also under consideration.",
   "outlet": "Telegram @fabrizioromanotg",
   "url": "https://t.me/FabrizioRomanoTG/64664",
-  "title": "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f Juventus have asked again today about Emiliano Mart\u00ednez situation at Aston Villa\u2026 \u2026while #AVFC opened talks for "
+  "title": "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f Juventus have asked again today about Emiliano Mart\u00ednez situation at Aston Villa\u2026 \u2026while #AVFC opened talks for ",
+  "sources": [
+   "Fabrizio Romano"
+  ],
+  "srcTier": "tier1"
  },
  {
   "id": "17a6aca4e71a7ab910cccc33500be132",
@@ -37,7 +41,13 @@
   "summary": "Borussia Dortmund have held talks and made contact over FC Barcelona right-back H\u00e9ctor Fort, who is surplus to requirements under Hansi Flick after returning from a loan at Elche. Barcelona are seeking around \u20ac20m, though a reduced fee of approximately \u20ac10m with a 50% sell-on clause is also being discussed, with at least ten clubs reportedly monitoring the 20-year-old.",
   "outlet": "yahoo",
   "url": "https://ca.sports.yahoo.com/news/borussia-dortmund-hold-talks-sign-175500253.html",
-  "title": "Borussia Dortmund hold talks to sign 20-year-old Barcelona defender \u2013 report"
+  "title": "Borussia Dortmund hold talks to sign 20-year-old Barcelona defender \u2013 report",
+  "sources": [
+   "Radio Marca",
+   "confirmed by Matteo Moretto",
+   "Florian Plettenberg"
+  ],
+  "srcTier": "tier1"
  },
  {
   "id": "tg:FabrizioRomanoTG/64588",
@@ -57,7 +67,12 @@
   "summary": "Arsenal and Manchester United are in active talks with Bayer Leverkusen over a move for Jarell Quansah, with Sky Sports reporting Arsenal's approach and FootballTransfers claiming both clubs are in contact. Liverpool have opted not to trigger their \u00a370m buyback clause, clearing the path for a third-party sale.",
   "outlet": "football365",
   "url": "https://www.football365.com/news/man-utd-step-up-efforts-sign-arsenal-target-jarell-quansah-liverpool",
-  "title": "Man Utd step up efforts to sign Arsenal target Jarell Quansah as Liverpool clear path"
+  "title": "Man Utd step up efforts to sign Arsenal target Jarell Quansah as Liverpool clear path",
+  "sources": [
+   "Sky Sports",
+   "FootballTransfers"
+  ],
+  "srcTier": "tier1"
  },
  {
   "id": "b17af6802e74c5f10ed5bb89d119e257",
@@ -77,7 +92,11 @@
   "summary": "Tottenham have joined Manchester City and Arsenal in the race to sign Chelsea winger Pedro Neto, with Spurs' interest reported by Fabrizio Romano as a conditional fallback should their pursuit of Savinho collapse. Chelsea are open to selling at around \u00a370m\u2013\u00a375m, though no agreement is close.",
   "outlet": "metro",
   "url": "https://metro.co.uk/2026/08/14/tottenham-join-race-sign-70m-chelsea-star-ahead-man-city-29377090/",
-  "title": "Tottenham join race to sign \u00a370m Chelsea star ahead of Manchester City"
+  "title": "Tottenham join race to sign \u00a370m Chelsea star ahead of Manchester City",
+  "sources": [
+   "Fabrizio Romano"
+  ],
+  "srcTier": "tier1"
  },
  {
   "id": "a39e25165c2b79a5789523b9cd385a97",
@@ -97,7 +116,11 @@
   "summary": "Fabrizio Romano reports that FC Barcelona have placed Colombian striker Luis Su\u00e1rez (Sporting CP) on their shortlist as a fallback option should their primary target Juli\u00e1n \u00c1lvarez not materialise. Sporting CP are reluctant to sell and would require a club to trigger his \u20ac80m release clause.",
   "outlet": "yahoo",
   "url": "https://sports.yahoo.com/articles/barcelona-consider-80m-sporting-star-111000320.html",
-  "title": "Barcelona consider \u20ac80m Sporting star as Julian Alvarez alternative"
+  "title": "Barcelona consider \u20ac80m Sporting star as Julian Alvarez alternative",
+  "sources": [
+   "Fabrizio Romano"
+  ],
+  "srcTier": "tier1"
  },
  {
   "id": "41caa9273175c8beb989e50436a500c7",
@@ -117,7 +140,11 @@
   "summary": "Manchester United have Kim Min-jae on their transfer list according to a Bild journalist, with Fabrizio Romano also reporting United's interest, but no bid or formal contact has been made. The interest is early-stage only, with Juventus considered a warmer destination and Bayern Munich having declared Kim a non-sale candidate as recently as mid-July 2026.",
   "outlet": "football365",
   "url": "https://www.football365.com/news/man-utd-interested-signing-bayern-munich-star-very-clear-stance-transfer-revealed",
-  "title": "Man Utd interested in signing Bayern Munich star as his very clear stance on transfer revealed"
+  "title": "Man Utd interested in signing Bayern Munich star as his very clear stance on transfer revealed",
+  "sources": [
+   "Fabrizio Romano"
+  ],
+  "srcTier": "tier1"
  },
  {
   "id": "aee85798d07246fcea415e66eeccf533",
@@ -137,7 +164,11 @@
   "summary": "Spanish journalist Gerard Romero reports that Hansi Flick has given his approval for Barcelona to pursue Colombian striker Luis Javier Su\u00e1rez Charris of Sporting CP as a backup option following the stalling of their pursuit of Juli\u00e1n \u00c1lvarez. The move remains at an early interest stage with no bid or formal talks confirmed; Sporting hold Su\u00e1rez to a contract until 2030 and an \u20ac80m release clause.",
   "outlet": "yahoo",
   "url": "https://sports.yahoo.com/articles/just-barcelona-eye-28-old-093500524.html",
-  "title": "Just in: Barcelona eye 28-year-old Colombian striker as backup, Flick approves the signing"
+  "title": "Just in: Barcelona eye 28-year-old Colombian striker as backup, Flick approves the signing",
+  "sources": [
+   "Gerard Romero"
+  ],
+  "srcTier": "standard"
  },
  {
   "id": "98a2867baf5a58266951b17e8e3281f4",
@@ -157,7 +188,11 @@
   "summary": "Fabrizio Romano reported that Arsenal have made contact with Atl\u00e9tico de Madrid to enquire about the availability of 23-year-old Marc Pubill. The approach is at inquiry stage only, with no bid submitted or formal talks underway.",
   "outlet": "google",
   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUGlzLUVmYkU5dm4xamh1eV8wUm1ia2dDZXV4eVRPdVF1QlZBSUZGZk9qSHpkV1RBbGN3ZmQwWVFUR0paWmVaVU1aYlhmYTdKdUVDa1hzN0dMYXFQVHFqdkpTd3hHcWtFcTRRamNidEt1TnVVcnBTSlRiOWx0c0pldzIwd1RtdFZ5NlpQSUdqOXB5TEpzb1lmcTFFb01IUzQ?oc=5",
-  "title": "Fabrizio Romano reveals Arsenal \u2018contact\u2019 for new Atletico Madrid star - Football365"
+  "title": "Fabrizio Romano reveals Arsenal \u2018contact\u2019 for new Atletico Madrid star - Football365",
+  "sources": [
+   "Fabrizio Romano"
+  ],
+  "srcTier": "tier1"
  },
  {
   "id": "d8a13228fe1e1579b30ab5a67091b857",
@@ -177,7 +212,11 @@
   "summary": "Borussia Dortmund is on the verge of submitting an offer of \u20ac55m including bonuses to Cologne for Said El Mala, according to Florian Plettenberg. Cologne is working on a replacement for the player.",
   "outlet": "yahoo",
   "url": "https://sports.yahoo.com/articles/cologne-eye-said-el-mala-081500053.html",
-  "title": "Cologne eye Said El Mala replacement"
+  "title": "Cologne eye Said El Mala replacement",
+  "sources": [
+   "Florian Plettenberg"
+  ],
+  "srcTier": "tier1"
  },
  {
   "id": "c6e0542ad1755dd135740c6047afd1d1",
@@ -197,7 +236,11 @@
   "summary": "Liverpool showed concrete interest in signing Tottenham defender Micky van de Ven during the summer transfer window.",
   "outlet": "yahoo",
   "url": "https://ca.sports.yahoo.com/news/report-liverpool-showed-concrete-interest-195000433.html",
-  "title": "Report: Liverpool showed \u2018concrete interest\u2019 in summer move for Premier League star"
+  "title": "Report: Liverpool showed \u2018concrete interest\u2019 in summer move for Premier League star",
+  "sources": [
+   "Yahoo"
+  ],
+  "srcTier": "standard"
  },
  {
   "id": "07fb44d82bdfbf74cea68e892a9a404d",
@@ -217,7 +260,11 @@
   "summary": "Racing Santander teenager Jorge Salinas has been offered to Manchester United as the Red Devils seek left-back reinforcement. The player has been likened to Sergio Ramos and is a Barcelona target.",
   "outlet": "yahoo",
   "url": "https://sports.yahoo.com/articles/romano-confirms-barcelona-target-likened-070000380.html",
-  "title": "Romano confirms Barcelona target likened to Sergio Ramos has been offered to Man Utd"
+  "title": "Romano confirms Barcelona target likened to Sergio Ramos has been offered to Man Utd",
+  "sources": [
+   "Fabrizio Romano"
+  ],
+  "srcTier": "tier1"
  },
  {
   "id": "c0004db48cff21aa23afac82214293a0",
@@ -237,7 +284,11 @@
   "summary": "Manchester United are targeting Club Brugge left back Joaquin Seys as part of their youth recruitment strategy.",
   "outlet": "espn_uk",
   "url": "https://www.espn.co.uk/football/story/_/id/49572938/transfer-rumors-news-manchester-united-turn-youth-chase-club-brugge-leicester-stars",
-  "title": "Transfer rumors, news: Man United turn to youth in chase for Leicester, Club Brugge stars"
+  "title": "Transfer rumors, news: Man United turn to youth in chase for Leicester, Club Brugge stars",
+  "sources": [
+   "ESPN UK"
+  ],
+  "srcTier": "standard"
  },
  {
   "id": "6dc52d93df80accd02e20d795c600749",
@@ -257,7 +308,11 @@
   "summary": "Inter are preparing a new offer for Al Ittihad winger Moussa Diaby. Bayer Leverkusen are also competing for the player's signature.",
   "outlet": "yahoo",
   "url": "https://ca.sports.yahoo.com/news/inter-prepare-offer-moussa-diaby-073700489.html",
-  "title": "Inter prepare new offer for Moussa Diaby as Leverkusen face competition"
+  "title": "Inter prepare new offer for Moussa Diaby as Leverkusen face competition",
+  "sources": [
+   "Yahoo"
+  ],
+  "srcTier": "standard"
  },
  {
   "id": "tg:FabrizioRomanoTG/64350",
@@ -277,7 +332,11 @@
   "summary": "PSG have agreed personal terms with France U16 talent Lacine Megnan-Pav\u00e9 on a contract until June 2031; negotiations are ongoing with Montpellier to complete the deal this summer.",
   "outlet": "Telegram @fabrizioromanotg",
   "url": "https://t.me/FabrizioRomanoTG/64350",
-  "title": "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 Paris Saint-Germain have agreed on personal terms with France U16 talent Lacine Megnan-Pav\u00e9, contract until June 2"
+  "title": "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 Paris Saint-Germain have agreed on personal terms with France U16 talent Lacine Megnan-Pav\u00e9, contract until June 2",
+  "sources": [
+   "Fabrizio Romano"
+  ],
+  "srcTier": "tier1"
  },
  {
   "id": "5601cbe5943abb20fd5c6bfdda22be97",
@@ -297,7 +356,11 @@
   "outlet": "givemesport",
   "url": "https://www.givemesport.com/man-utd-eye-tyler-adams-tchouameni-hopes-fade-transfer-news/",
   "title": "Man Utd Eye 'Very Reasonable Deal' For Midfield 'Leader' as Tchouameni Hopes Fade",
-  "summary": "Manchester United have shifted focus to Tyler Adams as an alternative to Aurelien Tchouameni, who is expected to remain at Real Madrid. The club views Adams as a 'very reasonable deal' to strengthen their midfield."
+  "summary": "Manchester United have shifted focus to Tyler Adams as an alternative to Aurelien Tchouameni, who is expected to remain at Real Madrid. The club views Adams as a 'very reasonable deal' to strengthen their midfield.",
+  "sources": [
+   "Give Me Sport"
+  ],
+  "srcTier": "standard"
  },
  {
   "id": "725e623bf9970c8446a8afc36df67e29",
@@ -317,7 +380,11 @@
   "summary": "Napoli have made contact with Arsenal regarding a potential move for Gabriel Jesus, with the Gunners reported to be open to selling under certain conditions.",
   "outlet": "caughtoffside",
   "url": "https://www.caughtoffside.com/2026/08/07/gabriel-jesus-napoli-transfer-fabrizio-romano/",
-  "title": "Contact made as Arsenal approached by European giants for star attacker; Gunners open to selling on one condition"
+  "title": "Contact made as Arsenal approached by European giants for star attacker; Gunners open to selling on one condition",
+  "sources": [
+   "Fabrizio Romano via CaughtOffside"
+  ],
+  "srcTier": "tier1"
  },
  {
   "id": "f07d3c229fbe43b08822fb75733e9f5a",
@@ -337,7 +404,11 @@
   "summary": "Liverpool is in talks with Paris Saint-Germain over defender Illia Zabarnyi as the club explores summer transfer options.",
   "outlet": "givemesport",
   "url": "https://www.givemesport.com/liverpool-hold-talks-psg-transfer-illia-zabarnyi/",
-  "title": "Liverpool in Talks to Sign PSG Defender Zabarnyi Alongside Barcola"
+  "title": "Liverpool in Talks to Sign PSG Defender Zabarnyi Alongside Barcola",
+  "sources": [
+   "givemesport"
+  ],
+  "srcTier": "standard"
  },
  {
   "id": "b440f39e89722b1af6276e834b771a1a",
@@ -357,7 +428,11 @@
   "outlet": "naijanews",
   "url": "https://www.naijanews.com/2026/08/03/transfer-updates-osimhen-guimaraes-vinicius-grealish-gakpo/",
   "title": "Transfer Updates: Osimhen, Guimara\u0303es, Vini\u0301cius, Grealish, Gakpo, Others",
-  "summary": "Arsenal and Tottenham Hotspur are both interested in signing Victor Osimhen from Galatasaray, with a reported fee of \u00a355 million attached to the striker. No deal has been confirmed at this stage."
+  "summary": "Arsenal and Tottenham Hotspur are both interested in signing Victor Osimhen from Galatasaray, with a reported fee of \u00a355 million attached to the striker. No deal has been confirmed at this stage.",
+  "sources": [
+   "CaughtOffside"
+  ],
+  "srcTier": "standard"
  },
  {
   "id": "3b0d973c5f5f138290b44e8144e8666f",
@@ -377,7 +452,11 @@
   "outlet": "google",
   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNWIzWVA3MVZTc0ItQnFETGozd1RYeXRyNVR5WUVmbE9DaVNKRml2SlZEdDZlU2FUY25hTndtdkY1eW1nQTI1LUVuVnU3MU81UFBoM0lOcTg4LVNpRDlGTFNNdXcybklHeGszZDVMSmhiN0ZNOTFlZTN1U0p5TmNiTGJrQXFLWHJnWnE2ekxWdTZueEMxbnVLcDlYVUhGaktIT1VydEUycXZUWHhRcV9QWGpwbnpScU5FN2hhb1VR?oc=5",
   "title": "Fabrizio Romano reveals whether Man Utd want to sign Francisco Conceicao - TEAMtalk",
-  "summary": "Manchester United have been linked with a move for Juventus winger Francisco Conceicao. No fee or formal offer has been disclosed at this stage."
+  "summary": "Manchester United have been linked with a move for Juventus winger Francisco Conceicao. No fee or formal offer has been disclosed at this stage.",
+  "sources": [
+   "Fabrizio Romano"
+  ],
+  "srcTier": "tier1"
  },
  {
   "id": "78a4fde96ad253a35ec0d91f9a1004a5",
@@ -397,7 +476,11 @@
   "outlet": "givemesport",
   "url": "https://www.givemesport.com/man-utd-eyeing-arsenal-star-myles-lewis-skelly/",
   "title": "Manchester United Eye Arsenal's Myles Lewis-Skelly in Summer Transfer",
-  "summary": "Manchester United are reportedly interested in signing Arsenal left-back Myles Lewis-Skelly. No fee or formal bid has been disclosed at this stage."
+  "summary": "Manchester United are reportedly interested in signing Arsenal left-back Myles Lewis-Skelly. No fee or formal bid has been disclosed at this stage.",
+  "sources": [
+   "GiveMeSport"
+  ],
+  "srcTier": "standard"
  },
  {
   "id": "4480276063a6bb975351bdf54d897030",
@@ -417,7 +500,11 @@
   "outlet": "yahoo",
   "url": "https://sports.yahoo.com/articles/tottenham-open-sanctioning-loan-exit-220000895.html",
   "title": "Tottenham open to sanctioning a loan exit for Guglielmo Vicario",
-  "summary": "Tottenham Hotspur are open to sanctioning a loan exit for goalkeeper Guglielmo Vicario, with Juventus among the clubs interested in signing him. No fee has been disclosed."
+  "summary": "Tottenham Hotspur are open to sanctioning a loan exit for goalkeeper Guglielmo Vicario, with Juventus among the clubs interested in signing him. No fee has been disclosed.",
+  "sources": [
+   "Gianluca Di Marzio"
+  ],
+  "srcTier": "tier1"
  },
  {
   "id": "24c32cbb2181b335102a11aaeb3e6f77",
@@ -437,7 +524,11 @@
   "outlet": "football-italia",
   "url": "https://football-italia.net/report-napoli-want-gatti-option-juventus/",
   "title": "Report Napoli want Gatti on loan with option to buy from Juventus",
-  "summary": "Napoli are reported to be interested in signing Federico Gatti from Juventus on a loan deal with an option to buy."
+  "summary": "Napoli are reported to be interested in signing Federico Gatti from Juventus on a loan deal with an option to buy.",
+  "sources": [
+   "football-italia"
+  ],
+  "srcTier": "standard"
  },
  {
   "id": "6454dc492714cf28c4693204d02763f4",
@@ -457,7 +548,11 @@
   "outlet": "football365",
   "url": "https://www.football365.com/news/man-utd-make-call-thiago-brentford-offer-leao-milan",
   "title": "Man Utd make \u2018call\u2019 for new striker as another \u2018world-class player\u2019 is offered to Red Devils",
-  "summary": "Manchester United have made contact regarding a potential transfer for Brentford striker Igor Thiago, with the club also being offered another forward."
+  "summary": "Manchester United have made contact regarding a potential transfer for Brentford striker Igor Thiago, with the club also being offered another forward.",
+  "sources": [
+   "Football365"
+  ],
+  "srcTier": "standard"
  },
  {
   "id": "tg:FabrizioRomanoTG/63876",
@@ -477,7 +572,11 @@
   "outlet": "Telegram @fabrizioromanotg",
   "url": "https://t.me/FabrizioRomanoTG/63876",
   "title": "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 EXCLUSIVE: Paris Saint-Germain open talks to sign Mika Godts from Ajax as new winger. Talented Belgian winger seen",
-  "summary": "Paris Saint-Germain have opened talks with Ajax to sign Belgian winger Mika Godts as they look to add a new wide player."
+  "summary": "Paris Saint-Germain have opened talks with Ajax to sign Belgian winger Mika Godts as they look to add a new wide player.",
+  "sources": [
+   "Fabrizio Romano"
+  ],
+  "srcTier": "tier1"
  },
  {
   "id": "531eeffb10f30dca8d19df4cdf3bc776",
@@ -497,7 +596,11 @@
   "outlet": "glasgowtimes",
   "url": "https://www.glasgowtimes.co.uk/sport/26425593.celtic-in-talks-english-side-summer-transfer/",
   "title": "Celtic in transfer 'talks' with cash-rich English club as star's exit nears",
-  "summary": "West Ham United are in transfer talks with Celtic over defender Engels, with the player's exit from the Scottish club reported to be nearing."
+  "summary": "West Ham United are in transfer talks with Celtic over defender Engels, with the player's exit from the Scottish club reported to be nearing.",
+  "sources": [
+   "Glasgow Times"
+  ],
+  "srcTier": "standard"
  },
  {
   "id": "4ec31abbfd299d2a3eac48f6178f76f3",
@@ -517,7 +620,11 @@
   "outlet": "caughtoffside",
   "url": "https://www.caughtoffside.com/2026/07/30/ethan-nwaneri-transfer-borussia-dortmund/",
   "title": "Report confirms our exclusive on Arsenal star being eyed for transfer to Euro giants",
-  "summary": "Borussia Dortmund are reported to be eyeing a transfer for Arsenal midfielder Ethan Nwaneri, with interest from the German club confirmed."
+  "summary": "Borussia Dortmund are reported to be eyeing a transfer for Arsenal midfielder Ethan Nwaneri, with interest from the German club confirmed.",
+  "sources": [
+   "CaughtOffside"
+  ],
+  "srcTier": "standard"
  },
  {
   "id": "c86f7bb340de1f397cfc76c98883f450",
@@ -537,7 +644,11 @@
   "outlet": "yahoo",
   "url": "https://sports.yahoo.com/articles/ac-milan-contact-arsenal-ethan-110500795.html",
   "title": "AC Milan contact Arsenal about Ethan Nwaneri",
-  "summary": "AC Milan have contacted Arsenal regarding the potential transfer of young midfielder Ethan Nwaneri."
+  "summary": "AC Milan have contacted Arsenal regarding the potential transfer of young midfielder Ethan Nwaneri.",
+  "sources": [
+   "Yahoo"
+  ],
+  "srcTier": "standard"
  },
  {
   "id": "ceb132e429db1334b38fae8320a475ba",
@@ -557,7 +668,11 @@
   "outlet": "givemesport",
   "url": "https://www.givemesport.com/tottenham-eyeing-cody-gakpo-alongside-savinho-fabrizio-romano/",
   "title": "Romano: Tottenham Eyeing Move to Sign Liverpool Star Gakpo Alongside Savinho",
-  "summary": "Tottenham Hotspur are reported to be interested in signing Liverpool winger Cody Gakpo, with the club eyeing him alongside Savinho."
+  "summary": "Tottenham Hotspur are reported to be interested in signing Liverpool winger Cody Gakpo, with the club eyeing him alongside Savinho.",
+  "sources": [
+   "Fabrizio Romano"
+  ],
+  "srcTier": "tier1"
  },
  {
   "id": "6a891dd4ca491d41273f54a228f0b8c6",
@@ -577,7 +692,11 @@
   "outlet": "yahoo",
   "url": "https://ca.sports.yahoo.com/news/agents-offer-leon-goretzka-fc-172100063.html",
   "title": "Agents offer Leon Goretzka to FC Barcelona for second time",
-  "summary": "Agents have offered Bayern Munich midfielder Leon Goretzka to FC Barcelona for a second time, according to reports."
+  "summary": "Agents have offered Bayern Munich midfielder Leon Goretzka to FC Barcelona for a second time, according to reports.",
+  "sources": [
+   "Matteo Moretto"
+  ],
+  "srcTier": "tier1"
  },
  {
   "id": "17a238a2ef02e79243bcc49baee4c68c",
@@ -597,7 +716,11 @@
   "outlet": "eurosport_com",
   "url": "https://www.tntsports.co.uk/football/transfers/2026-2027/euro-transfer-news-renato-veiga-real-madrid-villarreal-chelsea-randal-kolo-muani-juventus-paris-saint-germain-charles-de-ketelaere-leon-goretzka_sto23323744/story.shtml",
   "title": "Real Madrid monitoring former Chelsea utility man - Euro Transfer News",
-  "summary": "Real Madrid are monitoring Villarreal defender Renato Veiga, who previously played as a utility man at Chelsea."
+  "summary": "Real Madrid are monitoring Villarreal defender Renato Veiga, who previously played as a utility man at Chelsea.",
+  "sources": [
+   "Eurosport"
+  ],
+  "srcTier": "standard"
  },
  {
   "id": "b016907e1d1fc744e4d65c782519c6f8",
@@ -617,7 +740,11 @@
   "outlet": "football365",
   "url": "https://www.football365.com/news/liverpool-chelsea-bradley-barcola-psg-transfer-latest",
   "title": "Bradley Barcola reacts to Chelsea \u2018concrete interest\u2019 and reaches Liverpool decision",
-  "summary": "Paris Saint-Germain winger Bradley Barcola has attracted concrete interest from Chelsea, with Bayern Munich, Manchester United, and Liverpool also linked."
+  "summary": "Paris Saint-Germain winger Bradley Barcola has attracted concrete interest from Chelsea, with Bayern Munich, Manchester United, and Liverpool also linked.",
+  "sources": [
+   "football365"
+  ],
+  "srcTier": "standard"
  },
  {
   "id": "0b8c5aefdb2bc27703b3d1e0b9e26fda",
@@ -637,7 +764,11 @@
   "outlet": "yahoo",
   "url": "https://sports.yahoo.com/articles/real-madrid-first-approach-manchester-103717858.html",
   "title": "Real Madrid make first approach to Manchester City for Rodri -report",
-  "summary": "Real Madrid have made a first approach to Manchester City regarding the transfer of midfielder Rodri Hern\u00e1ndez, with a fee of \u20ac50m or more reported."
+  "summary": "Real Madrid have made a first approach to Manchester City regarding the transfer of midfielder Rodri Hern\u00e1ndez, with a fee of \u20ac50m or more reported.",
+  "sources": [
+   "Fabrizio Romano"
+  ],
+  "srcTier": "tier1"
  },
  {
   "id": "f95c8a69499358301aa635b866c97c21",
@@ -657,7 +788,13 @@
   "outlet": "google",
   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcGY2amRTZDMtd05rYjF5aTh6THlfSXlPcDVmUl9IZTBfaWVKazROdjZDTS1yWWFqbGJLY1BjY3JxTGFrSnRwbXZTTTJTTGMwNzFUSVF2azZ1RDlQNG5mYkFsRXJvb1ctMldVOVd0S3BPeFNoYXlRakVjdWlQNGNTbW5zamlGa2Q4UFZ5Qmx0TENrNU1ieWJsYkpn?oc=5",
   "title": "Tottenham preparing \u20ac65 million move for Barcelona defender \u2013 report - Barca Universal",
-  "summary": "Tottenham Hotspur are reported to be preparing a \u20ac65m move for Barcelona defender Jules Kound\u00e9."
+  "summary": "Tottenham Hotspur are reported to be preparing a \u20ac65m move for Barcelona defender Jules Kound\u00e9.",
+  "sources": [
+   "Barca Universal",
+   "Goal.com",
+   "Fabrizio Romano"
+  ],
+  "srcTier": "tier1"
  },
  {
   "id": "d453b3909a078cd02cde46c8e7ea577a",
@@ -677,7 +814,11 @@
   "outlet": "teamtalk",
   "url": "https://www.teamtalk.com/manchester-united/ollie-watkins-transfer-joshua-zirkzee-sale-unlocks-new-signing",
   "title": "Man Utd learn chances of Ollie Watkins transfer as sale of \u00a336.5m flop unlocks new attacking arrival",
-  "summary": "Manchester United have made enquiries about the availability of Aston Villa striker Ollie Watkins as they look to strengthen their attack."
+  "summary": "Manchester United have made enquiries about the availability of Aston Villa striker Ollie Watkins as they look to strengthen their attack.",
+  "sources": [
+   "TeamTalk"
+  ],
+  "srcTier": "standard"
  },
  {
   "id": "78316774dbf254f1f02228d5d96dde28",
@@ -697,7 +838,11 @@
   "outlet": "football365",
   "url": "https://www.football365.com/news/liverpool-dream-alternative-barcola-personal-terms-agreement-rejected",
   "title": "Liverpool eye dream alternative to Barcola as personal terms agreement is rejected",
-  "summary": "Liverpool are monitoring Bournemouth's Rayan as a potential alternative to Bradley Barcola after a personal terms agreement was rejected elsewhere."
+  "summary": "Liverpool are monitoring Bournemouth's Rayan as a potential alternative to Bradley Barcola after a personal terms agreement was rejected elsewhere.",
+  "sources": [
+   "football365"
+  ],
+  "srcTier": "standard"
  },
  {
   "id": "073ad6558bf455d48226aadf765a2ca7",
@@ -717,7 +862,11 @@
   "outlet": "givemesport",
   "url": "https://www.givemesport.com/tottenham-planning-serious-transfer-move-junior-kroupi-savinho/",
   "title": "Tottenham Planning to Make Serious Move for Junior Kroupi After Savinho",
-  "summary": "Tottenham Hotspur are planning to make a serious move to sign Junior Kroupi following their pursuit of Savinho."
+  "summary": "Tottenham Hotspur are planning to make a serious move to sign Junior Kroupi following their pursuit of Savinho.",
+  "sources": [
+   "GiveMeSport"
+  ],
+  "srcTier": "standard"
  },
  {
   "id": "tg:FabrizioRomanoTG/63760",
@@ -737,7 +886,11 @@
   "outlet": "Telegram @fabrizioromanotg",
   "url": "https://t.me/FabrizioRomanoTG/63760",
   "title": "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f Juventus are in advanced talks to sign Kerem Alajbegovi\u0107 after Randal Kolo Muani! Negotiations underway on both ",
-  "summary": "Juventus are in advanced negotiations to sign Kerem Alajbegovi\u0107, with talks reported as ongoing on 29 July 2026. No fee has been confirmed at this stage."
+  "summary": "Juventus are in advanced negotiations to sign Kerem Alajbegovi\u0107, with talks reported as ongoing on 29 July 2026. No fee has been confirmed at this stage.",
+  "sources": [
+   "Fabrizio Romano"
+  ],
+  "srcTier": "tier1"
  },
  {
   "id": "3e9c242c6e15efa6e61ec8e4dc4cb1a3",
@@ -757,7 +910,11 @@
   "outlet": "football-italia",
   "url": "https://football-italia.net/badiashile-targeted-by-napoli-chelsea-unlikely/",
   "title": "Badiashile targeted by Napoli, but Chelsea agreement unlikely at \u20ac30m",
-  "summary": "Napoli are targeting Chelsea defender Benoit Badiashile with a reported fee of \u20ac30m, though Chelsea are considered unlikely to agree to that valuation. The interest was reported on 29 July 2026."
+  "summary": "Napoli are targeting Chelsea defender Benoit Badiashile with a reported fee of \u20ac30m, though Chelsea are considered unlikely to agree to that valuation. The interest was reported on 29 July 2026.",
+  "sources": [
+   "football-italia"
+  ],
+  "srcTier": "standard"
  },
  {
   "id": "d9f3852552d1de03ce56a5867ae9beac",
@@ -777,7 +934,11 @@
   "outlet": "yahoo",
   "url": "https://sports.yahoo.com/articles/soule-proposed-milan-possible-leao-121000953.html",
   "title": "Soule proposed to Milan as possible Leao replacement",
-  "summary": "AC Milan have been approached over a potential move for Mateo Soule, with the player proposed as a possible replacement for Rafael Leao. No fee or clubs involved beyond Milan have been confirmed."
+  "summary": "AC Milan have been approached over a potential move for Mateo Soule, with the player proposed as a possible replacement for Rafael Leao. No fee or clubs involved beyond Milan have been confirmed.",
+  "sources": [
+   "yahoo"
+  ],
+  "srcTier": "standard"
  },
  {
   "id": "6e01e89f0c5d75c73993ba1cbe00358b",
@@ -797,7 +958,11 @@
   "outlet": "sunnewsonline",
   "url": "https://thesun.ng/epl-man-united-open-talks-with-tottenham-over-bergvall-transfer/",
   "title": "EPL: Man United open talks with Tottenham over Bergvall transfer",
-  "summary": "Manchester United have opened talks with Tottenham Hotspur over the potential transfer of Lucas Bergvall, with Chelsea also reported to hold interest. No fee has been disclosed."
+  "summary": "Manchester United have opened talks with Tottenham Hotspur over the potential transfer of Lucas Bergvall, with Chelsea also reported to hold interest. No fee has been disclosed.",
+  "sources": [
+   "The Sun Nigeria"
+  ],
+  "srcTier": "standard"
  },
  {
   "id": "d1606336845968e103913dcb4a2e7a75",
@@ -817,7 +982,11 @@
   "outlet": "sportsmole",
   "url": "https://www.sportsmole.co.uk/football/sunderland/transfer-talk/news/sunderland-near-historic-gbp25-6m-swoop-latest-transfer-news-and-rumours-today_601979.html",
   "title": "Transfer news and rumours today: Sunderland near historic Methalie deal, Bayern close in on Ndiaye, Villa learn Vargas price",
-  "summary": "Bayern Munich are reportedly closing in on the signing of Ousmane Ndiaye, according to transfer reports from 28 July 2026. No fee or selling club has been confirmed."
+  "summary": "Bayern Munich are reportedly closing in on the signing of Ousmane Ndiaye, according to transfer reports from 28 July 2026. No fee or selling club has been confirmed.",
+  "sources": [
+   "Sports Mole"
+  ],
+  "srcTier": "standard"
  },
  {
   "id": "794dca78d46e147dd662785b86910498",
@@ -837,7 +1006,11 @@
   "outlet": "teamtalk",
   "url": "https://www.teamtalk.com/tottenham-hotspur/rafael-leao-dream-transfer-possibility-fabrizio-romano-tottenham-links-savinho-pursuit",
   "title": "Tottenham get final answer on Rafael Leao as Fabrizio Romano sets record straight on Savinho transfer saga",
-  "summary": "Tottenham Hotspur received a final answer regarding their interest in AC Milan winger Rafael Leao, as reported on 28 July 2026. No fee or further details were confirmed."
+  "summary": "Tottenham Hotspur received a final answer regarding their interest in AC Milan winger Rafael Leao, as reported on 28 July 2026. No fee or further details were confirmed.",
+  "sources": [
+   "Fabrizio Romano via teamtalk"
+  ],
+  "srcTier": "tier1"
  },
  {
   "id": "8ed747acb2cc932fc96546cb1dc03d1e",
@@ -857,7 +1030,11 @@
   "outlet": "eurosport_com",
   "url": "https://www.tntsports.co.uk/football/transfers/2026-2027/euro-news-manchester-city-rodri-asking-price-real-madrid-barcelona-paris-saint-germain_sto23323226/story.shtml",
   "title": "Man City set Rodri asking price amid Madrid, Barca, PSG interest - Euro Transfer News",
-  "summary": "Manchester City have set an asking price for Rodri amid reported interest from Real Madrid, Barcelona, and PSG. No specific fee figure was confirmed in the report dated 28 July 2026."
+  "summary": "Manchester City have set an asking price for Rodri amid reported interest from Real Madrid, Barcelona, and PSG. No specific fee figure was confirmed in the report dated 28 July 2026.",
+  "sources": [
+   "Eurosport"
+  ],
+  "srcTier": "standard"
  },
  {
   "id": "679363d6ed3bbb199a2232a073624d4c",
@@ -877,7 +1054,11 @@
   "outlet": "barcablaugranes",
   "url": "https://www.barcablaugranes.com/fc-barcelona-transfer-rumors-news/127615/man-city-also-interested-in-barcelona-target-eli-junior-kroupi",
   "title": "Man City also interested in Barcelona target Eli Junior Kroupi",
-  "summary": "Manchester City have joined Barcelona in expressing interest in Bournemouth forward Eli Junior Kroupi, according to reports from 28 July 2026. No fee has been disclosed."
+  "summary": "Manchester City have joined Barcelona in expressing interest in Bournemouth forward Eli Junior Kroupi, according to reports from 28 July 2026. No fee has been disclosed.",
+  "sources": [
+   "barcablaugranes"
+  ],
+  "srcTier": "standard"
  },
  {
   "id": "4496f35d2e980d56e25d3d4788118f25",
@@ -897,7 +1078,11 @@
   "outlet": "football365",
   "url": "https://www.football365.com/news/liverpool-everton-ndiaye-barcola-alternative-akliouche-wants-psg",
   "title": "Liverpool eye Everton star as Barcola alternative as target \u2018wants to join\u2019 another club",
-  "summary": "Liverpool and Manchester United are both reported to hold interest in Everton midfielder Iliman Ndiaye, with the player said to want to join another club. No fee has been disclosed."
+  "summary": "Liverpool and Manchester United are both reported to hold interest in Everton midfielder Iliman Ndiaye, with the player said to want to join another club. No fee has been disclosed.",
+  "sources": [
+   "football365"
+  ],
+  "srcTier": "standard"
  },
  {
   "id": "tg:FabrizioRomanoTG/63672",
@@ -917,7 +1102,11 @@
   "outlet": "Telegram @fabrizioromanotg",
   "url": "https://t.me/FabrizioRomanoTG/63672",
   "title": "\ud83d\udea8 \ud83c\udde8\ud83c\uddf4 EXCL: Como open talks for Jhon Lucum\u00ed as new target at centre back as Colombian defender could leave Bologna. Juven",
-  "summary": "Como have opened talks to sign Colombian defender Jhon Lucum\u00ed from Bologna, with Juventus also reported to hold interest in the player. No fee has been confirmed."
+  "summary": "Como have opened talks to sign Colombian defender Jhon Lucum\u00ed from Bologna, with Juventus also reported to hold interest in the player. No fee has been confirmed.",
+  "sources": [
+   "Fabrizio Romano"
+  ],
+  "srcTier": "tier1"
  },
  {
   "id": "1a0f0811f21a31f575fc8d3dbfdd1440",
@@ -937,7 +1126,11 @@
   "outlet": "bundle_app",
   "url": "https://www.bundle.app/en/sports/milan-bid-for-martin-lazio-eye-2007-born-chevalier-juve-CDA3FC8E-A069-4376-8664-235A89D56570",
   "title": "Milan bid for MartA\u0303\u00adn, Lazio eye 2007-born, Chevalier-Juve \u00f0\u009f\u0091\u008e \u00f0\u009f\u00a4\u0091",
-  "summary": "AC Milan have made a bid for a player identified as Mart\u00edn, according to reports from 27 July 2026. No fee, selling club, or further details have been confirmed."
+  "summary": "AC Milan have made a bid for a player identified as Mart\u00edn, according to reports from 27 July 2026. No fee, selling club, or further details have been confirmed.",
+  "sources": [
+   "bundle_app"
+  ],
+  "srcTier": "standard"
  },
  {
   "id": "23414261ec378a57056d4b8faef21e3c",
@@ -957,7 +1150,11 @@
   "outlet": "timesofoman",
   "url": "https://timesofoman.com//article/174842-premier-league-champions-arsenal-eye-real-madrid-forward-vinicius-jr",
   "title": "Premier League champions Arsenal eye Real Madrid forward Vinicius Jr",
-  "summary": "Premier League champions Arsenal have been reported to be eyeing Real Madrid forward Vinicius Jr. No deal has been agreed at this stage."
+  "summary": "Premier League champions Arsenal have been reported to be eyeing Real Madrid forward Vinicius Jr. No deal has been agreed at this stage.",
+  "sources": [
+   "Times of Oman"
+  ],
+  "srcTier": "standard"
  },
  {
   "id": "95680ad05c7163569e3d90e6e0956d70",
@@ -977,7 +1174,12 @@
   "outlet": "football365",
   "url": "https://www.football365.com/news/manchester-united-danilo-botafogo-fabrizio-romano-transfer-update",
   "title": "Fabrizio Romano reveals Man Utd decision on signing Danilo from Botafogo",
-  "summary": "Fabrizio Romano has provided an update on Manchester United's reported interest in Botafogo defender Danilo. No agreement has been confirmed at this stage."
+  "summary": "Fabrizio Romano has provided an update on Manchester United's reported interest in Botafogo defender Danilo. No agreement has been confirmed at this stage.",
+  "sources": [
+   "Fabrizio Romano",
+   "football365"
+  ],
+  "srcTier": "tier1"
  },
  {
   "id": "4845074de2751a956c842146e4f2ed63",
@@ -997,7 +1199,12 @@
   "outlet": "yahoo",
   "url": "https://ca.sports.yahoo.com/news/arsenal-exploring-blockbuster-move-real-182000228.html",
   "title": "Arsenal exploring blockbuster move for Real Madrid superstar Vinicius Junior",
-  "summary": "Arsenal are reportedly exploring a move for Real Madrid superstar Vinicius Junior. No fee or agreement has been confirmed."
+  "summary": "Arsenal are reportedly exploring a move for Real Madrid superstar Vinicius Junior. No fee or agreement has been confirmed.",
+  "sources": [
+   "David Ornstein",
+   "Sky Sports"
+  ],
+  "srcTier": "tier1"
  },
  {
   "id": "3901dcd9ccba7de31a0d4abae053f3e5",
@@ -1017,7 +1224,11 @@
   "outlet": "givemesport",
   "url": "https://www.givemesport.com/arsenal-told-submit-huge-offer-victor-froholdt-transfer/",
   "title": "Arsenal Must Make 'Huge Offer' to Sign Victor Froholdt",
-  "summary": "Arsenal have been told they must make a substantial offer to sign Victor Froholdt. No fee or agreement has been confirmed at this stage."
+  "summary": "Arsenal have been told they must make a substantial offer to sign Victor Froholdt. No fee or agreement has been confirmed at this stage.",
+  "sources": [
+   "Give Me Sport"
+  ],
+  "srcTier": "standard"
  },
  {
   "id": "cca3c44402e64dd269d1f9a42c81085c",
@@ -1037,7 +1248,11 @@
   "outlet": "football365",
   "url": "https://www.football365.com/news/man-utd-sirens-rowe-bologna-liverpool-confident-barcola",
   "title": "Man Utd sirens are blaring for ex-Norwich winger with Liverpool confident of sealing Barcola deal",
-  "summary": "Manchester United have been linked with a move for Bologna winger Jonathan Rowe. No agreement has been reported at this stage."
+  "summary": "Manchester United have been linked with a move for Bologna winger Jonathan Rowe. No agreement has been reported at this stage.",
+  "sources": [
+   "football365"
+  ],
+  "srcTier": "standard"
  },
  {
   "id": "30c8e4fe96721e5bef1815c8ede1083c",
@@ -1057,7 +1272,11 @@
   "outlet": "sportsmole",
   "url": "https://www.sportsmole.co.uk/football/man-utd/transfer-talk/news/been-in-contact-again-romano-issues-major-update-on-man-uniteds-midfielder-pursuit_601778.html",
   "title": "Man United transfer news: Fabrizio Romano issues major update on English club's midfielder pursuit",
-  "summary": "Fabrizio Romano has issued an update on Manchester United's reported pursuit of Brighton & Hove Albion midfielder Carlos Baleba. No agreement has been confirmed."
+  "summary": "Fabrizio Romano has issued an update on Manchester United's reported pursuit of Brighton & Hove Albion midfielder Carlos Baleba. No agreement has been confirmed.",
+  "sources": [
+   "Fabrizio Romano via Sportsmole"
+  ],
+  "srcTier": "tier1"
  },
  {
   "id": "4784f011360200bdd9a348e5a51e3cbf",
@@ -1077,7 +1296,11 @@
   "outlet": "caughtoffside",
   "url": "https://www.caughtoffside.com/2026/07/23/man-city-transfer-enzo-fernandez-malo-gusto/",
   "title": "Sources: Manchester City prepare approach over signing Chelsea duo",
-  "summary": "Manchester City are reportedly preparing an approach to sign Chelsea midfielder Enzo Fernandez. No agreement has been confirmed at this stage."
+  "summary": "Manchester City are reportedly preparing an approach to sign Chelsea midfielder Enzo Fernandez. No agreement has been confirmed at this stage.",
+  "sources": [
+   "CaughtOffside"
+  ],
+  "srcTier": "standard"
  },
  {
   "id": "1798fb9f520fa5d695d4aeb0575dbb9e",
@@ -1097,7 +1320,11 @@
   "outlet": "football365",
   "url": "https://www.football365.com/news/liverpool-transfer-news-michael-olise-deal-back-on-shock-development-owners-report",
   "title": "Michael Olise to Liverpool back on after stunning development \u2013 shock report",
-  "summary": "Liverpool and Real Madrid have both been linked with a move for Bayern Munich winger Michael Olise. No agreement has been confirmed."
+  "summary": "Liverpool and Real Madrid have both been linked with a move for Bayern Munich winger Michael Olise. No agreement has been confirmed.",
+  "sources": [
+   "football365"
+  ],
+  "srcTier": "standard"
  },
  {
   "id": "c1b7378a40ef77bc6422548c48a47930",
@@ -1117,7 +1344,11 @@
   "outlet": "caughtoffside",
   "url": "https://www.caughtoffside.com/2026/07/23/arsenal-offered-zeno-debast-transfer/",
   "title": "Sources: Arsenal offered bargain \u20ac40m deal for former Man United transfer target",
-  "summary": "Arsenal have been offered the opportunity to sign Sporting Lisbon defender Zeno Debast for \u20ac40m. No agreement has been confirmed at this stage."
+  "summary": "Arsenal have been offered the opportunity to sign Sporting Lisbon defender Zeno Debast for \u20ac40m. No agreement has been confirmed at this stage.",
+  "sources": [
+   "CaughtOffside"
+  ],
+  "srcTier": "standard"
  },
  {
   "id": "e19eabd684ef0403e59a5eda7f87f169",
@@ -1137,7 +1368,11 @@
   "outlet": "teamtalk",
   "url": "https://www.teamtalk.com/manchester-united/aurelien-tchouameni-real-madrid-manchester-united-new-contact-fabrizio-romano-transfer-update",
   "title": "Fabrizio Romano reacts to Man Utd enquiring about Aurelien Tchouameni after new Real Madrid contract",
-  "summary": "Fabrizio Romano has commented on Manchester United making an enquiry about Real Madrid midfielder Aur\u00e9lien Tchouam\u00e9ni following the player's new contract at the club. No agreement has been confirmed."
+  "summary": "Fabrizio Romano has commented on Manchester United making an enquiry about Real Madrid midfielder Aur\u00e9lien Tchouam\u00e9ni following the player's new contract at the club. No agreement has been confirmed.",
+  "sources": [
+   "Fabrizio Romano via TeamTalk"
+  ],
+  "srcTier": "tier1"
  },
  {
   "id": "e7e8833bb9fbcbf9bd3fa1e80286b020",
@@ -1157,7 +1392,11 @@
   "outlet": "givemesport",
   "url": "https://www.givemesport.com/arsenal-reignite-nico-williams-interest-transfer-news/",
   "title": "Forget Rogers: Arsenal Hold Talks to Sign Nico Williams",
-  "summary": "Arsenal have been reported to be holding talks to sign Athletic Club winger Nico Williams. No agreement has been confirmed at this stage."
+  "summary": "Arsenal have been reported to be holding talks to sign Athletic Club winger Nico Williams. No agreement has been confirmed at this stage.",
+  "sources": [
+   "GiveMeSport"
+  ],
+  "srcTier": "standard"
  },
  {
   "id": "4e936d36c18b3b733cf68fec549956e5",
@@ -1177,7 +1416,11 @@
   "outlet": "bavarianfootballworks",
   "url": "https://www.bavarianfootballworks.com/transfer-rumors/233816/bayern-munich-psg-atalanta-real-madrid-fc-barcelona-chelsea-tottenham-liverpool-arsenal-bvb",
   "title": "Bayern Munich News: PSG, FC Bayern linked to Atalanta\u2019s Charles De Ketelaere; Two Bayern titans reunited; and MORE!",
-  "summary": "Bayern Munich have been linked with a move for Atalanta's Charles De Ketelaere, with PSG also reported to have an interest in the Belgian midfielder. No agreement has been confirmed."
+  "summary": "Bayern Munich have been linked with a move for Atalanta's Charles De Ketelaere, with PSG also reported to have an interest in the Belgian midfielder. No agreement has been confirmed.",
+  "sources": [
+   "Get French Football News"
+  ],
+  "srcTier": "standard"
  },
  {
   "id": "d6393bc7906308f7330bd877aa8ab87d",
@@ -1197,7 +1440,11 @@
   "outlet": "yahoo",
   "url": "https://sports.yahoo.com/articles/liverpool-could-sign-raul-asencio-084000806.html",
   "title": "Liverpool could sign Raul Asencio this summer after surprise Fabrizio Romano update \u2013 opinion",
-  "summary": "Liverpool have been linked with an interest in Real Madrid defender Raul Asencio during the summer transfer window. No fee has been disclosed at this stage."
+  "summary": "Liverpool have been linked with an interest in Real Madrid defender Raul Asencio during the summer transfer window. No fee has been disclosed at this stage.",
+  "sources": [
+   "Fabrizio Romano"
+  ],
+  "srcTier": "tier1"
  },
  {
   "id": "a311b6ee70e7604371ac0ab32d4a6890",
@@ -1217,7 +1464,11 @@
   "outlet": "football365",
   "url": "https://www.football365.com/news/man-utd-romano-reveals-dream-signing-zaire-emery-psg-kone",
   "title": "Romano reveals new \u2018dream\u2019 Man Utd midfield signing \u2013 it\u2019s not Kone or a Real Madrid player",
-  "summary": "Manchester United have been reported to have an interest in Paris Saint-Germain midfielder Warren Za\u00efre-Emery. Transfer journalist Fabrizio Romano described the player as a 'dream' signing for the club."
+  "summary": "Manchester United have been reported to have an interest in Paris Saint-Germain midfielder Warren Za\u00efre-Emery. Transfer journalist Fabrizio Romano described the player as a 'dream' signing for the club.",
+  "sources": [
+   "Fabrizio Romano via football365"
+  ],
+  "srcTier": "tier1"
  },
  {
   "id": "28e73f6a811841e0b798f6339bde68a7",
@@ -1237,7 +1488,12 @@
   "outlet": "bavarianfootballworks",
   "url": "https://www.bavarianfootballworks.com/bayern-munich-transfer-news-rumors/232629/real-madrid-keeping-eye-on-borussia-dortmunds-nico-schlotterbeck-and-felix-nmecha",
   "title": "Real Madrid keeping eye on Borussia Dortmund\u2019s Nico Schlotterbeck and Felix Nmecha",
-  "summary": "Real Madrid are monitoring Borussia Dortmund defender Nico Schlotterbeck as a potential transfer target. No fee or formal bid has been reported at this stage."
+  "summary": "Real Madrid are monitoring Borussia Dortmund defender Nico Schlotterbeck as a potential transfer target. No fee or formal bid has been reported at this stage.",
+  "sources": [
+   "Patrick Berger",
+   "Sky Germany"
+  ],
+  "srcTier": "tier1"
  },
  {
   "id": "e23083b7409a30881d6410778a481aba",
@@ -1257,7 +1513,11 @@
   "outlet": "football365",
   "url": "https://www.football365.com/news/tottenham-risking-liverpool-chelsea-hijack-for-seventh-signing-despite-being-most-advanced-club",
   "title": "Tottenham risking Liverpool, Chelsea hijack for seventh signing despite being most advanced club",
-  "summary": "Tottenham Hotspur are reportedly the most advanced club in the race to sign Benfica's Andreas Schjelderup, though they face potential competition from Liverpool and Chelsea. No fee has been confirmed."
+  "summary": "Tottenham Hotspur are reportedly the most advanced club in the race to sign Benfica's Andreas Schjelderup, though they face potential competition from Liverpool and Chelsea. No fee has been confirmed.",
+  "sources": [
+   "football365"
+  ],
+  "srcTier": "standard"
  },
  {
   "id": "bf759a19311dfab02ce35cb679b85833",
@@ -1277,7 +1537,11 @@
   "outlet": "google",
   "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPcjBFeWtNMU9QZ2xsX1R6S1pnWm1PMGNZT09VdWNpREp3azBkTG5nWFVady1rMTNFcFZ2Uzd2Y0dSdFdkZnJQQjhCT25PUExqem5na25vVFRTbm5KNExVTGVqWjNiMVZZdzhxNE5VdlJGRTd4SXk2MHRZd19kck9raE8xU2tIYmEydnI5b2hDeFBpSF9HbkdIVmlDNVB6NGQyeWlqcWRNNXF5N1FFMHQ1SVRXa1BHT0Jjd3QwU3VQOG9hMi1GZWlGcTB5TFpQVDJzOWlxLURERWgtMTcwUndKMnNXRnVDWVIyUXo0d0NLbUVKVjlOWFppRWpXalNtZndlaGVr?oc=5",
   "title": "Alex Scott: Bournemouth midfielder rejects new contract amid strong interest from Arsenal, Chelsea and Manchester United - Sky Sports",
-  "summary": "Bournemouth midfielder Alex Scott has rejected a new contract offer from the club amid strong interest from Arsenal, Chelsea, and Manchester United. No fee has been confirmed."
+  "summary": "Bournemouth midfielder Alex Scott has rejected a new contract offer from the club amid strong interest from Arsenal, Chelsea, and Manchester United. No fee has been confirmed.",
+  "sources": [
+   "Sky Sports"
+  ],
+  "srcTier": "tier1"
  },
  {
   "id": "1ab7b42732052becb78ce2fa10c69930",
@@ -1297,7 +1561,11 @@
   "url": "https://www.givemesport.com/breaking-man-utd-open-talks-crystal-palace-transfer-ismaila-sarr/",
   "title": "Manchester United in Talks to Sign Crystal Palace's Ismaila Sarr",
   "photo": "https://r2.thesportsdb.com/images/media/player/cutout/1abo611761492444.png/small",
-  "summary": "Manchester United are in talks to sign Crystal Palace winger Ismaila Sarr. No fee has been confirmed at this stage."
+  "summary": "Manchester United are in talks to sign Crystal Palace winger Ismaila Sarr. No fee has been confirmed at this stage.",
+  "sources": [
+   "Give Me Sport"
+  ],
+  "srcTier": "standard"
  },
  {
   "id": "90394e662236454ae32e2521767dac34",
@@ -1317,7 +1585,11 @@
   "url": "https://www.sunderlandecho.com/sport/football/sunderland-afc/sunderland-manchester-united-and-west-ham-linked-with-ps12m-leicester-city-transfer-reports-8809837",
   "title": "Sunderland, Manchester United and West Ham linked with \u00a312m Leicester City transfer \u2013 reports",
   "photo": "https://r2.thesportsdb.com/images/media/player/cutout/kgjita1761861683.png/small",
-  "summary": "Manchester United, Sunderland, and West Ham have all been linked with a move for Leicester City defender Ben Nelson, with reports suggesting a fee of around \u00a312 million. No deal has been confirmed."
+  "summary": "Manchester United, Sunderland, and West Ham have all been linked with a move for Leicester City defender Ben Nelson, with reports suggesting a fee of around \u00a312 million. No deal has been confirmed.",
+  "sources": [
+   "Sunderland Echo"
+  ],
+  "srcTier": "standard"
  },
  {
   "id": "tg:FabrizioRomanoTG/63245",
@@ -1337,7 +1609,11 @@
   "url": "https://t.me/FabrizioRomanoTG/63245",
   "title": "\ud83d\udd35 \ud83c\udde7\ud83c\uddf7 Huge investment on Rogers won\u2019t change Chelsea plans to keep Jo\u00e3o Pedro even in case of +100m bid from Barcelona. H",
   "photo": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Jo%C3%A3o_Pedro%2C_2025_FIFA_Club_World_Cup_final_%2854654843615%29.jpg",
-  "summary": "FC Barcelona have shown interest in signing Chelsea forward Jo\u00e3o Pedro for an undisclosed fee. Chelsea have indicated they intend to keep the player even if a bid exceeding \u00a3100 million is submitted."
+  "summary": "FC Barcelona have shown interest in signing Chelsea forward Jo\u00e3o Pedro for an undisclosed fee. Chelsea have indicated they intend to keep the player even if a bid exceeding \u00a3100 million is submitted.",
+  "sources": [
+   "Fabrizio Romano"
+  ],
+  "srcTier": "tier1"
  },
  {
   "id": "b38666d17dff46fa536859809d554013",
@@ -1357,7 +1633,11 @@
   "url": "https://sports.yahoo.com/articles/leave-psg-summer-fabrizio-romano-174500971.html",
   "title": "\u2018Will leave PSG this summer\u2019: Fabrizio Romano reveals exciting Liverpool transfer opportunity",
   "photo": "https://r2.thesportsdb.com/images/media/player/cutout/aquiiw1766335383.png/small",
-  "summary": "Paris Saint-Germain midfielder Ibrahim Mbaye has been linked with a summer departure, with Liverpool, Manchester City, Tottenham Hotspur, Borussia Dortmund, and Manchester United all reported to have an interest. PSG are believed to be seeking a fee in the region of \u20ac40 million to \u20ac50 million."
+  "summary": "Paris Saint-Germain midfielder Ibrahim Mbaye has been linked with a summer departure, with Liverpool, Manchester City, Tottenham Hotspur, Borussia Dortmund, and Manchester United all reported to have an interest. PSG are believed to be seeking a fee in the region of \u20ac40 million to \u20ac50 million.",
+  "sources": [
+   "Fabrizio Romano"
+  ],
+  "srcTier": "tier1"
  },
  {
   "id": "40f8731c54e95db84493dc158c7cc560",
@@ -1377,7 +1657,12 @@
   "url": "https://www.teamtalk.com/manchester-united/nicolas-raskin-30m-signing-rangers-man-utd-surprise-transfer",
   "title": "Cut-price Scotland-based star targeted by Wilcox as Man Utd\u2019s surprise third midfield signing \u2013 report",
   "photo": "https://r2.thesportsdb.com/images/media/player/cutout/zdlxoe1701946661.png/small",
-  "summary": "Manchester United have been linked with a move for Rangers midfielder Nico Raskin, with a reported fee in the range of \u00a320m\u2013\u00a325m. The club's sporting director Matt Wilcox is said to be targeting Raskin as a potential third midfield signing."
+  "summary": "Manchester United have been linked with a move for Rangers midfielder Nico Raskin, with a reported fee in the range of \u00a320m\u2013\u00a325m. The club's sporting director Matt Wilcox is said to be targeting Raskin as a potential third midfield signing.",
+  "sources": [
+   "TEAMtalk",
+   "Voetbal Krant"
+  ],
+  "srcTier": "standard"
  },
  {
   "id": "eb218c27eae7ee93f6e75461466f9eff",
@@ -1397,7 +1682,11 @@
   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQTnJaMVFoUmJhMElUb185X0IzVHpzdDg2WHEyS0lNSFA4Q2NtcEdaT3JfOGNGVW0wcmdkc2k4VTZvVGdJa2NkR1IwMUZxQU11MFRxQ3FEaGZncGxqSWVYZVUxSGJJTnR6S0xrVTVkRmZ4aUZhV2d1THAwbEN2b0ZwT181U19JakRxZ1RXOGVuMzBEUnBZWmNTb0VLcll3d1UteWFSU2NRVnZCVFlmSEY2bVJ2Wk5XS19SVlphWVdJYVh6VGNNcXpQbWRFXzZpVmF2ZnhsQmk3Q1BZSkFFSlVxQm02Wlg?oc=5",
   "title": "Fabrizio Romano confirms amazing \u00a335m midfielder transfer news - Anfield Watch",
   "photo": "https://r2.thesportsdb.com/images/media/player/cutout/ghs3g51757088342.png/small",
-  "summary": "Inter Milan have expressed interest in Liverpool midfielder Curtis Jones, with a reported fee of \u00a335m cited for the player. Journalist Fabrizio Romano has confirmed the transfer interest."
+  "summary": "Inter Milan have expressed interest in Liverpool midfielder Curtis Jones, with a reported fee of \u00a335m cited for the player. Journalist Fabrizio Romano has confirmed the transfer interest.",
+  "sources": [
+   "Fabrizio Romano"
+  ],
+  "srcTier": "tier1"
  },
  {
   "id": "33b2987c9592d47b2478748cd3f80a32",
@@ -1417,7 +1706,11 @@
   "url": "https://www.football365.com/news/man-utd-now-serious-40m-pl-star-chelsea-accelerate-hijack-third-midfield-signing",
   "title": "Man Utd now serious on landing \u00a340m PL star as Chelsea accelerate hijack for third midfield signing",
   "photo": "https://r2.thesportsdb.com/images/media/player/cutout/plhdsy1757070706.png/small",
-  "summary": "Manchester United are reported to be seriously interested in signing Fulham midfielder Sander Berge for a fee of under \u00a340m. Chelsea are also said to be looking to hijack the potential deal."
+  "summary": "Manchester United are reported to be seriously interested in signing Fulham midfielder Sander Berge for a fee of under \u00a340m. Chelsea are also said to be looking to hijack the potential deal.",
+  "sources": [
+   "TEAMtalk"
+  ],
+  "srcTier": "standard"
  },
  {
   "id": "1d2b8aa2824c2df4e38bb3196f9be233",
@@ -1437,7 +1730,11 @@
   "url": "https://www.football365.com/news/chelsea-increases-offer-alvarez-dream-arsenal-alonso",
   "title": "Chelsea \u2018increases offer\u2019 to \u00a3106m for dream Arsenal target as Alonso \u2018changes the conversation\u2019",
   "photo": "https://r2.thesportsdb.com/images/media/player/cutout/91pla41762288186.png/small",
-  "summary": "Chelsea have increased their offer for Atletico Madrid forward Juli\u00e1n \u00c1lvarez to approximately \u00a3106m (\u20ac125m). Arsenal and FC Barcelona are also reported to have interest in the Colombian striker."
+  "summary": "Chelsea have increased their offer for Atletico Madrid forward Juli\u00e1n \u00c1lvarez to approximately \u00a3106m (\u20ac125m). Arsenal and FC Barcelona are also reported to have interest in the Colombian striker.",
+  "sources": [
+   "Football365"
+  ],
+  "srcTier": "standard"
  },
  {
   "id": "c6681b6be6122705b2c0f0017c8f2642",
@@ -1457,7 +1754,12 @@
   "url": "https://www.caughtoffside.com/2026/07/15/chelsea-e60m-elite-starter-dont-pay/",
   "title": "Chelsea don\u2019t want to pay \u20ac60m for elite starter \u2013 but one factor could change Blues\u2019 thinking",
   "photo": "https://r2.thesportsdb.com/images/media/player/cutout/koetaj1724749969.png/small",
-  "summary": "Chelsea, Real Madrid, and Paris Saint-Germain have all been linked with FC Porto goalkeeper Diogo Costa, who is valued at \u20ac60m. Chelsea are reported to be hesitant about meeting that asking price."
+  "summary": "Chelsea, Real Madrid, and Paris Saint-Germain have all been linked with FC Porto goalkeeper Diogo Costa, who is valued at \u20ac60m. Chelsea are reported to be hesitant about meeting that asking price.",
+  "sources": [
+   "CaughtOffside",
+   "SportWitness"
+  ],
+  "srcTier": "standard"
  },
  {
   "id": "41c87080933afec49705f62e2a26af22",
@@ -1477,7 +1779,11 @@
   "url": "https://www.teamtalk.com/news/man-utd-transfer-news-manu-kone-midfield-chelsea-hijack-talks",
   "title": "Chelsea in talks to HIJACK \u00a351m Man Utd midfield move in stunning twist",
   "photo": "https://r2.thesportsdb.com/images/media/player/cutout/s4wyo21758815461.png/small",
-  "summary": "Chelsea are in talks to sign AS Roma midfielder Manu Kon\u00e9 for a reported fee of \u00a351m, potentially hijacking a move that Manchester United had been pursuing. Liverpool are also said to have interest in the player."
+  "summary": "Chelsea are in talks to sign AS Roma midfielder Manu Kon\u00e9 for a reported fee of \u00a351m, potentially hijacking a move that Manchester United had been pursuing. Liverpool are also said to have interest in the player.",
+  "sources": [
+   "TeamTalk"
+  ],
+  "srcTier": "standard"
  },
  {
   "id": "383bf42e36e067b311902c3d3998a19d",
@@ -1497,7 +1803,11 @@
   "url": "https://ca.sports.yahoo.com/news/italy-man-city-offer-mateo-133000052.html",
   "title": "From Italy: Man City offer Mateo Kovacic to Inter Milan but squad congestion cools San Siro interest",
   "photo": "https://r2.thesportsdb.com/images/media/player/cutout/m5jml31769183827.png/small",
-  "summary": "Inter Milan have been offered Manchester City midfielder Mateo Kova\u010di\u0107, with a fee of between \u20ac10m and \u20ac15m mooted. However, squad congestion at Inter is reported to have cooled their interest."
+  "summary": "Inter Milan have been offered Manchester City midfielder Mateo Kova\u010di\u0107, with a fee of between \u20ac10m and \u20ac15m mooted. However, squad congestion at Inter is reported to have cooled their interest.",
+  "sources": [
+   "Matteo Moretto"
+  ],
+  "srcTier": "tier1"
  },
  {
   "id": "24fee46288122839d637df046f6b68f2",
@@ -1517,7 +1827,11 @@
   "url": "https://www.football365.com/news/liverpool-tottenham-spence-leave-transfer-world-cup",
   "title": "Liverpool want Tottenham star who\u2019s been told he can leave after impressive World Cup displays",
   "photo": "https://r2.thesportsdb.com/images/media/player/cutout/erd1vi1757875565.png/small",
-  "summary": "Liverpool and Inter Milan are both reported to be interested in Tottenham Hotspur right-back Djed Spence, who has been told he can leave the club. Tottenham's asking price is reported to be \u00a340m, though that figure is disputed."
+  "summary": "Liverpool and Inter Milan are both reported to be interested in Tottenham Hotspur right-back Djed Spence, who has been told he can leave the club. Tottenham's asking price is reported to be \u00a340m, though that figure is disputed.",
+  "sources": [
+   "TEAMtalk"
+  ],
+  "srcTier": "standard"
  },
  {
   "id": "tg:FabrizioRomanoTG/63063",
@@ -1537,7 +1851,11 @@
   "url": "https://t.me/FabrizioRomanoTG/63063",
   "title": "\ud83d\udea8 Napoli are sending $10m official bid for Exequiel Zeballos to Boca Juniors after personal terms agreed. Zeballos wants",
   "photo": "https://r2.thesportsdb.com/images/media/player/cutout/qpm5c11750031248.png/small",
-  "summary": "Napoli have submitted an official bid of \u20ac10m to Boca Juniors for winger Exequiel Zeballos, with personal terms already agreed between the player and the Italian club."
+  "summary": "Napoli have submitted an official bid of \u20ac10m to Boca Juniors for winger Exequiel Zeballos, with personal terms already agreed between the player and the Italian club.",
+  "sources": [
+   "Fabrizio Romano"
+  ],
+  "srcTier": "tier1"
  },
  {
   "id": "1242beb0f28d982ebdaac818ec8f647b",
@@ -1557,7 +1875,11 @@
   "url": "https://sports.yahoo.com/articles/camavinga-fabrizio-romano-said-united-054000959.html",
   "title": "Camavinga: What Fabrizio Romano has said about United\u2019s move for Real Madrid star",
   "photo": "https://r2.thesportsdb.com/images/media/player/cutout/viijpx1733653403.png/small",
-  "summary": "Manchester United have been linked with Real Madrid midfielder Eduardo Camavinga, with reports indicating interest from the Premier League club in an undisclosed deal."
+  "summary": "Manchester United have been linked with Real Madrid midfielder Eduardo Camavinga, with reports indicating interest from the Premier League club in an undisclosed deal.",
+  "sources": [
+   "Fabrizio Romano"
+  ],
+  "srcTier": "tier1"
  },
  {
   "id": "5574de38e88bb717614e84aaa376a400",
@@ -1577,6 +1899,10 @@
   "url": "https://www.bavarianfootballworks.com/transfer-rumors/229228/bayern-munich-chelsea-fc-barcelona-psh-real-madrid-manchester-city-united-arsenal-tottenham",
   "title": "Bayern Munich News: FC Bayern not making move for Chelsea phenom...yet; James Rodri\u0301guez getting another chance in Europe?; and MORE!",
   "photo": "",
-  "summary": "Bayern Munich have been linked with Chelsea youngster Jesse Derry but have not yet made a move for the player as of July 14."
+  "summary": "Bayern Munich have been linked with Chelsea youngster Jesse Derry but have not yet made a move for the player as of July 14.",
+  "sources": [
+   "Christian Falk"
+  ],
+  "srcTier": "tier1"
  }
 ]

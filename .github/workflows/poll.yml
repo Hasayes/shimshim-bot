@@ -48,6 +48,18 @@ jobs:
           PUSH_SUBSCRIPTIONS: ${{ secrets.PUSH_SUBSCRIPTIONS }}
           PUSH_ENC_KEY: ${{ secrets.PUSH_ENC_KEY }}
           DRY_RUN: ${{ github.event.inputs.dry_run == 'true' && '1' || '0' }}
+          # --- Cost posture (pinned lean; override via repo Variables) ---
+          # Steady state uses ONLY cheap Haiku triage: no Sonnet, no web
+          # search, no cross-check. Flip a repo Variable to re-enable a path
+          # for a busy window; code defaults already match these values, but
+          # pinning them here prevents a default drift from silently spending.
+          CLASSIFY_MODEL: ${{ vars.CLASSIFY_MODEL || 'claude-haiku-4-5' }}
+          CLAUDE_MODEL: ${{ vars.CLAUDE_MODEL || 'claude-sonnet-4-6' }}
+          VERIFY_NEWS: ${{ vars.VERIFY_NEWS || '0' }}
+          VERIFY_INTEREST: ${{ vars.VERIFY_INTEREST || '0' }}
+          SKIP_VERIFY_TELEGRAM: ${{ vars.SKIP_VERIFY_TELEGRAM || '1' }}
+          CROSS_CHECK: ${{ vars.CROSS_CHECK || '0' }}
+          WEB_SEARCH_MAX_USES: ${{ vars.WEB_SEARCH_MAX_USES || '1' }}
         run: |
           if [[ -n "$VAPID_PRIVATE_KEY_PEM" ]]; then
             echo "$VAPID_PRIVATE_KEY_PEM" > "$RUNNER_TEMP/vapid.pem"

@@ -1,7 +1,5 @@
 {
   "sent": [
-    "cd552ac2a4a1f426c8a039352c32b907",
-    "200d006bf31368b4ba48016f0dfb2375",
     "c383d4a0d8a19af038d3148d13c447b5",
     "93b40a7a3a3437fe313e6862172f3ec0",
     "b28496967d5584df4a49bed62e82e822",
@@ -1499,7 +1497,9 @@
     "fe4e24e5677bb0c1e9c0d28e8d593224",
     "362f46cda58b0dc2397c8dc839f1f59d",
     "cd97f4a97a45410ba2f72df639e8edbb",
-    "cf618e7accab171bd82417050632e1b0"
+    "cf618e7accab171bd82417050632e1b0",
+    "55d0cbd71c6711082b2473dfa2b0201b",
+    "57e94adb50c867e8c6d204fd0144005e"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1745,7 +1745,8 @@
     "partey -> al shabab": 2,
     "washington -> rc strasbourg": 1,
     "baleba -> manchester united": 1,
-    "gregorio -> bournemouth": 1
+    "gregorio -> bournemouth": 1,
+    "obaretin -> fc lorient": 1
   },
   "interest": [
     "interest: alvarez -> arsenal",
@@ -1962,8 +1963,6 @@
     "interest: jackson -> tottenham"
   ],
   "titles": [
-    "joao pedro commits future to chelsea with new deal until 2032",
-    "manchester united confident on baleba deal despite opening bid rejection",
     "rodri joins barcelona from manchester city on a 5 year deal until 2030",
     "inter \u2018ready\u2019 to submit another offer for curtis jones \u2013 their proposed bid is l",
     "here we go: az sell troy parrott for \u20ac20 million",
@@ -2261,11 +2260,12 @@
     "diomande pledges \u2018to die\u2019 for mourinho after \u20ac140m real madrid move",
     "julian alvarez only wants barcelona despite arsenal opening talks with atletico ",
     "video: sutalo lands for lazio medical in potential \u20ac10 5m agreement with ajax",
-    "report di gregorio targeted by bournemouth, close to juventus agreement"
+    "report di gregorio targeted by bournemouth, close to juventus agreement",
+    "tottenham reach broad agreement of close to \u00a370 million plus add ons for manches",
+    "done deal: napoli send obaretin to lorient with \u20ac3 5m option to buy"
   ],
   "tg_update_offset": 263617426,
   "photos": {
-    "savinho": "https://r2.thesportsdb.com/images/media/player/cutout/khqgy21769183420.png/small",
     "nico raskin": "https://r2.thesportsdb.com/images/media/player/cutout/zdlxoe1701946661.png/small",
     "trevoh chalobah": "https://r2.thesportsdb.com/images/media/player/cutout/leg9s71757002495.png/small",
     "johan manzambi": "https://r2.thesportsdb.com/images/media/player/cutout/pg2bjt1763328991.png/small",
@@ -2561,12 +2561,13 @@
     "deivid washington": "https://r2.thesportsdb.com/images/media/player/cutout/553nc21699732538.png/small",
     "david raum": "https://r2.thesportsdb.com/images/media/player/cutout/wxbgdk1763561343.png/small",
     "michele di gregorio": "https://r2.thesportsdb.com/images/media/player/cutout/fgvi9t1759222392.png/small",
-    "dastan satpayev": "",
     "heaven kilwa": "",
     "hermann malonga": "",
-    "tommy marques": ""
+    "tommy marques": "",
+    "nosa obaretin": "https://images.fotmob.com/image_resources/playerimages/1526621.png",
+    "dastan satpayev": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",
@@ -2728,6 +2729,7 @@
     "mallorca": "https://r2.thesportsdb.com/images/media/team/badge/ssptsx1473503730.png/small",
     "palmeiras": "https://r2.thesportsdb.com/images/media/team/badge/vsqwqp1473538105.png/small",
     "st mirren": "https://r2.thesportsdb.com/images/media/team/badge/xvtuvv1447604452.png/small",
-    "al shabab": "https://images.fotmob.com/image_resources/logo/teamlogo/101916.png"
+    "al shabab": "https://images.fotmob.com/image_resources/logo/teamlogo/101916.png",
+    "fc lorient": "https://r2.thesportsdb.com/images/media/team/badge/sxsttw1473504748.png/small"
   }
 }

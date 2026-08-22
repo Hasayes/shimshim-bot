@@ -47,18 +47,19 @@ jobs:
           # --- Cost / accuracy posture (single source of truth; tune via repo Variables) ---
           # Triage is always cheap Haiku. Web-verify (Sonnet + web search) is
           # the real spend, so it's targeted where accuracy matters most:
-          #   VERIFY_NEWS=1     verify newsdata-sourced DEALS (lower-trust source; low volume,
-          #                     since Romano/Telegram deals skip verify below) — accuracy kept
-          #   VERIFY_INTEREST=0 do NOT web-verify rumours (highest volume, inherently
-          #                     speculative) — biggest saving; free oracle gate + daily
-          #                     solidity check still catch bad ones
-          #   SKIP_VERIFY_TELEGRAM=1  trust Romano's Telegram deals — no verify (huge saving)
-          #   WEB_SEARCH_MAX_USES=2   fewer search fees per verify (was 3)
-          #   CROSS_CHECK=0     no extra Sonnet pass (daily oracle check backstops)
+          # FULLY LEAN: no web-verify at all. Triage-only Haiku + free oracle
+          # gate at poll time, then the free daily solidity check catches any
+          # wrong card after the fact. Flip any of these to '1' via repo
+          # Variables to re-enable a verify path for a busy window.
+          #   VERIFY_NEWS=0     do NOT web-verify newsdata deals — max saving
+          #   VERIFY_INTEREST=0 do NOT web-verify rumours (highest volume)
+          #   SKIP_VERIFY_TELEGRAM=1  Telegram deals skip verify (moot while both off)
+          #   WEB_SEARCH_MAX_USES=2   only applies if a verify path is re-enabled
+          #   CROSS_CHECK=0     no extra Sonnet pass
           #   ORACLE_SANITY=1   free club-oracle gate — keep on
           CLASSIFY_MODEL: ${{ vars.CLASSIFY_MODEL || 'claude-haiku-4-5' }}
           CLAUDE_MODEL: ${{ vars.CLAUDE_MODEL || 'claude-sonnet-4-6' }}
-          VERIFY_NEWS: ${{ vars.VERIFY_NEWS || '1' }}
+          VERIFY_NEWS: ${{ vars.VERIFY_NEWS || '0' }}
           VERIFY_INTEREST: ${{ vars.VERIFY_INTEREST || '0' }}
           SKIP_VERIFY_TELEGRAM: ${{ vars.SKIP_VERIFY_TELEGRAM || '1' }}
           WEB_SEARCH_MAX_USES: ${{ vars.WEB_SEARCH_MAX_USES || '2' }}

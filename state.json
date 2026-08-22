@@ -1,7 +1,5 @@
 {
   "sent": [
-    "626ed763017c69fc7a6d0da31f7096b3",
-    "b8b9c96d39b045b6113f932c42e2fae7",
     "bd1ef3a57efcc78d41d2cc12e3c3cc70",
     "46ed03679c563afa1069df842e941aed",
     "b39a21cf2ce2a0716ee25c81e7a8a2ff",
@@ -1499,7 +1497,9 @@
     "851ebdcc2d590f56022edca845249369",
     "c3d7f3de42ae39f5bee21019ad55f889",
     "fed648db7731e91a51569bf3af1bcec9",
-    "tg:FabrizioRomanoTG/65128"
+    "tg:FabrizioRomanoTG/65128",
+    "b3795453e453d33bfb74b78e7804df99",
+    "e786b49c116cc213446a8f211e981226"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1968,7 +1968,6 @@
     "interest: balde -> milan"
   ],
   "titles": [
-    "the extra layer of cruelty for ezri konsa's aston villa exit as medical looms at",
     "tottenham working on deal for savinho and omar marmoush of manchester city the a",
     "tottenham advance in talks for double deal to sign marmoush and savinho",
     "reijnders\u2019 man city exit confirmed as romano confirms renewed newcastle contact ",
@@ -2267,7 +2266,8 @@
     "chelsea reject roma\u2019s loan offer for jamie bynoe gittens",
     "romano confirms aston villa \u2018call\u2019 for man utd star as al hilal continue bidding",
     "arsenal set conditions to sign victor osimhen as berta \u2018makes contact\u2019 over anot",
-    "\ud83d\udea8 \ud83d\udfe1 \ud83d\udd34 as roma reach verbal agreement to sign jayden oosterwolde from fenerbahce,"
+    "\ud83d\udea8 \ud83d\udfe1 \ud83d\udd34 as roma reach verbal agreement to sign jayden oosterwolde from fenerbahce,",
+    "report \u2013 milan offered chance to sign \u20ac40m rated barcelona starlet"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2567,12 +2567,12 @@
     "michele di gregorio": "https://r2.thesportsdb.com/images/media/player/cutout/fgvi9t1759222392.png/small",
     "nosa obaretin": "https://images.fotmob.com/image_resources/playerimages/1526621.png",
     "kamil grabara": "https://r2.thesportsdb.com/images/media/player/cutout/vls14a1763669328.png/small",
-    "heaven kilwa": "",
     "hermann malonga": "",
     "tommy marques": "",
-    "dastan satpayev": ""
+    "dastan satpayev": "",
+    "heaven kilwa": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

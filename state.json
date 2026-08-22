@@ -1,7 +1,5 @@
 {
   "sent": [
-    "7b5489fff67e59496f21e561e8b9247a",
-    "tg:FabrizioRomanoTG/64329",
     "ab050418af8b230ff6bfaf9711e9eeda",
     "07577454e51e184d7a5c97aca80c09ed",
     "0622dffcbe9d1de669cf57d2cc03ccc1",
@@ -1499,7 +1497,9 @@
     "tg:FabrizioRomanoTG/65119",
     "d5c61bdf53b1fcde18bd232ea48f02d7",
     "4ec17abd673459a44985bc8ed11a4481",
-    "0312556d4e31b576cec0a2a3756c5cb5"
+    "0312556d4e31b576cec0a2a3756c5cb5",
+    "a8f292f166889b20a72cb7c100b788f9",
+    "tg:FabrizioRomanoTG/65122"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1967,8 +1967,6 @@
     "interest: balde -> milan"
   ],
   "titles": [
-    "medical tomorrow: arsenal agree \u00a351m+ deal to sign aston villa star ezri konsa",
-    "tottenham hotspur pursue cody gakpo deal as negotiations remain active",
     "curtis jones to inter milan: liverpool accept \u20ac35m offer for midfielder as trans",
     "arsenal agree \u00a351m deal with aston villa to sign ezri konsa",
     "fabrizio romano confirms brilliant arsenal signing is \u2018here we go\u2019 done",
@@ -2266,7 +2264,9 @@
     "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f negotiations are taking place today between manchester city and palmeiras",
     "sources: newcastle and real madrid step up interest in \u20ac60 million midfielder",
     "aston villa in talks to sign former bayern midfielder goretzka",
-    "super agent offers \u20ac40 million rated barcelona homegrown star to ac milan \u2013 roma"
+    "super agent offers \u20ac40 million rated barcelona homegrown star to ac milan \u2013 roma",
+    "psg star grows tired of liverpool transfer saga and reaches fresh decision on fu",
+    "\ud83d\udea8 \ud83d\udfe3 \ud83d\udd35 trabzonspor reach verbal agreement to sign fabinho, here we go! brazilian "
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2566,12 +2566,12 @@
     "michele di gregorio": "https://r2.thesportsdb.com/images/media/player/cutout/fgvi9t1759222392.png/small",
     "nosa obaretin": "https://images.fotmob.com/image_resources/playerimages/1526621.png",
     "kamil grabara": "https://r2.thesportsdb.com/images/media/player/cutout/vls14a1763669328.png/small",
-    "tommy marques": "",
     "dastan satpayev": "",
     "heaven kilwa": "",
-    "hermann malonga": ""
+    "hermann malonga": "",
+    "tommy marques": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

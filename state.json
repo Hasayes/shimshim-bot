@@ -1,6 +1,5 @@
 {
   "sent": [
-    "b28496967d5584df4a49bed62e82e822",
     "a05c73d2c171379d385c8ec30a3ffabb",
     "ba3f9c7b0c4c609eb8d3bce88ee03257",
     "d4a4f48c9665ee8b295e6b4dc88c4cbd",
@@ -1499,7 +1498,8 @@
     "55d0cbd71c6711082b2473dfa2b0201b",
     "57e94adb50c867e8c6d204fd0144005e",
     "b986c5e8eae6c224200c29229a2a7128",
-    "c1574a52d359c1936eb20bfe336057c9"
+    "c1574a52d359c1936eb20bfe336057c9",
+    "f4d9e23c882ad27a3a50fa7e83615df1"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1963,7 +1963,6 @@
     "interest: jackson -> tottenham"
   ],
   "titles": [
-    "here we go: az sell troy parrott for \u20ac20 million",
     "arsenal ceo sends mixed myles lewis skelly transfer messages to man utd, chelsea",
     "\u26ab\ufe0f \ud83d\udd35 \u2708\ufe0f curtis jones will fly to milano on thursday for medical tests after deal",
     "man utd, chelsea sent mixed messages by arsenal ceo in myles lewis skelly chase",
@@ -2262,7 +2261,8 @@
     "tottenham reach broad agreement of close to \u00a370 million plus add ons for manches",
     "done deal: napoli send obaretin to lorient with \u20ac3 5m option to buy",
     "liverpool likely to agree deal to sign 'elite' star with new offer",
-    "david ornstein: liverpool submit \u00a360m bid to sign new winger"
+    "david ornstein: liverpool submit \u00a360m bid to sign new winger",
+    "minteh agrees to join liverpool as insiders reveal fate of second bid"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2561,13 +2561,13 @@
     "deivid washington": "https://r2.thesportsdb.com/images/media/player/cutout/553nc21699732538.png/small",
     "david raum": "https://r2.thesportsdb.com/images/media/player/cutout/wxbgdk1763561343.png/small",
     "michele di gregorio": "https://r2.thesportsdb.com/images/media/player/cutout/fgvi9t1759222392.png/small",
-    "tommy marques": "",
     "nosa obaretin": "https://images.fotmob.com/image_resources/playerimages/1526621.png",
     "dastan satpayev": "",
     "heaven kilwa": "",
-    "hermann malonga": ""
+    "hermann malonga": "",
+    "tommy marques": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

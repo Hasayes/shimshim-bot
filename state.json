@@ -1,7 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/64304",
-    "tg:FabrizioRomanoTG/64305",
     "tg:FabrizioRomanoTG/64307",
     "tg:FabrizioRomanoTG/64308",
     "tg:FabrizioRomanoTG/64315",
@@ -1499,7 +1497,9 @@
     "948a13c7fbc65c2951ff1f891a9f62a1",
     "082dc834bda53bf228a68dd829534b07",
     "b79c96f0bd9e78679f215ae3cfacb53b",
-    "tg:FabrizioRomanoTG/65094"
+    "tg:FabrizioRomanoTG/65094",
+    "bec25d43bc0515d4606ba8785be24c0c",
+    "tg:FabrizioRomanoTG/65100"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1965,8 +1965,6 @@
     "interest: grabara -> juventus"
   ],
   "titles": [
-    "napoli in hunt for a new striker: contacts with arsenal over gabriel jesus, who ",
-    "(video): chelsea man appears after medical ahead of potential \u20ac30m move to serie",
     "the deal is done: inter snatch liverpool star",
     "juventus waiting in the wings for outgoing milan duo",
     "tottenham transfer news: liverpool to decide cody gakpo\u2019s future as spurs talks ",
@@ -2264,7 +2262,9 @@
     "manchester united agree deal to sign brighton midfielder carlos baleba",
     "minteh agreement in place as journalist \u2018daren\u2019t say\u2019 price for second winger",
     "fabrizio romano confirms major man united transfer with \u2018here we go\u2019",
-    "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f juventus are advancing in talks to sign kamil grabara as new backup goal"
+    "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f juventus are advancing in talks to sign kamil grabara as new backup goal",
+    "leeds united pushing hard to sign chelsea ace after opening bid rejected",
+    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f rb leipzig remain favorites to sign christopher nkunku as the striker wan"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2563,13 +2563,13 @@
     "david raum": "https://r2.thesportsdb.com/images/media/player/cutout/wxbgdk1763561343.png/small",
     "michele di gregorio": "https://r2.thesportsdb.com/images/media/player/cutout/fgvi9t1759222392.png/small",
     "nosa obaretin": "https://images.fotmob.com/image_resources/playerimages/1526621.png",
-    "hermann malonga": "",
     "tommy marques": "",
     "dastan satpayev": "",
     "kamil grabara": "https://r2.thesportsdb.com/images/media/player/cutout/vls14a1763669328.png/small",
-    "heaven kilwa": ""
+    "heaven kilwa": "",
+    "hermann malonga": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

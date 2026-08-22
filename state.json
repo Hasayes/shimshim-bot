@@ -1,9 +1,5 @@
 {
   "sent": [
-    "2738011be075a6f360cf7aa95229d928",
-    "fb703c1c96a23e68751ee5ee55f3b8c0",
-    "39b267d31ec8a6020555abfe18eaac19",
-    "tg:FabrizioRomanoTG/64286",
     "63a372ba3e5262198f7392507a8d4189",
     "3725668bdb1053729c0383120b8e003b",
     "eb4c051910e5ff08720e393bfeaf588c",
@@ -1499,7 +1495,11 @@
     "004d25f1fdfbba6e7dac8ea504d56164",
     "b3f31649402c84b3197e251bc1df619b",
     "07618be90d40c9f588e97cb3e277f7cd",
-    "ffbbfe8975b0d5899859cd3148561d13"
+    "ffbbfe8975b0d5899859cd3148561d13",
+    "7fd911aa07296d8c4f715e456473f35a",
+    "666882be5278a457f3573aa92806ace2",
+    "cea08b4a0c91823c34c9cb2c03c80ac1",
+    "def3b2219d577eb224d35272e3eb57ad"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1963,9 +1963,6 @@
     "interest: jackson -> tottenham"
   ],
   "titles": [
-    "barcelona not interested in colombian forward due to \u20ac80 million price tag",
-    "ornstein: arsenal close to signing ezri konsa after new aston villa talks",
-    "newcastle united open exploratory talks to sign \u00a352m man city player",
     "epl: man united set to sign carlos baleba as new proposal prepared for brighton",
     "\ud83d\udcfa new youtube video uploaded! \ud83c\udfac \ud83d\udea8 \ud83d\udca3 united: three! julian, sarr bid, martinelli ",
     "manchester united transfer news: michael carrick closes in on carlos baleba afte",
@@ -2262,7 +2259,10 @@
     "\u2018negotiations advancing\u2019 and tottenham \u2018confident\u2019 of wrapping up new signing ne",
     "fabrizio romano: newcastle open talks to sign french forward",
     "arsenal make contact with atletico madrid over julian alvarez as barcelona dream",
-    "atalanta poking around unhappy napoli star anguissa"
+    "atalanta poking around unhappy napoli star anguissa",
+    "tim sherwood thinks \u2018this\u2019 chelsea outcast could be answer to roberto de zerbi\u2019s",
+    "personal terms agreed, negotiations underway: journalist shares exciting liverpo",
+    "ajax defender lands in rome ahead of lazio medical \u2013 (video)"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2562,12 +2562,12 @@
     "david raum": "https://r2.thesportsdb.com/images/media/player/cutout/wxbgdk1763561343.png/small",
     "michele di gregorio": "https://r2.thesportsdb.com/images/media/player/cutout/fgvi9t1759222392.png/small",
     "nosa obaretin": "https://images.fotmob.com/image_resources/playerimages/1526621.png",
-    "dastan satpayev": "",
     "heaven kilwa": "",
     "hermann malonga": "",
-    "tommy marques": ""
+    "tommy marques": "",
+    "dastan satpayev": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

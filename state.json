@@ -1,6 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/64301",
     "tg:FabrizioRomanoTG/64302",
     "tg:FabrizioRomanoTG/64303",
     "tg:FabrizioRomanoTG/64304",
@@ -1499,7 +1498,8 @@
     "b370eb75b26e9b0e8acb0f28e7eea8af",
     "3804fb8e47be9d087dedce1f70412526",
     "91d4369ae9aea042e75eb5e0ec1ffdf8",
-    "948a13c7fbc65c2951ff1f891a9f62a1"
+    "948a13c7fbc65c2951ff1f891a9f62a1",
+    "082dc834bda53bf228a68dd829534b07"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1964,7 +1964,6 @@
     "interest: endrick -> liverpool"
   ],
   "titles": [
-    "romano: man utd 'very interested' in signing lewis skelly after baleba",
     "ezri konsa transfer news: arsenal in advanced talks to sign aston villa and engl",
     "napoli interested in chelsea and man united attackers as well as gabriel jesus",
     "napoli in hunt for a new striker: contacts with arsenal over gabriel jesus, who ",
@@ -2263,7 +2262,8 @@
     "carlos baleba to manchester united \u2014 how will carrick use cameroon star?",
     "carlos baleba to manchester united key details, deal agreed to sign midfielder",
     "carlos baleba: manchester united book medical for latest summer signing after ag",
-    "manchester united agree deal to sign brighton midfielder carlos baleba"
+    "manchester united agree deal to sign brighton midfielder carlos baleba",
+    "minteh agreement in place as journalist \u2018daren\u2019t say\u2019 price for second winger"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2563,12 +2563,12 @@
     "david raum": "https://r2.thesportsdb.com/images/media/player/cutout/wxbgdk1763561343.png/small",
     "michele di gregorio": "https://r2.thesportsdb.com/images/media/player/cutout/fgvi9t1759222392.png/small",
     "nosa obaretin": "https://images.fotmob.com/image_resources/playerimages/1526621.png",
-    "tommy marques": "",
     "dastan satpayev": "",
     "heaven kilwa": "",
-    "hermann malonga": ""
+    "hermann malonga": "",
+    "tommy marques": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

@@ -1,6 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/64307",
     "tg:FabrizioRomanoTG/64308",
     "tg:FabrizioRomanoTG/64315",
     "tg:FabrizioRomanoTG/64316",
@@ -1499,7 +1498,8 @@
     "b79c96f0bd9e78679f215ae3cfacb53b",
     "tg:FabrizioRomanoTG/65094",
     "bec25d43bc0515d4606ba8785be24c0c",
-    "tg:FabrizioRomanoTG/65100"
+    "tg:FabrizioRomanoTG/65100",
+    "e4df777d0e5a52abe71f0ae090c109b0"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1965,7 +1965,6 @@
     "interest: grabara -> juventus"
   ],
   "titles": [
-    "the deal is done: inter snatch liverpool star",
     "juventus waiting in the wings for outgoing milan duo",
     "tottenham transfer news: liverpool to decide cody gakpo\u2019s future as spurs talks ",
     "liverpool agree \u00a330m transfer for midfield star with 'medical planned'",
@@ -2264,7 +2263,8 @@
     "fabrizio romano confirms major man united transfer with \u2018here we go\u2019",
     "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f juventus are advancing in talks to sign kamil grabara as new backup goal",
     "leeds united pushing hard to sign chelsea ace after opening bid rejected",
-    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f rb leipzig remain favorites to sign christopher nkunku as the striker wan"
+    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f rb leipzig remain favorites to sign christopher nkunku as the striker wan",
+    "\u2018signed the official contract\u2019 \u2013 newcastle united\u2019s next signing complete read n"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2563,13 +2563,13 @@
     "david raum": "https://r2.thesportsdb.com/images/media/player/cutout/wxbgdk1763561343.png/small",
     "michele di gregorio": "https://r2.thesportsdb.com/images/media/player/cutout/fgvi9t1759222392.png/small",
     "nosa obaretin": "https://images.fotmob.com/image_resources/playerimages/1526621.png",
-    "tommy marques": "",
     "dastan satpayev": "",
     "kamil grabara": "https://r2.thesportsdb.com/images/media/player/cutout/vls14a1763669328.png/small",
     "heaven kilwa": "",
-    "hermann malonga": ""
+    "hermann malonga": "",
+    "tommy marques": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

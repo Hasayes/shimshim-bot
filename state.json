@@ -1,6 +1,5 @@
 {
   "sent": [
-    "07577454e51e184d7a5c97aca80c09ed",
     "0622dffcbe9d1de669cf57d2cc03ccc1",
     "eb172ebdf11820b4f5858ed0bacdacf7",
     "57601a3db800079234eb7202457905ef",
@@ -1499,7 +1498,8 @@
     "0312556d4e31b576cec0a2a3756c5cb5",
     "a8f292f166889b20a72cb7c100b788f9",
     "tg:FabrizioRomanoTG/65122",
-    "ebe5179a7b1bca8a4c7bc445978dbef8"
+    "ebe5179a7b1bca8a4c7bc445978dbef8",
+    "652eb1c3f13b686b051ffba702699a20"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1967,7 +1967,6 @@
     "interest: balde -> milan"
   ],
   "titles": [
-    "arsenal agree \u00a351m deal with aston villa to sign ezri konsa",
     "fabrizio romano confirms brilliant arsenal signing is \u2018here we go\u2019 done",
     "liverpool streak ends as curtis jones follows trent alexander arnold out the doo",
     "fabrizio romano reveals liverpool want barcola deal wrapped up asap but second d",
@@ -2266,7 +2265,8 @@
     "super agent offers \u20ac40 million rated barcelona homegrown star to ac milan \u2013 roma",
     "psg star grows tired of liverpool transfer saga and reaches fresh decision on fu",
     "\ud83d\udea8 \ud83d\udfe3 \ud83d\udd35 trabzonspor reach verbal agreement to sign fabinho, here we go! brazilian ",
-    "sudden major progress in the negotiations? exciting transfer option for former b"
+    "sudden major progress in the negotiations? exciting transfer option for former b",
+    "transfer news live: arsenal triple deal close, alvarez move; man utd medical; li"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2566,12 +2566,12 @@
     "michele di gregorio": "https://r2.thesportsdb.com/images/media/player/cutout/fgvi9t1759222392.png/small",
     "nosa obaretin": "https://images.fotmob.com/image_resources/playerimages/1526621.png",
     "kamil grabara": "https://r2.thesportsdb.com/images/media/player/cutout/vls14a1763669328.png/small",
-    "heaven kilwa": "",
     "hermann malonga": "",
     "tommy marques": "",
-    "dastan satpayev": ""
+    "dastan satpayev": "",
+    "heaven kilwa": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

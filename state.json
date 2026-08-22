@@ -1,7 +1,5 @@
 {
   "sent": [
-    "069db9b934e64f14dce56b0f893bfc52",
-    "2f784bf54819417e6b3f7d2599493bda",
     "tg:FabrizioRomanoTG/64283",
     "18ab7c6afd250434af0d42384c2a3887",
     "cbc95d2ada015cb6ffe38e7a96b0442b",
@@ -1499,7 +1497,9 @@
     "5480fea47f4b2b7a7d1efd320ae849b9",
     "363f44a32e950ed23c0bab887eff3c5c",
     "0a088d4a15e9f8ad44baed69ed39c758",
-    "edf20e0c5c0e2612e144202b1906e097"
+    "edf20e0c5c0e2612e144202b1906e097",
+    "60bc11cb07daadbfc5a18a79a5e1ab47",
+    "fe4e24e5677bb0c1e9c0d28e8d593224"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1962,8 +1962,6 @@
     "interest: jackson -> tottenham"
   ],
   "titles": [
-    "just in: man united closing in on deal to sign \u2018high energy\u2019 premier league midf",
-    "man utd fans react to ineos \u2018moving in silence\u2019 for carlos baleba transfer as al",
     "ornstein reveals man utd are \u2018closing in\u2019 on shock deal for third midfielder wit",
     "carlos baleba passes paul scholes demand with flying colours, roy keane will als",
     "epl: bruno fernandes rejects man utd\u2019s contract offer",
@@ -2261,7 +2259,9 @@
     "real madrid make u turn on man utd transfer decision as mourinho wants him out",
     "aston villa's watkins pushing for saudi move, tottenham agree savinho fee: live ",
     "nicolas jackson transfer latest news: aston villa lead chelsea exit race for \u00a365",
-    "iraola didn\u2019t want to sell departing liverpool star as \u2018best player\u2019 claim made "
+    "iraola didn\u2019t want to sell departing liverpool star as \u2018best player\u2019 claim made ",
+    "liverpool learn fee needed to sign yankuba minteh as ibrahim mbaye snubbed",
+    "diomande pledges \u2018to die\u2019 for mourinho after \u20ac140m real madrid move"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2561,12 +2561,12 @@
     "deivid washington": "https://r2.thesportsdb.com/images/media/player/cutout/553nc21699732538.png/small",
     "david raum": "https://r2.thesportsdb.com/images/media/player/cutout/wxbgdk1763561343.png/small",
     "michele di gregorio": "https://r2.thesportsdb.com/images/media/player/cutout/fgvi9t1759222392.png/small",
-    "dastan satpayev": "",
     "heaven kilwa": "",
     "hermann malonga": "",
-    "tommy marques": ""
+    "tommy marques": "",
+    "dastan satpayev": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

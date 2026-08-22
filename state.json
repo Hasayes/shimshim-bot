@@ -1,6 +1,5 @@
 {
   "sent": [
-    "eb172ebdf11820b4f5858ed0bacdacf7",
     "57601a3db800079234eb7202457905ef",
     "tg:FabrizioRomanoTG/64333",
     "b22a2ccfc35cc0c5015d016f363f9695",
@@ -1499,7 +1498,8 @@
     "tg:FabrizioRomanoTG/65122",
     "ebe5179a7b1bca8a4c7bc445978dbef8",
     "652eb1c3f13b686b051ffba702699a20",
-    "a4a58a3eddf5b50597449fb20c6ade4d"
+    "a4a58a3eddf5b50597449fb20c6ade4d",
+    "tg:FabrizioRomanoTG/65124"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1967,7 +1967,6 @@
     "interest: balde -> milan"
   ],
   "titles": [
-    "liverpool streak ends as curtis jones follows trent alexander arnold out the doo",
     "fabrizio romano reveals liverpool want barcola deal wrapped up asap but second d",
     "free agent dieng set for intensive lazio medical on august 20",
     "tottenham hotspur are working on a deal for a duo from manchester city alongside",
@@ -2266,7 +2265,8 @@
     "\ud83d\udea8 \ud83d\udfe3 \ud83d\udd35 trabzonspor reach verbal agreement to sign fabinho, here we go! brazilian ",
     "sudden major progress in the negotiations? exciting transfer option for former b",
     "transfer news live: arsenal triple deal close, alvarez move; man utd medical; li",
-    "man utd reach shock decision on lewis hall transfer after ineos enter bidding fo"
+    "man utd reach shock decision on lewis hall transfer after ineos enter bidding fo",
+    "\ud83d\udea8 \u26aa\ufe0f \ud83d\udd35 como reach verbal agreement to sign willy kambwala from villarreal, here "
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2566,12 +2566,12 @@
     "michele di gregorio": "https://r2.thesportsdb.com/images/media/player/cutout/fgvi9t1759222392.png/small",
     "nosa obaretin": "https://images.fotmob.com/image_resources/playerimages/1526621.png",
     "kamil grabara": "https://r2.thesportsdb.com/images/media/player/cutout/vls14a1763669328.png/small",
-    "tommy marques": "",
     "dastan satpayev": "",
     "heaven kilwa": "",
-    "hermann malonga": ""
+    "hermann malonga": "",
+    "tommy marques": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

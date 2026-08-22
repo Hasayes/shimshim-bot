@@ -1,6 +1,5 @@
 {
   "sent": [
-    "bd1ef3a57efcc78d41d2cc12e3c3cc70",
     "46ed03679c563afa1069df842e941aed",
     "b39a21cf2ce2a0716ee25c81e7a8a2ff",
     "e4a10ac43e682ea930d9faae28663df6",
@@ -1499,7 +1498,8 @@
     "fed648db7731e91a51569bf3af1bcec9",
     "tg:FabrizioRomanoTG/65128",
     "b3795453e453d33bfb74b78e7804df99",
-    "e786b49c116cc213446a8f211e981226"
+    "e786b49c116cc213446a8f211e981226",
+    "089611844c4c4db34457ce8c251e2863"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1968,7 +1968,6 @@
     "interest: balde -> milan"
   ],
   "titles": [
-    "tottenham working on deal for savinho and omar marmoush of manchester city the a",
     "tottenham advance in talks for double deal to sign marmoush and savinho",
     "reijnders\u2019 man city exit confirmed as romano confirms renewed newcastle contact ",
     "transfer: lewandowski in shock return to barcelona",
@@ -2267,7 +2266,8 @@
     "romano confirms aston villa \u2018call\u2019 for man utd star as al hilal continue bidding",
     "arsenal set conditions to sign victor osimhen as berta \u2018makes contact\u2019 over anot",
     "\ud83d\udea8 \ud83d\udfe1 \ud83d\udd34 as roma reach verbal agreement to sign jayden oosterwolde from fenerbahce,",
-    "report \u2013 milan offered chance to sign \u20ac40m rated barcelona starlet"
+    "report \u2013 milan offered chance to sign \u20ac40m rated barcelona starlet",
+    "aston villa \u2018call\u2019 man utd for plan b signing if record breaking transfer falls "
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2567,12 +2567,12 @@
     "michele di gregorio": "https://r2.thesportsdb.com/images/media/player/cutout/fgvi9t1759222392.png/small",
     "nosa obaretin": "https://images.fotmob.com/image_resources/playerimages/1526621.png",
     "kamil grabara": "https://r2.thesportsdb.com/images/media/player/cutout/vls14a1763669328.png/small",
-    "hermann malonga": "",
     "tommy marques": "",
     "dastan satpayev": "",
-    "heaven kilwa": ""
+    "heaven kilwa": "",
+    "hermann malonga": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

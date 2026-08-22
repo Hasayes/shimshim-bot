@@ -1,8 +1,5 @@
 {
   "sent": [
-    "884ea1e05a947da0762ec17625e52671",
-    "8a943e9ae918e0034a0055555984eea1",
-    "6756c228f90993d648059c11dcbeffb8",
     "tg:FabrizioRomanoTG/64280",
     "5871017566e2f335a3078eb56ecddf00",
     "5c6832a514172ffd3f614dbc45a73b3e",
@@ -1499,7 +1496,10 @@
     "a4215e151e2a7cc2acf758b79682c63e",
     "d6a63fc5bdaf02361e603d69832d98a6",
     "ba2dae95cabd9e1047952cfa2afb9de0",
-    "69f8ed3d65defcb1ced6f5fb8905881c"
+    "69f8ed3d65defcb1ced6f5fb8905881c",
+    "155c6b4f6a49a50fd8db8a20f6dfa662",
+    "01db768914497c66fae3880ad25653b5",
+    "212eb6217c8719e61748b89c1041fb6f"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1961,9 +1961,6 @@
     "interest: gyokeres -> barcelona"
   ],
   "titles": [
-    "\ud83d\udd35 \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc73\udb40\udc63\udb40\udc74\udb40\udc7f scotland u19 centre back alfie osborn has signed in at chelsea today h",
-    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f bamba dieng will undergo medical at lazio on thursday ahead of possible m",
-    "juventus face a serie a competition for man utd star",
     "bruno fernandes rejects first man utd contract offer as ineos seek \u2018solution\u2019 an",
     "\ud83d\udea8 \ud83d\udd34 \u26ab\ufe0f official: diego moreira joins ac milan from rc strasbourg \u20ac50m fixed fee,",
     "everton move for barcelona right back hits obstacles as three exciting alternati",
@@ -2260,7 +2257,10 @@
     "view: everton have benchmark for 'exciting' star's sale after what pl rivals hav",
     "here we go: barcelona reach \u20ac4 million agreement for veteran goalkeeper, who wil",
     "barcelona transfer news: catalan giants 'agree deal' for 31 year old but there's",
-    "gabby agbonlahor makes '\u00a3100m' kalvin phillips to tottenham jibe as 'deal all bu"
+    "gabby agbonlahor makes '\u00a3100m' kalvin phillips to tottenham jibe as 'deal all bu",
+    "atletico madrid agree loan deal for mallorca teenager domenech",
+    "preston north end accept \u00a33m serie a bid for striker",
+    "ac milan swap deal talks could scupper sunderland move for roma star"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2560,12 +2560,12 @@
     "deivid washington": "https://r2.thesportsdb.com/images/media/player/cutout/553nc21699732538.png/small",
     "david raum": "https://r2.thesportsdb.com/images/media/player/cutout/wxbgdk1763561343.png/small",
     "michele di gregorio": "https://r2.thesportsdb.com/images/media/player/cutout/fgvi9t1759222392.png/small",
-    "hermann malonga": "",
     "tommy marques": "",
     "dastan satpayev": "",
-    "heaven kilwa": ""
+    "heaven kilwa": "",
+    "hermann malonga": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

@@ -1,6 +1,5 @@
 {
   "sent": [
-    "ab050418af8b230ff6bfaf9711e9eeda",
     "07577454e51e184d7a5c97aca80c09ed",
     "0622dffcbe9d1de669cf57d2cc03ccc1",
     "eb172ebdf11820b4f5858ed0bacdacf7",
@@ -1499,7 +1498,8 @@
     "4ec17abd673459a44985bc8ed11a4481",
     "0312556d4e31b576cec0a2a3756c5cb5",
     "a8f292f166889b20a72cb7c100b788f9",
-    "tg:FabrizioRomanoTG/65122"
+    "tg:FabrizioRomanoTG/65122",
+    "ebe5179a7b1bca8a4c7bc445978dbef8"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1967,7 +1967,6 @@
     "interest: balde -> milan"
   ],
   "titles": [
-    "curtis jones to inter milan: liverpool accept \u20ac35m offer for midfielder as trans",
     "arsenal agree \u00a351m deal with aston villa to sign ezri konsa",
     "fabrizio romano confirms brilliant arsenal signing is \u2018here we go\u2019 done",
     "liverpool streak ends as curtis jones follows trent alexander arnold out the doo",
@@ -2266,7 +2265,8 @@
     "aston villa in talks to sign former bayern midfielder goretzka",
     "super agent offers \u20ac40 million rated barcelona homegrown star to ac milan \u2013 roma",
     "psg star grows tired of liverpool transfer saga and reaches fresh decision on fu",
-    "\ud83d\udea8 \ud83d\udfe3 \ud83d\udd35 trabzonspor reach verbal agreement to sign fabinho, here we go! brazilian "
+    "\ud83d\udea8 \ud83d\udfe3 \ud83d\udd35 trabzonspor reach verbal agreement to sign fabinho, here we go! brazilian ",
+    "sudden major progress in the negotiations? exciting transfer option for former b"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2566,12 +2566,12 @@
     "michele di gregorio": "https://r2.thesportsdb.com/images/media/player/cutout/fgvi9t1759222392.png/small",
     "nosa obaretin": "https://images.fotmob.com/image_resources/playerimages/1526621.png",
     "kamil grabara": "https://r2.thesportsdb.com/images/media/player/cutout/vls14a1763669328.png/small",
-    "dastan satpayev": "",
     "heaven kilwa": "",
     "hermann malonga": "",
-    "tommy marques": ""
+    "tommy marques": "",
+    "dastan satpayev": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

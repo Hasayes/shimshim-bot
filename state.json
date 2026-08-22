@@ -1,6 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/64303",
     "tg:FabrizioRomanoTG/64304",
     "tg:FabrizioRomanoTG/64305",
     "tg:FabrizioRomanoTG/64307",
@@ -1499,7 +1498,8 @@
     "91d4369ae9aea042e75eb5e0ec1ffdf8",
     "948a13c7fbc65c2951ff1f891a9f62a1",
     "082dc834bda53bf228a68dd829534b07",
-    "b79c96f0bd9e78679f215ae3cfacb53b"
+    "b79c96f0bd9e78679f215ae3cfacb53b",
+    "tg:FabrizioRomanoTG/65094"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1961,10 +1961,10 @@
     "interest: wharton -> liverpool",
     "interest: gyokeres -> barcelona",
     "interest: jackson -> tottenham",
-    "interest: endrick -> liverpool"
+    "interest: endrick -> liverpool",
+    "interest: grabara -> juventus"
   ],
   "titles": [
-    "napoli interested in chelsea and man united attackers as well as gabriel jesus",
     "napoli in hunt for a new striker: contacts with arsenal over gabriel jesus, who ",
     "(video): chelsea man appears after medical ahead of potential \u20ac30m move to serie",
     "the deal is done: inter snatch liverpool star",
@@ -2263,11 +2263,11 @@
     "carlos baleba: manchester united book medical for latest summer signing after ag",
     "manchester united agree deal to sign brighton midfielder carlos baleba",
     "minteh agreement in place as journalist \u2018daren\u2019t say\u2019 price for second winger",
-    "fabrizio romano confirms major man united transfer with \u2018here we go\u2019"
+    "fabrizio romano confirms major man united transfer with \u2018here we go\u2019",
+    "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f juventus are advancing in talks to sign kamil grabara as new backup goal"
   ],
   "tg_update_offset": 263617426,
   "photos": {
-    "nico raskin": "https://r2.thesportsdb.com/images/media/player/cutout/zdlxoe1701946661.png/small",
     "trevoh chalobah": "https://r2.thesportsdb.com/images/media/player/cutout/leg9s71757002495.png/small",
     "johan manzambi": "https://r2.thesportsdb.com/images/media/player/cutout/pg2bjt1763328991.png/small",
     "curtis jones": "https://r2.thesportsdb.com/images/media/player/cutout/ghs3g51757088342.png/small",
@@ -2563,12 +2563,13 @@
     "david raum": "https://r2.thesportsdb.com/images/media/player/cutout/wxbgdk1763561343.png/small",
     "michele di gregorio": "https://r2.thesportsdb.com/images/media/player/cutout/fgvi9t1759222392.png/small",
     "nosa obaretin": "https://images.fotmob.com/image_resources/playerimages/1526621.png",
-    "heaven kilwa": "",
     "hermann malonga": "",
     "tommy marques": "",
-    "dastan satpayev": ""
+    "dastan satpayev": "",
+    "kamil grabara": "https://r2.thesportsdb.com/images/media/player/cutout/vls14a1763669328.png/small",
+    "heaven kilwa": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

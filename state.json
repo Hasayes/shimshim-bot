@@ -1,6 +1,5 @@
 {
   "sent": [
-    "61a3e2d74784a31a3a2b9b9f621eddbf",
     "eb7700e55f3220a55645cae32a7ea874",
     "192d3c19bb534f31f338ab72e3cea2ce",
     "467ea2c0b3ed31e8407c69d83c0fc4e7",
@@ -1499,7 +1498,8 @@
     "060761dc543cc4729b08bc6b57690850",
     "de584d454bbad7c0f84be2753bbb9329",
     "9efb84a09e1b9b077818647949af79a7",
-    "76f40630009c04402cc775f38472328f"
+    "76f40630009c04402cc775f38472328f",
+    "164c16763e357ccde8ae4e33c2b5aed6"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1968,7 +1968,6 @@
     "interest: balde -> milan"
   ],
   "titles": [
-    "\ud83d\ude2e inter eye jesus, kone update and musso savic swap? today's market",
     "crystal palace receive bid for ismaila sarr",
     "ederson must feel even worse about man utd snub after carlos baleba revelation",
     "transfer: julian alvarez goes on strike to force atletico madrid exit",
@@ -2267,7 +2266,8 @@
     "lautaro martinez remains central to inter\u2019s long term plans",
     "fc barcelona news: 22 august 2026; preparations begin for la liga debut, alejand",
     "game over for liverpool midfielder with contract termination close anfield watch",
-    "manchester united sign cameroon midfielder baleba for \u00a370m"
+    "manchester united sign cameroon midfielder baleba for \u00a370m",
+    "chelsea turn down roma\u2019s loan offer for gittens"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2567,12 +2567,12 @@
     "michele di gregorio": "https://r2.thesportsdb.com/images/media/player/cutout/fgvi9t1759222392.png/small",
     "nosa obaretin": "https://images.fotmob.com/image_resources/playerimages/1526621.png",
     "kamil grabara": "https://r2.thesportsdb.com/images/media/player/cutout/vls14a1763669328.png/small",
-    "tommy marques": "",
     "dastan satpayev": "",
     "heaven kilwa": "",
-    "hermann malonga": ""
+    "hermann malonga": "",
+    "tommy marques": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

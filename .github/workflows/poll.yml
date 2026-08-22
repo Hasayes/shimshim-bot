@@ -44,28 +44,30 @@ jobs:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           NEWS_PROVIDER: ${{ vars.NEWS_PROVIDER || 'newsdata' }}
           NEWSDATA_PAGES: ${{ vars.NEWSDATA_PAGES || '1' }}
-          # Accuracy defaults (override via repo vars to lean out if needed)
+          # --- Cost / accuracy posture (single source of truth; tune via repo Variables) ---
+          # Triage is always cheap Haiku. Web-verify (Sonnet + web search) is
+          # the real spend, so it's targeted where accuracy matters most:
+          #   VERIFY_NEWS=1     verify newsdata-sourced DEALS (lower-trust source; low volume,
+          #                     since Romano/Telegram deals skip verify below) — accuracy kept
+          #   VERIFY_INTEREST=0 do NOT web-verify rumours (highest volume, inherently
+          #                     speculative) — biggest saving; free oracle gate + daily
+          #                     solidity check still catch bad ones
+          #   SKIP_VERIFY_TELEGRAM=1  trust Romano's Telegram deals — no verify (huge saving)
+          #   WEB_SEARCH_MAX_USES=2   fewer search fees per verify (was 3)
+          #   CROSS_CHECK=0     no extra Sonnet pass (daily oracle check backstops)
+          #   ORACLE_SANITY=1   free club-oracle gate — keep on
+          CLASSIFY_MODEL: ${{ vars.CLASSIFY_MODEL || 'claude-haiku-4-5' }}
+          CLAUDE_MODEL: ${{ vars.CLAUDE_MODEL || 'claude-sonnet-4-6' }}
           VERIFY_NEWS: ${{ vars.VERIFY_NEWS || '1' }}
-          VERIFY_INTEREST: ${{ vars.VERIFY_INTEREST || '1' }}
+          VERIFY_INTEREST: ${{ vars.VERIFY_INTEREST || '0' }}
           SKIP_VERIFY_TELEGRAM: ${{ vars.SKIP_VERIFY_TELEGRAM || '1' }}
-          WEB_SEARCH_MAX_USES: ${{ vars.WEB_SEARCH_MAX_USES || '3' }}
+          WEB_SEARCH_MAX_USES: ${{ vars.WEB_SEARCH_MAX_USES || '2' }}
+          CROSS_CHECK: ${{ vars.CROSS_CHECK || '0' }}
           ORACLE_SANITY: ${{ vars.ORACLE_SANITY || '1' }}
           VAPID_PRIVATE_KEY_PEM: ${{ secrets.VAPID_PRIVATE_KEY_PEM }}
           PUSH_SUBSCRIPTIONS: ${{ secrets.PUSH_SUBSCRIPTIONS }}
           PUSH_ENC_KEY: ${{ secrets.PUSH_ENC_KEY }}
           DRY_RUN: ${{ github.event.inputs.dry_run == 'true' && '1' || '0' }}
-          # --- Cost posture (pinned lean; override via repo Variables) ---
-          # Steady state uses ONLY cheap Haiku triage: no Sonnet, no web
-          # search, no cross-check. Flip a repo Variable to re-enable a path
-          # for a busy window; code defaults already match these values, but
-          # pinning them here prevents a default drift from silently spending.
-          CLASSIFY_MODEL: ${{ vars.CLASSIFY_MODEL || 'claude-haiku-4-5' }}
-          CLAUDE_MODEL: ${{ vars.CLAUDE_MODEL || 'claude-sonnet-4-6' }}
-          VERIFY_NEWS: ${{ vars.VERIFY_NEWS || '0' }}
-          VERIFY_INTEREST: ${{ vars.VERIFY_INTEREST || '0' }}
-          SKIP_VERIFY_TELEGRAM: ${{ vars.SKIP_VERIFY_TELEGRAM || '1' }}
-          CROSS_CHECK: ${{ vars.CROSS_CHECK || '0' }}
-          WEB_SEARCH_MAX_USES: ${{ vars.WEB_SEARCH_MAX_USES || '1' }}
         run: |
           if [[ -n "$VAPID_PRIVATE_KEY_PEM" ]]; then
             echo "$VAPID_PRIVATE_KEY_PEM" > "$RUNNER_TEMP/vapid.pem"

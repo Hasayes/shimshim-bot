@@ -1,5 +1,25 @@
 [
  {
+  "id": "608035979e2b5ad071d522a9a2a27745",
+  "ts": "2026-08-22T02:31:40+00:00",
+  "kind": "interest",
+  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/uteluc1762963819.png/small",
+  "stage": "\u2014",
+  "player": "Nicolas Jackson",
+  "position": "Striker",
+  "age": "25",
+  "from_club": "Chelsea",
+  "to_club": "Napoli, Tottenham Hotspur",
+  "fee": "\u00a365m",
+  "style": "A direct, physically imposing striker who combines pace and pressing with an ability to finish in tight situations.",
+  "fit": "His energy and goal threat would suit Aston Villa's high-tempo, transition-based attack; Tottenham would similarly benefit from his pressing and forward runs in behind.",
+  "source": "The Sunday Guardian (Arpan Mondal)",
+  "summary": "Chelsea have placed a \u00a365m valuation on Nicolas Jackson, with Aston Villa and Tottenham Hotspur making concrete approaches and holding talks with the club; Atletico Madrid, despite headline mentions, have reportedly pulled out of the race, while Napoli have also shown interest. Chelsea are open to a permanent sale this summer, though manager Xabi Alonso has suggested Jackson remains part of his plans.",
+  "outlet": "thesundayguardian",
+  "url": "https://sundayguardianlive.com/sports/nicolas-jackson-transfer-latest-news-aston-villa-lead-chelsea-exit-race-for-65m-striker-atletico-madrid-tottenham-hotspur-also-in-pursuit-266589/",
+  "title": "Nicolas Jackson Transfer Latest News: Aston Villa Lead Chelsea Exit Race For \u00a365M Striker; Atletico Madrid, Tottenham Hotspur Also in Pursuit"
+ },
+ {
   "id": "tg:FabrizioRomanoTG/65084",
   "ts": "2026-08-21T21:15:33+00:00",
   "kind": "deal",
@@ -478,26 +498,6 @@
   "outlet": "yahoo",
   "url": "https://sports.yahoo.com/articles/juventus-waiting-wings-outgoing-milan-121000810.html",
   "title": "Juventus Waiting in the Wings for Outgoing Milan Duo"
- },
- {
-  "id": "608035979e2b5ad071d522a9a2a27745",
-  "ts": "2026-08-19T23:46:32+00:00",
-  "kind": "interest",
-  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/uteluc1762963819.png/small",
-  "stage": "\u2014",
-  "player": "Nicolas Jackson",
-  "position": "Striker",
-  "age": "25",
-  "from_club": "Chelsea FC",
-  "to_club": "Napoli",
-  "fee": "\u00a365m",
-  "style": "A powerful, direct centre-forward who uses his pace and physicality to stretch defences and is effective in transition.",
-  "fit": "Napoli need a dynamic striker capable of leading the line after squad exits, and Jackson's athleticism and pressing intensity suit Antonio Conte's high-energy system.",
-  "source": "Gianluca Di Marzio",
-  "summary": "Gianluca Di Marzio (Sky Sport Italia) reports that Napoli are interested in Chelsea striker Nicolas Jackson, with Chelsea valuing him at \u00a365 million; any deal would likely require a loan structure. Napoli's pursuit of a new striker is contingent on further exits from their squad.",
-  "outlet": "football-italia",
-  "url": "https://football-italia.net/napoli-interested-in-chelsea-united-attackers/",
-  "title": "Napoli interested in Chelsea and Man United attackers as well as Gabriel Jesus"
  },
  {
   "id": "ca2daa610a6ee1507d9327888c9ddea3",

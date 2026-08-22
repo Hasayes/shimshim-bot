@@ -1,11 +1,5 @@
 {
   "sent": [
-    "892df328fbfd9678c593e4459b16d8b9",
-    "4571d68df298bb7126d0a2adf606aed8",
-    "a4f5f48f000b7c4202467ff783b0384f",
-    "tg:FabrizioRomanoTG/64294",
-    "tg:FabrizioRomanoTG/64295",
-    "tg:FabrizioRomanoTG/64296",
     "07d134109670fa292bdf1883572a2cd6",
     "tg:FabrizioRomanoTG/64301",
     "tg:FabrizioRomanoTG/64302",
@@ -1499,7 +1493,13 @@
     "44fcae1203ebfae4ca7079801ce8c882",
     "a3bf60dabf4c166038f9fe34304fc167",
     "7cc74c4c60ec185e1a570d33b3d7c2d0",
-    "5412cbb8905ba90fa7922aecabe0e173"
+    "5412cbb8905ba90fa7922aecabe0e173",
+    "63db8df130d3b8c4189ea4de4d18c0c8",
+    "e9716ad30b3222506574a19798b0632c",
+    "b439a1863b0097579f4840c02c73509a",
+    "b370eb75b26e9b0e8acb0f28e7eea8af",
+    "3804fb8e47be9d087dedce1f70412526",
+    "91d4369ae9aea042e75eb5e0ec1ffdf8"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1960,13 +1960,10 @@
     "interest: raum -> manchester united",
     "interest: wharton -> liverpool",
     "interest: gyokeres -> barcelona",
-    "interest: jackson -> tottenham"
+    "interest: jackson -> tottenham",
+    "interest: endrick -> liverpool"
   ],
   "titles": [
-    "david ornstein drops arsenal bombshell involving england international defender",
-    "man utd face \u00a313 7m transfer misery as atletico madrid raise stakes for spanish ",
-    "transfer news and rumours today: defender set for aston villa medical, jamal mus",
-    "carlos baleba's shirt number at man utd: three options if \u00a365m signing is comple",
     "arsenal transfer news: david ornstein reveals gunners are now 'closing in' on fi",
     "romano: man utd 'very interested' in signing lewis skelly after baleba",
     "ezri konsa transfer news: arsenal in advanced talks to sign aston villa and engl",
@@ -2262,7 +2259,11 @@
     "man utd \u2018agree carlos baleba transfer and land star for just over half of what b",
     "man utd \u2018agree carlos baleba transfer just hours before first game of new season",
     "epl: manchester united agree deal to sign carlos baleba",
-    "fifa suspends leandro paredes ten matches and fines argentina after malvinas ban"
+    "fifa suspends leandro paredes ten matches and fines argentina after malvinas ban",
+    "saturday's gossip: liverpool enquire about real madrid's endrick",
+    "carlos baleba to manchester united \u2014 how will carrick use cameroon star?",
+    "carlos baleba to manchester united key details, deal agreed to sign midfielder",
+    "carlos baleba: manchester united book medical for latest summer signing after ag"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2562,12 +2563,12 @@
     "david raum": "https://r2.thesportsdb.com/images/media/player/cutout/wxbgdk1763561343.png/small",
     "michele di gregorio": "https://r2.thesportsdb.com/images/media/player/cutout/fgvi9t1759222392.png/small",
     "nosa obaretin": "https://images.fotmob.com/image_resources/playerimages/1526621.png",
-    "heaven kilwa": "",
     "hermann malonga": "",
     "tommy marques": "",
-    "dastan satpayev": ""
+    "dastan satpayev": "",
+    "heaven kilwa": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

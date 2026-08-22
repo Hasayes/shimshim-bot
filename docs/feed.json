@@ -1,5 +1,25 @@
 [
  {
+  "id": "6f2238009a868e12d4dc7711ee94c1a2",
+  "ts": "2026-08-22T08:01:32+00:00",
+  "kind": "interest",
+  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/5yb3rv1733653315.png/small",
+  "stage": "\u2014",
+  "player": "Endrick",
+  "position": "Forward",
+  "age": "20",
+  "from_club": "Real Madrid",
+  "to_club": "AC Milan, Liverpool",
+  "fee": "Undisclosed",
+  "style": "Dynamic and clinical Brazilian forward who combines pace, technical flair, and sharp finishing in tight spaces.",
+  "fit": "Would offer Liverpool a high-upside attacking option with elite potential, though his preferred use as a central striker suits a rotation or high-press system.",
+  "source": "Paul Joyce / The Times",
+  "summary": "Liverpool have approached Real Madrid to enquire about the availability of Endrick, per Paul Joyce of The Times, corroborated by ESPN Brasil. Real Madrid are reportedly unwilling to sanction a permanent departure and Endrick himself has no intention of leaving, with the Spanish club open only to a loan \u2014 a format that does not suit Liverpool's preference for a permanent deal.",
+  "outlet": "bbc",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cy4kjg3j4d3o",
+  "title": "Saturday's gossip: Liverpool enquire about Real Madrid's Endrick"
+ },
+ {
   "id": "57e94adb50c867e8c6d204fd0144005e",
   "ts": "2026-08-22T04:31:38+00:00",
   "kind": "deal",
@@ -738,26 +758,6 @@
   "outlet": "Telegram @fabrizioromanotg",
   "url": "https://t.me/FabrizioRomanoTG/64843",
   "title": "\u26aa\ufe0f \u26ab\ufe0f \u270d\ud83c\udffb Guglielmo Vicario has signed his contract as new Juventus goalkeeper from Spurs. Free loan, \u20ac8m buy option clau"
- },
- {
-  "id": "6f2238009a868e12d4dc7711ee94c1a2",
-  "ts": "2026-08-18T10:31:29+00:00",
-  "kind": "interest",
-  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/5yb3rv1733653315.png/small",
-  "stage": "\u2014",
-  "player": "Endrick",
-  "position": "Forward",
-  "age": "19",
-  "from_club": "Real Madrid",
-  "to_club": "AC Milan",
-  "fee": "Undisclosed",
-  "style": "An explosive, direct forward with pace, technical ability and a natural instinct for goal.",
-  "fit": "Would provide AC Milan with a dynamic attacking threat, though Real Madrid have rejected the loan approach and no deal is currently close.",
-  "source": "Fabrizio Romano",
-  "summary": "AC Milan owner Gerry Cardinale personally contacted Real Madrid and Endrick's agents to explore a loan move, but Real Madrid swiftly rejected the proposal. AS Roma made a similar approach and received the same negative response, with Endrick himself reportedly keen to fight for his place at the Bernab\u00e9u.",
-  "outlet": "yardbarker",
-  "url": "https://www.yardbarker.com/soccer/articles/ac_milan_make_move_for_endrick_as_real_madrid_deliver_huge_response_to_loan_proposal/s1_17664_44187636",
-  "title": "AC Milan make move for Endrick as Real Madrid deliver huge response to loan proposal"
  },
  {
   "id": "0b855f517457a3b8400ff98024929561",

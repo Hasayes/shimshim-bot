@@ -1,6 +1,5 @@
 {
   "sent": [
-    "5871017566e2f335a3078eb56ecddf00",
     "5c6832a514172ffd3f614dbc45a73b3e",
     "9726aa39f01df0377afb4c745b3c67a6",
     "76cb742216655f7d14726f0b7c8580da",
@@ -1499,7 +1498,8 @@
     "155c6b4f6a49a50fd8db8a20f6dfa662",
     "01db768914497c66fae3880ad25653b5",
     "212eb6217c8719e61748b89c1041fb6f",
-    "e3e125d871501f33282841927737ce6f"
+    "e3e125d871501f33282841927737ce6f",
+    "12ba4ebe209b780cd16985ad5b04e0c8"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1961,7 +1961,6 @@
     "interest: gyokeres -> barcelona"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83d\udd34 \u26ab\ufe0f official: diego moreira joins ac milan from rc strasbourg \u20ac50m fixed fee,",
     "everton move for barcelona right back hits obstacles as three exciting alternati",
     "flashscore sources: man utd drawing up forward shortlist ahead of zirkzee depart",
     "david ornstein: man utd close in on carlos baleba transfer after \u00a365m bid",
@@ -2260,7 +2259,8 @@
     "atletico madrid agree loan deal for mallorca teenager domenech",
     "preston north end accept \u00a33m serie a bid for striker",
     "ac milan swap deal talks could scupper sunderland move for roma star",
-    "liverpool transfer news live: bradley barcola latest, yankuba minteh bid, curtis"
+    "liverpool transfer news live: bradley barcola latest, yankuba minteh bid, curtis",
+    "transfer news: official sunderland stance on jules ahoka deal outlined amid fres"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2560,12 +2560,12 @@
     "deivid washington": "https://r2.thesportsdb.com/images/media/player/cutout/553nc21699732538.png/small",
     "david raum": "https://r2.thesportsdb.com/images/media/player/cutout/wxbgdk1763561343.png/small",
     "michele di gregorio": "https://r2.thesportsdb.com/images/media/player/cutout/fgvi9t1759222392.png/small",
-    "dastan satpayev": "",
     "heaven kilwa": "",
     "hermann malonga": "",
-    "tommy marques": ""
+    "tommy marques": "",
+    "dastan satpayev": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

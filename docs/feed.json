@@ -1,5 +1,29 @@
 [
  {
+  "id": "043641c4cf256f96b8d11c8acac6a308",
+  "ts": "2026-08-22T21:00:43+00:00",
+  "kind": "deal",
+  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/iagott1769030864.png/small",
+  "stage": "Completed",
+  "player": "Ifeanyi Ndukwe",
+  "position": "\u2014",
+  "age": "\u2014",
+  "from_club": "Liverpool",
+  "to_club": "Levante",
+  "fee": "\u2014",
+  "style": "\u2014",
+  "fit": "\u2014",
+  "source": "Liverpool FC",
+  "sources": [
+   "Liverpool FC"
+  ],
+  "srcTier": "standard",
+  "summary": "Ifeanyi Ndukwe completes his move to Liverpool and joins Levante on loan.",
+  "outlet": "google",
+  "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOV3ByZ3hyTGJGRkx1N3h0NDlsSU95UTNqNmg4NXN2cFl1U1VPbGh0M2d6RWRuR1F1SG1ueHZuT0gxVGpkS2FTTG9ZM2VKVk9tNXJndTRoNERfVWtQZWlPNXFFZ1AtMWJwZWtIa1RldDZWNFpWMkhELVh0TUhMZzUyaTllTEgwQzNkVFFPR0JwWUF6R0tCOHNsR2RsONIBowFBVV95cUxOdlp3TnFSakw2MVI4ak5ISTVDSDMtUmozRTl1X1NlcmRqQUJxbVRtY3NQSXE2RnJBRlpPZTdBSlI3X01OMW9sT1gyRUpjV1FmRmg4a2NHMkNiSGdjbDRmdmJfNTU4ZTd2NjZHZFdkMVFtdDNucGhjVjB1MS1mLUpUUWpjcTZ6ZHFIcE9WV00zNk1XaTVlVmY3N1BOZXV4RTJSRm00?oc=5",
+  "title": "Ifeanyi Ndukwe completes Liverpool move and joins Levante on loan - Liverpool FC"
+ },
+ {
   "id": "4f992a3932f188c9a1186bed9a6f53ea",
   "ts": "2026-08-22T18:00:41+00:00",
   "kind": "interest",

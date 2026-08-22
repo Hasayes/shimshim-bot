@@ -1,8 +1,5 @@
 {
   "sent": [
-    "57601a3db800079234eb7202457905ef",
-    "tg:FabrizioRomanoTG/64333",
-    "b22a2ccfc35cc0c5015d016f363f9695",
     "13b8eedc42d6d6812673a458c3ff3294",
     "22e00e5a13d97439cdded821faf99268",
     "61a3e2d74784a31a3a2b9b9f621eddbf",
@@ -1499,7 +1496,10 @@
     "ebe5179a7b1bca8a4c7bc445978dbef8",
     "652eb1c3f13b686b051ffba702699a20",
     "a4a58a3eddf5b50597449fb20c6ade4d",
-    "tg:FabrizioRomanoTG/65124"
+    "tg:FabrizioRomanoTG/65124",
+    "043641c4cf256f96b8d11c8acac6a308",
+    "060761dc543cc4729b08bc6b57690850",
+    "de584d454bbad7c0f84be2753bbb9329"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1747,7 +1747,8 @@
     "baleba -> manchester united": 1,
     "gregorio -> bournemouth": 1,
     "obaretin -> fc lorient": 1,
-    "marmoush -> tottenham": 1
+    "marmoush -> tottenham": 1,
+    "ndukwe -> levante": 2
   },
   "interest": [
     "interest: alvarez -> arsenal",
@@ -1967,9 +1968,6 @@
     "interest: balde -> milan"
   ],
   "titles": [
-    "fabrizio romano reveals liverpool want barcola deal wrapped up asap but second d",
-    "free agent dieng set for intensive lazio medical on august 20",
-    "tottenham hotspur are working on a deal for a duo from manchester city alongside",
     "joao pedro signs new chelsea deal",
     "manchester united make approach to sign barcelona star after \u00a365m rodri transfer",
     "\ud83d\ude2e inter eye jesus, kone update and musso savic swap? today's market",
@@ -2266,7 +2264,10 @@
     "sudden major progress in the negotiations? exciting transfer option for former b",
     "transfer news live: arsenal triple deal close, alvarez move; man utd medical; li",
     "man utd reach shock decision on lewis hall transfer after ineos enter bidding fo",
-    "\ud83d\udea8 \u26aa\ufe0f \ud83d\udd35 como reach verbal agreement to sign willy kambwala from villarreal, here "
+    "\ud83d\udea8 \u26aa\ufe0f \ud83d\udd35 como reach verbal agreement to sign willy kambwala from villarreal, here ",
+    "ifeanyi ndukwe completes liverpool move and joins levante on loan liverpool fc",
+    "lautaro martinez remains central to inter\u2019s long term plans",
+    "fc barcelona news: 22 august 2026; preparations begin for la liga debut, alejand"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2566,12 +2567,12 @@
     "michele di gregorio": "https://r2.thesportsdb.com/images/media/player/cutout/fgvi9t1759222392.png/small",
     "nosa obaretin": "https://images.fotmob.com/image_resources/playerimages/1526621.png",
     "kamil grabara": "https://r2.thesportsdb.com/images/media/player/cutout/vls14a1763669328.png/small",
-    "dastan satpayev": "",
     "heaven kilwa": "",
     "hermann malonga": "",
-    "tommy marques": ""
+    "tommy marques": "",
+    "dastan satpayev": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

@@ -1,6 +1,5 @@
 {
   "sent": [
-    "e2fa37d103ae0920d8722a369a41deab",
     "892df328fbfd9678c593e4459b16d8b9",
     "4571d68df298bb7126d0a2adf606aed8",
     "a4f5f48f000b7c4202467ff783b0384f",
@@ -1499,7 +1498,8 @@
     "9a6e9c9e77377ba712cd88c8a36ff396",
     "44fcae1203ebfae4ca7079801ce8c882",
     "a3bf60dabf4c166038f9fe34304fc167",
-    "7cc74c4c60ec185e1a570d33b3d7c2d0"
+    "7cc74c4c60ec185e1a570d33b3d7c2d0",
+    "5412cbb8905ba90fa7922aecabe0e173"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1963,7 +1963,6 @@
     "interest: jackson -> tottenham"
   ],
   "titles": [
-    "arsenal get new transfer update as napoli 'make enquiries' for gabriel jesus alt",
     "david ornstein drops arsenal bombshell involving england international defender",
     "man utd face \u00a313 7m transfer misery as atletico madrid raise stakes for spanish ",
     "transfer news and rumours today: defender set for aston villa medical, jamal mus",
@@ -2262,7 +2261,8 @@
     "'here we go' man utd agree deal to sign brighton star carlos baleba",
     "man utd \u2018agree carlos baleba transfer and land star for just over half of what b",
     "man utd \u2018agree carlos baleba transfer just hours before first game of new season",
-    "epl: manchester united agree deal to sign carlos baleba"
+    "epl: manchester united agree deal to sign carlos baleba",
+    "fifa suspends leandro paredes ten matches and fines argentina after malvinas ban"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2562,12 +2562,12 @@
     "david raum": "https://r2.thesportsdb.com/images/media/player/cutout/wxbgdk1763561343.png/small",
     "michele di gregorio": "https://r2.thesportsdb.com/images/media/player/cutout/fgvi9t1759222392.png/small",
     "nosa obaretin": "https://images.fotmob.com/image_resources/playerimages/1526621.png",
-    "dastan satpayev": "",
     "heaven kilwa": "",
     "hermann malonga": "",
-    "tommy marques": ""
+    "tommy marques": "",
+    "dastan satpayev": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

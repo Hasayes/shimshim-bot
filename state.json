@@ -1,7 +1,5 @@
 {
   "sent": [
-    "2325fd8ded0972e4e603396629f1f37d",
-    "0d088dc8c870eb632157adaf26ab7ce1",
     "884ea1e05a947da0762ec17625e52671",
     "8a943e9ae918e0034a0055555984eea1",
     "6756c228f90993d648059c11dcbeffb8",
@@ -1499,7 +1497,9 @@
     "c1d5932bc2b20939c1a63ace62358dd4",
     "8155a088b1e9c0ee34f0fbfb0b248a16",
     "a4215e151e2a7cc2acf758b79682c63e",
-    "d6a63fc5bdaf02361e603d69832d98a6"
+    "d6a63fc5bdaf02361e603d69832d98a6",
+    "ba2dae95cabd9e1047952cfa2afb9de0",
+    "69f8ed3d65defcb1ced6f5fb8905881c"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1961,8 +1961,6 @@
     "interest: gyokeres -> barcelona"
   ],
   "titles": [
-    "romano \u2018clarifies two things\u2019 after bruno fernandes \u2018rejects\u2019 man utd contract r",
-    "why madrid did not sign rodri \u2014 mourinho",
     "\ud83d\udd35 \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc73\udb40\udc63\udb40\udc74\udb40\udc7f scotland u19 centre back alfie osborn has signed in at chelsea today h",
     "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f bamba dieng will undergo medical at lazio on thursday ahead of possible m",
     "juventus face a serie a competition for man utd star",
@@ -2260,7 +2258,9 @@
     "when tottenham could green light mikey moore exit as timeframe emerges",
     "liverpool reach decision on new yankuba minteh bid after brighton snub \u00a350m offe",
     "view: everton have benchmark for 'exciting' star's sale after what pl rivals hav",
-    "here we go: barcelona reach \u20ac4 million agreement for veteran goalkeeper, who wil"
+    "here we go: barcelona reach \u20ac4 million agreement for veteran goalkeeper, who wil",
+    "barcelona transfer news: catalan giants 'agree deal' for 31 year old but there's",
+    "gabby agbonlahor makes '\u00a3100m' kalvin phillips to tottenham jibe as 'deal all bu"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2560,12 +2560,12 @@
     "deivid washington": "https://r2.thesportsdb.com/images/media/player/cutout/553nc21699732538.png/small",
     "david raum": "https://r2.thesportsdb.com/images/media/player/cutout/wxbgdk1763561343.png/small",
     "michele di gregorio": "https://r2.thesportsdb.com/images/media/player/cutout/fgvi9t1759222392.png/small",
-    "heaven kilwa": "",
     "hermann malonga": "",
     "tommy marques": "",
-    "dastan satpayev": ""
+    "dastan satpayev": "",
+    "heaven kilwa": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

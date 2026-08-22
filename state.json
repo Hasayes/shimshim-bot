@@ -1,6 +1,5 @@
 {
   "sent": [
-    "cbc95d2ada015cb6ffe38e7a96b0442b",
     "cd552ac2a4a1f426c8a039352c32b907",
     "200d006bf31368b4ba48016f0dfb2375",
     "c383d4a0d8a19af038d3148d13c447b5",
@@ -1499,7 +1498,8 @@
     "60bc11cb07daadbfc5a18a79a5e1ab47",
     "fe4e24e5677bb0c1e9c0d28e8d593224",
     "362f46cda58b0dc2397c8dc839f1f59d",
-    "cd97f4a97a45410ba2f72df639e8edbb"
+    "cd97f4a97a45410ba2f72df639e8edbb",
+    "cf618e7accab171bd82417050632e1b0"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1962,7 +1962,6 @@
     "interest: jackson -> tottenham"
   ],
   "titles": [
-    "epl: bruno fernandes rejects man utd\u2019s contract offer",
     "joao pedro commits future to chelsea with new deal until 2032",
     "manchester united confident on baleba deal despite opening bid rejection",
     "rodri joins barcelona from manchester city on a 5 year deal until 2030",
@@ -2261,7 +2260,8 @@
     "liverpool learn fee needed to sign yankuba minteh as ibrahim mbaye snubbed",
     "diomande pledges \u2018to die\u2019 for mourinho after \u20ac140m real madrid move",
     "julian alvarez only wants barcelona despite arsenal opening talks with atletico ",
-    "video: sutalo lands for lazio medical in potential \u20ac10 5m agreement with ajax"
+    "video: sutalo lands for lazio medical in potential \u20ac10 5m agreement with ajax",
+    "report di gregorio targeted by bournemouth, close to juventus agreement"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2561,12 +2561,12 @@
     "deivid washington": "https://r2.thesportsdb.com/images/media/player/cutout/553nc21699732538.png/small",
     "david raum": "https://r2.thesportsdb.com/images/media/player/cutout/wxbgdk1763561343.png/small",
     "michele di gregorio": "https://r2.thesportsdb.com/images/media/player/cutout/fgvi9t1759222392.png/small",
-    "tommy marques": "",
     "dastan satpayev": "",
     "heaven kilwa": "",
-    "hermann malonga": ""
+    "hermann malonga": "",
+    "tommy marques": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

@@ -1,9 +1,5 @@
 {
   "sent": [
-    "8d8553569cfce01a401183a574187ebd",
-    "d143c64190764afe848f7a15608340a2",
-    "87e658299e0d4c9360e7d16a9f441875",
-    "fdb95d3a80ca5793b0858cb8f9d79f1f",
     "2738011be075a6f360cf7aa95229d928",
     "fb703c1c96a23e68751ee5ee55f3b8c0",
     "39b267d31ec8a6020555abfe18eaac19",
@@ -1499,7 +1495,11 @@
     "46f1b98c2b12b9164e49da4785286cb6",
     "8c32ff32cb08a73bfccf27ffbe180c0d",
     "3a5529ede729e6979b1c1b895559f27b",
-    "60755e743e1a44cd59003d91f711027f"
+    "60755e743e1a44cd59003d91f711027f",
+    "004d25f1fdfbba6e7dac8ea504d56164",
+    "b3f31649402c84b3197e251bc1df619b",
+    "07618be90d40c9f588e97cb3e277f7cd",
+    "ffbbfe8975b0d5899859cd3148561d13"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1963,10 +1963,6 @@
     "interest: jackson -> tottenham"
   ],
   "titles": [
-    "emmanuel petit warns \u00a3130m liverpool target amid arsenal transfer speculation me",
-    "man city \u2018open talks\u2019 to sign chelsea replacement for enzo fernandez",
-    "sky sports confirm carlos baleba contract length at manchester united",
-    "barcelona not interested in colombian forward due to \u20ac80 million price tag barca",
     "barcelona not interested in colombian forward due to \u20ac80 million price tag",
     "ornstein: arsenal close to signing ezri konsa after new aston villa talks",
     "newcastle united open exploratory talks to sign \u00a352m man city player",
@@ -2262,7 +2258,11 @@
     "minteh agrees to join liverpool as insiders reveal fate of second bid",
     "bournemouth transfer news: cherries in 'advanced talks' to sign juventus goalkee",
     "report nkunku preference for rb leipzig, but newcastle united have best offer",
-    "minteh green lights liverpool switch as insiders reveal second bid\u2019s status"
+    "minteh green lights liverpool switch as insiders reveal second bid\u2019s status",
+    "\u2018negotiations advancing\u2019 and tottenham \u2018confident\u2019 of wrapping up new signing ne",
+    "fabrizio romano: newcastle open talks to sign french forward",
+    "arsenal make contact with atletico madrid over julian alvarez as barcelona dream",
+    "atalanta poking around unhappy napoli star anguissa"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2562,12 +2562,12 @@
     "david raum": "https://r2.thesportsdb.com/images/media/player/cutout/wxbgdk1763561343.png/small",
     "michele di gregorio": "https://r2.thesportsdb.com/images/media/player/cutout/fgvi9t1759222392.png/small",
     "nosa obaretin": "https://images.fotmob.com/image_resources/playerimages/1526621.png",
-    "tommy marques": "",
     "dastan satpayev": "",
     "heaven kilwa": "",
-    "hermann malonga": ""
+    "hermann malonga": "",
+    "tommy marques": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

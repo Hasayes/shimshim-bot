@@ -1,5 +1,30 @@
 [
  {
+  "id": "4f992a3932f188c9a1186bed9a6f53ea",
+  "ts": "2026-08-22T18:00:41+00:00",
+  "kind": "interest",
+  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/ix83yt1768321088.png/small",
+  "stage": "\u2014",
+  "player": "Alejandro Balde",
+  "position": "Defender",
+  "age": "22",
+  "from_club": "Barcelona",
+  "to_club": "Manchester United, AC Milan",
+  "fee": "\u20ac40 million",
+  "style": "Attack-minded left-back with excellent pace and dribbling ability who contributes significantly in the offensive phase.",
+  "fit": "Could provide Milan with a dynamic left flank option combining defensive solidity with creative ball progression in their tactical system.",
+  "source": "Romano",
+  "summary": "Super agent has offered Barcelona homegrown defender Alejandro Balde to AC Milan; Balde is no longer viewed as completely untouchable at Barcelona despite his youth academy background.",
+  "outlet": "yahoo",
+  "url": "https://sports.yahoo.com/articles/super-agent-offers-40-million-060000732.html",
+  "title": "Super agent offers \u20ac40 million-rated Barcelona homegrown star to AC Milan \u2013 Romano",
+  "sources": [
+   "Fabrizio Romano",
+   "Romano"
+  ],
+  "srcTier": "tier1"
+ },
+ {
   "id": "6d886f0f27fd979edeb89c83a5848140",
   "ts": "2026-08-22T16:15:35+00:00",
   "kind": "deal",
@@ -382,30 +407,6 @@
   "outlet": "Telegram @fabrizioromanotg",
   "url": "https://t.me/FabrizioRomanoTG/65017",
   "title": "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 Crystal Palace reach verbal agreement to sign Axel Disasi from Chelsea, here we go! \ud83e\udd85 Understand Disasi is undergo",
-  "sources": [
-   "Fabrizio Romano"
-  ],
-  "srcTier": "tier1"
- },
- {
-  "id": "4f992a3932f188c9a1186bed9a6f53ea",
-  "ts": "2026-08-21T03:01:31+00:00",
-  "kind": "interest",
-  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/ix83yt1768321088.png/small",
-  "stage": "\u2014",
-  "player": "Alejandro Balde",
-  "position": "Left-back",
-  "age": "22",
-  "from_club": "FC Barcelona",
-  "to_club": "Manchester United",
-  "fee": "Undisclosed",
-  "style": "An attack-minded left-back who combines pace, dribbling, and overlapping runs with solid defensive awareness.",
-  "fit": "Would provide Manchester United with a dynamic, modern full-back capable of contributing heavily in wide attacking phases, addressing their identified left-back priority.",
-  "source": "Fabrizio Romano",
-  "summary": "Manchester United have contacted super-agent Jorge Mendes to enquire about the availability of Alejandro Balde, per Fabrizio Romano. The move remains at early enquiry stage with no formal bid made, and Balde himself is reported to have no intention of leaving Barcelona.",
-  "outlet": "givemesport",
-  "url": "https://www.givemesport.com/breaking-man-utd-transfer-talks-alejandro-balde-barcelona/",
-  "title": "Romano: Man Utd in Talks to Sign Barcelona Star Alejandro Balde",
   "sources": [
    "Fabrizio Romano"
   ],

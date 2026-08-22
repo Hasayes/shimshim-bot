@@ -1,6 +1,5 @@
 {
   "sent": [
-    "ba3f9c7b0c4c609eb8d3bce88ee03257",
     "d4a4f48c9665ee8b295e6b4dc88c4cbd",
     "9531ef9f34204a385cdbde95ef277cb1",
     "8d8553569cfce01a401183a574187ebd",
@@ -1499,7 +1498,8 @@
     "b986c5e8eae6c224200c29229a2a7128",
     "c1574a52d359c1936eb20bfe336057c9",
     "f4d9e23c882ad27a3a50fa7e83615df1",
-    "46f1b98c2b12b9164e49da4785286cb6"
+    "46f1b98c2b12b9164e49da4785286cb6",
+    "8c32ff32cb08a73bfccf27ffbe180c0d"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1963,7 +1963,6 @@
     "interest: jackson -> tottenham"
   ],
   "titles": [
-    "\u26ab\ufe0f \ud83d\udd35 \u2708\ufe0f curtis jones will fly to milano on thursday for medical tests after deal",
     "man utd, chelsea sent mixed messages by arsenal ceo in myles lewis skelly chase",
     "emmanuel petit warns \u00a3130m liverpool target amid arsenal transfer speculation me",
     "man city \u2018open talks\u2019 to sign chelsea replacement for enzo fernandez",
@@ -2262,7 +2261,8 @@
     "liverpool likely to agree deal to sign 'elite' star with new offer",
     "david ornstein: liverpool submit \u00a360m bid to sign new winger",
     "minteh agrees to join liverpool as insiders reveal fate of second bid",
-    "bournemouth transfer news: cherries in 'advanced talks' to sign juventus goalkee"
+    "bournemouth transfer news: cherries in 'advanced talks' to sign juventus goalkee",
+    "report nkunku preference for rb leipzig, but newcastle united have best offer"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2562,12 +2562,12 @@
     "david raum": "https://r2.thesportsdb.com/images/media/player/cutout/wxbgdk1763561343.png/small",
     "michele di gregorio": "https://r2.thesportsdb.com/images/media/player/cutout/fgvi9t1759222392.png/small",
     "nosa obaretin": "https://images.fotmob.com/image_resources/playerimages/1526621.png",
-    "heaven kilwa": "",
     "hermann malonga": "",
     "tommy marques": "",
-    "dastan satpayev": ""
+    "dastan satpayev": "",
+    "heaven kilwa": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

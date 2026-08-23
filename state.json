@@ -1,7 +1,5 @@
 {
   "sent": [
-    "946164e2904a9f281efa5456ba0540ea",
-    "tg:FabrizioRomanoTG/64360",
     "d85ee43240e02759fddd909e937ddcc8",
     "tg:FabrizioRomanoTG/64363",
     "tg:FabrizioRomanoTG/64364",
@@ -1499,7 +1497,9 @@
     "efb69bce1e1b6348a23f86aee37f9185",
     "a6dcd463ae4d63b37e4ba417622d23b6",
     "ff90f35c6034688046bc5cadd28c8742",
-    "7da0940add6678706aadabb8891e1a50"
+    "7da0940add6678706aadabb8891e1a50",
+    "c4b6ecd1dcafa748dc1bf397263ef2c2",
+    "c8798a04f5ac20d868a6405d037a0b92"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1971,7 +1971,6 @@
     "interest: bartishvili -> arsenal"
   ],
   "titles": [
-    "\ud83d\udea8 \u2692\ufe0f west ham agree deal to sign divine mukasa from man city, here we go! deal d",
     "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f joao palhinha to benfica, here we go! verbal agreement with fc bayern don",
     "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f atletico madrid have reached verbal agreement to sign 19 year old talent ",
     "liverpool announce winger transfer and romano confirms another deal agreed",
@@ -2270,7 +2269,8 @@
     "official: napoli loan chelsea defender with \u20ac27m option to buy as blues trim squ",
     "official: napoli sign chelsea defender badiashile on loan with \u20ac20m buy option",
     "this is what must happen if psv are to cooperate with dennis man's departure",
-    "liverpool get new bradley barcola and ibrahim mbaye update liverpool fc"
+    "liverpool get new bradley barcola and ibrahim mbaye update liverpool fc",
+    "liverpool transfer boost as bradley barcola and ibrahima mbaye both dropped from"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2569,13 +2569,13 @@
     "nosa obaretin": "https://images.fotmob.com/image_resources/playerimages/1526621.png",
     "kamil grabara": "https://r2.thesportsdb.com/images/media/player/cutout/vls14a1763669328.png/small",
     "ismaila sarr": "https://r2.thesportsdb.com/images/media/player/cutout/1abo611761492444.png/small",
-    "tommy marques": "",
     "dastan satpayev": "",
     "heaven kilwa": "",
     "hermann malonga": "",
-    "andria bartishvili": ""
+    "andria bartishvili": "",
+    "tommy marques": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

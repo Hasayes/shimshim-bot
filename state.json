@@ -1,8 +1,5 @@
 {
   "sent": [
-    "97db10e64d7c0842721d4b4697beddcd",
-    "f6acf5c8c48133349abfacd31397dd41",
-    "tg:FabrizioRomanoTG/64381",
     "d6dbcfb6f76a9c36327c6191b1f58d0b",
     "tg:FabrizioRomanoTG/64383",
     "tg:FabrizioRomanoTG/64384",
@@ -1499,7 +1496,10 @@
     "e25690e47543fba74cccd2d8bc4ac1bd",
     "833b27836f37c75eca786b8a27c5612f",
     "17bf53be95a5e933d69bc2a81fd4bf48",
-    "d51e22c8961043a32f482fb65b726662"
+    "d51e22c8961043a32f482fb65b726662",
+    "f2af5c4e5e05ff5e2780e0c0f779a813",
+    "b9f08bd39d1fb633e71b8ff1c613c41c",
+    "b3d74530468dfc8c4d60e9538e656235"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1973,9 +1973,6 @@
     "interest: martinez -> real madrid"
   ],
   "titles": [
-    "blackburn rovers implications after man city's adam wharton 'enquiry'",
-    "transfer news live: liverpool have minteh bid rejected, city enquire for wharton",
-    "stankovic wants to fight for his place at inter and isn\u2019t interested in a loan m",
     "crystal palace reach decision on selling adam wharton to liverpool or man city f",
     "\ud83d\udea8 \u26aa\ufe0f breaking: tottenham reach verbal agreement with manchester city to sign sav",
     "ajax can sell sutalo next year for a maximum of \u20ac15 million",
@@ -2272,7 +2269,10 @@
     "fabrizio romano exclusive: liverpool target agrees to seal dream lfc transfer on",
     "barcelona top target only wants to move to camp nou amid arsenal interest \u2013 roma",
     "fabrizio romano confirms liverpool are days away from massive transfer",
-    "goretzka signs in the premier league after leaving bayern munich"
+    "goretzka signs in the premier league after leaving bayern munich",
+    "arsenal send new message to julian alvarez after transfer talks",
+    "fabrizio romano claims tottenham \u201cconfident\u201d of signing versatile attacker by st",
+    "barcelona begin negotiations with forward\u2019s agent amid plans to convert him into"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2571,13 +2571,13 @@
     "ismaila sarr": "https://r2.thesportsdb.com/images/media/player/cutout/1abo611761492444.png/small",
     "sergio martinez": "https://images.fotmob.com/image_resources/playerimages/1791769.png",
     "jayden oosterwolde": "https://r2.thesportsdb.com/images/media/player/cutout/w0b1a71724844526.png/small",
-    "dastan satpayev": "",
     "heaven kilwa": "",
     "hermann malonga": "",
     "andria bartishvili": "",
-    "tommy marques": ""
+    "tommy marques": "",
+    "dastan satpayev": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

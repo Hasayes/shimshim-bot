@@ -1,5 +1,29 @@
 [
  {
+  "id": "a7815f12f4712e7e6896510922bc9ce8",
+  "ts": "2026-08-23T10:00:44+00:00",
+  "kind": "deal",
+  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/w0b1a71724844526.png/small",
+  "stage": "Completed",
+  "player": "Jayden Oosterwolde",
+  "position": "\u2014",
+  "age": "\u2014",
+  "from_club": "Fenerbahce",
+  "to_club": "Roma",
+  "fee": "\u20ac18m purchase option",
+  "style": "\u2014",
+  "fit": "\u2014",
+  "source": "football-italia",
+  "sources": [
+   "football-italia"
+  ],
+  "srcTier": "standard",
+  "summary": "Roma have agreed terms with Fenerbahce for Jayden Oosterwolde's transfer, with an \u20ac18m purchase option included in the deal.",
+  "outlet": "football-italia",
+  "url": "https://football-italia.net/done-deal-oosterwolde-to-roma-from-fenerbahce/",
+  "title": "Done Deal: Oosterwolde to Roma from Fenerbahce with \u20ac18m purchase option"
+ },
+ {
   "id": "tg:FabrizioRomanoTG/65078",
   "ts": "2026-08-23T06:15:35+00:00",
   "kind": "deal",

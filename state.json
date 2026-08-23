@@ -1,7 +1,5 @@
 {
   "sent": [
-    "1b12cf6e3830dd820fd981b5a5011221",
-    "tg:FabrizioRomanoTG/64357",
     "tg:FabrizioRomanoTG/64358",
     "946164e2904a9f281efa5456ba0540ea",
     "tg:FabrizioRomanoTG/64360",
@@ -1499,7 +1497,9 @@
     "f7a11574271266357649fa545e305cf9",
     "dc5f41c78d038016f55f797956f53eee",
     "44dfe319497969e755a6a7c153678791",
-    "efb69bce1e1b6348a23f86aee37f9185"
+    "efb69bce1e1b6348a23f86aee37f9185",
+    "a6dcd463ae4d63b37e4ba417622d23b6",
+    "ff90f35c6034688046bc5cadd28c8742"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1971,8 +1971,6 @@
     "interest: bartishvili -> arsenal"
   ],
   "titles": [
-    "\ud83d\udd34 \u26aa\ufe0f bayern talent cassiano kiala has signed new deal at the club until june 203",
-    "\ud83d\udd35 \ud83d\udd34 official, confirmed joao cancelo joins barcelona on three year contract \ud83c\uddf5\ud83c\uddf9 h",
     "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 joao cancelo on beating real madrid: \u201ci want to beat every team, not only ",
     "\ud83d\udea8 \u2692\ufe0f west ham agree deal to sign divine mukasa from man city, here we go! deal d",
     "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f joao palhinha to benfica, here we go! verbal agreement with fc bayern don",
@@ -2270,7 +2268,9 @@
     "liverpool transfer news: bradley barcola left out of paris saint germain squad a",
     "transfer updates: minteh, osimhen, baleba, savinho, goretzka, others",
     "official: napoli sign badiashile in potential \u20ac23m transfer from chelsea",
-    "official: napoli loan chelsea defender with \u20ac27m option to buy as blues trim squ"
+    "official: napoli loan chelsea defender with \u20ac27m option to buy as blues trim squ",
+    "official: napoli sign chelsea defender badiashile on loan with \u20ac20m buy option",
+    "this is what must happen if psv are to cooperate with dennis man's departure"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2568,14 +2568,14 @@
     "michele di gregorio": "https://r2.thesportsdb.com/images/media/player/cutout/fgvi9t1759222392.png/small",
     "nosa obaretin": "https://images.fotmob.com/image_resources/playerimages/1526621.png",
     "kamil grabara": "https://r2.thesportsdb.com/images/media/player/cutout/vls14a1763669328.png/small",
-    "hermann malonga": "",
     "ismaila sarr": "https://r2.thesportsdb.com/images/media/player/cutout/1abo611761492444.png/small",
     "andria bartishvili": "",
     "tommy marques": "",
     "dastan satpayev": "",
-    "heaven kilwa": ""
+    "heaven kilwa": "",
+    "hermann malonga": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 5,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

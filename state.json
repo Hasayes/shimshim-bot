@@ -1,6 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/64370",
     "3ee7537884053f15ee4c02b9671f0f63",
     "45f7ff5eefd59a53c738bbca481e2f38",
     "b5cd9fa86d7c58dfd238566671aea376",
@@ -1499,7 +1498,8 @@
     "1b6f7dabccd46a0fa22c88068f5d0699",
     "tg:FabrizioRomanoTG/65141",
     "tg:FabrizioRomanoTG/65142",
-    "bb6fd8b90964fb092dd02fa4bb56b5ea"
+    "bb6fd8b90964fb092dd02fa4bb56b5ea",
+    "82ef73a3dc53d9c71b67de9b20a6191f"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1972,7 +1972,6 @@
     "interest: martinez -> real madrid"
   ],
   "titles": [
-    "barcola to liverpool deal will 'be done this week' as collymore labels star a 'm",
     "liverpool latest: cody gakpo update issued as transfer talks for exit reignited",
     "tottenham advancing talks for savinho and omar marmoush double deal",
     "napoli open talks with chelsea over a deal for out of favour striker nicolas jac",
@@ -2271,7 +2270,8 @@
     "fabrizio romano confirms liverpool talks for phenomenal \u00a355m real madrid star",
     "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f harry kane on new contract at bayern: \u201cwe'll talk this week and next we'l",
     "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f understand manchester city are now closing in on allan deal from palmeira",
-    "former manchester united talent willy kambwala nearing como move"
+    "former manchester united talent willy kambwala nearing como move",
+    "liverpool boost? barcola and mbaye dropped again by psg amid transfer uncertaint"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2570,13 +2570,13 @@
     "kamil grabara": "https://r2.thesportsdb.com/images/media/player/cutout/vls14a1763669328.png/small",
     "ismaila sarr": "https://r2.thesportsdb.com/images/media/player/cutout/1abo611761492444.png/small",
     "sergio martinez": "https://images.fotmob.com/image_resources/playerimages/1791769.png",
-    "heaven kilwa": "",
     "hermann malonga": "",
     "andria bartishvili": "",
     "tommy marques": "",
-    "dastan satpayev": ""
+    "dastan satpayev": "",
+    "heaven kilwa": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

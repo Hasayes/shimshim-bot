@@ -1,7 +1,5 @@
 {
   "sent": [
-    "043b6fe549d172b7038a2037ab1a8bd6",
-    "tg:FabrizioRomanoTG/64337",
     "tg:FabrizioRomanoTG/64339",
     "f0da245be95ae44096b5d2579987ab0f",
     "49d8a47d53e929ceae0ab494b1054a0f",
@@ -1499,7 +1497,9 @@
     "4215279736044f114555fb50ea58ec10",
     "33627bb867d6265161a54ef4e6b724bd",
     "19f418d0af83b0aedd7ae832a31eac11",
-    "32e9327e53ebc14c262f0bee316fb257"
+    "32e9327e53ebc14c262f0bee316fb257",
+    "cd27f52cc56fc840aea282514407e3c1",
+    "494b290d6c883db680c2f36da13f7614"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1969,8 +1969,6 @@
     "interest: bartishvili -> arsenal"
   ],
   "titles": [
-    "arsenal star \u2018offering himself to barcelona daily\u2019 as deco gets desperate",
-    "done deal: jones permission to fly for inter medical, \u20ac35m including bonus from ",
     "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f lazio agree deal in principle to sign josip sutalo from ajax, here we go!",
     "\u26ab\ufe0f \ud83d\udd35 \u2708\ufe0f inter have now scheduled travel and medical for curtis jones on friday f",
     "tottenham in advanced talks for sensational \u00a3150m double swoop",
@@ -2268,7 +2266,9 @@
     "liverpool have yankuba minteh transfer alternative as \u00a370m stance emerges 'i hea",
     "aston villa transfer news: leon goretzka speaks to unai emery as agreement moves",
     "liverpool complete transfer as andoni iraola makes new signing promise the mirro",
-    "liverpool has yankuba minteh alternative 'lined up' if brighton keeps $95m price"
+    "liverpool has yankuba minteh alternative 'lined up' if brighton keeps $95m price",
+    "leon goretzka reaches aston villa agreement after direct unai emery phone call, ",
+    "\u2018here we go\u2019 romano: aston villa agree deal to sign leon goretzka"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2567,13 +2567,13 @@
     "michele di gregorio": "https://r2.thesportsdb.com/images/media/player/cutout/fgvi9t1759222392.png/small",
     "nosa obaretin": "https://images.fotmob.com/image_resources/playerimages/1526621.png",
     "kamil grabara": "https://r2.thesportsdb.com/images/media/player/cutout/vls14a1763669328.png/small",
-    "dastan satpayev": "",
     "heaven kilwa": "",
     "hermann malonga": "",
     "andria bartishvili": "",
-    "tommy marques": ""
+    "tommy marques": "",
+    "dastan satpayev": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

@@ -1,6 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/64336",
     "043b6fe549d172b7038a2037ab1a8bd6",
     "tg:FabrizioRomanoTG/64337",
     "tg:FabrizioRomanoTG/64339",
@@ -1499,7 +1498,8 @@
     "7e46ead20619571b133afb97b5a227a3",
     "4215279736044f114555fb50ea58ec10",
     "33627bb867d6265161a54ef4e6b724bd",
-    "19f418d0af83b0aedd7ae832a31eac11"
+    "19f418d0af83b0aedd7ae832a31eac11",
+    "32e9327e53ebc14c262f0bee316fb257"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1969,7 +1969,6 @@
     "interest: bartishvili -> arsenal"
   ],
   "titles": [
-    "omar marmoush responds to tottenham transfer links",
     "arsenal star \u2018offering himself to barcelona daily\u2019 as deco gets desperate",
     "done deal: jones permission to fly for inter medical, \u20ac35m including bonus from ",
     "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f lazio agree deal in principle to sign josip sutalo from ajax, here we go!",
@@ -2268,7 +2267,8 @@
     "aston villa take \u201ccrucial step\u201d to secure top champions league player on free tr",
     "liverpool have yankuba minteh transfer alternative as \u00a370m stance emerges 'i hea",
     "aston villa transfer news: leon goretzka speaks to unai emery as agreement moves",
-    "liverpool complete transfer as andoni iraola makes new signing promise the mirro"
+    "liverpool complete transfer as andoni iraola makes new signing promise the mirro",
+    "liverpool has yankuba minteh alternative 'lined up' if brighton keeps $95m price"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2567,13 +2567,13 @@
     "michele di gregorio": "https://r2.thesportsdb.com/images/media/player/cutout/fgvi9t1759222392.png/small",
     "nosa obaretin": "https://images.fotmob.com/image_resources/playerimages/1526621.png",
     "kamil grabara": "https://r2.thesportsdb.com/images/media/player/cutout/vls14a1763669328.png/small",
-    "tommy marques": "",
     "dastan satpayev": "",
     "heaven kilwa": "",
     "hermann malonga": "",
-    "andria bartishvili": ""
+    "andria bartishvili": "",
+    "tommy marques": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

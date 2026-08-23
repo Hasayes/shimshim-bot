@@ -1,10 +1,5 @@
 {
   "sent": [
-    "45f7ff5eefd59a53c738bbca481e2f38",
-    "b5cd9fa86d7c58dfd238566671aea376",
-    "tg:FabrizioRomanoTG/64371",
-    "8ee2fdb41c4638f5a8865f7b278b0166",
-    "1e62fb1e7b8de8a83e75a7f8715ab912",
     "tg:FabrizioRomanoTG/64372",
     "c3649b38b6e6ad8e9fcb3f459c91bdf2",
     "tg:FabrizioRomanoTG/64373",
@@ -1499,7 +1494,12 @@
     "tg:FabrizioRomanoTG/65142",
     "bb6fd8b90964fb092dd02fa4bb56b5ea",
     "82ef73a3dc53d9c71b67de9b20a6191f",
-    "tg:FabrizioRomanoTG/65143"
+    "tg:FabrizioRomanoTG/65143",
+    "93aedbdd46ca11828182ef4304b3f62a",
+    "ef7aae619a86e52768bb1e1467c3c1bb",
+    "b08c77d98dd90c08342835070513fbba",
+    "443cc0ab1c7d3a7dff18dbb108ef078c",
+    "3535c511b2739c6afb3a718a8ca21293"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1972,9 +1972,6 @@
     "interest: martinez -> real madrid"
   ],
   "titles": [
-    "tottenham advancing talks for savinho and omar marmoush double deal",
-    "napoli open talks with chelsea over a deal for out of favour striker nicolas jac",
-    "bayern munich not interested in signing replacement for jamal musiala",
     "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f said el mala signs new contract at koln with pay rise and gets number 10 ",
     "liverpool player allowed to fly away on thursday to complete late summer exit",
     "transfer news live: arsenal triple deal, alvarez boost; man utd medical; chelsea",
@@ -2271,7 +2268,10 @@
     "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f understand manchester city are now closing in on allan deal from palmeira",
     "former manchester united talent willy kambwala nearing como move",
     "liverpool boost? barcola and mbaye dropped again by psg amid transfer uncertaint",
-    "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 barcelona have started talks with abdelkader hamza and his camp over new c"
+    "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 barcelona have started talks with abdelkader hamza and his camp over new c",
+    "alvarez open to arsenal transfer sunday's gossip",
+    "mo salah \u2018to be joined at trabzonspor by premier league & champions league winni",
+    "romano reveals juventus decision on selling kenan yildiz to arsenal for \u00a386m"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2570,13 +2570,13 @@
     "kamil grabara": "https://r2.thesportsdb.com/images/media/player/cutout/vls14a1763669328.png/small",
     "ismaila sarr": "https://r2.thesportsdb.com/images/media/player/cutout/1abo611761492444.png/small",
     "sergio martinez": "https://images.fotmob.com/image_resources/playerimages/1791769.png",
-    "andria bartishvili": "",
     "tommy marques": "",
     "dastan satpayev": "",
     "heaven kilwa": "",
-    "hermann malonga": ""
+    "hermann malonga": "",
+    "andria bartishvili": ""
   },
-  "photo_repair_idx": 5,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

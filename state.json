@@ -1,7 +1,5 @@
 {
   "sent": [
-    "50df38bc889d9a201ed72cd8b528c993",
-    "tg:FabrizioRomanoTG/64386",
     "tg:FabrizioRomanoTG/64387",
     "90b4e4f342edbfa03361406f03ec3de1",
     "4bda03c4b944536666f6e8a0daead200",
@@ -1499,7 +1497,9 @@
     "0793e966b8d6c40d34a90589b077d32b",
     "e987e3ecd16fe0baf2709eee46c45d0c",
     "eac3b7ec366a4aa46bfeeecc7a02be3c",
-    "573ec6d43c05032311b7febb81bebb91"
+    "573ec6d43c05032311b7febb81bebb91",
+    "339b5632b6d87cf8d13212e304710fd6",
+    "9fd82f8bb87820898cd990bc357c3e0f"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1973,8 +1973,6 @@
     "interest: martinez -> real madrid"
   ],
   "titles": [
-    "mourinho: yamal \u2018very good player\u2019, but i won\u2019t sign him",
-    "man city and man utd get definitive answer on adam wharton transfer amid champio",
     "curtis jones to inter milan: medical details revealed ahead of emotional liverpo",
     "transfer: no confirmation regarding osimhen \u2013 romano names two strikers tottenha",
     "fabrizio romano objavio svoj \u2018here we go\u2019: hrvatski reprezentativac odlazi kod g",
@@ -2272,7 +2270,9 @@
     "alejandro balde decides to leave barcelona as man utd open transfer talks",
     "documents all signed & exchanged: fabrizio romano says imminent man utd signing ",
     "transfer news live: arsenal get huge alvarez boost; man utd done deal; chelsea t",
-    "ac milan waiting for newcastle\u2019s offer despite christopher nkunku\u2019s preference: "
+    "ac milan waiting for newcastle\u2019s offer despite christopher nkunku\u2019s preference: ",
+    "remarkable: barcelona want to offer summer signing a new contract after just one",
+    "sources: arsenal ready to \u201caggressively\u201d enter winger transfer talks, liverpool "
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2571,13 +2571,13 @@
     "ismaila sarr": "https://r2.thesportsdb.com/images/media/player/cutout/1abo611761492444.png/small",
     "sergio martinez": "https://images.fotmob.com/image_resources/playerimages/1791769.png",
     "jayden oosterwolde": "https://r2.thesportsdb.com/images/media/player/cutout/w0b1a71724844526.png/small",
-    "tommy marques": "",
     "dastan satpayev": "",
     "heaven kilwa": "",
     "hermann malonga": "",
-    "andria bartishvili": ""
+    "andria bartishvili": "",
+    "tommy marques": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

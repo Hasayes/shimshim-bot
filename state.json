@@ -1,6 +1,5 @@
 {
   "sent": [
-    "57127300c60043b6c92e2967a1816b20",
     "35527c97c7c833b76965730e5f12c615",
     "2fe3a13999dede5ef8cd768dc5ed190a",
     "tg:FabrizioRomanoTG/64334",
@@ -1499,7 +1498,8 @@
     "3d59c394391b5aac096facc32ba39862",
     "ed879b0b2ad511caa4e0a32d711b1c61",
     "16d0a9e76f353eef3592fb4d82c10fa4",
-    "tg:FabrizioRomanoTG/65130"
+    "tg:FabrizioRomanoTG/65130",
+    "57ce753598cb81a96a6fc255ce39b96f"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1969,7 +1969,6 @@
     "interest: bartishvili -> arsenal"
   ],
   "titles": [
-    "man utd get \u2018personal\u2019 for dream signing after baleba with star \u2018desperate\u2019 to j",
     "man utd get 'personal' for 'dream' signing after baleba with star 'desperate' to",
     "european heavyweights launch \u2018official bid\u2019 for 33 goal attacker linked with man",
     "transfer rumors, news: al hilal eye shock move for kane",
@@ -2268,7 +2267,8 @@
     "liverpool defender ifeanyi ndukwe completes loan transfer as eligibility change ",
     "ac milan in negotiations with bundesliga team over attacker loan",
     "\u2018it\u2019s a difficult question\u2019 hansi flick offers update on alejandro balde\u2019s futur",
-    "\ud83d\udd35 \ud83d\udfe2 \ud83c\uddfa\ud83c\uddf8 excl: seattle sounders agree deal to sign dejan joveljic from sporting kc"
+    "\ud83d\udd35 \ud83d\udfe2 \ud83c\uddfa\ud83c\uddf8 excl: seattle sounders agree deal to sign dejan joveljic from sporting kc",
+    "atletico madrid fans protest against arsenal transfer target"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2567,13 +2567,13 @@
     "michele di gregorio": "https://r2.thesportsdb.com/images/media/player/cutout/fgvi9t1759222392.png/small",
     "nosa obaretin": "https://images.fotmob.com/image_resources/playerimages/1526621.png",
     "kamil grabara": "https://r2.thesportsdb.com/images/media/player/cutout/vls14a1763669328.png/small",
-    "tommy marques": "",
     "dastan satpayev": "",
     "heaven kilwa": "",
     "hermann malonga": "",
-    "andria bartishvili": ""
+    "andria bartishvili": "",
+    "tommy marques": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

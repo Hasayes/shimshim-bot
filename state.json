@@ -1,7 +1,5 @@
 {
   "sent": [
-    "db5a95d20d157a9f2f8c5ed63a6577da",
-    "618b8dbaa910c34066c6f24d13af6b18",
     "b091720f314fcd4b6b0fb4be61309745",
     "946f9e940720cff510b1fcd1a10cc0f3",
     "8bfc7bcd11528aea2e33d39c5d7851d0",
@@ -1499,7 +1497,9 @@
     "20a22048b245b1d34d26a015e96d9399",
     "d1271791a98dc13691c3914ee50cb37c",
     "b3503407770fe69ceaca01a525ea6a2d",
-    "2047de9517903762181e03b3b638cc3c"
+    "2047de9517903762181e03b3b638cc3c",
+    "9bb71f046831b6dad5f7d2bc024faec5",
+    "tg:FabrizioRomanoTG/65179"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1973,8 +1973,6 @@
     "interest: martinez -> real madrid"
   ],
   "titles": [
-    "\ud83d\udea8 \u26aa\ufe0f tottenham also confident to get omar marmoush deal done after savinho deal ",
-    "arsenal, chelsea players worth \u00a3139m combined \u2018included on three man shortlist\u2019 ",
     "rt @fabrizioromano : \ud83d\udea8 \u26aa\ufe0f breaking: tottenham reach verbal agreement with manche",
     "mourinho rules out real madrid move for barcelona star lamine yamal",
     "romano: tottenham in two way battle for pedro neto after man city decision",
@@ -2272,7 +2270,9 @@
     "newcastle handed setback in race for \u00a330m serie a star",
     "barcelona want to tear up summer signing's contract after just two months",
     "approach made: aston villa in contact over signing \u20ac45m liverpool transfer targe",
-    "ac milan, mendes offers balde: the situation"
+    "ac milan, mendes offers balde: the situation",
+    "man utd must smash world record for lewis hall transfer as five plan b options c",
+    "\ud83d\udd34 \ud83d\udd35 brace on paris saint germain debut for ferran torres! \ud83c\uddea\ud83c\uddf8 points are shared w"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2571,13 +2571,13 @@
     "ismaila sarr": "https://r2.thesportsdb.com/images/media/player/cutout/1abo611761492444.png/small",
     "sergio martinez": "https://images.fotmob.com/image_resources/playerimages/1791769.png",
     "jayden oosterwolde": "https://r2.thesportsdb.com/images/media/player/cutout/w0b1a71724844526.png/small",
-    "hermann malonga": "",
     "andria bartishvili": "",
     "tommy marques": "",
     "dastan satpayev": "",
-    "heaven kilwa": ""
+    "heaven kilwa": "",
+    "hermann malonga": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 5,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

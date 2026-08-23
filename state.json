@@ -1,6 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/64365",
     "9be35527f645cf962935d255ba4f01e8",
     "tg:FabrizioRomanoTG/64367",
     "tg:FabrizioRomanoTG/64368",
@@ -1499,7 +1498,8 @@
     "c8798a04f5ac20d868a6405d037a0b92",
     "475a719c84bc9c913086034991b84b39",
     "tg:FabrizioRomanoTG/65138",
-    "tg:FabrizioRomanoTG/65139"
+    "tg:FabrizioRomanoTG/65139",
+    "1b6f7dabccd46a0fa22c88068f5d0699"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1972,7 +1972,6 @@
     "interest: martinez -> real madrid"
   ],
   "titles": [
-    "arsenal news: ethan nwaneri transfer stance clear as interest in two man utd sta",
     "\ud83d\udea8 \ud83c\udde7\ud83c\uddf7 manchester city have made contact with palmeiras for 22 year old winger all",
     "bayern munich news: fc bayern won\u2019t add player to help with jamal musiala situat",
     "\ud83d\udd35 \ud83c\udde7\ud83c\uddf7 joao pedro has signed his new deal at chelsea \u2014 fabrizio romano ( @fabrizio",
@@ -2271,7 +2270,8 @@
     "liverpool transfer boost as bradley barcola and ibrahima mbaye both dropped from",
     "benfica and aston villa linked with alejandro balde as barcelona star seeks exit",
     "\ud83d\udea8 \ud83c\uddea\ud83c\uddf8 real madrid are not the only club in talks to sign spanish talent sergio ma",
-    "\ud83d\udea8 manchester united and brighton have exchanged all documents as signed it all f"
+    "\ud83d\udea8 manchester united and brighton have exchanged all documents as signed it all f",
+    "fabrizio romano confirms liverpool talks for phenomenal \u00a355m real madrid star"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2569,14 +2569,14 @@
     "nosa obaretin": "https://images.fotmob.com/image_resources/playerimages/1526621.png",
     "kamil grabara": "https://r2.thesportsdb.com/images/media/player/cutout/vls14a1763669328.png/small",
     "ismaila sarr": "https://r2.thesportsdb.com/images/media/player/cutout/1abo611761492444.png/small",
-    "hermann malonga": "",
     "andria bartishvili": "",
     "tommy marques": "",
     "dastan satpayev": "",
     "sergio martinez": "https://images.fotmob.com/image_resources/playerimages/1791769.png",
-    "heaven kilwa": ""
+    "heaven kilwa": "",
+    "hermann malonga": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 5,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

@@ -1,9 +1,5 @@
 {
   "sent": [
-    "49d8a47d53e929ceae0ab494b1054a0f",
-    "tg:FabrizioRomanoTG/64340",
-    "tg:FabrizioRomanoTG/64341",
-    "93785e193d5c7e6ffca7b337d9c80886",
     "b904073ffb763cf455ae2406e76cf1c1",
     "tg:FabrizioRomanoTG/64348",
     "tg:FabrizioRomanoTG/64350",
@@ -1499,7 +1495,11 @@
     "cd27f52cc56fc840aea282514407e3c1",
     "494b290d6c883db680c2f36da13f7614",
     "4f96c06f685009f3d8eb9eb395f33b56",
-    "c183d82baef98e88eed59d21a012efe7"
+    "c183d82baef98e88eed59d21a012efe7",
+    "e2ca3e0950954e1e5795b695098f1b7e",
+    "421cbb1937e75ce16fed4d46fcd9fb10",
+    "489cc1e1977d0756c11ee135468739e3",
+    "0d054e63a1fa1f52b1c65be3ee4c555d"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1748,7 +1748,8 @@
     "gregorio -> bournemouth": 1,
     "obaretin -> fc lorient": 1,
     "marmoush -> tottenham": 1,
-    "ndukwe -> levante": 2
+    "ndukwe -> levante": 2,
+    "goretzka -> aston villa": 1
   },
   "interest": [
     "interest: alvarez -> arsenal",
@@ -1969,9 +1970,6 @@
     "interest: bartishvili -> arsenal"
   ],
   "titles": [
-    "tottenham in advanced talks for sensational \u00a3150m double swoop",
-    "\ud83d\udea8 \u274c bamba dieng will not join lazio as free agent as there\u2019s no green light foll",
-    "pedro neto identified as tottenham backup target in winger transfer domino",
     "chelsea target mathys tel wants to leave bayern",
     "andoni iraola green lights stunning \u00a378m liverpool swoop for curtis jones replac",
     "\u2018all confirmed\u2019 \u2013 sky sports man drops late night liverpool update on \u20ac35m trans",
@@ -2268,7 +2266,10 @@
     "leon goretzka reaches aston villa agreement after direct unai emery phone call, ",
     "\u2018here we go\u2019 romano: aston villa agree deal to sign leon goretzka",
     "alejandro balde to leave barcelona? defender makes shock decision after talks wi",
-    "just in: barcelona defender decides to leave the club amid manchester united int"
+    "just in: barcelona defender decides to leave the club amid manchester united int",
+    "leon goretzka agrees to join aston villa",
+    "aston villa \u2018agree deal with ex bayern munich star leon goretzka on free transfe",
+    "breaking: barcelona player with \u201cimmense quality\u201d decides to leave club after ma"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2567,13 +2568,13 @@
     "michele di gregorio": "https://r2.thesportsdb.com/images/media/player/cutout/fgvi9t1759222392.png/small",
     "nosa obaretin": "https://images.fotmob.com/image_resources/playerimages/1526621.png",
     "kamil grabara": "https://r2.thesportsdb.com/images/media/player/cutout/vls14a1763669328.png/small",
-    "hermann malonga": "",
     "andria bartishvili": "",
     "tommy marques": "",
     "dastan satpayev": "",
-    "heaven kilwa": ""
+    "heaven kilwa": "",
+    "hermann malonga": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 5,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

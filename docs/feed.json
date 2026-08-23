@@ -1,5 +1,29 @@
 [
  {
+  "id": "e2ca3e0950954e1e5795b695098f1b7e",
+  "ts": "2026-08-23T02:30:40+00:00",
+  "kind": "deal",
+  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/hnokj01756409111.png/small",
+  "stage": "Here we go",
+  "player": "Leon Goretzka",
+  "position": "Midfielder",
+  "age": "31",
+  "from_club": "Bayern Munich",
+  "to_club": "Aston Villa",
+  "fee": "Free transfer",
+  "style": "Box-to-box midfielder with strong ball-carrying abilities and physical presence, capable of driving forward and breaking up play with his athleticism.",
+  "fit": "Deploy as a central midfielder alongside Onana to provide midfield stability and progressive ball movement in Villa's pressing system.",
+  "source": "Matteo Moretto",
+  "sources": [
+   "Matteo Moretto"
+  ],
+  "srcTier": "tier1",
+  "summary": "Aston Villa have agreed to sign 31-year-old German midfielder Leon Goretzka on a free transfer. The deal is pending completion of documents and a medical.",
+  "outlet": "yahoo",
+  "url": "https://ca.sports.yahoo.com/news/leon-goretzka-agrees-join-aston-142000518.html",
+  "title": "Leon Goretzka agrees to join Aston Villa"
+ },
+ {
   "id": "510a52270e216231191ef505d99f7811",
   "ts": "2026-08-22T23:15:35+00:00",
   "kind": "interest",

@@ -1,7 +1,5 @@
 {
   "sent": [
-    "817e2353b52365cd8072183564b070b9",
-    "d9dda87b59c65baffbd5fd894176fcbf",
     "cee51fd520e98d3f4092d01b6715c380",
     "b006db2d85a11f140a7b2b2c334708c4",
     "d323448b02fc66eaecbc6faed82dca1f",
@@ -1499,7 +1497,9 @@
     "tg:FabrizioRomanoTG/65153",
     "tg:FabrizioRomanoTG/65154",
     "tg:FabrizioRomanoTG/65160",
-    "tg:FabrizioRomanoTG/65163"
+    "tg:FabrizioRomanoTG/65163",
+    "2d63935f08b41d85d34480c5f5807919",
+    "tg:FabrizioRomanoTG/65166"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1973,8 +1973,6 @@
     "interest: martinez -> real madrid"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83c\uddf8\ud83c\udde6 darwin nunez has signed in as new al diriyah player on loan from al hilal, ",
-    "romano confirms arsenal attacker emerges as shock target for saudi side al hilal",
     "ajax send japan international back to bundesliga as \u20ac15m camara deal nears compl",
     "liverpool to complete transfer today after bid \u2018formally accepted\u2019 and clause in",
     "david ornstein claims man utd are set to complete \u00a365m swoop for newcastle unite",
@@ -2272,7 +2270,9 @@
     "@nymzeee @gniklas43 don\u2019t worry, others have already taken the exclusive news ze",
     "\ud83d\udea8 \u26a0\ufe0f ollie watkins, out of aston villa squad today as talks are underway with al",
     "\ud83d\udea8 \ud83d\udfe0 \u26ab\ufe0f exclusive: hull city reach verbal agreement to sign mohamed ali cho, here",
-    "rt @fabrizioromano : \ud83d\udea8 \ud83d\udfe0 \u26ab\ufe0f exclusive: hull city reach verbal agreement to sign "
+    "rt @fabrizioromano : \ud83d\udea8 \ud83d\udfe0 \u26ab\ufe0f exclusive: hull city reach verbal agreement to sign ",
+    "man utd news: myles lewis skelly update emerges as club makes early transfer app",
+    "\ud83d\udea8 \ud83d\udca3 breaking: tottenham reach verbal agreement with man city to sign omar marmou"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2571,13 +2571,13 @@
     "ismaila sarr": "https://r2.thesportsdb.com/images/media/player/cutout/1abo611761492444.png/small",
     "sergio martinez": "https://images.fotmob.com/image_resources/playerimages/1791769.png",
     "jayden oosterwolde": "https://r2.thesportsdb.com/images/media/player/cutout/w0b1a71724844526.png/small",
-    "dastan satpayev": "",
     "heaven kilwa": "",
     "hermann malonga": "",
     "andria bartishvili": "",
-    "tommy marques": ""
+    "tommy marques": "",
+    "dastan satpayev": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

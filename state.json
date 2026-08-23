@@ -1,7 +1,5 @@
 {
   "sent": [
-    "4415a7b5003e3cac4e8f97591999b8df",
-    "a7f199988c922d3af70c481ee3924e80",
     "0163ca7c3e9249a6680759432546fab9",
     "f3a5a1bb86788c1876403275221f751c",
     "29dad9fed12fa264268fd5e27cc116b5",
@@ -1499,7 +1497,9 @@
     "tg:FabrizioRomanoTG/65181",
     "643ce3db15456ab7aa50cf8a0b0bc3ea",
     "tg:FabrizioRomanoTG/65182",
-    "tg:FabrizioRomanoTG/65183"
+    "tg:FabrizioRomanoTG/65183",
+    "3388f1c6aaeb2a5ea65bd1f9c393e8a4",
+    "bc68a366b574858870841a702adf1736"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1974,8 +1974,6 @@
     "interest: martinez -> real madrid"
   ],
   "titles": [
-    "liverpool strike third club to club agreement in two days \u2013 fabrizio romano team",
-    "brighton ceo comments on carlos baleba\u2019s future amid \u00a365m man united bid",
     "brighton chief refuses to address baleba to man utd after huge update \u2018today\u2019",
     "'here we go' romano: west ham agree deal for man city ace divine mukasa",
     "aleksandar stankovic keen on inter stay despite interest from many clubs",
@@ -2273,7 +2271,9 @@
     "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f rb leipzig reach verbal agreement to sign christopher nkunku from ac mila",
     "fabrizio romano reveals arsenal can afford ambitious transfer following recent c",
     "\ud83d\udea8 \ud83e\ude77 \ud83d\udda4 palermo have agreed deal to sign mattia perin as new goalkeeper from juven",
-    "\ud83d\udd35 \ud83d\udd34 barcelona make it five on la liga debut game against elche! brace by raphinh"
+    "\ud83d\udd35 \ud83d\udd34 barcelona make it five on la liga debut game against elche! brace by raphinh",
+    "manchester united preparing to test club\u2019s resolve over \u00a370m rated transfer targ",
+    "arsenal make victor gyokeres decision after victor osimhen approach"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2571,14 +2571,14 @@
     "ismaila sarr": "https://r2.thesportsdb.com/images/media/player/cutout/1abo611761492444.png/small",
     "sergio martinez": "https://images.fotmob.com/image_resources/playerimages/1791769.png",
     "jayden oosterwolde": "https://r2.thesportsdb.com/images/media/player/cutout/w0b1a71724844526.png/small",
-    "hermann malonga": "",
     "andria bartishvili": "",
     "tommy marques": "",
     "mattia perin": "https://r2.thesportsdb.com/images/media/player/cutout/oo0l5m1759222361.png/small",
     "dastan satpayev": "",
-    "heaven kilwa": ""
+    "heaven kilwa": "",
+    "hermann malonga": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 5,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

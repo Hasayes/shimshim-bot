@@ -1,6 +1,5 @@
 {
   "sent": [
-    "3f287f804d7d3de3e247e40f28ce2a59",
     "4415a7b5003e3cac4e8f97591999b8df",
     "a7f199988c922d3af70c481ee3924e80",
     "0163ca7c3e9249a6680759432546fab9",
@@ -1499,7 +1498,8 @@
     "tg:FabrizioRomanoTG/65180",
     "tg:FabrizioRomanoTG/65181",
     "643ce3db15456ab7aa50cf8a0b0bc3ea",
-    "tg:FabrizioRomanoTG/65182"
+    "tg:FabrizioRomanoTG/65182",
+    "tg:FabrizioRomanoTG/65183"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1974,7 +1974,6 @@
     "interest: martinez -> real madrid"
   ],
   "titles": [
-    "lazio walk away from dieng transfer after failed medical",
     "liverpool strike third club to club agreement in two days \u2013 fabrizio romano team",
     "brighton ceo comments on carlos baleba\u2019s future amid \u00a365m man united bid",
     "brighton chief refuses to address baleba to man utd after huge update \u2018today\u2019",
@@ -2273,7 +2272,8 @@
     "\ud83d\udea8 \ud83d\udfe0 \u26ab\ufe0f excl: alan matturro to shakhtar donetsk, deal set to be agreed for \u20ac5 5m ",
     "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f rb leipzig reach verbal agreement to sign christopher nkunku from ac mila",
     "fabrizio romano reveals arsenal can afford ambitious transfer following recent c",
-    "\ud83d\udea8 \ud83e\ude77 \ud83d\udda4 palermo have agreed deal to sign mattia perin as new goalkeeper from juven"
+    "\ud83d\udea8 \ud83e\ude77 \ud83d\udda4 palermo have agreed deal to sign mattia perin as new goalkeeper from juven",
+    "\ud83d\udd35 \ud83d\udd34 barcelona make it five on la liga debut game against elche! brace by raphinh"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2571,14 +2571,14 @@
     "ismaila sarr": "https://r2.thesportsdb.com/images/media/player/cutout/1abo611761492444.png/small",
     "sergio martinez": "https://images.fotmob.com/image_resources/playerimages/1791769.png",
     "jayden oosterwolde": "https://r2.thesportsdb.com/images/media/player/cutout/w0b1a71724844526.png/small",
-    "heaven kilwa": "",
     "hermann malonga": "",
     "andria bartishvili": "",
     "tommy marques": "",
     "mattia perin": "https://r2.thesportsdb.com/images/media/player/cutout/oo0l5m1759222361.png/small",
-    "dastan satpayev": ""
+    "dastan satpayev": "",
+    "heaven kilwa": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

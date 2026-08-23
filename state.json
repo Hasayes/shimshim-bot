@@ -1,7 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/64387",
-    "90b4e4f342edbfa03361406f03ec3de1",
     "4bda03c4b944536666f6e8a0daead200",
     "bc24b6f5d08bfe2cb308e152e5fb3625",
     "db5a95d20d157a9f2f8c5ed63a6577da",
@@ -1499,7 +1497,9 @@
     "eac3b7ec366a4aa46bfeeecc7a02be3c",
     "573ec6d43c05032311b7febb81bebb91",
     "339b5632b6d87cf8d13212e304710fd6",
-    "9fd82f8bb87820898cd990bc357c3e0f"
+    "9fd82f8bb87820898cd990bc357c3e0f",
+    "20a22048b245b1d34d26a015e96d9399",
+    "d1271791a98dc13691c3914ee50cb37c"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1973,8 +1973,6 @@
     "interest: martinez -> real madrid"
   ],
   "titles": [
-    "curtis jones to inter milan: medical details revealed ahead of emotional liverpo",
-    "transfer: no confirmation regarding osimhen \u2013 romano names two strikers tottenha",
     "fabrizio romano objavio svoj \u2018here we go\u2019: hrvatski reprezentativac odlazi kod g",
     "omar marmoush gives green light to tottenham transfer as spurs eye sensational \u00a3",
     "\ud83d\udea8 \u26aa\ufe0f tottenham also confident to get omar marmoush deal done after savinho deal ",
@@ -2272,7 +2270,9 @@
     "transfer news live: arsenal get huge alvarez boost; man utd done deal; chelsea t",
     "ac milan waiting for newcastle\u2019s offer despite christopher nkunku\u2019s preference: ",
     "remarkable: barcelona want to offer summer signing a new contract after just one",
-    "sources: arsenal ready to \u201caggressively\u201d enter winger transfer talks, liverpool "
+    "sources: arsenal ready to \u201caggressively\u201d enter winger transfer talks, liverpool ",
+    "newcastle handed setback in race for \u00a330m serie a star",
+    "barcelona want to tear up summer signing's contract after just two months"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2571,13 +2571,13 @@
     "ismaila sarr": "https://r2.thesportsdb.com/images/media/player/cutout/1abo611761492444.png/small",
     "sergio martinez": "https://images.fotmob.com/image_resources/playerimages/1791769.png",
     "jayden oosterwolde": "https://r2.thesportsdb.com/images/media/player/cutout/w0b1a71724844526.png/small",
-    "dastan satpayev": "",
     "heaven kilwa": "",
     "hermann malonga": "",
     "andria bartishvili": "",
-    "tommy marques": ""
+    "tommy marques": "",
+    "dastan satpayev": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

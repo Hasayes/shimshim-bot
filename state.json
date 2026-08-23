@@ -1,6 +1,5 @@
 {
   "sent": [
-    "585bab406543918798656b7c77f1e997",
     "c0004db48cff21aa23afac82214293a0",
     "817e2353b52365cd8072183564b070b9",
     "d9dda87b59c65baffbd5fd894176fcbf",
@@ -1499,7 +1498,8 @@
     "tg:FabrizioRomanoTG/65152",
     "9afab6d93a3ce0b42e5de8e30ab9b337",
     "tg:FabrizioRomanoTG/65153",
-    "tg:FabrizioRomanoTG/65154"
+    "tg:FabrizioRomanoTG/65154",
+    "tg:FabrizioRomanoTG/65160"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1973,7 +1973,6 @@
     "interest: martinez -> real madrid"
   ],
   "titles": [
-    "fresh report from top tier source suggests that spurs could be set to move on fr",
     "inter close in on liverpool midfielder curtis jones",
     "\ud83d\udea8 \ud83c\uddf8\ud83c\udde6 darwin nunez has signed in as new al diriyah player on loan from al hilal, ",
     "romano confirms arsenal attacker emerges as shock target for saudi side al hilal",
@@ -2272,7 +2271,8 @@
     "rt @fabrizioromano : \ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f breaking: ayyoub bouaddi to manchester city, here we",
     "manchester united transfer 'confirmed' after medical as michael carrick gets maj",
     "@nymzeee @gniklas43 don\u2019t worry, others have already taken the exclusive news ze",
-    "\ud83d\udea8 \u26a0\ufe0f ollie watkins, out of aston villa squad today as talks are underway with al"
+    "\ud83d\udea8 \u26a0\ufe0f ollie watkins, out of aston villa squad today as talks are underway with al",
+    "\ud83d\udea8 \ud83d\udfe0 \u26ab\ufe0f exclusive: hull city reach verbal agreement to sign mohamed ali cho, here"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2571,13 +2571,13 @@
     "ismaila sarr": "https://r2.thesportsdb.com/images/media/player/cutout/1abo611761492444.png/small",
     "sergio martinez": "https://images.fotmob.com/image_resources/playerimages/1791769.png",
     "jayden oosterwolde": "https://r2.thesportsdb.com/images/media/player/cutout/w0b1a71724844526.png/small",
-    "andria bartishvili": "",
     "tommy marques": "",
     "dastan satpayev": "",
     "heaven kilwa": "",
-    "hermann malonga": ""
+    "hermann malonga": "",
+    "andria bartishvili": ""
   },
-  "photo_repair_idx": 5,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

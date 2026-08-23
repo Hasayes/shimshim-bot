@@ -1,6 +1,5 @@
 {
   "sent": [
-    "06cb36344fc84b2462b54a260e8d2e1e",
     "5b32797d56de063412aba68335ce0a18",
     "ba9c5817500fd6e0c3fe7ffbf0d1b503",
     "152814561564f7290b48ef6c71e623c5",
@@ -1499,7 +1498,8 @@
     "511152d98016f1f8656c721c7628f1ba",
     "1466e3a4b8d0c1bb20925ad0390588d6",
     "9330396a49069d5908e64035f504f443",
-    "da5d47b888ecffe66eb71ad3e1de6834"
+    "da5d47b888ecffe66eb71ad3e1de6834",
+    "tg:FabrizioRomanoTG/65187"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1974,7 +1974,6 @@
     "interest: martinez -> real madrid"
   ],
   "titles": [
-    "arsenal \u2018have no plans to sell viktor gyokeres but could still sign new striker ",
     "romano: man utd in talks to sign barcelona star alejandro balde",
     "man utd call barcelona to ask about alejandro balde",
     "top man utd target now \u2018in discussions\u2019 to sign different deal after decision ma",
@@ -2273,7 +2272,8 @@
     "done: bouaddi puts one foot in manchester city",
     "after 12 months man utd officially have the midfielder they always wanted",
     "arsenal meeting with atletico madrid over julian alvarez transfer revealed",
-    "man utd monitoring ismaila sarr as galatasaray push for crystal palace breakthro"
+    "man utd monitoring ismaila sarr as galatasaray push for crystal palace breakthro",
+    "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f understand newcastle have made big progress in talks to sign nico gonzal"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2572,13 +2572,13 @@
     "sergio martinez": "https://images.fotmob.com/image_resources/playerimages/1791769.png",
     "jayden oosterwolde": "https://r2.thesportsdb.com/images/media/player/cutout/w0b1a71724844526.png/small",
     "mattia perin": "https://r2.thesportsdb.com/images/media/player/cutout/oo0l5m1759222361.png/small",
-    "dastan satpayev": "",
     "heaven kilwa": "",
     "hermann malonga": "",
     "andria bartishvili": "",
-    "tommy marques": ""
+    "tommy marques": "",
+    "dastan satpayev": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

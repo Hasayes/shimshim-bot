@@ -1,5 +1,29 @@
 [
  {
+  "id": "db118defca7b0d9657e5e3d06a8c0f23",
+  "ts": "2026-08-23T12:14:08+00:00",
+  "kind": "deal",
+  "stage": "Completed",
+  "player": "Ayyoub Bouaddi",
+  "position": "Midfielder",
+  "age": "18",
+  "from_club": "Lille",
+  "to_club": "Manchester City",
+  "fee": "\u20ac95m plus \u20ac5m add-ons",
+  "style": "A dynamic, technically gifted central midfielder who combines composure beyond his years with sharp passing and the ability to drive forward, as demonstrated by his record-breaking appearances in Ligue 1 and standout performances at the 2026 World Cup with Morocco.",
+  "fit": "Bouaddi's energy, versatility and high ceiling make him an ideal long-term engine for Liverpool's midfield, capable of pressing intensity and progressing play in Arne Slot's possession-based system.",
+  "source": "Fabrizio Romano",
+  "outlet": "Telegram @fabrizioromanotg",
+  "url": "https://t.me/FabrizioRomanoTG/65151",
+  "title": "\ud83e\ude75 \ud83c\uddf2\ud83c\udde6 Manchester City have signed Ayyoub Bouaddi for \u20ac95m plus \u20ac5m add-ons from Lille. The 18-year-old Moroccan gem joins",
+  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/g1bppf1766077416.png/small",
+  "summary": "Manchester City have signed 18-year-old Moroccan Ayyoub Bouaddi from Lille for \u20ac95m plus \u20ac5m in add-ons.",
+  "sources": [
+   "Fabrizio Romano"
+  ],
+  "srcTier": "tier1"
+ },
+ {
   "id": "a7815f12f4712e7e6896510922bc9ce8",
   "ts": "2026-08-23T10:00:44+00:00",
   "kind": "deal",
@@ -2202,30 +2226,6 @@
   "outlet": "Telegram @fabrizioromanotg",
   "url": "https://t.me/FabrizioRomanoTG/64188",
   "title": "\ud83d\udea8 \ud83c\uddfa\ud83c\uddf8 Sergi Roberto to LA Galaxy, here we go! Verbal agreement done for former Bar\u00e7a and Como player to join MLS side. Se",
-  "sources": [
-   "Fabrizio Romano"
-  ],
-  "srcTier": "tier1"
- },
- {
-  "id": "db118defca7b0d9657e5e3d06a8c0f23",
-  "ts": "2026-08-07T12:30:41+00:00",
-  "kind": "deal",
-  "stage": "Here we go",
-  "player": "Ayyoub Bouaddi",
-  "position": "Midfielder",
-  "age": "18",
-  "from_club": "Lille",
-  "to_club": "Manchester City",
-  "fee": "\u00a385m",
-  "style": "A dynamic, technically gifted central midfielder who combines composure beyond his years with sharp passing and the ability to drive forward, as demonstrated by his record-breaking appearances in Ligue 1 and standout performances at the 2026 World Cup with Morocco.",
-  "fit": "Bouaddi's energy, versatility and high ceiling make him an ideal long-term engine for Liverpool's midfield, capable of pressing intensity and progressing play in Arne Slot's possession-based system.",
-  "source": "Fabrizio Romano",
-  "outlet": "Telegram @fabrizioromanotg",
-  "url": "https://t.me/FabrizioRomanoTG/64180",
-  "title": "\ud83d\udea8 \ud83c\uddf2\ud83c\udde6 The negotiations for Ayyoub Bouaddi to Manchester City are moving to the final stages, deal very close between club",
-  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/g1bppf1766077416.png/small",
-  "summary": "Manchester City negotiations with Lille for Ayyoub Bouaddi are in final stages with a deal very close; personal terms discussions are ongoing between the clubs.",
   "sources": [
    "Fabrizio Romano"
   ],

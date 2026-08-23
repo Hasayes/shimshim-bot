@@ -1,5 +1,29 @@
 [
  {
+  "id": "41cb7e18b1fc20d9bd2fed3fffad7f4c",
+  "ts": "2026-08-23T03:00:39+00:00",
+  "kind": "deal",
+  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/1abo611761492444.png/small",
+  "stage": "Here we go",
+  "player": "Ismaila Sarr",
+  "position": "Winger",
+  "age": "\u2014",
+  "from_club": "Crystal Palace",
+  "to_club": "Galatasaray",
+  "fee": "\u2014",
+  "style": "Pacey, direct winger with strong dribbling ability and willingness to take on defenders down the flank.",
+  "fit": "Can provide explosive wing play and creative attacking support in Galatasaray's setup while bringing Premier League experience to Turkish football.",
+  "source": "Standard UK",
+  "sources": [
+   "Standard UK"
+  ],
+  "srcTier": "standard",
+  "summary": "Ismaila Sarr was excluded from Crystal Palace's squad against Everton with an agreement reached between the clubs. Galatasaray is pushing to complete the transfer.",
+  "outlet": "standarduk",
+  "url": "https://www.standard.co.uk/sport/football/crystal-palace-ismaila-sarr-galatasaray-transfer-news-b1294309.html",
+  "title": "Why Ismaila Sarr is not in Crystal Palace squad as 'agreement reached'"
+ },
+ {
   "id": "e2ca3e0950954e1e5795b695098f1b7e",
   "ts": "2026-08-23T02:30:40+00:00",
   "kind": "deal",

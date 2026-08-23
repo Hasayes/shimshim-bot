@@ -1,6 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/64350",
     "tg:FabrizioRomanoTG/64351",
     "tg:FabrizioRomanoTG/64355",
     "tg:FabrizioRomanoTG/64356",
@@ -1499,7 +1498,8 @@
     "489cc1e1977d0756c11ee135468739e3",
     "0d054e63a1fa1f52b1c65be3ee4c555d",
     "41cb7e18b1fc20d9bd2fed3fffad7f4c",
-    "b019b18887ed8145df43d089435c5245"
+    "b019b18887ed8145df43d089435c5245",
+    "f7a11574271266357649fa545e305cf9"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1971,7 +1971,6 @@
     "interest: bartishvili -> arsenal"
   ],
   "titles": [
-    "\u2018all confirmed\u2019 \u2013 sky sports man drops late night liverpool update on \u20ac35m trans",
     "\ud83d\udea8 \u26ab\ufe0f \ud83d\udd35 inter have decided to anticipate curtis jones arrival today \u2014 then medica",
     "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f fc porto and ac milan are back in direct club to club contact for santi g",
     "\ud83d\udd34 \u26aa\ufe0f bayern talent cassiano kiala has signed new deal at the club until june 203",
@@ -2270,7 +2269,8 @@
     "aston villa \u2018agree deal with ex bayern munich star leon goretzka on free transfe",
     "breaking: barcelona player with \u201cimmense quality\u201d decides to leave club after ma",
     "why ismaila sarr is not in crystal palace squad as 'agreement reached'",
-    "liverpool transfer news: bradley barcola left out of paris saint germain squad a"
+    "liverpool transfer news: bradley barcola left out of paris saint germain squad a",
+    "transfer updates: minteh, osimhen, baleba, savinho, goretzka, others"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2568,14 +2568,14 @@
     "michele di gregorio": "https://r2.thesportsdb.com/images/media/player/cutout/fgvi9t1759222392.png/small",
     "nosa obaretin": "https://images.fotmob.com/image_resources/playerimages/1526621.png",
     "kamil grabara": "https://r2.thesportsdb.com/images/media/player/cutout/vls14a1763669328.png/small",
-    "dastan satpayev": "",
     "heaven kilwa": "",
     "hermann malonga": "",
     "ismaila sarr": "https://r2.thesportsdb.com/images/media/player/cutout/1abo611761492444.png/small",
     "andria bartishvili": "",
-    "tommy marques": ""
+    "tommy marques": "",
+    "dastan satpayev": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

@@ -1,6 +1,5 @@
 {
   "sent": [
-    "8bfc7bcd11528aea2e33d39c5d7851d0",
     "e776b9c7bd9ecf38f5400bef263dd710",
     "95acaa4b167041cc94cd4220f7ab0f2a",
     "3f287f804d7d3de3e247e40f28ce2a59",
@@ -1499,7 +1498,8 @@
     "9bb71f046831b6dad5f7d2bc024faec5",
     "tg:FabrizioRomanoTG/65179",
     "e7b02a3c1291062b5e400d21fd06541f",
-    "tg:FabrizioRomanoTG/65180"
+    "tg:FabrizioRomanoTG/65180",
+    "tg:FabrizioRomanoTG/65181"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1973,7 +1973,6 @@
     "interest: martinez -> real madrid"
   ],
   "titles": [
-    "romano: tottenham in two way battle for pedro neto after man city decision",
     "omar marmoush reaches decision on joining tottenham after man city name price",
     "aston villa in talks to sign ac milan midfielder as insider doubts second midfie",
     "lazio walk away from dieng transfer after failed medical",
@@ -2272,7 +2271,8 @@
     "man utd must smash world record for lewis hall transfer as five plan b options c",
     "\ud83d\udd34 \ud83d\udd35 brace on paris saint germain debut for ferran torres! \ud83c\uddea\ud83c\uddf8 points are shared w",
     "newcastle gets major nico gonzalez boost after man city\u2019s message to midfielder",
-    "\ud83d\udea8 \ud83d\udfe0 \u26ab\ufe0f excl: alan matturro to shakhtar donetsk, deal set to be agreed for \u20ac5 5m "
+    "\ud83d\udea8 \ud83d\udfe0 \u26ab\ufe0f excl: alan matturro to shakhtar donetsk, deal set to be agreed for \u20ac5 5m ",
+    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f rb leipzig reach verbal agreement to sign christopher nkunku from ac mila"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2571,13 +2571,13 @@
     "ismaila sarr": "https://r2.thesportsdb.com/images/media/player/cutout/1abo611761492444.png/small",
     "sergio martinez": "https://images.fotmob.com/image_resources/playerimages/1791769.png",
     "jayden oosterwolde": "https://r2.thesportsdb.com/images/media/player/cutout/w0b1a71724844526.png/small",
-    "tommy marques": "",
     "dastan satpayev": "",
     "heaven kilwa": "",
     "hermann malonga": "",
-    "andria bartishvili": ""
+    "andria bartishvili": "",
+    "tommy marques": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

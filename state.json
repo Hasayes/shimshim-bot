@@ -1,7 +1,5 @@
 {
   "sent": [
-    "e776b9c7bd9ecf38f5400bef263dd710",
-    "95acaa4b167041cc94cd4220f7ab0f2a",
     "3f287f804d7d3de3e247e40f28ce2a59",
     "4415a7b5003e3cac4e8f97591999b8df",
     "a7f199988c922d3af70c481ee3924e80",
@@ -1499,7 +1497,9 @@
     "tg:FabrizioRomanoTG/65179",
     "e7b02a3c1291062b5e400d21fd06541f",
     "tg:FabrizioRomanoTG/65180",
-    "tg:FabrizioRomanoTG/65181"
+    "tg:FabrizioRomanoTG/65181",
+    "643ce3db15456ab7aa50cf8a0b0bc3ea",
+    "tg:FabrizioRomanoTG/65182"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1751,7 +1751,8 @@
     "ndukwe -> levante": 2,
     "goretzka -> aston villa": 1,
     "sarr -> galatasaray": 1,
-    "oosterwolde -> roma": 2
+    "oosterwolde -> roma": 2,
+    "perin -> palermo": 1
   },
   "interest": [
     "interest: alvarez -> arsenal",
@@ -1973,8 +1974,6 @@
     "interest: martinez -> real madrid"
   ],
   "titles": [
-    "omar marmoush reaches decision on joining tottenham after man city name price",
-    "aston villa in talks to sign ac milan midfielder as insider doubts second midfie",
     "lazio walk away from dieng transfer after failed medical",
     "liverpool strike third club to club agreement in two days \u2013 fabrizio romano team",
     "brighton ceo comments on carlos baleba\u2019s future amid \u00a365m man united bid",
@@ -2272,11 +2271,12 @@
     "\ud83d\udd34 \ud83d\udd35 brace on paris saint germain debut for ferran torres! \ud83c\uddea\ud83c\uddf8 points are shared w",
     "newcastle gets major nico gonzalez boost after man city\u2019s message to midfielder",
     "\ud83d\udea8 \ud83d\udfe0 \u26ab\ufe0f excl: alan matturro to shakhtar donetsk, deal set to be agreed for \u20ac5 5m ",
-    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f rb leipzig reach verbal agreement to sign christopher nkunku from ac mila"
+    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f rb leipzig reach verbal agreement to sign christopher nkunku from ac mila",
+    "fabrizio romano reveals arsenal can afford ambitious transfer following recent c",
+    "\ud83d\udea8 \ud83e\ude77 \ud83d\udda4 palermo have agreed deal to sign mattia perin as new goalkeeper from juven"
   ],
   "tg_update_offset": 263617426,
   "photos": {
-    "zeki celik": "https://r2.thesportsdb.com/images/media/player/cutout/b8hg8o1758816005.png/small",
     "christos tzolis": "https://r2.thesportsdb.com/images/media/player/cutout/0kse5n1767640896.png/small",
     "sander berge": "https://r2.thesportsdb.com/images/media/player/cutout/plhdsy1757070706.png/small",
     "julian alvarez": "https://r2.thesportsdb.com/images/media/player/cutout/91pla41762288186.png/small",
@@ -2571,13 +2571,14 @@
     "ismaila sarr": "https://r2.thesportsdb.com/images/media/player/cutout/1abo611761492444.png/small",
     "sergio martinez": "https://images.fotmob.com/image_resources/playerimages/1791769.png",
     "jayden oosterwolde": "https://r2.thesportsdb.com/images/media/player/cutout/w0b1a71724844526.png/small",
-    "dastan satpayev": "",
     "heaven kilwa": "",
     "hermann malonga": "",
     "andria bartishvili": "",
-    "tommy marques": ""
+    "tommy marques": "",
+    "mattia perin": "https://r2.thesportsdb.com/images/media/player/cutout/oo0l5m1759222361.png/small",
+    "dastan satpayev": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",
@@ -2741,6 +2742,7 @@
     "st mirren": "https://r2.thesportsdb.com/images/media/team/badge/xvtuvv1447604452.png/small",
     "al shabab": "https://images.fotmob.com/image_resources/logo/teamlogo/101916.png",
     "fc lorient": "https://r2.thesportsdb.com/images/media/team/badge/sxsttw1473504748.png/small",
-    "racing": "https://r2.thesportsdb.com/images/media/team/badge/vi4mu41695734959.png/small"
+    "racing": "https://r2.thesportsdb.com/images/media/team/badge/vi4mu41695734959.png/small",
+    "palermo": "https://r2.thesportsdb.com/images/media/team/badge/zi1tb01579708939.png/small"
   }
 }

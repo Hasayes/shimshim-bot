@@ -1,7 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/64363",
-    "tg:FabrizioRomanoTG/64364",
     "tg:FabrizioRomanoTG/64365",
     "9be35527f645cf962935d255ba4f01e8",
     "tg:FabrizioRomanoTG/64367",
@@ -1499,7 +1497,9 @@
     "7da0940add6678706aadabb8891e1a50",
     "c4b6ecd1dcafa748dc1bf397263ef2c2",
     "c8798a04f5ac20d868a6405d037a0b92",
-    "475a719c84bc9c913086034991b84b39"
+    "475a719c84bc9c913086034991b84b39",
+    "tg:FabrizioRomanoTG/65138",
+    "tg:FabrizioRomanoTG/65139"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1744,7 +1744,7 @@
     "livakovic -> barcelona": 1,
     "partey -> al shabab": 2,
     "washington -> rc strasbourg": 1,
-    "baleba -> manchester united": 1,
+    "baleba -> manchester united": 2,
     "gregorio -> bournemouth": 1,
     "obaretin -> fc lorient": 1,
     "marmoush -> tottenham": 1,
@@ -1968,11 +1968,10 @@
     "interest: endrick -> liverpool",
     "interest: grabara -> juventus",
     "interest: balde -> milan",
-    "interest: bartishvili -> arsenal"
+    "interest: bartishvili -> arsenal",
+    "interest: martinez -> real madrid"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f atletico madrid have reached verbal agreement to sign 19 year old talent ",
-    "liverpool announce winger transfer and romano confirms another deal agreed",
     "arsenal news: ethan nwaneri transfer stance clear as interest in two man utd sta",
     "\ud83d\udea8 \ud83c\udde7\ud83c\uddf7 manchester city have made contact with palmeiras for 22 year old winger all",
     "bayern munich news: fc bayern won\u2019t add player to help with jamal musiala situat",
@@ -2270,11 +2269,12 @@
     "this is what must happen if psv are to cooperate with dennis man's departure",
     "liverpool get new bradley barcola and ibrahim mbaye update liverpool fc",
     "liverpool transfer boost as bradley barcola and ibrahima mbaye both dropped from",
-    "benfica and aston villa linked with alejandro balde as barcelona star seeks exit"
+    "benfica and aston villa linked with alejandro balde as barcelona star seeks exit",
+    "\ud83d\udea8 \ud83c\uddea\ud83c\uddf8 real madrid are not the only club in talks to sign spanish talent sergio ma",
+    "\ud83d\udea8 manchester united and brighton have exchanged all documents as signed it all f"
   ],
   "tg_update_offset": 263617426,
   "photos": {
-    "curtis jones": "https://r2.thesportsdb.com/images/media/player/cutout/ghs3g51757088342.png/small",
     "maghnes akliouche": "https://r2.thesportsdb.com/images/media/player/cutout/2x2cfx1766237890.png/small",
     "zeki celik": "https://r2.thesportsdb.com/images/media/player/cutout/b8hg8o1758816005.png/small",
     "christos tzolis": "https://r2.thesportsdb.com/images/media/player/cutout/0kse5n1767640896.png/small",
@@ -2569,13 +2569,14 @@
     "nosa obaretin": "https://images.fotmob.com/image_resources/playerimages/1526621.png",
     "kamil grabara": "https://r2.thesportsdb.com/images/media/player/cutout/vls14a1763669328.png/small",
     "ismaila sarr": "https://r2.thesportsdb.com/images/media/player/cutout/1abo611761492444.png/small",
-    "heaven kilwa": "",
     "hermann malonga": "",
     "andria bartishvili": "",
     "tommy marques": "",
-    "dastan satpayev": ""
+    "dastan satpayev": "",
+    "sergio martinez": "https://images.fotmob.com/image_resources/playerimages/1791769.png",
+    "heaven kilwa": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",
@@ -2738,6 +2739,7 @@
     "palmeiras": "https://r2.thesportsdb.com/images/media/team/badge/vsqwqp1473538105.png/small",
     "st mirren": "https://r2.thesportsdb.com/images/media/team/badge/xvtuvv1447604452.png/small",
     "al shabab": "https://images.fotmob.com/image_resources/logo/teamlogo/101916.png",
-    "fc lorient": "https://r2.thesportsdb.com/images/media/team/badge/sxsttw1473504748.png/small"
+    "fc lorient": "https://r2.thesportsdb.com/images/media/team/badge/sxsttw1473504748.png/small",
+    "racing": "https://r2.thesportsdb.com/images/media/team/badge/vi4mu41695734959.png/small"
   }
 }

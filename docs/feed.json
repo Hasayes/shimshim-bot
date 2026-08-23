@@ -1,5 +1,53 @@
 [
  {
+  "id": "tg:FabrizioRomanoTG/65078",
+  "ts": "2026-08-23T06:15:35+00:00",
+  "kind": "deal",
+  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/52x9bk1756994205.png/small",
+  "stage": "Completed",
+  "player": "Carlos Baleba",
+  "position": "\u2014",
+  "age": "\u2014",
+  "from_club": "Brighton",
+  "to_club": "Manchester United",
+  "fee": "\u00a365m plus \u00a35m and sell-on clause",
+  "style": "Energetic central midfielder with strong ball progression and pressing intensity who drives play forward with directness and purpose.",
+  "fit": "Deploy as a box-to-box midfielder to inject dynamism into Manchester United's midfield and provide defensive cover alongside a more creative partner.",
+  "source": "Fabrizio Romano",
+  "summary": "Manchester United and Brighton have completed the signing of Carlos Baleba for \u00a365m plus \u00a35m with a sell-on clause included in the agreement.",
+  "outlet": "Telegram @fabrizioromanotg",
+  "url": "https://t.me/FabrizioRomanoTG/65139",
+  "title": "\ud83d\udea8 Manchester United and Brighton have exchanged all documents as signed it all for Carlos Baleba deal. \u00a365m plus \u00a35m and",
+  "sources": [
+   "Fabrizio Romano"
+  ],
+  "srcTier": "tier1"
+ },
+ {
+  "id": "tg:FabrizioRomanoTG/65138",
+  "ts": "2026-08-23T06:15:30+00:00",
+  "kind": "interest",
+  "photo": "https://images.fotmob.com/image_resources/playerimages/1791769.png",
+  "stage": "\u2014",
+  "player": "Sergio Martinez",
+  "position": "\u2014",
+  "age": "\u2014",
+  "from_club": "Racing",
+  "to_club": "Real Madrid",
+  "fee": "\u2014",
+  "style": "\u2014",
+  "fit": "\u2014",
+  "source": "Fabrizio Romano",
+  "sources": [
+   "Fabrizio Romano"
+  ],
+  "srcTier": "tier1",
+  "summary": "Real Madrid are in talks to sign Spanish talent Sergio Martinez from Racing, with Bundesliga and Premier League clubs also keen on the player.",
+  "outlet": "Telegram @fabrizioromanotg",
+  "url": "https://t.me/FabrizioRomanoTG/65138",
+  "title": "\ud83d\udea8 \ud83c\uddea\ud83c\uddf8 Real Madrid are not the only club in talks to sign Spanish talent Sergio Martinez from Racing. Bundesliga and Premi"
+ },
+ {
   "id": "tg:FabrizioRomanoTG/64559",
   "ts": "2026-08-23T04:00:40+00:00",
   "kind": "deal",
@@ -288,30 +336,6 @@
   "sources": [
    "Fabrizio Romano",
    "Sky Sport"
-  ],
-  "srcTier": "tier1"
- },
- {
-  "id": "tg:FabrizioRomanoTG/65078",
-  "ts": "2026-08-21T19:30:41+00:00",
-  "kind": "deal",
-  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/52x9bk1756994205.png/small",
-  "stage": "Here we go",
-  "player": "Carlos Baleba",
-  "position": "\u2014",
-  "age": "\u2014",
-  "from_club": "Brighton & Hove Albion",
-  "to_club": "Manchester United",
-  "fee": "\u00a365m plus \u00a35m add-ons",
-  "style": "Energetic central midfielder with strong pressing and ball recovery skills, offering physicality and work rate in the engine room.",
-  "fit": "Can operate as a defensive shield or box-to-box option to add midfield control and intensity to Manchester United's setup.",
-  "source": "Fabrizio Romano",
-  "summary": "Manchester United sign Carlos Baleba for \u00a365m plus \u00a35m add-ons in a confirmed here we go.",
-  "outlet": "Telegram @fabrizioromanotg",
-  "url": "https://t.me/FabrizioRomanoTG/65078",
-  "title": "\ud83d\udea8 \ud83d\udd34 The exclusive update of the night: Manchester United sign Carlos Baleba for \u00a365m plus \u00a35m add-ons. Here we go. \ud83c\udde8\ud83c\uddf2 ht",
-  "sources": [
-   "Fabrizio Romano"
   ],
   "srcTier": "tier1"
  },

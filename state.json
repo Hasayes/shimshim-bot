@@ -1,6 +1,5 @@
 {
   "sent": [
-    "f39821c8a7fa34626efcb661122192bd",
     "c8b82b5080f58c6c8cef94e397a0dbbd",
     "tg:FabrizioRomanoTG/64375",
     "bdc27114230404640cad00f6ad8e8ec8",
@@ -1499,7 +1498,8 @@
     "3535c511b2739c6afb3a718a8ca21293",
     "fda34674eb3d49d32d10e3fbcf77105c",
     "5b97f7d2fab867a2bd173084ab9f3549",
-    "a7815f12f4712e7e6896510922bc9ce8"
+    "a7815f12f4712e7e6896510922bc9ce8",
+    "1f59c053c6d69e457081a9054f358d73"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1973,7 +1973,6 @@
     "interest: martinez -> real madrid"
   ],
   "titles": [
-    "transfer news live: arsenal triple deal, alvarez boost; man utd medical; chelsea",
     "man united to face increasing competition from man city for 25 year old frenchma",
     "liverpool news: \u00a370m transfer talks continue as deal finally struck and 'medical",
     "ajax bid farewell to defender who was signed for more than 10 million",
@@ -2272,7 +2271,8 @@
     "mo salah \u2018to be joined at trabzonspor by premier league & champions league winni",
     "romano reveals juventus decision on selling kenan yildiz to arsenal for \u00a386m",
     "chelsea's hunt for conceicao could help juventus land man utd striker zirkzee",
-    "done deal: oosterwolde to roma from fenerbahce with \u20ac18m purchase option"
+    "done deal: oosterwolde to roma from fenerbahce with \u20ac18m purchase option",
+    "tottenham linked with shock loan move for psg defender who also made 86 apperanc"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2570,14 +2570,14 @@
     "kamil grabara": "https://r2.thesportsdb.com/images/media/player/cutout/vls14a1763669328.png/small",
     "ismaila sarr": "https://r2.thesportsdb.com/images/media/player/cutout/1abo611761492444.png/small",
     "sergio martinez": "https://images.fotmob.com/image_resources/playerimages/1791769.png",
-    "hermann malonga": "",
     "andria bartishvili": "",
     "tommy marques": "",
     "dastan satpayev": "",
     "jayden oosterwolde": "https://r2.thesportsdb.com/images/media/player/cutout/w0b1a71724844526.png/small",
-    "heaven kilwa": ""
+    "heaven kilwa": "",
+    "hermann malonga": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 5,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

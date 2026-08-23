@@ -1,7 +1,5 @@
 {
   "sent": [
-    "06b2e187e42e15ea89d770e3dba76ea2",
-    "db130d7cdf5f4512cfaddba00d93c29e",
     "tg:FabrizioRomanoTG/64336",
     "043b6fe549d172b7038a2037ab1a8bd6",
     "tg:FabrizioRomanoTG/64337",
@@ -1499,7 +1497,9 @@
     "5a2901ccce1d2e6c0a0b7a9f674fe06f",
     "ce1099d6cd909b9ec502166ae216e15b",
     "7e46ead20619571b133afb97b5a227a3",
-    "4215279736044f114555fb50ea58ec10"
+    "4215279736044f114555fb50ea58ec10",
+    "33627bb867d6265161a54ef4e6b724bd",
+    "19f418d0af83b0aedd7ae832a31eac11"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1969,8 +1969,6 @@
     "interest: bartishvili -> arsenal"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f como are advancing in talks to sign willy kambwala as new centre back fro",
-    "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 formal steps also completed: joao cancelo will sign his three year deal at",
     "omar marmoush responds to tottenham transfer links",
     "arsenal star \u2018offering himself to barcelona daily\u2019 as deco gets desperate",
     "done deal: jones permission to fly for inter medical, \u20ac35m including bonus from ",
@@ -2268,7 +2266,9 @@
     "romano says \u201cno chance\u201d chelsea winger sold or loaned despite disappointing seas",
     "andoni iraola\u2019s bid to bolster his squad has taken a fresh turn",
     "aston villa take \u201ccrucial step\u201d to secure top champions league player on free tr",
-    "liverpool have yankuba minteh transfer alternative as \u00a370m stance emerges 'i hea"
+    "liverpool have yankuba minteh transfer alternative as \u00a370m stance emerges 'i hea",
+    "aston villa transfer news: leon goretzka speaks to unai emery as agreement moves",
+    "liverpool complete transfer as andoni iraola makes new signing promise the mirro"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2567,13 +2567,13 @@
     "michele di gregorio": "https://r2.thesportsdb.com/images/media/player/cutout/fgvi9t1759222392.png/small",
     "nosa obaretin": "https://images.fotmob.com/image_resources/playerimages/1526621.png",
     "kamil grabara": "https://r2.thesportsdb.com/images/media/player/cutout/vls14a1763669328.png/small",
-    "andria bartishvili": "",
     "tommy marques": "",
     "dastan satpayev": "",
     "heaven kilwa": "",
-    "hermann malonga": ""
+    "hermann malonga": "",
+    "andria bartishvili": ""
   },
-  "photo_repair_idx": 5,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

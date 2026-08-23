@@ -1,6 +1,5 @@
 {
   "sent": [
-    "bdc27114230404640cad00f6ad8e8ec8",
     "7a9ceb8084d7d99e23341a706bc14549",
     "6dc52d93df80accd02e20d795c600749",
     "tg:FabrizioRomanoTG/64376",
@@ -1499,7 +1498,8 @@
     "a7815f12f4712e7e6896510922bc9ce8",
     "1f59c053c6d69e457081a9054f358d73",
     "tg:FabrizioRomanoTG/65146",
-    "tg:FabrizioRomanoTG/65147"
+    "tg:FabrizioRomanoTG/65147",
+    "tg:FabrizioRomanoTG/65148"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1973,7 +1973,6 @@
     "interest: martinez -> real madrid"
   ],
   "titles": [
-    "ajax bid farewell to defender who was signed for more than 10 million",
     "rt @carlosalcaraz : here we go! \ud83d\udc4b\ud83c\udffb \ud83c\uddfa\ud83c\uddf8 \u2014 fabrizio romano ( @fabrizioromano ) aug ",
     "\ud83d\udea8 \u26ab\ufe0f \ud83d\udd35 atalanta confirm deal agreed for bartol levacic for the academy \ud83c\udded\ud83c\uddf7 16 yea",
     "liverpool \u00a370m transfer is still on as reds reach agreement after failed bids",
@@ -2272,7 +2271,8 @@
     "done deal: oosterwolde to roma from fenerbahce with \u20ac18m purchase option",
     "tottenham linked with shock loan move for psg defender who also made 86 apperanc",
     "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f lille agree deal to sign orlando gill from san lorenzo, here we go! \ud83c\uddf5\ud83c\uddfe pa",
-    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f exclusive: rb leipzig submit official bid to lille for matias fernandez p"
+    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f exclusive: rb leipzig submit official bid to lille for matias fernandez p",
+    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f breaking: ayyoub bouaddi to manchester city, here we go! deal agreed club"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2570,14 +2570,14 @@
     "kamil grabara": "https://r2.thesportsdb.com/images/media/player/cutout/vls14a1763669328.png/small",
     "ismaila sarr": "https://r2.thesportsdb.com/images/media/player/cutout/1abo611761492444.png/small",
     "sergio martinez": "https://images.fotmob.com/image_resources/playerimages/1791769.png",
-    "dastan satpayev": "",
     "jayden oosterwolde": "https://r2.thesportsdb.com/images/media/player/cutout/w0b1a71724844526.png/small",
     "heaven kilwa": "",
     "hermann malonga": "",
     "andria bartishvili": "",
-    "tommy marques": ""
+    "tommy marques": "",
+    "dastan satpayev": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

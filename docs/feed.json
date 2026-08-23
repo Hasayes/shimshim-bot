@@ -1,5 +1,30 @@
 [
  {
+  "id": "tg:FabrizioRomanoTG/64559",
+  "ts": "2026-08-23T04:00:40+00:00",
+  "kind": "deal",
+  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/59w2v01757002174.png/small",
+  "stage": "Completed",
+  "player": "Benoit Badiashile",
+  "position": "Centre-back",
+  "age": "\u2014",
+  "from_club": "Chelsea",
+  "to_club": "Napoli",
+  "fee": "\u20ac23m (option)",
+  "style": "A commanding centre-back who combines physical presence with ball-playing ability, offering defensive solidity and distribution from the back.",
+  "fit": "Deploy him as part of Napoli's defensive backbone to provide cover and aerial dominance while enabling the team's possession-based build-up play.",
+  "source": "football-italia",
+  "summary": "Napoli have officially announced the signing of centre-back Benoit Badiashile from Chelsea on loan with an option to buy worth approximately \u20ac23m.",
+  "outlet": "football-italia",
+  "url": "https://football-italia.net/official-napoli-sign-badiashile-from-chelsea/",
+  "title": "Official: Napoli sign Badiashile in potential \u20ac23m transfer from Chelsea",
+  "sources": [
+   "Fabrizio Romano",
+   "football-italia"
+  ],
+  "srcTier": "tier1"
+ },
+ {
   "id": "41cb7e18b1fc20d9bd2fed3fffad7f4c",
   "ts": "2026-08-23T03:00:39+00:00",
   "kind": "deal",
@@ -1552,30 +1577,6 @@
   "outlet": "Telegram @fabrizioromanotg",
   "url": "https://t.me/FabrizioRomanoTG/64570",
   "title": "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f Juventus have reached a verbal agreement with Bologna for Jhon Lucum\u00ec, here we go! Club to club verbal pact set ",
-  "sources": [
-   "Fabrizio Romano"
-  ],
-  "srcTier": "tier1"
- },
- {
-  "id": "tg:FabrizioRomanoTG/64559",
-  "ts": "2026-08-13T17:45:35+00:00",
-  "kind": "deal",
-  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/59w2v01757002174.png/small",
-  "stage": "Here we go",
-  "player": "Benoit Badiashile",
-  "position": "Centre back",
-  "age": "\u2014",
-  "from_club": "Chelsea",
-  "to_club": "Napoli",
-  "fee": "\u20ac3m loan fee, \u20ac1m add-ons, \u20ac27m buy option",
-  "style": "Commanding centre back with strong physical presence and ability to play out from the back with composure and distribution.",
-  "fit": "Deploy as a cornerstone of Napoli's defence in Allegri's system, leveraging his aerial dominance and positioning to shore up the backline.",
-  "source": "Fabrizio Romano",
-  "summary": "Napoli have reached a verbal agreement with Chelsea to sign centre back Benoit Badiashile on loan with a \u20ac27m buy option clause.",
-  "outlet": "Telegram @fabrizioromanotg",
-  "url": "https://t.me/FabrizioRomanoTG/64559",
-  "title": "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f Napoli agree deal to sign Benoit Badiashile from Chelsea, here we go! \ud83c\uddeb\ud83c\uddf7 Club to club verbal agreement done: \u20ac3m ",
   "sources": [
    "Fabrizio Romano"
   ],

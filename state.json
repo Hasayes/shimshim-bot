@@ -1,6 +1,5 @@
 {
   "sent": [
-    "d6dbcfb6f76a9c36327c6191b1f58d0b",
     "tg:FabrizioRomanoTG/64383",
     "tg:FabrizioRomanoTG/64384",
     "tg:FabrizioRomanoTG/64385",
@@ -1499,7 +1498,8 @@
     "d51e22c8961043a32f482fb65b726662",
     "f2af5c4e5e05ff5e2780e0c0f779a813",
     "b9f08bd39d1fb633e71b8ff1c613c41c",
-    "b3d74530468dfc8c4d60e9538e656235"
+    "b3d74530468dfc8c4d60e9538e656235",
+    "4031fcd8a7ad5b4b510ceb2382124e9a"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1973,7 +1973,6 @@
     "interest: martinez -> real madrid"
   ],
   "titles": [
-    "crystal palace reach decision on selling adam wharton to liverpool or man city f",
     "\ud83d\udea8 \u26aa\ufe0f breaking: tottenham reach verbal agreement with manchester city to sign sav",
     "ajax can sell sutalo next year for a maximum of \u20ac15 million",
     "done deal: lazio seal sutalo agreement with ajax",
@@ -2272,7 +2271,8 @@
     "goretzka signs in the premier league after leaving bayern munich",
     "arsenal send new message to julian alvarez after transfer talks",
     "fabrizio romano claims tottenham \u201cconfident\u201d of signing versatile attacker by st",
-    "barcelona begin negotiations with forward\u2019s agent amid plans to convert him into"
+    "barcelona begin negotiations with forward\u2019s agent amid plans to convert him into",
+    "romano: liverpool agree personal terms with \u2018unpredictable\u2019 gem who \u2018dreams of j"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2571,13 +2571,13 @@
     "ismaila sarr": "https://r2.thesportsdb.com/images/media/player/cutout/1abo611761492444.png/small",
     "sergio martinez": "https://images.fotmob.com/image_resources/playerimages/1791769.png",
     "jayden oosterwolde": "https://r2.thesportsdb.com/images/media/player/cutout/w0b1a71724844526.png/small",
-    "heaven kilwa": "",
     "hermann malonga": "",
     "andria bartishvili": "",
     "tommy marques": "",
-    "dastan satpayev": ""
+    "dastan satpayev": "",
+    "heaven kilwa": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

@@ -1,6 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/64394",
     "807046af7c604ea1b766cb3f72ab762d",
     "tg:FabrizioRomanoTG/64395",
     "tg:FabrizioRomanoTG/64396",
@@ -1499,7 +1498,8 @@
     "f3f86bdbd373f950f94ed82ab6b46ba2",
     "0be6f668955292441ced42ba287c2019",
     "8d6596c505077336495505a1adefd548",
-    "8e1a9c2ce076b9d67726a7796629e8af"
+    "8e1a9c2ce076b9d67726a7796629e8af",
+    "7a8d99740e9429144d529c66accd2132"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1974,7 +1974,6 @@
     "interest: martinez -> real madrid"
   ],
   "titles": [
-    "'here we go!': carlos alcaraz confirms us open comeback in unexpected fashion",
     "carlos alcaraz announces return from injury for u s open 'here we go'",
     "carlos alcaraz us open decision confirmed as update on tennis star given",
     "\ud83d\udea8 \u26aa\ufe0f savinho\u2019s move will cost spurs fee in excess of \u00a375m, expected to reach pac",
@@ -2273,7 +2272,8 @@
     "tottenham handed double transfer update as man city make savinho and omar marmou",
     "medical tomorrow: details of the tottenham and manchester city agreement over th",
     "man city agree record breaking \u00a386m deal for sublime ligue 1 midfielder",
-    "62 goal arsenal star \u2018open\u2019 to exit as ornstein confirms \u2018talks\u2019 over \u00a360m trans"
+    "62 goal arsenal star \u2018open\u2019 to exit as ornstein confirms \u2018talks\u2019 over \u00a360m trans",
+    "liverpool 'reach agreement over transfer' as reds handed \u00a370m demand to complete"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2572,13 +2572,13 @@
     "sergio martinez": "https://images.fotmob.com/image_resources/playerimages/1791769.png",
     "jayden oosterwolde": "https://r2.thesportsdb.com/images/media/player/cutout/w0b1a71724844526.png/small",
     "mattia perin": "https://r2.thesportsdb.com/images/media/player/cutout/oo0l5m1759222361.png/small",
-    "tommy marques": "",
     "dastan satpayev": "",
     "heaven kilwa": "",
     "hermann malonga": "",
-    "andria bartishvili": ""
+    "andria bartishvili": "",
+    "tommy marques": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

@@ -1,8 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/64400",
-    "tg:FabrizioRomanoTG/64403",
-    "tg:FabrizioRomanoTG/64405",
     "c642f9b9d2ad9c555ef805004a9fc7fa",
     "tg:FabrizioRomanoTG/64406",
     "tg:FabrizioRomanoTG/64407",
@@ -1499,7 +1496,10 @@
     "ab333aa9fb593b659df02cb08d2f296c",
     "efb5ce3a8e1a3a7d5f7422dc0cd50d0a",
     "bc75eac2a0cc43ed6018f26bb857425e",
-    "0d33eaa39a57f7251ddeb0aa1edd1e31"
+    "0d33eaa39a57f7251ddeb0aa1edd1e31",
+    "31ffdeb04bcd1ee63ae0cdb210f76012",
+    "bcd6a96b1ae380ba384ef2bffbe5e750",
+    "tg:FabrizioRomanoTG/65190"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1974,9 +1974,6 @@
     "interest: martinez -> real madrid"
   ],
   "titles": [
-    "man united transfer news: red devils targeting late summer move for \"expensive\" ",
-    "\u2018here we go\u2019: carlos alcaraz confirms us open return after four month injury abs",
-    "brighton journalist confirms carlos baleba news",
     "fabrizio romano confirms it: medical booked as liverpool set to complete deal",
     "carlos alcaraz announces he's playing in us open after wrist injury sidelined hi",
     "what alejandro balde said about his barcelona future amid man utd interest",
@@ -2273,7 +2270,10 @@
     "arsenal set for stunning \u00a354m profit as ornstein confirms \u2018talks\u2019 to sign 62 goa",
     "leeds united learn outcome of orlando gill chase as deal agreed",
     "aston villa \u2018in contact\u2019 to sign world cup centre back after securing former eur",
-    "'here we go' romano: tottenham agree deal to sign omar marmoush"
+    "'here we go' romano: tottenham agree deal to sign omar marmoush",
+    "arsenal in \u00a360m waiting game as julian alvarez transfer saga takes fresh twist",
+    "former bayern munich midfielder leon goretzka headed to aston villa per report",
+    "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 raphinha: \u201ci\u2019m ready to help and play even as number 9\u201d \u201ci feel comfortabl"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2572,13 +2572,13 @@
     "sergio martinez": "https://images.fotmob.com/image_resources/playerimages/1791769.png",
     "jayden oosterwolde": "https://r2.thesportsdb.com/images/media/player/cutout/w0b1a71724844526.png/small",
     "mattia perin": "https://r2.thesportsdb.com/images/media/player/cutout/oo0l5m1759222361.png/small",
-    "tommy marques": "",
     "dastan satpayev": "",
     "heaven kilwa": "",
     "hermann malonga": "",
-    "andria bartishvili": ""
+    "andria bartishvili": "",
+    "tommy marques": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

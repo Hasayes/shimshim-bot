@@ -1,6 +1,5 @@
 {
   "sent": [
-    "2a9ba01cf6f2466389ef5d380795db59",
     "tg:FabrizioRomanoTG/64446",
     "d6aec986c0d0f6f865eb369004f71863",
     "201c0fe44a010a6b66c32c6ebfa6ebe9",
@@ -1499,7 +1498,8 @@
     "tg:FabrizioRomanoTG/65201",
     "8750c56ebd7f03a8356281b5cb763a5b",
     "tg:FabrizioRomanoTG/65202",
-    "tg:FabrizioRomanoTG/65203"
+    "tg:FabrizioRomanoTG/65203",
+    "200cb8a53c48ffdc010d035b7b70771a"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1974,7 +1974,6 @@
     "interest: martinez -> real madrid"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83c\udde6\ud83c\uddf7 official: fifa ban leandro paredes for 10 games after argentina spain post ",
     "\ud83d\udea8 official: fifa suspensions following post argentina spain clash, including 10 ",
     "\ud83d\udd34 \u26aa\ufe0f \u270d\ud83c\udfff ezri konsa has signed his contract as new arsenal player, all done \u2014 fab",
     "\ud83d\udea8 \ud83c\uddfa\ud83c\udde6 official: shakhtar donetsk will play champions league home games at stamfor",
@@ -2273,7 +2272,8 @@
     "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 official: gavi has no serious injury, barcelona statement confirm \u201cgavi to",
     "manchester city would make a loss on former frankfurt player! omar marmoush\u2019s me",
     "\ud83c\udf81 \ud83c\uddf2\ud83c\udde6 manchester city top signing is coming today: ayyoub bouaddi joins on \u20ac95m p",
-    "\ud83d\udea8 \ud83c\udf52 michele di gregorio\u2019s loan move to bournemouth includes a penalty clause as "
+    "\ud83d\udea8 \ud83c\udf52 michele di gregorio\u2019s loan move to bournemouth includes a penalty clause as ",
+    "ousmane dembele makes final transfer decision in major blow to arsenal, chelsea "
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2572,13 +2572,13 @@
     "sergio martinez": "https://images.fotmob.com/image_resources/playerimages/1791769.png",
     "jayden oosterwolde": "https://r2.thesportsdb.com/images/media/player/cutout/w0b1a71724844526.png/small",
     "mattia perin": "https://r2.thesportsdb.com/images/media/player/cutout/oo0l5m1759222361.png/small",
-    "tommy marques": "",
     "dastan satpayev": "",
     "heaven kilwa": "",
     "hermann malonga": "",
-    "andria bartishvili": ""
+    "andria bartishvili": "",
+    "tommy marques": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

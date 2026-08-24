@@ -668,8 +668,20 @@ def oracle_sanity_check(brief):
     if not ORACLE_SANITY or brief.kind == "none":
         return brief
     player = (brief.player or "").strip()
-    if not player or player == "—" or len(_norm(player).split()) < 2:
-        return brief  # single-token names collide with namesakes
+    if not player or player == "—":
+        return brief
+    # Surname-only names collide with namesakes for club corrections, but
+    # interest in a club the top FotMob surname-hit already plays for is
+    # still a safe kill (Dembele -> PSG while Ousmane is already there).
+    if len(_norm(player).split()) < 2:
+        if brief.kind == "interest":
+            dests = [c.strip() for c in brief.to_club.split(",")
+                     if c.strip() not in ("", "—")]
+            team = oracle_fotmob(player)
+            if team and any(same_club(team, d) for d in dests):
+                print(f"oracle sanity: drop interest — {player} already at {team}")
+                brief.kind = "none"
+        return brief
     teams = oracle_current_clubs(player, max_hits=2)
     if not teams:
         return brief
@@ -1239,6 +1251,33 @@ def _esc(s):
     return s.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
 
 
+def _title_name_head(title):
+    """Normalized page/player name with a parenthetical disambiguator stripped.
+
+    'Moussa Dembélé (French footballer)' -> 'moussa dembele'
+    'Rodri (footballer, born 1996)' -> 'rodri'
+    """
+    return _norm(title).split("(")[0].strip()
+
+
+def _name_matches_query(display_name, surname, first):
+    """True when a candidate display name matches the card's player query.
+
+    Full name (first+surname): both tokens must appear — stops Elijah Upson
+    latching onto father Matthew Upson.
+    Surname-only: only mononym pages/suggestions ('Endrick', 'Rodri') match.
+    'Dembele' must not accept 'Moussa Dembélé' / 'Ousmane Dembélé' — that
+    path once put Moussa's Celtic face on an Ousmane/PSG interest card
+    because Moussa's wiki intro said 'Developed at Paris Saint-Germain'.
+    """
+    head = _title_name_head(display_name)
+    if not head or surname not in head:
+        return False
+    if first:
+        return first in head
+    return head == surname
+
+
 def _wikipedia_photo(player, clubs_text):
     """Second-chance lookup: Wikipedia disambiguates namesakes properly.
 
@@ -1257,12 +1296,8 @@ def _wikipedia_photo(player, clubs_text):
         )["query"]["search"]
         name_parts = _norm(player).split()
         first = name_parts[0] if len(name_parts) > 1 else ""
-        # surname AND first name must appear in the title: Elijah Upson's
-        # search surfaced his father Matthew Upson (also ex-Arsenal, so the
-        # club check alone passed him)
         titles = [h["title"] for h in hits[:5]
-                  if surname in _norm(h.get("title", ""))
-                  and (not first or first in _norm(h.get("title", "")))]
+                  if _name_matches_query(h.get("title", ""), surname, first)]
         if not titles:
             return ""
         data = _get_json(
@@ -1311,8 +1346,8 @@ def _fotmob_photo(player, clubs_text):
                 payload = opt.get("payload") or {}
                 if payload.get("isCoach"):
                     continue
-                text = _norm((opt.get("text") or "").split("|")[0])
-                if surname not in text or (first and first not in text):
+                text = (opt.get("text") or "").split("|")[0]
+                if not _name_matches_query(text, surname, first):
                     continue
                 team = re.sub(r"\s+u\d{2}$", "", _norm(payload.get("teamName") or ""))
                 if not team:

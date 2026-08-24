@@ -15,6 +15,15 @@ assert s.WEB_SEARCH_MAX_USES == 3 and s.ORACLE_SANITY
 assert s.same_club("Manchester City", "Man City")
 assert not s.same_club("Arsenal", "Chelsea")
 
+# Surname-only photo/oracle matching: mononyms OK, bare surnames are not
+# namesake magnets (Dembele must not match Moussa / Ousmane).
+assert s._name_matches_query("Rodri (footballer, born 1996)", "rodri", "")
+assert s._name_matches_query("Endrick", "endrick", "")
+assert not s._name_matches_query("Moussa Dembélé (French footballer)", "dembele", "")
+assert not s._name_matches_query("Ousmane Dembélé", "dembele", "")
+assert s._name_matches_query("Ousmane Dembélé", "dembele", "ousmane")
+assert not s._name_matches_query("Matthew Upson", "upson", "elijah")
+
 s.oracle_current_clubs = lambda player, max_hits=2: {
     "Tijjani Reijnders": ["Manchester City", "Man City"],
     "Filip Jorgensen": ["Chelsea", "Chelsea"],
@@ -39,6 +48,22 @@ b = s.TransferBrief(
     age="25", from_club="Bologna", to_club="Manchester United", fee="£1",
     style="—", fit="—", source="—", summary="x")
 assert s.oracle_sanity_check(b).kind == "none"
+
+# Surname-only interest: top FotMob hit already at destination -> drop
+s.oracle_fotmob = lambda player: {
+    "Dembele": "Paris Saint-Germain",
+    "Endrick": "Real Madrid",
+}.get(player, "")
+b = s.TransferBrief(
+    kind="interest", stage="—", player="Dembele", position="—",
+    age="—", from_club="Barcelona", to_club="Paris Saint-Germain", fee="—",
+    style="—", fit="—", source="—", summary="x")
+assert s.oracle_sanity_check(b).kind == "none"
+b = s.TransferBrief(
+    kind="interest", stage="—", player="Endrick", position="—",
+    age="—", from_club="Palmeiras", to_club="Chelsea", fee="—",
+    style="—", fit="—", source="—", summary="x")
+assert s.oracle_sanity_check(b).kind == "interest"  # at Madrid, not Chelsea
 
 art_news = {"id": "https://x", "source": "Yardbarker"}
 art_tg = {"id": "tg:fabrizioromanotg/1", "source": "Telegram · Fabrizio Romano"}

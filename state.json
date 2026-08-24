@@ -1,7 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/64440",
-    "tg:FabrizioRomanoTG/64442",
     "6f2e9423959c86d5f8e216879aff6027",
     "e00c3ece2e3a598161d81d3387a29b6d",
     "tg:FabrizioRomanoTG/64444",
@@ -1499,7 +1497,9 @@
     "18cda400745d503ef9754f367c3280e9",
     "3534b804067fd54f8b3bba847dcb29d9",
     "9e0febf0d90314edb92f3331b8a2644b",
-    "5156227083be5f1a736df837264f4e9c"
+    "5156227083be5f1a736df837264f4e9c",
+    "eee602655db93e8e0eab1cb18024d8b0",
+    "faa80ca589b90a89f90e96ed82b38e7d"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1974,7 +1974,6 @@
     "interest: martinez -> real madrid"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f sunderland agree deal to sign jules ahoka from antwerp, here we go! deal ",
     "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f excl: sunderland agree deal to sign jules ahoka from antwerp, here we go!",
     "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f arsenal made contact with atletico madrid to discuss julian alvarez deal ",
     "\ud83d\udea8 \u26aa\ufe0f tottenham are confident to proceed with omar marmoush deal by next week as ",
@@ -2273,7 +2272,8 @@
     "monday's gossip: man city ready to meet chelsea's fernandez demand",
     "manchester united lead three horse race for alejandro balde",
     "top man utd target feels his club are \u2018pushing him out\u2019 as \u00a350m will land prem w",
-    "transfer: marmoush to join city\u2019s epl rivals as man utd midfielder leaves club"
+    "transfer: marmoush to join city\u2019s epl rivals as man utd midfielder leaves club",
+    "tottenham close in on stunning double transfer after \u00a350m agreement as medical a"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2572,13 +2572,13 @@
     "sergio martinez": "https://images.fotmob.com/image_resources/playerimages/1791769.png",
     "jayden oosterwolde": "https://r2.thesportsdb.com/images/media/player/cutout/w0b1a71724844526.png/small",
     "mattia perin": "https://r2.thesportsdb.com/images/media/player/cutout/oo0l5m1759222361.png/small",
-    "dastan satpayev": "",
     "heaven kilwa": "",
     "hermann malonga": "",
     "andria bartishvili": "",
-    "tommy marques": ""
+    "tommy marques": "",
+    "dastan satpayev": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

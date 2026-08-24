@@ -1,7 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/64420",
-    "tg:FabrizioRomanoTG/64422",
     "tg:FabrizioRomanoTG/64424",
     "tg:FabrizioRomanoTG/64427",
     "tg:FabrizioRomanoTG/64429",
@@ -1499,7 +1497,9 @@
     "2c9d9725664021527df06697a82e6d80",
     "34f2d0e12cc4bd5bffd548c00defe30f",
     "tg:FabrizioRomanoTG/65193",
-    "912a447ec412a94fc3dcd6d3cdfb2b18"
+    "912a447ec412a94fc3dcd6d3cdfb2b18",
+    "2eb1efce8aee2358fcd31093efca6b90",
+    "42a493885abea57f27f1b7b41c36e1f3"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1974,8 +1974,6 @@
     "interest: martinez -> real madrid"
   ],
   "titles": [
-    "yankuba minteh to liverpool gets stunning boost as nwaneri decision reached",
-    "\ud83d\udea8 \ud83c\udde7\ud83c\uddf7 official, confirmed: arthur melo\u2019s contract at juventus has been terminated",
     "\ud83d\udfe3 \ud83d\udd35 official, confirmed aaron wan bissaka joins aston villa from west ham awb he",
     "\ud83d\udea8 \ud83e\ude77 \ud83d\udda4 palermo are closing in on mattia perin deal from juventus as talks are acc",
     "rt @fabrizioromano : \ud83d\udea8 \u26aa\ufe0f tottenham also confident to get omar marmoush deal don",
@@ -2273,7 +2271,9 @@
     "man utd handed boost in race to sign 'one of the best full backs'",
     "arsenal name \u00a360m price as al hilal open talks for brazilian winger",
     "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f kamil grabara has agreed on personal terms with juventus, waiting for gr",
-    "man utd transfer tactic pays off after michael carrick sends message to ineos"
+    "man utd transfer tactic pays off after michael carrick sends message to ineos",
+    "fabrizio romano: man utd want 'more signings' after hull loss",
+    "milan and porto to resume santiago gimenez talks on monday"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2572,13 +2572,13 @@
     "sergio martinez": "https://images.fotmob.com/image_resources/playerimages/1791769.png",
     "jayden oosterwolde": "https://r2.thesportsdb.com/images/media/player/cutout/w0b1a71724844526.png/small",
     "mattia perin": "https://r2.thesportsdb.com/images/media/player/cutout/oo0l5m1759222361.png/small",
-    "heaven kilwa": "",
     "hermann malonga": "",
     "andria bartishvili": "",
     "tommy marques": "",
-    "dastan satpayev": ""
+    "dastan satpayev": "",
+    "heaven kilwa": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

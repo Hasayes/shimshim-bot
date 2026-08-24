@@ -1,8 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/64430",
-    "tg:FabrizioRomanoTG/64432",
-    "tg:FabrizioRomanoTG/64433",
     "tg:FabrizioRomanoTG/64435",
     "tg:FabrizioRomanoTG/64436",
     "tg:FabrizioRomanoTG/64438",
@@ -1499,7 +1496,10 @@
     "2271a147ceea05114661ea8388935b10",
     "bf4399a373d64ad0ea2f9f98bdfe66e2",
     "tg:FabrizioRomanoTG/65197",
-    "10debdf57e4cc693a790b95193dda4db"
+    "10debdf57e4cc693a790b95193dda4db",
+    "932038070ffb19180c3a8dbb2e2f1b01",
+    "cb642e870d77b9474a6c8a7475ca4ff5",
+    "57ff148f4bc5cae4845e4159ef1c4e26"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1974,9 +1974,6 @@
     "interest: martinez -> real madrid"
   ],
   "titles": [
-    "\ud83d\udc40 \ud83c\udde7\ud83c\uddf7 xavi simons shares \u2018here we go morning\u2019 post as he\u2019s ready to play again wi",
-    "carlos alcaraz us open status confirmed amid long injury recovery",
-    "transfer news live: arsenal target yildiz, liverpool in minteh bid, spurs agree ",
     "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 barcelona have reached a verbal agreement for dominik livakovic to join fr",
     "\ud83d\udea8 \ud83c\uddf2\ud83c\uddfd santi gimenez has no injury or fitness issues; he\u2019s training alone as talks",
     "\ud83d\udea8 \ud83c\udde6\ud83c\uddf7 inter manager cristian chivu: \u201clautaro is our captain and we keep him with ",
@@ -2273,7 +2270,10 @@
     "liverpool could still land psg duo after director\u2019s telling transfer comments",
     "arsenal closer than ever before to julian alvarez deal as atletico ceo defies di",
     "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f al hilal have made official club to club contact with arsenal for gabriel",
-    "matthias jaissle sends clear message on newcastle star\u2019s future after liverpool "
+    "matthias jaissle sends clear message on newcastle star\u2019s future after liverpool ",
+    "juventus, mattia perin to palermo: agreement on a permanent deal, a three year c",
+    "roberto de zerbi refuses to set tottenham season targets: 'we are not a team yet",
+    "fabrizio romano is \u2018super optimistic\u2019 that liverpool are closing in on their nex"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2572,13 +2572,13 @@
     "sergio martinez": "https://images.fotmob.com/image_resources/playerimages/1791769.png",
     "jayden oosterwolde": "https://r2.thesportsdb.com/images/media/player/cutout/w0b1a71724844526.png/small",
     "mattia perin": "https://r2.thesportsdb.com/images/media/player/cutout/oo0l5m1759222361.png/small",
-    "heaven kilwa": "",
     "hermann malonga": "",
     "andria bartishvili": "",
     "tommy marques": "",
-    "dastan satpayev": ""
+    "dastan satpayev": "",
+    "heaven kilwa": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

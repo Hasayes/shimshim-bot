@@ -1,6 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/64412",
     "3ffd5e50b4ad5715f9f98ab8d5353128",
     "tg:FabrizioRomanoTG/64413",
     "tg:FabrizioRomanoTG/64414",
@@ -1499,7 +1498,8 @@
     "328aa5a88e13bcf5c5db272d3aa64e4e",
     "bc58b42a28ecb6ac0522af29fcb6080e",
     "929902b775fa5d86d62a74ddbec7649b",
-    "4130309038932f54afed18c209f6c185"
+    "4130309038932f54afed18c209f6c185",
+    "de7a80ee850d9ff9bbabc463ed6c2163"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1974,7 +1974,6 @@
     "interest: martinez -> real madrid"
   ],
   "titles": [
-    "manchester city have interest in signing an uncapped brazilian to fill the role ",
     "fabrizio romano confirms surprise liverpool deal: star has completed move",
     "what the spanish media say about alejandro balde and jorge salinas links to manc",
     "liverpool highly likely to sign yankuba minteh despite rejected bid \u2013 top source",
@@ -2273,7 +2272,8 @@
     "tottenham deal done for omar marmoush as man city accept less than they paid in ",
     "man united linked barcelona defender believes he is being \"pushed out\" of the cl",
     "man united linked barcelona defender believes he is being \u201cpushed out\u201d of the cl",
-    "barcelona latest transfer update: hamza abdelkarim set for new contract talks af"
+    "barcelona latest transfer update: hamza abdelkarim set for new contract talks af",
+    "tottenham deal done for omar marmoush as insider reveals what man city double ra"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2572,13 +2572,13 @@
     "sergio martinez": "https://images.fotmob.com/image_resources/playerimages/1791769.png",
     "jayden oosterwolde": "https://r2.thesportsdb.com/images/media/player/cutout/w0b1a71724844526.png/small",
     "mattia perin": "https://r2.thesportsdb.com/images/media/player/cutout/oo0l5m1759222361.png/small",
-    "hermann malonga": "",
     "andria bartishvili": "",
     "tommy marques": "",
     "dastan satpayev": "",
-    "heaven kilwa": ""
+    "heaven kilwa": "",
+    "hermann malonga": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 5,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

@@ -1,10 +1,5 @@
 {
   "sent": [
-    "0fb8485c80acce64d55a9e002072bb10",
-    "tg:FabrizioRomanoTG/64391",
-    "8860cff15e966f6305c4169978254574",
-    "56b65928474bac8a57fd914efe5706e1",
-    "tg:FabrizioRomanoTG/64393",
     "1567c7306d8e2e67d3e5da8b086afe8e",
     "4c2bc3894a4f627fe72987d4059bf886",
     "8156ee9143bd03c49bb7492cbbee0934",
@@ -1499,7 +1494,12 @@
     "4c27cc6eef4cebc2cf42ec7dc89c5082",
     "009c33d0cab44cc1a952b446218171cb",
     "a81ef226a42896e2ca5ed4fd439dc210",
-    "4c56e5051ec96226a0213d9c6f8ac6b6"
+    "4c56e5051ec96226a0213d9c6f8ac6b6",
+    "963058ff292180d73acb1bfe9a267af8",
+    "55bcf9a8a3f173be9d1f27c3f1a3a4ae",
+    "42a1a77ad63ea10e85021e6443b9facb",
+    "c81aa9ad61b7c2b5ca6eca0cca2373f3",
+    "2772fe0acdbcf4fcfd8cc2aaa117090f"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1974,10 +1974,6 @@
     "interest: martinez -> real madrid"
   ],
   "titles": [
-    "breaking romano bombshell: man utd make approach for barcelona star as \u2018next pri",
-    "newcastle's lewis hall wants to join man utd after carlos baleba",
-    "liverpool learn new transfer decision after \u00a350m bid for bradley barcola alterna",
-    "'here we go' alcaraz to make return from injury at us open",
     "carlos alcaraz to return from injury for 2026 us open after missing wimbledon, r",
     "liverpool barcola stance revealed after ornstein confirms \u00a350m minteh bid",
     "alcaraz confirms us open return after four month injury layoff",
@@ -2273,7 +2269,11 @@
     "'i can't give any guarantees' \u2013 sporting cp boss rui borges refuses to rule out ",
     "\"i can't give any guarantees\" \u2013 sporting cp boss rui borges refuses to rule out ",
     "barcelona play down links with 24 year old portuguese centre back",
-    "fabrizio romano: liverpool have slammed the brakes on move for psg star"
+    "fabrizio romano: liverpool have slammed the brakes on move for psg star",
+    "talks ongoing: arsenal discussing selling star for \u00a360m fee",
+    "arsenal set asking price for gabriel martinelli with transfer talks underway met",
+    "arsenal in talks with al hilal over gabriel martinelli transfer which would see ",
+    "man united target omitted from squad amid fresh transfer development"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2572,13 +2572,13 @@
     "sergio martinez": "https://images.fotmob.com/image_resources/playerimages/1791769.png",
     "jayden oosterwolde": "https://r2.thesportsdb.com/images/media/player/cutout/w0b1a71724844526.png/small",
     "mattia perin": "https://r2.thesportsdb.com/images/media/player/cutout/oo0l5m1759222361.png/small",
-    "dastan satpayev": "",
     "heaven kilwa": "",
     "hermann malonga": "",
     "andria bartishvili": "",
-    "tommy marques": ""
+    "tommy marques": "",
+    "dastan satpayev": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

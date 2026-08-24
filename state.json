@@ -1,6 +1,5 @@
 {
   "sent": [
-    "9a3880b3576a2639285a2261fd98ab1d",
     "8ddd961efd1e6237d9786bc97031aec7",
     "082e441e42ecdf24f72263ca84ce6d7d",
     "0900019bc478d6ebc13b0b47c85ad6e3",
@@ -1499,7 +1498,8 @@
     "tg:FabrizioRomanoTG/65221",
     "ea116a869a6fdc25922cddf177c2ef16",
     "tg:FabrizioRomanoTG/65222",
-    "tg:FabrizioRomanoTG/65223"
+    "tg:FabrizioRomanoTG/65223",
+    "98ddd94233d2617155f897fb09579938"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1981,7 +1981,6 @@
     "interest: ahanor -> chelsea"
   ],
   "titles": [
-    "savinho to tottenham smashes transfer record as romano confirms second deal \u2018agr",
     "romano gives \u2018here we go\u2019 to next chelsea transfer with \u2018medical\u2019 underway",
     "\u201ci don\u2019t think so\u201d \u2013 fabrizio romano provides update on liverpool star\u2019s future",
     "video: liverpool midfielder jones arrives for inter medical",
@@ -2280,7 +2279,8 @@
     "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f real sociedad reach verbal agreement to sign mamadou sarr on loan from ch",
     "talks held: tottenham ready to let midfielder leave the club after five years",
     "\ud83d\udd35 \u2744\ufe0f chelsea beat fulham on first official game under xabi alonso! morgan rogers",
-    "\ud83d\udea8 \ud83d\udd35 excl: chelsea/blueco monitoring italian versatile 18 year old defender hones"
+    "\ud83d\udea8 \ud83d\udd35 excl: chelsea/blueco monitoring italian versatile 18 year old defender hones",
+    "benfica submit offer for alejandro balde"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2577,15 +2577,15 @@
     "jayden oosterwolde": "https://r2.thesportsdb.com/images/media/player/cutout/w0b1a71724844526.png/small",
     "mattia perin": "https://r2.thesportsdb.com/images/media/player/cutout/oo0l5m1759222361.png/small",
     "christopher nkunku": "https://r2.thesportsdb.com/images/media/player/cutout/0zhdh61758893135.png/small",
-    "heaven kilwa": "",
     "hermann malonga": "",
     "andria bartishvili": "",
     "mamadou sarr": "https://r2.thesportsdb.com/images/media/player/cutout/a1ha5q1766053704.png/small",
     "tommy marques": "",
     "honest ahanor": "https://r2.thesportsdb.com/images/media/player/cutout/uahuuj1764331567.png/small",
-    "dastan satpayev": ""
+    "dastan satpayev": "",
+    "heaven kilwa": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

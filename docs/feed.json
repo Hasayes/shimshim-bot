@@ -1,5 +1,29 @@
 [
  {
+  "id": "6d886f0f27fd979edeb89c83a5848140",
+  "ts": "2026-08-24T04:15:34+00:00",
+  "kind": "deal",
+  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/kgn5451757098568.png/small",
+  "stage": "Completed",
+  "player": "Omar Marmoush",
+  "position": "Forward",
+  "age": "27",
+  "from_club": "Manchester City",
+  "to_club": "Tottenham Hotspur",
+  "fee": "~\u20ac70\u201379m (asking price, no agreed fee)",
+  "style": "A pacey, direct winger who combines sharp technical skills with physical intensity and pressing in the final third.",
+  "fit": "Should operate as a right-sided attacker in Tottenham's setup, leveraging his pace to stretch defenses and create overload situations in wide areas.",
+  "source": "Fabrizio Romano",
+  "summary": "Tottenham have agreed a deal to sign Omar Marmoush from Manchester City. Manchester City are accepting less than they paid for the player in 2025.",
+  "outlet": "football365",
+  "url": "https://www.football365.com/news/tottenham-135m-deal-done-omar-marmoush-savinho",
+  "title": "Tottenham deal done for Omar Marmoush as Man City accept less than they paid in 2025",
+  "sources": [
+   "Fabrizio Romano"
+  ],
+  "srcTier": "tier1"
+ },
+ {
   "id": "tg:FabrizioRomanoTG/65182",
   "ts": "2026-08-23T21:31:12+00:00",
   "kind": "deal",
@@ -262,30 +286,6 @@
   "sources": [
    "Fabrizio Romano",
    "Romano"
-  ],
-  "srcTier": "tier1"
- },
- {
-  "id": "6d886f0f27fd979edeb89c83a5848140",
-  "ts": "2026-08-22T16:15:35+00:00",
-  "kind": "deal",
-  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/kgn5451757098568.png/small",
-  "stage": "Here we go",
-  "player": "Omar Marmoush",
-  "position": "Forward",
-  "age": "27",
-  "from_club": "Manchester City",
-  "to_club": "Tottenham Hotspur",
-  "fee": "~\u20ac70\u201379m (asking price, no agreed fee)",
-  "style": "Pacy, direct winger who combines technical ability with goal-scoring threat from wide positions.",
-  "fit": "Deploy as a right winger in Tottenham's attacking setup to provide width and penetration in the final third.",
-  "source": "Fabrizio Romano",
-  "summary": "Tottenham are calm and confident to complete the Omar Marmoush deal by the start of next week.",
-  "outlet": "Telegram @fabrizioromanotg",
-  "url": "https://t.me/FabrizioRomanoTG/65118",
-  "title": "\ud83d\udea8 \u26aa\ufe0f Tottenham, calm and confident to get Omar Marmoush deal done by the start of next week. \ud83c\udfa5 \u2795 https://t.co/D89LMY1NMG",
-  "sources": [
-   "Fabrizio Romano"
   ],
   "srcTier": "tier1"
  },

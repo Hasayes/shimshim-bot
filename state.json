@@ -1,10 +1,5 @@
 {
   "sent": [
-    "c642f9b9d2ad9c555ef805004a9fc7fa",
-    "tg:FabrizioRomanoTG/64406",
-    "tg:FabrizioRomanoTG/64407",
-    "tg:FabrizioRomanoTG/64408",
-    "tg:FabrizioRomanoTG/64409",
     "tg:FabrizioRomanoTG/64410",
     "tg:FabrizioRomanoTG/64412",
     "3ffd5e50b4ad5715f9f98ab8d5353128",
@@ -1499,7 +1494,12 @@
     "0d33eaa39a57f7251ddeb0aa1edd1e31",
     "31ffdeb04bcd1ee63ae0cdb210f76012",
     "bcd6a96b1ae380ba384ef2bffbe5e750",
-    "tg:FabrizioRomanoTG/65190"
+    "tg:FabrizioRomanoTG/65190",
+    "c1eac489409645920d5d31f9d93902fd",
+    "95b94af5934ac107fb339279bc41a4fe",
+    "328aa5a88e13bcf5c5db272d3aa64e4e",
+    "bc58b42a28ecb6ac0522af29fcb6080e",
+    "929902b775fa5d86d62a74ddbec7649b"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1747,7 +1747,7 @@
     "baleba -> manchester united": 2,
     "gregorio -> bournemouth": 1,
     "obaretin -> fc lorient": 1,
-    "marmoush -> tottenham": 1,
+    "marmoush -> tottenham": 2,
     "ndukwe -> levante": 2,
     "goretzka -> aston villa": 1,
     "sarr -> galatasaray": 1,
@@ -1974,10 +1974,6 @@
     "interest: martinez -> real madrid"
   ],
   "titles": [
-    "fabrizio romano confirms it: medical booked as liverpool set to complete deal",
-    "carlos alcaraz announces he's playing in us open after wrist injury sidelined hi",
-    "what alejandro balde said about his barcelona future amid man utd interest",
-    "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 crystal palace reach verbal agreement to sign axel disasi from chelsea, he",
     "\u2018look no further than \u2019 \u2013 tottenham urged to sign crystal palace forward by form",
     "manchester city have interest in signing an uncapped brazilian to fill the role ",
     "fabrizio romano confirms surprise liverpool deal: star has completed move",
@@ -2273,7 +2269,11 @@
     "'here we go' romano: tottenham agree deal to sign omar marmoush",
     "arsenal in \u00a360m waiting game as julian alvarez transfer saga takes fresh twist",
     "former bayern munich midfielder leon goretzka headed to aston villa per report",
-    "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 raphinha: \u201ci\u2019m ready to help and play even as number 9\u201d \u201ci feel comfortabl"
+    "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 raphinha: \u201ci\u2019m ready to help and play even as number 9\u201d \u201ci feel comfortabl",
+    "transfer: bouaddi to join man city as chelsea block forward from leaving club",
+    "tottenham deal done for omar marmoush as man city accept less than they paid in ",
+    "man united linked barcelona defender believes he is being \"pushed out\" of the cl",
+    "man united linked barcelona defender believes he is being \u201cpushed out\u201d of the cl"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2572,13 +2572,13 @@
     "sergio martinez": "https://images.fotmob.com/image_resources/playerimages/1791769.png",
     "jayden oosterwolde": "https://r2.thesportsdb.com/images/media/player/cutout/w0b1a71724844526.png/small",
     "mattia perin": "https://r2.thesportsdb.com/images/media/player/cutout/oo0l5m1759222361.png/small",
-    "dastan satpayev": "",
     "heaven kilwa": "",
     "hermann malonga": "",
     "andria bartishvili": "",
-    "tommy marques": ""
+    "tommy marques": "",
+    "dastan satpayev": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

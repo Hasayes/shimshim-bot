@@ -1,5 +1,29 @@
 [
  {
+  "id": "63659319599b9c4b9bffbe0d46e9f167",
+  "ts": "2026-08-24T14:07:03+00:00",
+  "kind": "interest",
+  "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/20170701_SK_Rapid_Wien_vs_Celtic_FC_1243_%28cropped%29.jpg/330px-20170701_SK_Rapid_Wien_vs_Celtic_FC_1243_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "stage": "\u2014",
+  "player": "Dembele",
+  "position": "\u2014",
+  "age": "\u2014",
+  "from_club": "Barcelona",
+  "to_club": "Paris Saint-Germain",
+  "fee": "\u2014",
+  "style": "Explosive winger with electric pace, dribbling skills, and the ability to cut inside or take on defenders down the flank.",
+  "fit": "Should be deployed as a direct attacking threat on either wing to provide width, creativity, and goal-scoring opportunities in PSG's attacking setup.",
+  "source": "ng_shotoe",
+  "sources": [
+   "ng_shotoe"
+  ],
+  "srcTier": "standard",
+  "summary": "Paris Saint-Germain has set sights on Barcelona's Dembele, reviving interest in the winger.",
+  "outlet": "ng_shotoe",
+  "url": "https://ng.shotoe.com/dembele-st_69740/news/barcelona-brace-for-deja-vu-as-psg-set-sights-on-dembele-sn_4364570/",
+  "title": "Barcelona brace for deja vu as PSG set sights on Dembele"
+ },
+ {
   "id": "tg:FabrizioRomanoTG/65084",
   "ts": "2026-08-24T12:45:43+00:00",
   "kind": "deal",

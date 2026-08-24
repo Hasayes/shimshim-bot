@@ -1,6 +1,5 @@
 {
   "sent": [
-    "d6aec986c0d0f6f865eb369004f71863",
     "201c0fe44a010a6b66c32c6ebfa6ebe9",
     "1599c48a0fd41cdb1e6caad17d4a4eab",
     "fa014a23d3a29e0f5054d72f7c2c39a4",
@@ -1499,7 +1498,8 @@
     "tg:FabrizioRomanoTG/65202",
     "tg:FabrizioRomanoTG/65203",
     "200cb8a53c48ffdc010d035b7b70771a",
-    "63659319599b9c4b9bffbe0d46e9f167"
+    "63659319599b9c4b9bffbe0d46e9f167",
+    "tg:FabrizioRomanoTG/65204"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1975,7 +1975,6 @@
     "interest: dembele -> psg"
   ],
   "titles": [
-    "\ud83d\udd34 \u26aa\ufe0f \u270d\ud83c\udfff ezri konsa has signed his contract as new arsenal player, all done \u2014 fab",
     "\ud83d\udea8 \ud83c\uddfa\ud83c\udde6 official: shakhtar donetsk will play champions league home games at stamfor",
     "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f official: ezri konsa joins arsenal from aston villa on \u00a350m plus \u00a35m add ",
     "bayern munich news: fc barcelona still wants fc bayern star harry kane; real mad",
@@ -2274,7 +2273,8 @@
     "\ud83c\udf81 \ud83c\uddf2\ud83c\udde6 manchester city top signing is coming today: ayyoub bouaddi joins on \u20ac95m p",
     "\ud83d\udea8 \ud83c\udf52 michele di gregorio\u2019s loan move to bournemouth includes a penalty clause as ",
     "ousmane dembele makes final transfer decision in major blow to arsenal, chelsea ",
-    "barcelona brace for deja vu as psg set sights on dembele"
+    "barcelona brace for deja vu as psg set sights on dembele",
+    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f al hilal are getting closer to gabriel martinelli deal done after club to"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2572,14 +2572,14 @@
     "sergio martinez": "https://images.fotmob.com/image_resources/playerimages/1791769.png",
     "jayden oosterwolde": "https://r2.thesportsdb.com/images/media/player/cutout/w0b1a71724844526.png/small",
     "mattia perin": "https://r2.thesportsdb.com/images/media/player/cutout/oo0l5m1759222361.png/small",
-    "heaven kilwa": "",
     "hermann malonga": "",
     "andria bartishvili": "",
     "tommy marques": "",
     "dembele": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/20170701_SK_Rapid_Wien_vs_Celtic_FC_1243_%28cropped%29.jpg/330px-20170701_SK_Rapid_Wien_vs_Celtic_FC_1243_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "dastan satpayev": ""
+    "dastan satpayev": "",
+    "heaven kilwa": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

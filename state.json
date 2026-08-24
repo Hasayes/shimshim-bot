@@ -1,6 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/64399",
     "d7c0583e5fcbfae332546e8c614600e5",
     "tg:FabrizioRomanoTG/64400",
     "tg:FabrizioRomanoTG/64403",
@@ -1499,7 +1498,8 @@
     "7a8d99740e9429144d529c66accd2132",
     "3b0a1f767235102b418ffc4a76c65422",
     "ab333aa9fb593b659df02cb08d2f296c",
-    "efb5ce3a8e1a3a7d5f7422dc0cd50d0a"
+    "efb5ce3a8e1a3a7d5f7422dc0cd50d0a",
+    "bc75eac2a0cc43ed6018f26bb857425e"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1974,7 +1974,6 @@
     "interest: martinez -> real madrid"
   ],
   "titles": [
-    "carlos alcaraz confirms blockbuster return date to tennis after 4 months absence",
     "andrea berta eyes arsenal transfer ally as aston villa make surprise bid for ezr",
     "man united transfer news: red devils targeting late summer move for \"expensive\" ",
     "\u2018here we go\u2019: carlos alcaraz confirms us open return after four month injury abs",
@@ -2273,7 +2272,8 @@
     "liverpool 'reach agreement over transfer' as reds handed \u00a370m demand to complete",
     "xabi alonso tries to manifest great cole palmer season with \u201cworld class\u201d commen",
     "arsenal set for stunning \u00a354m profit as ornstein confirms \u2018talks\u2019 to sign 62 goa",
-    "leeds united learn outcome of orlando gill chase as deal agreed"
+    "leeds united learn outcome of orlando gill chase as deal agreed",
+    "aston villa \u2018in contact\u2019 to sign world cup centre back after securing former eur"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2572,13 +2572,13 @@
     "sergio martinez": "https://images.fotmob.com/image_resources/playerimages/1791769.png",
     "jayden oosterwolde": "https://r2.thesportsdb.com/images/media/player/cutout/w0b1a71724844526.png/small",
     "mattia perin": "https://r2.thesportsdb.com/images/media/player/cutout/oo0l5m1759222361.png/small",
-    "hermann malonga": "",
     "andria bartishvili": "",
     "tommy marques": "",
     "dastan satpayev": "",
-    "heaven kilwa": ""
+    "heaven kilwa": "",
+    "hermann malonga": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 5,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

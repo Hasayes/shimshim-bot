@@ -1,7 +1,5 @@
 {
   "sent": [
-    "91514c4d29741fd4a2d1ec1591173f87",
-    "b924e6cfbf6ec5aa138b8a137d9ef805",
     "2aaa7c43cc37022ad54e6802f0a7fe10",
     "tg:FabrizioRomanoTG/64462",
     "tg:FabrizioRomanoTG/64463",
@@ -1499,7 +1497,9 @@
     "0ed70eda9e96d440a7233d21855ff21d",
     "fa7028c7ae8cc0d838daef86faea3c03",
     "9d4a6e3b498055c17a99f28b8ed27de5",
-    "dd92fcb32da05791fc43df0137725e96"
+    "dd92fcb32da05791fc43df0137725e96",
+    "e6b537f94e960642e19fe41bb87d7059",
+    "tg:FabrizioRomanoTG/65227"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1981,8 +1981,6 @@
     "interest: ahanor -> chelsea"
   ],
   "titles": [
-    "what the score was when carlos alcaraz played a practice match with holger rune ",
-    "luis henrique approval still eludes roma in inter talks",
     "next liverpool offer 'gets it done' as barcola deal accelerates but mbaye is 'mo",
     "inter downplay lautaro martinez buzz, lock up esposito",
     "\ud83d\udea8 \ud83c\udf52 bournemouth have agreed on loan deal to sign michele di gregorio from juvent",
@@ -2280,7 +2278,9 @@
     "al hilal make decision on pursuit of chelsea winger neto",
     "\u2018new official bid\u2019 from tottenham for cody gakpo revealed as stunning \u2018plan b\u2019 e",
     "barcelona boss insists he has not told man united target balde to leave",
-    "newcastle advancing in talks to sign manchester city midfielder"
+    "newcastle advancing in talks to sign manchester city midfielder",
+    "chelsea boss speaks about mykhailo mudryk amid coventry city and leeds united tr",
+    "\ud83d\udcfa new youtube video uploaded! \ud83c\udfac \ud83d\udea8 \ud83d\udca3 one to go! \u20ac40m deal done! leao, enzo, marti"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2579,13 +2579,13 @@
     "christopher nkunku": "https://r2.thesportsdb.com/images/media/player/cutout/0zhdh61758893135.png/small",
     "mamadou sarr": "https://r2.thesportsdb.com/images/media/player/cutout/a1ha5q1766053704.png/small",
     "honest ahanor": "https://r2.thesportsdb.com/images/media/player/cutout/uahuuj1764331567.png/small",
-    "dastan satpayev": "",
     "heaven kilwa": "",
     "hermann malonga": "",
     "andria bartishvili": "",
-    "tommy marques": ""
+    "tommy marques": "",
+    "dastan satpayev": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

@@ -1,6 +1,5 @@
 {
   "sent": [
-    "1043805e12fd9ff341c486c0471d78e2",
     "1f470d9f63a4d6b0d376ae058741e810",
     "b89e1d622b69fd962d8b00ad0e7544b6",
     "795c897f806baf6c88a5725fa1fb00ed",
@@ -1499,7 +1498,8 @@
     "a2021f43a463b409a8fcc17a54329ee3",
     "tg:FabrizioRomanoTG/65209",
     "tg:FabrizioRomanoTG/65210",
-    "tg:FabrizioRomanoTG/65211"
+    "tg:FabrizioRomanoTG/65211",
+    "bdf0c71f0891baf489da9619c974b5a1"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1978,7 +1978,6 @@
     "interest: dembele -> psg"
   ],
   "titles": [
-    "sources: liverpool target \u2018outstanding\u2019 midfielder but move could rise towards \u00a3",
     "\ud83d\udea8 \ud83c\uddeb\ud83c\uddf7 both newcastle and rb leipzig are in direct contact with ac milan for chris",
     "fabrizio romano confirms \u2018here we go\u2019 as tottenham make another statement signin",
     "from madrid veto to camp nou chase: why arsenal's top scorer is eyeing a late ba",
@@ -2277,7 +2276,8 @@
     "liverpool latest: yankuba minteh transfer 'update' as bradley barcola decision m",
     "\ud83d\udea8 \ud83c\uddf3\ud83c\uddf1 manchester city made contact with cody gakpo\u2019s camp today, as @mounirbouali",
     "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f juventus agree loan deal to sign kamil grabara from wolfsburg, here we g",
-    "\ud83d\udea8 liverpool will only sell cody gakpo if they can get two wingers in next 8 days"
+    "\ud83d\udea8 liverpool will only sell cody gakpo if they can get two wingers in next 8 days",
+    "liverpool injury update: chiesa, gomez and ekitike latest return dates london ev"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2575,14 +2575,14 @@
     "sergio martinez": "https://images.fotmob.com/image_resources/playerimages/1791769.png",
     "jayden oosterwolde": "https://r2.thesportsdb.com/images/media/player/cutout/w0b1a71724844526.png/small",
     "mattia perin": "https://r2.thesportsdb.com/images/media/player/cutout/oo0l5m1759222361.png/small",
-    "tommy marques": "",
     "dastan satpayev": "",
     "christopher nkunku": "https://r2.thesportsdb.com/images/media/player/cutout/0zhdh61758893135.png/small",
     "heaven kilwa": "",
     "hermann malonga": "",
-    "andria bartishvili": ""
+    "andria bartishvili": "",
+    "tommy marques": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

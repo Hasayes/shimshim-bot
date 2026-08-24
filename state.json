@@ -1,6 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/64435",
     "tg:FabrizioRomanoTG/64436",
     "tg:FabrizioRomanoTG/64438",
     "50d661c80004ded19104d66a3f4b8019",
@@ -1499,7 +1498,8 @@
     "10debdf57e4cc693a790b95193dda4db",
     "932038070ffb19180c3a8dbb2e2f1b01",
     "cb642e870d77b9474a6c8a7475ca4ff5",
-    "57ff148f4bc5cae4845e4159ef1c4e26"
+    "57ff148f4bc5cae4845e4159ef1c4e26",
+    "tg:FabrizioRomanoTG/65198"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1974,7 +1974,6 @@
     "interest: martinez -> real madrid"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 barcelona have reached a verbal agreement for dominik livakovic to join fr",
     "\ud83d\udea8 \ud83c\uddf2\ud83c\uddfd santi gimenez has no injury or fitness issues; he\u2019s training alone as talks",
     "\ud83d\udea8 \ud83c\udde6\ud83c\uddf7 inter manager cristian chivu: \u201clautaro is our captain and we keep him with ",
     "\ud83d\udea8 \u26aa\ufe0f denzel dumfries, presented as new real madrid player by florentino perez he",
@@ -2273,7 +2272,8 @@
     "matthias jaissle sends clear message on newcastle star\u2019s future after liverpool ",
     "juventus, mattia perin to palermo: agreement on a permanent deal, a three year c",
     "roberto de zerbi refuses to set tottenham season targets: 'we are not a team yet",
-    "fabrizio romano is \u2018super optimistic\u2019 that liverpool are closing in on their nex"
+    "fabrizio romano is \u2018super optimistic\u2019 that liverpool are closing in on their nex",
+    "\ud83d\udea8 key days ahead for nico jackson who\u2019s set to leave chelsea \u2014 but only on perma"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2572,13 +2572,13 @@
     "sergio martinez": "https://images.fotmob.com/image_resources/playerimages/1791769.png",
     "jayden oosterwolde": "https://r2.thesportsdb.com/images/media/player/cutout/w0b1a71724844526.png/small",
     "mattia perin": "https://r2.thesportsdb.com/images/media/player/cutout/oo0l5m1759222361.png/small",
-    "hermann malonga": "",
     "andria bartishvili": "",
     "tommy marques": "",
     "dastan satpayev": "",
-    "heaven kilwa": ""
+    "heaven kilwa": "",
+    "hermann malonga": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 5,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

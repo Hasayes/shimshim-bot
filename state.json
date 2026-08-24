@@ -1,8 +1,5 @@
 {
   "sent": [
-    "6be35ecad855d667401aa1512e87921c",
-    "e5160faff8f543c71d25ffa48638e2f9",
-    "36914d274c171a9b8e471db5d69a7dc8",
     "tg:FabrizioRomanoTG/64450",
     "195cdb1845fcff6d036ac24f8cb55a58",
     "9fc9faff39521ee6495d20074a6a1ae2",
@@ -1499,7 +1496,10 @@
     "bdf0c71f0891baf489da9619c974b5a1",
     "tg:FabrizioRomanoTG/65212",
     "tg:FabrizioRomanoTG/65214",
-    "tg:FabrizioRomanoTG/65215"
+    "tg:FabrizioRomanoTG/65215",
+    "0ea25ea4b77b686e53df2bde68f2cea2",
+    "514d30509cbdbb617ecac0f99991e0f4",
+    "7f285e8ea6671aea47281348893da207"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1979,9 +1979,6 @@
     "interest: dembele -> psg"
   ],
   "titles": [
-    "arsenal consider late move for \u2018extraordinary player\u2019 to strengthen attacking po",
-    "'here we go' romano: tottenham agree \u00a375m+ deal to sign savinho",
-    "crystal palace look to have squashed any chance of manchester city signing an en",
     "\ud83d\udcfa new youtube video uploaded! \ud83c\udfac \ud83d\udea8 \ud83d\udca3 boom \u00a360m bid! julian update! balde, united ",
     "fabrizio romano confirms two forwards coming when gakpo is sold",
     "transfer news live: arsenal done deal, alvarez offered; man utd medical; liverpo",
@@ -2278,7 +2275,10 @@
     "liverpool injury update: chiesa, gomez and ekitike latest return dates london ev",
     "\ud83d\udea8 moise kean, on the bench today for fiorentina as como hope to get the deal don",
     "\ud83d\udea8 \ud83e\ude75 \ud83e\udd0d breaking: manchester city reach verbal agreement with palmeiras for allan,",
-    "\ud83d\udcfa new youtube video uploaded! \ud83c\udfac \ud83d\udea8 \ud83d\udca3 wingers bomba! gakpo, barcola, martinelli! \u00a3"
+    "\ud83d\udcfa new youtube video uploaded! \ud83c\udfac \ud83d\udea8 \ud83d\udca3 wingers bomba! gakpo, barcola, martinelli! \u00a3",
+    "liverpool given bradley barcola \u2018guarantee\u2019 from fabrizio romano as transfer mov",
+    "liverpool 'accelerate' bradley barcola transfer after fabrizio romano drops huge",
+    "arsenal news: \u00a3130m transfer talks held in london as manager gives update on 'ph"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2577,13 +2577,13 @@
     "jayden oosterwolde": "https://r2.thesportsdb.com/images/media/player/cutout/w0b1a71724844526.png/small",
     "mattia perin": "https://r2.thesportsdb.com/images/media/player/cutout/oo0l5m1759222361.png/small",
     "christopher nkunku": "https://r2.thesportsdb.com/images/media/player/cutout/0zhdh61758893135.png/small",
-    "heaven kilwa": "",
     "hermann malonga": "",
     "andria bartishvili": "",
     "tommy marques": "",
-    "dastan satpayev": ""
+    "dastan satpayev": "",
+    "heaven kilwa": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

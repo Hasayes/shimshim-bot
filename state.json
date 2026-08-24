@@ -1,8 +1,5 @@
 {
   "sent": [
-    "722516a97a07f538b41f0afb71900c95",
-    "4209cf566b65cba90b71560b4db99d73",
-    "tg:FabrizioRomanoTG/64457",
     "1de8eef8b2055946bdf81ee0c16d90ab",
     "d259a270abc300738d14ff911b95b5c0",
     "09a6fcc0e703a98a10aaa378e78e13c4",
@@ -1499,7 +1496,10 @@
     "2ef2e8cd33bcf6db94833d4fbbc6f17e",
     "3a4cad98fa87537b1f42e4d649b097bf",
     "2cb41d791542170bc5668280d14a42ef",
-    "tg:FabrizioRomanoTG/65220"
+    "tg:FabrizioRomanoTG/65220",
+    "9cf794321e7839c72519b89346e6118c",
+    "1b7b2bfa2cdcce2bb91d41df2ee93951",
+    "78d545a039401aec22adb49c3f651ce9"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1979,9 +1979,6 @@
     "interest: dembele -> psg"
   ],
   "titles": [
-    "tottenham reach agreement for manchester city star as spurs spending this summer",
-    "tottenham agree \u00a375m savinho deal as talks progress for man city teammate marmou",
-    "\ud83d\udea8 \ud83d\udd34 the exclusive update of the night: manchester united sign carlos baleba for ",
     "\ud83d\udea8 \ud83d\udd34 understand carlos baleba to man united deal fee will be \u00a365m plus \u00a35m add on",
     "\ud83d\udea8 breaking: ezri konsa 'completes move' from aston villa to arsenal",
     "ornstein: konsa to arsenal complete",
@@ -2278,7 +2275,10 @@
     "\u00a343m full back dropped from season opener after romano confirms man utd have app",
     "romano reveals mudryk\u2019s decision on leeds transfer as chelsea star is offered mo",
     "liverpool news: \u00a3111m bid can clinch transfer as star 'dreams' of making move th",
-    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f lazio are closing in on andrea pinamonti deal from sassuolo initial loan "
+    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f lazio are closing in on andrea pinamonti deal from sassuolo initial loan ",
+    "barcelona have preference; arsenal have the money \u2013 julian alvarez faces definin",
+    "video: di gregorio flies out for bournemouth medical",
+    "exactly what manchester city need in midfield is set to arrive"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2577,13 +2577,13 @@
     "jayden oosterwolde": "https://r2.thesportsdb.com/images/media/player/cutout/w0b1a71724844526.png/small",
     "mattia perin": "https://r2.thesportsdb.com/images/media/player/cutout/oo0l5m1759222361.png/small",
     "christopher nkunku": "https://r2.thesportsdb.com/images/media/player/cutout/0zhdh61758893135.png/small",
-    "hermann malonga": "",
     "andria bartishvili": "",
     "tommy marques": "",
     "dastan satpayev": "",
-    "heaven kilwa": ""
+    "heaven kilwa": "",
+    "hermann malonga": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 5,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

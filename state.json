@@ -1,8 +1,5 @@
 {
   "sent": [
-    "1f470d9f63a4d6b0d376ae058741e810",
-    "b89e1d622b69fd962d8b00ad0e7544b6",
-    "795c897f806baf6c88a5725fa1fb00ed",
     "6be35ecad855d667401aa1512e87921c",
     "e5160faff8f543c71d25ffa48638e2f9",
     "36914d274c171a9b8e471db5d69a7dc8",
@@ -1499,7 +1496,10 @@
     "tg:FabrizioRomanoTG/65209",
     "tg:FabrizioRomanoTG/65210",
     "tg:FabrizioRomanoTG/65211",
-    "bdf0c71f0891baf489da9619c974b5a1"
+    "bdf0c71f0891baf489da9619c974b5a1",
+    "tg:FabrizioRomanoTG/65212",
+    "tg:FabrizioRomanoTG/65214",
+    "tg:FabrizioRomanoTG/65215"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1755,7 +1755,8 @@
     "perin -> palermo": 1,
     "gonzalez -> newcastle": 1,
     "nkunku -> rb leipzig": 1,
-    "grabara -> juventus": 1
+    "grabara -> juventus": 1,
+    "allan -> manchester city": 1
   },
   "interest": [
     "interest: alvarez -> arsenal",
@@ -1978,9 +1979,6 @@
     "interest: dembele -> psg"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83c\uddeb\ud83c\uddf7 both newcastle and rb leipzig are in direct contact with ac milan for chris",
-    "fabrizio romano confirms \u2018here we go\u2019 as tottenham make another statement signin",
-    "from madrid veto to camp nou chase: why arsenal's top scorer is eyeing a late ba",
     "arsenal consider late move for \u2018extraordinary player\u2019 to strengthen attacking po",
     "'here we go' romano: tottenham agree \u00a375m+ deal to sign savinho",
     "crystal palace look to have squashed any chance of manchester city signing an en",
@@ -2277,7 +2275,10 @@
     "\ud83d\udea8 \ud83c\uddf3\ud83c\uddf1 manchester city made contact with cody gakpo\u2019s camp today, as @mounirbouali",
     "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f juventus agree loan deal to sign kamil grabara from wolfsburg, here we g",
     "\ud83d\udea8 liverpool will only sell cody gakpo if they can get two wingers in next 8 days",
-    "liverpool injury update: chiesa, gomez and ekitike latest return dates london ev"
+    "liverpool injury update: chiesa, gomez and ekitike latest return dates london ev",
+    "\ud83d\udea8 moise kean, on the bench today for fiorentina as como hope to get the deal don",
+    "\ud83d\udea8 \ud83e\ude75 \ud83e\udd0d breaking: manchester city reach verbal agreement with palmeiras for allan,",
+    "\ud83d\udcfa new youtube video uploaded! \ud83c\udfac \ud83d\udea8 \ud83d\udca3 wingers bomba! gakpo, barcola, martinelli! \u00a3"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2575,14 +2576,14 @@
     "sergio martinez": "https://images.fotmob.com/image_resources/playerimages/1791769.png",
     "jayden oosterwolde": "https://r2.thesportsdb.com/images/media/player/cutout/w0b1a71724844526.png/small",
     "mattia perin": "https://r2.thesportsdb.com/images/media/player/cutout/oo0l5m1759222361.png/small",
-    "dastan satpayev": "",
     "christopher nkunku": "https://r2.thesportsdb.com/images/media/player/cutout/0zhdh61758893135.png/small",
     "heaven kilwa": "",
     "hermann malonga": "",
     "andria bartishvili": "",
-    "tommy marques": ""
+    "tommy marques": "",
+    "dastan satpayev": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

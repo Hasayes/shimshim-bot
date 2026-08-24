@@ -1,5 +1,29 @@
 [
  {
+  "id": "tg:FabrizioRomanoTG/64991",
+  "ts": "2026-08-24T18:00:40+00:00",
+  "kind": "deal",
+  "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Allan-palmeiras-sport-ago-25-4.jpg/330px-Allan-palmeiras-sport-ago-25-4.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "stage": "Here we go",
+  "player": "Allan",
+  "position": "Winger",
+  "age": "22",
+  "from_club": "Palmeiras",
+  "to_club": "Manchester City",
+  "fee": "\u20ac40m fixed plus add-ons",
+  "style": "Pacey winger with sharp dribbling skills and direct running style from Brazil's Palmeiras system.",
+  "fit": "Can provide width and attacking depth for Enzo Maresca's system as a backup option on the flank.",
+  "source": "Fabrizio Romano",
+  "summary": "Manchester City reach verbal agreement with Palmeiras for winger Allan. Transfer worth \u20ac40m fixed plus add-ons, with documents being exchanged between clubs.",
+  "outlet": "Telegram @fabrizioromanotg",
+  "url": "https://t.me/FabrizioRomanoTG/65214",
+  "title": "\ud83d\udea8 \ud83e\ude75 \ud83e\udd0d BREAKING: Manchester City reach verbal agreement with Palmeiras for Allan, here we go! New winger incoming for Enz",
+  "sources": [
+   "Fabrizio Romano"
+  ],
+  "srcTier": "tier1"
+ },
+ {
   "id": "tg:FabrizioRomanoTG/65094",
   "ts": "2026-08-24T17:01:24+00:00",
   "kind": "deal",
@@ -824,30 +848,6 @@
    "aggregated by CaughtOffside"
   ],
   "srcTier": "standard"
- },
- {
-  "id": "tg:FabrizioRomanoTG/64991",
-  "ts": "2026-08-20T15:00:49+00:00",
-  "kind": "interest",
-  "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Allan-palmeiras-sport-ago-25-4.jpg/330px-Allan-palmeiras-sport-ago-25-4.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-  "stage": "\u2014",
-  "player": "Allan",
-  "position": "winger",
-  "age": "22",
-  "from_club": "Palmeiras",
-  "to_club": "Manchester City",
-  "fee": "\u2014",
-  "style": "\u2014",
-  "fit": "\u2014",
-  "source": "Fabrizio Romano",
-  "summary": "Manchester City have made contact with Palmeiras for 22-year-old winger Allan as a main option to replace Savinho, with initial discussions held over price and the player keen on a move.",
-  "outlet": "Telegram @fabrizioromanotg",
-  "url": "https://t.me/FabrizioRomanoTG/64991",
-  "title": "\ud83d\udea8 \ud83c\udde7\ud83c\uddf7 Manchester City have made contact with Palmeiras for 22 year old winger Allan as main option to replace Savinho. In",
-  "sources": [
-   "Fabrizio Romano"
-  ],
-  "srcTier": "tier1"
  },
  {
   "id": "tg:FabrizioRomanoTG/64987",

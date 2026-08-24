@@ -1,10 +1,5 @@
 {
   "sent": [
-    "6808af3340528f3ee770f48607d17b74",
-    "tg:FabrizioRomanoTG/64389",
-    "4318fffe58a1894b616d1805fb8ffb15",
-    "tg:FabrizioRomanoTG/64390",
-    "1701b2a0fb02559d5c96402f9cccc72a",
     "0fb8485c80acce64d55a9e002072bb10",
     "tg:FabrizioRomanoTG/64391",
     "8860cff15e966f6305c4169978254574",
@@ -1499,7 +1494,12 @@
     "64d08a563e5b0378bc1c38ae9897eeb9",
     "0b8cb11427e8aa10faa1ac93228b22e2",
     "c7ee31c48e34c1e9d4d523134d4def6a",
-    "717094835097ac1b159277e556ed8450"
+    "717094835097ac1b159277e556ed8450",
+    "50d9cd718f4e508bfd0a6821ed14dd05",
+    "4c27cc6eef4cebc2cf42ec7dc89c5082",
+    "009c33d0cab44cc1a952b446218171cb",
+    "a81ef226a42896e2ca5ed4fd439dc210",
+    "4c56e5051ec96226a0213d9c6f8ac6b6"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1974,11 +1974,6 @@
     "interest: martinez -> real madrid"
   ],
   "titles": [
-    "manchester united open talks to sign barcelona star after \u00a365m carlos baleba tra",
-    "manchester united make contact for alejandro balde",
-    "bradley barcola latest, cody gakpo exit, transfer needs your liverpool questions",
-    "decision reached as liverpool linked with stunning arsenal raid for ethan nwaner",
-    "ornstein: liverpool see \u00a350m bid for brighton forward yankuba minteh rejected",
     "breaking romano bombshell: man utd make approach for barcelona star as \u2018next pri",
     "newcastle's lewis hall wants to join man utd after carlos baleba",
     "liverpool learn new transfer decision after \u00a350m bid for bradley barcola alterna",
@@ -2273,7 +2268,12 @@
     "man utd given huge alejandro balde transfer boost as barcelona greenlight triple",
     "juventus clarify stance on arsenal winger target",
     "confirmed: leeds remain in talks to sign 'most unique player in the world'",
-    "barcelona make brutal alejandro balde decision as hansi flick uncertainty offers"
+    "barcelona make brutal alejandro balde decision as hansi flick uncertainty offers",
+    "manchester city transfer news: ayyoub bouaddi deal agreed with lille in \u20ac100m bl",
+    "'i can't give any guarantees' \u2013 sporting cp boss rui borges refuses to rule out ",
+    "\"i can't give any guarantees\" \u2013 sporting cp boss rui borges refuses to rule out ",
+    "barcelona play down links with 24 year old portuguese centre back",
+    "fabrizio romano: liverpool have slammed the brakes on move for psg star"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2572,13 +2572,13 @@
     "sergio martinez": "https://images.fotmob.com/image_resources/playerimages/1791769.png",
     "jayden oosterwolde": "https://r2.thesportsdb.com/images/media/player/cutout/w0b1a71724844526.png/small",
     "mattia perin": "https://r2.thesportsdb.com/images/media/player/cutout/oo0l5m1759222361.png/small",
-    "tommy marques": "",
     "dastan satpayev": "",
     "heaven kilwa": "",
     "hermann malonga": "",
-    "andria bartishvili": ""
+    "andria bartishvili": "",
+    "tommy marques": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

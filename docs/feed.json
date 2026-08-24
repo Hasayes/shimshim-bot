@@ -1,5 +1,29 @@
 [
  {
+  "id": "tg:FabrizioRomanoTG/65207",
+  "ts": "2026-08-24T16:45:35+00:00",
+  "kind": "deal",
+  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/0zhdh61758893135.png/small",
+  "stage": "Here we go",
+  "player": "Christopher Nkunku",
+  "position": "\u2014",
+  "age": "\u2014",
+  "from_club": "Milan",
+  "to_club": "RB Leipzig",
+  "fee": "\u2014",
+  "style": "Dynamic attacking midfielder with excellent dribbling ability and eye for through balls in the final third.",
+  "fit": "Deploy as a versatile attacking outlet in Leipzig's pressing system, capable of playing across the midfield and forward lines.",
+  "source": "Fabrizio Romano",
+  "sources": [
+   "Fabrizio Romano"
+  ],
+  "srcTier": "tier1",
+  "summary": "Christopher Nkunku is set to complete his transfer to RB Leipzig with a medical booked for Tuesday and contract signing to follow.",
+  "outlet": "Telegram @fabrizioromanotg",
+  "url": "https://t.me/FabrizioRomanoTG/65207",
+  "title": "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f Christopher Nkunku, set to fly to Germany for medical tests and contract signing at RB Leipzig. Medical booked on"
+ },
+ {
   "id": "tg:FabrizioRomanoTG/65206",
   "ts": "2026-08-24T16:00:39+00:00",
   "kind": "deal",

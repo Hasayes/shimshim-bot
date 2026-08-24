@@ -1,6 +1,5 @@
 {
   "sent": [
-    "5b32797d56de063412aba68335ce0a18",
     "ba9c5817500fd6e0c3fe7ffbf0d1b503",
     "152814561564f7290b48ef6c71e623c5",
     "tg:FabrizioRomanoTG/64388",
@@ -1499,7 +1498,8 @@
     "1466e3a4b8d0c1bb20925ad0390588d6",
     "9330396a49069d5908e64035f504f443",
     "da5d47b888ecffe66eb71ad3e1de6834",
-    "tg:FabrizioRomanoTG/65187"
+    "tg:FabrizioRomanoTG/65187",
+    "11de2e4bb047613a63ae913c18812c41"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1974,7 +1974,6 @@
     "interest: martinez -> real madrid"
   ],
   "titles": [
-    "romano: man utd in talks to sign barcelona star alejandro balde",
     "man utd call barcelona to ask about alejandro balde",
     "top man utd target now \u2018in discussions\u2019 to sign different deal after decision ma",
     "just in: manchester united call super agent to enquire about barcelona defender ",
@@ -2273,7 +2272,8 @@
     "after 12 months man utd officially have the midfielder they always wanted",
     "arsenal meeting with atletico madrid over julian alvarez transfer revealed",
     "man utd monitoring ismaila sarr as galatasaray push for crystal palace breakthro",
-    "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f understand newcastle have made big progress in talks to sign nico gonzal"
+    "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f understand newcastle have made big progress in talks to sign nico gonzal",
+    "\u201chere we go\u201d \u2013 manchester city reach full agreement for \u20ac100m transfer"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2572,13 +2572,13 @@
     "sergio martinez": "https://images.fotmob.com/image_resources/playerimages/1791769.png",
     "jayden oosterwolde": "https://r2.thesportsdb.com/images/media/player/cutout/w0b1a71724844526.png/small",
     "mattia perin": "https://r2.thesportsdb.com/images/media/player/cutout/oo0l5m1759222361.png/small",
-    "heaven kilwa": "",
     "hermann malonga": "",
     "andria bartishvili": "",
     "tommy marques": "",
-    "dastan satpayev": ""
+    "dastan satpayev": "",
+    "heaven kilwa": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

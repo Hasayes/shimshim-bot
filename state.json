@@ -1,8 +1,5 @@
 {
   "sent": [
-    "940ceccbd4fc980759bf236cf8d09dfb",
-    "22c2676bf6071501ca25e8f80ff0a904",
-    "23710c5640891f05c549dc1625d7f1da",
     "9a3880b3576a2639285a2261fd98ab1d",
     "8ddd961efd1e6237d9786bc97031aec7",
     "082e441e42ecdf24f72263ca84ce6d7d",
@@ -1499,7 +1496,10 @@
     "78d545a039401aec22adb49c3f651ce9",
     "a861c0ae653000998471401070948f6c",
     "f4615ef4aaed30cde203217806e67a6e",
-    "tg:FabrizioRomanoTG/65221"
+    "tg:FabrizioRomanoTG/65221",
+    "ea116a869a6fdc25922cddf177c2ef16",
+    "tg:FabrizioRomanoTG/65222",
+    "tg:FabrizioRomanoTG/65223"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1977,12 +1977,10 @@
     "interest: balde -> milan",
     "interest: bartishvili -> arsenal",
     "interest: martinez -> real madrid",
-    "interest: dembele -> psg"
+    "interest: dembele -> psg",
+    "interest: ahanor -> chelsea"
   ],
   "titles": [
-    "transfer rumors, news: arsenal want yildiz as al hilal add martinelli to shortli",
-    "tottenham seal \u00a385m savinho signing and romano confirms second deal now \u2018agreed\u2019",
-    "fabrizio romano reveals man utd \u2018optimism\u2019 over carlos baleba deal as carrick hi",
     "savinho to tottenham smashes transfer record as romano confirms second deal \u2018agr",
     "romano gives \u2018here we go\u2019 to next chelsea transfer with \u2018medical\u2019 underway",
     "\u201ci don\u2019t think so\u201d \u2013 fabrizio romano provides update on liverpool star\u2019s future",
@@ -2279,11 +2277,13 @@
     "exactly what manchester city need in midfield is set to arrive",
     "arsenal in talks with saudi side amid push for \u00a360m sale",
     "transfer: arsenal to sell martinelli for club record fee",
-    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f real sociedad reach verbal agreement to sign mamadou sarr on loan from ch"
+    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f real sociedad reach verbal agreement to sign mamadou sarr on loan from ch",
+    "talks held: tottenham ready to let midfielder leave the club after five years",
+    "\ud83d\udd35 \u2744\ufe0f chelsea beat fulham on first official game under xabi alonso! morgan rogers",
+    "\ud83d\udea8 \ud83d\udd35 excl: chelsea/blueco monitoring italian versatile 18 year old defender hones"
   ],
   "tg_update_offset": 263617426,
   "photos": {
-    "julian alvarez": "https://r2.thesportsdb.com/images/media/player/cutout/91pla41762288186.png/small",
     "rahim alhassane": "https://r2.thesportsdb.com/images/media/player/cutout/ea05d41762619935.png/small",
     "lesley ugochukwu": "https://r2.thesportsdb.com/images/media/player/cutout/joik2s1757177541.png/small",
     "randal kolo muani": "https://r2.thesportsdb.com/images/media/player/cutout/h89zyk1768679563.png/small",
@@ -2577,14 +2577,15 @@
     "jayden oosterwolde": "https://r2.thesportsdb.com/images/media/player/cutout/w0b1a71724844526.png/small",
     "mattia perin": "https://r2.thesportsdb.com/images/media/player/cutout/oo0l5m1759222361.png/small",
     "christopher nkunku": "https://r2.thesportsdb.com/images/media/player/cutout/0zhdh61758893135.png/small",
-    "dastan satpayev": "",
     "heaven kilwa": "",
     "hermann malonga": "",
     "andria bartishvili": "",
     "mamadou sarr": "https://r2.thesportsdb.com/images/media/player/cutout/a1ha5q1766053704.png/small",
-    "tommy marques": ""
+    "tommy marques": "",
+    "honest ahanor": "https://r2.thesportsdb.com/images/media/player/cutout/uahuuj1764331567.png/small",
+    "dastan satpayev": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

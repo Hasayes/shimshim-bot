@@ -1,6 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/64429",
     "6a4dc306e749137f9bd17116825608fe",
     "0f7df67ca3b31576442a033741dda194",
     "d7a45e0333615e81255dc7a93e96937b",
@@ -1499,7 +1498,8 @@
     "2eb1efce8aee2358fcd31093efca6b90",
     "42a493885abea57f27f1b7b41c36e1f3",
     "35b810c8edf75d29de97e8d1f4a410a7",
-    "tg:FabrizioRomanoTG/65195"
+    "tg:FabrizioRomanoTG/65195",
+    "2271a147ceea05114661ea8388935b10"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1974,7 +1974,6 @@
     "interest: martinez -> real madrid"
   ],
   "titles": [
-    "rt @fabrizioromano : \ud83d\udea8 \u26aa\ufe0f tottenham also confident to get omar marmoush deal don",
     "the ideal loan move looks to have been found for a player that manchester city h",
     "karim benzema shuts down rumors about a saudi pro league departure: \u2018i\u2019m gonna s",
     "\ud83d\udea8 \ud83c\uddf8\ud83c\uddf3 crucial days ahead for nicolas jackson to leave chelsea as clubs working on",
@@ -2273,7 +2272,8 @@
     "fabrizio romano: man utd want 'more signings' after hull loss",
     "milan and porto to resume santiago gimenez talks on monday",
     "verbal agreement done: fabrizio romano shares exciting tottenham transfer update",
-    "\ud83d\udea8 \ud83c\uddf2\ud83c\udde6 ayyoub bouaddi, scheduled to fly to manchester today in order to join man c"
+    "\ud83d\udea8 \ud83c\uddf2\ud83c\udde6 ayyoub bouaddi, scheduled to fly to manchester today in order to join man c",
+    "liverpool could still land psg duo after director\u2019s telling transfer comments"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2572,13 +2572,13 @@
     "sergio martinez": "https://images.fotmob.com/image_resources/playerimages/1791769.png",
     "jayden oosterwolde": "https://r2.thesportsdb.com/images/media/player/cutout/w0b1a71724844526.png/small",
     "mattia perin": "https://r2.thesportsdb.com/images/media/player/cutout/oo0l5m1759222361.png/small",
-    "andria bartishvili": "",
     "tommy marques": "",
     "dastan satpayev": "",
     "heaven kilwa": "",
-    "hermann malonga": ""
+    "hermann malonga": "",
+    "andria bartishvili": ""
   },
-  "photo_repair_idx": 5,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

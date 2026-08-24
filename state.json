@@ -1,7 +1,5 @@
 {
   "sent": [
-    "49e046c87026462283b437904498bb40",
-    "tg:FabrizioRomanoTG/64447",
     "6a86b6a725305122b1545afbc0e2fcff",
     "671662e634456760d7643cc37d2321bd",
     "tg:FabrizioRomanoTG/64448",
@@ -1499,7 +1497,9 @@
     "711ac3ea6022bd6c5cd36084c775ee14",
     "c93008903cf9592b6e0363d41bfb678d",
     "tg:FabrizioRomanoTG/65205",
-    "fcc01fcdf178d48151bc5e919fe9056a"
+    "fcc01fcdf178d48151bc5e919fe9056a",
+    "ce0d5e1eb0620c75bb8d9556cc63a442",
+    "tg:FabrizioRomanoTG/65206"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1752,7 +1752,8 @@
     "goretzka -> aston villa": 1,
     "sarr -> galatasaray": 1,
     "oosterwolde -> roma": 2,
-    "perin -> palermo": 1
+    "perin -> palermo": 1,
+    "gonzalez -> newcastle": 1
   },
   "interest": [
     "interest: alvarez -> arsenal",
@@ -1975,8 +1976,6 @@
     "interest: dembele -> psg"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83e\ude77 \ud83d\udda4 palermo and mattia perin, deal almost done for the goalkeeper with final s",
-    "\ud83d\udea8 \ud83c\uddfa\ud83c\udde6 mykhaylo mudryk, 100% expected to leave chelsea on loan as revealed earlier",
     "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f rc strasbourg have agreed deal to sign deivid washington from chelsea, he",
     "\ud83d\udea8 \ud83d\udd34 liverpool submit \u00a360m proposal for yankuba minteh after personal terms agree",
     "\ud83d\udea8 \ud83d\udd34 liverpool and yankuba minteh have a broad verbal agreement on contract terms",
@@ -2274,7 +2273,9 @@
     "arsenal news: fresh julian alvarez meeting held as update issued on \u00a385m target",
     "manchester city would make a loss with former frankfurt man! omar marmoush's med",
     "rt @fabrizioromano : \ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f kamil grabara has agreed on personal terms with juv",
-    "ugly scenes spark blockbuster arsenal swap twist; city close in on $162m teen st"
+    "ugly scenes spark blockbuster arsenal swap twist; city close in on $162m teen st",
+    "liverpool news: bradley barcola exiled by psg as personal terms 'agreed' the mir",
+    "\ud83d\udea8 \u26ab\ufe0f \u26aa\ufe0f breaking: newcastle reach verbal agreement with man city for nico gonzal"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2572,13 +2573,13 @@
     "sergio martinez": "https://images.fotmob.com/image_resources/playerimages/1791769.png",
     "jayden oosterwolde": "https://r2.thesportsdb.com/images/media/player/cutout/w0b1a71724844526.png/small",
     "mattia perin": "https://r2.thesportsdb.com/images/media/player/cutout/oo0l5m1759222361.png/small",
-    "dastan satpayev": "",
     "heaven kilwa": "",
     "hermann malonga": "",
     "andria bartishvili": "",
-    "tommy marques": ""
+    "tommy marques": "",
+    "dastan satpayev": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

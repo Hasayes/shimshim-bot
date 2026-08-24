@@ -1,10 +1,5 @@
 {
   "sent": [
-    "50d661c80004ded19104d66a3f4b8019",
-    "56234aefabf921700ac5587bd61facd6",
-    "51bec8ddc68353219a075946cb8c8a1c",
-    "68a32d3fa0c632b84be61f9a70c81e64",
-    "07fb44d82bdfbf74cea68e892a9a404d",
     "tg:FabrizioRomanoTG/64440",
     "tg:FabrizioRomanoTG/64442",
     "6f2e9423959c86d5f8e216879aff6027",
@@ -1499,7 +1494,12 @@
     "57ff148f4bc5cae4845e4159ef1c4e26",
     "tg:FabrizioRomanoTG/65198",
     "0ee1561b6112665be0b725a0e4d091b4",
-    "cc36d7d49c70ce04b20c2bfc9516088e"
+    "cc36d7d49c70ce04b20c2bfc9516088e",
+    "dab741e0f71bcddbd4c69c837ff05b86",
+    "18cda400745d503ef9754f367c3280e9",
+    "3534b804067fd54f8b3bba847dcb29d9",
+    "9e0febf0d90314edb92f3331b8a2644b",
+    "5156227083be5f1a736df837264f4e9c"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1974,10 +1974,6 @@
     "interest: martinez -> real madrid"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83c\udde6\ud83c\uddf7 inter manager cristian chivu: \u201clautaro is our captain and we keep him with ",
-    "\ud83d\udea8 \u26aa\ufe0f denzel dumfries, presented as new real madrid player by florentino perez he",
-    "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f saudi pro league side al shabab sign thomas partey on a free transfer \ud83c\uddf8\ud83c\udde6",
-    "@transfersector it\u2019s agreed since this morning, medical done today : ) https://t",
     "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f sunderland agree deal to sign jules ahoka from antwerp, here we go! deal ",
     "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f excl: sunderland agree deal to sign jules ahoka from antwerp, here we go!",
     "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f arsenal made contact with atletico madrid to discuss julian alvarez deal ",
@@ -2273,7 +2269,11 @@
     "roberto de zerbi refuses to set tottenham season targets: 'we are not a team yet",
     "fabrizio romano is \u2018super optimistic\u2019 that liverpool are closing in on their nex",
     "\ud83d\udea8 key days ahead for nico jackson who\u2019s set to leave chelsea \u2014 but only on perma",
-    "tottenham: when roberto de zerbi can hand new signings debuts as double medical "
+    "tottenham: when roberto de zerbi can hand new signings debuts as double medical ",
+    "monday's gossip: man city ready to meet chelsea's fernandez demand",
+    "manchester united lead three horse race for alejandro balde",
+    "top man utd target feels his club are \u2018pushing him out\u2019 as \u00a350m will land prem w",
+    "transfer: marmoush to join city\u2019s epl rivals as man utd midfielder leaves club"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2572,13 +2572,13 @@
     "sergio martinez": "https://images.fotmob.com/image_resources/playerimages/1791769.png",
     "jayden oosterwolde": "https://r2.thesportsdb.com/images/media/player/cutout/w0b1a71724844526.png/small",
     "mattia perin": "https://r2.thesportsdb.com/images/media/player/cutout/oo0l5m1759222361.png/small",
-    "tommy marques": "",
     "dastan satpayev": "",
     "heaven kilwa": "",
     "hermann malonga": "",
-    "andria bartishvili": ""
+    "andria bartishvili": "",
+    "tommy marques": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

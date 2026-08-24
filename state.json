@@ -1,6 +1,5 @@
 {
   "sent": [
-    "09a6fcc0e703a98a10aaa378e78e13c4",
     "940ceccbd4fc980759bf236cf8d09dfb",
     "22c2676bf6071501ca25e8f80ff0a904",
     "23710c5640891f05c549dc1625d7f1da",
@@ -1499,7 +1498,8 @@
     "1b7b2bfa2cdcce2bb91d41df2ee93951",
     "78d545a039401aec22adb49c3f651ce9",
     "a861c0ae653000998471401070948f6c",
-    "f4615ef4aaed30cde203217806e67a6e"
+    "f4615ef4aaed30cde203217806e67a6e",
+    "tg:FabrizioRomanoTG/65221"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1756,7 +1756,8 @@
     "gonzalez -> newcastle": 1,
     "nkunku -> rb leipzig": 1,
     "grabara -> juventus": 1,
-    "allan -> manchester city": 1
+    "allan -> manchester city": 1,
+    "sarr -> real sociedad": 1
   },
   "interest": [
     "interest: alvarez -> arsenal",
@@ -1979,7 +1980,6 @@
     "interest: dembele -> psg"
   ],
   "titles": [
-    "ornstein: konsa to arsenal complete",
     "transfer rumors, news: arsenal want yildiz as al hilal add martinelli to shortli",
     "tottenham seal \u00a385m savinho signing and romano confirms second deal now \u2018agreed\u2019",
     "fabrizio romano reveals man utd \u2018optimism\u2019 over carlos baleba deal as carrick hi",
@@ -2278,11 +2278,11 @@
     "video: di gregorio flies out for bournemouth medical",
     "exactly what manchester city need in midfield is set to arrive",
     "arsenal in talks with saudi side amid push for \u00a360m sale",
-    "transfer: arsenal to sell martinelli for club record fee"
+    "transfer: arsenal to sell martinelli for club record fee",
+    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f real sociedad reach verbal agreement to sign mamadou sarr on loan from ch"
   ],
   "tg_update_offset": 263617426,
   "photos": {
-    "sander berge": "https://r2.thesportsdb.com/images/media/player/cutout/plhdsy1757070706.png/small",
     "julian alvarez": "https://r2.thesportsdb.com/images/media/player/cutout/91pla41762288186.png/small",
     "rahim alhassane": "https://r2.thesportsdb.com/images/media/player/cutout/ea05d41762619935.png/small",
     "lesley ugochukwu": "https://r2.thesportsdb.com/images/media/player/cutout/joik2s1757177541.png/small",
@@ -2577,13 +2577,14 @@
     "jayden oosterwolde": "https://r2.thesportsdb.com/images/media/player/cutout/w0b1a71724844526.png/small",
     "mattia perin": "https://r2.thesportsdb.com/images/media/player/cutout/oo0l5m1759222361.png/small",
     "christopher nkunku": "https://r2.thesportsdb.com/images/media/player/cutout/0zhdh61758893135.png/small",
-    "tommy marques": "",
     "dastan satpayev": "",
     "heaven kilwa": "",
     "hermann malonga": "",
-    "andria bartishvili": ""
+    "andria bartishvili": "",
+    "mamadou sarr": "https://r2.thesportsdb.com/images/media/player/cutout/a1ha5q1766053704.png/small",
+    "tommy marques": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

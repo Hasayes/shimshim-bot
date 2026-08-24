@@ -1,5 +1,30 @@
 [
  {
+  "id": "tg:FabrizioRomanoTG/65084",
+  "ts": "2026-08-24T12:45:43+00:00",
+  "kind": "deal",
+  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/fgvi9t1759222392.png/small",
+  "stage": "Completed",
+  "player": "Michele Di Gregorio",
+  "position": "\u2014",
+  "age": "\u2014",
+  "from_club": "Juventus",
+  "to_club": "Bournemouth",
+  "fee": "Loan with \u20ac14m buy option",
+  "style": "Commanding goalkeeper with excellent distribution and shot-stopping ability from his time at Juventus.",
+  "fit": "Should be Bournemouth's primary option between the sticks to provide experience and stability in the Premier League.",
+  "source": "Fabrizio Romano",
+  "summary": "Michele Di Gregorio's loan move to Bournemouth from Juventus is completed with all documents signed. The deal includes a \u20ac14m buy option clause for June 2027 and a \u20ac1.5m penalty if Bournemouth do not exercise it.",
+  "outlet": "Telegram @fabrizioromanotg",
+  "url": "https://t.me/FabrizioRomanoTG/65203",
+  "title": "\ud83d\udea8 \ud83c\udf52 Michele Di Gregorio\u2019s loan move to Bournemouth includes a penalty clause as all documents have been signed. If #AFCB",
+  "sources": [
+   "Fabrizio Romano",
+   "Sky Sport"
+  ],
+  "srcTier": "tier1"
+ },
+ {
   "id": "6d886f0f27fd979edeb89c83a5848140",
   "ts": "2026-08-24T04:15:34+00:00",
   "kind": "deal",
@@ -385,31 +410,6 @@
    "The Sunday Guardian"
   ],
   "srcTier": "standard"
- },
- {
-  "id": "tg:FabrizioRomanoTG/65084",
-  "ts": "2026-08-21T21:15:33+00:00",
-  "kind": "deal",
-  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/fgvi9t1759222392.png/small",
-  "stage": "Here we go",
-  "player": "Michele Di Gregorio",
-  "position": "\u2014",
-  "age": "\u2014",
-  "from_club": "Juventus",
-  "to_club": "Bournemouth",
-  "fee": "\u20ac14m buy option",
-  "style": "Commanding goalkeeper with excellent distribution and shot-stopping ability from his time at Juventus.",
-  "fit": "Should be Bournemouth's primary option between the sticks to provide experience and stability in the Premier League.",
-  "source": "Fabrizio Romano / Sky Sport",
-  "summary": "Bournemouth have agreed a paid loan deal with Juventus to sign Michele Di Gregorio, with a non-mandatory \u20ac14m buy option clause. Di Gregorio will travel to England this weekend.",
-  "outlet": "Telegram @fabrizioromanotg",
-  "url": "https://t.me/FabrizioRomanoTG/65084",
-  "title": "\ud83d\udea8 \ud83c\udf52 Bournemouth have agreed on loan deal to sign Michele Di Gregorio from Juventus, here we go! Paid loan with \u20ac14m buy ",
-  "sources": [
-   "Fabrizio Romano",
-   "Sky Sport"
-  ],
-  "srcTier": "tier1"
  },
  {
   "id": "tg:FabrizioRomanoTG/64919",

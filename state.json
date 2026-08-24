@@ -1,7 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/64444",
-    "tg:FabrizioRomanoTG/64445",
     "2a9ba01cf6f2466389ef5d380795db59",
     "tg:FabrizioRomanoTG/64446",
     "d6aec986c0d0f6f865eb369004f71863",
@@ -1499,7 +1497,9 @@
     "eee602655db93e8e0eab1cb18024d8b0",
     "faa80ca589b90a89f90e96ed82b38e7d",
     "tg:FabrizioRomanoTG/65201",
-    "8750c56ebd7f03a8356281b5cb763a5b"
+    "8750c56ebd7f03a8356281b5cb763a5b",
+    "tg:FabrizioRomanoTG/65202",
+    "tg:FabrizioRomanoTG/65203"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1745,7 +1745,7 @@
     "partey -> al shabab": 2,
     "washington -> rc strasbourg": 1,
     "baleba -> manchester united": 2,
-    "gregorio -> bournemouth": 1,
+    "gregorio -> bournemouth": 2,
     "obaretin -> fc lorient": 1,
     "marmoush -> tottenham": 2,
     "ndukwe -> levante": 2,
@@ -1974,8 +1974,6 @@
     "interest: martinez -> real madrid"
   ],
   "titles": [
-    "\ud83d\udea8 \u26aa\ufe0f tottenham are confident to proceed with omar marmoush deal by next week as ",
-    "fabrizio romano confirms personal terms agreed as liverpool push to finalise bra",
     "\ud83d\udea8 \ud83c\udde6\ud83c\uddf7 official: fifa ban leandro paredes for 10 games after argentina spain post ",
     "\ud83d\udea8 official: fifa suspensions following post argentina spain clash, including 10 ",
     "\ud83d\udd34 \u26aa\ufe0f \u270d\ud83c\udfff ezri konsa has signed his contract as new arsenal player, all done \u2014 fab",
@@ -2273,7 +2271,9 @@
     "transfer: marmoush to join city\u2019s epl rivals as man utd midfielder leaves club",
     "tottenham close in on stunning double transfer after \u00a350m agreement as medical a",
     "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 official: gavi has no serious injury, barcelona statement confirm \u201cgavi to",
-    "manchester city would make a loss on former frankfurt player! omar marmoush\u2019s me"
+    "manchester city would make a loss on former frankfurt player! omar marmoush\u2019s me",
+    "\ud83c\udf81 \ud83c\uddf2\ud83c\udde6 manchester city top signing is coming today: ayyoub bouaddi joins on \u20ac95m p",
+    "\ud83d\udea8 \ud83c\udf52 michele di gregorio\u2019s loan move to bournemouth includes a penalty clause as "
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2572,13 +2572,13 @@
     "sergio martinez": "https://images.fotmob.com/image_resources/playerimages/1791769.png",
     "jayden oosterwolde": "https://r2.thesportsdb.com/images/media/player/cutout/w0b1a71724844526.png/small",
     "mattia perin": "https://r2.thesportsdb.com/images/media/player/cutout/oo0l5m1759222361.png/small",
-    "andria bartishvili": "",
     "tommy marques": "",
     "dastan satpayev": "",
     "heaven kilwa": "",
-    "hermann malonga": ""
+    "hermann malonga": "",
+    "andria bartishvili": ""
   },
-  "photo_repair_idx": 5,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

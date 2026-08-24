@@ -1,5 +1,29 @@
 [
  {
+  "id": "tg:FabrizioRomanoTG/65094",
+  "ts": "2026-08-24T17:00:51+00:00",
+  "kind": "deal",
+  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/vls14a1763669328.png/small",
+  "stage": "Here we go",
+  "player": "Kamil Grabara",
+  "position": "Goalkeeper",
+  "age": "\u2014",
+  "from_club": "Wolfsburg",
+  "to_club": "Juventus",
+  "fee": "Loan with buy option",
+  "style": "Commanding shot-stopper with strong reflexes and distribution skills; competitive young goalkeeper developing at top level.",
+  "fit": "Ideal as backup keeper to provide competition and experience while preparing for potential long-term future at Juventus.",
+  "source": "Fabrizio Romano",
+  "summary": "Juventus have agreed a loan deal with buy option to sign goalkeeper Kamil Grabara from Wolfsburg. Grabara has agreed to the move.",
+  "outlet": "Telegram @fabrizioromanotg",
+  "url": "https://t.me/FabrizioRomanoTG/65210",
+  "title": "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f Juventus agree loan deal to sign Kamil Grabara from Wolfsburg, here we go! Initial loan with buy option clause a",
+  "sources": [
+   "Fabrizio Romano"
+  ],
+  "srcTier": "tier1"
+ },
+ {
   "id": "tg:FabrizioRomanoTG/65207",
   "ts": "2026-08-24T16:45:35+00:00",
   "kind": "deal",
@@ -359,30 +383,6 @@
   "sources": [
    "Fabrizio Romano",
    "Romano"
-  ],
-  "srcTier": "tier1"
- },
- {
-  "id": "tg:FabrizioRomanoTG/65094",
-  "ts": "2026-08-22T11:00:42+00:00",
-  "kind": "interest",
-  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/vls14a1763669328.png/small",
-  "stage": "\u2014",
-  "player": "Kamil Grabara",
-  "position": "Goalkeeper",
-  "age": "\u2014",
-  "from_club": "Wolfsburg",
-  "to_club": "Juventus",
-  "fee": "\u2014",
-  "style": "Reliable shot-stopper with solid positioning and distribution skills for a young goalkeeper.",
-  "fit": "Deploy as backup keeper to provide competition and experience while gradually integrating into Juventus' defensive structure.",
-  "source": "Fabrizio Romano",
-  "summary": "Juventus are advancing in talks to sign Kamil Grabara from Wolfsburg on loan with a buy option clause; negotiations are underway and the goalkeeper has agreed in principle.",
-  "outlet": "Telegram @fabrizioromanotg",
-  "url": "https://t.me/FabrizioRomanoTG/65094",
-  "title": "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f Juventus are advancing in talks to sign Kamil Grabara as new backup goalkeeper from Wolfsburg. Negotiations unde",
-  "sources": [
-   "Fabrizio Romano"
   ],
   "srcTier": "tier1"
  },

@@ -1,6 +1,5 @@
 {
   "sent": [
-    "082e441e42ecdf24f72263ca84ce6d7d",
     "0900019bc478d6ebc13b0b47c85ad6e3",
     "23d7a04e056cf8eaee4d4fd6228f338a",
     "91514c4d29741fd4a2d1ec1591173f87",
@@ -1499,7 +1498,8 @@
     "tg:FabrizioRomanoTG/65222",
     "tg:FabrizioRomanoTG/65223",
     "98ddd94233d2617155f897fb09579938",
-    "0ed70eda9e96d440a7233d21855ff21d"
+    "0ed70eda9e96d440a7233d21855ff21d",
+    "fa7028c7ae8cc0d838daef86faea3c03"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1981,7 +1981,6 @@
     "interest: ahanor -> chelsea"
   ],
   "titles": [
-    "\u201ci don\u2019t think so\u201d \u2013 fabrizio romano provides update on liverpool star\u2019s future",
     "video: liverpool midfielder jones arrives for inter medical",
     "arsenal manager closes exit door on real madrid linked spanish midfielder: \u2018a re",
     "what the score was when carlos alcaraz played a practice match with holger rune ",
@@ -2280,7 +2279,8 @@
     "\ud83d\udd35 \u2744\ufe0f chelsea beat fulham on first official game under xabi alonso! morgan rogers",
     "\ud83d\udea8 \ud83d\udd35 excl: chelsea/blueco monitoring italian versatile 18 year old defender hones",
     "benfica submit offer for alejandro balde",
-    "al hilal make decision on pursuit of chelsea winger neto"
+    "al hilal make decision on pursuit of chelsea winger neto",
+    "\u2018new official bid\u2019 from tottenham for cody gakpo revealed as stunning \u2018plan b\u2019 e"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2577,15 +2577,15 @@
     "jayden oosterwolde": "https://r2.thesportsdb.com/images/media/player/cutout/w0b1a71724844526.png/small",
     "mattia perin": "https://r2.thesportsdb.com/images/media/player/cutout/oo0l5m1759222361.png/small",
     "christopher nkunku": "https://r2.thesportsdb.com/images/media/player/cutout/0zhdh61758893135.png/small",
-    "andria bartishvili": "",
     "mamadou sarr": "https://r2.thesportsdb.com/images/media/player/cutout/a1ha5q1766053704.png/small",
     "tommy marques": "",
     "honest ahanor": "https://r2.thesportsdb.com/images/media/player/cutout/uahuuj1764331567.png/small",
     "dastan satpayev": "",
     "heaven kilwa": "",
-    "hermann malonga": ""
+    "hermann malonga": "",
+    "andria bartishvili": ""
   },
-  "photo_repair_idx": 5,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

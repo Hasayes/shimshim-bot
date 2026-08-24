@@ -1,7 +1,5 @@
 {
   "sent": [
-    "6a4dc306e749137f9bd17116825608fe",
-    "0f7df67ca3b31576442a033741dda194",
     "d7a45e0333615e81255dc7a93e96937b",
     "tg:FabrizioRomanoTG/64430",
     "tg:FabrizioRomanoTG/64432",
@@ -1499,7 +1497,9 @@
     "42a493885abea57f27f1b7b41c36e1f3",
     "35b810c8edf75d29de97e8d1f4a410a7",
     "tg:FabrizioRomanoTG/65195",
-    "2271a147ceea05114661ea8388935b10"
+    "2271a147ceea05114661ea8388935b10",
+    "bf4399a373d64ad0ea2f9f98bdfe66e2",
+    "tg:FabrizioRomanoTG/65197"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1974,8 +1974,6 @@
     "interest: martinez -> real madrid"
   ],
   "titles": [
-    "the ideal loan move looks to have been found for a player that manchester city h",
-    "karim benzema shuts down rumors about a saudi pro league departure: \u2018i\u2019m gonna s",
     "\ud83d\udea8 \ud83c\uddf8\ud83c\uddf3 crucial days ahead for nicolas jackson to leave chelsea as clubs working on",
     "\ud83d\udc40 \ud83c\udde7\ud83c\uddf7 xavi simons shares \u2018here we go morning\u2019 post as he\u2019s ready to play again wi",
     "carlos alcaraz us open status confirmed amid long injury recovery",
@@ -2273,7 +2271,9 @@
     "milan and porto to resume santiago gimenez talks on monday",
     "verbal agreement done: fabrizio romano shares exciting tottenham transfer update",
     "\ud83d\udea8 \ud83c\uddf2\ud83c\udde6 ayyoub bouaddi, scheduled to fly to manchester today in order to join man c",
-    "liverpool could still land psg duo after director\u2019s telling transfer comments"
+    "liverpool could still land psg duo after director\u2019s telling transfer comments",
+    "arsenal closer than ever before to julian alvarez deal as atletico ceo defies di",
+    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f al hilal have made official club to club contact with arsenal for gabriel"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2572,13 +2572,13 @@
     "sergio martinez": "https://images.fotmob.com/image_resources/playerimages/1791769.png",
     "jayden oosterwolde": "https://r2.thesportsdb.com/images/media/player/cutout/w0b1a71724844526.png/small",
     "mattia perin": "https://r2.thesportsdb.com/images/media/player/cutout/oo0l5m1759222361.png/small",
-    "tommy marques": "",
     "dastan satpayev": "",
     "heaven kilwa": "",
     "hermann malonga": "",
-    "andria bartishvili": ""
+    "andria bartishvili": "",
+    "tommy marques": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

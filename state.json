@@ -1,7 +1,5 @@
 {
   "sent": [
-    "8156ee9143bd03c49bb7492cbbee0934",
-    "864f063c6a53b063dba51f382ca033a7",
     "ea55abe490694c443a87f905e1d03e11",
     "tg:FabrizioRomanoTG/64394",
     "807046af7c604ea1b766cb3f72ab762d",
@@ -1499,7 +1497,9 @@
     "c81aa9ad61b7c2b5ca6eca0cca2373f3",
     "2772fe0acdbcf4fcfd8cc2aaa117090f",
     "546890f5d920ecebe0406036dcddba5b",
-    "f3f86bdbd373f950f94ed82ab6b46ba2"
+    "f3f86bdbd373f950f94ed82ab6b46ba2",
+    "0be6f668955292441ced42ba287c2019",
+    "8d6596c505077336495505a1adefd548"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1974,8 +1974,6 @@
     "interest: martinez -> real madrid"
   ],
   "titles": [
-    "alcaraz confirms us open return after four month injury layoff",
-    "us open 2026: carlos alcaraz to return in new york after four months out with wr",
     "carlos alcaraz confirms he'll be back at us open \u2014 and he chose a football style",
     "'here we go!': carlos alcaraz confirms us open comeback in unexpected fashion",
     "carlos alcaraz announces return from injury for u s open 'here we go'",
@@ -2273,7 +2271,9 @@
     "arsenal in talks with al hilal over gabriel martinelli transfer which would see ",
     "man united target omitted from squad amid fresh transfer development",
     "gabriel martinelli makes u turn on transfer stance as arsenal in talks with new ",
-    "tottenham handed double transfer update as man city make savinho and omar marmou"
+    "tottenham handed double transfer update as man city make savinho and omar marmou",
+    "medical tomorrow: details of the tottenham and manchester city agreement over th",
+    "man city agree record breaking \u00a386m deal for sublime ligue 1 midfielder"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2572,13 +2572,13 @@
     "sergio martinez": "https://images.fotmob.com/image_resources/playerimages/1791769.png",
     "jayden oosterwolde": "https://r2.thesportsdb.com/images/media/player/cutout/w0b1a71724844526.png/small",
     "mattia perin": "https://r2.thesportsdb.com/images/media/player/cutout/oo0l5m1759222361.png/small",
-    "hermann malonga": "",
     "andria bartishvili": "",
     "tommy marques": "",
     "dastan satpayev": "",
-    "heaven kilwa": ""
+    "heaven kilwa": "",
+    "hermann malonga": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 5,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

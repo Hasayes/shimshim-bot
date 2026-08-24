@@ -1,6 +1,5 @@
 {
   "sent": [
-    "55a7813a65b912e97b2561ad7c5b75ba",
     "3c211498c0cd520ed3fcf8571cb56e10",
     "52028bfc9dfef1af0c39172b9cd350eb",
     "722516a97a07f538b41f0afb71900c95",
@@ -1499,7 +1498,8 @@
     "eda6a73b05b4ae1e5e88bb332ff5b2b2",
     "dff80757183d4225e4477d03bb3ccfcd",
     "tg:FabrizioRomanoTG/65218",
-    "2ef2e8cd33bcf6db94833d4fbbc6f17e"
+    "2ef2e8cd33bcf6db94833d4fbbc6f17e",
+    "3a4cad98fa87537b1f42e4d649b097bf"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1979,7 +1979,6 @@
     "interest: dembele -> psg"
   ],
   "titles": [
-    "\u201cin the next hours\u201d \u2013 romano drops overnight update on baleba to man utd as fina",
     "\ud83d\udea8 \ud83d\udca3 breaking: carlos baleba to manchester united, here we go! verbal agreement i",
     "'here we go' romano: crystal palace agree deal to sign axel disasi",
     "tottenham reach agreement for manchester city star as spurs spending this summer",
@@ -2278,7 +2277,8 @@
     "\ud83d\udea8 \ud83c\udf33 nottingham forest will be in direct contact with chelsea to try close liam d",
     "an egyptian international is on his way out of manchester city",
     "\ud83d\udea8 \ud83c\udde6\ud83c\uddf7 manchester city plan to try again for enzo fernandez after sales completed ",
-    "\u00a343m full back dropped from season opener after romano confirms man utd have app"
+    "\u00a343m full back dropped from season opener after romano confirms man utd have app",
+    "romano reveals mudryk\u2019s decision on leeds transfer as chelsea star is offered mo"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2577,13 +2577,13 @@
     "jayden oosterwolde": "https://r2.thesportsdb.com/images/media/player/cutout/w0b1a71724844526.png/small",
     "mattia perin": "https://r2.thesportsdb.com/images/media/player/cutout/oo0l5m1759222361.png/small",
     "christopher nkunku": "https://r2.thesportsdb.com/images/media/player/cutout/0zhdh61758893135.png/small",
-    "dastan satpayev": "",
     "heaven kilwa": "",
     "hermann malonga": "",
     "andria bartishvili": "",
-    "tommy marques": ""
+    "tommy marques": "",
+    "dastan satpayev": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

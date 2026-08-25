@@ -1,7 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/64523",
-    "99b764a205837b89df5de641e70bb5a6",
     "920150f98db0601c39439820f0158c0a",
     "981e2643fba8c4bf107f3a318367f232",
     "5237a845de08a30a244a6bcaa4fbdf39",
@@ -1499,7 +1497,9 @@
     "12e24ed55b490542ee5dd8e1f55ec277",
     "3eda3125e60b12e2871086928f1c4c7e",
     "df563daeb72f155c4f13b28a39122932",
-    "tg:FabrizioRomanoTG/65294"
+    "tg:FabrizioRomanoTG/65294",
+    "e81602b1b79daed1997873860ee7b128",
+    "884149005e6e8a5bf87042e541f4c1e2"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1987,8 +1987,6 @@
     "interest: guiu -> napoli"
   ],
   "titles": [
-    "aston villa transfer news: leon goretzka speaks to unai emery as agreement moves",
-    "liverpool complete transfer as andoni iraola makes new signing promise the mirro",
     "liverpool has yankuba minteh alternative 'lined up' if brighton keeps $95m price",
     "leon goretzka reaches aston villa agreement after direct unai emery phone call, ",
     "\u2018here we go\u2019 romano: aston villa agree deal to sign leon goretzka",
@@ -2286,7 +2284,9 @@
     "fabrizio romano confirms man city plans on tuesday after cody gakpo contact made",
     "chelsea will sell enzo fernandez on two conditions as man city prepare new bid",
     "transfer: arsenal give julian alvarez condition to approach atletico for deal",
-    "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f besiktas reach verbal agreement to sign fabio miretti from juventus, her"
+    "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f besiktas reach verbal agreement to sign fabio miretti from juventus, her",
+    "romano issues latest update on the twist in enzo fernandez saga involving man ci",
+    "\u00a3128m arsenal target now more open to summer move"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2582,16 +2582,16 @@
     "savinho": "https://r2.thesportsdb.com/images/media/player/cutout/khqgy21769183420.png/small",
     "ernest poku": "https://r2.thesportsdb.com/images/media/player/cutout/h7u26r1756315418.png/small",
     "hermann malonga": "",
-    "honest anahor": "",
     "marc guiu": "https://r2.thesportsdb.com/images/media/player/cutout/x4r4991757003409.png/small",
     "andria bartishvili": "",
     "tommy marques": "",
     "dastan satpayev": "",
     "heaven kilwa": "",
     "enzo": "",
-    "franck kessie": ""
+    "franck kessie": "",
+    "honest anahor": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

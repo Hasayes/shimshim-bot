@@ -1,9 +1,5 @@
 {
   "sent": [
-    "969959c858c6d86ad98f22ba97863e30",
-    "d41d48eeb6e30da266961fbf5b2d6d60",
-    "36cd8bddbf181f5e498ddf87859c9693",
-    "957ab58dced5a614c6a9a3f606cdfa6b",
     "36f6e9f6bbaf37dbac32e8b5e580d236",
     "480388cc4c50a044e8fd0b08d602b7f2",
     "ba361259e3db5224f78558942c9b03e4",
@@ -1499,7 +1495,11 @@
     "037c9ed7a2428a0793b14c3b8cb48d14",
     "tg:FabrizioRomanoTG/65234",
     "tg:FabrizioRomanoTG/65235",
-    "2ddd89291058935db75e8f2b2b647dbc"
+    "2ddd89291058935db75e8f2b2b647dbc",
+    "e1407f9c38fc4498c039a9df38a509ae",
+    "5a57fdb18cafe168c8815f6c18b8eff2",
+    "497b652920e5b74ee17a831dc7b115f3",
+    "04f125a021be7d1ebd1f557da90a3cfa"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1983,9 +1983,6 @@
     "interest: anahor -> chelsea"
   ],
   "titles": [
-    "report nkunku preference for rb leipzig, but newcastle united have best offer",
-    "minteh green lights liverpool switch as insiders reveal second bid\u2019s status",
-    "\u2018negotiations advancing\u2019 and tottenham \u2018confident\u2019 of wrapping up new signing ne",
     "fabrizio romano: newcastle open talks to sign french forward",
     "arsenal make contact with atletico madrid over julian alvarez as barcelona dream",
     "atalanta poking around unhappy napoli star anguissa",
@@ -2282,7 +2279,10 @@
     "man city transfer news: fabrizio romano drops \u2018here we go\u2019 for \u00a334 2m attacker s",
     "\ud83d\udea8 \ud83d\udd35 more on honest anahor and chelsea exclusive story initial talks took place w",
     "\ud83d\udea8 \ud83c\udde6\ud83c\uddf7 arsenal remain attentive to julian alvarez situation and internal feeling i",
-    "chelsea make first move for julian alvarez as stunning arsenal battle teed up"
+    "chelsea make first move for julian alvarez as stunning arsenal battle teed up",
+    "football gossip: gakpo, gonzalez, lewis skelly, scott, mazraoui bbc",
+    "man city enter race for gakpo tuesday's gossip",
+    "cody gakpo transfer news: man city interested in signing tottenham target from l"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2582,12 +2582,12 @@
     "honest ahanor": "https://r2.thesportsdb.com/images/media/player/cutout/uahuuj1764331567.png/small",
     "andria bartishvili": "",
     "tommy marques": "",
-    "honest anahor": "",
     "dastan satpayev": "",
     "heaven kilwa": "",
-    "hermann malonga": ""
+    "hermann malonga": "",
+    "honest anahor": ""
   },
-  "photo_repair_idx": 6,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

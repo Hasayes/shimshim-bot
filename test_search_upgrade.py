@@ -65,6 +65,31 @@ b = s.TransferBrief(
     style="—", fit="—", source="—", summary="x")
 assert s.oracle_sanity_check(b).kind == "interest"  # at Madrid, not Chelsea
 
+# Misspelt follow-ups must not fork the feed (Honest Ahanor / Anahor).
+assert s.same_player("Honest Ahanor", "Honest Anahor")
+assert s.same_surname("ahanor", "anahor")
+assert not s.same_surname("saka", "salah")
+assert not s.same_surname("silva", "saliba")
+assert not s.same_player("Cody Gakpo", "Gabriel Martinelli")
+sent = {"interest: ahanor -> chelsea"}
+assert s.interest_already_sent(["interest: anahor -> chelsea"], sent)
+assert not s.interest_already_sent(["interest: anahor -> arsenal"], sent)
+feed = [{
+    "id": "tg:x/1", "kind": "interest", "stage": "—", "player": "Honest Ahanor",
+    "to_club": "Chelsea", "from_club": "Atalanta", "source": "Fabrizio Romano",
+    "sources": ["Fabrizio Romano"], "summary": "old", "photo": "p",
+    "outlet": "tg", "url": "u", "title": "t", "fee": "—", "style": "—", "fit": "—",
+    "position": "Defender", "age": "18", "ts": "2026-08-24T21:00:00+00:00",
+}]
+follow = s.TransferBrief(
+    kind="interest", stage="—", player="Honest Anahor", position="Defender",
+    age="18", from_club="Atalanta", to_club="Chelsea", fee="—",
+    style="—", fit="—", source="Fabrizio Romano",
+    summary="Chelsea have opened initial talks for Honest Anahor.")
+art = {"id": "tg:x/2", "source": "Telegram", "url": "u2", "title": "More on Honest Anahor"}
+assert s.append_feed(art, follow, feed=feed) == "noop"
+assert len(feed) == 1 and feed[0]["player"] == "Honest Ahanor"
+
 art_news = {"id": "https://x", "source": "Yardbarker"}
 art_tg = {"id": "tg:fabrizioromanotg/1", "source": "Telegram · Fabrizio Romano"}
 brief = s.TransferBrief(

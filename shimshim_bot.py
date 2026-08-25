@@ -559,6 +559,75 @@ def same_club(a, b):
     return bool(ta and tb and (ta <= tb or tb <= ta))
 
 
+def _edit_distance(a, b):
+    """Levenshtein distance for short tokens (surnames)."""
+    if a == b:
+        return 0
+    if not a:
+        return len(b)
+    if not b:
+        return len(a)
+    prev = list(range(len(b) + 1))
+    for i, ca in enumerate(a, 1):
+        cur = [i]
+        for j, cb in enumerate(b, 1):
+            cur.append(min(
+                prev[j] + 1,
+                cur[j - 1] + 1,
+                prev[j - 1] + (ca != cb),
+            ))
+        prev = cur
+    return prev[-1]
+
+
+def same_surname(a, b):
+    """Exact surname match, or a small typo on substantial surnames.
+
+    One edit for length ≥ 5; two edits for length ≥ 6 — catches outlet
+    misspellings like Ahanor/Anahor (a swap across a letter = distance 2)
+    without gluing short names (Saka/Salah stays distinct).
+    """
+    a, b = _norm(a), _norm(b)
+    if not a or not b:
+        return False
+    if a == b:
+        return True
+    n = min(len(a), len(b))
+    if n < 5 or abs(len(a) - len(b)) > 2:
+        return False
+    dist = _edit_distance(a, b)
+    if n >= 6:
+        return dist <= 2
+    return dist <= 1
+
+
+def same_player(a, b):
+    """True when two player strings refer to the same person.
+
+    Tolerates one-letter surname typos and first-name / initial variants
+    so a follow-up that misspells the exclusive ('Honest Anahor') merges
+    into the original card ('Honest Ahanor') instead of forking the feed.
+    """
+    a, b = _norm(a), _norm(b)
+    if not a or not b or a == "—" or b == "—":
+        return False
+    if a == b:
+        return True
+    pa, pb = a.split(), b.split()
+    if not same_surname(pa[-1], pb[-1]):
+        return False
+    if len(pa) == 1 or len(pb) == 1:
+        return True
+    fa, fb = pa[0], pb[0]
+    if fa == fb:
+        return True
+    if len(fa) == 1 and fb.startswith(fa):
+        return True
+    if len(fb) == 1 and fa.startswith(fb):
+        return True
+    return False
+
+
 def oracle_fotmob(player):
     """Current club from FotMob suggest, or '' on miss/error."""
     try:
@@ -945,6 +1014,53 @@ def interest_keys(brief):
         return []
     clubs = [_norm_club(c) for c in brief.to_club.split(",")]
     return [f"interest: {surname} -> {c}" for c in clubs if c and c != "—"]
+
+
+def _parse_interest_key(key):
+    """'interest: surname -> club' -> (surname, club) or (None, None)."""
+    if not isinstance(key, str) or not key.startswith("interest: "):
+        return None, None
+    rest = key[len("interest: "):]
+    if " -> " not in rest:
+        return None, None
+    surname, club = rest.split(" -> ", 1)
+    return surname, club
+
+
+def interest_key_covered(key, interest_sent):
+    """True when this (player, club) interest was already notified, including
+    near-misspelt surnames already on the sent list."""
+    if key in interest_sent:
+        return True
+    surname, club = _parse_interest_key(key)
+    if not surname:
+        return False
+    for prev in interest_sent:
+        ps, pc = _parse_interest_key(prev)
+        if ps and pc == club and same_surname(surname, ps):
+            return True
+    return False
+
+
+def interest_already_sent(keys, interest_sent):
+    """All keys already covered (exact or fuzzy surname) → suppress re-push."""
+    return bool(keys) and all(interest_key_covered(k, interest_sent) for k in keys)
+
+
+def deal_rank_reached(key, deals, rank):
+    """True when this deal (or a one-edit surname variant) already hit rank."""
+    if not key:
+        return False
+    if rank <= deals.get(key, 0):
+        return True
+    surname, sep, club = key.partition(" -> ")
+    if not sep:
+        return False
+    for prev, prev_rank in deals.items():
+        ps, psep, pc = prev.partition(" -> ")
+        if psep and pc == club and same_surname(surname, ps) and rank <= prev_rank:
+            return True
+    return False
 
 
 # A deal message is sent when its stage outranks what was already sent for
@@ -1520,9 +1636,17 @@ def ensure_club_crests(brief, state):
         CRESTS_FILE.write_text(json.dumps(published, sort_keys=True))
 
 
-def _card_sig(kind, stage, player, to_club):
+def _card_sig_match(card, kind, stage, player, to_club):
+    """Same journey signature, but player equality tolerates one-edit typos."""
+    if card["kind"] != kind:
+        return False
+    if _norm(card.get("stage", "")) != _norm(stage):
+        return False
+    if not same_player(card["player"], player):
+        return False
     dests = frozenset(_norm_club(c) for c in to_club.split(",") if c.strip())
-    return (_norm(player), kind, _norm(stage), dests)
+    card_dests = frozenset(_norm_club(c) for c in card["to_club"].split(",") if c.strip())
+    return dests == card_dests
 
 
 def append_feed(article, brief, photo="", feed=None):
@@ -1543,9 +1667,8 @@ def append_feed(article, brief, photo="", feed=None):
                 feed = json.loads(FEED_FILE.read_text())
             except json.JSONDecodeError:
                 pass
-    sig = _card_sig(brief.kind, brief.stage, brief.player, brief.to_club)
     dup = next((c for c in feed
-                if _card_sig(c["kind"], c.get("stage", ""), c["player"], c["to_club"]) == sig),
+                if _card_sig_match(c, brief.kind, brief.stage, brief.player, brief.to_club)),
                None)
     if dup is not None:
         # Same journey at the same stage already exists. Not a re-stage — but a
@@ -1564,12 +1687,11 @@ def append_feed(article, brief, photo="", feed=None):
             print(f"feed append skipped (identical card exists): {brief.player}")
         return "noop"
 
-    player_key = _norm(brief.player)
     existing = None
     if brief.kind == "deal":
         dest = _norm_club(brief.to_club)
         for c in feed:
-            if _norm(c["player"]) != player_key:
+            if not same_player(c["player"], brief.player):
                 continue
             if c["kind"] == "interest":
                 existing = c  # the rumour that became a deal
@@ -1580,7 +1702,7 @@ def append_feed(article, brief, photo="", feed=None):
                 break
     elif brief.kind == "interest":
         for c in feed:
-            if _norm(c["player"]) == player_key and c["kind"] == "interest":
+            if same_player(c["player"], brief.player) and c["kind"] == "interest":
                 existing = c  # merge the new suitor(s) into the player's card
                 break
 
@@ -1971,10 +2093,10 @@ def main():
                 # re-suppress duplicates)
                 if brief.kind == "deal":
                     key = deal_key(brief)
-                    dup = key and stage_rank(brief) <= deals.get(key, 0)
+                    dup = deal_rank_reached(key, deals, stage_rank(brief))
                 else:
                     keys = interest_keys(brief)
-                    dup = keys and all(k in interest_sent for k in keys)
+                    dup = interest_already_sent(keys, interest_sent)
                 if dup:
                     seen.add(article["id"])
                     state["sent"].append(article["id"])
@@ -2057,12 +2179,12 @@ def main():
             continue
         if brief.kind == "interest":
             keys = interest_keys(brief)
-            if keys and all(k in interest_sent for k in keys):
+            if interest_already_sent(keys, interest_sent):
                 print(f"skipped (interest already sent): {article['title']}")
                 continue
         else:  # deal
             key = deal_key(brief)
-            if key and stage_rank(brief) <= deals.get(key, 0):
+            if deal_rank_reached(key, deals, stage_rank(brief)):
                 print(f"skipped (stage already sent, {key}): {article['title']}")
                 continue
         # The app (feed + web push) is the delivery channel; the Telegram

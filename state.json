@@ -1,6 +1,5 @@
 {
   "sent": [
-    "a4903f64552adfa76a418ce7159455fb",
     "23b757c3d4da655c6f79712cb9bfd7dc",
     "969959c858c6d86ad98f22ba97863e30",
     "d41d48eeb6e30da266961fbf5b2d6d60",
@@ -1499,7 +1498,8 @@
     "tg:FabrizioRomanoTG/65232",
     "tg:FabrizioRomanoTG/65233",
     "037c9ed7a2428a0793b14c3b8cb48d14",
-    "tg:FabrizioRomanoTG/65234"
+    "tg:FabrizioRomanoTG/65234",
+    "tg:FabrizioRomanoTG/65235"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1983,7 +1983,6 @@
     "interest: anahor -> chelsea"
   ],
   "titles": [
-    "minteh agrees to join liverpool as insiders reveal fate of second bid",
     "bournemouth transfer news: cherries in 'advanced talks' to sign juventus goalkee",
     "report nkunku preference for rb leipzig, but newcastle united have best offer",
     "minteh green lights liverpool switch as insiders reveal second bid\u2019s status",
@@ -2282,7 +2281,8 @@
     "\ud83d\udea8 \ud83d\udca3 manchester city are set to send formal bid before the end of the window for ",
     "\ud83d\udcfa new youtube video uploaded! \ud83c\udfac \ud83d\udea8 \ud83d\udca3 enzo bomba! julian: arsenal ready! zubimendi",
     "man city transfer news: fabrizio romano drops \u2018here we go\u2019 for \u00a334 2m attacker s",
-    "\ud83d\udea8 \ud83d\udd35 more on honest anahor and chelsea exclusive story initial talks took place w"
+    "\ud83d\udea8 \ud83d\udd35 more on honest anahor and chelsea exclusive story initial talks took place w",
+    "\ud83d\udea8 \ud83c\udde6\ud83c\uddf7 arsenal remain attentive to julian alvarez situation and internal feeling i"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2580,13 +2580,13 @@
     "christopher nkunku": "https://r2.thesportsdb.com/images/media/player/cutout/0zhdh61758893135.png/small",
     "mamadou sarr": "https://r2.thesportsdb.com/images/media/player/cutout/a1ha5q1766053704.png/small",
     "honest ahanor": "https://r2.thesportsdb.com/images/media/player/cutout/uahuuj1764331567.png/small",
-    "heaven kilwa": "",
     "hermann malonga": "",
     "andria bartishvili": "",
     "tommy marques": "",
-    "dastan satpayev": ""
+    "dastan satpayev": "",
+    "heaven kilwa": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 5,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

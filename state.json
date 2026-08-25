@@ -1,6 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/64469",
     "5bbb29acb3ae4800844f6ba08744d04d",
     "80425703c999b8ea672d8fbc4b6787d9",
     "tg:FabrizioRomanoTG/64471",
@@ -1499,7 +1498,8 @@
     "8945c0c86be3563c72393a7e36335a02",
     "c4c9674b482b1748d2dba2d3930594b7",
     "86f9427c2a5be44dd7348c0606d98048",
-    "43868520646403ea03190a1bf559eeac"
+    "43868520646403ea03190a1bf559eeac",
+    "124b4e927fa3132e9c4e45594c8de553"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1981,7 +1981,6 @@
     "interest: ahanor -> chelsea"
   ],
   "titles": [
-    "when tottenham could green light mikey moore exit as timeframe emerges",
     "liverpool reach decision on new yankuba minteh bid after brighton snub \u00a350m offe",
     "view: everton have benchmark for 'exciting' star's sale after what pl rivals hav",
     "here we go: barcelona reach \u20ac4 million agreement for veteran goalkeeper, who wil",
@@ -2280,7 +2279,8 @@
     "bouaddi puts pen to paper with manchester city",
     "check out the latest transfer reports in europe",
     "a new step brings watkins closer to al hilal of saudi arabia",
-    "agreement reached: manchester city offload their player for 50 million"
+    "agreement reached: manchester city offload their player for 50 million",
+    "fabrizio romano reveals u turn update on everton linked ace after reports of pre"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2579,13 +2579,13 @@
     "christopher nkunku": "https://r2.thesportsdb.com/images/media/player/cutout/0zhdh61758893135.png/small",
     "mamadou sarr": "https://r2.thesportsdb.com/images/media/player/cutout/a1ha5q1766053704.png/small",
     "honest ahanor": "https://r2.thesportsdb.com/images/media/player/cutout/uahuuj1764331567.png/small",
-    "tommy marques": "",
     "dastan satpayev": "",
     "heaven kilwa": "",
     "hermann malonga": "",
-    "andria bartishvili": ""
+    "andria bartishvili": "",
+    "tommy marques": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

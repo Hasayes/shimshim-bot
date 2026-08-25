@@ -1,6 +1,5 @@
 {
   "sent": [
-    "3a3215c4405e11f3c3fd0a4de8b8d5ad",
     "f501dff75f0a9d9aa20bc3b747c5c904",
     "tg:FabrizioRomanoTG/64499",
     "ef56fe49181caec43a12f851086417e4",
@@ -1499,7 +1498,8 @@
     "04f125a021be7d1ebd1f557da90a3cfa",
     "af122aab31a94cc842cd6ec1f47382ea",
     "tg:FabrizioRomanoTG/65238",
-    "4c0c40a596543ca597a6d24f10b29e8f"
+    "4c0c40a596543ca597a6d24f10b29e8f",
+    "tg:FabrizioRomanoTG/65240"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1983,7 +1983,6 @@
     "interest: anahor -> chelsea"
   ],
   "titles": [
-    "tim sherwood thinks \u2018this\u2019 chelsea outcast could be answer to roberto de zerbi\u2019s",
     "personal terms agreed, negotiations underway: journalist shares exciting liverpo",
     "ajax defender lands in rome ahead of lazio medical \u2013 (video)",
     "liverpool transfer latest news: reds submit \u00a360m offer for brighton\u2019s yankuba mi",
@@ -2282,7 +2281,8 @@
     "cody gakpo transfer news: man city interested in signing tottenham target from l",
     "martinelli to make final decision on joining al hilal as chelsea confirm deal fo",
     "\u26aa\ufe0f \ud83c\udde7\ud83c\uddf7 official, confirmed savinho joins tottenham from manchester city \u201cit's tak",
-    "a liverpool forward has been named as a manchester city target but is it a move "
+    "a liverpool forward has been named as a manchester city target but is it a move ",
+    "\ud83d\udea8 \ud83c\udde6\ud83c\uddea al jazira approach inter midfielder kristjan asllani as talks have started "
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2579,15 +2579,15 @@
     "christopher nkunku": "https://r2.thesportsdb.com/images/media/player/cutout/0zhdh61758893135.png/small",
     "mamadou sarr": "https://r2.thesportsdb.com/images/media/player/cutout/a1ha5q1766053704.png/small",
     "honest ahanor": "https://r2.thesportsdb.com/images/media/player/cutout/uahuuj1764331567.png/small",
-    "dastan satpayev": "",
     "heaven kilwa": "",
     "hermann malonga": "",
     "honest anahor": "",
     "savinho": "https://r2.thesportsdb.com/images/media/player/cutout/khqgy21769183420.png/small",
     "andria bartishvili": "",
-    "tommy marques": ""
+    "tommy marques": "",
+    "dastan satpayev": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

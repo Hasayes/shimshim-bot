@@ -1,7 +1,5 @@
 {
   "sent": [
-    "e8a4de3b048f48be2133f84b2ad1c0b3",
-    "d8499c191b72a60a8d4b0b791b01790e",
     "d2e9631ed5207475e4bb626cfb5e48e7",
     "288c02c17abb9c29865e61c9f35c2615",
     "tg:FabrizioRomanoTG/64521",
@@ -1499,7 +1497,9 @@
     "3ef85cad6698eb91faf17f22a6c5fc31",
     "tg:FabrizioRomanoTG/65293",
     "53d7fd31098af179def26bebe84ea433",
-    "44c21f7f0f2d7eaacb10171ba22b6479"
+    "44c21f7f0f2d7eaacb10171ba22b6479",
+    "32fa5f65b07ab84e59b625a392fe8546",
+    "98277acdb5548b7be36f095209efd2cd"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1987,8 +1987,6 @@
     "interest: guiu -> napoli"
   ],
   "titles": [
-    "\ud83d\udd35 \ud83d\udfe2 \ud83c\uddfa\ud83c\uddf8 excl: seattle sounders agree deal to sign dejan joveljic from sporting kc",
-    "atletico madrid fans protest against arsenal transfer target",
     "romano says \u201cno chance\u201d chelsea winger sold or loaned despite disappointing seas",
     "andoni iraola\u2019s bid to bolster his squad has taken a fresh turn",
     "aston villa take \u201ccrucial step\u201d to secure top champions league player on free tr",
@@ -2286,7 +2284,9 @@
     "liam delap transfer latest as nottingham forest step up move for chelsea striker",
     "rt @fabrizioromano : \ud83d\udea8 \ud83d\ude9c excl: ipswich town have sent new official bid to bayer ",
     "arsenal football transfer latest news: julian alvarez stance could decide \u00a3130m ",
-    "defining gakpo blow for tottenham as liverpool decision comes to light after man"
+    "defining gakpo blow for tottenham as liverpool decision comes to light after man",
+    "done: barcelona sign contracts for a new signing",
+    "enzo fernandez reacts as romano reveals \u2018formal bid\u2019 from man city for chelsea s"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2582,16 +2582,16 @@
     "savinho": "https://r2.thesportsdb.com/images/media/player/cutout/khqgy21769183420.png/small",
     "ernest poku": "https://r2.thesportsdb.com/images/media/player/cutout/h7u26r1756315418.png/small",
     "hermann malonga": "",
-    "heaven kilwa": "",
     "enzo": "",
     "franck kessie": "",
     "honest anahor": "",
     "marc guiu": "https://r2.thesportsdb.com/images/media/player/cutout/x4r4991757003409.png/small",
     "andria bartishvili": "",
     "tommy marques": "",
-    "dastan satpayev": ""
+    "dastan satpayev": "",
+    "heaven kilwa": ""
   },
-  "photo_repair_idx": 6,
+  "photo_repair_idx": 7,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

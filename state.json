@@ -1,6 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/64477",
     "tg:FabrizioRomanoTG/64478",
     "tg:FabrizioRomanoTG/64480",
     "9a9f4b70cd424d32fb4931a292900c85",
@@ -1499,7 +1498,8 @@
     "55305d9778eb6731e4a731b99066ac7d",
     "6738745553d111995dd04a5265867ceb",
     "4066a4e146155b6fbd69c7212fc40bbf",
-    "4724ccd549616cfa37b1ad50bb201506"
+    "4724ccd549616cfa37b1ad50bb201506",
+    "530c7583006f77284d11983636cbacf5"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1981,7 +1981,6 @@
     "interest: ahanor -> chelsea"
   ],
   "titles": [
-    "aston villa's watkins pushing for saudi move, tottenham agree savinho fee: live ",
     "nicolas jackson transfer latest news: aston villa lead chelsea exit race for \u00a365",
     "iraola didn\u2019t want to sell departing liverpool star as \u2018best player\u2019 claim made ",
     "liverpool learn fee needed to sign yankuba minteh as ibrahim mbaye snubbed",
@@ -2280,7 +2279,8 @@
     "manchester city join tottenham in transfer race for liverpool star cody gakpo as",
     "carlos baleba debut for manchester united could be delayed until october",
     "newcastle \u2018agree \u00a350m nico gonzalez transfer as man city star gives green light ",
-    "newcastle agree \u00a350m deal for spanish star after major breakthrough"
+    "newcastle agree \u00a350m deal for spanish star after major breakthrough",
+    "man city transfer news: \u2018verbal agreement\u2019 reached to sell \u00a350m player before de"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2579,13 +2579,13 @@
     "christopher nkunku": "https://r2.thesportsdb.com/images/media/player/cutout/0zhdh61758893135.png/small",
     "mamadou sarr": "https://r2.thesportsdb.com/images/media/player/cutout/a1ha5q1766053704.png/small",
     "honest ahanor": "https://r2.thesportsdb.com/images/media/player/cutout/uahuuj1764331567.png/small",
-    "andria bartishvili": "",
     "tommy marques": "",
     "dastan satpayev": "",
     "heaven kilwa": "",
-    "hermann malonga": ""
+    "hermann malonga": "",
+    "andria bartishvili": ""
   },
-  "photo_repair_idx": 5,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

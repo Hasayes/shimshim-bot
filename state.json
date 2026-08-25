@@ -1,6 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/64507",
     "eb101d45e794cc1f4b0000e36e481450",
     "a6aa36c44a5f329afc2dff95b0710d2b",
     "ac54fd40a4e93c3b7d1602c79a365d4e",
@@ -1499,7 +1498,8 @@
     "tg:FabrizioRomanoTG/65254",
     "tg:FabrizioRomanoTG/65255",
     "tg:FabrizioRomanoTG/65256",
-    "tg:FabrizioRomanoTG/65257"
+    "tg:FabrizioRomanoTG/65257",
+    "tg:FabrizioRomanoTG/65258"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1984,7 +1984,6 @@
     "interest: anahor -> chelsea"
   ],
   "titles": [
-    "leeds united pushing hard to sign chelsea ace after opening bid rejected",
     "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f rb leipzig remain favorites to sign christopher nkunku as the striker wan",
     "\u2018signed the official contract\u2019 \u2013 newcastle united\u2019s next signing complete read n",
     "\ud83d\udea8 \ud83d\udfe3 \ud83d\udd35 leon goretzka to aston villa, here we go! verbal agreement in place with t",
@@ -2283,7 +2282,8 @@
     "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f napoli had a direct meeting with exequiel zeballos\u2019 agent today to discus",
     "\ud83d\udea8 \ud83d\udd34 \u26ab\ufe0f bayer leverkusen will now focus their efforts on closing moussa diaby dea",
     "@luka_thfc savio travelled to london on saturday and it\u2019s been announced today, ",
-    "\u26aa\ufe0f \u26ab\ufe0f newcastle and manchester city start to exchange documents today after verb"
+    "\u26aa\ufe0f \u26ab\ufe0f newcastle and manchester city start to exchange documents today after verb",
+    "\ud83d\udea8 \ud83c\udde6\ud83c\uddea kristjan asllani has opened doors to al jazira after direct approach with t"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2580,15 +2580,15 @@
     "mamadou sarr": "https://r2.thesportsdb.com/images/media/player/cutout/a1ha5q1766053704.png/small",
     "honest ahanor": "https://r2.thesportsdb.com/images/media/player/cutout/uahuuj1764331567.png/small",
     "savinho": "https://r2.thesportsdb.com/images/media/player/cutout/khqgy21769183420.png/small",
-    "dastan satpayev": "",
     "heaven kilwa": "",
     "hermann malonga": "",
     "ernest poku": "https://r2.thesportsdb.com/images/media/player/cutout/h7u26r1756315418.png/small",
     "honest anahor": "",
     "andria bartishvili": "",
-    "tommy marques": ""
+    "tommy marques": "",
+    "dastan satpayev": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

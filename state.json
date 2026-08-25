@@ -1,7 +1,5 @@
 {
   "sent": [
-    "d8a13228fe1e1579b30ab5a67091b857",
-    "tg:FabrizioRomanoTG/64502",
     "tg:FabrizioRomanoTG/64504",
     "tg:FabrizioRomanoTG/64505",
     "tg:FabrizioRomanoTG/64506",
@@ -1499,7 +1497,9 @@
     "tg:FabrizioRomanoTG/65248",
     "tg:FabrizioRomanoTG/65249",
     "eb2c237620c7bfa51f1d40ee11c83884",
-    "tg:FabrizioRomanoTG/65251"
+    "tg:FabrizioRomanoTG/65251",
+    "a425cf17408d85c5865484d9ed902366",
+    "b680d7b40e209cde5f1e1f8ffb8b4fcb"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1983,8 +1983,6 @@
     "interest: anahor -> chelsea"
   ],
   "titles": [
-    "saturday's gossip: liverpool enquire about real madrid's endrick",
-    "carlos baleba to manchester united \u2014 how will carrick use cameroon star?",
     "carlos baleba to manchester united key details, deal agreed to sign midfielder",
     "carlos baleba: manchester united book medical for latest summer signing after ag",
     "manchester united agree deal to sign brighton midfielder carlos baleba",
@@ -2282,7 +2280,9 @@
     "\ud83d\udd35 \ud83d\udd34 \ud83c\udded\ud83c\uddf7 dominik livakovic medical as new barcelona player will take place tomorro",
     "rt @fabrizioromano : \ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f al hilal are getting closer to gabriel martinelli de",
     "aston villa open talks to sign portuguese winger as he green lights premier leag",
-    "\u26aa\ufe0f \ud83c\udde7\ud83c\uddf7 savinho: \u201cwhenever i came to play against spurs, i always talked to my rep"
+    "\u26aa\ufe0f \ud83c\udde7\ud83c\uddf7 savinho: \u201cwhenever i came to play against spurs, i always talked to my rep",
+    "\u201cmedical completed\u201d \u2013 premier league team add champions league winner and rush t",
+    "liverpool \u2018still want\u2019 premier league star despite worrying injury \u2018prognosis\u2019"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2580,14 +2580,14 @@
     "mamadou sarr": "https://r2.thesportsdb.com/images/media/player/cutout/a1ha5q1766053704.png/small",
     "honest ahanor": "https://r2.thesportsdb.com/images/media/player/cutout/uahuuj1764331567.png/small",
     "savinho": "https://r2.thesportsdb.com/images/media/player/cutout/khqgy21769183420.png/small",
-    "hermann malonga": "",
     "honest anahor": "",
     "andria bartishvili": "",
     "tommy marques": "",
     "dastan satpayev": "",
-    "heaven kilwa": ""
+    "heaven kilwa": "",
+    "hermann malonga": ""
   },
-  "photo_repair_idx": 5,
+  "photo_repair_idx": 6,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

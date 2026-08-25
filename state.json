@@ -1,6 +1,5 @@
 {
   "sent": [
-    "e3ce98d0103a664ca260d288e49482bd",
     "tg:FabrizioRomanoTG/64468",
     "tg:FabrizioRomanoTG/64469",
     "5bbb29acb3ae4800844f6ba08744d04d",
@@ -1499,7 +1498,8 @@
     "58552667cfc184aaf91dda2354d9d9bb",
     "02a098480ab1e21de00c0c8e39703ea8",
     "8945c0c86be3563c72393a7e36335a02",
-    "c4c9674b482b1748d2dba2d3930594b7"
+    "c4c9674b482b1748d2dba2d3930594b7",
+    "86f9427c2a5be44dd7348c0606d98048"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1981,7 +1981,6 @@
     "interest: ahanor -> chelsea"
   ],
   "titles": [
-    "confusion over joao pedro contract as new deal appears to be shorter than the la",
     "jorge mendes backs lamine yamal for 2026 ballon d\u2019or",
     "when tottenham could green light mikey moore exit as timeframe emerges",
     "liverpool reach decision on new yankuba minteh bid after brighton snub \u00a350m offe",
@@ -2280,7 +2279,8 @@
     "liverpool making decisive winger bid as shock third signing possible",
     "man utd make fresh decision on signing myles lewis skelly as offer for barcelona",
     "bouaddi puts pen to paper with manchester city",
-    "check out the latest transfer reports in europe"
+    "check out the latest transfer reports in europe",
+    "a new step brings watkins closer to al hilal of saudi arabia"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2579,13 +2579,13 @@
     "christopher nkunku": "https://r2.thesportsdb.com/images/media/player/cutout/0zhdh61758893135.png/small",
     "mamadou sarr": "https://r2.thesportsdb.com/images/media/player/cutout/a1ha5q1766053704.png/small",
     "honest ahanor": "https://r2.thesportsdb.com/images/media/player/cutout/uahuuj1764331567.png/small",
-    "hermann malonga": "",
     "andria bartishvili": "",
     "tommy marques": "",
     "dastan satpayev": "",
-    "heaven kilwa": ""
+    "heaven kilwa": "",
+    "hermann malonga": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 5,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

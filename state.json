@@ -1,7 +1,5 @@
 {
   "sent": [
-    "3074be1ece90a09364b03d947612f4b5",
-    "143028f33bf7996e1d86e51b03d47712",
     "c6c60a865d8d7254ebd3287351c22ee1",
     "6854b84b45773ee6411de73e8164dd63",
     "tg:FabrizioRomanoTG/64513",
@@ -1499,7 +1497,9 @@
     "642730ed7423ab502f54395f2b2ba78e",
     "tg:FabrizioRomanoTG/65263",
     "tg:FabrizioRomanoTG/65265",
-    "tg:FabrizioRomanoTG/65266"
+    "tg:FabrizioRomanoTG/65266",
+    "tg:FabrizioRomanoTG/65274",
+    "tg:FabrizioRomanoTG/65277"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1984,8 +1984,6 @@
     "interest: anahor -> chelsea"
   ],
   "titles": [
-    "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f juventus manager spalletti closes doors to all clubs keen on kenan yildi",
-    "bayern munich news: espanyol eyeing fc bayern\u2019s bryan zaragoza; max eberl happy ",
     "liverpool transfer news as $82m target weighs options and bournemouth stance eme",
     "\ud83d\udea8 \u26aa\ufe0f tottenham, calm and confident to get omar marmoush deal done by the start o",
     "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f negotiations are taking place today between manchester city and palmeiras",
@@ -2283,7 +2281,9 @@
     "liverpool given green light from duo worth \u00a3190m for final week of transfer wind",
     "\ud83d\udd35 \u26aa\ufe0f \ud83c\udde6\ud83c\uddf7 discussions ongoing about the fee for boca juniors in case of exequiel z",
     "\ud83d\udea8 \ud83c\udde6\ud83c\uddea excl: al jazira have reached a verbal agreement with inter for kristjan asl",
-    "\u26ab\ufe0f \u26aa\ufe0f \ud83c\uddea\ud83c\uddf8 nico gonzalez, in newcastle today for medical and contract signing afte"
+    "\u26ab\ufe0f \u26aa\ufe0f \ud83c\uddea\ud83c\uddf8 nico gonzalez, in newcastle today for medical and contract signing afte",
+    "\ud83d\udea8 \ud83d\udfe3 \ud83d\udd35 nicolas jackson remains aston villa priority target as reported last week ",
+    "@free_steelo7 @luka_thfc they said i jumped the gun for nico and he\u2019s now in new"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2581,14 +2581,14 @@
     "honest ahanor": "https://r2.thesportsdb.com/images/media/player/cutout/uahuuj1764331567.png/small",
     "savinho": "https://r2.thesportsdb.com/images/media/player/cutout/khqgy21769183420.png/small",
     "ernest poku": "https://r2.thesportsdb.com/images/media/player/cutout/h7u26r1756315418.png/small",
-    "tommy marques": "",
     "dastan satpayev": "",
     "heaven kilwa": "",
     "hermann malonga": "",
     "honest anahor": "",
-    "andria bartishvili": ""
+    "andria bartishvili": "",
+    "tommy marques": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

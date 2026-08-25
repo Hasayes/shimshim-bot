@@ -1,6 +1,5 @@
 {
   "sent": [
-    "c6c60a865d8d7254ebd3287351c22ee1",
     "6854b84b45773ee6411de73e8164dd63",
     "tg:FabrizioRomanoTG/64513",
     "tg:FabrizioRomanoTG/64514",
@@ -1499,7 +1498,8 @@
     "tg:FabrizioRomanoTG/65265",
     "tg:FabrizioRomanoTG/65266",
     "tg:FabrizioRomanoTG/65274",
-    "tg:FabrizioRomanoTG/65277"
+    "tg:FabrizioRomanoTG/65277",
+    "tg:FabrizioRomanoTG/65279"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1981,10 +1981,10 @@
     "interest: dembele -> psg",
     "interest: ahanor -> chelsea",
     "interest: gakpo -> manchester city",
-    "interest: anahor -> chelsea"
+    "interest: anahor -> chelsea",
+    "interest: kessie -> juventus"
   ],
   "titles": [
-    "liverpool transfer news as $82m target weighs options and bournemouth stance eme",
     "\ud83d\udea8 \u26aa\ufe0f tottenham, calm and confident to get omar marmoush deal done by the start o",
     "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f negotiations are taking place today between manchester city and palmeiras",
     "sources: newcastle and real madrid step up interest in \u20ac60 million midfielder",
@@ -2283,11 +2283,11 @@
     "\ud83d\udea8 \ud83c\udde6\ud83c\uddea excl: al jazira have reached a verbal agreement with inter for kristjan asl",
     "\u26ab\ufe0f \u26aa\ufe0f \ud83c\uddea\ud83c\uddf8 nico gonzalez, in newcastle today for medical and contract signing afte",
     "\ud83d\udea8 \ud83d\udfe3 \ud83d\udd35 nicolas jackson remains aston villa priority target as reported last week ",
-    "@free_steelo7 @luka_thfc they said i jumped the gun for nico and he\u2019s now in new"
+    "@free_steelo7 @luka_thfc they said i jumped the gun for nico and he\u2019s now in new",
+    "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f juventus mantain active talks with franck kessie today in order to try g"
   ],
   "tg_update_offset": 263617426,
   "photos": {
-    "xaver schlager": "https://r2.thesportsdb.com/images/media/player/cutout/1bvq9r1763561361.png/small",
     "michael olise": "https://r2.thesportsdb.com/images/media/player/cutout/r4vx6b1756408807.png/small",
     "diogo costa": "https://r2.thesportsdb.com/images/media/player/cutout/koetaj1724749969.png/small",
     "manu kone": "https://r2.thesportsdb.com/images/media/player/cutout/s4wyo21758815461.png/small",
@@ -2586,9 +2586,10 @@
     "hermann malonga": "",
     "honest anahor": "",
     "andria bartishvili": "",
+    "franck kessie": "",
     "tommy marques": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

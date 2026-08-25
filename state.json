@@ -1,7 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/64496",
-    "e2091784974d94a8e2e8ec234cffae2b",
     "a4903f64552adfa76a418ce7159455fb",
     "23b757c3d4da655c6f79712cb9bfd7dc",
     "969959c858c6d86ad98f22ba97863e30",
@@ -1499,7 +1497,9 @@
     "tg:FabrizioRomanoTG/65231",
     "c1cd4ce0741c6fde0829f12ff9352b82",
     "tg:FabrizioRomanoTG/65232",
-    "tg:FabrizioRomanoTG/65233"
+    "tg:FabrizioRomanoTG/65233",
+    "037c9ed7a2428a0793b14c3b8cb48d14",
+    "tg:FabrizioRomanoTG/65234"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1979,11 +1979,10 @@
     "interest: martinez -> real madrid",
     "interest: dembele -> psg",
     "interest: ahanor -> chelsea",
-    "interest: gakpo -> manchester city"
+    "interest: gakpo -> manchester city",
+    "interest: anahor -> chelsea"
   ],
   "titles": [
-    "liverpool likely to agree deal to sign 'elite' star with new offer",
-    "david ornstein: liverpool submit \u00a360m bid to sign new winger",
     "minteh agrees to join liverpool as insiders reveal fate of second bid",
     "bournemouth transfer news: cherries in 'advanced talks' to sign juventus goalkee",
     "report nkunku preference for rb leipzig, but newcastle united have best offer",
@@ -2281,11 +2280,12 @@
     "\ud83e\ude75 \ud83c\uddf2\ud83c\udde6 ayyoub bouaddi completed his medical at manchester city and joins the club ",
     "romano reveals liverpool plan for cody gakpo as man city enter \u2018active talks\u2019",
     "\ud83d\udea8 \ud83d\udca3 manchester city are set to send formal bid before the end of the window for ",
-    "\ud83d\udcfa new youtube video uploaded! \ud83c\udfac \ud83d\udea8 \ud83d\udca3 enzo bomba! julian: arsenal ready! zubimendi"
+    "\ud83d\udcfa new youtube video uploaded! \ud83c\udfac \ud83d\udea8 \ud83d\udca3 enzo bomba! julian: arsenal ready! zubimendi",
+    "man city transfer news: fabrizio romano drops \u2018here we go\u2019 for \u00a334 2m attacker s",
+    "\ud83d\udea8 \ud83d\udd35 more on honest anahor and chelsea exclusive story initial talks took place w"
   ],
   "tg_update_offset": 263617426,
   "photos": {
-    "rahim alhassane": "https://r2.thesportsdb.com/images/media/player/cutout/ea05d41762619935.png/small",
     "lesley ugochukwu": "https://r2.thesportsdb.com/images/media/player/cutout/joik2s1757177541.png/small",
     "randal kolo muani": "https://r2.thesportsdb.com/images/media/player/cutout/h89zyk1768679563.png/small",
     "xaver schlager": "https://r2.thesportsdb.com/images/media/player/cutout/1bvq9r1763561361.png/small",
@@ -2584,9 +2584,10 @@
     "hermann malonga": "",
     "andria bartishvili": "",
     "tommy marques": "",
+    "honest anahor": "",
     "dastan satpayev": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

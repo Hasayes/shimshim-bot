@@ -1,7 +1,5 @@
 {
   "sent": [
-    "0850382bf4cb0b6516e50e8f9929d118",
-    "b17af6802e74c5f10ed5bb89d119e257",
     "263d083ea7aed5f9f3b36a82b60c39e3",
     "faa51dcc2237fe2d99f35b023b8a3f8e",
     "f6588e29204fc6bb8d1298c2f27636a8",
@@ -1499,7 +1497,9 @@
     "e9e57d344e4bcedfad19329f1bdec675",
     "b7856ed6e74984ed9fdbdf34bd71e282",
     "tg:FabrizioRomanoTG/65282",
-    "tg:FabrizioRomanoTG/65283"
+    "tg:FabrizioRomanoTG/65283",
+    "2061987caf3e33c8f9a7d0476d505a49",
+    "tg:FabrizioRomanoTG/65284"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1986,8 +1986,6 @@
     "interest: enzo -> manchester city"
   ],
   "titles": [
-    "ifeanyi ndukwe completes liverpool move and joins levante on loan liverpool fc",
-    "lautaro martinez remains central to inter\u2019s long term plans",
     "fc barcelona news: 22 august 2026; preparations begin for la liga debut, alejand",
     "game over for liverpool midfielder with contract termination close anfield watch",
     "manchester united sign cameroon midfielder baleba for \u00a370m",
@@ -2285,7 +2283,9 @@
     "chelsea plotting move for atalanta\u2019s honest ahanor",
     "liverpool \u2018deciding today\u2019 on \u00a370m minteh deal as final price is named and ibrah",
     "\ud83d\udd35 \u26aa\ufe0f manchester city official bid for enzo will be sent soon, as reported this m",
-    "\u2b50\ufe0f official: nico o\u2019reilly has been named 2026 pfa young player of the year http"
+    "\u2b50\ufe0f official: nico o\u2019reilly has been named 2026 pfa young player of the year http",
+    "transfer news live: arsenal push for alvarez, man city target liverpool winger, ",
+    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f enzo fernandez have his green light to manchester city as he\u2019s open to mo"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2581,16 +2581,16 @@
     "honest ahanor": "https://r2.thesportsdb.com/images/media/player/cutout/uahuuj1764331567.png/small",
     "savinho": "https://r2.thesportsdb.com/images/media/player/cutout/khqgy21769183420.png/small",
     "ernest poku": "https://r2.thesportsdb.com/images/media/player/cutout/h7u26r1756315418.png/small",
-    "andria bartishvili": "",
     "tommy marques": "",
     "dastan satpayev": "",
     "heaven kilwa": "",
     "hermann malonga": "",
     "franck kessie": "",
     "enzo": "",
-    "honest anahor": ""
+    "honest anahor": "",
+    "andria bartishvili": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

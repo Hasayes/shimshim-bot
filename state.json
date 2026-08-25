@@ -1,6 +1,5 @@
 {
   "sent": [
-    "dc8d172536c439ad8a52408a5beb2fd4",
     "3395105be7d3f246f4a089924c67aed6",
     "68cf70b46e85bd86eca1c0abc45da587",
     "0850382bf4cb0b6516e50e8f9929d118",
@@ -1499,7 +1498,8 @@
     "4b612a9fa0f2e07da453b64e4a2e14f3",
     "dd0928a182ccf086178d3695eb725ae7",
     "tg:FabrizioRomanoTG/65281",
-    "e9e57d344e4bcedfad19329f1bdec675"
+    "e9e57d344e4bcedfad19329f1bdec675",
+    "b7856ed6e74984ed9fdbdf34bd71e282"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1985,7 +1985,6 @@
     "interest: kessie -> juventus"
   ],
   "titles": [
-    "transfer news live: arsenal triple deal close, alvarez move; man utd medical; li",
     "man utd reach shock decision on lewis hall transfer after ineos enter bidding fo",
     "\ud83d\udea8 \u26aa\ufe0f \ud83d\udd35 como reach verbal agreement to sign willy kambwala from villarreal, here ",
     "ifeanyi ndukwe completes liverpool move and joins levante on loan liverpool fc",
@@ -2284,7 +2283,8 @@
     "premier league star opens the door: huge deal edges closer for manchester city",
     "it looks like manchester city are finally about to pull the trigger on a move ev",
     "\ud83d\udcfa new youtube video uploaded! \ud83c\udfac \ud83d\udea8 \ud83d\udca3 deal done! over \u20ac400m! hijack or not? lukeba",
-    "chelsea plotting move for atalanta\u2019s honest ahanor"
+    "chelsea plotting move for atalanta\u2019s honest ahanor",
+    "liverpool \u2018deciding today\u2019 on \u00a370m minteh deal as final price is named and ibrah"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2581,15 +2581,15 @@
     "honest ahanor": "https://r2.thesportsdb.com/images/media/player/cutout/uahuuj1764331567.png/small",
     "savinho": "https://r2.thesportsdb.com/images/media/player/cutout/khqgy21769183420.png/small",
     "ernest poku": "https://r2.thesportsdb.com/images/media/player/cutout/h7u26r1756315418.png/small",
-    "honest anahor": "",
     "andria bartishvili": "",
     "tommy marques": "",
     "dastan satpayev": "",
     "heaven kilwa": "",
     "hermann malonga": "",
-    "franck kessie": ""
+    "franck kessie": "",
+    "honest anahor": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

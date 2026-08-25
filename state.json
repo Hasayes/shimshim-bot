@@ -1,7 +1,5 @@
 {
   "sent": [
-    "36f6e9f6bbaf37dbac32e8b5e580d236",
-    "480388cc4c50a044e8fd0b08d602b7f2",
     "ba361259e3db5224f78558942c9b03e4",
     "3a3215c4405e11f3c3fd0a4de8b8d5ad",
     "f501dff75f0a9d9aa20bc3b747c5c904",
@@ -1499,7 +1497,9 @@
     "e1407f9c38fc4498c039a9df38a509ae",
     "5a57fdb18cafe168c8815f6c18b8eff2",
     "497b652920e5b74ee17a831dc7b115f3",
-    "04f125a021be7d1ebd1f557da90a3cfa"
+    "04f125a021be7d1ebd1f557da90a3cfa",
+    "af122aab31a94cc842cd6ec1f47382ea",
+    "tg:FabrizioRomanoTG/65238"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1603,7 +1603,7 @@
     "celar -> fc basel": 2,
     "duran -> benfica": 2,
     "chalobah -> como": 2,
-    "savinho -> tottenham": 1,
+    "savinho -> tottenham": 2,
     "oulai -> fiorentina": 2,
     "upson -> arsenal": 2,
     "rogers -> chelsea": 2,
@@ -1983,8 +1983,6 @@
     "interest: anahor -> chelsea"
   ],
   "titles": [
-    "fabrizio romano: newcastle open talks to sign french forward",
-    "arsenal make contact with atletico madrid over julian alvarez as barcelona dream",
     "atalanta poking around unhappy napoli star anguissa",
     "tim sherwood thinks \u2018this\u2019 chelsea outcast could be answer to roberto de zerbi\u2019s",
     "personal terms agreed, negotiations underway: journalist shares exciting liverpo",
@@ -2282,11 +2280,12 @@
     "chelsea make first move for julian alvarez as stunning arsenal battle teed up",
     "football gossip: gakpo, gonzalez, lewis skelly, scott, mazraoui bbc",
     "man city enter race for gakpo tuesday's gossip",
-    "cody gakpo transfer news: man city interested in signing tottenham target from l"
+    "cody gakpo transfer news: man city interested in signing tottenham target from l",
+    "martinelli to make final decision on joining al hilal as chelsea confirm deal fo",
+    "\u26aa\ufe0f \ud83c\udde7\ud83c\uddf7 official, confirmed savinho joins tottenham from manchester city \u201cit's tak"
   ],
   "tg_update_offset": 263617426,
   "photos": {
-    "lesley ugochukwu": "https://r2.thesportsdb.com/images/media/player/cutout/joik2s1757177541.png/small",
     "randal kolo muani": "https://r2.thesportsdb.com/images/media/player/cutout/h89zyk1768679563.png/small",
     "xaver schlager": "https://r2.thesportsdb.com/images/media/player/cutout/1bvq9r1763561361.png/small",
     "michael olise": "https://r2.thesportsdb.com/images/media/player/cutout/r4vx6b1756408807.png/small",
@@ -2580,14 +2579,15 @@
     "christopher nkunku": "https://r2.thesportsdb.com/images/media/player/cutout/0zhdh61758893135.png/small",
     "mamadou sarr": "https://r2.thesportsdb.com/images/media/player/cutout/a1ha5q1766053704.png/small",
     "honest ahanor": "https://r2.thesportsdb.com/images/media/player/cutout/uahuuj1764331567.png/small",
-    "andria bartishvili": "",
     "tommy marques": "",
     "dastan satpayev": "",
     "heaven kilwa": "",
     "hermann malonga": "",
-    "honest anahor": ""
+    "honest anahor": "",
+    "savinho": "https://r2.thesportsdb.com/images/media/player/cutout/khqgy21769183420.png/small",
+    "andria bartishvili": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

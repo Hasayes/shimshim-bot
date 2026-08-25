@@ -1,5 +1,29 @@
 [
  {
+  "id": "09756cbfa95253fac14c40067340aa9f",
+  "ts": "2026-08-25T09:15:51+00:00",
+  "kind": "deal",
+  "stage": "Completed",
+  "player": "Savinho",
+  "position": "Winger",
+  "age": "22",
+  "from_club": "Manchester City",
+  "to_club": "Tottenham Hotspur",
+  "fee": "\u00a360m",
+  "style": "Pacey, creative winger who cuts inside from the flank and delivers dangerous crosses with excellent dribbling ability.",
+  "fit": "Deploy on either wing in De Zerbi's attacking system to provide width, create chances, and contribute to quick transitions.",
+  "source": "Fabrizio Romano",
+  "outlet": "Telegram @fabrizioromanotg",
+  "url": "https://t.me/FabrizioRomanoTG/65238",
+  "title": "\u26aa\ufe0f \ud83c\udde7\ud83c\uddf7 Official, confirmed. Savinho joins Tottenham from Manchester City. \u201cIt's taken a while but I'm very happy to be he",
+  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/khqgy21769183420.png/small",
+  "summary": "Savinho has completed his transfer from Manchester City to Tottenham Hotspur. The Brazilian winger expressed his excitement about joining the club and working with manager De Zerbi.",
+  "sources": [
+   "Fabrizio Romano"
+  ],
+  "srcTier": "tier1"
+ },
+ {
   "id": "tg:FabrizioRomanoTG/65234",
   "ts": "2026-08-25T07:45:42+00:00",
   "kind": "interest",
@@ -4109,30 +4133,6 @@
    "Football Italia"
   ],
   "srcTier": "standard"
- },
- {
-  "id": "09756cbfa95253fac14c40067340aa9f",
-  "ts": "2026-07-17T19:16:27+00:00",
-  "kind": "deal",
-  "stage": "Here we go",
-  "player": "Savinho",
-  "position": "Winger",
-  "age": "22",
-  "from_club": "Manchester City",
-  "to_club": "Tottenham Hotspur",
-  "fee": "\u00a360m",
-  "style": "Direct, explosive left winger who thrives on dribbling, quick transitions and creating chances in wide areas.",
-  "fit": "Fits De Zerbi's high-energy, possession-based system as a dynamic wide attacker capable of stretching defences and contributing directly to goals.",
-  "source": "Fabrizio Romano",
-  "outlet": "sportsmole",
-  "url": "https://www.sportsmole.co.uk/football/spurs/transfer-talk/news/fabrizio-romano-reveals-next-spurs-target-in-exciting-update-amid-gbp60m-pursuit_601363.html",
-  "title": "\"Let's see...\" - Fabrizio Romano reveals next Tottenham target in exciting update amid \u00a360m pursuit",
-  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/khqgy21769183420.png/small",
-  "summary": "Tottenham Hotspur have reached a 'here we go' stage in their pursuit of Manchester City winger Savinho for a fee of \u00a360 million. The deal is understood to be progressing toward completion.",
-  "sources": [
-   "Fabrizio Romano"
-  ],
-  "srcTier": "tier1"
  },
  {
   "id": "8d57ca395825f50675e890fbcf3a2aef",

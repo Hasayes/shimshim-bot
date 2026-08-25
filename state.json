@@ -1,6 +1,5 @@
 {
   "sent": [
-    "52c0186c5ade4215c7f09551ea9428f5",
     "49618263863b57da86a475c1c3c453d1",
     "c03f18b2193b1fa6d4b73a12d15801a7",
     "tg:FabrizioRomanoTG/64525",
@@ -1499,7 +1498,8 @@
     "2a54876ee6bd43c41a3b6af4f51fa7bf",
     "cdf00ad32ec95459d52b8e9181274f63",
     "2b251664d0e6e35ab58ffc1c75df8073",
-    "c5fbda932330944a70cfeaeb8b1978b3"
+    "c5fbda932330944a70cfeaeb8b1978b3",
+    "b7dfe355e8c236d7a9f7e75666bf476f"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1987,7 +1987,6 @@
     "interest: guiu -> napoli"
   ],
   "titles": [
-    "liverpool transfer news: bradley barcola left out of paris saint germain squad a",
     "transfer updates: minteh, osimhen, baleba, savinho, goretzka, others",
     "official: napoli sign badiashile in potential \u20ac23m transfer from chelsea",
     "official: napoli loan chelsea defender with \u20ac27m option to buy as blues trim squ",
@@ -2286,7 +2285,8 @@
     "newcastle united line up seventh summer signing after verbal agreement claim",
     "romano: arsenal wait for signal from world class attacker to start bidding",
     "just in: chelsea open talks to sign elite young defender who could cost more tha",
-    "jacobs: man city \u201cexpected to accelerate\u201d late record bid for midfielder"
+    "jacobs: man city \u201cexpected to accelerate\u201d late record bid for midfielder",
+    "arsenal transfer news: why won\u2019t the gunners sign kenan yildiz this summer? juve"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2583,15 +2583,15 @@
     "ernest poku": "https://r2.thesportsdb.com/images/media/player/cutout/h7u26r1756315418.png/small",
     "hermann malonga": "",
     "marc guiu": "https://r2.thesportsdb.com/images/media/player/cutout/x4r4991757003409.png/small",
-    "andria bartishvili": "",
     "tommy marques": "",
     "dastan satpayev": "",
     "heaven kilwa": "",
     "enzo": "",
     "franck kessie": "",
-    "honest anahor": ""
+    "honest anahor": "",
+    "andria bartishvili": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

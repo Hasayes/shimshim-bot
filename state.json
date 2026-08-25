@@ -1,8 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/64509",
-    "tg:FabrizioRomanoTG/64510",
-    "4a9539a9b54b5bbec537a2d55dd66f0e",
     "3074be1ece90a09364b03d947612f4b5",
     "143028f33bf7996e1d86e51b03d47712",
     "c6c60a865d8d7254ebd3287351c22ee1",
@@ -1499,7 +1496,10 @@
     "tg:FabrizioRomanoTG/65258",
     "tg:FabrizioRomanoTG/65260",
     "tg:FabrizioRomanoTG/65261",
-    "642730ed7423ab502f54395f2b2ba78e"
+    "642730ed7423ab502f54395f2b2ba78e",
+    "tg:FabrizioRomanoTG/65263",
+    "tg:FabrizioRomanoTG/65265",
+    "tg:FabrizioRomanoTG/65266"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1984,9 +1984,6 @@
     "interest: anahor -> chelsea"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83d\udfe3 \ud83d\udd35 leon goretzka to aston villa, here we go! verbal agreement in place with t",
-    "rt @fabrizioromano : \ud83d\udea8 \ud83d\udfe3 \ud83d\udd35 leon goretzka to aston villa, here we go! verbal agre",
-    "\ud83d\udd35 \ud83c\udde7\ud83c\uddf7 joao pedro after signing new deal at chelsea: \u201cthis club has ambition, trad",
     "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f juventus manager spalletti closes doors to all clubs keen on kenan yildi",
     "bayern munich news: espanyol eyeing fc bayern\u2019s bryan zaragoza; max eberl happy ",
     "liverpool transfer news as $82m target weighs options and bournemouth stance eme",
@@ -2283,7 +2280,10 @@
     "\u26aa\ufe0f \u26ab\ufe0f newcastle and manchester city start to exchange documents today after verb",
     "\ud83d\udea8 \ud83c\udde6\ud83c\uddea kristjan asllani has opened doors to al jazira after direct approach with t",
     "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f after ernest poku deal done, besiktas are now ready to close also fabio ",
-    "liverpool given green light from duo worth \u00a3190m for final week of transfer wind"
+    "liverpool given green light from duo worth \u00a3190m for final week of transfer wind",
+    "\ud83d\udd35 \u26aa\ufe0f \ud83c\udde6\ud83c\uddf7 discussions ongoing about the fee for boca juniors in case of exequiel z",
+    "\ud83d\udea8 \ud83c\udde6\ud83c\uddea excl: al jazira have reached a verbal agreement with inter for kristjan asl",
+    "\u26ab\ufe0f \u26aa\ufe0f \ud83c\uddea\ud83c\uddf8 nico gonzalez, in newcastle today for medical and contract signing afte"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2581,14 +2581,14 @@
     "honest ahanor": "https://r2.thesportsdb.com/images/media/player/cutout/uahuuj1764331567.png/small",
     "savinho": "https://r2.thesportsdb.com/images/media/player/cutout/khqgy21769183420.png/small",
     "ernest poku": "https://r2.thesportsdb.com/images/media/player/cutout/h7u26r1756315418.png/small",
-    "andria bartishvili": "",
     "tommy marques": "",
     "dastan satpayev": "",
     "heaven kilwa": "",
     "hermann malonga": "",
-    "honest anahor": ""
+    "honest anahor": "",
+    "andria bartishvili": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

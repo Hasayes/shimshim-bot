@@ -1,11 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/64514",
-    "cd642d201b6f419107a747cc54c7034d",
-    "7be358b14ed2f07d38780168f1c478d6",
-    "f79ca5182b6918e584f55025d4725ce4",
-    "fd43712ed959eaafda9e7e6a18cf4a0a",
-    "a7f52108cd3311b78d5adaf10eafaadb",
     "4ecf19da3517e5752d11b6f86ac177e4",
     "dc8d172536c439ad8a52408a5beb2fd4",
     "3395105be7d3f246f4a089924c67aed6",
@@ -1499,7 +1493,13 @@
     "tg:FabrizioRomanoTG/65277",
     "tg:FabrizioRomanoTG/65279",
     "tg:FabrizioRomanoTG/65280",
-    "f3b5ccb80f7fbf750e5076c8a99e7af3"
+    "f3b5ccb80f7fbf750e5076c8a99e7af3",
+    "857752ba0782b40053557e056c154961",
+    "d75eef8bc395d1a08e3b65481637b97a",
+    "406d0edeb40974737029abad3f0c0e46",
+    "4b612a9fa0f2e07da453b64e4a2e14f3",
+    "dd0928a182ccf086178d3695eb725ae7",
+    "tg:FabrizioRomanoTG/65281"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1985,11 +1985,6 @@
     "interest: kessie -> juventus"
   ],
   "titles": [
-    "sources: newcastle and real madrid step up interest in \u20ac60 million midfielder",
-    "aston villa in talks to sign former bayern midfielder goretzka",
-    "super agent offers \u20ac40 million rated barcelona homegrown star to ac milan \u2013 roma",
-    "psg star grows tired of liverpool transfer saga and reaches fresh decision on fu",
-    "\ud83d\udea8 \ud83d\udfe3 \ud83d\udd35 trabzonspor reach verbal agreement to sign fabinho, here we go! brazilian ",
     "sudden major progress in the negotiations? exciting transfer option for former b",
     "transfer news live: arsenal triple deal close, alvarez move; man utd medical; li",
     "man utd reach shock decision on lewis hall transfer after ineos enter bidding fo",
@@ -2284,7 +2279,12 @@
     "@free_steelo7 @luka_thfc they said i jumped the gun for nico and he\u2019s now in new",
     "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f juventus mantain active talks with franck kessie today in order to try g",
     "\ud83d\udea8 \ud83c\udf33 breaking: nottingham forest reach verbal agreement to sign liam delap from c",
-    "the signing is complete: bouadi begins his adventure with manchester city"
+    "the signing is complete: bouadi begins his adventure with manchester city",
+    "epl: man city open talks to sign liverpool\u2019s cody gakpo",
+    "premier league star opens the door: huge deal edges closer to manchester city",
+    "premier league star opens the door: huge deal edges closer for manchester city",
+    "it looks like manchester city are finally about to pull the trigger on a move ev",
+    "\ud83d\udcfa new youtube video uploaded! \ud83c\udfac \ud83d\udea8 \ud83d\udca3 deal done! over \u20ac400m! hijack or not? lukeba"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2581,15 +2581,15 @@
     "honest ahanor": "https://r2.thesportsdb.com/images/media/player/cutout/uahuuj1764331567.png/small",
     "savinho": "https://r2.thesportsdb.com/images/media/player/cutout/khqgy21769183420.png/small",
     "ernest poku": "https://r2.thesportsdb.com/images/media/player/cutout/h7u26r1756315418.png/small",
-    "hermann malonga": "",
     "honest anahor": "",
     "andria bartishvili": "",
     "franck kessie": "",
     "tommy marques": "",
     "dastan satpayev": "",
-    "heaven kilwa": ""
+    "heaven kilwa": "",
+    "hermann malonga": ""
   },
-  "photo_repair_idx": 6,
+  "photo_repair_idx": 7,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

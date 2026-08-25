@@ -1,8 +1,5 @@
 {
   "sent": [
-    "5237a845de08a30a244a6bcaa4fbdf39",
-    "313a81e1766587f70d8bd77473782fe2",
-    "25c9cf652238de988816433bb90f8901",
     "a4c1734822e413892571feab1f125c60",
     "569053a83199eb782315b7ecea755a13",
     "26c310fb3bdf187c968ea9e288590637",
@@ -1499,7 +1496,10 @@
     "e81602b1b79daed1997873860ee7b128",
     "884149005e6e8a5bf87042e541f4c1e2",
     "0776c0cde8e4d42d5622142de175ae0b",
-    "a13f76a8e9e5ade89954ba7a5af01706"
+    "a13f76a8e9e5ade89954ba7a5af01706",
+    "94acea8b37c45d676db86036a17beab6",
+    "1f3b1ba4aa3e977f84b18b7388df3b15",
+    "85cecb903f669682a51897ee1166514b"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1987,9 +1987,6 @@
     "interest: guiu -> napoli"
   ],
   "titles": [
-    "\u2018here we go\u2019 romano: aston villa agree deal to sign leon goretzka",
-    "alejandro balde to leave barcelona? defender makes shock decision after talks wi",
-    "just in: barcelona defender decides to leave the club amid manchester united int",
     "leon goretzka agrees to join aston villa",
     "aston villa \u2018agree deal with ex bayern munich star leon goretzka on free transfe",
     "breaking: barcelona player with \u201cimmense quality\u201d decides to leave club after ma",
@@ -2286,7 +2283,10 @@
     "romano issues latest update on the twist in enzo fernandez saga involving man ci",
     "\u00a3128m arsenal target now more open to summer move",
     "romano confirms \u2018internal feeling\u2019 at arsenal regarding julian alvarez pursuit",
-    "\u2705 barca sign livakovic as joan garcia's backup (romano, ser)"
+    "\u2705 barca sign livakovic as joan garcia's backup (romano, ser)",
+    "transfer updates: gakpo, nico gonzalez, lewis skelly, jackson, alvarez, others",
+    "barca find bargain \u20ac4m deal for player they will send on loan for at least one y",
+    "transfer news live: arsenal given julian alvarez boost, manchester united and li"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2583,15 +2583,15 @@
     "ernest poku": "https://r2.thesportsdb.com/images/media/player/cutout/h7u26r1756315418.png/small",
     "hermann malonga": "",
     "marc guiu": "https://r2.thesportsdb.com/images/media/player/cutout/x4r4991757003409.png/small",
-    "dastan satpayev": "",
     "heaven kilwa": "",
     "enzo": "",
     "franck kessie": "",
     "honest anahor": "",
     "andria bartishvili": "",
-    "tommy marques": ""
+    "tommy marques": "",
+    "dastan satpayev": ""
   },
-  "photo_repair_idx": 5,
+  "photo_repair_idx": 6,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

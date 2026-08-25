@@ -1,6 +1,5 @@
 {
   "sent": [
-    "057695bb451928bbb52fc78c9405bdfb",
     "b94708e2c37e7b22029a964e338f41df",
     "tg:FabrizioRomanoTG/64466",
     "c6e0542ad1755dd135740c6047afd1d1",
@@ -1499,7 +1498,8 @@
     "b41f7d8c6686ef844315a594065785a3",
     "d191d308be636814a022042527c599f2",
     "d46c3a47235f0d309844ebb3f142502a",
-    "533fc9f2a157e3c713b10cb2fb4460f3"
+    "533fc9f2a157e3c713b10cb2fb4460f3",
+    "983dc881e439af4817b320ed296a0abb"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1981,7 +1981,6 @@
     "interest: ahanor -> chelsea"
   ],
   "titles": [
-    "aston villa could sell emi martinez to premier league rivals",
     "from spain: barcelona have agreement with inter star lautaro martinez",
     "yankuba minteh and liverpool \u00a350m rejected bid to brighton",
     "liverpool rocked as manager confirms mega money transfer is off",
@@ -2280,7 +2279,8 @@
     "permanent deal, no loan: romano issues update on chelsea star set to leave the c",
     "just in: arsenal involved in talks over the transfer of 25 year old attacker",
     "al hilal transfer latest news: gabriel martinelli emerges as \u00a350m arsenal exit t",
-    "liverpool \u2018third bid\u2019 for minteh revealed as journalist lifts lid on timeline fo"
+    "liverpool \u2018third bid\u2019 for minteh revealed as journalist lifts lid on timeline fo",
+    "the secret behind martinelli and al hilal: arsenal on the verge of making histor"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2579,13 +2579,13 @@
     "christopher nkunku": "https://r2.thesportsdb.com/images/media/player/cutout/0zhdh61758893135.png/small",
     "mamadou sarr": "https://r2.thesportsdb.com/images/media/player/cutout/a1ha5q1766053704.png/small",
     "honest ahanor": "https://r2.thesportsdb.com/images/media/player/cutout/uahuuj1764331567.png/small",
-    "heaven kilwa": "",
     "hermann malonga": "",
     "andria bartishvili": "",
     "tommy marques": "",
-    "dastan satpayev": ""
+    "dastan satpayev": "",
+    "heaven kilwa": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

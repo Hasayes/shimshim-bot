@@ -1,6 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/64482",
     "tg:FabrizioRomanoTG/64483",
     "tg:FabrizioRomanoTG/64487",
     "tg:FabrizioRomanoTG/64488",
@@ -1499,7 +1498,8 @@
     "530c7583006f77284d11983636cbacf5",
     "3ec75cf70d547df250705a644658a61b",
     "68e38f0f1e92b1901ff9f7409c963f5b",
-    "f51ac29af6c808e2d6efa0dddf8ebdae"
+    "f51ac29af6c808e2d6efa0dddf8ebdae",
+    "0bef799b6612b50bff6286f247bb338f"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1982,7 +1982,6 @@
     "interest: gakpo -> manchester city"
   ],
   "titles": [
-    "liverpool learn fee needed to sign yankuba minteh as ibrahim mbaye snubbed",
     "diomande pledges \u2018to die\u2019 for mourinho after \u20ac140m real madrid move",
     "julian alvarez only wants barcelona despite arsenal opening talks with atletico ",
     "video: sutalo lands for lazio medical in potential \u20ac10 5m agreement with ajax",
@@ -2281,7 +2280,8 @@
     "newcastle agree \u00a350m deal for spanish star after major breakthrough",
     "man city transfer news: \u2018verbal agreement\u2019 reached to sell \u00a350m player before de",
     "fabrizio romano: man city open talks to beat tottenham to liverpool star",
-    "man city \u2018ready to hijack tottenham\u2019s cody gakpo transfer\u2019 as enzo maresca\u2019s men"
+    "man city \u2018ready to hijack tottenham\u2019s cody gakpo transfer\u2019 as enzo maresca\u2019s men",
+    "man city 'make contact' for cody gakpo transfer as liverpool star handed shock o"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2580,13 +2580,13 @@
     "christopher nkunku": "https://r2.thesportsdb.com/images/media/player/cutout/0zhdh61758893135.png/small",
     "mamadou sarr": "https://r2.thesportsdb.com/images/media/player/cutout/a1ha5q1766053704.png/small",
     "honest ahanor": "https://r2.thesportsdb.com/images/media/player/cutout/uahuuj1764331567.png/small",
-    "dastan satpayev": "",
     "heaven kilwa": "",
     "hermann malonga": "",
     "andria bartishvili": "",
-    "tommy marques": ""
+    "tommy marques": "",
+    "dastan satpayev": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

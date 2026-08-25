@@ -1,6 +1,5 @@
 {
   "sent": [
-    "ac54fd40a4e93c3b7d1602c79a365d4e",
     "tg:FabrizioRomanoTG/64509",
     "tg:FabrizioRomanoTG/64510",
     "4a9539a9b54b5bbec537a2d55dd66f0e",
@@ -1499,7 +1498,8 @@
     "tg:FabrizioRomanoTG/65257",
     "tg:FabrizioRomanoTG/65258",
     "tg:FabrizioRomanoTG/65260",
-    "tg:FabrizioRomanoTG/65261"
+    "tg:FabrizioRomanoTG/65261",
+    "642730ed7423ab502f54395f2b2ba78e"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1984,7 +1984,6 @@
     "interest: anahor -> chelsea"
   ],
   "titles": [
-    "\u2018signed the official contract\u2019 \u2013 newcastle united\u2019s next signing complete read n",
     "\ud83d\udea8 \ud83d\udfe3 \ud83d\udd35 leon goretzka to aston villa, here we go! verbal agreement in place with t",
     "rt @fabrizioromano : \ud83d\udea8 \ud83d\udfe3 \ud83d\udd35 leon goretzka to aston villa, here we go! verbal agre",
     "\ud83d\udd35 \ud83c\udde7\ud83c\uddf7 joao pedro after signing new deal at chelsea: \u201cthis club has ambition, trad",
@@ -2283,7 +2282,8 @@
     "@luka_thfc savio travelled to london on saturday and it\u2019s been announced today, ",
     "\u26aa\ufe0f \u26ab\ufe0f newcastle and manchester city start to exchange documents today after verb",
     "\ud83d\udea8 \ud83c\udde6\ud83c\uddea kristjan asllani has opened doors to al jazira after direct approach with t",
-    "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f after ernest poku deal done, besiktas are now ready to close also fabio "
+    "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f after ernest poku deal done, besiktas are now ready to close also fabio ",
+    "liverpool given green light from duo worth \u00a3190m for final week of transfer wind"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2581,14 +2581,14 @@
     "honest ahanor": "https://r2.thesportsdb.com/images/media/player/cutout/uahuuj1764331567.png/small",
     "savinho": "https://r2.thesportsdb.com/images/media/player/cutout/khqgy21769183420.png/small",
     "ernest poku": "https://r2.thesportsdb.com/images/media/player/cutout/h7u26r1756315418.png/small",
-    "honest anahor": "",
     "andria bartishvili": "",
     "tommy marques": "",
     "dastan satpayev": "",
     "heaven kilwa": "",
-    "hermann malonga": ""
+    "hermann malonga": "",
+    "honest anahor": ""
   },
-  "photo_repair_idx": 6,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

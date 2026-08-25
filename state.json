@@ -1,7 +1,5 @@
 {
   "sent": [
-    "efb23479d3559bcedeb8452ae9d5ce77",
-    "6ec17757e973309987d283ae05109b40",
     "52c0186c5ade4215c7f09551ea9428f5",
     "49618263863b57da86a475c1c3c453d1",
     "c03f18b2193b1fa6d4b73a12d15801a7",
@@ -1499,7 +1497,9 @@
     "c72f4df7badf855f635421320dfa4249",
     "60f49316b38af95cb7b34fd741ba06ff",
     "2a54876ee6bd43c41a3b6af4f51fa7bf",
-    "cdf00ad32ec95459d52b8e9181274f63"
+    "cdf00ad32ec95459d52b8e9181274f63",
+    "2b251664d0e6e35ab58ffc1c75df8073",
+    "c5fbda932330944a70cfeaeb8b1978b3"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2583,15 +2583,15 @@
     "ernest poku": "https://r2.thesportsdb.com/images/media/player/cutout/h7u26r1756315418.png/small",
     "hermann malonga": "",
     "marc guiu": "https://r2.thesportsdb.com/images/media/player/cutout/x4r4991757003409.png/small",
-    "honest anahor": "",
     "andria bartishvili": "",
     "tommy marques": "",
     "dastan satpayev": "",
     "heaven kilwa": "",
     "enzo": "",
-    "franck kessie": ""
+    "franck kessie": "",
+    "honest anahor": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

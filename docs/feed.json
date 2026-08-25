@@ -1,5 +1,30 @@
 [
  {
+  "id": "tg:FabrizioRomanoTG/64918",
+  "ts": "2026-08-25T22:45:36+00:00",
+  "kind": "deal",
+  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/pp3yab1762457197.png/small",
+  "stage": "Completed",
+  "player": "Dominik Livakovi\u0107",
+  "position": "Goalkeeper",
+  "age": "\u2014",
+  "from_club": "Fenerbah\u00e7e",
+  "to_club": "FC Barcelona",
+  "fee": "\u20ac2m initial + \u20ac2m add-ons",
+  "style": "Commanding shot-stopper with strong reflexes and decisive distribution from the back.",
+  "fit": "Serve as reliable backup goalkeeper providing competition and depth behind Joan Garc\u00eda in La Liga.",
+  "source": "Fabrizio Romano, SER",
+  "summary": "Barcelona have completed the signing of goalkeeper Dominik Livakovi\u0107 from Fenerbah\u00e7e to serve as backup to Joan Garc\u00eda.",
+  "outlet": "yahoo",
+  "url": "https://sports.yahoo.com/articles/bar-sign-livakovi-joan-garc-103400759.html",
+  "title": "\u2705 Barc\u0327a sign Livakovic\u0301 as Joan Garci\u0301a's backup (Romano, SER)",
+  "sources": [
+   "Fabrizio Romano",
+   "SER"
+  ],
+  "srcTier": "tier1"
+ },
+ {
   "id": "51d3eeb7d3e0a9c3dbab0b243669f7b8",
   "ts": "2026-08-25T20:30:38+00:00",
   "kind": "interest",
@@ -864,30 +889,6 @@
   "outlet": "Telegram @fabrizioromanotg",
   "url": "https://t.me/FabrizioRomanoTG/65048",
   "title": "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f Saudi Pro League side Al Shabab sign Thomas Partey on a free transfer. \ud83c\uddf8\ud83c\udde6 Ghana midfielder travelled to Saudi ye",
-  "sources": [
-   "Fabrizio Romano"
-  ],
-  "srcTier": "tier1"
- },
- {
-  "id": "tg:FabrizioRomanoTG/64918",
-  "ts": "2026-08-21T12:01:27+00:00",
-  "kind": "deal",
-  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/pp3yab1762457197.png/small",
-  "stage": "Here we go",
-  "player": "Dominik Livakovi\u0107",
-  "position": "GK",
-  "age": "\u2014",
-  "from_club": "Fenerbah\u00e7e",
-  "to_club": "Barcelona",
-  "fee": "\u20ac2m initial + \u20ac2m add-ons",
-  "style": "Commanding goalkeeper with sharp reflexes and strong distribution, comfortable sweeping behind the defense.",
-  "fit": "Ideal as a long-term backup at Barcelona to eventually replace Szczesny, providing competition and experience in their system.",
-  "source": "Fabrizio Romano",
-  "summary": "Barcelona have reached a verbal agreement with Fenerbah\u00e7e to sign goalkeeper Dominik Livakovi\u0107 for \u20ac2m initial fee plus \u20ac2m in add-ons. Livakovi\u0107 will join as backup goalkeeper from June 2027 when Szczesny leaves, with a loan move planned for the 2026-27 season.",
-  "outlet": "Telegram @fabrizioromanotg",
-  "url": "https://t.me/FabrizioRomanoTG/65038",
-  "title": "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 Barcelona have reached a verbal agreement for Dominik Livakovi\u0107 to join from Fenerbah\u00e7e, here we go! \u20ac2m initial f",
   "sources": [
    "Fabrizio Romano"
   ],

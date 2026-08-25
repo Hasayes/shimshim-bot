@@ -1,6 +1,5 @@
 {
   "sent": [
-    "981e2643fba8c4bf107f3a318367f232",
     "5237a845de08a30a244a6bcaa4fbdf39",
     "313a81e1766587f70d8bd77473782fe2",
     "25c9cf652238de988816433bb90f8901",
@@ -1499,7 +1498,8 @@
     "tg:FabrizioRomanoTG/65294",
     "e81602b1b79daed1997873860ee7b128",
     "884149005e6e8a5bf87042e541f4c1e2",
-    "0776c0cde8e4d42d5622142de175ae0b"
+    "0776c0cde8e4d42d5622142de175ae0b",
+    "a13f76a8e9e5ade89954ba7a5af01706"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1741,7 +1741,7 @@
     "sutalo -> lazio": 1,
     "ramsay -> st mirren": 1,
     "disasi -> crystal palace": 1,
-    "livakovic -> barcelona": 1,
+    "livakovic -> barcelona": 2,
     "partey -> al shabab": 2,
     "washington -> rc strasbourg": 1,
     "baleba -> manchester united": 2,
@@ -1987,7 +1987,6 @@
     "interest: guiu -> napoli"
   ],
   "titles": [
-    "leon goretzka reaches aston villa agreement after direct unai emery phone call, ",
     "\u2018here we go\u2019 romano: aston villa agree deal to sign leon goretzka",
     "alejandro balde to leave barcelona? defender makes shock decision after talks wi",
     "just in: barcelona defender decides to leave the club amid manchester united int",
@@ -2286,7 +2285,8 @@
     "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f besiktas reach verbal agreement to sign fabio miretti from juventus, her",
     "romano issues latest update on the twist in enzo fernandez saga involving man ci",
     "\u00a3128m arsenal target now more open to summer move",
-    "romano confirms \u2018internal feeling\u2019 at arsenal regarding julian alvarez pursuit"
+    "romano confirms \u2018internal feeling\u2019 at arsenal regarding julian alvarez pursuit",
+    "\u2705 barca sign livakovic as joan garcia's backup (romano, ser)"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2583,15 +2583,15 @@
     "ernest poku": "https://r2.thesportsdb.com/images/media/player/cutout/h7u26r1756315418.png/small",
     "hermann malonga": "",
     "marc guiu": "https://r2.thesportsdb.com/images/media/player/cutout/x4r4991757003409.png/small",
-    "tommy marques": "",
     "dastan satpayev": "",
     "heaven kilwa": "",
     "enzo": "",
     "franck kessie": "",
     "honest anahor": "",
-    "andria bartishvili": ""
+    "andria bartishvili": "",
+    "tommy marques": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 5,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

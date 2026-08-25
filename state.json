@@ -1,7 +1,5 @@
 {
   "sent": [
-    "49b98f1fdfed47a6aa55daa731a95c81",
-    "ec3151c0a88ea0f56d28b196bc39c5e8",
     "b2aa37f2b7c18824fb72003e4e79b762",
     "dbe59c9257d917d5843dd3950de13644",
     "e8a4de3b048f48be2133f84b2ad1c0b3",
@@ -1499,7 +1497,9 @@
     "tg:FabrizioRomanoTG/65291",
     "77d3b1fc6b388216d7e86ea1ad1b4855",
     "3df8b3db0ac5e5b23fa4c0e3a08e3d23",
-    "51d3eeb7d3e0a9c3dbab0b243669f7b8"
+    "51d3eeb7d3e0a9c3dbab0b243669f7b8",
+    "3ef85cad6698eb91faf17f22a6c5fc31",
+    "tg:FabrizioRomanoTG/65293"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1987,8 +1987,6 @@
     "interest: guiu -> napoli"
   ],
   "titles": [
-    "ornstein: liverpool 'could pivot' from minteh deal to 'another option'",
-    "liverpool defender ifeanyi ndukwe completes loan transfer as eligibility change ",
     "ac milan in negotiations with bundesliga team over attacker loan",
     "\u2018it\u2019s a difficult question\u2019 hansi flick offers update on alejandro balde\u2019s futur",
     "\ud83d\udd35 \ud83d\udfe2 \ud83c\uddfa\ud83c\uddf8 excl: seattle sounders agree deal to sign dejan joveljic from sporting kc",
@@ -2286,7 +2284,9 @@
     "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 nothing advanced or concrete so far for castello lukeba to barcelona despi",
     "failed medical examination at lazio: bamba dieng plays for his future at red sta",
     "man city monitoring liverpool's cody gakpo before transfer deadline sources espn",
-    "napoli pushing for chelsea striker marc guiu and are ready to pay \u20ac16m"
+    "napoli pushing for chelsea striker marc guiu and are ready to pay \u20ac16m",
+    "liam delap transfer latest as nottingham forest step up move for chelsea striker",
+    "rt @fabrizioromano : \ud83d\udea8 \ud83d\ude9c excl: ipswich town have sent new official bid to bayer "
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2582,16 +2582,16 @@
     "savinho": "https://r2.thesportsdb.com/images/media/player/cutout/khqgy21769183420.png/small",
     "ernest poku": "https://r2.thesportsdb.com/images/media/player/cutout/h7u26r1756315418.png/small",
     "hermann malonga": "",
-    "tommy marques": "",
     "dastan satpayev": "",
     "heaven kilwa": "",
     "enzo": "",
     "franck kessie": "",
     "honest anahor": "",
     "marc guiu": "https://r2.thesportsdb.com/images/media/player/cutout/x4r4991757003409.png/small",
-    "andria bartishvili": ""
+    "andria bartishvili": "",
+    "tommy marques": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 5,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

@@ -1,7 +1,5 @@
 {
   "sent": [
-    "a4c1734822e413892571feab1f125c60",
-    "569053a83199eb782315b7ecea755a13",
     "26c310fb3bdf187c968ea9e288590637",
     "238db7d9bf6476b3a1bf94a009ca22a4",
     "efb23479d3559bcedeb8452ae9d5ce77",
@@ -1499,7 +1497,9 @@
     "a13f76a8e9e5ade89954ba7a5af01706",
     "94acea8b37c45d676db86036a17beab6",
     "1f3b1ba4aa3e977f84b18b7388df3b15",
-    "85cecb903f669682a51897ee1166514b"
+    "85cecb903f669682a51897ee1166514b",
+    "c72f4df7badf855f635421320dfa4249",
+    "60f49316b38af95cb7b34fd741ba06ff"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1987,8 +1987,6 @@
     "interest: guiu -> napoli"
   ],
   "titles": [
-    "leon goretzka agrees to join aston villa",
-    "aston villa \u2018agree deal with ex bayern munich star leon goretzka on free transfe",
     "breaking: barcelona player with \u201cimmense quality\u201d decides to leave club after ma",
     "why ismaila sarr is not in crystal palace squad as 'agreement reached'",
     "liverpool transfer news: bradley barcola left out of paris saint germain squad a",
@@ -2286,7 +2284,9 @@
     "\u2705 barca sign livakovic as joan garcia's backup (romano, ser)",
     "transfer updates: gakpo, nico gonzalez, lewis skelly, jackson, alvarez, others",
     "barca find bargain \u20ac4m deal for player they will send on loan for at least one y",
-    "transfer news live: arsenal given julian alvarez boost, manchester united and li"
+    "transfer news live: arsenal given julian alvarez boost, manchester united and li",
+    "newcastle united line up seventh summer signing after verbal agreement claim",
+    "romano: arsenal wait for signal from world class attacker to start bidding"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2583,15 +2583,15 @@
     "ernest poku": "https://r2.thesportsdb.com/images/media/player/cutout/h7u26r1756315418.png/small",
     "hermann malonga": "",
     "marc guiu": "https://r2.thesportsdb.com/images/media/player/cutout/x4r4991757003409.png/small",
-    "heaven kilwa": "",
     "enzo": "",
     "franck kessie": "",
     "honest anahor": "",
     "andria bartishvili": "",
     "tommy marques": "",
-    "dastan satpayev": ""
+    "dastan satpayev": "",
+    "heaven kilwa": ""
   },
-  "photo_repair_idx": 6,
+  "photo_repair_idx": 7,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

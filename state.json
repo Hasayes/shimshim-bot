@@ -1,7 +1,5 @@
 {
   "sent": [
-    "3395105be7d3f246f4a089924c67aed6",
-    "68cf70b46e85bd86eca1c0abc45da587",
     "0850382bf4cb0b6516e50e8f9929d118",
     "b17af6802e74c5f10ed5bb89d119e257",
     "263d083ea7aed5f9f3b36a82b60c39e3",
@@ -1499,7 +1497,9 @@
     "dd0928a182ccf086178d3695eb725ae7",
     "tg:FabrizioRomanoTG/65281",
     "e9e57d344e4bcedfad19329f1bdec675",
-    "b7856ed6e74984ed9fdbdf34bd71e282"
+    "b7856ed6e74984ed9fdbdf34bd71e282",
+    "tg:FabrizioRomanoTG/65282",
+    "tg:FabrizioRomanoTG/65283"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1982,11 +1982,10 @@
     "interest: ahanor -> chelsea",
     "interest: gakpo -> manchester city",
     "interest: anahor -> chelsea",
-    "interest: kessie -> juventus"
+    "interest: kessie -> juventus",
+    "interest: enzo -> manchester city"
   ],
   "titles": [
-    "man utd reach shock decision on lewis hall transfer after ineos enter bidding fo",
-    "\ud83d\udea8 \u26aa\ufe0f \ud83d\udd35 como reach verbal agreement to sign willy kambwala from villarreal, here ",
     "ifeanyi ndukwe completes liverpool move and joins levante on loan liverpool fc",
     "lautaro martinez remains central to inter\u2019s long term plans",
     "fc barcelona news: 22 august 2026; preparations begin for la liga debut, alejand",
@@ -2284,11 +2283,12 @@
     "it looks like manchester city are finally about to pull the trigger on a move ev",
     "\ud83d\udcfa new youtube video uploaded! \ud83c\udfac \ud83d\udea8 \ud83d\udca3 deal done! over \u20ac400m! hijack or not? lukeba",
     "chelsea plotting move for atalanta\u2019s honest ahanor",
-    "liverpool \u2018deciding today\u2019 on \u00a370m minteh deal as final price is named and ibrah"
+    "liverpool \u2018deciding today\u2019 on \u00a370m minteh deal as final price is named and ibrah",
+    "\ud83d\udd35 \u26aa\ufe0f manchester city official bid for enzo will be sent soon, as reported this m",
+    "\u2b50\ufe0f official: nico o\u2019reilly has been named 2026 pfa young player of the year http"
   ],
   "tg_update_offset": 263617426,
   "photos": {
-    "michael olise": "https://r2.thesportsdb.com/images/media/player/cutout/r4vx6b1756408807.png/small",
     "diogo costa": "https://r2.thesportsdb.com/images/media/player/cutout/koetaj1724749969.png/small",
     "manu kone": "https://r2.thesportsdb.com/images/media/player/cutout/s4wyo21758815461.png/small",
     "mateo kovacic": "https://r2.thesportsdb.com/images/media/player/cutout/m5jml31769183827.png/small",
@@ -2587,9 +2587,10 @@
     "heaven kilwa": "",
     "hermann malonga": "",
     "franck kessie": "",
+    "enzo": "",
     "honest anahor": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

@@ -1,7 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/64493",
-    "tg:FabrizioRomanoTG/64494",
     "tg:FabrizioRomanoTG/64496",
     "e2091784974d94a8e2e8ec234cffae2b",
     "a4903f64552adfa76a418ce7159455fb",
@@ -1499,7 +1497,9 @@
     "e55ea51200ae6506329d0f036d49d49c",
     "3ec60f8b2a4df54dba1f8a7f0dc9ccb4",
     "tg:FabrizioRomanoTG/65231",
-    "c1cd4ce0741c6fde0829f12ff9352b82"
+    "c1cd4ce0741c6fde0829f12ff9352b82",
+    "tg:FabrizioRomanoTG/65232",
+    "tg:FabrizioRomanoTG/65233"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1982,8 +1982,6 @@
     "interest: gakpo -> manchester city"
   ],
   "titles": [
-    "tottenham reach broad agreement of close to \u00a370 million plus add ons for manches",
-    "done deal: napoli send obaretin to lorient with \u20ac3 5m option to buy",
     "liverpool likely to agree deal to sign 'elite' star with new offer",
     "david ornstein: liverpool submit \u00a360m bid to sign new winger",
     "minteh agrees to join liverpool as insiders reveal fate of second bid",
@@ -2281,7 +2279,9 @@
     "fabrizio romano confirms man city hijack for liverpool star cody gakpo",
     "liverpool have a verbal agreement with this brighton winger: good choice for ira",
     "\ud83e\ude75 \ud83c\uddf2\ud83c\udde6 ayyoub bouaddi completed his medical at manchester city and joins the club ",
-    "romano reveals liverpool plan for cody gakpo as man city enter \u2018active talks\u2019"
+    "romano reveals liverpool plan for cody gakpo as man city enter \u2018active talks\u2019",
+    "\ud83d\udea8 \ud83d\udca3 manchester city are set to send formal bid before the end of the window for ",
+    "\ud83d\udcfa new youtube video uploaded! \ud83c\udfac \ud83d\udea8 \ud83d\udca3 enzo bomba! julian: arsenal ready! zubimendi"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2580,13 +2580,13 @@
     "christopher nkunku": "https://r2.thesportsdb.com/images/media/player/cutout/0zhdh61758893135.png/small",
     "mamadou sarr": "https://r2.thesportsdb.com/images/media/player/cutout/a1ha5q1766053704.png/small",
     "honest ahanor": "https://r2.thesportsdb.com/images/media/player/cutout/uahuuj1764331567.png/small",
-    "dastan satpayev": "",
     "heaven kilwa": "",
     "hermann malonga": "",
     "andria bartishvili": "",
-    "tommy marques": ""
+    "tommy marques": "",
+    "dastan satpayev": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

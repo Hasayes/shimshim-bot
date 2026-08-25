@@ -1,6 +1,5 @@
 {
   "sent": [
-    "f87b34a424fbc2ee3511b1a762b2225c",
     "d63dd0eb427682e9e0ae6ac0b5e439d8",
     "c71414be84f00a0b5a5ac62f2208b943",
     "bd3e08d1dcf352e6f0ecdd069b446dbd",
@@ -1499,7 +1498,8 @@
     "0cd031a2ce5ad13f82fe3031cb9bc8a0",
     "11c34da847f30adeab45336960f2e786",
     "tg:FabrizioRomanoTG/65245",
-    "tg:FabrizioRomanoTG/65246"
+    "tg:FabrizioRomanoTG/65246",
+    "tg:FabrizioRomanoTG/65248"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1983,7 +1983,6 @@
     "interest: anahor -> chelsea"
   ],
   "titles": [
-    "man utd \u2018agree carlos baleba transfer and land star for just over half of what b",
     "man utd \u2018agree carlos baleba transfer just hours before first game of new season",
     "epl: manchester united agree deal to sign carlos baleba",
     "fifa suspends leandro paredes ten matches and fines argentina after malvinas ban",
@@ -2282,7 +2281,8 @@
     "aston villa in contact with ac milan for rafael leao",
     "chelsea hijack julian alvarez to arsenal as blueco get \u00a365m boost",
     "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 barcelona have just signed all the documents for dominik livakovic deal; h",
-    "rt @fabrizioromano : \ud83d\udea8 \ud83d\udca3 manchester city are set to send formal bid before the e"
+    "rt @fabrizioromano : \ud83d\udea8 \ud83d\udca3 manchester city are set to send formal bid before the e",
+    "\ud83d\udd35 \ud83d\udd34 \ud83c\udded\ud83c\uddf7 dominik livakovic medical as new barcelona player will take place tomorro"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2580,14 +2580,14 @@
     "mamadou sarr": "https://r2.thesportsdb.com/images/media/player/cutout/a1ha5q1766053704.png/small",
     "honest ahanor": "https://r2.thesportsdb.com/images/media/player/cutout/uahuuj1764331567.png/small",
     "savinho": "https://r2.thesportsdb.com/images/media/player/cutout/khqgy21769183420.png/small",
-    "tommy marques": "",
     "dastan satpayev": "",
     "heaven kilwa": "",
     "hermann malonga": "",
     "honest anahor": "",
-    "andria bartishvili": ""
+    "andria bartishvili": "",
+    "tommy marques": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

@@ -1,6 +1,5 @@
 {
   "sent": [
-    "4c0690915b2fc49401926c1451decb6f",
     "63a271042e993bde0bacc8b4a5e7a1be",
     "4b09f1ec6e669008353e7ed6cb59c107",
     "6aa85f01f941824b0ddc2f03996a1151",
@@ -1499,7 +1498,8 @@
     "a0f1287b5e417cfdffe56a20481a6962",
     "e6fca1f4f7c1a5742f26060263fbd945",
     "tg:FabrizioRomanoTG/65287",
-    "1c13030094331c776ddd5fc9b6287aa1"
+    "1c13030094331c776ddd5fc9b6287aa1",
+    "tg:FabrizioRomanoTG/65288"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1986,7 +1986,6 @@
     "interest: enzo -> manchester city"
   ],
   "titles": [
-    "arsenal set conditions to sign victor osimhen as berta \u2018makes contact\u2019 over anot",
     "\ud83d\udea8 \ud83d\udfe1 \ud83d\udd34 as roma reach verbal agreement to sign jayden oosterwolde from fenerbahce,",
     "report \u2013 milan offered chance to sign \u20ac40m rated barcelona starlet",
     "aston villa \u2018call\u2019 man utd for plan b signing if record breaking transfer falls ",
@@ -2285,7 +2284,8 @@
     "newcastle lands no 1 midfield target after \u00a350 million offer: breaking",
     "man city to launch formal bid for enzo fernandez as deadline nears, testing chel",
     "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 official: ousmane dembele will benefit from a rest period in the next few ",
-    "romano makes barcola to liverpool \u2018here we go\u2019 claim as \u00a3145m fee is ruled out"
+    "romano makes barcola to liverpool \u2018here we go\u2019 claim as \u00a3145m fee is ruled out",
+    "\u2b50\ufe0f official: bruno fernandes wins pfa player of the year award for season 2025/2"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2582,15 +2582,15 @@
     "savinho": "https://r2.thesportsdb.com/images/media/player/cutout/khqgy21769183420.png/small",
     "ernest poku": "https://r2.thesportsdb.com/images/media/player/cutout/h7u26r1756315418.png/small",
     "hermann malonga": "",
-    "franck kessie": "",
     "honest anahor": "",
     "andria bartishvili": "",
     "tommy marques": "",
     "dastan satpayev": "",
     "heaven kilwa": "",
-    "enzo": ""
+    "enzo": "",
+    "franck kessie": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

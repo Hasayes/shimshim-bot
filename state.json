@@ -1,6 +1,5 @@
 {
   "sent": [
-    "5bbb29acb3ae4800844f6ba08744d04d",
     "80425703c999b8ea672d8fbc4b6787d9",
     "tg:FabrizioRomanoTG/64471",
     "3d5fdfd485e55af1a2f562fff6b55783",
@@ -1499,7 +1498,8 @@
     "c4c9674b482b1748d2dba2d3930594b7",
     "86f9427c2a5be44dd7348c0606d98048",
     "43868520646403ea03190a1bf559eeac",
-    "124b4e927fa3132e9c4e45594c8de553"
+    "124b4e927fa3132e9c4e45594c8de553",
+    "c3bdd91ba9576a54bd0522848a52fa90"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1981,7 +1981,6 @@
     "interest: ahanor -> chelsea"
   ],
   "titles": [
-    "liverpool reach decision on new yankuba minteh bid after brighton snub \u00a350m offe",
     "view: everton have benchmark for 'exciting' star's sale after what pl rivals hav",
     "here we go: barcelona reach \u20ac4 million agreement for veteran goalkeeper, who wil",
     "barcelona transfer news: catalan giants 'agree deal' for 31 year old but there's",
@@ -2280,7 +2279,8 @@
     "check out the latest transfer reports in europe",
     "a new step brings watkins closer to al hilal of saudi arabia",
     "agreement reached: manchester city offload their player for 50 million",
-    "fabrizio romano reveals u turn update on everton linked ace after reports of pre"
+    "fabrizio romano reveals u turn update on everton linked ace after reports of pre",
+    "man utd agree striker transfer as everton lose out \u2013 multiple sources"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2579,13 +2579,13 @@
     "christopher nkunku": "https://r2.thesportsdb.com/images/media/player/cutout/0zhdh61758893135.png/small",
     "mamadou sarr": "https://r2.thesportsdb.com/images/media/player/cutout/a1ha5q1766053704.png/small",
     "honest ahanor": "https://r2.thesportsdb.com/images/media/player/cutout/uahuuj1764331567.png/small",
-    "dastan satpayev": "",
     "heaven kilwa": "",
     "hermann malonga": "",
     "andria bartishvili": "",
-    "tommy marques": ""
+    "tommy marques": "",
+    "dastan satpayev": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

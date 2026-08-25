@@ -1,6 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/64513",
     "tg:FabrizioRomanoTG/64514",
     "cd642d201b6f419107a747cc54c7034d",
     "7be358b14ed2f07d38780168f1c478d6",
@@ -1499,7 +1498,8 @@
     "tg:FabrizioRomanoTG/65274",
     "tg:FabrizioRomanoTG/65277",
     "tg:FabrizioRomanoTG/65279",
-    "tg:FabrizioRomanoTG/65280"
+    "tg:FabrizioRomanoTG/65280",
+    "f3b5ccb80f7fbf750e5076c8a99e7af3"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1985,7 +1985,6 @@
     "interest: kessie -> juventus"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f negotiations are taking place today between manchester city and palmeiras",
     "sources: newcastle and real madrid step up interest in \u20ac60 million midfielder",
     "aston villa in talks to sign former bayern midfielder goretzka",
     "super agent offers \u20ac40 million rated barcelona homegrown star to ac milan \u2013 roma",
@@ -2284,7 +2283,8 @@
     "\ud83d\udea8 \ud83d\udfe3 \ud83d\udd35 nicolas jackson remains aston villa priority target as reported last week ",
     "@free_steelo7 @luka_thfc they said i jumped the gun for nico and he\u2019s now in new",
     "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f juventus mantain active talks with franck kessie today in order to try g",
-    "\ud83d\udea8 \ud83c\udf33 breaking: nottingham forest reach verbal agreement to sign liam delap from c"
+    "\ud83d\udea8 \ud83c\udf33 breaking: nottingham forest reach verbal agreement to sign liam delap from c",
+    "the signing is complete: bouadi begins his adventure with manchester city"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2581,15 +2581,15 @@
     "honest ahanor": "https://r2.thesportsdb.com/images/media/player/cutout/uahuuj1764331567.png/small",
     "savinho": "https://r2.thesportsdb.com/images/media/player/cutout/khqgy21769183420.png/small",
     "ernest poku": "https://r2.thesportsdb.com/images/media/player/cutout/h7u26r1756315418.png/small",
-    "heaven kilwa": "",
     "hermann malonga": "",
     "honest anahor": "",
     "andria bartishvili": "",
     "franck kessie": "",
     "tommy marques": "",
-    "dastan satpayev": ""
+    "dastan satpayev": "",
+    "heaven kilwa": ""
   },
-  "photo_repair_idx": 5,
+  "photo_repair_idx": 6,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

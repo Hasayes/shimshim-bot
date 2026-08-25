@@ -1,8 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/64505",
-    "tg:FabrizioRomanoTG/64506",
-    "62c8fdbacca2c7fe6f66a3fcef6ad715",
     "f6a6460a1badeff25454e151855f5860",
     "9834f6d350ec391d3ffb042601f15701",
     "tg:FabrizioRomanoTG/64507",
@@ -1499,7 +1496,10 @@
     "tg:FabrizioRomanoTG/65251",
     "a425cf17408d85c5865484d9ed902366",
     "b680d7b40e209cde5f1e1f8ffb8b4fcb",
-    "tg:FabrizioRomanoTG/65252"
+    "tg:FabrizioRomanoTG/65252",
+    "90fe774f1e9c614311bcf19ac7d2de8a",
+    "tg:FabrizioRomanoTG/65254",
+    "tg:FabrizioRomanoTG/65255"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1984,9 +1984,6 @@
     "interest: anahor -> chelsea"
   ],
   "titles": [
-    "carlos baleba: manchester united book medical for latest summer signing after ag",
-    "manchester united agree deal to sign brighton midfielder carlos baleba",
-    "minteh agreement in place as journalist \u2018daren\u2019t say\u2019 price for second winger",
     "fabrizio romano confirms major man united transfer with \u2018here we go\u2019",
     "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f juventus are advancing in talks to sign kamil grabara as new backup goal",
     "leeds united pushing hard to sign chelsea ace after opening bid rejected",
@@ -2283,7 +2280,10 @@
     "\u26aa\ufe0f \ud83c\udde7\ud83c\uddf7 savinho: \u201cwhenever i came to play against spurs, i always talked to my rep",
     "\u201cmedical completed\u201d \u2013 premier league team add champions league winner and rush t",
     "liverpool \u2018still want\u2019 premier league star despite worrying injury \u2018prognosis\u2019",
-    "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f ernest poku to besiktas, here we go! verbal agreement in place with the "
+    "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f ernest poku to besiktas, here we go! verbal agreement in place with the ",
+    "ruben amorim says rafael leao\u2019s situation \u2018is not important\u2019 at ac milan as agen",
+    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f napoli had a direct meeting with exequiel zeballos\u2019 agent today to discus",
+    "\ud83d\udea8 \ud83d\udd34 \u26ab\ufe0f bayer leverkusen will now focus their efforts on closing moussa diaby dea"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2580,15 +2580,15 @@
     "mamadou sarr": "https://r2.thesportsdb.com/images/media/player/cutout/a1ha5q1766053704.png/small",
     "honest ahanor": "https://r2.thesportsdb.com/images/media/player/cutout/uahuuj1764331567.png/small",
     "savinho": "https://r2.thesportsdb.com/images/media/player/cutout/khqgy21769183420.png/small",
-    "andria bartishvili": "",
     "tommy marques": "",
     "dastan satpayev": "",
     "heaven kilwa": "",
     "hermann malonga": "",
     "ernest poku": "https://r2.thesportsdb.com/images/media/player/cutout/h7u26r1756315418.png/small",
-    "honest anahor": ""
+    "honest anahor": "",
+    "andria bartishvili": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

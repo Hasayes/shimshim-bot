@@ -1,8 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/64478",
-    "tg:FabrizioRomanoTG/64480",
-    "9a9f4b70cd424d32fb4931a292900c85",
     "tg:FabrizioRomanoTG/64482",
     "tg:FabrizioRomanoTG/64483",
     "tg:FabrizioRomanoTG/64487",
@@ -1499,7 +1496,10 @@
     "6738745553d111995dd04a5265867ceb",
     "4066a4e146155b6fbd69c7212fc40bbf",
     "4724ccd549616cfa37b1ad50bb201506",
-    "530c7583006f77284d11983636cbacf5"
+    "530c7583006f77284d11983636cbacf5",
+    "3ec75cf70d547df250705a644658a61b",
+    "68e38f0f1e92b1901ff9f7409c963f5b",
+    "f51ac29af6c808e2d6efa0dddf8ebdae"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1978,11 +1978,10 @@
     "interest: bartishvili -> arsenal",
     "interest: martinez -> real madrid",
     "interest: dembele -> psg",
-    "interest: ahanor -> chelsea"
+    "interest: ahanor -> chelsea",
+    "interest: gakpo -> manchester city"
   ],
   "titles": [
-    "nicolas jackson transfer latest news: aston villa lead chelsea exit race for \u00a365",
-    "iraola didn\u2019t want to sell departing liverpool star as \u2018best player\u2019 claim made ",
     "liverpool learn fee needed to sign yankuba minteh as ibrahim mbaye snubbed",
     "diomande pledges \u2018to die\u2019 for mourinho after \u20ac140m real madrid move",
     "julian alvarez only wants barcelona despite arsenal opening talks with atletico ",
@@ -2280,7 +2279,9 @@
     "carlos baleba debut for manchester united could be delayed until october",
     "newcastle \u2018agree \u00a350m nico gonzalez transfer as man city star gives green light ",
     "newcastle agree \u00a350m deal for spanish star after major breakthrough",
-    "man city transfer news: \u2018verbal agreement\u2019 reached to sell \u00a350m player before de"
+    "man city transfer news: \u2018verbal agreement\u2019 reached to sell \u00a350m player before de",
+    "fabrizio romano: man city open talks to beat tottenham to liverpool star",
+    "man city \u2018ready to hijack tottenham\u2019s cody gakpo transfer\u2019 as enzo maresca\u2019s men"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2579,13 +2580,13 @@
     "christopher nkunku": "https://r2.thesportsdb.com/images/media/player/cutout/0zhdh61758893135.png/small",
     "mamadou sarr": "https://r2.thesportsdb.com/images/media/player/cutout/a1ha5q1766053704.png/small",
     "honest ahanor": "https://r2.thesportsdb.com/images/media/player/cutout/uahuuj1764331567.png/small",
-    "tommy marques": "",
     "dastan satpayev": "",
     "heaven kilwa": "",
     "hermann malonga": "",
-    "andria bartishvili": ""
+    "andria bartishvili": "",
+    "tommy marques": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

@@ -1,8 +1,5 @@
 {
   "sent": [
-    "45d976aca9b3c9017e43d76cd87c01b6",
-    "7328069a0521ac76b37b730596cb4541",
-    "db32083aceaa5a1d4324c3b323c2627d",
     "49b98f1fdfed47a6aa55daa731a95c81",
     "ec3151c0a88ea0f56d28b196bc39c5e8",
     "b2aa37f2b7c18824fb72003e4e79b762",
@@ -1499,7 +1496,10 @@
     "e4a28a387fc59b8d8368c14fadc43acf",
     "5f300159aae10b3c622e031428f739e2",
     "58a8481aa5f22ef7daf9e80714d3acc7",
-    "tg:FabrizioRomanoTG/65291"
+    "tg:FabrizioRomanoTG/65291",
+    "77d3b1fc6b388216d7e86ea1ad1b4855",
+    "3df8b3db0ac5e5b23fa4c0e3a08e3d23",
+    "51d3eeb7d3e0a9c3dbab0b243669f7b8"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1983,12 +1983,10 @@
     "interest: gakpo -> manchester city",
     "interest: anahor -> chelsea",
     "interest: kessie -> juventus",
-    "interest: enzo -> manchester city"
+    "interest: enzo -> manchester city",
+    "interest: guiu -> napoli"
   ],
   "titles": [
-    "arsenal make pre contract offer to young midfielder",
-    "man utd deal for baleba highlights new disciplined transfer approach, says ornst",
-    "minteh to liverpool 'stands a chance' but reds have 'another option', says ornst",
     "ornstein: liverpool 'could pivot' from minteh deal to 'another option'",
     "liverpool defender ifeanyi ndukwe completes loan transfer as eligibility change ",
     "ac milan in negotiations with bundesliga team over attacker loan",
@@ -2285,11 +2283,13 @@
     "barcelona star makes u turn on saying yes to man utd after red devils make offer",
     "juventus, the sale of michele di gregorio to bournemouth is official: juventus p",
     "nkunku nears leipzig return as milan approve loan with \u20ac28m option",
-    "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 nothing advanced or concrete so far for castello lukeba to barcelona despi"
+    "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 nothing advanced or concrete so far for castello lukeba to barcelona despi",
+    "failed medical examination at lazio: bamba dieng plays for his future at red sta",
+    "man city monitoring liverpool's cody gakpo before transfer deadline sources espn",
+    "napoli pushing for chelsea striker marc guiu and are ready to pay \u20ac16m"
   ],
   "tg_update_offset": 263617426,
   "photos": {
-    "diogo costa": "https://r2.thesportsdb.com/images/media/player/cutout/koetaj1724749969.png/small",
     "manu kone": "https://r2.thesportsdb.com/images/media/player/cutout/s4wyo21758815461.png/small",
     "mateo kovacic": "https://r2.thesportsdb.com/images/media/player/cutout/m5jml31769183827.png/small",
     "folarin balogun": "https://r2.thesportsdb.com/images/media/player/cutout/ic7kq51781348516.png/small",
@@ -2582,15 +2582,16 @@
     "savinho": "https://r2.thesportsdb.com/images/media/player/cutout/khqgy21769183420.png/small",
     "ernest poku": "https://r2.thesportsdb.com/images/media/player/cutout/h7u26r1756315418.png/small",
     "hermann malonga": "",
-    "andria bartishvili": "",
     "tommy marques": "",
     "dastan satpayev": "",
     "heaven kilwa": "",
     "enzo": "",
     "franck kessie": "",
-    "honest anahor": ""
+    "honest anahor": "",
+    "marc guiu": "https://r2.thesportsdb.com/images/media/player/cutout/x4r4991757003409.png/small",
+    "andria bartishvili": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

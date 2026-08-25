@@ -1,5 +1,29 @@
 [
  {
+  "id": "51d3eeb7d3e0a9c3dbab0b243669f7b8",
+  "ts": "2026-08-25T20:30:38+00:00",
+  "kind": "interest",
+  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/x4r4991757003409.png/small",
+  "stage": "\u2014",
+  "player": "Marc Guiu",
+  "position": "striker",
+  "age": "\u2014",
+  "from_club": "Chelsea",
+  "to_club": "Napoli",
+  "fee": "\u20ac16m",
+  "style": "Young, aggressive striker with quick movement in the box and developing technical ability.",
+  "fit": "Should be used as a rotational forward option to provide fresh energy and compete for minutes in Napoli's attacking setup.",
+  "source": "Gianluca Di Marzio",
+  "sources": [
+   "Gianluca Di Marzio"
+  ],
+  "srcTier": "tier1",
+  "summary": "Napoli are making a concerted push to sign Chelsea striker Marc Guiu and have tabled a \u20ac16 million bid for him, according to Gianluca Di Marzio.",
+  "outlet": "yahoo",
+  "url": "https://ca.sports.yahoo.com/news/napoli-pushing-chelsea-striker-marc-083000415.html",
+  "title": "Napoli pushing for Chelsea striker Marc Guiu and are ready to pay \u20ac16m"
+ },
+ {
   "id": "tg:FabrizioRomanoTG/65282",
   "ts": "2026-08-25T18:30:50+00:00",
   "kind": "interest",

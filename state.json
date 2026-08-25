@@ -1,6 +1,5 @@
 {
   "sent": [
-    "f6588e29204fc6bb8d1298c2f27636a8",
     "3e90084aef6f3411b305707d7e56ee3a",
     "eb629ea5bd941e0b56fe8976534802f2",
     "38f773e6a0c4215e8110bdd09f4376c9",
@@ -1499,7 +1498,8 @@
     "2061987caf3e33c8f9a7d0476d505a49",
     "tg:FabrizioRomanoTG/65284",
     "0b42f321febf30730bad74abbe713886",
-    "tg:FabrizioRomanoTG/65285"
+    "tg:FabrizioRomanoTG/65285",
+    "tg:FabrizioRomanoTG/65286"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1986,7 +1986,6 @@
     "interest: enzo -> manchester city"
   ],
   "titles": [
-    "manchester united sign cameroon midfielder baleba for \u00a370m",
     "chelsea turn down roma\u2019s loan offer for gittens",
     "sky: roma close in on oosterwolde, but chelsea reject gittens bid",
     "chelsea reject roma\u2019s loan offer for jamie bynoe gittens",
@@ -2285,7 +2284,8 @@
     "transfer news live: arsenal push for alvarez, man city target liverpool winger, ",
     "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f enzo fernandez have his green light to manchester city as he\u2019s open to mo",
     "arsenal make final decision on selling lewis skelly to man utd with red devils \u2018",
-    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f gabriel martinelli\u2019s move to al hilal, at the final stages between clubs "
+    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f gabriel martinelli\u2019s move to al hilal, at the final stages between clubs ",
+    "\u2b50\ufe0f official: pfa premier league team of the year \ud83e\udde4 david raya \ud83d\udee1\ufe0f timber, gabriel"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2581,16 +2581,16 @@
     "honest ahanor": "https://r2.thesportsdb.com/images/media/player/cutout/uahuuj1764331567.png/small",
     "savinho": "https://r2.thesportsdb.com/images/media/player/cutout/khqgy21769183420.png/small",
     "ernest poku": "https://r2.thesportsdb.com/images/media/player/cutout/h7u26r1756315418.png/small",
-    "dastan satpayev": "",
     "heaven kilwa": "",
     "hermann malonga": "",
     "franck kessie": "",
     "enzo": "",
     "honest anahor": "",
     "andria bartishvili": "",
-    "tommy marques": ""
+    "tommy marques": "",
+    "dastan satpayev": ""
   },
-  "photo_repair_idx": 5,
+  "photo_repair_idx": 6,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

@@ -1,7 +1,5 @@
 {
   "sent": [
-    "feadb0b071355cb9fd21e4567daa0b53",
-    "d8eb46e2a881bbd4dc242d4926a8ff03",
     "c3f8d5c0ef53050a1e15cd70825e9881",
     "9bf8f1152e8450bcd3fd05bf85552125",
     "47ba9cb79099c923c0f37fa1323c898d",
@@ -1499,7 +1497,9 @@
     "a84b882b26e684ff264dbf6c8647e0cc",
     "579d0a674576bd4f9e33d54fe06e3de9",
     "998891200d86a99e25ec074f36e3b8eb",
-    "b10a7851c53a40abde9e0cdc4c1d7b36"
+    "b10a7851c53a40abde9e0cdc4c1d7b36",
+    "674e4c01a61e7000933ba7e91393b817",
+    "380884391520fd0fcdeec9da127d5e2d"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1997,7 +1997,6 @@
     "interest: martinez -> chelsea"
   ],
   "titles": [
-    "leeds united learn outcome of orlando gill chase as deal agreed",
     "aston villa \u2018in contact\u2019 to sign world cup centre back after securing former eur",
     "'here we go' romano: tottenham agree deal to sign omar marmoush",
     "arsenal in \u00a360m waiting game as julian alvarez transfer saga takes fresh twist",
@@ -2296,7 +2295,8 @@
     "report: liverpool star still has two premier league suitors",
     "ornstein reveals next tottenham signing has been \u2018granted permission\u2019 to undergo",
     "liverpool target deadly \u00a350m winger as two minteh alternatives emerge",
-    "roma attempt to overtake juve in race for kessie"
+    "roma attempt to overtake juve in race for kessie",
+    "fabrizio romano confirms julian alvarez \u201cabsent\u201d from atletico madrid training a"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2593,15 +2593,15 @@
     "perin": "https://r2.thesportsdb.com/images/media/player/cutout/oo0l5m1759222361.png/small",
     "kristjan asllani": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Kristjan_Asllani%2C_FC_Salzburg_gegen_Inter_Mailand_%28UEFA_Championsleague_2023-11-08%29_63_%28cropped%29.jpg/330px-Kristjan_Asllani%2C_FC_Salzburg_gegen_Inter_Mailand_%28UEFA_Championsleague_2023-11-08%29_63_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "joel ordonez": "https://r2.thesportsdb.com/images/media/player/cutout/7te4j61767634434.png/small",
-    "enzo": "",
     "franck kessie": "",
     "honest anahor": "",
     "andria bartishvili": "",
     "tommy marques": "",
     "dastan satpayev": "",
-    "heaven kilwa": ""
+    "heaven kilwa": "",
+    "enzo": ""
   },
-  "photo_repair_idx": 7,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

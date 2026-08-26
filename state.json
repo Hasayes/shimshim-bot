@@ -1,6 +1,5 @@
 {
   "sent": [
-    "7e22d30db51f0d302371c5e85c78103c",
     "bc662427ebca9aa19c5266626250802f",
     "c22376b63edb58a54ed5c00a72542e62",
     "cd4899f3dfe6796b29ea77f9163b33ab",
@@ -1499,7 +1498,8 @@
     "b7dfe355e8c236d7a9f7e75666bf476f",
     "affbd7d4bb88a49ca055e00b42deaa28",
     "4d11ea1ed850f136f63b6a1d53d05a61",
-    "23bff67d3e7b8e66cad9b00e621afe7f"
+    "23bff67d3e7b8e66cad9b00e621afe7f",
+    "47676d50d11a51e812b522a42940042f"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1984,10 +1984,10 @@
     "interest: anahor -> chelsea",
     "interest: kessie -> juventus",
     "interest: enzo -> manchester city",
-    "interest: guiu -> napoli"
+    "interest: guiu -> napoli",
+    "interest: gouiri -> tottenham"
   ],
   "titles": [
-    "official: napoli sign chelsea defender badiashile on loan with \u20ac20m buy option",
     "this is what must happen if psv are to cooperate with dennis man's departure",
     "liverpool get new bradley barcola and ibrahim mbaye update liverpool fc",
     "liverpool transfer boost as bradley barcola and ibrahima mbaye both dropped from",
@@ -2286,11 +2286,11 @@
     "arsenal transfer news: why won\u2019t the gunners sign kenan yildiz this summer? juve",
     "journalist: aston villa keen on move for serie a forward",
     "liverpool make decision on bizarre minteh deal as full injury timeline revealed",
-    "livakovic signs for barcelona"
+    "livakovic signs for barcelona",
+    "tottenham turn to algeria international as liverpool rule out gakpo transfer"
   ],
   "tg_update_offset": 263617426,
   "photos": {
-    "manu kone": "https://r2.thesportsdb.com/images/media/player/cutout/s4wyo21758815461.png/small",
     "mateo kovacic": "https://r2.thesportsdb.com/images/media/player/cutout/m5jml31769183827.png/small",
     "folarin balogun": "https://r2.thesportsdb.com/images/media/player/cutout/ic7kq51781348516.png/small",
     "djed spence": "https://r2.thesportsdb.com/images/media/player/cutout/erd1vi1757875565.png/small",
@@ -2583,15 +2583,16 @@
     "ernest poku": "https://r2.thesportsdb.com/images/media/player/cutout/h7u26r1756315418.png/small",
     "hermann malonga": "",
     "marc guiu": "https://r2.thesportsdb.com/images/media/player/cutout/x4r4991757003409.png/small",
-    "heaven kilwa": "",
     "enzo": "",
     "franck kessie": "",
     "honest anahor": "",
     "andria bartishvili": "",
     "tommy marques": "",
-    "dastan satpayev": ""
+    "dastan satpayev": "",
+    "amine gouiri": "https://r2.thesportsdb.com/images/media/player/cutout/74eam91766152411.png/small",
+    "heaven kilwa": ""
   },
-  "photo_repair_idx": 6,
+  "photo_repair_idx": 7,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

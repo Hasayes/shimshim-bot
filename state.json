@@ -1,6 +1,5 @@
 {
   "sent": [
-    "98a2867baf5a58266951b17e8e3281f4",
     "b6f96494fafa7179a5e0bf6524322696",
     "457971c90e89c8f12a699a6d445a4a58",
     "f9e75f3edfbeec5bcb9fbeee1db57f70",
@@ -1499,7 +1498,8 @@
     "435ccdd1ab8a176b9ffdde7942eb1f2a",
     "2691aafcb2f4d1e138b40deea86782cb",
     "4a5ca06d10aa5750615f7826dbabe3f9",
-    "8fef3f0f2a0087cd507480a9a1cc8590"
+    "8fef3f0f2a0087cd507480a9a1cc8590",
+    "79ec4675f036165d49f42d858f3e4252"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1988,7 +1988,6 @@
     "interest: gouiri -> tottenham"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 barcelona have started talks with abdelkader hamza and his camp over new c",
     "alvarez open to arsenal transfer sunday's gossip",
     "mo salah \u2018to be joined at trabzonspor by premier league & champions league winni",
     "romano reveals juventus decision on selling kenan yildiz to arsenal for \u00a386m",
@@ -2287,7 +2286,8 @@
     "decision reached on next tottenham signing from nott\u2019m forest after savio announ",
     "manchester city race for gakpo, enzo: latest transfer updates",
     "aston villa set to complete stunning leon goretzka transfer as champions league ",
-    "talks collapsing: liverpool could now miss out on top winger signing"
+    "talks collapsing: liverpool could now miss out on top winger signing",
+    "david ornstein: liverpool holding \u2018key talks\u2019 to complete major deal"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2584,15 +2584,15 @@
     "hermann malonga": "",
     "marc guiu": "https://r2.thesportsdb.com/images/media/player/cutout/x4r4991757003409.png/small",
     "amine gouiri": "https://r2.thesportsdb.com/images/media/player/cutout/74eam91766152411.png/small",
-    "enzo": "",
     "franck kessie": "",
     "honest anahor": "",
     "andria bartishvili": "",
     "tommy marques": "",
     "dastan satpayev": "",
-    "heaven kilwa": ""
+    "heaven kilwa": "",
+    "enzo": ""
   },
-  "photo_repair_idx": 7,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

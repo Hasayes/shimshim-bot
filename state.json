@@ -1,7 +1,5 @@
 {
   "sent": [
-    "b1b85817ed7dd96b55a8f66ee43be778",
-    "ae4bc37d4cfb703257223f4bcd9c09fd",
     "d7038b831ae108333b3529d322248df6",
     "ebeaca0b0073831787880e8cb431e669",
     "a9e0ea34f1534cdf21ffc165ba5e601b",
@@ -1499,7 +1497,9 @@
     "324e0ee3643fb2837a1fdb1ee190ef3a",
     "0610af4cc92dbf78603728e5d0e920a2",
     "978abba927666e60a9a9207e624472ba",
-    "d52d19baed86a55797f5cb6deeba51c5"
+    "d52d19baed86a55797f5cb6deeba51c5",
+    "a70da4144a5a2e4196fa3483418e402a",
+    "8db98a8b379481f6b62ac64b08acdbca"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1997,7 +1997,6 @@
     "interest: martinez -> chelsea"
   ],
   "titles": [
-    "man united linked barcelona defender believes he is being \"pushed out\" of the cl",
     "man united linked barcelona defender believes he is being \u201cpushed out\u201d of the cl",
     "barcelona latest transfer update: hamza abdelkarim set for new contract talks af",
     "tottenham deal done for omar marmoush as insider reveals what man city double ra",
@@ -2296,7 +2295,8 @@
     "transfer: alvarez absent from atletico training as arsenal wait for green light",
     "fc barcelona heavyweight decides to stay at club before athletic clash",
     "romano: ligue 1 giants make approach for tottenham player de zerbi called 'cruci",
-    "a swift move: barcelona chase the cousin of a bayern munich star"
+    "a swift move: barcelona chase the cousin of a bayern munich star",
+    "\u201cclosing in on personal terms agreement\u201d: fabrizio romano confirms imminent live"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2593,15 +2593,15 @@
     "perin": "https://r2.thesportsdb.com/images/media/player/cutout/oo0l5m1759222361.png/small",
     "kristjan asllani": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Kristjan_Asllani%2C_FC_Salzburg_gegen_Inter_Mailand_%28UEFA_Championsleague_2023-11-08%29_63_%28cropped%29.jpg/330px-Kristjan_Asllani%2C_FC_Salzburg_gegen_Inter_Mailand_%28UEFA_Championsleague_2023-11-08%29_63_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "joel ordonez": "https://r2.thesportsdb.com/images/media/player/cutout/7te4j61767634434.png/small",
-    "tommy marques": "",
     "dastan satpayev": "",
     "heaven kilwa": "",
     "enzo": "",
     "franck kessie": "",
     "honest anahor": "",
-    "andria bartishvili": ""
+    "andria bartishvili": "",
+    "tommy marques": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 5,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

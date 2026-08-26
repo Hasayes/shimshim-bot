@@ -1,9 +1,5 @@
 {
   "sent": [
-    "61da7a7c13980609897b31f3998c6607",
-    "8e677f81e08bc982cae662cbaa8d3439",
-    "3dbdb941033a33722c229231ec5a5273",
-    "46ee803878925a02067fe34bcb55019c",
     "aca640a0765348a8257baed3aafa2f2f",
     "b7b54b8af3e8d755ce0dbcee38f728a0",
     "eeb949c20278e635a49b4fd2fe7c8c52",
@@ -1499,7 +1495,11 @@
     "0cf35d0480a490bc477543b686671374",
     "aebaa684320e35637b4df67c180b18f8",
     "bb225ae9d1ff943da03e3e43db14c3ad",
-    "2589d76d2aeeed870cd08dd4920a8822"
+    "2589d76d2aeeed870cd08dd4920a8822",
+    "b5dba41f6b90cfc6540589b9604d4518",
+    "de6ad2ccf9c4cbb8e345bb6bd5f13795",
+    "00307eac7ac5e466932b9a9a7fb73299",
+    "5b4e90829e32d2e08daa93a5f12e8c60"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1998,10 +1998,6 @@
     "interest: sorloth -> juventus"
   ],
   "titles": [
-    "man utd handed boost in race to sign 'one of the best full backs'",
-    "arsenal name \u00a360m price as al hilal open talks for brazilian winger",
-    "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f kamil grabara has agreed on personal terms with juventus, waiting for gr",
-    "man utd transfer tactic pays off after michael carrick sends message to ineos",
     "fabrizio romano: man utd want 'more signings' after hull loss",
     "milan and porto to resume santiago gimenez talks on monday",
     "verbal agreement done: fabrizio romano shares exciting tottenham transfer update",
@@ -2297,7 +2293,11 @@
     "juventus have two options to offer atletico in exchange for sorloth, including d",
     "romano provides update on man city \u2018hijack\u2019 for gakpo as one condition gives tot",
     "hansi flick officially confirms alejandro balde barcelona future",
-    "approach made: tottenham in discussions over midfielder loan"
+    "approach made: tottenham in discussions over midfielder loan",
+    "manchester city transfer news: morocco sensation ayyoub bouaddi joins enzo mares",
+    "arsenal begin breakthrough julian alvarez talks: report",
+    "monaco have enquired about tottenham hotspur target pape matar sarr",
+    "today or tomorrow: next liverpool transfer could be finalised shortly amid worry"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2593,16 +2593,16 @@
     "perin": "https://r2.thesportsdb.com/images/media/player/cutout/oo0l5m1759222361.png/small",
     "kristjan asllani": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Kristjan_Asllani%2C_FC_Salzburg_gegen_Inter_Mailand_%28UEFA_Championsleague_2023-11-08%29_63_%28cropped%29.jpg/330px-Kristjan_Asllani%2C_FC_Salzburg_gegen_Inter_Mailand_%28UEFA_Championsleague_2023-11-08%29_63_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "joel ordonez": "https://r2.thesportsdb.com/images/media/player/cutout/7te4j61767634434.png/small",
-    "franck kessie": "",
     "honest anahor": "",
     "andria bartishvili": "",
     "tommy marques": "",
     "sorloth": "https://r2.thesportsdb.com/images/media/player/cutout/v3of4b1762288730.png/small",
     "dastan satpayev": "",
     "heaven kilwa": "",
-    "enzo": ""
+    "enzo": "",
+    "franck kessie": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

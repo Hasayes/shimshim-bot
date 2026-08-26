@@ -1528,31 +1528,6 @@
   "srcTier": "tier1"
  },
  {
-  "id": "46ee803878925a02067fe34bcb55019c",
-  "ts": "2026-08-19T20:16:23+00:00",
-  "kind": "interest",
-  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/h32wk91766827067.png/small",
-  "stage": "\u2014",
-  "player": "Joshua Zirkzee",
-  "position": "Forward / Striker",
-  "age": "25",
-  "from_club": "Manchester United",
-  "to_club": "Juventus, Napoli",
-  "fee": "Undisclosed",
-  "style": "A tall, technically gifted centre-forward who excels linking play, holding up the ball, and combining in tight spaces rather than being a traditional box striker.",
-  "fit": "His ability to drop deep and connect midfield to attack suits Juventus's possession-based system, while Napoli could use him as a direct replacement for Lukaku's hold-up focal-point role.",
-  "source": "Gianluca Di Marzio, La Gazzetta dello Sport",
-  "summary": "Juventus are pursuing a loan deal for Joshua Zirkzee, with sporting director Ricky Massara driving the operation, though a gap remains as Manchester United prefer a permanent sale or loan with an obligation to buy. Napoli have also made a fresh approach for the Dutchman, per Gianluca Di Marzio, following Romelu Lukaku's departure to Fenerbahce.",
-  "outlet": "yahoo",
-  "url": "https://sports.yahoo.com/articles/juventus-face-serie-competition-man-080500827.html",
-  "title": "Juventus face a Serie A competition for Man Utd star",
-  "sources": [
-   "Gianluca Di Marzio",
-   "La Gazzetta dello Sport"
-  ],
-  "srcTier": "tier1"
- },
- {
   "id": "tg:FabrizioRomanoTG/64914",
   "ts": "2026-08-19T11:46:05+00:00",
   "kind": "deal",

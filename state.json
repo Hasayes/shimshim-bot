@@ -1,7 +1,5 @@
 {
   "sent": [
-    "49618263863b57da86a475c1c3c453d1",
-    "c03f18b2193b1fa6d4b73a12d15801a7",
     "tg:FabrizioRomanoTG/64525",
     "7e22d30db51f0d302371c5e85c78103c",
     "bc662427ebca9aa19c5266626250802f",
@@ -1499,7 +1497,9 @@
     "cdf00ad32ec95459d52b8e9181274f63",
     "2b251664d0e6e35ab58ffc1c75df8073",
     "c5fbda932330944a70cfeaeb8b1978b3",
-    "b7dfe355e8c236d7a9f7e75666bf476f"
+    "b7dfe355e8c236d7a9f7e75666bf476f",
+    "affbd7d4bb88a49ca055e00b42deaa28",
+    "4d11ea1ed850f136f63b6a1d53d05a61"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1987,8 +1987,6 @@
     "interest: guiu -> napoli"
   ],
   "titles": [
-    "transfer updates: minteh, osimhen, baleba, savinho, goretzka, others",
-    "official: napoli sign badiashile in potential \u20ac23m transfer from chelsea",
     "official: napoli loan chelsea defender with \u20ac27m option to buy as blues trim squ",
     "official: napoli sign chelsea defender badiashile on loan with \u20ac20m buy option",
     "this is what must happen if psv are to cooperate with dennis man's departure",
@@ -2286,7 +2284,9 @@
     "romano: arsenal wait for signal from world class attacker to start bidding",
     "just in: chelsea open talks to sign elite young defender who could cost more tha",
     "jacobs: man city \u201cexpected to accelerate\u201d late record bid for midfielder",
-    "arsenal transfer news: why won\u2019t the gunners sign kenan yildiz this summer? juve"
+    "arsenal transfer news: why won\u2019t the gunners sign kenan yildiz this summer? juve",
+    "journalist: aston villa keen on move for serie a forward",
+    "liverpool make decision on bizarre minteh deal as full injury timeline revealed"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2583,15 +2583,15 @@
     "ernest poku": "https://r2.thesportsdb.com/images/media/player/cutout/h7u26r1756315418.png/small",
     "hermann malonga": "",
     "marc guiu": "https://r2.thesportsdb.com/images/media/player/cutout/x4r4991757003409.png/small",
-    "tommy marques": "",
     "dastan satpayev": "",
     "heaven kilwa": "",
     "enzo": "",
     "franck kessie": "",
     "honest anahor": "",
-    "andria bartishvili": ""
+    "andria bartishvili": "",
+    "tommy marques": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 5,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

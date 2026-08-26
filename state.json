@@ -1,7 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/64530",
-    "7f2aabbc067db21ceb833beecde64be6",
     "0f1d29b818a193147ce766c6f6e24b38",
     "2fc91da6d7f496313fa1b147da3b298d",
     "89e6e2f03aa34216f040ce5f9fb3d823",
@@ -1499,7 +1497,9 @@
     "8735ceeba607762d5823825ff49178d5",
     "e59cbd76ecc3644ab84a1d85164296b3",
     "5ef8a42101767a1269bce36fbd18c90c",
-    "cc5894653767bbc5d6a659056f0a614d"
+    "cc5894653767bbc5d6a659056f0a614d",
+    "93fe4f14cf85ac8e4885791508c607c3",
+    "d4522bf8db7dd6e8e6f3531807eea29b"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1988,8 +1988,6 @@
     "interest: gouiri -> tottenham"
   ],
   "titles": [
-    "fabrizio romano confirms liverpool talks for phenomenal \u00a355m real madrid star",
-    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f harry kane on new contract at bayern: \u201cwe'll talk this week and next we'l",
     "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f understand manchester city are now closing in on allan deal from palmeira",
     "former manchester united talent willy kambwala nearing como move",
     "liverpool boost? barcola and mbaye dropped again by psg amid transfer uncertaint",
@@ -2287,7 +2285,9 @@
     "kenan yildiz to arsenal move collapses as juventus star faces injury layoff",
     "liverpool pressing for 'bizarre' deal for yankuba minteh: report",
     "leeds loan deal for chelsea star back on the table \u2013 but blues need to be convin",
-    "nottingham forest in direct talks to sign chelsea striker"
+    "nottingham forest in direct talks to sign chelsea striker",
+    "newcastle agree \u00a352m deal for man city star nico gonzalez with midfielder set fo",
+    "decision reached on next tottenham signing from nott\u2019m forest after savio announ"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2583,16 +2583,16 @@
     "ernest poku": "https://r2.thesportsdb.com/images/media/player/cutout/h7u26r1756315418.png/small",
     "hermann malonga": "",
     "marc guiu": "https://r2.thesportsdb.com/images/media/player/cutout/x4r4991757003409.png/small",
-    "tommy marques": "",
     "dastan satpayev": "",
     "amine gouiri": "https://r2.thesportsdb.com/images/media/player/cutout/74eam91766152411.png/small",
     "heaven kilwa": "",
     "enzo": "",
     "franck kessie": "",
     "honest anahor": "",
-    "andria bartishvili": ""
+    "andria bartishvili": "",
+    "tommy marques": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 5,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

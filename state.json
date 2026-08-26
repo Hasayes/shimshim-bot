@@ -1,7 +1,5 @@
 {
   "sent": [
-    "1d8475e0b1b463748d1bacf2beeacaad",
-    "e9ed32f85aa3e92c1ec91a7aef0c42f6",
     "f98640e723740b0c0d198b73a749d33a",
     "3d2701806b83d2da047136a103f770cc",
     "187248838b14f117482e02e1e7d1047c",
@@ -1499,7 +1497,9 @@
     "bba1765692ea921b2105392e055b40b5",
     "e78be0c19366d4e489d9dd981f74d56b",
     "tg:FabrizioRomanoTG/65354",
-    "tg:FabrizioRomanoTG/65357"
+    "tg:FabrizioRomanoTG/65357",
+    "tg:FabrizioRomanoTG/65360",
+    "tg:FabrizioRomanoTG/65361"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1996,7 +1996,6 @@
     "interest: martinez -> chelsea"
   ],
   "titles": [
-    "after 12 months man utd officially have the midfielder they always wanted",
     "arsenal meeting with atletico madrid over julian alvarez transfer revealed",
     "man utd monitoring ismaila sarr as galatasaray push for crystal palace breakthro",
     "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f understand newcastle have made big progress in talks to sign nico gonzal",
@@ -2295,7 +2294,8 @@
     "romano drops liverpool transfer bombshell as reds make \u00a350m offer for premier le",
     "nico gonzalez set to join newcastle united in \u00a350 million deal",
     "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 crystal palace and club brugge have already prepared all paperwork for joe",
-    "\ud83d\udea8 \ud83d\udd35 exclusive story, confirmed: chelsea are now advancing in club to club talks "
+    "\ud83d\udea8 \ud83d\udd35 exclusive story, confirmed: chelsea are now advancing in club to club talks ",
+    "\ud83d\udea8 \ud83d\udfe1 \ud83d\udd34 galatasaray are closing in on club to club agreement for rafael leao for \u20ac"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2590,7 +2590,6 @@
     "jonathan david": "https://r2.thesportsdb.com/images/media/player/cutout/nyd9d91759225738.png/small",
     "gabriel martinelli": "https://r2.thesportsdb.com/images/media/player/cutout/pnwfls1769331152.png/small",
     "perin": "https://r2.thesportsdb.com/images/media/player/cutout/oo0l5m1759222361.png/small",
-    "honest anahor": "",
     "kristjan asllani": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Kristjan_Asllani%2C_FC_Salzburg_gegen_Inter_Mailand_%28UEFA_Championsleague_2023-11-08%29_63_%28cropped%29.jpg/330px-Kristjan_Asllani%2C_FC_Salzburg_gegen_Inter_Mailand_%28UEFA_Championsleague_2023-11-08%29_63_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "andria bartishvili": "",
     "tommy marques": "",
@@ -2598,9 +2597,10 @@
     "heaven kilwa": "",
     "enzo": "",
     "joel ordonez": "https://r2.thesportsdb.com/images/media/player/cutout/7te4j61767634434.png/small",
-    "franck kessie": ""
+    "franck kessie": "",
+    "honest anahor": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

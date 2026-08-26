@@ -1,7 +1,5 @@
 {
   "sent": [
-    "c7cde7e8780a9ef7b03951f1d528c9b5",
-    "tg:FabrizioRomanoTG/64532",
     "47acada9e9a729c305caa4567e69d834",
     "5ea0a0c3a12dce3aaf4e4d1a6fcb8eb1",
     "tg:FabrizioRomanoTG/64533",
@@ -1499,7 +1497,9 @@
     "tg:FabrizioRomanoTG/65301",
     "95ddca89ca665e1f351c9724a672f4ec",
     "208273c8a622fde5f33d8171e0ea1882",
-    "tg:FabrizioRomanoTG/65303"
+    "tg:FabrizioRomanoTG/65303",
+    "88e57d707d366d57f80beb1d0b7f2559",
+    "d0efd73a7948c94fe31b31b1e15d5d95"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1991,7 +1991,6 @@
     "interest: david -> atletico madrid"
   ],
   "titles": [
-    "rt @fabrizioromano : \ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f breaking: ayyoub bouaddi to manchester city, here we",
     "manchester united transfer 'confirmed' after medical as michael carrick gets maj",
     "@nymzeee @gniklas43 don\u2019t worry, others have already taken the exclusive news ze",
     "\ud83d\udea8 \u26a0\ufe0f ollie watkins, out of aston villa squad today as talks are underway with al",
@@ -2290,7 +2289,8 @@
     "\ud83d\udea8 \u26aa\ufe0f \ud83d\udd34 atletico madrid keep looking for new striker and made contact with juvent",
     "marmoush to tottenham prompts de zerbi reaction as key duo join savio to face ch",
     "enzo fernandez reportedly accepts man city move as chelsea negotiations could ma",
-    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f gabriel martinelli\u2019s agent are in direct contact with al hilal again to c"
+    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f gabriel martinelli\u2019s agent are in direct contact with al hilal again to c",
+    "transfer: martinelli\u2019s \u20ac65m move from arsenal \u2018in final stages\u2019"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2584,7 +2584,6 @@
     "hermann malonga": "",
     "marc guiu": "https://r2.thesportsdb.com/images/media/player/cutout/x4r4991757003409.png/small",
     "amine gouiri": "https://r2.thesportsdb.com/images/media/player/cutout/74eam91766152411.png/small",
-    "franck kessie": "",
     "honest anahor": "",
     "andria bartishvili": "",
     "tommy marques": "",
@@ -2593,9 +2592,10 @@
     "dastan satpayev": "",
     "heaven kilwa": "",
     "gabriel martinelli": "https://r2.thesportsdb.com/images/media/player/cutout/pnwfls1769331152.png/small",
-    "enzo": ""
+    "enzo": "",
+    "franck kessie": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

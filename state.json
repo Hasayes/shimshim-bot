@@ -1,10 +1,5 @@
 {
   "sent": [
-    "47ba9cb79099c923c0f37fa1323c898d",
-    "1f4655cf25233feffc2391c90f30752a",
-    "b5a3e9a95c1dc479c39e377c7e2009db",
-    "f3bd388d35b66f1ab3a7492df454730e",
-    "9ceba38356b98631fa204de0dabd679d",
     "4635144d0a8c98c13a378de8bace6efd",
     "b1b85817ed7dd96b55a8f66ee43be778",
     "ae4bc37d4cfb703257223f4bcd9c09fd",
@@ -1499,7 +1494,12 @@
     "674e4c01a61e7000933ba7e91393b817",
     "380884391520fd0fcdeec9da127d5e2d",
     "a5fad9c207ad64317a3f091f143453a7",
-    "aedffdfdbdbd46090d51f99dd55835f9"
+    "aedffdfdbdbd46090d51f99dd55835f9",
+    "212ddc8d6196a287ee2f8133446d76c8",
+    "93915b5f7411616d8f0b55097c20f5bd",
+    "324e0ee3643fb2837a1fdb1ee190ef3a",
+    "0610af4cc92dbf78603728e5d0e920a2",
+    "978abba927666e60a9a9207e624472ba"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1997,10 +1997,6 @@
     "interest: martinez -> chelsea"
   ],
   "titles": [
-    "arsenal in \u00a360m waiting game as julian alvarez transfer saga takes fresh twist",
-    "former bayern munich midfielder leon goretzka headed to aston villa per report",
-    "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 raphinha: \u201ci\u2019m ready to help and play even as number 9\u201d \u201ci feel comfortabl",
-    "transfer: bouaddi to join man city as chelsea block forward from leaving club",
     "tottenham deal done for omar marmoush as man city accept less than they paid in ",
     "man united linked barcelona defender believes he is being \"pushed out\" of the cl",
     "man united linked barcelona defender believes he is being \u201cpushed out\u201d of the cl",
@@ -2296,7 +2292,11 @@
     "roma attempt to overtake juve in race for kessie",
     "fabrizio romano confirms julian alvarez \u201cabsent\u201d from atletico madrid training a",
     "latest: arsenal stance on barcola emerge as arteta continues to look for attacki",
-    "alejandro balde makes decision on barcelona future amid man utd links"
+    "alejandro balde makes decision on barcelona future amid man utd links",
+    "man utd to launch bid for real madrid star as fourth midfield deal eyed",
+    "transfer: alvarez absent from atletico training as arsenal wait for green light",
+    "fc barcelona heavyweight decides to stay at club before athletic clash",
+    "romano: ligue 1 giants make approach for tottenham player de zerbi called 'cruci"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2593,15 +2593,15 @@
     "perin": "https://r2.thesportsdb.com/images/media/player/cutout/oo0l5m1759222361.png/small",
     "kristjan asllani": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Kristjan_Asllani%2C_FC_Salzburg_gegen_Inter_Mailand_%28UEFA_Championsleague_2023-11-08%29_63_%28cropped%29.jpg/330px-Kristjan_Asllani%2C_FC_Salzburg_gegen_Inter_Mailand_%28UEFA_Championsleague_2023-11-08%29_63_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "joel ordonez": "https://r2.thesportsdb.com/images/media/player/cutout/7te4j61767634434.png/small",
-    "honest anahor": "",
     "andria bartishvili": "",
     "tommy marques": "",
     "dastan satpayev": "",
     "heaven kilwa": "",
     "enzo": "",
-    "franck kessie": ""
+    "franck kessie": "",
+    "honest anahor": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

@@ -1,5 +1,30 @@
 [
  {
+  "id": "a681f51c5881c7fbc0aa5088dcc6c243",
+  "ts": "2026-08-19T22:02:45+00:00",
+  "kind": "interest",
+  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/7g2c521769330817.png/small",
+  "stage": "\u2014",
+  "player": "Myles Lewis-Skelly",
+  "position": "Left-back / Midfielder",
+  "age": "19",
+  "from_club": "Arsenal",
+  "to_club": "Chelsea, Manchester United",
+  "fee": "Undisclosed",
+  "style": "A dynamic, technically assured youngster who is comfortable on the ball and capable of operating at left-back or in midfield, combining defensive diligence with forward-thinking carry and press-resistance.",
+  "fit": "His versatility and youthful high-intensity profile would suit either Chelsea or United's pressing systems, though Arsenal's firm resistance and his contract until 2030 make any deal extremely difficult.",
+  "source": "Sky Sports (Mark McAdam, Michael Bridge)",
+  "summary": "Chelsea have made a new enquiry to sign Arsenal's Myles Lewis-Skelly, while Manchester United are described as long-term admirers, per Sky Sports' Transfer Show. Arsenal's stance is firmly against selling, with the club reportedly telling interested parties the player is not available.",
+  "outlet": "teamtalk",
+  "url": "https://www.teamtalk.com/news/arsenal-mixed-messages-myles-lewis-skelly-sale-man-utd-chelsea-interest",
+  "title": "Arsenal CEO sends mixed Myles Lewis-Skelly transfer messages to Man Utd, Chelsea",
+  "sources": [
+   "Sky Sports (Mark McAdam",
+   "Michael Bridge)"
+  ],
+  "srcTier": "tier1"
+ },
+ {
   "id": "46ee803878925a02067fe34bcb55019c",
   "ts": "2026-08-19T20:16:23+00:00",
   "kind": "interest",

@@ -1,7 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/64535",
-    "tg:FabrizioRomanoTG/64536",
     "tg:FabrizioRomanoTG/64540",
     "tg:FabrizioRomanoTG/64541",
     "2608db1947f5e48ba31ee34425524101",
@@ -1499,7 +1497,9 @@
     "d0efd73a7948c94fe31b31b1e15d5d95",
     "4a848eab661b0a263ce63cee84d82ab1",
     "a4c6ad980e63b290dcf2bb82af1b5d52",
-    "tg:FabrizioRomanoTG/65304"
+    "tg:FabrizioRomanoTG/65304",
+    "tg:FabrizioRomanoTG/65306",
+    "tg:FabrizioRomanoTG/65308"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1991,8 +1991,6 @@
     "interest: david -> atletico madrid"
   ],
   "titles": [
-    "\ud83d\udea8 \u26a0\ufe0f ollie watkins, out of aston villa squad today as talks are underway with al",
-    "\ud83d\udea8 \ud83d\udfe0 \u26ab\ufe0f exclusive: hull city reach verbal agreement to sign mohamed ali cho, here",
     "rt @fabrizioromano : \ud83d\udea8 \ud83d\udfe0 \u26ab\ufe0f exclusive: hull city reach verbal agreement to sign ",
     "man utd news: myles lewis skelly update emerges as club makes early transfer app",
     "\ud83d\udea8 \ud83d\udca3 breaking: tottenham reach verbal agreement with man city to sign omar marmou",
@@ -2290,7 +2288,9 @@
     "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f gabriel martinelli\u2019s agent are in direct contact with al hilal again to c",
     "transfer: martinelli\u2019s \u20ac65m move from arsenal \u2018in final stages\u2019",
     "wednesday's gossip: villa make offer for palace striker mateta",
-    "\ud83d\udea8 \u26aa\ufe0f documents signed by both clubs and exchanged as expected: omar marmoush, se"
+    "\ud83d\udea8 \u26aa\ufe0f documents signed by both clubs and exchanged as expected: omar marmoush, se",
+    "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f newcastle and manchester city have signed all docs for nico gonzalez dea",
+    "\u26aa\ufe0f \ud83c\uddea\ud83c\uddec omar marmoush contract will be officially signed on thursday, tomorrow \u2014 t"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2584,7 +2584,6 @@
     "hermann malonga": "",
     "marc guiu": "https://r2.thesportsdb.com/images/media/player/cutout/x4r4991757003409.png/small",
     "amine gouiri": "https://r2.thesportsdb.com/images/media/player/cutout/74eam91766152411.png/small",
-    "tommy marques": "",
     "liam delap": "https://r2.thesportsdb.com/images/media/player/cutout/dxp7ym1757002801.png/small",
     "jonathan david": "https://r2.thesportsdb.com/images/media/player/cutout/nyd9d91759225738.png/small",
     "dastan satpayev": "",
@@ -2593,9 +2592,10 @@
     "enzo": "",
     "franck kessie": "",
     "honest anahor": "",
-    "andria bartishvili": ""
+    "andria bartishvili": "",
+    "tommy marques": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 5,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

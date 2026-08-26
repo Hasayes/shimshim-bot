@@ -1,7 +1,5 @@
 {
   "sent": [
-    "326ed031efcdc3e00d2096f9a35d7b8f",
-    "4b10422aee1d6cace685e002fc3ecf75",
     "tg:FabrizioRomanoTG/64562",
     "aa698bb12fbffb049707b2639d621e08",
     "defc9779ffccfe9172cffc209af7ae5b",
@@ -1499,7 +1497,9 @@
     "tg:FabrizioRomanoTG/65332",
     "tg:FabrizioRomanoTG/65333",
     "tg:FabrizioRomanoTG/65334",
-    "tg:FabrizioRomanoTG/65339"
+    "tg:FabrizioRomanoTG/65339",
+    "tg:FabrizioRomanoTG/65342",
+    "tg:FabrizioRomanoTG/65343"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1993,8 +1993,6 @@
     "interest: martinez -> chelsea"
   ],
   "titles": [
-    "barcelona want to tear up summer signing's contract after just two months",
-    "approach made: aston villa in contact over signing \u20ac45m liverpool transfer targe",
     "ac milan, mendes offers balde: the situation",
     "man utd must smash world record for lewis hall transfer as five plan b options c",
     "\ud83d\udd34 \ud83d\udd35 brace on paris saint germain debut for ferran torres! \ud83c\uddea\ud83c\uddf8 points are shared w",
@@ -2292,7 +2290,9 @@
     "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 barca president laporta: \u201cwe have a great deal of respect for atletico de ",
     "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 barcelona president laporta: \u201cwe got the information that atletico madrid ",
     "\ud83d\udea8 \ud83d\udd35 chelsea are in negotiations with emiliano \u2018dibu\u2019 martinez camp over possible",
-    "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 crystal palace reject \u00a350m bid from liverpool for ismaila sarr #cpfc insis"
+    "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 crystal palace reject \u00a350m bid from liverpool for ismaila sarr #cpfc insis",
+    "\ud83d\udea8 \u26ab\ufe0f \ud83d\udd35 agreement closed between inter and pio esposito over new contract until j",
+    "\ud83d\udcfa new youtube video uploaded! \ud83c\udfac \ud83d\udea8 \ud83d\udca3 \u00a350m bid! bomba dibu! julian war! barca unit"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2588,16 +2588,16 @@
     "liam delap": "https://r2.thesportsdb.com/images/media/player/cutout/dxp7ym1757002801.png/small",
     "jonathan david": "https://r2.thesportsdb.com/images/media/player/cutout/nyd9d91759225738.png/small",
     "gabriel martinelli": "https://r2.thesportsdb.com/images/media/player/cutout/pnwfls1769331152.png/small",
-    "honest anahor": "",
     "andria bartishvili": "",
     "perin": "https://r2.thesportsdb.com/images/media/player/cutout/oo0l5m1759222361.png/small",
     "tommy marques": "",
     "dastan satpayev": "",
     "heaven kilwa": "",
     "enzo": "",
-    "franck kessie": ""
+    "franck kessie": "",
+    "honest anahor": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

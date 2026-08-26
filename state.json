@@ -1,6 +1,5 @@
 {
   "sent": [
-    "2608db1947f5e48ba31ee34425524101",
     "tg:FabrizioRomanoTG/64543",
     "tg:FabrizioRomanoTG/64545",
     "913d5fd2dc571dd1eeedfe5b13bb50e6",
@@ -1499,7 +1498,8 @@
     "tg:FabrizioRomanoTG/65306",
     "tg:FabrizioRomanoTG/65308",
     "tg:FabrizioRomanoTG/65309",
-    "8048727cc149df05219ee234fc651233"
+    "8048727cc149df05219ee234fc651233",
+    "tg:FabrizioRomanoTG/65316"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1991,7 +1991,6 @@
     "interest: david -> atletico madrid"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83d\udca3 breaking: tottenham reach verbal agreement with man city to sign omar marmou",
     "\ud83d\udc4b\ud83c\udffc \u2764\ufe0f\u200d\ud83e\ude79 ayyoub bouaddi says goodbye to lille fans as he\u2019s set to complete his ma",
     "teammate reveals how bayern munich tried \u2014 and failed \u2014 to convince joao palhinh",
     "fabrizio romano exclusive: liverpool target agrees to seal dream lfc transfer on",
@@ -2290,7 +2289,8 @@
     "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f newcastle and manchester city have signed all docs for nico gonzalez dea",
     "\u26aa\ufe0f \ud83c\uddea\ud83c\uddec omar marmoush contract will be officially signed on thursday, tomorrow \u2014 t",
     "\ud83d\udea8 \ud83d\udfe3 \ud83d\udd35 aston villa have sent their contract proposal to nicolas jackson, long ter",
-    "roma awaiting further medical tests for oosterwolde"
+    "roma awaiting further medical tests for oosterwolde",
+    "\ud83d\udea8 \u26aa\ufe0f \ud83d\udd34 excl: rb leipzig among clubs calling barcelona in the last 48h for marc c"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2587,15 +2587,15 @@
     "liam delap": "https://r2.thesportsdb.com/images/media/player/cutout/dxp7ym1757002801.png/small",
     "jonathan david": "https://r2.thesportsdb.com/images/media/player/cutout/nyd9d91759225738.png/small",
     "gabriel martinelli": "https://r2.thesportsdb.com/images/media/player/cutout/pnwfls1769331152.png/small",
-    "enzo": "",
     "franck kessie": "",
     "honest anahor": "",
     "andria bartishvili": "",
     "tommy marques": "",
     "dastan satpayev": "",
-    "heaven kilwa": ""
+    "heaven kilwa": "",
+    "enzo": ""
   },
-  "photo_repair_idx": 7,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

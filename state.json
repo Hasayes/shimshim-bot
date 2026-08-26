@@ -1,6 +1,5 @@
 {
   "sent": [
-    "61a99d79230d59d24ae70741bbcf706e",
     "0de1c06b9ee7e4985fb872565c74614c",
     "d2ec06ab5abb4d3b3deb7bf709292651",
     "c7cde7e8780a9ef7b03951f1d528c9b5",
@@ -1499,7 +1498,8 @@
     "d326ee9bf32e6e82fa74304236a7335c",
     "tg:FabrizioRomanoTG/65299",
     "cef074ec339de7ccee08b11caf4cf362",
-    "tg:FabrizioRomanoTG/65301"
+    "tg:FabrizioRomanoTG/65301",
+    "95ddca89ca665e1f351c9724a672f4ec"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1990,7 +1990,6 @@
     "interest: david -> atletico madrid"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f exclusive: rb leipzig submit official bid to lille for matias fernandez p",
     "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f breaking: ayyoub bouaddi to manchester city, here we go! deal agreed club",
     "\ud83e\ude75 \ud83c\uddf2\ud83c\udde6 manchester city have signed ayyoub bouaddi for \u20ac95m plus \u20ac5m add ons from l",
     "rt @fabrizioromano : \ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f breaking: ayyoub bouaddi to manchester city, here we",
@@ -2289,7 +2288,8 @@
     "journalist reveals minteh\u2019s true injury timeline as liverpool prepare third bid",
     "\ud83d\udea8 \ud83c\uddf5\ud83c\uddf9 talks for goncalo inacio continue behind the scenes with an exit still cons",
     "transfer: delap to join chelsea\u2019s epl rivals in \u00a345m deal",
-    "\ud83d\udea8 \u26aa\ufe0f \ud83d\udd34 atletico madrid keep looking for new striker and made contact with juvent"
+    "\ud83d\udea8 \u26aa\ufe0f \ud83d\udd34 atletico madrid keep looking for new striker and made contact with juvent",
+    "marmoush to tottenham prompts de zerbi reaction as key duo join savio to face ch"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2584,7 +2584,6 @@
     "hermann malonga": "",
     "marc guiu": "https://r2.thesportsdb.com/images/media/player/cutout/x4r4991757003409.png/small",
     "amine gouiri": "https://r2.thesportsdb.com/images/media/player/cutout/74eam91766152411.png/small",
-    "heaven kilwa": "",
     "enzo": "",
     "franck kessie": "",
     "honest anahor": "",
@@ -2592,9 +2591,10 @@
     "tommy marques": "",
     "liam delap": "https://r2.thesportsdb.com/images/media/player/cutout/dxp7ym1757002801.png/small",
     "jonathan david": "https://r2.thesportsdb.com/images/media/player/cutout/nyd9d91759225738.png/small",
-    "dastan satpayev": ""
+    "dastan satpayev": "",
+    "heaven kilwa": ""
   },
-  "photo_repair_idx": 6,
+  "photo_repair_idx": 7,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

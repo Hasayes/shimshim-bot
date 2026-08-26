@@ -1,6 +1,5 @@
 {
   "sent": [
-    "b07eaca1f84fa0dd028b9f09fb7744b9",
     "395397f6a27c10a3d96c4e3e84b523c0",
     "99ddd3fe2cb64bc17d6bff09575c8187",
     "tg:FabrizioRomanoTG/64570",
@@ -1499,7 +1498,8 @@
     "c43040e779d3eb54066531100ed4d1c8",
     "74cb0b3f14dd3acb6f6432fd6c742422",
     "tg:FabrizioRomanoTG/65364",
-    "tg:FabrizioRomanoTG/65366"
+    "tg:FabrizioRomanoTG/65366",
+    "ea3b6dfc02ab77a7bd6824af7e403f97"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1997,7 +1997,6 @@
     "interest: martinez -> chelsea"
   ],
   "titles": [
-    "confirmed: leeds remain in talks to sign 'most unique player in the world'",
     "barcelona make brutal alejandro balde decision as hansi flick uncertainty offers",
     "manchester city transfer news: ayyoub bouaddi deal agreed with lille in \u20ac100m bl",
     "'i can't give any guarantees' \u2013 sporting cp boss rui borges refuses to rule out ",
@@ -2296,7 +2295,8 @@
     "liverpool turn to \u2018different options\u2019 as minteh deal goes \u2018cold\u2019 in romano updat",
     "david ornstein\u2019s cryptic liverpool transfer update as \u201ckey talks\u201d held",
     "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f official and confirmed: nico gonzalez joins newcastle united on \u00a347m plu",
-    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f breaking: al hilal have now agreed all details of deal to sign ollie watk"
+    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f breaking: al hilal have now agreed all details of deal to sign ollie watk",
+    "fabrizio romano gives liverpool fresh hope of landing 18 year old wonderkid"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2592,16 +2592,16 @@
     "gabriel martinelli": "https://r2.thesportsdb.com/images/media/player/cutout/pnwfls1769331152.png/small",
     "perin": "https://r2.thesportsdb.com/images/media/player/cutout/oo0l5m1759222361.png/small",
     "kristjan asllani": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Kristjan_Asllani%2C_FC_Salzburg_gegen_Inter_Mailand_%28UEFA_Championsleague_2023-11-08%29_63_%28cropped%29.jpg/330px-Kristjan_Asllani%2C_FC_Salzburg_gegen_Inter_Mailand_%28UEFA_Championsleague_2023-11-08%29_63_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "heaven kilwa": "",
     "enzo": "",
     "joel ordonez": "https://r2.thesportsdb.com/images/media/player/cutout/7te4j61767634434.png/small",
     "franck kessie": "",
     "honest anahor": "",
     "andria bartishvili": "",
     "tommy marques": "",
-    "dastan satpayev": ""
+    "dastan satpayev": "",
+    "heaven kilwa": ""
   },
-  "photo_repair_idx": 6,
+  "photo_repair_idx": 7,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

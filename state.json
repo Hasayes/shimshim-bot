@@ -1,7 +1,5 @@
 {
   "sent": [
-    "16deaf83ae84c6168bbaa573b5afb7f2",
-    "tg:FabrizioRomanoTG/64546",
     "tg:FabrizioRomanoTG/64547",
     "tg:FabrizioRomanoTG/64548",
     "cdee125015d3c95a035fc93de8d783c9",
@@ -1499,7 +1497,9 @@
     "tg:FabrizioRomanoTG/65316",
     "tg:FabrizioRomanoTG/65317",
     "tg:FabrizioRomanoTG/65319",
-    "tg:FabrizioRomanoTG/65320"
+    "tg:FabrizioRomanoTG/65320",
+    "3398f9a6a3b30b48c53d858909dfcc90",
+    "tg:FabrizioRomanoTG/65323"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1991,8 +1991,6 @@
     "interest: david -> atletico madrid"
   ],
   "titles": [
-    "fabrizio romano exclusive: liverpool target agrees to seal dream lfc transfer on",
-    "barcelona top target only wants to move to camp nou amid arsenal interest \u2013 roma",
     "fabrizio romano confirms liverpool are days away from massive transfer",
     "goretzka signs in the premier league after leaving bayern munich",
     "arsenal send new message to julian alvarez after transfer talks",
@@ -2290,7 +2288,9 @@
     "roma awaiting further medical tests for oosterwolde",
     "\ud83d\udea8 \u26aa\ufe0f \ud83d\udd34 excl: rb leipzig among clubs calling barcelona in the last 48h for marc c",
     "\ud83d\udea8 \ud83d\udd34 \u26ab\ufe0f bayer leverkusen agree deal to sign moussa diaby, here we go! verbal agre",
-    "\ud83e\ude75 \ud83c\uddf2\ud83c\udde6 official: manchester city sign ayyoub bouaddi from lille for \u20ac95m plus \u20ac5m "
+    "\ud83e\ude75 \ud83c\uddf2\ud83c\udde6 official: manchester city sign ayyoub bouaddi from lille for \u20ac95m plus \u20ac5m ",
+    "\u201chere we go\u201d \u2013 chelsea lock in impressive \u00a345m deal for forward",
+    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f brentford reach verbal agreement to sign el hadji malick diouf from west "
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2587,15 +2587,15 @@
     "liam delap": "https://r2.thesportsdb.com/images/media/player/cutout/dxp7ym1757002801.png/small",
     "jonathan david": "https://r2.thesportsdb.com/images/media/player/cutout/nyd9d91759225738.png/small",
     "gabriel martinelli": "https://r2.thesportsdb.com/images/media/player/cutout/pnwfls1769331152.png/small",
-    "honest anahor": "",
     "andria bartishvili": "",
     "tommy marques": "",
     "dastan satpayev": "",
     "heaven kilwa": "",
     "enzo": "",
-    "franck kessie": ""
+    "franck kessie": "",
+    "honest anahor": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

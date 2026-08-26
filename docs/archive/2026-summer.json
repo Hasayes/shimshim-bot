@@ -1,5 +1,29 @@
 [
  {
+  "id": "ca2daa610a6ee1507d9327888c9ddea3",
+  "ts": "2026-08-19T23:01:42+00:00",
+  "kind": "interest",
+  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/xn4s6u1784896958.png/small",
+  "stage": "\u2014",
+  "player": "Jorge Salinas Viadero",
+  "position": "Left-back",
+  "age": "19",
+  "from_club": "Racing Santander",
+  "to_club": "Manchester United, Atletico Madrid",
+  "fee": "\u00a313.7m (release clause)",
+  "style": "An attack-minded left-back with technical quality and the athleticism to operate effectively in a high defensive line.",
+  "fit": "Could provide immediate competition for Luke Shaw at Manchester United while offering long-term succession, fitting an INEOS drive to recruit young, high-ceiling full-backs.",
+  "source": "TEAMtalk",
+  "summary": "Manchester United and Atletico Madrid are both in active talks to sign Racing Santander left-back Jorge Salinas Viadero, per a TEAMtalk exclusive corroborated by Marca. The 19-year-old has a \u00a313.7m release clause that either club could trigger, with Atletico having accelerated their pursuit over the past month following Matteo Ruggeri's departure to Aston Villa.",
+  "outlet": "teamtalk",
+  "url": "https://www.teamtalk.com/manchester-united/jorge-salinas-transfer-news-united-move-atletico-madrid-hijack",
+  "title": "Man Utd face \u00a313.7m transfer misery as Atletico Madrid raise stakes for Spanish full-back sensation",
+  "sources": [
+   "TEAMtalk"
+  ],
+  "srcTier": "standard"
+ },
+ {
   "id": "7b79a8f5341be9bbdb021b2d7994daa3",
   "ts": "2026-08-19T22:31:27+00:00",
   "kind": "interest",

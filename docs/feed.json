@@ -1,5 +1,53 @@
 [
  {
+  "id": "tg:FabrizioRomanoTG/65301",
+  "ts": "2026-08-26T06:15:39+00:00",
+  "kind": "interest",
+  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/nyd9d91759225738.png/small",
+  "stage": "\u2014",
+  "player": "Jonathan David",
+  "position": "Striker",
+  "age": "\u2014",
+  "from_club": "Juventus",
+  "to_club": "Atletico Madrid",
+  "fee": "\u2014",
+  "style": "Clinical, intelligent striker with strong finishing ability and positioning in the box.",
+  "fit": "Deploy as the primary center forward to lead Atl\u00e9tico's attack and provide consistent goal-scoring threat in La Liga and European competition.",
+  "source": "Fabrizio Romano",
+  "sources": [
+   "Fabrizio Romano"
+  ],
+  "srcTier": "tier1",
+  "summary": "Atl\u00e9tico Madrid made contact with Juventus to inquire about striker Jonathan David and deal conditions, with no official bid or negotiations yet underway.",
+  "outlet": "Telegram @fabrizioromanotg",
+  "url": "https://t.me/FabrizioRomanoTG/65301",
+  "title": "\ud83d\udea8 \u26aa\ufe0f \ud83d\udd34 Atl\u00e9tico Madrid keep looking for new striker and made contact with Juventus about Jonathan David. No official bid"
+ },
+ {
+  "id": "cef074ec339de7ccee08b11caf4cf362",
+  "ts": "2026-08-26T06:15:35+00:00",
+  "kind": "deal",
+  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/dxp7ym1757002801.png/small",
+  "stage": "Here we go",
+  "player": "Liam Delap",
+  "position": "\u2014",
+  "age": "\u2014",
+  "from_club": "Chelsea",
+  "to_club": "Nottingham Forest",
+  "fee": "\u00a345m",
+  "style": "Energetic forward with sharp finishing instincts and intelligent movement in the box.",
+  "fit": "Deploy as a central striker to lead Nottingham Forest's attacking play and provide consistent goal threat in the Premier League.",
+  "source": "Fabrizio Romano",
+  "sources": [
+   "Fabrizio Romano"
+  ],
+  "srcTier": "tier1",
+  "summary": "Chelsea striker Liam Delap is set to join Nottingham Forest for \u00a345m, with the two clubs having agreed the fee and Delap scheduled to undergo his medical.",
+  "outlet": "dailypost",
+  "url": "https://dailypost.ng/2026/08/25/transfer-delap-to-join-chelseas-epl-rivals-in-45m-deal/",
+  "title": "Transfer: Delap to join Chelsea\u2019s EPL rivals in \u00a345m deal"
+ },
+ {
   "id": "47676d50d11a51e812b522a42940042f",
   "ts": "2026-08-26T00:15:32+00:00",
   "kind": "interest",

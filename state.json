@@ -1,6 +1,5 @@
 {
   "sent": [
-    "3ebcb81b2a46da21d23d83f8747c3382",
     "6ecc7d64f098258ce45405c88c1d084f",
     "326ed031efcdc3e00d2096f9a35d7b8f",
     "4b10422aee1d6cace685e002fc3ecf75",
@@ -1499,7 +1498,8 @@
     "tg:FabrizioRomanoTG/65330",
     "tg:FabrizioRomanoTG/65331",
     "tg:FabrizioRomanoTG/65332",
-    "tg:FabrizioRomanoTG/65333"
+    "tg:FabrizioRomanoTG/65333",
+    "tg:FabrizioRomanoTG/65334"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1989,10 +1989,10 @@
     "interest: guiu -> napoli",
     "interest: gouiri -> tottenham",
     "interest: david -> atletico madrid",
-    "interest: sarr -> liverpool"
+    "interest: sarr -> liverpool",
+    "interest: martinez -> chelsea"
   ],
   "titles": [
-    "sources: arsenal ready to \u201caggressively\u201d enter winger transfer talks, liverpool ",
     "newcastle handed setback in race for \u00a330m serie a star",
     "barcelona want to tear up summer signing's contract after just two months",
     "approach made: aston villa in contact over signing \u20ac45m liverpool transfer targe",
@@ -2291,7 +2291,8 @@
     "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 barcelona president laporta: \u201cwe are still very interested in julian alvar",
     "\ud83d\udea8 \ud83d\udca3 barcelona president laporta: \u201clet atletico madrid know that, if they are wil",
     "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 barca president laporta: \u201cwe have a great deal of respect for atletico de ",
-    "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 barcelona president laporta: \u201cwe got the information that atletico madrid "
+    "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 barcelona president laporta: \u201cwe got the information that atletico madrid ",
+    "\ud83d\udea8 \ud83d\udd35 chelsea are in negotiations with emiliano \u2018dibu\u2019 martinez camp over possible"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2587,16 +2588,16 @@
     "liam delap": "https://r2.thesportsdb.com/images/media/player/cutout/dxp7ym1757002801.png/small",
     "jonathan david": "https://r2.thesportsdb.com/images/media/player/cutout/nyd9d91759225738.png/small",
     "gabriel martinelli": "https://r2.thesportsdb.com/images/media/player/cutout/pnwfls1769331152.png/small",
-    "enzo": "",
     "franck kessie": "",
     "honest anahor": "",
     "andria bartishvili": "",
     "perin": "https://r2.thesportsdb.com/images/media/player/cutout/oo0l5m1759222361.png/small",
     "tommy marques": "",
     "dastan satpayev": "",
-    "heaven kilwa": ""
+    "heaven kilwa": "",
+    "enzo": ""
   },
-  "photo_repair_idx": 7,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

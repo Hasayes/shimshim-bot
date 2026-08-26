@@ -1,8 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/64548",
-    "cdee125015d3c95a035fc93de8d783c9",
-    "tg:FabrizioRomanoTG/64552",
     "6b0f4ac4524db982132a2a4e3cad4eac",
     "tg:FabrizioRomanoTG/64553",
     "8ad25e517cbaf12a4bf9022a3378dc98",
@@ -1499,7 +1496,10 @@
     "tg:FabrizioRomanoTG/65320",
     "3398f9a6a3b30b48c53d858909dfcc90",
     "tg:FabrizioRomanoTG/65323",
-    "tg:FabrizioRomanoTG/65325"
+    "tg:FabrizioRomanoTG/65325",
+    "ff0d3dd935da40b0bb46b124662ef296",
+    "tg:FabrizioRomanoTG/65326",
+    "tg:FabrizioRomanoTG/65327"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1752,7 +1752,7 @@
     "goretzka -> aston villa": 1,
     "sarr -> galatasaray": 1,
     "oosterwolde -> roma": 2,
-    "perin -> palermo": 1,
+    "perin -> palermo": 2,
     "gonzalez -> newcastle": 1,
     "nkunku -> rb leipzig": 1,
     "grabara -> juventus": 1,
@@ -1988,12 +1988,10 @@
     "interest: enzo -> manchester city",
     "interest: guiu -> napoli",
     "interest: gouiri -> tottenham",
-    "interest: david -> atletico madrid"
+    "interest: david -> atletico madrid",
+    "interest: sarr -> liverpool"
   ],
   "titles": [
-    "goretzka signs in the premier league after leaving bayern munich",
-    "arsenal send new message to julian alvarez after transfer talks",
-    "fabrizio romano claims tottenham \u201cconfident\u201d of signing versatile attacker by st",
     "barcelona begin negotiations with forward\u2019s agent amid plans to convert him into",
     "romano: liverpool agree personal terms with \u2018unpredictable\u2019 gem who \u2018dreams of j",
     "alejandro balde decides to leave barcelona as man utd open transfer talks",
@@ -2290,11 +2288,13 @@
     "\ud83e\ude75 \ud83c\uddf2\ud83c\udde6 official: manchester city sign ayyoub bouaddi from lille for \u20ac95m plus \u20ac5m ",
     "\u201chere we go\u201d \u2013 chelsea lock in impressive \u00a345m deal for forward",
     "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f brentford reach verbal agreement to sign el hadji malick diouf from west ",
-    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f exequiel palacios travelling now to complete ipswich town move, here we g"
+    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f exequiel palacios travelling now to complete ipswich town move, here we g",
+    "official: perin leaves juventus to join palermo in serie b",
+    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f sunderland have reached verbal agreement on personal terms with igor paix",
+    "\ud83d\udea8 \ud83d\udca3 exclusive: liverpool open talks to sign ismaila sarr as new winger! \ud83d\udd34 \ud83c\uddf8\ud83c\uddf3 mov"
   ],
   "tg_update_offset": 263617426,
   "photos": {
-    "mergim vojvoda": "https://r2.thesportsdb.com/images/media/player/cutout/mgfle31764278566.png/small",
     "federico ravaglia": "https://r2.thesportsdb.com/images/media/player/cutout/vtnz8h1758897431.png/small",
     "francisco trincao": "https://r2.thesportsdb.com/images/media/player/cutout/7xcl5d1762290739.png/small",
     "ayyoub bouaddi": "https://r2.thesportsdb.com/images/media/player/cutout/g1bppf1766077416.png/small",
@@ -2587,15 +2587,16 @@
     "liam delap": "https://r2.thesportsdb.com/images/media/player/cutout/dxp7ym1757002801.png/small",
     "jonathan david": "https://r2.thesportsdb.com/images/media/player/cutout/nyd9d91759225738.png/small",
     "gabriel martinelli": "https://r2.thesportsdb.com/images/media/player/cutout/pnwfls1769331152.png/small",
-    "tommy marques": "",
     "dastan satpayev": "",
     "heaven kilwa": "",
     "enzo": "",
     "franck kessie": "",
     "honest anahor": "",
-    "andria bartishvili": ""
+    "andria bartishvili": "",
+    "perin": "https://r2.thesportsdb.com/images/media/player/cutout/oo0l5m1759222361.png/small",
+    "tommy marques": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 5,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

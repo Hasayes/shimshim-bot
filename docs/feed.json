@@ -1,5 +1,53 @@
 [
  {
+  "id": "tg:FabrizioRomanoTG/65327",
+  "ts": "2026-08-26T12:00:51+00:00",
+  "kind": "interest",
+  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/1abo611761492444.png/small",
+  "stage": "\u2014",
+  "player": "Ismaila Sarr",
+  "position": "winger",
+  "age": "\u2014",
+  "from_club": "Crystal Palace",
+  "to_club": "Liverpool",
+  "fee": "\u00a350m",
+  "style": "Pacey, direct winger with strong dribbling ability and willingness to take on defenders in one-on-one situations.",
+  "fit": "Best utilized as a right winger in Liverpool's attacking setup, where his pace and ball-carrying skills can exploit space against full-backs.",
+  "source": "Fabrizio Romano",
+  "sources": [
+   "Fabrizio Romano"
+  ],
+  "srcTier": "tier1",
+  "summary": "Liverpool have opened talks to sign Senegal winger Ismaila Sarr from Crystal Palace with a proposal worth around \u00a350m. The move follows Liverpool's failed pursuit of Minteh due to Brighton's demands.",
+  "outlet": "Telegram @fabrizioromanotg",
+  "url": "https://t.me/FabrizioRomanoTG/65327",
+  "title": "\ud83d\udea8 \ud83d\udca3 EXCLUSIVE: Liverpool open talks to sign Ismaila Sarr as new winger! \ud83d\udd34 \ud83c\uddf8\ud83c\uddf3 Move follows Minteh deal called off due to "
+ },
+ {
+  "id": "ff0d3dd935da40b0bb46b124662ef296",
+  "ts": "2026-08-26T12:00:44+00:00",
+  "kind": "deal",
+  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/oo0l5m1759222361.png/small",
+  "stage": "Completed",
+  "player": "Perin",
+  "position": "\u2014",
+  "age": "\u2014",
+  "from_club": "Juventus",
+  "to_club": "Palermo",
+  "fee": "\u2014",
+  "style": "Experienced goalkeeper with strong shot-stopping ability and command of the penalty area developed at top-level clubs.",
+  "fit": "Can provide immediate quality and leadership between the sticks for Palermo's Serie B promotion push.",
+  "source": "onefootball",
+  "sources": [
+   "onefootball"
+  ],
+  "srcTier": "standard",
+  "summary": "Perin has completed his transfer from Juventus to Palermo, moving to the Serie B club.",
+  "outlet": "onefootball",
+  "url": "https://onefootball.com/en/news/official-perin-leaves-juventus-to-join-palermo-in-serie-b-43341179",
+  "title": "Official: Perin leaves Juventus to join Palermo in Serie B"
+ },
+ {
   "id": "tg:FabrizioRomanoTG/65303",
   "ts": "2026-08-26T07:15:01+00:00",
   "kind": "deal",

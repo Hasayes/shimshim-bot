@@ -1,8 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/64572",
-    "tg:FabrizioRomanoTG/64573",
-    "02bb38234c116d2aa9183d538916641e",
     "feadb0b071355cb9fd21e4567daa0b53",
     "d8eb46e2a881bbd4dc242d4926a8ff03",
     "c3f8d5c0ef53050a1e15cd70825e9881",
@@ -1499,7 +1496,10 @@
     "435b867ec7229fd95bb79c8af9f197e0",
     "74f2912bb89c8032f71133f334e3d322",
     "677e2e4e30eba551bb7fad6786e7f3f0",
-    "a84b882b26e684ff264dbf6c8647e0cc"
+    "a84b882b26e684ff264dbf6c8647e0cc",
+    "579d0a674576bd4f9e33d54fe06e3de9",
+    "998891200d86a99e25ec074f36e3b8eb",
+    "b10a7851c53a40abde9e0cdc4c1d7b36"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1997,9 +1997,6 @@
     "interest: martinez -> chelsea"
   ],
   "titles": [
-    "liverpool 'reach agreement over transfer' as reds handed \u00a370m demand to complete",
-    "xabi alonso tries to manifest great cole palmer season with \u201cworld class\u201d commen",
-    "arsenal set for stunning \u00a354m profit as ornstein confirms \u2018talks\u2019 to sign 62 goa",
     "leeds united learn outcome of orlando gill chase as deal agreed",
     "aston villa \u2018in contact\u2019 to sign world cup centre back after securing former eur",
     "'here we go' romano: tottenham agree deal to sign omar marmoush",
@@ -2296,7 +2293,10 @@
     "romano drops huge enzo fernandez to man city update with \u2018green light\u2019 given",
     "arsenal verbally agree club record \u00a356 5m sale",
     "arsenal star\u2019s agent in direct contact with club to seal \u20ac65m exit soon",
-    "report: liverpool star still has two premier league suitors"
+    "report: liverpool star still has two premier league suitors",
+    "ornstein reveals next tottenham signing has been \u2018granted permission\u2019 to undergo",
+    "liverpool target deadly \u00a350m winger as two minteh alternatives emerge",
+    "roma attempt to overtake juve in race for kessie"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2593,15 +2593,15 @@
     "perin": "https://r2.thesportsdb.com/images/media/player/cutout/oo0l5m1759222361.png/small",
     "kristjan asllani": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Kristjan_Asllani%2C_FC_Salzburg_gegen_Inter_Mailand_%28UEFA_Championsleague_2023-11-08%29_63_%28cropped%29.jpg/330px-Kristjan_Asllani%2C_FC_Salzburg_gegen_Inter_Mailand_%28UEFA_Championsleague_2023-11-08%29_63_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "joel ordonez": "https://r2.thesportsdb.com/images/media/player/cutout/7te4j61767634434.png/small",
-    "heaven kilwa": "",
     "enzo": "",
     "franck kessie": "",
     "honest anahor": "",
     "andria bartishvili": "",
     "tommy marques": "",
-    "dastan satpayev": ""
+    "dastan satpayev": "",
+    "heaven kilwa": ""
   },
-  "photo_repair_idx": 6,
+  "photo_repair_idx": 7,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

@@ -1,7 +1,5 @@
 {
   "sent": [
-    "c3f8d5c0ef53050a1e15cd70825e9881",
-    "9bf8f1152e8450bcd3fd05bf85552125",
     "47ba9cb79099c923c0f37fa1323c898d",
     "1f4655cf25233feffc2391c90f30752a",
     "b5a3e9a95c1dc479c39e377c7e2009db",
@@ -1499,7 +1497,9 @@
     "998891200d86a99e25ec074f36e3b8eb",
     "b10a7851c53a40abde9e0cdc4c1d7b36",
     "674e4c01a61e7000933ba7e91393b817",
-    "380884391520fd0fcdeec9da127d5e2d"
+    "380884391520fd0fcdeec9da127d5e2d",
+    "a5fad9c207ad64317a3f091f143453a7",
+    "aedffdfdbdbd46090d51f99dd55835f9"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1997,8 +1997,6 @@
     "interest: martinez -> chelsea"
   ],
   "titles": [
-    "aston villa \u2018in contact\u2019 to sign world cup centre back after securing former eur",
-    "'here we go' romano: tottenham agree deal to sign omar marmoush",
     "arsenal in \u00a360m waiting game as julian alvarez transfer saga takes fresh twist",
     "former bayern munich midfielder leon goretzka headed to aston villa per report",
     "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 raphinha: \u201ci\u2019m ready to help and play even as number 9\u201d \u201ci feel comfortabl",
@@ -2296,7 +2294,9 @@
     "ornstein reveals next tottenham signing has been \u2018granted permission\u2019 to undergo",
     "liverpool target deadly \u00a350m winger as two minteh alternatives emerge",
     "roma attempt to overtake juve in race for kessie",
-    "fabrizio romano confirms julian alvarez \u201cabsent\u201d from atletico madrid training a"
+    "fabrizio romano confirms julian alvarez \u201cabsent\u201d from atletico madrid training a",
+    "latest: arsenal stance on barcola emerge as arteta continues to look for attacki",
+    "alejandro balde makes decision on barcelona future amid man utd links"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2593,15 +2593,15 @@
     "perin": "https://r2.thesportsdb.com/images/media/player/cutout/oo0l5m1759222361.png/small",
     "kristjan asllani": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Kristjan_Asllani%2C_FC_Salzburg_gegen_Inter_Mailand_%28UEFA_Championsleague_2023-11-08%29_63_%28cropped%29.jpg/330px-Kristjan_Asllani%2C_FC_Salzburg_gegen_Inter_Mailand_%28UEFA_Championsleague_2023-11-08%29_63_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "joel ordonez": "https://r2.thesportsdb.com/images/media/player/cutout/7te4j61767634434.png/small",
-    "franck kessie": "",
     "honest anahor": "",
     "andria bartishvili": "",
     "tommy marques": "",
     "dastan satpayev": "",
     "heaven kilwa": "",
-    "enzo": ""
+    "enzo": "",
+    "franck kessie": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

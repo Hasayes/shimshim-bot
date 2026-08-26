@@ -1,7 +1,5 @@
 {
   "sent": [
-    "8f599af1006c6e6f5b812df9d1b58844",
-    "a33b23eaa7a0247cf9ae83bf513e818d",
     "18a1e90d823d56c38848cdaf56dcf62f",
     "888257bd6d4e7d54bde08c63c07103df",
     "tg:FabrizioRomanoTG/64572",
@@ -1499,7 +1497,9 @@
     "tg:FabrizioRomanoTG/65373",
     "0afa8720523690be7ef876e42fac1af6",
     "a7d15a1c8145a0648d04495ff6d14513",
-    "4ad746e7f982e627afbaeb8fd15ab502"
+    "4ad746e7f982e627afbaeb8fd15ab502",
+    "435b867ec7229fd95bb79c8af9f197e0",
+    "74f2912bb89c8032f71133f334e3d322"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1997,8 +1997,6 @@
     "interest: martinez -> chelsea"
   ],
   "titles": [
-    "medical tomorrow: details of the tottenham and manchester city agreement over th",
-    "man city agree record breaking \u00a386m deal for sublime ligue 1 midfielder",
     "62 goal arsenal star \u2018open\u2019 to exit as ornstein confirms \u2018talks\u2019 over \u00a360m trans",
     "liverpool 'reach agreement over transfer' as reds handed \u00a370m demand to complete",
     "xabi alonso tries to manifest great cole palmer season with \u201cworld class\u201d commen",
@@ -2296,7 +2294,9 @@
     "\ud83d\udd35 \u26aa\ufe0f \u26a1\ufe0f deportivo de a coruna completed all formal steps to sign adama traore af",
     "transfer rumors, news: barcelona and man united to hold talks over balde deal",
     "bradley barcola transfer to liverpool done with medical next as romano gives upd",
-    "romano drops huge enzo fernandez to man city update with \u2018green light\u2019 given"
+    "romano drops huge enzo fernandez to man city update with \u2018green light\u2019 given",
+    "arsenal verbally agree club record \u00a356 5m sale",
+    "arsenal star\u2019s agent in direct contact with club to seal \u20ac65m exit soon"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2593,15 +2593,15 @@
     "perin": "https://r2.thesportsdb.com/images/media/player/cutout/oo0l5m1759222361.png/small",
     "kristjan asllani": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Kristjan_Asllani%2C_FC_Salzburg_gegen_Inter_Mailand_%28UEFA_Championsleague_2023-11-08%29_63_%28cropped%29.jpg/330px-Kristjan_Asllani%2C_FC_Salzburg_gegen_Inter_Mailand_%28UEFA_Championsleague_2023-11-08%29_63_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "joel ordonez": "https://r2.thesportsdb.com/images/media/player/cutout/7te4j61767634434.png/small",
-    "tommy marques": "",
     "dastan satpayev": "",
     "heaven kilwa": "",
     "enzo": "",
     "franck kessie": "",
     "honest anahor": "",
-    "andria bartishvili": ""
+    "andria bartishvili": "",
+    "tommy marques": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 5,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

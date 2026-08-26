@@ -1,7 +1,5 @@
 {
   "sent": [
-    "47acada9e9a729c305caa4567e69d834",
-    "5ea0a0c3a12dce3aaf4e4d1a6fcb8eb1",
     "tg:FabrizioRomanoTG/64533",
     "tg:FabrizioRomanoTG/64535",
     "tg:FabrizioRomanoTG/64536",
@@ -1499,7 +1497,9 @@
     "208273c8a622fde5f33d8171e0ea1882",
     "tg:FabrizioRomanoTG/65303",
     "88e57d707d366d57f80beb1d0b7f2559",
-    "d0efd73a7948c94fe31b31b1e15d5d95"
+    "d0efd73a7948c94fe31b31b1e15d5d95",
+    "4a848eab661b0a263ce63cee84d82ab1",
+    "a4c6ad980e63b290dcf2bb82af1b5d52"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1991,7 +1991,6 @@
     "interest: david -> atletico madrid"
   ],
   "titles": [
-    "manchester united transfer 'confirmed' after medical as michael carrick gets maj",
     "@nymzeee @gniklas43 don\u2019t worry, others have already taken the exclusive news ze",
     "\ud83d\udea8 \u26a0\ufe0f ollie watkins, out of aston villa squad today as talks are underway with al",
     "\ud83d\udea8 \ud83d\udfe0 \u26ab\ufe0f exclusive: hull city reach verbal agreement to sign mohamed ali cho, here",
@@ -2290,7 +2289,8 @@
     "marmoush to tottenham prompts de zerbi reaction as key duo join savio to face ch",
     "enzo fernandez reportedly accepts man city move as chelsea negotiations could ma",
     "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f gabriel martinelli\u2019s agent are in direct contact with al hilal again to c",
-    "transfer: martinelli\u2019s \u20ac65m move from arsenal \u2018in final stages\u2019"
+    "transfer: martinelli\u2019s \u20ac65m move from arsenal \u2018in final stages\u2019",
+    "wednesday's gossip: villa make offer for palace striker mateta"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2584,7 +2584,6 @@
     "hermann malonga": "",
     "marc guiu": "https://r2.thesportsdb.com/images/media/player/cutout/x4r4991757003409.png/small",
     "amine gouiri": "https://r2.thesportsdb.com/images/media/player/cutout/74eam91766152411.png/small",
-    "honest anahor": "",
     "andria bartishvili": "",
     "tommy marques": "",
     "liam delap": "https://r2.thesportsdb.com/images/media/player/cutout/dxp7ym1757002801.png/small",
@@ -2593,9 +2592,10 @@
     "heaven kilwa": "",
     "gabriel martinelli": "https://r2.thesportsdb.com/images/media/player/cutout/pnwfls1769331152.png/small",
     "enzo": "",
-    "franck kessie": ""
+    "franck kessie": "",
+    "honest anahor": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

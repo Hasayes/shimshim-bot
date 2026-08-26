@@ -1,7 +1,5 @@
 {
   "sent": [
-    "5eb7b241b40c1b7ff0df3b6c6c1a230d",
-    "87891b8a45740000e116a00be65623e7",
     "tg:FabrizioRomanoTG/64564",
     "tg:FabrizioRomanoTG/64566",
     "tg:FabrizioRomanoTG/64567",
@@ -1499,7 +1497,9 @@
     "tg:FabrizioRomanoTG/65346",
     "tg:FabrizioRomanoTG/65347",
     "tg:FabrizioRomanoTG/65348",
-    "tg:FabrizioRomanoTG/65349"
+    "tg:FabrizioRomanoTG/65349",
+    "tg:FabrizioRomanoTG/65352",
+    "tg:FabrizioRomanoTG/65353"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1995,8 +1995,6 @@
     "interest: martinez -> chelsea"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f rb leipzig reach verbal agreement to sign christopher nkunku from ac mila",
-    "fabrizio romano reveals arsenal can afford ambitious transfer following recent c",
     "\ud83d\udea8 \ud83e\ude77 \ud83d\udda4 palermo have agreed deal to sign mattia perin as new goalkeeper from juven",
     "\ud83d\udd35 \ud83d\udd34 barcelona make it five on la liga debut game against elche! brace by raphinh",
     "manchester united preparing to test club\u2019s resolve over \u00a370m rated transfer targ",
@@ -2294,7 +2292,9 @@
     "\ud83d\udea8 \ud83c\udde6\ud83c\uddf7 no negotiations so far between tottenham and emiliano martinez chelsea are ",
     "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f real sociedad reached full verbal agreement with barcelona for hector for",
     "\ud83d\udea8 \ud83d\udfe3 \ud83d\udd35 aston villa have almost closed the agreement with nicolas jackson and his ",
-    "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 breaking: crystal palace agree deal to sign joel ordonez from club brugge "
+    "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 breaking: crystal palace agree deal to sign joel ordonez from club brugge ",
+    "@hltco if he pass the medical, he\u2019s new palace player \ud83d\ude01 \u2014 fabrizio romano ( @fab",
+    "\ud83d\udea8 \ud83d\udfe1 \ud83d\udd34 as roma have made official club to club approach with morato as new centre"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2590,16 +2590,16 @@
     "jonathan david": "https://r2.thesportsdb.com/images/media/player/cutout/nyd9d91759225738.png/small",
     "gabriel martinelli": "https://r2.thesportsdb.com/images/media/player/cutout/pnwfls1769331152.png/small",
     "perin": "https://r2.thesportsdb.com/images/media/player/cutout/oo0l5m1759222361.png/small",
-    "heaven kilwa": "",
     "enzo": "",
     "franck kessie": "",
     "honest anahor": "",
     "kristjan asllani": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Kristjan_Asllani%2C_FC_Salzburg_gegen_Inter_Mailand_%28UEFA_Championsleague_2023-11-08%29_63_%28cropped%29.jpg/330px-Kristjan_Asllani%2C_FC_Salzburg_gegen_Inter_Mailand_%28UEFA_Championsleague_2023-11-08%29_63_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "andria bartishvili": "",
     "tommy marques": "",
-    "dastan satpayev": ""
+    "dastan satpayev": "",
+    "heaven kilwa": ""
   },
-  "photo_repair_idx": 6,
+  "photo_repair_idx": 7,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

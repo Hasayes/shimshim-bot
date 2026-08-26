@@ -1,6 +1,5 @@
 {
   "sent": [
-    "bc662427ebca9aa19c5266626250802f",
     "c22376b63edb58a54ed5c00a72542e62",
     "cd4899f3dfe6796b29ea77f9163b33ab",
     "tg:FabrizioRomanoTG/64528",
@@ -1499,7 +1498,8 @@
     "affbd7d4bb88a49ca055e00b42deaa28",
     "4d11ea1ed850f136f63b6a1d53d05a61",
     "23bff67d3e7b8e66cad9b00e621afe7f",
-    "47676d50d11a51e812b522a42940042f"
+    "47676d50d11a51e812b522a42940042f",
+    "57646db9c58e3aa6598d73cc857de5bc"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1988,7 +1988,6 @@
     "interest: gouiri -> tottenham"
   ],
   "titles": [
-    "this is what must happen if psv are to cooperate with dennis man's departure",
     "liverpool get new bradley barcola and ibrahim mbaye update liverpool fc",
     "liverpool transfer boost as bradley barcola and ibrahima mbaye both dropped from",
     "benfica and aston villa linked with alejandro balde as barcelona star seeks exit",
@@ -2287,7 +2286,8 @@
     "journalist: aston villa keen on move for serie a forward",
     "liverpool make decision on bizarre minteh deal as full injury timeline revealed",
     "livakovic signs for barcelona",
-    "tottenham turn to algeria international as liverpool rule out gakpo transfer"
+    "tottenham turn to algeria international as liverpool rule out gakpo transfer",
+    "liverpool handed major yankuba minteh injury concern amid brighton negotiations"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2583,16 +2583,16 @@
     "ernest poku": "https://r2.thesportsdb.com/images/media/player/cutout/h7u26r1756315418.png/small",
     "hermann malonga": "",
     "marc guiu": "https://r2.thesportsdb.com/images/media/player/cutout/x4r4991757003409.png/small",
-    "enzo": "",
     "franck kessie": "",
     "honest anahor": "",
     "andria bartishvili": "",
     "tommy marques": "",
     "dastan satpayev": "",
     "amine gouiri": "https://r2.thesportsdb.com/images/media/player/cutout/74eam91766152411.png/small",
-    "heaven kilwa": ""
+    "heaven kilwa": "",
+    "enzo": ""
   },
-  "photo_repair_idx": 7,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

@@ -1,8 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/64543",
-    "tg:FabrizioRomanoTG/64545",
-    "913d5fd2dc571dd1eeedfe5b13bb50e6",
     "16deaf83ae84c6168bbaa573b5afb7f2",
     "tg:FabrizioRomanoTG/64546",
     "tg:FabrizioRomanoTG/64547",
@@ -1499,7 +1496,10 @@
     "tg:FabrizioRomanoTG/65308",
     "tg:FabrizioRomanoTG/65309",
     "8048727cc149df05219ee234fc651233",
-    "tg:FabrizioRomanoTG/65316"
+    "tg:FabrizioRomanoTG/65316",
+    "tg:FabrizioRomanoTG/65317",
+    "tg:FabrizioRomanoTG/65319",
+    "tg:FabrizioRomanoTG/65320"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1991,8 +1991,6 @@
     "interest: david -> atletico madrid"
   ],
   "titles": [
-    "\ud83d\udc4b\ud83c\udffc \u2764\ufe0f\u200d\ud83e\ude79 ayyoub bouaddi says goodbye to lille fans as he\u2019s set to complete his ma",
-    "teammate reveals how bayern munich tried \u2014 and failed \u2014 to convince joao palhinh",
     "fabrizio romano exclusive: liverpool target agrees to seal dream lfc transfer on",
     "barcelona top target only wants to move to camp nou amid arsenal interest \u2013 roma",
     "fabrizio romano confirms liverpool are days away from massive transfer",
@@ -2290,7 +2288,9 @@
     "\u26aa\ufe0f \ud83c\uddea\ud83c\uddec omar marmoush contract will be officially signed on thursday, tomorrow \u2014 t",
     "\ud83d\udea8 \ud83d\udfe3 \ud83d\udd35 aston villa have sent their contract proposal to nicolas jackson, long ter",
     "roma awaiting further medical tests for oosterwolde",
-    "\ud83d\udea8 \u26aa\ufe0f \ud83d\udd34 excl: rb leipzig among clubs calling barcelona in the last 48h for marc c"
+    "\ud83d\udea8 \u26aa\ufe0f \ud83d\udd34 excl: rb leipzig among clubs calling barcelona in the last 48h for marc c",
+    "\ud83d\udea8 \ud83d\udd34 \u26ab\ufe0f bayer leverkusen agree deal to sign moussa diaby, here we go! verbal agre",
+    "\ud83e\ude75 \ud83c\uddf2\ud83c\udde6 official: manchester city sign ayyoub bouaddi from lille for \u20ac95m plus \u20ac5m "
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2587,15 +2587,15 @@
     "liam delap": "https://r2.thesportsdb.com/images/media/player/cutout/dxp7ym1757002801.png/small",
     "jonathan david": "https://r2.thesportsdb.com/images/media/player/cutout/nyd9d91759225738.png/small",
     "gabriel martinelli": "https://r2.thesportsdb.com/images/media/player/cutout/pnwfls1769331152.png/small",
-    "franck kessie": "",
     "honest anahor": "",
     "andria bartishvili": "",
     "tommy marques": "",
     "dastan satpayev": "",
     "heaven kilwa": "",
-    "enzo": ""
+    "enzo": "",
+    "franck kessie": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

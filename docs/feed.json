@@ -1,5 +1,30 @@
 [
  {
+  "id": "608035979e2b5ad071d522a9a2a27745",
+  "ts": "2026-08-26T18:15:35+00:00",
+  "kind": "deal",
+  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/uteluc1762963819.png/small",
+  "stage": "Here we go",
+  "player": "Nicolas Jackson",
+  "position": "Striker",
+  "age": "25",
+  "from_club": "Chelsea",
+  "to_club": "Aston Villa",
+  "fee": "\u00a365m",
+  "style": "Energetic forward with good physical presence and directness in attacking play, thrives in high-intensity transitions.",
+  "fit": "Should operate as Emery's central striker to lead Villa's pressing and provide a dynamic, athletic presence in the final third.",
+  "source": "Fabrizio Romano",
+  "summary": "Nicolas Jackson to Aston Villa deal being completed as Chelsea set to accept \u00a365m package. Jackson has agreed to the Villa project and spoken to Unai Emery, with medical next after final details are confirmed.",
+  "outlet": "Telegram @fabrizioromanotg",
+  "url": "https://t.me/FabrizioRomanoTG/65363",
+  "title": "\ud83d\udea8 \ud83d\udfe3 \ud83d\udd35 Nicolas Jackson to Aston Villa deal being completed as Chelsea set to accept \u00a365m package offered by #AVFC . Jacks",
+  "sources": [
+   "The Sunday Guardian",
+   "Fabrizio Romano"
+  ],
+  "srcTier": "tier1"
+ },
+ {
   "id": "tg:FabrizioRomanoTG/65354",
   "ts": "2026-08-26T17:15:34+00:00",
   "kind": "deal",
@@ -940,30 +965,6 @@
    "Fabrizio Romano"
   ],
   "srcTier": "tier1"
- },
- {
-  "id": "608035979e2b5ad071d522a9a2a27745",
-  "ts": "2026-08-22T02:31:40+00:00",
-  "kind": "interest",
-  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/uteluc1762963819.png/small",
-  "stage": "\u2014",
-  "player": "Nicolas Jackson",
-  "position": "Striker",
-  "age": "25",
-  "from_club": "Chelsea",
-  "to_club": "Napoli, Tottenham Hotspur",
-  "fee": "\u00a365m",
-  "style": "A direct, physically imposing striker who combines pace and pressing with an ability to finish in tight situations.",
-  "fit": "His energy and goal threat would suit Aston Villa's high-tempo, transition-based attack; Tottenham would similarly benefit from his pressing and forward runs in behind.",
-  "source": "The Sunday Guardian (Arpan Mondal)",
-  "summary": "Chelsea have placed a \u00a365m valuation on Nicolas Jackson, with Aston Villa and Tottenham Hotspur making concrete approaches and holding talks with the club; Atletico Madrid, despite headline mentions, have reportedly pulled out of the race, while Napoli have also shown interest. Chelsea are open to a permanent sale this summer, though manager Xabi Alonso has suggested Jackson remains part of his plans.",
-  "outlet": "thesundayguardian",
-  "url": "https://sundayguardianlive.com/sports/nicolas-jackson-transfer-latest-news-aston-villa-lead-chelsea-exit-race-for-65m-striker-atletico-madrid-tottenham-hotspur-also-in-pursuit-266589/",
-  "title": "Nicolas Jackson Transfer Latest News: Aston Villa Lead Chelsea Exit Race For \u00a365M Striker; Atletico Madrid, Tottenham Hotspur Also in Pursuit",
-  "sources": [
-   "The Sunday Guardian"
-  ],
-  "srcTier": "standard"
  },
  {
   "id": "tg:FabrizioRomanoTG/64919",

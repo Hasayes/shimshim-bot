@@ -1,10 +1,5 @@
 {
   "sent": [
-    "4dd654e0bf15bfbc50d8d612cdd40cbe",
-    "78cdc69d007466e400857ccbc5d7a18f",
-    "6152641737688b2ec11bd7f27a3d69b7",
-    "f4f28dc2f854890a8d37fa89322e8404",
-    "ca5b2cabd35f7d5d8d0bb2061c287a82",
     "d9ea5e664b5beead005248b1ae81eefb",
     "9940a6c1988d7b0c4ffc4b341ae2271d",
     "tg:FabrizioRomanoTG/64571",
@@ -1499,7 +1494,12 @@
     "ea3b6dfc02ab77a7bd6824af7e403f97",
     "ee970e5a1ace9a1b237156471bb365fb",
     "865d6795bda059d1053f3c170c41e912",
-    "tg:FabrizioRomanoTG/65368"
+    "tg:FabrizioRomanoTG/65368",
+    "5ad153c57c16cd90658a96a5e59ef432",
+    "4e0361271299fe9fc4f724f06b9ce75f",
+    "79385aeb718efedecafad982dd24cac6",
+    "0a3e7050c771af061ea7d56411796e0c",
+    "tg:FabrizioRomanoTG/65372"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1997,11 +1997,6 @@
     "interest: martinez -> chelsea"
   ],
   "titles": [
-    "\"i can't give any guarantees\" \u2013 sporting cp boss rui borges refuses to rule out ",
-    "barcelona play down links with 24 year old portuguese centre back",
-    "fabrizio romano: liverpool have slammed the brakes on move for psg star",
-    "talks ongoing: arsenal discussing selling star for \u00a360m fee",
-    "arsenal set asking price for gabriel martinelli with transfer talks underway met",
     "arsenal in talks with al hilal over gabriel martinelli transfer which would see ",
     "man united target omitted from squad amid fresh transfer development",
     "gabriel martinelli makes u turn on transfer stance as arsenal in talks with new ",
@@ -2296,7 +2291,12 @@
     "fabrizio romano gives liverpool fresh hope of landing 18 year old wonderkid",
     "a decisive development in marmoush's transfer deal to tottenham",
     "fabrizio romano drops bradley barcola to liverpool bombshell \u2013 \u2018at any moment\u2019",
-    "rt @fabrizioromano : \ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f breaking: al hilal have now agreed all details of de"
+    "rt @fabrizioromano : \ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f breaking: al hilal have now agreed all details of de",
+    "decisive development in marmoush's transfer to tottenham",
+    "sunderland transfer latest: \u00a319 7m deal completed as fresh everton defender link",
+    "fabrizio romano confirms agreement reached for liverpool midfielder deal",
+    "romano confirms out of favour midfielder has agreed terms to leave liverpool",
+    "\ud83d\udea8 \ud83d\udd35 chelsea are in advanced talks over \u20ac40m deal for honest ahanor from atalanta"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2593,15 +2593,15 @@
     "perin": "https://r2.thesportsdb.com/images/media/player/cutout/oo0l5m1759222361.png/small",
     "kristjan asllani": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Kristjan_Asllani%2C_FC_Salzburg_gegen_Inter_Mailand_%28UEFA_Championsleague_2023-11-08%29_63_%28cropped%29.jpg/330px-Kristjan_Asllani%2C_FC_Salzburg_gegen_Inter_Mailand_%28UEFA_Championsleague_2023-11-08%29_63_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "joel ordonez": "https://r2.thesportsdb.com/images/media/player/cutout/7te4j61767634434.png/small",
-    "franck kessie": "",
     "honest anahor": "",
     "andria bartishvili": "",
     "tommy marques": "",
     "dastan satpayev": "",
     "heaven kilwa": "",
-    "enzo": ""
+    "enzo": "",
+    "franck kessie": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

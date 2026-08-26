@@ -1,9 +1,5 @@
 {
   "sent": [
-    "d7038b831ae108333b3529d322248df6",
-    "ebeaca0b0073831787880e8cb431e669",
-    "a9e0ea34f1534cdf21ffc165ba5e601b",
-    "3bc776fae4ebb4a44b78e823484a2d6a",
     "6b2796ddc7dc15dff8612edc936cab10",
     "70bfb3ec5cc69081b901e6143c1095f9",
     "61da7a7c13980609897b31f3998c6607",
@@ -1499,7 +1495,11 @@
     "978abba927666e60a9a9207e624472ba",
     "d52d19baed86a55797f5cb6deeba51c5",
     "a70da4144a5a2e4196fa3483418e402a",
-    "8db98a8b379481f6b62ac64b08acdbca"
+    "8db98a8b379481f6b62ac64b08acdbca",
+    "d8c294c3b4383cb8b32fc6592edf0a92",
+    "6d7cf1d40fd45c186f381f1efc9be8ec",
+    "0cf35d0480a490bc477543b686671374",
+    "aebaa684320e35637b4df67c180b18f8"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1994,13 +1994,10 @@
     "interest: gouiri -> tottenham",
     "interest: david -> atletico madrid",
     "interest: sarr -> liverpool",
-    "interest: martinez -> chelsea"
+    "interest: martinez -> chelsea",
+    "interest: sorloth -> juventus"
   ],
   "titles": [
-    "man united linked barcelona defender believes he is being \u201cpushed out\u201d of the cl",
-    "barcelona latest transfer update: hamza abdelkarim set for new contract talks af",
-    "tottenham deal done for omar marmoush as insider reveals what man city double ra",
-    "fabrizio romano reveals \u20ac50m star feels pushed out after man utd hold agent talk",
     "man city land \u20ac100m wonderkid as bouaddi says goodbye to lille",
     "left back linked to manchester united wants to stay at club",
     "man utd handed boost in race to sign 'one of the best full backs'",
@@ -2296,11 +2293,14 @@
     "fc barcelona heavyweight decides to stay at club before athletic clash",
     "romano: ligue 1 giants make approach for tottenham player de zerbi called 'cruci",
     "a swift move: barcelona chase the cousin of a bayern munich star",
-    "\u201cclosing in on personal terms agreement\u201d: fabrizio romano confirms imminent live"
+    "\u201cclosing in on personal terms agreement\u201d: fabrizio romano confirms imminent live",
+    "man utd suffer huge transfer blow in bid to sign alejandro balde as he gives bar",
+    "video: newcastle united transfer target spotted arriving as \u00a350m deal close to c",
+    "juventus have two options to offer atletico in exchange for sorloth, including d",
+    "romano provides update on man city \u2018hijack\u2019 for gakpo as one condition gives tot"
   ],
   "tg_update_offset": 263617426,
   "photos": {
-    "ayyoub bouaddi": "https://r2.thesportsdb.com/images/media/player/cutout/g1bppf1766077416.png/small",
     "exequiel zeballos": "https://r2.thesportsdb.com/images/media/player/cutout/qpm5c11750031248.png/small",
     "eduardo camavinga": "https://r2.thesportsdb.com/images/media/player/cutout/viijpx1733653403.png/small",
     "pau lopez": "https://r2.thesportsdb.com/images/media/player/cutout/zexyoj1762603058.png/small",
@@ -2593,15 +2593,16 @@
     "perin": "https://r2.thesportsdb.com/images/media/player/cutout/oo0l5m1759222361.png/small",
     "kristjan asllani": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Kristjan_Asllani%2C_FC_Salzburg_gegen_Inter_Mailand_%28UEFA_Championsleague_2023-11-08%29_63_%28cropped%29.jpg/330px-Kristjan_Asllani%2C_FC_Salzburg_gegen_Inter_Mailand_%28UEFA_Championsleague_2023-11-08%29_63_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "joel ordonez": "https://r2.thesportsdb.com/images/media/player/cutout/7te4j61767634434.png/small",
-    "dastan satpayev": "",
     "heaven kilwa": "",
     "enzo": "",
     "franck kessie": "",
     "honest anahor": "",
     "andria bartishvili": "",
-    "tommy marques": ""
+    "tommy marques": "",
+    "sorloth": "https://r2.thesportsdb.com/images/media/player/cutout/v3of4b1762288730.png/small",
+    "dastan satpayev": ""
   },
-  "photo_repair_idx": 5,
+  "photo_repair_idx": 6,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

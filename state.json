@@ -1,8 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/64562",
-    "aa698bb12fbffb049707b2639d621e08",
-    "defc9779ffccfe9172cffc209af7ae5b",
     "37da9f6b3b70e70b9291a67c08f7c9bc",
     "tg:FabrizioRomanoTG/64563",
     "5eb7b241b40c1b7ff0df3b6c6c1a230d",
@@ -1499,7 +1496,10 @@
     "tg:FabrizioRomanoTG/65334",
     "tg:FabrizioRomanoTG/65339",
     "tg:FabrizioRomanoTG/65342",
-    "tg:FabrizioRomanoTG/65343"
+    "tg:FabrizioRomanoTG/65343",
+    "tg:FabrizioRomanoTG/65344",
+    "tg:FabrizioRomanoTG/65346",
+    "tg:FabrizioRomanoTG/65347"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1760,7 +1760,9 @@
     "sarr -> real sociedad": 1,
     "poku -> besiktas": 1,
     "delap -> nottingham forest": 1,
-    "martinelli -> al hilal": 1
+    "martinelli -> al hilal": 1,
+    "asllani -> al jazira": 1,
+    "fort -> real sociedad": 1
   },
   "interest": [
     "interest: alvarez -> arsenal",
@@ -1993,9 +1995,6 @@
     "interest: martinez -> chelsea"
   ],
   "titles": [
-    "ac milan, mendes offers balde: the situation",
-    "man utd must smash world record for lewis hall transfer as five plan b options c",
-    "\ud83d\udd34 \ud83d\udd35 brace on paris saint germain debut for ferran torres! \ud83c\uddea\ud83c\uddf8 points are shared w",
     "newcastle gets major nico gonzalez boost after man city\u2019s message to midfielder",
     "\ud83d\udea8 \ud83d\udfe0 \u26ab\ufe0f excl: alan matturro to shakhtar donetsk, deal set to be agreed for \u20ac5 5m ",
     "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f rb leipzig reach verbal agreement to sign christopher nkunku from ac mila",
@@ -2292,11 +2291,13 @@
     "\ud83d\udea8 \ud83d\udd35 chelsea are in negotiations with emiliano \u2018dibu\u2019 martinez camp over possible",
     "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 crystal palace reject \u00a350m bid from liverpool for ismaila sarr #cpfc insis",
     "\ud83d\udea8 \u26ab\ufe0f \ud83d\udd35 agreement closed between inter and pio esposito over new contract until j",
-    "\ud83d\udcfa new youtube video uploaded! \ud83c\udfac \ud83d\udea8 \ud83d\udca3 \u00a350m bid! bomba dibu! julian war! barca unit"
+    "\ud83d\udcfa new youtube video uploaded! \ud83c\udfac \ud83d\udea8 \ud83d\udca3 \u00a350m bid! bomba dibu! julian war! barca unit",
+    "\ud83d\udea8 \ud83c\udde6\ud83c\uddea kristjan asllani has agreed to join al jazira from inter, here we go! \ud83c\udde6\ud83c\uddf1 ve",
+    "\ud83d\udea8 \ud83c\udde6\ud83c\uddf7 no negotiations so far between tottenham and emiliano martinez chelsea are ",
+    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f real sociedad reached full verbal agreement with barcelona for hector for"
   ],
   "tg_update_offset": 263617426,
   "photos": {
-    "federico ravaglia": "https://r2.thesportsdb.com/images/media/player/cutout/vtnz8h1758897431.png/small",
     "francisco trincao": "https://r2.thesportsdb.com/images/media/player/cutout/7xcl5d1762290739.png/small",
     "ayyoub bouaddi": "https://r2.thesportsdb.com/images/media/player/cutout/g1bppf1766077416.png/small",
     "exequiel zeballos": "https://r2.thesportsdb.com/images/media/player/cutout/qpm5c11750031248.png/small",
@@ -2588,16 +2589,17 @@
     "liam delap": "https://r2.thesportsdb.com/images/media/player/cutout/dxp7ym1757002801.png/small",
     "jonathan david": "https://r2.thesportsdb.com/images/media/player/cutout/nyd9d91759225738.png/small",
     "gabriel martinelli": "https://r2.thesportsdb.com/images/media/player/cutout/pnwfls1769331152.png/small",
-    "andria bartishvili": "",
     "perin": "https://r2.thesportsdb.com/images/media/player/cutout/oo0l5m1759222361.png/small",
     "tommy marques": "",
     "dastan satpayev": "",
     "heaven kilwa": "",
     "enzo": "",
     "franck kessie": "",
-    "honest anahor": ""
+    "honest anahor": "",
+    "kristjan asllani": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Kristjan_Asllani%2C_FC_Salzburg_gegen_Inter_Mailand_%28UEFA_Championsleague_2023-11-08%29_63_%28cropped%29.jpg/330px-Kristjan_Asllani%2C_FC_Salzburg_gegen_Inter_Mailand_%28UEFA_Championsleague_2023-11-08%29_63_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "andria bartishvili": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",
@@ -2762,6 +2764,7 @@
     "al shabab": "https://images.fotmob.com/image_resources/logo/teamlogo/101916.png",
     "fc lorient": "https://r2.thesportsdb.com/images/media/team/badge/sxsttw1473504748.png/small",
     "racing": "https://r2.thesportsdb.com/images/media/team/badge/vi4mu41695734959.png/small",
-    "palermo": "https://r2.thesportsdb.com/images/media/team/badge/zi1tb01579708939.png/small"
+    "palermo": "https://r2.thesportsdb.com/images/media/team/badge/zi1tb01579708939.png/small",
+    "al jazira": "https://r2.thesportsdb.com/images/media/team/badge/uknsoq1642708421.png/small"
   }
 }

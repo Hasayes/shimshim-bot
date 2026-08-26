@@ -1,9 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/64566",
-    "tg:FabrizioRomanoTG/64567",
-    "11bfc0e8411e0b5912a8f56fa235974c",
-    "30bbb99949e50eb1eae917f8f22d2573",
     "1d8475e0b1b463748d1bacf2beeacaad",
     "e9ed32f85aa3e92c1ec91a7aef0c42f6",
     "f98640e723740b0c0d198b73a749d33a",
@@ -1499,7 +1495,11 @@
     "tg:FabrizioRomanoTG/65349",
     "tg:FabrizioRomanoTG/65352",
     "tg:FabrizioRomanoTG/65353",
-    "39fc01fd0dbf6dab4bdbbca4b366f8a8"
+    "39fc01fd0dbf6dab4bdbbca4b366f8a8",
+    "bba1765692ea921b2105392e055b40b5",
+    "e78be0c19366d4e489d9dd981f74d56b",
+    "tg:FabrizioRomanoTG/65354",
+    "tg:FabrizioRomanoTG/65357"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1762,7 +1762,8 @@
     "delap -> nottingham forest": 1,
     "martinelli -> al hilal": 1,
     "asllani -> al jazira": 1,
-    "fort -> real sociedad": 1
+    "fort -> real sociedad": 1,
+    "ordonez -> crystal palace": 1
   },
   "interest": [
     "interest: alvarez -> arsenal",
@@ -1995,10 +1996,6 @@
     "interest: martinez -> chelsea"
   ],
   "titles": [
-    "\ud83d\udd35 \ud83d\udd34 barcelona make it five on la liga debut game against elche! brace by raphinh",
-    "manchester united preparing to test club\u2019s resolve over \u00a370m rated transfer targ",
-    "arsenal make victor gyokeres decision after victor osimhen approach",
-    "done: bouaddi puts one foot in manchester city",
     "after 12 months man utd officially have the midfielder they always wanted",
     "arsenal meeting with atletico madrid over julian alvarez transfer revealed",
     "man utd monitoring ismaila sarr as galatasaray push for crystal palace breakthro",
@@ -2294,11 +2291,14 @@
     "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 breaking: crystal palace agree deal to sign joel ordonez from club brugge ",
     "@hltco if he pass the medical, he\u2019s new palace player \ud83d\ude01 \u2014 fabrizio romano ( @fab",
     "\ud83d\udea8 \ud83d\udfe1 \ud83d\udd34 as roma have made official club to club approach with morato as new centre",
-    "liverpool's dream end to transfer window as bradley barcola joins and \u00a370m star "
+    "liverpool's dream end to transfer window as bradley barcola joins and \u00a370m star ",
+    "romano drops liverpool transfer bombshell as reds make \u00a350m offer for premier le",
+    "nico gonzalez set to join newcastle united in \u00a350 million deal",
+    "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 crystal palace and club brugge have already prepared all paperwork for joe",
+    "\ud83d\udea8 \ud83d\udd35 exclusive story, confirmed: chelsea are now advancing in club to club talks "
   ],
   "tg_update_offset": 263617426,
   "photos": {
-    "francisco trincao": "https://r2.thesportsdb.com/images/media/player/cutout/7xcl5d1762290739.png/small",
     "ayyoub bouaddi": "https://r2.thesportsdb.com/images/media/player/cutout/g1bppf1766077416.png/small",
     "exequiel zeballos": "https://r2.thesportsdb.com/images/media/player/cutout/qpm5c11750031248.png/small",
     "eduardo camavinga": "https://r2.thesportsdb.com/images/media/player/cutout/viijpx1733653403.png/small",
@@ -2590,16 +2590,17 @@
     "jonathan david": "https://r2.thesportsdb.com/images/media/player/cutout/nyd9d91759225738.png/small",
     "gabriel martinelli": "https://r2.thesportsdb.com/images/media/player/cutout/pnwfls1769331152.png/small",
     "perin": "https://r2.thesportsdb.com/images/media/player/cutout/oo0l5m1759222361.png/small",
-    "franck kessie": "",
     "honest anahor": "",
     "kristjan asllani": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Kristjan_Asllani%2C_FC_Salzburg_gegen_Inter_Mailand_%28UEFA_Championsleague_2023-11-08%29_63_%28cropped%29.jpg/330px-Kristjan_Asllani%2C_FC_Salzburg_gegen_Inter_Mailand_%28UEFA_Championsleague_2023-11-08%29_63_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "andria bartishvili": "",
     "tommy marques": "",
     "dastan satpayev": "",
     "heaven kilwa": "",
-    "enzo": ""
+    "enzo": "",
+    "joel ordonez": "https://r2.thesportsdb.com/images/media/player/cutout/7te4j61767634434.png/small",
+    "franck kessie": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

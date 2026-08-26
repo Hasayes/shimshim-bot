@@ -1,8 +1,5 @@
 {
   "sent": [
-    "6b0f4ac4524db982132a2a4e3cad4eac",
-    "tg:FabrizioRomanoTG/64553",
-    "8ad25e517cbaf12a4bf9022a3378dc98",
     "c78313d9df6a72527dcf5a7041922730",
     "e265f1dde96973b33000735c0f70982c",
     "tg:FabrizioRomanoTG/64557",
@@ -1499,7 +1496,10 @@
     "tg:FabrizioRomanoTG/65325",
     "ff0d3dd935da40b0bb46b124662ef296",
     "tg:FabrizioRomanoTG/65326",
-    "tg:FabrizioRomanoTG/65327"
+    "tg:FabrizioRomanoTG/65327",
+    "31297b8193c1c69fcfbaef4cb4976130",
+    "494f4af8ef1fa4ada80130a1ba8acbb3",
+    "tg:FabrizioRomanoTG/65329"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1992,9 +1992,6 @@
     "interest: sarr -> liverpool"
   ],
   "titles": [
-    "barcelona begin negotiations with forward\u2019s agent amid plans to convert him into",
-    "romano: liverpool agree personal terms with \u2018unpredictable\u2019 gem who \u2018dreams of j",
-    "alejandro balde decides to leave barcelona as man utd open transfer talks",
     "documents all signed & exchanged: fabrizio romano says imminent man utd signing ",
     "transfer news live: arsenal get huge alvarez boost; man utd done deal; chelsea t",
     "ac milan waiting for newcastle\u2019s offer despite christopher nkunku\u2019s preference: ",
@@ -2291,7 +2288,10 @@
     "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f exequiel palacios travelling now to complete ipswich town move, here we g",
     "official: perin leaves juventus to join palermo in serie b",
     "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f sunderland have reached verbal agreement on personal terms with igor paix",
-    "\ud83d\udea8 \ud83d\udca3 exclusive: liverpool open talks to sign ismaila sarr as new winger! \ud83d\udd34 \ud83c\uddf8\ud83c\uddf3 mov"
+    "\ud83d\udea8 \ud83d\udca3 exclusive: liverpool open talks to sign ismaila sarr as new winger! \ud83d\udd34 \ud83c\uddf8\ud83c\uddf3 mov",
+    "\ud83d\udea8 transfer windfall for club: bundesliga star joins pl for nearly \u00a330m",
+    "\ud83d\udea8 sold for \u20ac55m two years ago! reports: bundesliga club re signs star",
+    "rt @fabrizioromano : \ud83d\udea8 \ud83d\udca3 exclusive: liverpool open talks to sign ismaila sarr as"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2587,16 +2587,16 @@
     "liam delap": "https://r2.thesportsdb.com/images/media/player/cutout/dxp7ym1757002801.png/small",
     "jonathan david": "https://r2.thesportsdb.com/images/media/player/cutout/nyd9d91759225738.png/small",
     "gabriel martinelli": "https://r2.thesportsdb.com/images/media/player/cutout/pnwfls1769331152.png/small",
-    "dastan satpayev": "",
     "heaven kilwa": "",
     "enzo": "",
     "franck kessie": "",
     "honest anahor": "",
     "andria bartishvili": "",
     "perin": "https://r2.thesportsdb.com/images/media/player/cutout/oo0l5m1759222361.png/small",
-    "tommy marques": ""
+    "tommy marques": "",
+    "dastan satpayev": ""
   },
-  "photo_repair_idx": 5,
+  "photo_repair_idx": 6,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

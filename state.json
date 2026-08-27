@@ -1,6 +1,5 @@
 {
   "sent": [
-    "ef7a03517f0c0d7b35cf93be2cd52b47",
     "c6291fdc3702f7f77aa71ea9d13bd951",
     "a0c4872d253ee0aa8c665c39656df733",
     "e2e4705c107064ab7804095e725c5f50",
@@ -1499,7 +1498,8 @@
     "tg:FabrizioRomanoTG/65392",
     "9547ae52e2406c17dbd45dab17200a78",
     "328fd49a06b9e6a79c59869431d04d61",
-    "tg:FabrizioRomanoTG/65393"
+    "tg:FabrizioRomanoTG/65393",
+    "ffdf02f958c647077e95de171b178f17"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2001,7 +2001,6 @@
     "interest: reggiani -> milan"
   ],
   "titles": [
-    "permanent deal, no loan: romano issues update on chelsea star set to leave the c",
     "just in: arsenal involved in talks over the transfer of 25 year old attacker",
     "al hilal transfer latest news: gabriel martinelli emerges as \u00a350m arsenal exit t",
     "liverpool \u2018third bid\u2019 for minteh revealed as journalist lifts lid on timeline fo",
@@ -2300,7 +2299,8 @@
     "\u2018chelsea are now advancing\u2019: romano drops exciting update as blues closing in on",
     "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f marc guiu wants napoli as a priority over proposals from spain as persona",
     "milan, battle with inter for borussia dortmund\u2019s reggiani: the defender has been",
-    "\ud83d\udea8 \ud83d\udd35 emiliano martinez already said yes to chelsea project he wants the move and "
+    "\ud83d\udea8 \ud83d\udd35 emiliano martinez already said yes to chelsea project he wants the move and ",
+    "fabrizio romano latest hints liverpool have dropped psg winger pursuit"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2596,16 +2596,16 @@
     "sorloth": "https://r2.thesportsdb.com/images/media/player/cutout/v3of4b1762288730.png/small",
     "bryan zaragoza": "https://images.fotmob.com/image_resources/playerimages/1202525.png",
     "exequiel palacios": "https://r2.thesportsdb.com/images/media/player/cutout/oby41y1756316369.png/small",
-    "andria bartishvili": "",
     "tommy marques": "",
     "dastan satpayev": "",
     "heaven kilwa": "",
     "enzo": "",
     "reggiani": "https://r2.thesportsdb.com/images/media/player/cutout/6kn1261773670363.png/small",
     "franck kessie": "",
-    "honest anahor": ""
+    "honest anahor": "",
+    "andria bartishvili": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

@@ -1,9 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/64615",
-    "178564bc46d25d1b0757a9d69b97be59",
-    "92eac8c627ffe1c1ef039d6292c1cece",
-    "9fa1059679c3dfcee91c4b9a206996e6",
     "tg:FabrizioRomanoTG/64617",
     "4b3605811e07941a17b54ce10dffd074",
     "58e2de7eb537f5cdffa14040a8fa7c3f",
@@ -1499,7 +1495,11 @@
     "tg:FabrizioRomanoTG/65389",
     "60a0ab37b06e776b282dd90dcbda1232",
     "10827971cc428fae5f45f5faf698b6ac",
-    "12046b2b48769c77b00351b9bcb182f5"
+    "12046b2b48769c77b00351b9bcb182f5",
+    "4c5573bd41b967953861337a4cf36e0a",
+    "ab402b978cb5bd9fa0e3f33e111b4b2f",
+    "97f5a04b7760b5ac04c5133d50341374",
+    "tg:FabrizioRomanoTG/65391"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2000,10 +2000,6 @@
     "interest: sorloth -> juventus"
   ],
   "titles": [
-    "al hilal make decision on pursuit of chelsea winger neto",
-    "\u2018new official bid\u2019 from tottenham for cody gakpo revealed as stunning \u2018plan b\u2019 e",
-    "barcelona boss insists he has not told man united target balde to leave",
-    "newcastle advancing in talks to sign manchester city midfielder",
     "chelsea boss speaks about mykhailo mudryk amid coventry city and leeds united tr",
     "\ud83d\udcfa new youtube video uploaded! \ud83c\udfac \ud83d\udea8 \ud83d\udca3 one to go! \u20ac40m deal done! leao, enzo, marti",
     "di gregorio to bournemouth: a penalty clause protects juventus",
@@ -2299,7 +2295,11 @@
     "why alejandro balde and mateus fernandes were a 'red flag' for man utd chief jas",
     "\ud83d\udea8 \ud83d\udd34 liverpool are now at the final stages of bradley barcola deal with psg the n",
     "al hilal agree \u00a351million ollie watkins transfer with aston villa set to sign ni",
-    "report: turnaround for arijon ibrahimovic as bayern munich looks set to let him "
+    "report: turnaround for arijon ibrahimovic as bayern munich looks set to let him ",
+    "arsenal get clearest indication yet of julian alvarez transfer as atletico want ",
+    "report: sunderland make stunning move for \u00a3100m man city star",
+    "journo clears the air on potential clauses in omar marmoush\u2019s transfer to totten",
+    "\ud83d\udea8 \u26aa\ufe0f omar marmoush has signed his contract as new tottenham hotspur player https"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2596,15 +2596,15 @@
     "sorloth": "https://r2.thesportsdb.com/images/media/player/cutout/v3of4b1762288730.png/small",
     "bryan zaragoza": "https://images.fotmob.com/image_resources/playerimages/1202525.png",
     "exequiel palacios": "https://r2.thesportsdb.com/images/media/player/cutout/oby41y1756316369.png/small",
-    "heaven kilwa": "",
     "enzo": "",
     "franck kessie": "",
     "honest anahor": "",
     "andria bartishvili": "",
     "tommy marques": "",
-    "dastan satpayev": ""
+    "dastan satpayev": "",
+    "heaven kilwa": ""
   },
-  "photo_repair_idx": 6,
+  "photo_repair_idx": 7,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

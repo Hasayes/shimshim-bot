@@ -1,6 +1,5 @@
 {
   "sent": [
-    "d0a1672efa71e4b42394f7f5a7b57be6",
     "3c0799e3262bd47469902a71ce3cd9bb",
     "5eb5f4b98b44cb3bccb2d7d3ec31f1bc",
     "tg:FabrizioRomanoTG/64629",
@@ -1499,7 +1498,8 @@
     "5e30e8e729884572652581d019cb5c2a",
     "43b3ebe71b1984ac08e226c83795339f",
     "df4f465050f9d249122908bbe55adcff",
-    "8151d54ef4de9a41c713767b9c318f04"
+    "8151d54ef4de9a41c713767b9c318f04",
+    "6b73dbbbbb789b047dbe46a10a4351f5"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2007,7 +2007,6 @@
     "interest: reggiani -> milan"
   ],
   "titles": [
-    "transfer news live: arsenal push for alvarez, man city target liverpool winger, ",
     "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f enzo fernandez have his green light to manchester city as he\u2019s open to mo",
     "arsenal make final decision on selling lewis skelly to man utd with red devils \u2018",
     "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f gabriel martinelli\u2019s move to al hilal, at the final stages between clubs ",
@@ -2306,7 +2305,8 @@
     "liverpool transfer latest news: reds close in on dream target bradley barcola in",
     "wilson isidor signs new sunderland contract to end summer transfer speculation",
     "ipswich strike shock loan deal for tammy abraham as aston villa close in on nico",
-    "\u00a343m star still an option for chelsea and man united now surely out of transfer "
+    "\u00a343m star still an option for chelsea and man united now surely out of transfer ",
+    "true: arsenal were ready to match liverpool\u2019s bradley barcola bid with late tran"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2603,15 +2603,15 @@
     "samuele ricci": "https://r2.thesportsdb.com/images/media/player/cutout/syjck91758893445.png/small",
     "oscar naasei": "https://www.thesportsdb.com/images/media/player/cutout/rdeu891787755506.png/small",
     "heaven kilwa": "",
-    "andria bartishvili": "",
     "michael zetterer": "https://r2.thesportsdb.com/images/media/player/cutout/5ucd981762977059.png/small",
     "tommy marques": "",
     "dastan satpayev": "",
     "enzo": "",
     "franck kessie": "",
-    "honest anahor": ""
+    "honest anahor": "",
+    "andria bartishvili": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

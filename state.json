@@ -1,7 +1,5 @@
 {
   "sent": [
-    "25dcb6df41afa689ebf31d7926ddbdb8",
-    "0ab53cefbf9b3ec53dcb3ab40351b44c",
     "e1c385377e33d170e036463a7b33f5f9",
     "tg:FabrizioRomanoTG/64580",
     "fc7d826361db2177c8692a98b2bd469f",
@@ -1499,7 +1497,9 @@
     "1e28fd4e3925472b598aa31a0c386f30",
     "bb677ce630e62945e201c7483ae78210",
     "a03cb1debc55c728868e9b3cdddbe229",
-    "c00ff2117f4fed8504d0278a5d6d516c"
+    "c00ff2117f4fed8504d0278a5d6d516c",
+    "4ad6807c318daf59c548b2e396a023bf",
+    "7440a2f7469a0863fd6497d6d523f637"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2000,8 +2000,6 @@
     "interest: sorloth -> juventus"
   ],
   "titles": [
-    "ousmane dembele makes final transfer decision in major blow to arsenal, chelsea ",
-    "barcelona brace for deja vu as psg set sights on dembele",
     "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f al hilal are getting closer to gabriel martinelli deal done after club to",
     "arsenal news: fresh julian alvarez meeting held as update issued on \u00a385m target",
     "manchester city would make a loss with former frankfurt man! omar marmoush's med",
@@ -2299,7 +2297,9 @@
     "liverpool may not make a third bid for winger target",
     "fabrizio romano drops liverpool winger bombshell as shock \u00a350m bid launched",
     "fabrizio romano drops liverpool winger bombshell as shock \u00a350m bid launched team",
-    "david ornstein reveals chelsea are considering emiliano martinez transfer follow"
+    "david ornstein reveals chelsea are considering emiliano martinez transfer follow",
+    "barcelona double down on julian alvarez or nothing stance as deadline day approa",
+    "napoli lodge offer to onboard young chelsea castoff"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2594,7 +2594,6 @@
     "kristjan asllani": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Kristjan_Asllani%2C_FC_Salzburg_gegen_Inter_Mailand_%28UEFA_Championsleague_2023-11-08%29_63_%28cropped%29.jpg/330px-Kristjan_Asllani%2C_FC_Salzburg_gegen_Inter_Mailand_%28UEFA_Championsleague_2023-11-08%29_63_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "joel ordonez": "https://r2.thesportsdb.com/images/media/player/cutout/7te4j61767634434.png/small",
     "sorloth": "https://r2.thesportsdb.com/images/media/player/cutout/v3of4b1762288730.png/small",
-    "enzo": "",
     "franck kessie": "",
     "honest anahor": "",
     "bryan zaragoza": "https://images.fotmob.com/image_resources/playerimages/1202525.png",
@@ -2602,9 +2601,10 @@
     "tommy marques": "",
     "exequiel palacios": "https://r2.thesportsdb.com/images/media/player/cutout/oby41y1756316369.png/small",
     "dastan satpayev": "",
-    "heaven kilwa": ""
+    "heaven kilwa": "",
+    "enzo": ""
   },
-  "photo_repair_idx": 7,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

@@ -1,8 +1,5 @@
 {
   "sent": [
-    "3b2d8ef30e82cfc23d30cb6a1d10595c",
-    "084126ea2ce3f4c94554ac1637ef04e9",
-    "3368207a392f2a787c728023f12136c6",
     "5814e0552f2359a45ae5647d642a910a",
     "86d0e4e69593599597406addd7758368",
     "4ce23bcf2a203719a00153059783c249",
@@ -1499,7 +1496,10 @@
     "tg:FabrizioRomanoTG/65454",
     "c473c667723a7435e9820c4ae8e2d739",
     "6670fda52b1c98cec0c12fbb91a7f15e",
-    "92da9a6feff7844aa9893c44a6febc9c"
+    "92da9a6feff7844aa9893c44a6febc9c",
+    "3854a41e7d48c33f313601ec43ec2d66",
+    "2b6a817b760ca0f2abf091fe246de2c8",
+    "b50191b014cec8dd8e36b37a75dc5ecf"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2006,9 +2006,6 @@
     "interest: reggiani -> milan"
   ],
   "titles": [
-    "\ud83d\udd35 \u26aa\ufe0f \ud83c\udde6\ud83c\uddf7 discussions ongoing about the fee for boca juniors in case of exequiel z",
-    "\ud83d\udea8 \ud83c\udde6\ud83c\uddea excl: al jazira have reached a verbal agreement with inter for kristjan asl",
-    "\u26ab\ufe0f \u26aa\ufe0f \ud83c\uddea\ud83c\uddf8 nico gonzalez, in newcastle today for medical and contract signing afte",
     "\ud83d\udea8 \ud83d\udfe3 \ud83d\udd35 nicolas jackson remains aston villa priority target as reported last week ",
     "@free_steelo7 @luka_thfc they said i jumped the gun for nico and he\u2019s now in new",
     "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f juventus mantain active talks with franck kessie today in order to try g",
@@ -2305,7 +2302,10 @@
     "\ud83d\udea8 \u274c jayden oosterwolde to as roma deal has now collapsed after extra medical tes",
     "internal talks ongoing as romano confirms rival player says \u2018yes\u2019 to chelsea mov",
     "julian alvarez misses atletico madrid training again in transfer boost for arsen",
-    "aston villa strike full agreement for jackson and step up leao hijack in \u00a3103m d"
+    "aston villa strike full agreement for jackson and step up leao hijack in \u00a3103m d",
+    "barcola to liverpool now in \u2018final stages\u2019 as fabrizio romano issues thursday mo",
+    "breaking: liverpool reach \u2018agreement in principle\u2019 to sign bradley barcola from ",
+    "transfer: emi martinez gives green light for chelsea move"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2603,14 +2603,14 @@
     "samuele ricci": "https://r2.thesportsdb.com/images/media/player/cutout/syjck91758893445.png/small",
     "oscar naasei": "https://www.thesportsdb.com/images/media/player/cutout/rdeu891787755506.png/small",
     "heaven kilwa": "",
-    "andria bartishvili": "",
     "tommy marques": "",
     "dastan satpayev": "",
     "enzo": "",
     "franck kessie": "",
-    "honest anahor": ""
+    "honest anahor": "",
+    "andria bartishvili": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

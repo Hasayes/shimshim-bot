@@ -1,6 +1,5 @@
 {
   "sent": [
-    "61e0d30067e58957a8f1cae5f1c63ea0",
     "549c87da4384f163f68cd2978ed39126",
     "b43b26d82dde20975df7bffea990af22",
     "9e633b08127d5fd4c31608c2497cc1b1",
@@ -1499,7 +1498,8 @@
     "efc23dd44698fc95cc24b76324245ad9",
     "6fa924206b24164420bfaac15a4dfa99",
     "8199cde3af5e562fd7a4d318f8b4c19a",
-    "tg:FabrizioRomanoTG/65463"
+    "tg:FabrizioRomanoTG/65463",
+    "f6f0eef8c3ccff2f34f0db624fe8b4c5"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2009,7 +2009,6 @@
     "interest: reggiani -> milan"
   ],
   "titles": [
-    "juventus, the sale of michele di gregorio to bournemouth is official: juventus p",
     "nkunku nears leipzig return as milan approve loan with \u20ac28m option",
     "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 nothing advanced or concrete so far for castello lukeba to barcelona despi",
     "failed medical examination at lazio: bamba dieng plays for his future at red sta",
@@ -2308,7 +2307,8 @@
     "romano: man utd in advanced talks with fiorentina after official joshua zirkzee ",
     "fiorentina submit bid for joshua zirkzee",
     "has liverpool just pulled off the biggest transfer of the summer?",
-    "\ud83d\udea8 \ud83c\uddea\ud83c\uddf8 leganes are confident to complete all final details of alvaro morata deal o"
+    "\ud83d\udea8 \ud83c\uddea\ud83c\uddf8 leganes are confident to complete all final details of alvaro morata deal o",
+    "man utd receive \u2018official bid\u2019 as fabrizio romano reveals \u2018deal on\u2019 with serie a"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2604,16 +2604,16 @@
     "oscar naasei": "https://www.thesportsdb.com/images/media/player/cutout/rdeu891787755506.png/small",
     "heaven kilwa": "",
     "michael zetterer": "https://r2.thesportsdb.com/images/media/player/cutout/5ucd981762977059.png/small",
-    "franck kessie": "",
     "honest anahor": "",
     "andria bartishvili": "",
     "wisdom mike": "https://r2.thesportsdb.com/images/media/player/cutout/opx7n61756415909.png/small",
     "tommy marques": "",
     "dastan satpayev": "",
     "alvaro morata": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/%C3%81lvaro_Morata_in_2025.jpg/330px-%C3%81lvaro_Morata_in_2025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "enzo": ""
+    "enzo": "",
+    "franck kessie": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

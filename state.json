@@ -1,6 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/64608",
     "tg:FabrizioRomanoTG/64609",
     "tg:FabrizioRomanoTG/64612",
     "ee4d022e980e62d92b18d5093d7dca00",
@@ -1499,7 +1498,8 @@
     "tg:FabrizioRomanoTG/65384",
     "dda0b248d2d5553363594914d68c175e",
     "78ab6a10df4535824d3ffbcc935a7ef6",
-    "ce20df32c4e449d59a3a607b6fa3b63b"
+    "ce20df32c4e449d59a3a607b6fa3b63b",
+    "32208ade2ba361559f0cbd119b5f4bc6"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2000,7 +2000,6 @@
     "interest: sorloth -> juventus"
   ],
   "titles": [
-    "talks held: tottenham ready to let midfielder leave the club after five years",
     "\ud83d\udd35 \u2744\ufe0f chelsea beat fulham on first official game under xabi alonso! morgan rogers",
     "\ud83d\udea8 \ud83d\udd35 excl: chelsea/blueco monitoring italian versatile 18 year old defender hones",
     "benfica submit offer for alejandro balde",
@@ -2299,7 +2298,8 @@
     "\ud83d\udea8 \ud83d\udfe1 \ud83d\udd34 the club to club agreement between ac milan and galatasaray for rafael lea",
     "milan, challenge to inter for borussia dortmund\u2019s reggiani: the defender has bee",
     "chelsea progressing move for honest ahanor and why a deal would be great",
-    "aston villa in \u2018official club to club talks\u2019 with \u00a360m attacker with 30 goals, 1"
+    "aston villa in \u2018official club to club talks\u2019 with \u00a360m attacker with 30 goals, 1",
+    "why alejandro balde and mateus fernandes were a 'red flag' for man utd chief jas"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2596,15 +2596,15 @@
     "sorloth": "https://r2.thesportsdb.com/images/media/player/cutout/v3of4b1762288730.png/small",
     "bryan zaragoza": "https://images.fotmob.com/image_resources/playerimages/1202525.png",
     "exequiel palacios": "https://r2.thesportsdb.com/images/media/player/cutout/oby41y1756316369.png/small",
-    "andria bartishvili": "",
     "tommy marques": "",
     "dastan satpayev": "",
     "heaven kilwa": "",
     "enzo": "",
     "franck kessie": "",
-    "honest anahor": ""
+    "honest anahor": "",
+    "andria bartishvili": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

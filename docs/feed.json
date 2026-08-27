@@ -1452,32 +1452,6 @@
   "srcTier": "tier1"
  },
  {
-  "id": "5541f698707d550eafb65a1bab96db1e",
-  "ts": "2026-08-20T18:18:23+00:00",
-  "kind": "interest",
-  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/s4wyo21758815461.png/small",
-  "stage": "\u2014",
-  "player": "Manu Kon\u00e9",
-  "position": "Central Midfield",
-  "age": "25",
-  "from_club": "AS Roma",
-  "to_club": "Manchester United, Manchester City",
-  "fee": "\u20ac60m",
-  "style": "Dynamic, box-to-box midfielder who excels at pressing, ball recovery, and driving forward with energy and purpose.",
-  "fit": "His physicality and work rate would add a combative, high-intensity presence in the middle of the park to complement more technical midfield options at either club.",
-  "source": "The Guardian (City interest); L'\u00c9quipe (United interest); aggregated by CaughtOffside",
-  "summary": "Manchester City have added AS Roma midfielder Manu Kon\u00e9 to their summer transfer shortlist, per The Guardian, increasing competition for Manchester United who have long tracked the Frenchman but are yet to submit an official bid. Roma are reportedly seeking around \u20ac60m for Kon\u00e9, a figure that has cooled United's pursuit, with no formal negotiations underway from either club.",
-  "outlet": "caughtoffside",
-  "url": "https://www.caughtoffside.com/2026/08/20/man-united-face-competition-from-man-city-frenchman/",
-  "title": "Man United to face increasing competition from Man City for 25-year-old Frenchman",
-  "sources": [
-   "The Guardian",
-   "L'\u00c9quipe",
-   "aggregated by CaughtOffside"
-  ],
-  "srcTier": "standard"
- },
- {
   "id": "tg:FabrizioRomanoTG/64987",
   "ts": "2026-08-20T14:00:46+00:00",
   "kind": "deal",

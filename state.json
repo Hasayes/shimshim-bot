@@ -1,7 +1,5 @@
 {
   "sent": [
-    "a0c4872d253ee0aa8c665c39656df733",
-    "e2e4705c107064ab7804095e725c5f50",
     "ae5529fb74e0983f601bebb57ad84104",
     "a33163cb3a1a386f5a00731119661c81",
     "tg:FabrizioRomanoTG/64621",
@@ -1499,7 +1497,9 @@
     "328fd49a06b9e6a79c59869431d04d61",
     "tg:FabrizioRomanoTG/65393",
     "ffdf02f958c647077e95de171b178f17",
-    "tg:FabrizioRomanoTG/65398"
+    "tg:FabrizioRomanoTG/65398",
+    "0f9d2248ff2da7d78773edc8e068e218",
+    "e18c1a0743a5b1905e096f7484bb8347"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2002,8 +2002,6 @@
     "interest: reggiani -> milan"
   ],
   "titles": [
-    "al hilal transfer latest news: gabriel martinelli emerges as \u00a350m arsenal exit t",
-    "liverpool \u2018third bid\u2019 for minteh revealed as journalist lifts lid on timeline fo",
     "the secret behind martinelli and al hilal: arsenal on the verge of making histor",
     "\ud83d\udea8 \ud83d\udfe1 villarreal agree deal to sign canada international midfielder nathan saliba,",
     "liverpool making decisive winger bid as shock third signing possible",
@@ -2301,7 +2299,9 @@
     "milan, battle with inter for borussia dortmund\u2019s reggiani: the defender has been",
     "\ud83d\udea8 \ud83d\udd35 emiliano martinez already said yes to chelsea project he wants the move and ",
     "fabrizio romano latest hints liverpool have dropped psg winger pursuit",
-    "\ud83d\udea8 \ud83d\udca3 breaking: liverpool reach verbal agreement to sign bradley barcola, here we "
+    "\ud83d\udea8 \ud83d\udca3 breaking: liverpool reach verbal agreement to sign bradley barcola, here we ",
+    "transfer: chelsea to sign nigeria\u2019s ahanor",
+    "\u00a350m winger \u2018bid\u2019 lodged at liverpool as saudi side threaten to derail transfer "
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2596,7 +2596,6 @@
     "sorloth": "https://r2.thesportsdb.com/images/media/player/cutout/v3of4b1762288730.png/small",
     "bryan zaragoza": "https://images.fotmob.com/image_resources/playerimages/1202525.png",
     "exequiel palacios": "https://r2.thesportsdb.com/images/media/player/cutout/oby41y1756316369.png/small",
-    "dastan satpayev": "",
     "heaven kilwa": "",
     "enzo": "",
     "reggiani": "https://r2.thesportsdb.com/images/media/player/cutout/6kn1261773670363.png/small",
@@ -2604,9 +2603,10 @@
     "honest anahor": "",
     "andria bartishvili": "",
     "bradley barcola": "https://r2.thesportsdb.com/images/media/player/cutout/l2v71f1766334537.png/small",
-    "tommy marques": ""
+    "tommy marques": "",
+    "dastan satpayev": ""
   },
-  "photo_repair_idx": 5,
+  "photo_repair_idx": 6,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

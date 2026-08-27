@@ -1,12 +1,5 @@
 {
   "sent": [
-    "d115fee849993e8885019854112bb785",
-    "5a8cf860e1a4af2a25f47e76df76e2ce",
-    "54fed984c2e5824c0fc8216a05b50d2b",
-    "8546726c2c051f8296910e565667a86e",
-    "fc957074a27412a5e81542c65d9d7ad7",
-    "ffc37db795e0401f923f8d1bdb49b4b2",
-    "c749a26e59c992be42c4f9ade2df88c4",
     "dc873418d554a7aec9ddeceef67ecdc3",
     "4855522fb422519fd7218c105c737718",
     "a6e744c39305774147116c1635b16816",
@@ -1499,7 +1492,14 @@
     "0435ae389e1b4229ff453eb104c23f69",
     "63eca169751e1818b02db20d33d86bb3",
     "b7bd5dabb93ce16da4a2af50feb5d206",
-    "904f95ee1c43436f31f5aceda6d629c1"
+    "904f95ee1c43436f31f5aceda6d629c1",
+    "c94c6b33a97204bba5ce89b79d1cdc67",
+    "0eda1ad3a0588a158aef83c66e97244f",
+    "338bd3d42ad50dd53d2860cd920b04d3",
+    "315b5b36aa092a74920a9ed38d0b5b6d",
+    "2a213bc64642ee02a55c5834098952af",
+    "c1644fccec5a082065a541d19d35520c",
+    "f592638b590f2f5e937727e9c314254b"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1764,7 +1764,8 @@
     "asllani -> al jazira": 1,
     "fort -> real sociedad": 1,
     "ordonez -> crystal palace": 1,
-    "jackson -> aston villa": 1
+    "jackson -> aston villa": 1,
+    "zaragoza -> espanyol": 1
   },
   "interest": [
     "interest: alvarez -> arsenal",
@@ -1998,12 +1999,6 @@
     "interest: sorloth -> juventus"
   ],
   "titles": [
-    "arsenal closer than ever before to julian alvarez deal as atletico ceo defies di",
-    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f al hilal have made official club to club contact with arsenal for gabriel",
-    "matthias jaissle sends clear message on newcastle star\u2019s future after liverpool ",
-    "juventus, mattia perin to palermo: agreement on a permanent deal, a three year c",
-    "roberto de zerbi refuses to set tottenham season targets: 'we are not a team yet",
-    "fabrizio romano is \u2018super optimistic\u2019 that liverpool are closing in on their nex",
     "\ud83d\udea8 key days ahead for nico jackson who\u2019s set to leave chelsea \u2014 but only on perma",
     "tottenham: when roberto de zerbi can hand new signings debuts as double medical ",
     "monday's gossip: man city ready to meet chelsea's fernandez demand",
@@ -2297,11 +2292,16 @@
     "man utd in talks for surprising striker transfer carrick has approved",
     "ogc nice authorise mohamed ali cho to undergo hull city medical",
     "romano: liverpool make \u00a350m bid to sign crystal palace star ismaila sarr",
-    "liverpool \u2018open talks with crystal palace over ismaila sarr transfer after endin"
+    "liverpool \u2018open talks with crystal palace over ismaila sarr transfer after endin",
+    "liverpool make second approach for real madrid star after minteh was deemed infe",
+    "liverpool launch left field ismaila sarr transfer bid and already have green lig",
+    "liverpool commence talks with crystal palace for ismaila sarr",
+    "bayern munich, espanyol expected to maneuver around financial fair play regulati",
+    "sunderland reach verbal agreement with marseille winger igor paixao",
+    "fabrizio romano: liverpool open talks to sign \u00a350m forward after minteh blow"
   ],
   "tg_update_offset": 263617426,
   "photos": {
-    "exequiel zeballos": "https://r2.thesportsdb.com/images/media/player/cutout/qpm5c11750031248.png/small",
     "eduardo camavinga": "https://r2.thesportsdb.com/images/media/player/cutout/viijpx1733653403.png/small",
     "pau lopez": "https://r2.thesportsdb.com/images/media/player/cutout/zexyoj1762603058.png/small",
     "pierre-emerick aubameyang": "https://r2.thesportsdb.com/images/media/player/cutout/479b7b1766151844.png/small",
@@ -2593,16 +2593,17 @@
     "perin": "https://r2.thesportsdb.com/images/media/player/cutout/oo0l5m1759222361.png/small",
     "kristjan asllani": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Kristjan_Asllani%2C_FC_Salzburg_gegen_Inter_Mailand_%28UEFA_Championsleague_2023-11-08%29_63_%28cropped%29.jpg/330px-Kristjan_Asllani%2C_FC_Salzburg_gegen_Inter_Mailand_%28UEFA_Championsleague_2023-11-08%29_63_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "joel ordonez": "https://r2.thesportsdb.com/images/media/player/cutout/7te4j61767634434.png/small",
-    "andria bartishvili": "",
     "tommy marques": "",
     "sorloth": "https://r2.thesportsdb.com/images/media/player/cutout/v3of4b1762288730.png/small",
     "dastan satpayev": "",
     "heaven kilwa": "",
     "enzo": "",
     "franck kessie": "",
-    "honest anahor": ""
+    "honest anahor": "",
+    "bryan zaragoza": "https://images.fotmob.com/image_resources/playerimages/1202525.png",
+    "andria bartishvili": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",
@@ -2768,6 +2769,7 @@
     "fc lorient": "https://r2.thesportsdb.com/images/media/team/badge/sxsttw1473504748.png/small",
     "racing": "https://r2.thesportsdb.com/images/media/team/badge/vi4mu41695734959.png/small",
     "palermo": "https://r2.thesportsdb.com/images/media/team/badge/zi1tb01579708939.png/small",
-    "al jazira": "https://r2.thesportsdb.com/images/media/team/badge/uknsoq1642708421.png/small"
+    "al jazira": "https://r2.thesportsdb.com/images/media/team/badge/uknsoq1642708421.png/small",
+    "espanyol": "https://r2.thesportsdb.com/images/media/team/badge/867nzz1681703222.png/small"
   }
 }

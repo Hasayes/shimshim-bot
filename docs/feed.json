@@ -1,5 +1,29 @@
 [
  {
+  "id": "315b5b36aa092a74920a9ed38d0b5b6d",
+  "ts": "2026-08-27T00:15:43+00:00",
+  "kind": "deal",
+  "photo": "https://images.fotmob.com/image_resources/playerimages/1202525.png",
+  "stage": "Here we go",
+  "player": "Bryan Zaragoza",
+  "position": "\u2014",
+  "age": "\u2014",
+  "from_club": "Bayern Munich",
+  "to_club": "Espanyol",
+  "fee": "\u20ac8 million (purchase option)",
+  "style": "\u2014",
+  "fit": "\u2014",
+  "source": "Fabrizio Romano",
+  "sources": [
+   "Fabrizio Romano"
+  ],
+  "srcTier": "tier1",
+  "summary": "Bryan Zaragoza will join Espanyol on an initial loan deal from Bayern Munich with an \u20ac8 million purchase option, with the transfer structure influenced by Financial Fair Play considerations.",
+  "outlet": "bavarianfootballworks",
+  "url": "https://www.bavarianfootballworks.com/bayern-munich-transfer-news-rumors/247965/bayern-munich-espanyol-expected-to-maneuver-around-financial-fair-play-regulations-to-get-bryan-zaragoza-deal-done",
+  "title": "Bayern Munich, Espanyol expected to maneuver around Financial Fair Play regulations to get Bryan Zaragoza deal done"
+ },
+ {
   "id": "0cf35d0480a490bc477543b686671374",
   "ts": "2026-08-26T22:45:39+00:00",
   "kind": "interest",

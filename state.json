@@ -1,7 +1,5 @@
 {
   "sent": [
-    "2e2188cce23355d75f3c443e418feaa8",
-    "487661ef59104d8b5351965ef796390e",
     "91d99229d511883292c57f9213ffc7db",
     "tg:FabrizioRomanoTG/64608",
     "tg:FabrizioRomanoTG/64609",
@@ -1499,7 +1497,9 @@
     "afe3817adbcffc34025a004c10663084",
     "6fd15c6d0359d0dc5c8b18d94029d4ec",
     "39a23265fdfcca94b7bf78c119fe7ea0",
-    "tg:FabrizioRomanoTG/65384"
+    "tg:FabrizioRomanoTG/65384",
+    "dda0b248d2d5553363594914d68c175e",
+    "78ab6a10df4535824d3ffbcc935a7ef6"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2000,8 +2000,6 @@
     "interest: sorloth -> juventus"
   ],
   "titles": [
-    "arsenal in talks with saudi side amid push for \u00a360m sale",
-    "transfer: arsenal to sell martinelli for club record fee",
     "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f real sociedad reach verbal agreement to sign mamadou sarr on loan from ch",
     "talks held: tottenham ready to let midfielder leave the club after five years",
     "\ud83d\udd35 \u2744\ufe0f chelsea beat fulham on first official game under xabi alonso! morgan rogers",
@@ -2299,7 +2297,9 @@
     "sunderland plot insane double winger swoop amid man city and marseille bid repor",
     "crystal palace refuse \u00a350m liverpool offer for ismaila sarr",
     "insider reveals winger liverpool are pursuing is now \u2018priority\u2019 for saudi arabia",
-    "\ud83d\udea8 \ud83d\udfe1 \ud83d\udd34 the club to club agreement between ac milan and galatasaray for rafael lea"
+    "\ud83d\udea8 \ud83d\udfe1 \ud83d\udd34 the club to club agreement between ac milan and galatasaray for rafael lea",
+    "milan, challenge to inter for borussia dortmund\u2019s reggiani: the defender has bee",
+    "chelsea progressing move for honest ahanor and why a deal would be great"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2596,15 +2596,15 @@
     "sorloth": "https://r2.thesportsdb.com/images/media/player/cutout/v3of4b1762288730.png/small",
     "bryan zaragoza": "https://images.fotmob.com/image_resources/playerimages/1202525.png",
     "exequiel palacios": "https://r2.thesportsdb.com/images/media/player/cutout/oby41y1756316369.png/small",
-    "franck kessie": "",
     "honest anahor": "",
     "andria bartishvili": "",
     "tommy marques": "",
     "dastan satpayev": "",
     "heaven kilwa": "",
-    "enzo": ""
+    "enzo": "",
+    "franck kessie": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

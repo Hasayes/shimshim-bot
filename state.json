@@ -1,7 +1,5 @@
 {
   "sent": [
-    "a39e25165c2b79a5789523b9cd385a97",
-    "36b0914eb2537096ff7b1f39132b27a8",
     "fa17e4e2fc1b6281d08df9a9c37c6255",
     "d610a34986c864f5d8757d7816c9fa50",
     "a5bc9ff0f59533c346f482b1cc46a003",
@@ -1499,7 +1497,9 @@
     "d43cd03a06da5f9944e381e73a1f2e9d",
     "tg:FabrizioRomanoTG/65442",
     "tg:FabrizioRomanoTG/65443",
-    "tg:FabrizioRomanoTG/65445"
+    "tg:FabrizioRomanoTG/65445",
+    "dae3dbf1bdbdd4f3eba36895b57e6f14",
+    "64ede2f47de41ec87e074a623938232c"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2005,8 +2005,6 @@
     "interest: reggiani -> milan"
   ],
   "titles": [
-    "cody gakpo transfer news: man city interested in signing tottenham target from l",
-    "martinelli to make final decision on joining al hilal as chelsea confirm deal fo",
     "\u26aa\ufe0f \ud83c\udde7\ud83c\uddf7 official, confirmed savinho joins tottenham from manchester city \u201cit's tak",
     "a liverpool forward has been named as a manchester city target but is it a move ",
     "\ud83d\udea8 \ud83c\udde6\ud83c\uddea al jazira approach inter midfielder kristjan asllani as talks have started ",
@@ -2304,7 +2302,9 @@
     "everton star wanted by pl giants as price named to sanction deadline busting sal",
     "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f official: reiss nelson leaves arsenal as free agent as contract has been ",
     "\ud83d\udea8 \ud83c\udde6\ud83c\uddf7 enzo fernandez has given his green light to manchester city at the beginnin",
-    "\ud83d\udea8 \ud83d\udca3 breaking! atletico madrid ceo gil confirms atletico being open to selling ju"
+    "\ud83d\udea8 \ud83d\udca3 breaking! atletico madrid ceo gil confirms atletico being open to selling ju",
+    "two premier league clubs \u201cin contact\u201d over signing man city star, says fabrizio ",
+    "chelsea set to sign nigerian star \u2013 \u201cpersonal terms agreed\u201d"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2602,14 +2602,14 @@
     "samuele ricci": "https://r2.thesportsdb.com/images/media/player/cutout/syjck91758893445.png/small",
     "oscar naasei": "https://www.thesportsdb.com/images/media/player/cutout/rdeu891787755506.png/small",
     "heaven kilwa": "",
-    "dastan satpayev": "",
     "enzo": "",
     "franck kessie": "",
     "honest anahor": "",
     "andria bartishvili": "",
-    "tommy marques": ""
+    "tommy marques": "",
+    "dastan satpayev": ""
   },
-  "photo_repair_idx": 5,
+  "photo_repair_idx": 6,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

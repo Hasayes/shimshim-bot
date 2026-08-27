@@ -1,6 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/64621",
     "tg:FabrizioRomanoTG/64622",
     "01505b2f13e01275f6915c5f35ab9835",
     "46bc053af16d22c4305e54cd0f5ee60e",
@@ -1499,7 +1498,8 @@
     "0f9d2248ff2da7d78773edc8e068e218",
     "e18c1a0743a5b1905e096f7484bb8347",
     "tg:FabrizioRomanoTG/65401",
-    "tg:FabrizioRomanoTG/65402"
+    "tg:FabrizioRomanoTG/65402",
+    "cac1f035d663d9bfb7008213bd0aa3ad"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2003,7 +2003,6 @@
     "interest: reggiani -> milan"
   ],
   "titles": [
-    "liverpool making decisive winger bid as shock third signing possible",
     "man utd make fresh decision on signing myles lewis skelly as offer for barcelona",
     "bouaddi puts pen to paper with manchester city",
     "check out the latest transfer reports in europe",
@@ -2302,7 +2301,8 @@
     "transfer: chelsea to sign nigeria\u2019s ahanor",
     "\u00a350m winger \u2018bid\u2019 lodged at liverpool as saudi side threaten to derail transfer ",
     "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f como reach full verbal agreement with ac milan for samuele ricci, here we",
-    "\ud83d\udd34 \u26aa\ufe0f \ud83c\udf33 official: liam delap joins nottingham forest on \u00a350m package deal add ons"
+    "\ud83d\udd34 \u26aa\ufe0f \ud83c\udf33 official: liam delap joins nottingham forest on \u00a350m package deal add ons",
+    "al hilal closing in on watkins thursday's gossip"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2596,7 +2596,6 @@
     "sorloth": "https://r2.thesportsdb.com/images/media/player/cutout/v3of4b1762288730.png/small",
     "bryan zaragoza": "https://images.fotmob.com/image_resources/playerimages/1202525.png",
     "exequiel palacios": "https://r2.thesportsdb.com/images/media/player/cutout/oby41y1756316369.png/small",
-    "enzo": "",
     "reggiani": "https://r2.thesportsdb.com/images/media/player/cutout/6kn1261773670363.png/small",
     "franck kessie": "",
     "honest anahor": "",
@@ -2605,9 +2604,10 @@
     "tommy marques": "",
     "dastan satpayev": "",
     "samuele ricci": "https://r2.thesportsdb.com/images/media/player/cutout/syjck91758893445.png/small",
-    "heaven kilwa": ""
+    "heaven kilwa": "",
+    "enzo": ""
   },
-  "photo_repair_idx": 7,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

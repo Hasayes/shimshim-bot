@@ -1,7 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/64622",
-    "01505b2f13e01275f6915c5f35ab9835",
     "46bc053af16d22c4305e54cd0f5ee60e",
     "094c111cfee1f4eff3585e680c62b6d5",
     "4b47082f50db9e0639988ff4e9a29d7f",
@@ -1499,7 +1497,9 @@
     "e18c1a0743a5b1905e096f7484bb8347",
     "tg:FabrizioRomanoTG/65401",
     "tg:FabrizioRomanoTG/65402",
-    "cac1f035d663d9bfb7008213bd0aa3ad"
+    "cac1f035d663d9bfb7008213bd0aa3ad",
+    "fd8aeebdb840067df84dbf8a8b3ced6a",
+    "tg:FabrizioRomanoTG/65404"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1768,7 +1768,8 @@
     "zaragoza -> espanyol": 1,
     "palacios -> chelsea": 1,
     "barcola -> liverpool": 1,
-    "ricci -> como": 1
+    "ricci -> como": 1,
+    "naasei -> real madrid": 2
   },
   "interest": [
     "interest: alvarez -> arsenal",
@@ -2003,8 +2004,6 @@
     "interest: reggiani -> milan"
   ],
   "titles": [
-    "man utd make fresh decision on signing myles lewis skelly as offer for barcelona",
-    "bouaddi puts pen to paper with manchester city",
     "check out the latest transfer reports in europe",
     "a new step brings watkins closer to al hilal of saudi arabia",
     "agreement reached: manchester city offload their player for 50 million",
@@ -2302,11 +2301,12 @@
     "\u00a350m winger \u2018bid\u2019 lodged at liverpool as saudi side threaten to derail transfer ",
     "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f como reach full verbal agreement with ac milan for samuele ricci, here we",
     "\ud83d\udd34 \u26aa\ufe0f \ud83c\udf33 official: liam delap joins nottingham forest on \u00a350m package deal add ons",
-    "al hilal closing in on watkins thursday's gossip"
+    "al hilal closing in on watkins thursday's gossip",
+    "ismaila sarr transfer: fabrizio romano and the athletic can't agree if liverpool",
+    "\ud83d\udea8 \u26aa\ufe0f real madrid have agreed to sign 21 year old ghanian centre back oscar naase"
   ],
   "tg_update_offset": 263617426,
   "photos": {
-    "tarik muharemovic": "https://r2.thesportsdb.com/images/media/player/cutout/84oh1y1781347465.png/small",
     "robin gosens": "https://r2.thesportsdb.com/images/media/player/cutout/5tj0m51758891747.png/small",
     "lewis dobbin": "https://r2.thesportsdb.com/images/media/player/cutout/ylj6b81761495478.png/small",
     "mason greenwood": "https://r2.thesportsdb.com/images/media/player/cutout/4zpjv11766153131.png/small",
@@ -2597,7 +2597,6 @@
     "bryan zaragoza": "https://images.fotmob.com/image_resources/playerimages/1202525.png",
     "exequiel palacios": "https://r2.thesportsdb.com/images/media/player/cutout/oby41y1756316369.png/small",
     "reggiani": "https://r2.thesportsdb.com/images/media/player/cutout/6kn1261773670363.png/small",
-    "franck kessie": "",
     "honest anahor": "",
     "andria bartishvili": "",
     "bradley barcola": "https://r2.thesportsdb.com/images/media/player/cutout/l2v71f1766334537.png/small",
@@ -2605,9 +2604,11 @@
     "dastan satpayev": "",
     "samuele ricci": "https://r2.thesportsdb.com/images/media/player/cutout/syjck91758893445.png/small",
     "heaven kilwa": "",
-    "enzo": ""
+    "enzo": "",
+    "oscar naasei": "https://www.thesportsdb.com/images/media/player/cutout/rdeu891787755506.png/small",
+    "franck kessie": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",
@@ -2774,6 +2775,7 @@
     "racing": "https://r2.thesportsdb.com/images/media/team/badge/vi4mu41695734959.png/small",
     "palermo": "https://r2.thesportsdb.com/images/media/team/badge/zi1tb01579708939.png/small",
     "al jazira": "https://r2.thesportsdb.com/images/media/team/badge/uknsoq1642708421.png/small",
-    "espanyol": "https://r2.thesportsdb.com/images/media/team/badge/867nzz1681703222.png/small"
+    "espanyol": "https://r2.thesportsdb.com/images/media/team/badge/867nzz1681703222.png/small",
+    "granada": "https://r2.thesportsdb.com/images/media/team/badge/f9iss11677472689.png/small"
   }
 }

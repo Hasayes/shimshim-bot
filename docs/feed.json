@@ -1,5 +1,29 @@
 [
  {
+  "id": "tg:FabrizioRomanoTG/65404",
+  "ts": "2026-08-27T09:45:34+00:00",
+  "kind": "deal",
+  "photo": "https://www.thesportsdb.com/images/media/player/cutout/rdeu891787755506.png/small",
+  "stage": "Completed",
+  "player": "Oscar Naasei",
+  "position": "Centre back",
+  "age": "21",
+  "from_club": "Granada",
+  "to_club": "Real Madrid",
+  "fee": "\u20ac2m",
+  "style": "\u2014",
+  "fit": "\u2014",
+  "source": "Fabrizio Romano",
+  "sources": [
+   "Fabrizio Romano"
+  ],
+  "srcTier": "tier1",
+  "summary": "Real Madrid have completed the signing of 21-year-old centre back Oscar Naasei from Granada for \u20ac2m. Naasei will initially join Real Madrid's Castilla team.",
+  "outlet": "Telegram @fabrizioromanotg",
+  "url": "https://t.me/FabrizioRomanoTG/65404",
+  "title": "\ud83d\udea8 \u26aa\ufe0f Real Madrid have agreed to sign 21 year old Ghanian centre back Oscar Naasei. Deal agreed for \u20ac2m fee from Granada "
+ },
+ {
   "id": "tg:FabrizioRomanoTG/65401",
   "ts": "2026-08-27T09:15:32+00:00",
   "kind": "deal",

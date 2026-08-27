@@ -1,7 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/64623",
-    "2dbd5cd4888158d86faaec7da74fb86a",
     "f27140c8edeb521e49c03fccb7ae8e0a",
     "6bd5d32b65cd204e8d559c340fd864e3",
     "0d0ab698a51fe301ff81dee17db66cbf",
@@ -1499,7 +1497,9 @@
     "tg:FabrizioRomanoTG/65414",
     "8bf376cd6aef3450a29c2a2f4be47240",
     "tg:FabrizioRomanoTG/65416",
-    "tg:FabrizioRomanoTG/65418"
+    "tg:FabrizioRomanoTG/65418",
+    "731c5ef5c7056d71d510eaccc4230c31",
+    "tg:FabrizioRomanoTG/65419"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2004,8 +2004,6 @@
     "interest: reggiani -> milan"
   ],
   "titles": [
-    "man city 'pushing to sign enzo fernandez within days' as chelsea's latest demand",
-    "nkunku medical set as milan sanction potential \u20ac32m sale to rb leipzig",
     "race won as man utd finalise striker transfer \u2013 \u2018agreement in place\u2019",
     "manchester city join tottenham in transfer race for liverpool star cody gakpo as",
     "carlos baleba debut for manchester united could be delayed until october",
@@ -2303,7 +2301,9 @@
     "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f como are now closing in on moise kean deal with fiorentina for package wo",
     "record signing for bundesliga club! reports: 5 goal striker joins for \u20ac24m",
     "\ud83d\udcfa new youtube video uploaded! \ud83c\udfac \ud83d\udea8 julian over! next after barcola! united: bid i",
-    "\ud83d\udea8 \ud83d\udc02 torino have completed deal for lucas perri as new goalkeeper from leeds unit"
+    "\ud83d\udea8 \ud83d\udc02 torino have completed deal for lucas perri as new goalkeeper from leeds unit",
+    "marc guiu, napoli are the priority: agreement with the player, talks ongoing wit",
+    "\ud83d\udd35 \u26aa\ufe0f manchester city completed deal for the academy as 16 year old mishel nduka "
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2600,15 +2600,15 @@
     "bradley barcola": "https://r2.thesportsdb.com/images/media/player/cutout/l2v71f1766334537.png/small",
     "samuele ricci": "https://r2.thesportsdb.com/images/media/player/cutout/syjck91758893445.png/small",
     "oscar naasei": "https://www.thesportsdb.com/images/media/player/cutout/rdeu891787755506.png/small",
-    "honest anahor": "",
     "andria bartishvili": "",
     "tommy marques": "",
     "dastan satpayev": "",
     "heaven kilwa": "",
     "enzo": "",
-    "franck kessie": ""
+    "franck kessie": "",
+    "honest anahor": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

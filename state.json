@@ -1,7 +1,5 @@
 {
   "sent": [
-    "e1c385377e33d170e036463a7b33f5f9",
-    "tg:FabrizioRomanoTG/64580",
     "fc7d826361db2177c8692a98b2bd469f",
     "12490ef26c5ba7355e6638849ee7e30b",
     "c617c78c41533859d2071c40fd30b9c7",
@@ -1499,7 +1497,9 @@
     "a03cb1debc55c728868e9b3cdddbe229",
     "c00ff2117f4fed8504d0278a5d6d516c",
     "4ad6807c318daf59c548b2e396a023bf",
-    "7440a2f7469a0863fd6497d6d523f637"
+    "7440a2f7469a0863fd6497d6d523f637",
+    "980ee22669e448eccdd186c67006ea84",
+    "98d314d62044b349382d2cf80972da5c"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2000,8 +2000,6 @@
     "interest: sorloth -> juventus"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f al hilal are getting closer to gabriel martinelli deal done after club to",
-    "arsenal news: fresh julian alvarez meeting held as update issued on \u00a385m target",
     "manchester city would make a loss with former frankfurt man! omar marmoush's med",
     "rt @fabrizioromano : \ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f kamil grabara has agreed on personal terms with juv",
     "ugly scenes spark blockbuster arsenal swap twist; city close in on $162m teen st",
@@ -2299,7 +2297,9 @@
     "fabrizio romano drops liverpool winger bombshell as shock \u00a350m bid launched team",
     "david ornstein reveals chelsea are considering emiliano martinez transfer follow",
     "barcelona double down on julian alvarez or nothing stance as deadline day approa",
-    "napoli lodge offer to onboard young chelsea castoff"
+    "napoli lodge offer to onboard young chelsea castoff",
+    "chelsea open talks with aston villa\u2019s emiliano martinez",
+    "update: barcelona have \u201cmade the financial means available\u201d to beat arsenal to j"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2594,7 +2594,6 @@
     "kristjan asllani": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Kristjan_Asllani%2C_FC_Salzburg_gegen_Inter_Mailand_%28UEFA_Championsleague_2023-11-08%29_63_%28cropped%29.jpg/330px-Kristjan_Asllani%2C_FC_Salzburg_gegen_Inter_Mailand_%28UEFA_Championsleague_2023-11-08%29_63_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "joel ordonez": "https://r2.thesportsdb.com/images/media/player/cutout/7te4j61767634434.png/small",
     "sorloth": "https://r2.thesportsdb.com/images/media/player/cutout/v3of4b1762288730.png/small",
-    "franck kessie": "",
     "honest anahor": "",
     "bryan zaragoza": "https://images.fotmob.com/image_resources/playerimages/1202525.png",
     "andria bartishvili": "",
@@ -2602,9 +2601,10 @@
     "exequiel palacios": "https://r2.thesportsdb.com/images/media/player/cutout/oby41y1756316369.png/small",
     "dastan satpayev": "",
     "heaven kilwa": "",
-    "enzo": ""
+    "enzo": "",
+    "franck kessie": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

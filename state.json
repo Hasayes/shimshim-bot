@@ -1,7 +1,5 @@
 {
   "sent": [
-    "98c8a0f07fec2073720db92d3f609bc7",
-    "21223cb583aadad6783311988afb6d68",
     "41caa9273175c8beb989e50436a500c7",
     "f6788f1833aa5b798f6d88eb24570301",
     "155a49ad59bb7de5ba6e50b8bdd04489",
@@ -1499,7 +1497,9 @@
     "cadaa4c2aeb54120aac63a92c693d695",
     "19b5a11d11326a7fa690d5ad708a5e3a",
     "tg:FabrizioRomanoTG/65439",
-    "tg:FabrizioRomanoTG/65440"
+    "tg:FabrizioRomanoTG/65440",
+    "443d3f49056be66988d5dae73cc1a246",
+    "c1822719d10c749bd62901963776a0bd"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2005,8 +2005,6 @@
     "interest: reggiani -> milan"
   ],
   "titles": [
-    "\ud83d\udcfa new youtube video uploaded! \ud83c\udfac \ud83d\udea8 \ud83d\udca3 enzo bomba! julian: arsenal ready! zubimendi",
-    "man city transfer news: fabrizio romano drops \u2018here we go\u2019 for \u00a334 2m attacker s",
     "\ud83d\udea8 \ud83d\udd35 more on honest anahor and chelsea exclusive story initial talks took place w",
     "\ud83d\udea8 \ud83c\udde6\ud83c\uddf7 arsenal remain attentive to julian alvarez situation and internal feeling i",
     "chelsea make first move for julian alvarez as stunning arsenal battle teed up",
@@ -2304,7 +2302,9 @@
     "bayern munich news: jurgen klopp has already spoken with key bundesliga coaches,",
     "man united latest: joshua zirkzee eyeing exit as \u00a330m star makes decision on tra",
     "\ud83d\udea8 \ud83d\udfe3 \ud83d\udd35 breaking: nicolas jackson to aston villa, here we go! deal now done and do",
-    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f rc strasbourg agree deal to sign oso from sevilla, here we go! deal done "
+    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f rc strasbourg agree deal to sign oso from sevilla, here we go! deal done ",
+    "aston villa transfer news: al hilal agree all details for ollie watkins; \u20ac60 4m ",
+    "jack grealish to sunderland? why the move could actually make sense"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2602,14 +2602,14 @@
     "samuele ricci": "https://r2.thesportsdb.com/images/media/player/cutout/syjck91758893445.png/small",
     "oscar naasei": "https://www.thesportsdb.com/images/media/player/cutout/rdeu891787755506.png/small",
     "heaven kilwa": "",
-    "franck kessie": "",
     "honest anahor": "",
     "andria bartishvili": "",
     "tommy marques": "",
     "dastan satpayev": "",
-    "enzo": ""
+    "enzo": "",
+    "franck kessie": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

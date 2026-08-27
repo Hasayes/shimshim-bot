@@ -1,7 +1,5 @@
 {
   "sent": [
-    "5f26d11a59fbec338b9116ef61fcf493",
-    "9a5061f7819cdc64aa950aaa799d900e",
     "b68e4dd40c82a2bc7f4e7c4f857c41d4",
     "tg:FabrizioRomanoTG/64577",
     "edb84dfbf87c687e634cf77195a0a299",
@@ -1499,7 +1497,9 @@
     "f592638b590f2f5e937727e9c314254b",
     "b5871ec0c48b9d6b0237ce6d04bff3e6",
     "807fbb3e3bf86123ffd23fe54819923b",
-    "46ec3126cc7c6c3c96e2690364949c66"
+    "46ec3126cc7c6c3c96e2690364949c66",
+    "ffc82748ab1b9aa9cd4e7f198583113f",
+    "2d6cd8da54e0c4a46211284d0be5c5cb"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1765,7 +1765,8 @@
     "fort -> real sociedad": 1,
     "ordonez -> crystal palace": 1,
     "jackson -> aston villa": 1,
-    "zaragoza -> espanyol": 1
+    "zaragoza -> espanyol": 1,
+    "palacios -> chelsea": 1
   },
   "interest": [
     "interest: alvarez -> arsenal",
@@ -1999,8 +2000,6 @@
     "interest: sorloth -> juventus"
   ],
   "titles": [
-    "monday's gossip: man city ready to meet chelsea's fernandez demand",
-    "manchester united lead three horse race for alejandro balde",
     "top man utd target feels his club are \u2018pushing him out\u2019 as \u00a350m will land prem w",
     "transfer: marmoush to join city\u2019s epl rivals as man utd midfielder leaves club",
     "tottenham close in on stunning double transfer after \u00a350m agreement as medical a",
@@ -2298,11 +2297,12 @@
     "sunderland reach verbal agreement with marseille winger igor paixao",
     "fabrizio romano: liverpool open talks to sign \u00a350m forward after minteh blow",
     "man utd planning \u20ac50m bid for real madrid midfielder after baleba signing \u2013 jour",
-    "whitwell confirms man utd plan for lewis hall amid alejandro balde rejection"
+    "whitwell confirms man utd plan for lewis hall amid alejandro balde rejection",
+    "palacios travelling for medical",
+    "fabrizio romano confirms \u00a350m liverpool offer for new african forward"
   ],
   "tg_update_offset": 263617426,
   "photos": {
-    "eduardo camavinga": "https://r2.thesportsdb.com/images/media/player/cutout/viijpx1733653403.png/small",
     "pau lopez": "https://r2.thesportsdb.com/images/media/player/cutout/zexyoj1762603058.png/small",
     "pierre-emerick aubameyang": "https://r2.thesportsdb.com/images/media/player/cutout/479b7b1766151844.png/small",
     "leandro trossard": "https://r2.thesportsdb.com/images/media/player/cutout/07fzpg1769331977.png/small",
@@ -2594,16 +2594,17 @@
     "kristjan asllani": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Kristjan_Asllani%2C_FC_Salzburg_gegen_Inter_Mailand_%28UEFA_Championsleague_2023-11-08%29_63_%28cropped%29.jpg/330px-Kristjan_Asllani%2C_FC_Salzburg_gegen_Inter_Mailand_%28UEFA_Championsleague_2023-11-08%29_63_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "joel ordonez": "https://r2.thesportsdb.com/images/media/player/cutout/7te4j61767634434.png/small",
     "sorloth": "https://r2.thesportsdb.com/images/media/player/cutout/v3of4b1762288730.png/small",
-    "dastan satpayev": "",
     "heaven kilwa": "",
     "enzo": "",
     "franck kessie": "",
     "honest anahor": "",
     "bryan zaragoza": "https://images.fotmob.com/image_resources/playerimages/1202525.png",
     "andria bartishvili": "",
-    "tommy marques": ""
+    "tommy marques": "",
+    "exequiel palacios": "https://r2.thesportsdb.com/images/media/player/cutout/oby41y1756316369.png/small",
+    "dastan satpayev": ""
   },
-  "photo_repair_idx": 5,
+  "photo_repair_idx": 6,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

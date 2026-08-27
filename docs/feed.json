@@ -1,5 +1,29 @@
 [
  {
+  "id": "ffc82748ab1b9aa9cd4e7f198583113f",
+  "ts": "2026-08-27T00:45:30+00:00",
+  "kind": "deal",
+  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/oby41y1756316369.png/small",
+  "stage": "Here we go",
+  "player": "Exequiel Palacios",
+  "position": "\u2014",
+  "age": "\u2014",
+  "from_club": "Bayer Leverkusen",
+  "to_club": "Chelsea",
+  "fee": "\u2014",
+  "style": "Technically gifted midfielder with excellent ball-carrying ability and press resistance in transition.",
+  "fit": "Can operate as a box-to-box option or deeper playmaker to add creative control and progressive passing to Chelsea's midfield.",
+  "source": "twtd",
+  "sources": [
+   "twtd"
+  ],
+  "srcTier": "standard",
+  "summary": "Argentina international Exequiel Palacios is travelling for a medical to complete his move to Chelsea from Bayer Leverkusen.",
+  "outlet": "twtd",
+  "url": "http://www.twtd.co.uk/ipswich-town-news/52631/",
+  "title": "Palacios Travelling For Medical"
+ },
+ {
   "id": "315b5b36aa092a74920a9ed38d0b5b6d",
   "ts": "2026-08-27T00:15:43+00:00",
   "kind": "deal",

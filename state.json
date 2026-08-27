@@ -1,6 +1,5 @@
 {
   "sent": [
-    "17b50198fe175e30ab25afadf40e98cc",
     "tg:FabrizioRomanoTG/64595",
     "e5b585025c52c846f7cfa8d6da579370",
     "tg:FabrizioRomanoTG/64598",
@@ -1499,7 +1498,8 @@
     "ec1c9672ae12dfba3ccc3bafc9e26090",
     "a6cbe348acc5fa12dec0d7b38b675d1e",
     "394d755440618e7a6b1ac8a425e3a027",
-    "d93d90a5d34302fce1151a51ed03e081"
+    "d93d90a5d34302fce1151a51ed03e081",
+    "ef8a5bb93aa4f78cbe17d499fba3edf6"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1762,7 +1762,7 @@
     "delap -> nottingham forest": 1,
     "martinelli -> al hilal": 1,
     "asllani -> al jazira": 1,
-    "fort -> real sociedad": 1,
+    "fort -> real sociedad": 2,
     "ordonez -> crystal palace": 1,
     "jackson -> aston villa": 1,
     "zaragoza -> espanyol": 1,
@@ -2000,7 +2000,6 @@
     "interest: sorloth -> juventus"
   ],
   "titles": [
-    "liverpool news: \u00a3111m bid can clinch transfer as star 'dreams' of making move th",
     "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f lazio are closing in on andrea pinamonti deal from sassuolo initial loan ",
     "barcelona have preference; arsenal have the money \u2013 julian alvarez faces definin",
     "video: di gregorio flies out for bournemouth medical",
@@ -2299,7 +2298,8 @@
     "crystal palace reject bid from liverpool for ismaila sarr: details",
     "alvarez skips atletico training amid barcelona, arsenal interest",
     "saudi side threaten to stun liverpool with top winger transfer as \u2018no 1 option\u2019 ",
-    "hansi flick confirms barcelona will insist for julian alvarez despite atletico m"
+    "hansi flick confirms barcelona will insist for julian alvarez despite atletico m",
+    "hector fort set to leave barcelona for real sociedad in \u20ac8m transfer"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2596,15 +2596,15 @@
     "sorloth": "https://r2.thesportsdb.com/images/media/player/cutout/v3of4b1762288730.png/small",
     "bryan zaragoza": "https://images.fotmob.com/image_resources/playerimages/1202525.png",
     "exequiel palacios": "https://r2.thesportsdb.com/images/media/player/cutout/oby41y1756316369.png/small",
-    "heaven kilwa": "",
     "enzo": "",
     "franck kessie": "",
     "honest anahor": "",
     "andria bartishvili": "",
     "tommy marques": "",
-    "dastan satpayev": ""
+    "dastan satpayev": "",
+    "heaven kilwa": ""
   },
-  "photo_repair_idx": 6,
+  "photo_repair_idx": 7,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

@@ -1,5 +1,30 @@
 [
  {
+  "id": "tg:FabrizioRomanoTG/65347",
+  "ts": "2026-08-27T05:00:45+00:00",
+  "kind": "deal",
+  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/x1ag1j1762371932.png/small",
+  "stage": "Completed",
+  "player": "Hector Fort",
+  "position": "Defender",
+  "age": "\u2014",
+  "from_club": "Barcelona",
+  "to_club": "Real Sociedad",
+  "fee": "\u20ac8m",
+  "style": "Aggressive left-back with strong pace and technical ability, comfortable in possession and capable of contributing in the final third.",
+  "fit": "Deploy as a direct attacking threat on the left flank where he can develop consistency and regular minutes away from Barcelona's competition.",
+  "source": "barcablaugranes",
+  "sources": [
+   "Fabrizio Romano",
+   "barcablaugranes"
+  ],
+  "srcTier": "tier1",
+  "summary": "Barcelona defender Hector Fort is set to join Real Sociedad in an \u20ac8 million transfer after being deemed surplus to requirements at Camp Nou.",
+  "outlet": "barcablaugranes",
+  "url": "https://www.barcablaugranes.com/fc-barcelona-transfer-rumors-news/130448/hector-fort-real-sociedad-8m-transfer",
+  "title": "Hector Fort set to leave Barcelona for Real Sociedad in \u20ac8m transfer"
+ },
+ {
   "id": "ffc82748ab1b9aa9cd4e7f198583113f",
   "ts": "2026-08-27T00:45:30+00:00",
   "kind": "deal",
@@ -119,30 +144,6 @@
   "outlet": "Telegram @fabrizioromanotg",
   "url": "https://t.me/FabrizioRomanoTG/65354",
   "title": "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 Crystal Palace and Club Brugge have already prepared all paperwork for Joel Ordonez deal on loan with obligation t"
- },
- {
-  "id": "tg:FabrizioRomanoTG/65347",
-  "ts": "2026-08-26T15:48:13+00:00",
-  "kind": "deal",
-  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/x1ag1j1762371932.png/small",
-  "stage": "Here we go",
-  "player": "Hector Fort",
-  "position": "\u2014",
-  "age": "\u2014",
-  "from_club": "Barcelona",
-  "to_club": "Real Sociedad",
-  "fee": "\u20ac8m plus 50% sell-on clause and \u20ac20m buy-back clause",
-  "style": "\u2014",
-  "fit": "\u2014",
-  "source": "Fabrizio Romano",
-  "sources": [
-   "Fabrizio Romano"
-  ],
-  "srcTier": "tier1",
-  "summary": "Real Sociedad reached full verbal agreement with Barcelona for Hector Fort. The deal is worth \u20ac8m with a 50% sell-on clause and a \u20ac20m buy-back clause for Barcelona.",
-  "outlet": "Telegram @fabrizioromanotg",
-  "url": "https://t.me/FabrizioRomanoTG/65347",
-  "title": "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f Real Sociedad reached full verbal agreement with Barcelona for Hector Fort, here we go! Fee worth \u20ac8m plus 50% se"
  },
  {
   "id": "tg:FabrizioRomanoTG/65344",

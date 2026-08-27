@@ -1,7 +1,5 @@
 {
   "sent": [
-    "2cc5aa695c25d091dd8d0ab94ffd817e",
-    "728862e71a755ec8fe84eecbb45d4c68",
     "dc0870303fef4cdc29fbdeacbc0c5c0e",
     "tg:FabrizioRomanoTG/64624",
     "2f801373980cfa3b541c7e0f4776d8a1",
@@ -1499,7 +1497,9 @@
     "tg:FabrizioRomanoTG/65425",
     "tg:FabrizioRomanoTG/65429",
     "tg:FabrizioRomanoTG/65430",
-    "tg:FabrizioRomanoTG/65431"
+    "tg:FabrizioRomanoTG/65431",
+    "tg:FabrizioRomanoTG/65434",
+    "tg:FabrizioRomanoTG/65436"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2005,8 +2005,6 @@
     "interest: reggiani -> milan"
   ],
   "titles": [
-    "man city \u2018ready to hijack tottenham\u2019s cody gakpo transfer\u2019 as enzo maresca\u2019s men",
-    "man city 'make contact' for cody gakpo transfer as liverpool star handed shock o",
     "fabrizio romano confirms man city hijack for liverpool star cody gakpo",
     "liverpool have a verbal agreement with this brighton winger: good choice for ira",
     "\ud83e\ude75 \ud83c\uddf2\ud83c\udde6 ayyoub bouaddi completed his medical at manchester city and joins the club ",
@@ -2304,7 +2302,9 @@
     "rt @fabrizioromano : \ud83d\udea8 \ud83d\udfe3 fiorentina are in advanced talks to sign joshua zirkzee",
     "\u26aa\ufe0f \ud83c\uddea\ud83c\uddec official, story confirmed: omar marmoush signs in as new tottenham player ",
     "\ud83d\udea8 \ud83d\udd35 exclusive: chelsea reach verbal agreement with atalanta to sign 18 year old ",
-    "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f juventus want franck kessie now, no exits or sales are needed as reporte"
+    "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f juventus want franck kessie now, no exits or sales are needed as reporte",
+    "\ud83d\udea8 \ud83d\udd35 chelsea mantain active talks for emiliano martinez deal with player\u2019s camp a",
+    "\ud83d\udea8 \ud83d\udfe3 \ud83d\udd35 official, confirmed leon goretzka has joined aston villa as free agent, wa"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2602,14 +2602,14 @@
     "samuele ricci": "https://r2.thesportsdb.com/images/media/player/cutout/syjck91758893445.png/small",
     "oscar naasei": "https://www.thesportsdb.com/images/media/player/cutout/rdeu891787755506.png/small",
     "heaven kilwa": "",
-    "honest anahor": "",
     "andria bartishvili": "",
     "tommy marques": "",
     "dastan satpayev": "",
     "enzo": "",
-    "franck kessie": ""
+    "franck kessie": "",
+    "honest anahor": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

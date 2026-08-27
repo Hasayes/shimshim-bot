@@ -1,6 +1,5 @@
 {
   "sent": [
-    "6bd5d32b65cd204e8d559c340fd864e3",
     "0d0ab698a51fe301ff81dee17db66cbf",
     "a24d74a70fa309ad997ce92820dc2eda",
     "92beca5dedb24dd16bcab34035fd7c55",
@@ -1499,7 +1498,8 @@
     "tg:FabrizioRomanoTG/65418",
     "731c5ef5c7056d71d510eaccc4230c31",
     "tg:FabrizioRomanoTG/65419",
-    "tg:FabrizioRomanoTG/65420"
+    "tg:FabrizioRomanoTG/65420",
+    "tg:FabrizioRomanoTG/65423"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2004,7 +2004,6 @@
     "interest: reggiani -> milan"
   ],
   "titles": [
-    "manchester city join tottenham in transfer race for liverpool star cody gakpo as",
     "carlos baleba debut for manchester united could be delayed until october",
     "newcastle \u2018agree \u00a350m nico gonzalez transfer as man city star gives green light ",
     "newcastle agree \u00a350m deal for spanish star after major breakthrough",
@@ -2303,7 +2302,8 @@
     "\ud83d\udea8 \ud83d\udc02 torino have completed deal for lucas perri as new goalkeeper from leeds unit",
     "marc guiu, napoli are the priority: agreement with the player, talks ongoing wit",
     "\ud83d\udd35 \u26aa\ufe0f manchester city completed deal for the academy as 16 year old mishel nduka ",
-    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f jack grealish, in talks over everton return as revealed yesterday \u2014 sunde"
+    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f jack grealish, in talks over everton return as revealed yesterday \u2014 sunde",
+    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f moise kean to como, here we go! verbal agreement reached with fiorentina "
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2600,15 +2600,15 @@
     "bradley barcola": "https://r2.thesportsdb.com/images/media/player/cutout/l2v71f1766334537.png/small",
     "samuele ricci": "https://r2.thesportsdb.com/images/media/player/cutout/syjck91758893445.png/small",
     "oscar naasei": "https://www.thesportsdb.com/images/media/player/cutout/rdeu891787755506.png/small",
-    "tommy marques": "",
     "dastan satpayev": "",
     "heaven kilwa": "",
     "enzo": "",
     "franck kessie": "",
     "honest anahor": "",
-    "andria bartishvili": ""
+    "andria bartishvili": "",
+    "tommy marques": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 5,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

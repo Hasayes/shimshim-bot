@@ -1,9 +1,5 @@
 {
   "sent": [
-    "155a49ad59bb7de5ba6e50b8bdd04489",
-    "c518e345645bb9818db8077a0d5d75ca",
-    "fa34f7e92b104f823dd22e43135cccfc",
-    "ef2369274e64470c76a143cd7e1ab8f6",
     "a39e25165c2b79a5789523b9cd385a97",
     "36b0914eb2537096ff7b1f39132b27a8",
     "fa17e4e2fc1b6281d08df9a9c37c6255",
@@ -1499,7 +1495,11 @@
     "443d3f49056be66988d5dae73cc1a246",
     "c1822719d10c749bd62901963776a0bd",
     "87c3dbc1a5cc2df6a2ebbf3b9fe88cb0",
-    "c478b85f930588ae8317385ee0dae2a9"
+    "c478b85f930588ae8317385ee0dae2a9",
+    "d43cd03a06da5f9944e381e73a1f2e9d",
+    "tg:FabrizioRomanoTG/65442",
+    "tg:FabrizioRomanoTG/65443",
+    "tg:FabrizioRomanoTG/65445"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2005,10 +2005,6 @@
     "interest: reggiani -> milan"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83c\udde6\ud83c\uddf7 arsenal remain attentive to julian alvarez situation and internal feeling i",
-    "chelsea make first move for julian alvarez as stunning arsenal battle teed up",
-    "football gossip: gakpo, gonzalez, lewis skelly, scott, mazraoui bbc",
-    "man city enter race for gakpo tuesday's gossip",
     "cody gakpo transfer news: man city interested in signing tottenham target from l",
     "martinelli to make final decision on joining al hilal as chelsea confirm deal fo",
     "\u26aa\ufe0f \ud83c\udde7\ud83c\uddf7 official, confirmed savinho joins tottenham from manchester city \u201cit's tak",
@@ -2304,7 +2300,11 @@
     "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f rc strasbourg agree deal to sign oso from sevilla, here we go! deal done ",
     "aston villa transfer news: al hilal agree all details for ollie watkins; \u20ac60 4m ",
     "jack grealish to sunderland? why the move could actually make sense",
-    "92 app premier league starlet says playing for manchester united is \u2018a dream\u2019"
+    "92 app premier league starlet says playing for manchester united is \u2018a dream\u2019",
+    "everton star wanted by pl giants as price named to sanction deadline busting sal",
+    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f official: reiss nelson leaves arsenal as free agent as contract has been ",
+    "\ud83d\udea8 \ud83c\udde6\ud83c\uddf7 enzo fernandez has given his green light to manchester city at the beginnin",
+    "\ud83d\udea8 \ud83d\udca3 breaking! atletico madrid ceo gil confirms atletico being open to selling ju"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2602,14 +2602,14 @@
     "samuele ricci": "https://r2.thesportsdb.com/images/media/player/cutout/syjck91758893445.png/small",
     "oscar naasei": "https://www.thesportsdb.com/images/media/player/cutout/rdeu891787755506.png/small",
     "heaven kilwa": "",
-    "tommy marques": "",
     "dastan satpayev": "",
     "enzo": "",
     "franck kessie": "",
     "honest anahor": "",
-    "andria bartishvili": ""
+    "andria bartishvili": "",
+    "tommy marques": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 5,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

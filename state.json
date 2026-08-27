@@ -1,6 +1,5 @@
 {
   "sent": [
-    "46bc053af16d22c4305e54cd0f5ee60e",
     "094c111cfee1f4eff3585e680c62b6d5",
     "4b47082f50db9e0639988ff4e9a29d7f",
     "91000980297906bcfa2406950449caaf",
@@ -1499,7 +1498,8 @@
     "tg:FabrizioRomanoTG/65402",
     "cac1f035d663d9bfb7008213bd0aa3ad",
     "fd8aeebdb840067df84dbf8a8b3ced6a",
-    "tg:FabrizioRomanoTG/65404"
+    "tg:FabrizioRomanoTG/65404",
+    "6b368eb748cea1c02891caf163acb918"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2004,7 +2004,6 @@
     "interest: reggiani -> milan"
   ],
   "titles": [
-    "check out the latest transfer reports in europe",
     "a new step brings watkins closer to al hilal of saudi arabia",
     "agreement reached: manchester city offload their player for 50 million",
     "fabrizio romano reveals u turn update on everton linked ace after reports of pre",
@@ -2303,7 +2302,8 @@
     "\ud83d\udd34 \u26aa\ufe0f \ud83c\udf33 official: liam delap joins nottingham forest on \u00a350m package deal add ons",
     "al hilal closing in on watkins thursday's gossip",
     "ismaila sarr transfer: fabrizio romano and the athletic can't agree if liverpool",
-    "\ud83d\udea8 \u26aa\ufe0f real madrid have agreed to sign 21 year old ghanian centre back oscar naase"
+    "\ud83d\udea8 \u26aa\ufe0f real madrid have agreed to sign 21 year old ghanian centre back oscar naase",
+    "chelsea in advance talks over \u20ac40m deal for italy born nigerian defender ahanor"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2597,7 +2597,6 @@
     "bryan zaragoza": "https://images.fotmob.com/image_resources/playerimages/1202525.png",
     "exequiel palacios": "https://r2.thesportsdb.com/images/media/player/cutout/oby41y1756316369.png/small",
     "reggiani": "https://r2.thesportsdb.com/images/media/player/cutout/6kn1261773670363.png/small",
-    "honest anahor": "",
     "andria bartishvili": "",
     "bradley barcola": "https://r2.thesportsdb.com/images/media/player/cutout/l2v71f1766334537.png/small",
     "tommy marques": "",
@@ -2606,9 +2605,10 @@
     "heaven kilwa": "",
     "enzo": "",
     "oscar naasei": "https://www.thesportsdb.com/images/media/player/cutout/rdeu891787755506.png/small",
-    "franck kessie": ""
+    "franck kessie": "",
+    "honest anahor": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

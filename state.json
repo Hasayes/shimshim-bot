@@ -1,6 +1,5 @@
 {
   "sent": [
-    "92beca5dedb24dd16bcab34035fd7c55",
     "aee85798d07246fcea415e66eeccf533",
     "3882b4bc271c6dd4f7dc59fd369bbcad",
     "2cc5aa695c25d091dd8d0ab94ffd817e",
@@ -1499,7 +1498,8 @@
     "tg:FabrizioRomanoTG/65420",
     "tg:FabrizioRomanoTG/65423",
     "ec41602d7734df7c63926f825f8f8657",
-    "tg:FabrizioRomanoTG/65425"
+    "tg:FabrizioRomanoTG/65425",
+    "tg:FabrizioRomanoTG/65429"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2004,7 +2004,6 @@
     "interest: reggiani -> milan"
   ],
   "titles": [
-    "newcastle agree \u00a350m deal for spanish star after major breakthrough",
     "man city transfer news: \u2018verbal agreement\u2019 reached to sell \u00a350m player before de",
     "fabrizio romano: man city open talks to beat tottenham to liverpool star",
     "man city \u2018ready to hijack tottenham\u2019s cody gakpo transfer\u2019 as enzo maresca\u2019s men",
@@ -2303,7 +2302,8 @@
     "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f jack grealish, in talks over everton return as revealed yesterday \u2014 sunde",
     "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f moise kean to como, here we go! verbal agreement reached with fiorentina ",
     "socceroos captain in shock transfer talks; $243m alvarez decision as barca door ",
-    "rt @fabrizioromano : \ud83d\udea8 \ud83d\udfe3 fiorentina are in advanced talks to sign joshua zirkzee"
+    "rt @fabrizioromano : \ud83d\udea8 \ud83d\udfe3 fiorentina are in advanced talks to sign joshua zirkzee",
+    "\u26aa\ufe0f \ud83c\uddea\ud83c\uddec official, story confirmed: omar marmoush signs in as new tottenham player "
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2601,14 +2601,14 @@
     "samuele ricci": "https://r2.thesportsdb.com/images/media/player/cutout/syjck91758893445.png/small",
     "oscar naasei": "https://www.thesportsdb.com/images/media/player/cutout/rdeu891787755506.png/small",
     "heaven kilwa": "",
-    "enzo": "",
     "franck kessie": "",
     "honest anahor": "",
     "andria bartishvili": "",
     "tommy marques": "",
-    "dastan satpayev": ""
+    "dastan satpayev": "",
+    "enzo": ""
   },
-  "photo_repair_idx": 6,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

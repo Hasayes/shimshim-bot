@@ -1,8 +1,5 @@
 {
   "sent": [
-    "dc873418d554a7aec9ddeceef67ecdc3",
-    "4855522fb422519fd7218c105c737718",
-    "a6e744c39305774147116c1635b16816",
     "5f26d11a59fbec338b9116ef61fcf493",
     "9a5061f7819cdc64aa950aaa799d900e",
     "b68e4dd40c82a2bc7f4e7c4f857c41d4",
@@ -1499,7 +1496,10 @@
     "315b5b36aa092a74920a9ed38d0b5b6d",
     "2a213bc64642ee02a55c5834098952af",
     "c1644fccec5a082065a541d19d35520c",
-    "f592638b590f2f5e937727e9c314254b"
+    "f592638b590f2f5e937727e9c314254b",
+    "b5871ec0c48b9d6b0237ce6d04bff3e6",
+    "807fbb3e3bf86123ffd23fe54819923b",
+    "46ec3126cc7c6c3c96e2690364949c66"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1999,8 +1999,6 @@
     "interest: sorloth -> juventus"
   ],
   "titles": [
-    "\ud83d\udea8 key days ahead for nico jackson who\u2019s set to leave chelsea \u2014 but only on perma",
-    "tottenham: when roberto de zerbi can hand new signings debuts as double medical ",
     "monday's gossip: man city ready to meet chelsea's fernandez demand",
     "manchester united lead three horse race for alejandro balde",
     "top man utd target feels his club are \u2018pushing him out\u2019 as \u00a350m will land prem w",
@@ -2298,7 +2296,9 @@
     "liverpool commence talks with crystal palace for ismaila sarr",
     "bayern munich, espanyol expected to maneuver around financial fair play regulati",
     "sunderland reach verbal agreement with marseille winger igor paixao",
-    "fabrizio romano: liverpool open talks to sign \u00a350m forward after minteh blow"
+    "fabrizio romano: liverpool open talks to sign \u00a350m forward after minteh blow",
+    "man utd planning \u20ac50m bid for real madrid midfielder after baleba signing \u2013 jour",
+    "whitwell confirms man utd plan for lewis hall amid alejandro balde rejection"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2593,7 +2593,6 @@
     "perin": "https://r2.thesportsdb.com/images/media/player/cutout/oo0l5m1759222361.png/small",
     "kristjan asllani": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Kristjan_Asllani%2C_FC_Salzburg_gegen_Inter_Mailand_%28UEFA_Championsleague_2023-11-08%29_63_%28cropped%29.jpg/330px-Kristjan_Asllani%2C_FC_Salzburg_gegen_Inter_Mailand_%28UEFA_Championsleague_2023-11-08%29_63_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "joel ordonez": "https://r2.thesportsdb.com/images/media/player/cutout/7te4j61767634434.png/small",
-    "tommy marques": "",
     "sorloth": "https://r2.thesportsdb.com/images/media/player/cutout/v3of4b1762288730.png/small",
     "dastan satpayev": "",
     "heaven kilwa": "",
@@ -2601,9 +2600,10 @@
     "franck kessie": "",
     "honest anahor": "",
     "bryan zaragoza": "https://images.fotmob.com/image_resources/playerimages/1202525.png",
-    "andria bartishvili": ""
+    "andria bartishvili": "",
+    "tommy marques": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 5,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

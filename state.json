@@ -1,8 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/64612",
-    "ee4d022e980e62d92b18d5093d7dca00",
-    "tg:FabrizioRomanoTG/64613",
     "tg:FabrizioRomanoTG/64615",
     "178564bc46d25d1b0757a9d69b97be59",
     "92eac8c627ffe1c1ef039d6292c1cece",
@@ -1499,7 +1496,10 @@
     "78ab6a10df4535824d3ffbcc935a7ef6",
     "ce20df32c4e449d59a3a607b6fa3b63b",
     "32208ade2ba361559f0cbd119b5f4bc6",
-    "tg:FabrizioRomanoTG/65389"
+    "tg:FabrizioRomanoTG/65389",
+    "60a0ab37b06e776b282dd90dcbda1232",
+    "10827971cc428fae5f45f5faf698b6ac",
+    "12046b2b48769c77b00351b9bcb182f5"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2000,8 +2000,6 @@
     "interest: sorloth -> juventus"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83d\udd35 excl: chelsea/blueco monitoring italian versatile 18 year old defender hones",
-    "benfica submit offer for alejandro balde",
     "al hilal make decision on pursuit of chelsea winger neto",
     "\u2018new official bid\u2019 from tottenham for cody gakpo revealed as stunning \u2018plan b\u2019 e",
     "barcelona boss insists he has not told man united target balde to leave",
@@ -2299,7 +2297,9 @@
     "chelsea progressing move for honest ahanor and why a deal would be great",
     "aston villa in \u2018official club to club talks\u2019 with \u00a360m attacker with 30 goals, 1",
     "why alejandro balde and mateus fernandes were a 'red flag' for man utd chief jas",
-    "\ud83d\udea8 \ud83d\udd34 liverpool are now at the final stages of bradley barcola deal with psg the n"
+    "\ud83d\udea8 \ud83d\udd34 liverpool are now at the final stages of bradley barcola deal with psg the n",
+    "al hilal agree \u00a351million ollie watkins transfer with aston villa set to sign ni",
+    "report: turnaround for arijon ibrahimovic as bayern munich looks set to let him "
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2596,15 +2596,15 @@
     "sorloth": "https://r2.thesportsdb.com/images/media/player/cutout/v3of4b1762288730.png/small",
     "bryan zaragoza": "https://images.fotmob.com/image_resources/playerimages/1202525.png",
     "exequiel palacios": "https://r2.thesportsdb.com/images/media/player/cutout/oby41y1756316369.png/small",
-    "dastan satpayev": "",
     "heaven kilwa": "",
     "enzo": "",
     "franck kessie": "",
     "honest anahor": "",
     "andria bartishvili": "",
-    "tommy marques": ""
+    "tommy marques": "",
+    "dastan satpayev": ""
   },
-  "photo_repair_idx": 5,
+  "photo_repair_idx": 6,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

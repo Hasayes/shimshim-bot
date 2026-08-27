@@ -1,8 +1,5 @@
 {
   "sent": [
-    "d2b8bb67acb8b66ab61519f0bee57934",
-    "94bf854797a13cfd2056d4c0e6797821",
-    "4e33109fb92014d76070cb9f19a1c01b",
     "1f58958d6a3b6adfb8f9fc388d70ce79",
     "b4d6870eea9f4ded5533eb06b0b67d2a",
     "56d228f9850f838d443a5088e64222a2",
@@ -1499,7 +1496,10 @@
     "88678fdbf2fdf2e40f762a7d6b47c00f",
     "6bf5ad38079b4bb5933e16f511028dd6",
     "60e3f548106c6e80c64da768d1d8d298",
-    "a90163a59a240b6122d7d0c705765699"
+    "a90163a59a240b6122d7d0c705765699",
+    "9403b1d86a66261fc2db44f35669170b",
+    "b099e744929888d0efc209b844b59f98",
+    "42f4bbc7aa26d4af11e90bd8fcb35c1e"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2007,9 +2007,6 @@
     "interest: reggiani -> milan"
   ],
   "titles": [
-    "the signing is complete: bouadi begins his adventure with manchester city",
-    "epl: man city open talks to sign liverpool\u2019s cody gakpo",
-    "premier league star opens the door: huge deal edges closer to manchester city",
     "premier league star opens the door: huge deal edges closer for manchester city",
     "it looks like manchester city are finally about to pull the trigger on a move ev",
     "\ud83d\udcfa new youtube video uploaded! \ud83c\udfac \ud83d\udea8 \ud83d\udca3 deal done! over \u20ac400m! hijack or not? lukeba",
@@ -2306,7 +2303,10 @@
     "why leeds now have green light for michael zetterer transfer as agreement reache",
     "\"done deal\": atubolu set to complete eintracht frankfurt move",
     "liverpool make major breakthrough in bid to sign psg winger bradley barcola",
-    "official: lazio sign pinamonti in permanent transfer from sassuolo"
+    "official: lazio sign pinamonti in permanent transfer from sassuolo",
+    "liverpool\u2019s next mega money transfer teased after fabrizio romano drops \u201chere we",
+    "chelsea advance in ahanor talks with atalanta as sarr loan to real sociedad near",
+    "potential shirt numbers for bradley barcola at liverpool as \u00a3120m transfer on ve"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2603,15 +2603,15 @@
     "samuele ricci": "https://r2.thesportsdb.com/images/media/player/cutout/syjck91758893445.png/small",
     "oscar naasei": "https://www.thesportsdb.com/images/media/player/cutout/rdeu891787755506.png/small",
     "heaven kilwa": "",
-    "enzo": "",
     "franck kessie": "",
     "honest anahor": "",
     "andria bartishvili": "",
     "michael zetterer": "https://r2.thesportsdb.com/images/media/player/cutout/5ucd981762977059.png/small",
     "tommy marques": "",
-    "dastan satpayev": ""
+    "dastan satpayev": "",
+    "enzo": ""
   },
-  "photo_repair_idx": 6,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

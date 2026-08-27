@@ -1,7 +1,5 @@
 {
   "sent": [
-    "ae5529fb74e0983f601bebb57ad84104",
-    "a33163cb3a1a386f5a00731119661c81",
     "tg:FabrizioRomanoTG/64621",
     "tg:FabrizioRomanoTG/64622",
     "01505b2f13e01275f6915c5f35ab9835",
@@ -1499,7 +1497,9 @@
     "ffdf02f958c647077e95de171b178f17",
     "tg:FabrizioRomanoTG/65398",
     "0f9d2248ff2da7d78773edc8e068e218",
-    "e18c1a0743a5b1905e096f7484bb8347"
+    "e18c1a0743a5b1905e096f7484bb8347",
+    "tg:FabrizioRomanoTG/65401",
+    "tg:FabrizioRomanoTG/65402"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1767,7 +1767,8 @@
     "jackson -> aston villa": 1,
     "zaragoza -> espanyol": 1,
     "palacios -> chelsea": 1,
-    "barcola -> liverpool": 1
+    "barcola -> liverpool": 1,
+    "ricci -> como": 1
   },
   "interest": [
     "interest: alvarez -> arsenal",
@@ -2002,8 +2003,6 @@
     "interest: reggiani -> milan"
   ],
   "titles": [
-    "the secret behind martinelli and al hilal: arsenal on the verge of making histor",
-    "\ud83d\udea8 \ud83d\udfe1 villarreal agree deal to sign canada international midfielder nathan saliba,",
     "liverpool making decisive winger bid as shock third signing possible",
     "man utd make fresh decision on signing myles lewis skelly as offer for barcelona",
     "bouaddi puts pen to paper with manchester city",
@@ -2301,11 +2300,12 @@
     "fabrizio romano latest hints liverpool have dropped psg winger pursuit",
     "\ud83d\udea8 \ud83d\udca3 breaking: liverpool reach verbal agreement to sign bradley barcola, here we ",
     "transfer: chelsea to sign nigeria\u2019s ahanor",
-    "\u00a350m winger \u2018bid\u2019 lodged at liverpool as saudi side threaten to derail transfer "
+    "\u00a350m winger \u2018bid\u2019 lodged at liverpool as saudi side threaten to derail transfer ",
+    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f como reach full verbal agreement with ac milan for samuele ricci, here we",
+    "\ud83d\udd34 \u26aa\ufe0f \ud83c\udf33 official: liam delap joins nottingham forest on \u00a350m package deal add ons"
   ],
   "tg_update_offset": 263617426,
   "photos": {
-    "leandro trossard": "https://r2.thesportsdb.com/images/media/player/cutout/07fzpg1769331977.png/small",
     "tarik muharemovic": "https://r2.thesportsdb.com/images/media/player/cutout/84oh1y1781347465.png/small",
     "robin gosens": "https://r2.thesportsdb.com/images/media/player/cutout/5tj0m51758891747.png/small",
     "lewis dobbin": "https://r2.thesportsdb.com/images/media/player/cutout/ylj6b81761495478.png/small",
@@ -2596,7 +2596,6 @@
     "sorloth": "https://r2.thesportsdb.com/images/media/player/cutout/v3of4b1762288730.png/small",
     "bryan zaragoza": "https://images.fotmob.com/image_resources/playerimages/1202525.png",
     "exequiel palacios": "https://r2.thesportsdb.com/images/media/player/cutout/oby41y1756316369.png/small",
-    "heaven kilwa": "",
     "enzo": "",
     "reggiani": "https://r2.thesportsdb.com/images/media/player/cutout/6kn1261773670363.png/small",
     "franck kessie": "",
@@ -2604,9 +2603,11 @@
     "andria bartishvili": "",
     "bradley barcola": "https://r2.thesportsdb.com/images/media/player/cutout/l2v71f1766334537.png/small",
     "tommy marques": "",
-    "dastan satpayev": ""
+    "dastan satpayev": "",
+    "samuele ricci": "https://r2.thesportsdb.com/images/media/player/cutout/syjck91758893445.png/small",
+    "heaven kilwa": ""
   },
-  "photo_repair_idx": 6,
+  "photo_repair_idx": 7,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

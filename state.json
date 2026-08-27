@@ -1,7 +1,5 @@
 {
   "sent": [
-    "5814e0552f2359a45ae5647d642a910a",
-    "86d0e4e69593599597406addd7758368",
     "4ce23bcf2a203719a00153059783c249",
     "tg:FabrizioRomanoTG/64626",
     "d2b8bb67acb8b66ab61519f0bee57934",
@@ -1499,7 +1497,9 @@
     "92da9a6feff7844aa9893c44a6febc9c",
     "3854a41e7d48c33f313601ec43ec2d66",
     "2b6a817b760ca0f2abf091fe246de2c8",
-    "b50191b014cec8dd8e36b37a75dc5ecf"
+    "b50191b014cec8dd8e36b37a75dc5ecf",
+    "88678fdbf2fdf2e40f762a7d6b47c00f",
+    "6bf5ad38079b4bb5933e16f511028dd6"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1771,7 +1771,8 @@
     "ricci -> como": 1,
     "naasei -> real madrid": 2,
     "ahanor -> chelsea": 1,
-    "martinez -> chelsea": 2
+    "martinez -> chelsea": 2,
+    "zetterer -> leeds": 1
   },
   "interest": [
     "interest: alvarez -> arsenal",
@@ -2006,8 +2007,6 @@
     "interest: reggiani -> milan"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83d\udfe3 \ud83d\udd35 nicolas jackson remains aston villa priority target as reported last week ",
-    "@free_steelo7 @luka_thfc they said i jumped the gun for nico and he\u2019s now in new",
     "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f juventus mantain active talks with franck kessie today in order to try g",
     "\ud83d\udea8 \ud83c\udf33 breaking: nottingham forest reach verbal agreement to sign liam delap from c",
     "the signing is complete: bouadi begins his adventure with manchester city",
@@ -2305,11 +2304,12 @@
     "aston villa strike full agreement for jackson and step up leao hijack in \u00a3103m d",
     "barcola to liverpool now in \u2018final stages\u2019 as fabrizio romano issues thursday mo",
     "breaking: liverpool reach \u2018agreement in principle\u2019 to sign bradley barcola from ",
-    "transfer: emi martinez gives green light for chelsea move"
+    "transfer: emi martinez gives green light for chelsea move",
+    "why leeds now have green light for michael zetterer transfer as agreement reache",
+    "\"done deal\": atubolu set to complete eintracht frankfurt move"
   ],
   "tg_update_offset": 263617426,
   "photos": {
-    "robin gosens": "https://r2.thesportsdb.com/images/media/player/cutout/5tj0m51758891747.png/small",
     "lewis dobbin": "https://r2.thesportsdb.com/images/media/player/cutout/ylj6b81761495478.png/small",
     "mason greenwood": "https://r2.thesportsdb.com/images/media/player/cutout/4zpjv11766153131.png/small",
     "youri tielemans": "https://r2.thesportsdb.com/images/media/player/cutout/dvyawe1756987280.png/small",
@@ -2603,14 +2603,15 @@
     "samuele ricci": "https://r2.thesportsdb.com/images/media/player/cutout/syjck91758893445.png/small",
     "oscar naasei": "https://www.thesportsdb.com/images/media/player/cutout/rdeu891787755506.png/small",
     "heaven kilwa": "",
-    "tommy marques": "",
     "dastan satpayev": "",
     "enzo": "",
     "franck kessie": "",
     "honest anahor": "",
-    "andria bartishvili": ""
+    "andria bartishvili": "",
+    "michael zetterer": "https://r2.thesportsdb.com/images/media/player/cutout/5ucd981762977059.png/small",
+    "tommy marques": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 5,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

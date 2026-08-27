@@ -1,12 +1,5 @@
 {
   "sent": [
-    "b68e4dd40c82a2bc7f4e7c4f857c41d4",
-    "tg:FabrizioRomanoTG/64577",
-    "edb84dfbf87c687e634cf77195a0a299",
-    "617aa121631da2df4534aea1f471a1e3",
-    "182e35a2843d3c1d67122615e9be6396",
-    "5cf7bfca0879d3321dc428af7e3b301e",
-    "a1c0ebc572c019451f45784004697949",
     "25dcb6df41afa689ebf31d7926ddbdb8",
     "0ab53cefbf9b3ec53dcb3ab40351b44c",
     "e1c385377e33d170e036463a7b33f5f9",
@@ -1499,7 +1492,14 @@
     "807fbb3e3bf86123ffd23fe54819923b",
     "46ec3126cc7c6c3c96e2690364949c66",
     "ffc82748ab1b9aa9cd4e7f198583113f",
-    "2d6cd8da54e0c4a46211284d0be5c5cb"
+    "2d6cd8da54e0c4a46211284d0be5c5cb",
+    "05aec171aeb81f83a15700ec075eba62",
+    "8dc2cdad3a9b9e4f3c7eacb496a5140c",
+    "094f8cd68520504cf98d2050fcce6e5d",
+    "1e28fd4e3925472b598aa31a0c386f30",
+    "bb677ce630e62945e201c7483ae78210",
+    "a03cb1debc55c728868e9b3cdddbe229",
+    "c00ff2117f4fed8504d0278a5d6d516c"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2000,13 +2000,6 @@
     "interest: sorloth -> juventus"
   ],
   "titles": [
-    "top man utd target feels his club are \u2018pushing him out\u2019 as \u00a350m will land prem w",
-    "transfer: marmoush to join city\u2019s epl rivals as man utd midfielder leaves club",
-    "tottenham close in on stunning double transfer after \u00a350m agreement as medical a",
-    "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 official: gavi has no serious injury, barcelona statement confirm \u201cgavi to",
-    "manchester city would make a loss on former frankfurt player! omar marmoush\u2019s me",
-    "\ud83c\udf81 \ud83c\uddf2\ud83c\udde6 manchester city top signing is coming today: ayyoub bouaddi joins on \u20ac95m p",
-    "\ud83d\udea8 \ud83c\udf52 michele di gregorio\u2019s loan move to bournemouth includes a penalty clause as ",
     "ousmane dembele makes final transfer decision in major blow to arsenal, chelsea ",
     "barcelona brace for deja vu as psg set sights on dembele",
     "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f al hilal are getting closer to gabriel martinelli deal done after club to",
@@ -2299,7 +2292,14 @@
     "man utd planning \u20ac50m bid for real madrid midfielder after baleba signing \u2013 jour",
     "whitwell confirms man utd plan for lewis hall amid alejandro balde rejection",
     "palacios travelling for medical",
-    "fabrizio romano confirms \u00a350m liverpool offer for new african forward"
+    "fabrizio romano confirms \u00a350m liverpool offer for new african forward",
+    "here we go could come \u201cany moment\u201d for major liverpool transfer, says fabrizio r",
+    "man city to bid \u00a3120m for enzo fernandez today, as chelsea set extra condition b",
+    "liverpool transfer news: ismaila sarr emerges as top winger target in \u00a350m swoop",
+    "liverpool may not make a third bid for winger target",
+    "fabrizio romano drops liverpool winger bombshell as shock \u00a350m bid launched",
+    "fabrizio romano drops liverpool winger bombshell as shock \u00a350m bid launched team",
+    "david ornstein reveals chelsea are considering emiliano martinez transfer follow"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2594,7 +2594,6 @@
     "kristjan asllani": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Kristjan_Asllani%2C_FC_Salzburg_gegen_Inter_Mailand_%28UEFA_Championsleague_2023-11-08%29_63_%28cropped%29.jpg/330px-Kristjan_Asllani%2C_FC_Salzburg_gegen_Inter_Mailand_%28UEFA_Championsleague_2023-11-08%29_63_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "joel ordonez": "https://r2.thesportsdb.com/images/media/player/cutout/7te4j61767634434.png/small",
     "sorloth": "https://r2.thesportsdb.com/images/media/player/cutout/v3of4b1762288730.png/small",
-    "heaven kilwa": "",
     "enzo": "",
     "franck kessie": "",
     "honest anahor": "",
@@ -2602,9 +2601,10 @@
     "andria bartishvili": "",
     "tommy marques": "",
     "exequiel palacios": "https://r2.thesportsdb.com/images/media/player/cutout/oby41y1756316369.png/small",
-    "dastan satpayev": ""
+    "dastan satpayev": "",
+    "heaven kilwa": ""
   },
-  "photo_repair_idx": 6,
+  "photo_repair_idx": 7,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

@@ -1,9 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/64595",
-    "e5b585025c52c846f7cfa8d6da579370",
-    "tg:FabrizioRomanoTG/64598",
-    "fdd87d285f1c1c26f987be907cfbe4ea",
     "2e2188cce23355d75f3c443e418feaa8",
     "487661ef59104d8b5351965ef796390e",
     "91d99229d511883292c57f9213ffc7db",
@@ -1499,7 +1495,11 @@
     "a6cbe348acc5fa12dec0d7b38b675d1e",
     "394d755440618e7a6b1ac8a425e3a027",
     "d93d90a5d34302fce1151a51ed03e081",
-    "ef8a5bb93aa4f78cbe17d499fba3edf6"
+    "ef8a5bb93aa4f78cbe17d499fba3edf6",
+    "afe3817adbcffc34025a004c10663084",
+    "6fd15c6d0359d0dc5c8b18d94029d4ec",
+    "39a23265fdfcca94b7bf78c119fe7ea0",
+    "tg:FabrizioRomanoTG/65384"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2000,10 +2000,6 @@
     "interest: sorloth -> juventus"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f lazio are closing in on andrea pinamonti deal from sassuolo initial loan ",
-    "barcelona have preference; arsenal have the money \u2013 julian alvarez faces definin",
-    "video: di gregorio flies out for bournemouth medical",
-    "exactly what manchester city need in midfield is set to arrive",
     "arsenal in talks with saudi side amid push for \u00a360m sale",
     "transfer: arsenal to sell martinelli for club record fee",
     "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f real sociedad reach verbal agreement to sign mamadou sarr on loan from ch",
@@ -2299,7 +2295,11 @@
     "alvarez skips atletico training amid barcelona, arsenal interest",
     "saudi side threaten to stun liverpool with top winger transfer as \u2018no 1 option\u2019 ",
     "hansi flick confirms barcelona will insist for julian alvarez despite atletico m",
-    "hector fort set to leave barcelona for real sociedad in \u20ac8m transfer"
+    "hector fort set to leave barcelona for real sociedad in \u20ac8m transfer",
+    "sunderland plot insane double winger swoop amid man city and marseille bid repor",
+    "crystal palace refuse \u00a350m liverpool offer for ismaila sarr",
+    "insider reveals winger liverpool are pursuing is now \u2018priority\u2019 for saudi arabia",
+    "\ud83d\udea8 \ud83d\udfe1 \ud83d\udd34 the club to club agreement between ac milan and galatasaray for rafael lea"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2596,15 +2596,15 @@
     "sorloth": "https://r2.thesportsdb.com/images/media/player/cutout/v3of4b1762288730.png/small",
     "bryan zaragoza": "https://images.fotmob.com/image_resources/playerimages/1202525.png",
     "exequiel palacios": "https://r2.thesportsdb.com/images/media/player/cutout/oby41y1756316369.png/small",
-    "enzo": "",
     "franck kessie": "",
     "honest anahor": "",
     "andria bartishvili": "",
     "tommy marques": "",
     "dastan satpayev": "",
-    "heaven kilwa": ""
+    "heaven kilwa": "",
+    "enzo": ""
   },
-  "photo_repair_idx": 7,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

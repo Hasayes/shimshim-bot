@@ -1,5 +1,30 @@
 [
  {
+  "id": "tg:FabrizioRomanoTG/65398",
+  "ts": "2026-08-27T21:45:38+00:00",
+  "kind": "deal",
+  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/l2v71f1766334537.png/small",
+  "stage": "Completed",
+  "player": "Bradley Barcola",
+  "position": "\u2014",
+  "age": "23",
+  "from_club": "Paris Saint-Germain",
+  "to_club": "Liverpool",
+  "fee": "\u20ac140 million (\u00a3100 million plus add-ons)",
+  "style": "Pacey left winger with sharp dribbling skills and a keen eye for cutting inside to create chances or shoot.",
+  "fit": "Deploy on Liverpool's left flank to add directness and goal-threat to their attacking play.",
+  "source": "The Sunday Guardian",
+  "sources": [
+   "Fabrizio Romano",
+   "The Sunday Guardian"
+  ],
+  "srcTier": "tier1",
+  "summary": "Liverpool have agreed a \u20ac140 million deal with Paris Saint-Germain to sign French winger Bradley Barcola, with an initial fee of around \u00a3100 million plus add-ons that could reach \u00a3120 million total.",
+  "outlet": "thesundayguardian",
+  "url": "https://sundayguardianlive.com/liverpool-transfer-latest-news-reds-close-in-on-dream-target-bradley-barcola-in-140-million-psg-deal-full-fee-breakdown-premier-league-transfers-live-update-271171/",
+  "title": "Liverpool Transfer Latest News: Reds Close in on Dream Target Bradley Barcola in \u20ac140 Million PSG Deal | Full Fee Breakdown"
+ },
+ {
   "id": "88678fdbf2fdf2e40f762a7d6b47c00f",
   "ts": "2026-08-27T21:00:45+00:00",
   "kind": "deal",
@@ -142,30 +167,6 @@
   "outlet": "Telegram @fabrizioromanotg",
   "url": "https://t.me/FabrizioRomanoTG/65401",
   "title": "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f Como reach full verbal agreement with AC Milan for Samuele Ricci, here we go! Initial loan deal worth \u20ac1.5m, sala"
- },
- {
-  "id": "tg:FabrizioRomanoTG/65398",
-  "ts": "2026-08-27T08:45:47+00:00",
-  "kind": "deal",
-  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/l2v71f1766334537.png/small",
-  "stage": "Here we go",
-  "player": "Bradley Barcola",
-  "position": "\u2014",
-  "age": "\u2014",
-  "from_club": "Paris Saint-Germain",
-  "to_club": "Liverpool",
-  "fee": "\u00a3100m plus add-ons (up to \u20ac140m total)",
-  "style": "Direct, explosive winger with exceptional dribbling ability and goal-scoring threat from wide positions.",
-  "fit": "Deploy him on the left wing in Liverpool's attacking system to maximize his pace and create devastating one-on-one opportunities against opposing full-backs.",
-  "source": "Fabrizio Romano",
-  "sources": [
-   "Fabrizio Romano"
-  ],
-  "srcTier": "tier1",
-  "summary": "Liverpool have reached verbal agreement to sign Bradley Barcola from PSG in a deal worth \u00a3100m plus add-ons, with documents to be exchanged within 24 hours.",
-  "outlet": "Telegram @fabrizioromanotg",
-  "url": "https://t.me/FabrizioRomanoTG/65398",
-  "title": "\ud83d\udea8 \ud83d\udca3 BREAKING: Liverpool reach verbal agreement to sign Bradley Barcola, HERE WE GO! \ud83d\udd34 Initial fee worth \u00a3100m plus add-o"
  },
  {
   "id": "9547ae52e2406c17dbd45dab17200a78",

@@ -1,10 +1,5 @@
 {
   "sent": [
-    "1f58958d6a3b6adfb8f9fc388d70ce79",
-    "b4d6870eea9f4ded5533eb06b0b67d2a",
-    "56d228f9850f838d443a5088e64222a2",
-    "5a4950a22e4af477e5d6e3a5f48c621a",
-    "089343fc733f94080d59f655ca807ebf",
     "55b375497badc5890e9fed43d2b96fbb",
     "bff06ae2814fe916c875e49a351c48b1",
     "a7d49eba68d5f2e3d6af59efa98cc3c4",
@@ -1499,7 +1494,12 @@
     "a90163a59a240b6122d7d0c705765699",
     "9403b1d86a66261fc2db44f35669170b",
     "b099e744929888d0efc209b844b59f98",
-    "42f4bbc7aa26d4af11e90bd8fcb35c1e"
+    "42f4bbc7aa26d4af11e90bd8fcb35c1e",
+    "c52318ab6f178cb3a25c42fd2815b50c",
+    "0f9595ede2c004b8d9af03f978e65aca",
+    "c1b80c64a2532a859cff75f9117cbd80",
+    "374d226a6164527fddeeb00121122f8d",
+    "f565143ac9577d1ec3c6e8db1abee580"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1767,7 +1767,7 @@
     "jackson -> aston villa": 2,
     "zaragoza -> espanyol": 1,
     "palacios -> chelsea": 1,
-    "barcola -> liverpool": 1,
+    "barcola -> liverpool": 2,
     "ricci -> como": 1,
     "naasei -> real madrid": 2,
     "ahanor -> chelsea": 1,
@@ -2007,11 +2007,6 @@
     "interest: reggiani -> milan"
   ],
   "titles": [
-    "premier league star opens the door: huge deal edges closer for manchester city",
-    "it looks like manchester city are finally about to pull the trigger on a move ev",
-    "\ud83d\udcfa new youtube video uploaded! \ud83c\udfac \ud83d\udea8 \ud83d\udca3 deal done! over \u20ac400m! hijack or not? lukeba",
-    "chelsea plotting move for atalanta\u2019s honest ahanor",
-    "liverpool \u2018deciding today\u2019 on \u00a370m minteh deal as final price is named and ibrah",
     "\ud83d\udd35 \u26aa\ufe0f manchester city official bid for enzo will be sent soon, as reported this m",
     "\u2b50\ufe0f official: nico o\u2019reilly has been named 2026 pfa young player of the year http",
     "transfer news live: arsenal push for alvarez, man city target liverpool winger, ",
@@ -2306,7 +2301,12 @@
     "official: lazio sign pinamonti in permanent transfer from sassuolo",
     "liverpool\u2019s next mega money transfer teased after fabrizio romano drops \u201chere we",
     "chelsea advance in ahanor talks with atalanta as sarr loan to real sociedad near",
-    "potential shirt numbers for bradley barcola at liverpool as \u00a3120m transfer on ve"
+    "potential shirt numbers for bradley barcola at liverpool as \u00a3120m transfer on ve",
+    "liverpool get their man: reds seal blockbuster \u00a3120m bradley barcola deal",
+    "report: chelsea consider rivalling arsenal for \u201ctechnically brilliant\u201d attacker",
+    "jack grealish reaches decision on re joining everton or aston villa as man city ",
+    "liverpool transfer latest news: reds close in on dream target bradley barcola in",
+    "wilson isidor signs new sunderland contract to end summer transfer speculation"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2603,15 +2603,15 @@
     "samuele ricci": "https://r2.thesportsdb.com/images/media/player/cutout/syjck91758893445.png/small",
     "oscar naasei": "https://www.thesportsdb.com/images/media/player/cutout/rdeu891787755506.png/small",
     "heaven kilwa": "",
-    "franck kessie": "",
     "honest anahor": "",
     "andria bartishvili": "",
     "michael zetterer": "https://r2.thesportsdb.com/images/media/player/cutout/5ucd981762977059.png/small",
     "tommy marques": "",
     "dastan satpayev": "",
-    "enzo": ""
+    "enzo": "",
+    "franck kessie": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

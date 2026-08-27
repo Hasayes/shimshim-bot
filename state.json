@@ -1,10 +1,5 @@
 {
   "sent": [
-    "7906b55c7f94e85026254164463a82c9",
-    "cd5ce11d6cda402e9ceb8e5aebe54dda",
-    "3acb3d270325abc12cebf6323bdeb33d",
-    "95700be4c69252cf4dea25f15045c40a",
-    "ff8d97b4aa969b8b3746abad2bb76f66",
     "4d03f0b8acdd08c8b1c3e4d865e949c4",
     "8225b683cc8cd9d6ba0d1e08e09707b9",
     "ed10851d5a940923ac2227ec5b11449a",
@@ -1499,7 +1494,12 @@
     "3c5029c8f0f59d961854ab6008c676e1",
     "e0e3000cbc4f96530a3d708382215e20",
     "7733d683777d08f28f008ffc8b89ccce",
-    "3dc34cb7c229dfbf5d3fc9e96a7e526d"
+    "3dc34cb7c229dfbf5d3fc9e96a7e526d",
+    "e6d32f4e9e723a631a378055b85f7d2b",
+    "f38e80743b2e3315b081ba0a9ecfad97",
+    "4666d72cff7e927ff2b20e5daf1c5e66",
+    "8796bced19c288a7f81350406b0a64e1",
+    "tg:FabrizioRomanoTG/65454"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2006,11 +2006,6 @@
     "interest: reggiani -> milan"
   ],
   "titles": [
-    "ruben amorim says rafael leao\u2019s situation \u2018is not important\u2019 at ac milan as agen",
-    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f napoli had a direct meeting with exequiel zeballos\u2019 agent today to discus",
-    "\ud83d\udea8 \ud83d\udd34 \u26ab\ufe0f bayer leverkusen will now focus their efforts on closing moussa diaby dea",
-    "@luka_thfc savio travelled to london on saturday and it\u2019s been announced today, ",
-    "\u26aa\ufe0f \u26ab\ufe0f newcastle and manchester city start to exchange documents today after verb",
     "\ud83d\udea8 \ud83c\udde6\ud83c\uddea kristjan asllani has opened doors to al jazira after direct approach with t",
     "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f after ernest poku deal done, besiktas are now ready to close also fabio ",
     "liverpool given green light from duo worth \u00a3190m for final week of transfer wind",
@@ -2305,7 +2300,12 @@
     "transfer rumors, news: arsenal, man city to fight for everton winger",
     "sources: mikel arteta likely to block arsenal star\u2019s exit as three transfer suit",
     "baleba debut delayed: when man united midfielder is expected to make his debut",
-    "real madrid midfielder wants to stay despite transfer speculation; no negotiatio"
+    "real madrid midfielder wants to stay despite transfer speculation; no negotiatio",
+    "just in: ornstein delivers latest bombshell involving liverpool and bradley barc",
+    "liverpool reach \u2018agreement in principle\u2019 for bradley barcola transfer as ornstei",
+    "liverpool's new investors 'involved' in securing blockbuster bradley barcola tra",
+    "deal agreed: liverpool finally get \u00a3120m bradley barcola transfer breakthrough",
+    "\ud83d\udea8 \u274c jayden oosterwolde to as roma deal has now collapsed after extra medical tes"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2603,14 +2603,14 @@
     "samuele ricci": "https://r2.thesportsdb.com/images/media/player/cutout/syjck91758893445.png/small",
     "oscar naasei": "https://www.thesportsdb.com/images/media/player/cutout/rdeu891787755506.png/small",
     "heaven kilwa": "",
-    "franck kessie": "",
     "honest anahor": "",
     "andria bartishvili": "",
     "tommy marques": "",
     "dastan satpayev": "",
-    "enzo": ""
+    "enzo": "",
+    "franck kessie": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

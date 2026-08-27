@@ -1,8 +1,5 @@
 {
   "sent": [
-    "14943d96528cfc75250cf96d52f0066f",
-    "4d84439f604f0a5d6b16a79cb2407c49",
-    "1347d63546dadd5f0dd054d35648e8ed",
     "7906b55c7f94e85026254164463a82c9",
     "cd5ce11d6cda402e9ceb8e5aebe54dda",
     "3acb3d270325abc12cebf6323bdeb33d",
@@ -1499,7 +1496,10 @@
     "8c95179f4851ad760f91b0d1b628d93e",
     "cc0f3475d1ed12ce5f18943236d2296f",
     "23ef28ad183767d80c96727ce35629a9",
-    "3c5029c8f0f59d961854ab6008c676e1"
+    "3c5029c8f0f59d961854ab6008c676e1",
+    "e0e3000cbc4f96530a3d708382215e20",
+    "7733d683777d08f28f008ffc8b89ccce",
+    "3dc34cb7c229dfbf5d3fc9e96a7e526d"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2006,9 +2006,6 @@
     "interest: reggiani -> milan"
   ],
   "titles": [
-    "\u201cmedical completed\u201d \u2013 premier league team add champions league winner and rush t",
-    "liverpool \u2018still want\u2019 premier league star despite worrying injury \u2018prognosis\u2019",
-    "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f ernest poku to besiktas, here we go! verbal agreement in place with the ",
     "ruben amorim says rafael leao\u2019s situation \u2018is not important\u2019 at ac milan as agen",
     "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f napoli had a direct meeting with exequiel zeballos\u2019 agent today to discus",
     "\ud83d\udea8 \ud83d\udd34 \u26ab\ufe0f bayer leverkusen will now focus their efforts on closing moussa diaby dea",
@@ -2305,7 +2302,10 @@
     "fabrizio romano exclusive: emiliano martinez says yes to chelsea transfer & what",
     "romano reveals chelsea \u2018agreement done\u2019 for \u00a334m star as martinez \u2018gives green l",
     "new liverpool, ismaila sarr update may concern millwall",
-    "transfer rumors, news: arsenal, man city to fight for everton winger"
+    "transfer rumors, news: arsenal, man city to fight for everton winger",
+    "sources: mikel arteta likely to block arsenal star\u2019s exit as three transfer suit",
+    "baleba debut delayed: when man united midfielder is expected to make his debut",
+    "real madrid midfielder wants to stay despite transfer speculation; no negotiatio"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2603,14 +2603,14 @@
     "samuele ricci": "https://r2.thesportsdb.com/images/media/player/cutout/syjck91758893445.png/small",
     "oscar naasei": "https://www.thesportsdb.com/images/media/player/cutout/rdeu891787755506.png/small",
     "heaven kilwa": "",
-    "enzo": "",
     "franck kessie": "",
     "honest anahor": "",
     "andria bartishvili": "",
     "tommy marques": "",
-    "dastan satpayev": ""
+    "dastan satpayev": "",
+    "enzo": ""
   },
-  "photo_repair_idx": 6,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

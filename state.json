@@ -1,8 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/64629",
-    "7312539ff8ba7b904fc95c46c6fd4045",
-    "tg:FabrizioRomanoTG/64631",
     "0763c341631696c435bb3dde182e2fe1",
     "dd9a3d43d4659328035f441d1c70911f",
     "17a6aca4e71a7ab910cccc33500be132",
@@ -1499,7 +1496,10 @@
     "8151d54ef4de9a41c713767b9c318f04",
     "6b73dbbbbb789b047dbe46a10a4351f5",
     "5fce40b59847bedb0c34fe16957f0f41",
-    "tg:FabrizioRomanoTG/65459"
+    "tg:FabrizioRomanoTG/65459",
+    "4e6d00e1dc798b08e36659d3da1667a3",
+    "20be3a1b79e68188722f7326b40e17b1",
+    "tg:FabrizioRomanoTG/65460"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2008,9 +2008,6 @@
     "interest: reggiani -> milan"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f gabriel martinelli\u2019s move to al hilal, at the final stages between clubs ",
-    "\u2b50\ufe0f official: pfa premier league team of the year \ud83e\udde4 david raya \ud83d\udee1\ufe0f timber, gabriel",
-    "newcastle lands no 1 midfield target after \u00a350 million offer: breaking",
     "man city to launch formal bid for enzo fernandez as deadline nears, testing chel",
     "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 official: ousmane dembele will benefit from a rest period in the next few ",
     "romano makes barcola to liverpool \u2018here we go\u2019 claim as \u00a3145m fee is ruled out",
@@ -2307,7 +2304,10 @@
     "\u00a343m star still an option for chelsea and man united now surely out of transfer ",
     "true: arsenal were ready to match liverpool\u2019s bradley barcola bid with late tran",
     "official: wisdom mike leaves bayern munich for club brugge",
-    "\ud83d\udd35 \u2708\ufe0f honest ahanor has authorization to travel from atalanta as he will be in lo"
+    "\ud83d\udd35 \u2708\ufe0f honest ahanor has authorization to travel from atalanta as he will be in lo",
+    "deal agreed: real madrid on the verge of announcing a new signing",
+    "fabrizio romano exclusive update on manchester united\u2019s potential left back sign",
+    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f ipswich town are waiting for tammy abraham to decide on the move as strai"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2604,15 +2604,15 @@
     "oscar naasei": "https://www.thesportsdb.com/images/media/player/cutout/rdeu891787755506.png/small",
     "heaven kilwa": "",
     "michael zetterer": "https://r2.thesportsdb.com/images/media/player/cutout/5ucd981762977059.png/small",
-    "dastan satpayev": "",
     "enzo": "",
     "franck kessie": "",
     "honest anahor": "",
     "andria bartishvili": "",
     "wisdom mike": "https://r2.thesportsdb.com/images/media/player/cutout/opx7n61756415909.png/small",
-    "tommy marques": ""
+    "tommy marques": "",
+    "dastan satpayev": ""
   },
-  "photo_repair_idx": 5,
+  "photo_repair_idx": 6,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

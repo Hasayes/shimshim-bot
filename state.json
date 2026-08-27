@@ -1,8 +1,5 @@
 {
   "sent": [
-    "69ab3b4e7cb5566735f764eb9bbef0ce",
-    "7a969ceeae19cf26e115c41521fd24d7",
-    "f610594254d3e2251df9aaf2ea4c70a6",
     "43b701f8b5134619ab19e0ff328ca83e",
     "9b869df7426ae154765612370f79e9b6",
     "fb015d77c8d0fe3e6e22677f0f6e1675",
@@ -1499,7 +1496,10 @@
     "012727c92112f8b336ffe2789e129071",
     "5a44812527a508c25486313e28050fba",
     "a3110e1f9855f4d9a475bd52b666fe4e",
-    "a20c1099798bf7a9d68342bce49f1c5f"
+    "a20c1099798bf7a9d68342bce49f1c5f",
+    "d0bf40c4c9a814437bfdc83647073f8e",
+    "190ecea70f4fff311389ceb094d3be3c",
+    "5049376d9b9c73ff34df5dadaf0ff020"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2000,9 +2000,6 @@
     "interest: sorloth -> juventus"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83c\uddf3\ud83c\uddf1 manchester city made contact with cody gakpo\u2019s camp today, as @mounirbouali",
-    "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f juventus agree loan deal to sign kamil grabara from wolfsburg, here we g",
-    "\ud83d\udea8 liverpool will only sell cody gakpo if they can get two wingers in next 8 days",
     "liverpool injury update: chiesa, gomez and ekitike latest return dates london ev",
     "\ud83d\udea8 moise kean, on the bench today for fiorentina as como hope to get the deal don",
     "\ud83d\udea8 \ud83e\ude75 \ud83e\udd0d breaking: manchester city reach verbal agreement with palmeiras for allan,",
@@ -2299,7 +2296,10 @@
     "0% chance of arsenal transfer target joining barcelona, club insist",
     "atletico madrid fires back at fc barcelona over julian alvarez pursuit",
     "chelsea consider last minute move for aston villa goalkeeper emiliano martinez",
-    "crystal palace could u turn on ismaila sarr to liverpool position but it depends"
+    "crystal palace could u turn on ismaila sarr to liverpool position but it depends",
+    "julian alvarez transfer news: atletico madrid shut door on barcelona move with \u2018",
+    "\u201cplan\u201d revealed as liverpool nightmare continues with \u00a350m transfer bid rejected",
+    "pinamonti set for lazio medical as ratkov opens door to sevilla"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2596,15 +2596,15 @@
     "sorloth": "https://r2.thesportsdb.com/images/media/player/cutout/v3of4b1762288730.png/small",
     "bryan zaragoza": "https://images.fotmob.com/image_resources/playerimages/1202525.png",
     "exequiel palacios": "https://r2.thesportsdb.com/images/media/player/cutout/oby41y1756316369.png/small",
-    "dastan satpayev": "",
     "heaven kilwa": "",
     "enzo": "",
     "franck kessie": "",
     "honest anahor": "",
     "andria bartishvili": "",
-    "tommy marques": ""
+    "tommy marques": "",
+    "dastan satpayev": ""
   },
-  "photo_repair_idx": 5,
+  "photo_repair_idx": 6,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

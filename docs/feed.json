@@ -1,5 +1,30 @@
 [
  {
+  "id": "608035979e2b5ad071d522a9a2a27745",
+  "ts": "2026-08-27T16:30:42+00:00",
+  "kind": "deal",
+  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/uteluc1762963819.png/small",
+  "stage": "Completed",
+  "player": "Nicolas Jackson",
+  "position": "Striker",
+  "age": "25",
+  "from_club": "Chelsea",
+  "to_club": "Aston Villa",
+  "fee": "\u00a365m",
+  "style": "Dynamic, aggressive striker with strong pace, physicality and directness in the final third.",
+  "fit": "Deploy as a central striker in Villa's attacking system to lead the line and convert chances with his athleticism and positioning.",
+  "source": "Fabrizio Romano",
+  "summary": "Nicolas Jackson has completed his transfer from Chelsea to Aston Villa for \u00a365m after passing his medical and signing his contract.",
+  "outlet": "Telegram @fabrizioromanotg",
+  "url": "https://t.me/FabrizioRomanoTG/65439",
+  "title": "\ud83d\udea8 \ud83d\udfe3 \ud83d\udd35 BREAKING: Nicolas Jackson to Aston Villa, here we go! Deal now done and documents completed. Chelsea get \u00a365m pack",
+  "sources": [
+   "The Sunday Guardian",
+   "Fabrizio Romano"
+  ],
+  "srcTier": "tier1"
+ },
+ {
   "id": "tg:FabrizioRomanoTG/65223",
   "ts": "2026-08-27T14:45:39+00:00",
   "kind": "deal",
@@ -215,31 +240,6 @@
   "outlet": "football-italia",
   "url": "https://football-italia.net/atletico-ask-after-david-juventus-want-sorloth/",
   "title": "Juventus have two options to offer Atletico in exchange for Sorloth, including David"
- },
- {
-  "id": "608035979e2b5ad071d522a9a2a27745",
-  "ts": "2026-08-26T18:15:35+00:00",
-  "kind": "deal",
-  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/uteluc1762963819.png/small",
-  "stage": "Here we go",
-  "player": "Nicolas Jackson",
-  "position": "Striker",
-  "age": "25",
-  "from_club": "Chelsea",
-  "to_club": "Aston Villa",
-  "fee": "\u00a365m",
-  "style": "Energetic forward with good physical presence and directness in attacking play, thrives in high-intensity transitions.",
-  "fit": "Should operate as Emery's central striker to lead Villa's pressing and provide a dynamic, athletic presence in the final third.",
-  "source": "Fabrizio Romano",
-  "summary": "Nicolas Jackson to Aston Villa deal being completed as Chelsea set to accept \u00a365m package. Jackson has agreed to the Villa project and spoken to Unai Emery, with medical next after final details are confirmed.",
-  "outlet": "Telegram @fabrizioromanotg",
-  "url": "https://t.me/FabrizioRomanoTG/65363",
-  "title": "\ud83d\udea8 \ud83d\udfe3 \ud83d\udd35 Nicolas Jackson to Aston Villa deal being completed as Chelsea set to accept \u00a365m package offered by #AVFC . Jacks",
-  "sources": [
-   "The Sunday Guardian",
-   "Fabrizio Romano"
-  ],
-  "srcTier": "tier1"
  },
  {
   "id": "tg:FabrizioRomanoTG/65354",

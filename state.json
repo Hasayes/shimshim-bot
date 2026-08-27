@@ -1,7 +1,5 @@
 {
   "sent": [
-    "2f801373980cfa3b541c7e0f4776d8a1",
-    "be02042e8260c0e6a5210cb78c1d296a",
     "b92adb2b981f5a4a1e9260b32d6a0734",
     "98c8a0f07fec2073720db92d3f609bc7",
     "21223cb583aadad6783311988afb6d68",
@@ -1499,7 +1497,9 @@
     "tg:FabrizioRomanoTG/65434",
     "tg:FabrizioRomanoTG/65436",
     "tg:FabrizioRomanoTG/65438",
-    "cadaa4c2aeb54120aac63a92c693d695"
+    "cadaa4c2aeb54120aac63a92c693d695",
+    "19b5a11d11326a7fa690d5ad708a5e3a",
+    "tg:FabrizioRomanoTG/65439"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1764,7 +1764,7 @@
     "asllani -> al jazira": 1,
     "fort -> real sociedad": 2,
     "ordonez -> crystal palace": 1,
-    "jackson -> aston villa": 1,
+    "jackson -> aston villa": 2,
     "zaragoza -> espanyol": 1,
     "palacios -> chelsea": 1,
     "barcola -> liverpool": 1,
@@ -2005,8 +2005,6 @@
     "interest: reggiani -> milan"
   ],
   "titles": [
-    "\ud83e\ude75 \ud83c\uddf2\ud83c\udde6 ayyoub bouaddi completed his medical at manchester city and joins the club ",
-    "romano reveals liverpool plan for cody gakpo as man city enter \u2018active talks\u2019",
     "\ud83d\udea8 \ud83d\udca3 manchester city are set to send formal bid before the end of the window for ",
     "\ud83d\udcfa new youtube video uploaded! \ud83c\udfac \ud83d\udea8 \ud83d\udca3 enzo bomba! julian: arsenal ready! zubimendi",
     "man city transfer news: fabrizio romano drops \u2018here we go\u2019 for \u00a334 2m attacker s",
@@ -2304,7 +2302,9 @@
     "\ud83d\udea8 \ud83d\udd35 chelsea mantain active talks for emiliano martinez deal with player\u2019s camp a",
     "\ud83d\udea8 \ud83d\udfe3 \ud83d\udd35 official, confirmed leon goretzka has joined aston villa as free agent, wa",
     "\ud83d\udea8 \ud83c\uddf5\ud83c\uddf9 galatasaray are waiting for rafa leao decision after \u20ac45m plus add ons deal",
-    "bayern munich news: jurgen klopp has already spoken with key bundesliga coaches,"
+    "bayern munich news: jurgen klopp has already spoken with key bundesliga coaches,",
+    "man united latest: joshua zirkzee eyeing exit as \u00a330m star makes decision on tra",
+    "\ud83d\udea8 \ud83d\udfe3 \ud83d\udd35 breaking: nicolas jackson to aston villa, here we go! deal now done and do"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2602,14 +2602,14 @@
     "samuele ricci": "https://r2.thesportsdb.com/images/media/player/cutout/syjck91758893445.png/small",
     "oscar naasei": "https://www.thesportsdb.com/images/media/player/cutout/rdeu891787755506.png/small",
     "heaven kilwa": "",
-    "dastan satpayev": "",
     "enzo": "",
     "franck kessie": "",
     "honest anahor": "",
     "andria bartishvili": "",
-    "tommy marques": ""
+    "tommy marques": "",
+    "dastan satpayev": ""
   },
-  "photo_repair_idx": 5,
+  "photo_repair_idx": 6,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

@@ -1,10 +1,5 @@
 {
   "sent": [
-    "0763c341631696c435bb3dde182e2fe1",
-    "dd9a3d43d4659328035f441d1c70911f",
-    "17a6aca4e71a7ab910cccc33500be132",
-    "012a83d82d877facf643019a554bb114",
-    "06dccb34cc39c64f9210990f3b62f473",
     "61e0d30067e58957a8f1cae5f1c63ea0",
     "549c87da4384f163f68cd2978ed39126",
     "b43b26d82dde20975df7bffea990af22",
@@ -1499,7 +1494,12 @@
     "tg:FabrizioRomanoTG/65459",
     "4e6d00e1dc798b08e36659d3da1667a3",
     "20be3a1b79e68188722f7326b40e17b1",
-    "tg:FabrizioRomanoTG/65460"
+    "tg:FabrizioRomanoTG/65460",
+    "5ec24c15d2d0184a37f8386c41d96a68",
+    "efc23dd44698fc95cc24b76324245ad9",
+    "6fa924206b24164420bfaac15a4dfa99",
+    "8199cde3af5e562fd7a4d318f8b4c19a",
+    "tg:FabrizioRomanoTG/65463"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1773,7 +1773,8 @@
     "ahanor -> chelsea": 1,
     "martinez -> chelsea": 2,
     "zetterer -> leeds": 1,
-    "mike -> club brugge": 2
+    "mike -> club brugge": 2,
+    "morata -> leganes": 1
   },
   "interest": [
     "interest: alvarez -> arsenal",
@@ -2008,11 +2009,6 @@
     "interest: reggiani -> milan"
   ],
   "titles": [
-    "man city to launch formal bid for enzo fernandez as deadline nears, testing chel",
-    "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 official: ousmane dembele will benefit from a rest period in the next few ",
-    "romano makes barcola to liverpool \u2018here we go\u2019 claim as \u00a3145m fee is ruled out",
-    "\u2b50\ufe0f official: bruno fernandes wins pfa player of the year award for season 2025/2",
-    "barcelona star makes u turn on saying yes to man utd after red devils make offer",
     "juventus, the sale of michele di gregorio to bournemouth is official: juventus p",
     "nkunku nears leipzig return as milan approve loan with \u20ac28m option",
     "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 nothing advanced or concrete so far for castello lukeba to barcelona despi",
@@ -2307,11 +2303,15 @@
     "\ud83d\udd35 \u2708\ufe0f honest ahanor has authorization to travel from atalanta as he will be in lo",
     "deal agreed: real madrid on the verge of announcing a new signing",
     "fabrizio romano exclusive update on manchester united\u2019s potential left back sign",
-    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f ipswich town are waiting for tammy abraham to decide on the move as strai"
+    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f ipswich town are waiting for tammy abraham to decide on the move as strai",
+    "exclusive: fabrizio romano delivers new arsenal and julian alvarez transfer upda",
+    "romano: man utd in advanced talks with fiorentina after official joshua zirkzee ",
+    "fiorentina submit bid for joshua zirkzee",
+    "has liverpool just pulled off the biggest transfer of the summer?",
+    "\ud83d\udea8 \ud83c\uddea\ud83c\uddf8 leganes are confident to complete all final details of alvaro morata deal o"
   ],
   "tg_update_offset": 263617426,
   "photos": {
-    "mason greenwood": "https://r2.thesportsdb.com/images/media/player/cutout/4zpjv11766153131.png/small",
     "youri tielemans": "https://r2.thesportsdb.com/images/media/player/cutout/dvyawe1756987280.png/small",
     "morten hjulmand": "https://r2.thesportsdb.com/images/media/player/cutout/5tz51l1762290678.png/small",
     "andrey santos": "https://r2.thesportsdb.com/images/media/player/cutout/jt1o7i1757010267.png/small",
@@ -2604,15 +2604,16 @@
     "oscar naasei": "https://www.thesportsdb.com/images/media/player/cutout/rdeu891787755506.png/small",
     "heaven kilwa": "",
     "michael zetterer": "https://r2.thesportsdb.com/images/media/player/cutout/5ucd981762977059.png/small",
-    "enzo": "",
     "franck kessie": "",
     "honest anahor": "",
     "andria bartishvili": "",
     "wisdom mike": "https://r2.thesportsdb.com/images/media/player/cutout/opx7n61756415909.png/small",
     "tommy marques": "",
-    "dastan satpayev": ""
+    "dastan satpayev": "",
+    "alvaro morata": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/%C3%81lvaro_Morata_in_2025.jpg/330px-%C3%81lvaro_Morata_in_2025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "enzo": ""
   },
-  "photo_repair_idx": 6,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",
@@ -2780,6 +2781,7 @@
     "palermo": "https://r2.thesportsdb.com/images/media/team/badge/zi1tb01579708939.png/small",
     "al jazira": "https://r2.thesportsdb.com/images/media/team/badge/uknsoq1642708421.png/small",
     "espanyol": "https://r2.thesportsdb.com/images/media/team/badge/867nzz1681703222.png/small",
-    "granada": "https://r2.thesportsdb.com/images/media/team/badge/f9iss11677472689.png/small"
+    "granada": "https://r2.thesportsdb.com/images/media/team/badge/f9iss11677472689.png/small",
+    "leganes": "https://r2.thesportsdb.com/images/media/team/badge/tm0adr1616443898.png/small"
   }
 }

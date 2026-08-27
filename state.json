@@ -1,6 +1,5 @@
 {
   "sent": [
-    "3e208a9c72daef6850473a00cf418e6d",
     "466142c116bfc3d68e604d53b5a2079c",
     "b3d3737d5c8d56b9b7922c7ff0c352a9",
     "19d26120e26d7663c4ba9635684461ca",
@@ -1499,7 +1498,8 @@
     "6b368eb748cea1c02891caf163acb918",
     "tg:FabrizioRomanoTG/65411",
     "03a17b4a2ab0b3f9c0d53efe65f3cf4f",
-    "tg:FabrizioRomanoTG/65412"
+    "tg:FabrizioRomanoTG/65412",
+    "tg:FabrizioRomanoTG/65413"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2004,7 +2004,6 @@
     "interest: reggiani -> milan"
   ],
   "titles": [
-    "fabrizio romano reveals u turn update on everton linked ace after reports of pre",
     "man utd agree striker transfer as everton lose out \u2013 multiple sources",
     "fabrizio romano reveals \u00a355m arsenal deal at \u2018final stages\u2019",
     "barcelona transfer news: goncalo inacio truth 'revealed' as la liga champions ar",
@@ -2303,7 +2302,8 @@
     "\ud83d\udea8 \u26aa\ufe0f real madrid have agreed to sign 21 year old ghanian centre back oscar naase",
     "chelsea in advance talks over \u20ac40m deal for italy born nigerian defender ahanor",
     "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 medical today for joel ordonez at crystal palace, crucial step to complete",
-    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f breaking: atletico madrid officially announce julian alvarez will not be "
+    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f breaking: atletico madrid officially announce julian alvarez will not be ",
+    "\ud83d\udea8 \ud83d\udfe3 fiorentina are in advanced talks to sign joshua zirkzee as official bid has "
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2598,7 +2598,6 @@
     "exequiel palacios": "https://r2.thesportsdb.com/images/media/player/cutout/oby41y1756316369.png/small",
     "reggiani": "https://r2.thesportsdb.com/images/media/player/cutout/6kn1261773670363.png/small",
     "bradley barcola": "https://r2.thesportsdb.com/images/media/player/cutout/l2v71f1766334537.png/small",
-    "dastan satpayev": "",
     "samuele ricci": "https://r2.thesportsdb.com/images/media/player/cutout/syjck91758893445.png/small",
     "heaven kilwa": "",
     "enzo": "",
@@ -2606,9 +2605,10 @@
     "franck kessie": "",
     "honest anahor": "",
     "andria bartishvili": "",
-    "tommy marques": ""
+    "tommy marques": "",
+    "dastan satpayev": ""
   },
-  "photo_repair_idx": 5,
+  "photo_repair_idx": 6,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

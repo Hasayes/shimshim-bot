@@ -1,7 +1,5 @@
 {
   "sent": [
-    "b0082a9a638c0e52998b400480c8c6f7",
-    "497accb6fcd834c682adccb7dd3160b5",
     "14943d96528cfc75250cf96d52f0066f",
     "4d84439f604f0a5d6b16a79cb2407c49",
     "1347d63546dadd5f0dd054d35648e8ed",
@@ -1499,7 +1497,9 @@
     "tg:FabrizioRomanoTG/65449",
     "01473dbc5d67fb7401e45c40b9eda69d",
     "8c95179f4851ad760f91b0d1b628d93e",
-    "cc0f3475d1ed12ce5f18943236d2296f"
+    "cc0f3475d1ed12ce5f18943236d2296f",
+    "23ef28ad183767d80c96727ce35629a9",
+    "3c5029c8f0f59d961854ab6008c676e1"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2006,8 +2006,6 @@
     "interest: reggiani -> milan"
   ],
   "titles": [
-    "aston villa open talks to sign portuguese winger as he green lights premier leag",
-    "\u26aa\ufe0f \ud83c\udde7\ud83c\uddf7 savinho: \u201cwhenever i came to play against spurs, i always talked to my rep",
     "\u201cmedical completed\u201d \u2013 premier league team add champions league winner and rush t",
     "liverpool \u2018still want\u2019 premier league star despite worrying injury \u2018prognosis\u2019",
     "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f ernest poku to besiktas, here we go! verbal agreement in place with the ",
@@ -2305,7 +2303,9 @@
     "transfer news live: arsenal get alvarez boost, deal confirmed; barcola to liverp",
     "\ud83d\udd35 \ud83c\udde6\ud83c\uddf7 chelsea have signed emiliano dibu martinez on \u00a37 5m deal from aston villa, ",
     "fabrizio romano exclusive: emiliano martinez says yes to chelsea transfer & what",
-    "romano reveals chelsea \u2018agreement done\u2019 for \u00a334m star as martinez \u2018gives green l"
+    "romano reveals chelsea \u2018agreement done\u2019 for \u00a334m star as martinez \u2018gives green l",
+    "new liverpool, ismaila sarr update may concern millwall",
+    "transfer rumors, news: arsenal, man city to fight for everton winger"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2603,14 +2603,14 @@
     "samuele ricci": "https://r2.thesportsdb.com/images/media/player/cutout/syjck91758893445.png/small",
     "oscar naasei": "https://www.thesportsdb.com/images/media/player/cutout/rdeu891787755506.png/small",
     "heaven kilwa": "",
-    "dastan satpayev": "",
     "enzo": "",
     "franck kessie": "",
     "honest anahor": "",
     "andria bartishvili": "",
-    "tommy marques": ""
+    "tommy marques": "",
+    "dastan satpayev": ""
   },
-  "photo_repair_idx": 5,
+  "photo_repair_idx": 6,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

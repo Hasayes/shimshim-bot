@@ -1,12 +1,5 @@
 {
   "sent": [
-    "aca640a0765348a8257baed3aafa2f2f",
-    "b7b54b8af3e8d755ce0dbcee38f728a0",
-    "eeb949c20278e635a49b4fd2fe7c8c52",
-    "a041e5379417132150800da43e7b75a7",
-    "00930747a0d06bd6f18aa996e8346f4a",
-    "d73d7756fb7187b7f9f77bf7658224b4",
-    "726b48ca3d9eb68aa47d9b5a3b11e54b",
     "d115fee849993e8885019854112bb785",
     "5a8cf860e1a4af2a25f47e76df76e2ce",
     "54fed984c2e5824c0fc8216a05b50d2b",
@@ -1499,7 +1492,14 @@
     "b5dba41f6b90cfc6540589b9604d4518",
     "de6ad2ccf9c4cbb8e345bb6bd5f13795",
     "00307eac7ac5e466932b9a9a7fb73299",
-    "5b4e90829e32d2e08daa93a5f12e8c60"
+    "5b4e90829e32d2e08daa93a5f12e8c60",
+    "45b6f73398053af1a29f16ac413bb152",
+    "1483c92fe521095556e44e662e1fa960",
+    "f47760dcd1466aefb5d08f102859c5a0",
+    "0435ae389e1b4229ff453eb104c23f69",
+    "63eca169751e1818b02db20d33d86bb3",
+    "b7bd5dabb93ce16da4a2af50feb5d206",
+    "904f95ee1c43436f31f5aceda6d629c1"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1998,11 +1998,6 @@
     "interest: sorloth -> juventus"
   ],
   "titles": [
-    "fabrizio romano: man utd want 'more signings' after hull loss",
-    "milan and porto to resume santiago gimenez talks on monday",
-    "verbal agreement done: fabrizio romano shares exciting tottenham transfer update",
-    "\ud83d\udea8 \ud83c\uddf2\ud83c\udde6 ayyoub bouaddi, scheduled to fly to manchester today in order to join man c",
-    "liverpool could still land psg duo after director\u2019s telling transfer comments",
     "arsenal closer than ever before to julian alvarez deal as atletico ceo defies di",
     "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f al hilal have made official club to club contact with arsenal for gabriel",
     "matthias jaissle sends clear message on newcastle star\u2019s future after liverpool ",
@@ -2297,7 +2292,12 @@
     "manchester city transfer news: morocco sensation ayyoub bouaddi joins enzo mares",
     "arsenal begin breakthrough julian alvarez talks: report",
     "monaco have enquired about tottenham hotspur target pape matar sarr",
-    "today or tomorrow: next liverpool transfer could be finalised shortly amid worry"
+    "today or tomorrow: next liverpool transfer could be finalised shortly amid worry",
+    "man utd in talks with dutch giant for surprising striker transfer",
+    "man utd in talks for surprising striker transfer carrick has approved",
+    "ogc nice authorise mohamed ali cho to undergo hull city medical",
+    "romano: liverpool make \u00a350m bid to sign crystal palace star ismaila sarr",
+    "liverpool \u2018open talks with crystal palace over ismaila sarr transfer after endin"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2593,16 +2593,16 @@
     "perin": "https://r2.thesportsdb.com/images/media/player/cutout/oo0l5m1759222361.png/small",
     "kristjan asllani": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Kristjan_Asllani%2C_FC_Salzburg_gegen_Inter_Mailand_%28UEFA_Championsleague_2023-11-08%29_63_%28cropped%29.jpg/330px-Kristjan_Asllani%2C_FC_Salzburg_gegen_Inter_Mailand_%28UEFA_Championsleague_2023-11-08%29_63_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "joel ordonez": "https://r2.thesportsdb.com/images/media/player/cutout/7te4j61767634434.png/small",
-    "honest anahor": "",
     "andria bartishvili": "",
     "tommy marques": "",
     "sorloth": "https://r2.thesportsdb.com/images/media/player/cutout/v3of4b1762288730.png/small",
     "dastan satpayev": "",
     "heaven kilwa": "",
     "enzo": "",
-    "franck kessie": ""
+    "franck kessie": "",
+    "honest anahor": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

@@ -1,7 +1,5 @@
 {
   "sent": [
-    "9aba1fd02a0b01a4d58b20946edd46d8",
-    "8274272550dd4650709c9f4678e77e07",
     "bd04610367c351631c61ad06221e2cb3",
     "ef51c81b5afac53371da43676799324e",
     "7687bde46f911ebd74fc2f591a41b3f4",
@@ -1499,7 +1497,9 @@
     "eb3b8fce6aba134897d8a942954b8693",
     "bc12e969afa5676e6974186fe512dbc2",
     "c7fddf0bba1b783fc1234cf3f112b4a1",
-    "tg:FabrizioRomanoTG/65448"
+    "tg:FabrizioRomanoTG/65448",
+    "b65007e836917a482e28065a597b75cc",
+    "tg:FabrizioRomanoTG/65449"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1771,7 +1771,7 @@
     "ricci -> como": 1,
     "naasei -> real madrid": 2,
     "ahanor -> chelsea": 1,
-    "martinez -> chelsea": 1
+    "martinez -> chelsea": 2
   },
   "interest": [
     "interest: alvarez -> arsenal",
@@ -2006,8 +2006,6 @@
     "interest: reggiani -> milan"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 barcelona have just signed all the documents for dominik livakovic deal; h",
-    "rt @fabrizioromano : \ud83d\udea8 \ud83d\udca3 manchester city are set to send formal bid before the e",
     "\ud83d\udd35 \ud83d\udd34 \ud83c\udded\ud83c\uddf7 dominik livakovic medical as new barcelona player will take place tomorro",
     "rt @fabrizioromano : \ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f al hilal are getting closer to gabriel martinelli de",
     "aston villa open talks to sign portuguese winger as he green lights premier leag",
@@ -2305,7 +2303,9 @@
     "man united could soon have talks with super agent jorge mendes to sign left back",
     "transfer news live: liverpool\u2019s barcola breakthrough, alvarez to arsenal saga ta",
     "liverpool set to land bradley barcola from psg after breakthrough talks ahead of",
-    "rt @fabrizioromano : \ud83d\udea8 \ud83d\udca3 breaking: chelsea reach verbal agreement to sign emilia"
+    "rt @fabrizioromano : \ud83d\udea8 \ud83d\udca3 breaking: chelsea reach verbal agreement to sign emilia",
+    "transfer news live: arsenal get alvarez boost, deal confirmed; barcola to liverp",
+    "\ud83d\udd35 \ud83c\udde6\ud83c\uddf7 chelsea have signed emiliano dibu martinez on \u00a37 5m deal from aston villa, "
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2603,14 +2603,14 @@
     "samuele ricci": "https://r2.thesportsdb.com/images/media/player/cutout/syjck91758893445.png/small",
     "oscar naasei": "https://www.thesportsdb.com/images/media/player/cutout/rdeu891787755506.png/small",
     "heaven kilwa": "",
-    "honest anahor": "",
     "andria bartishvili": "",
     "tommy marques": "",
     "dastan satpayev": "",
     "enzo": "",
-    "franck kessie": ""
+    "franck kessie": "",
+    "honest anahor": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

@@ -1450,30 +1450,6 @@
   "srcTier": "tier1"
  },
  {
-  "id": "7b689903355e372808943b04282e70f1",
-  "ts": "2026-08-20T23:01:32+00:00",
-  "kind": "interest",
-  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/1345u71756998901.png/small",
-  "stage": "\u2014",
-  "player": "Yankuba Minteh",
-  "position": "Right winger",
-  "age": "22",
-  "from_club": "Brighton & Hove Albion",
-  "to_club": "Liverpool",
-  "fee": "\u00a350m",
-  "style": "A direct, pacy right winger who relies on dribbling, quick footwork, and penetration in behind to create chances and score goals.",
-  "fit": "His ability to stretch defences and run in behind suits Liverpool's high-tempo, vertical attacking system, providing a dynamic wide option with a proven goal contribution record.",
-  "source": "David Ornstein",
-  "summary": "Liverpool had a \u00a350m opening bid for Brighton's Yankuba Minteh rejected, with Brighton bracing for a follow-up offer. Minteh, currently sidelined for at least eight weeks after leg surgery, is reported to be keen on the move but Brighton are reluctant to sell.",
-  "outlet": "google",
-  "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPN1N3T0FHaW85VFBmelI4enlKVTROVGhrZW5KdW1uOVdTYkxNcUJQN2xkTzRlTVBGM1E2YkVqVFMyckpDZkZFbkRtZ2RkbG1MNjBRS1NBYk13Qklkdm03djVLSGhRYmZYM1I5amFpLTAwb1h4UThHZnhHQ0pUY0FfSXFYVTlVMUxuRzJSVDdvX2N2QXhld25nMg?oc=5",
-  "title": "Transfer news LIVE: Liverpool have Minteh bid REJECTED, City enquire for Wharton - The Sun",
-  "sources": [
-   "David Ornstein"
-  ],
-  "srcTier": "tier1"
- },
- {
   "id": "tg:FabrizioRomanoTG/64987",
   "ts": "2026-08-20T14:00:46+00:00",
   "kind": "deal",

@@ -1,7 +1,5 @@
 {
   "sent": [
-    "3c0799e3262bd47469902a71ce3cd9bb",
-    "5eb5f4b98b44cb3bccb2d7d3ec31f1bc",
     "tg:FabrizioRomanoTG/64629",
     "7312539ff8ba7b904fc95c46c6fd4045",
     "tg:FabrizioRomanoTG/64631",
@@ -1499,7 +1497,9 @@
     "43b3ebe71b1984ac08e226c83795339f",
     "df4f465050f9d249122908bbe55adcff",
     "8151d54ef4de9a41c713767b9c318f04",
-    "6b73dbbbbb789b047dbe46a10a4351f5"
+    "6b73dbbbbb789b047dbe46a10a4351f5",
+    "5fce40b59847bedb0c34fe16957f0f41",
+    "tg:FabrizioRomanoTG/65459"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1772,7 +1772,8 @@
     "naasei -> real madrid": 2,
     "ahanor -> chelsea": 1,
     "martinez -> chelsea": 2,
-    "zetterer -> leeds": 1
+    "zetterer -> leeds": 1,
+    "mike -> club brugge": 2
   },
   "interest": [
     "interest: alvarez -> arsenal",
@@ -2007,8 +2008,6 @@
     "interest: reggiani -> milan"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f enzo fernandez have his green light to manchester city as he\u2019s open to mo",
-    "arsenal make final decision on selling lewis skelly to man utd with red devils \u2018",
     "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f gabriel martinelli\u2019s move to al hilal, at the final stages between clubs ",
     "\u2b50\ufe0f official: pfa premier league team of the year \ud83e\udde4 david raya \ud83d\udee1\ufe0f timber, gabriel",
     "newcastle lands no 1 midfield target after \u00a350 million offer: breaking",
@@ -2306,11 +2305,12 @@
     "wilson isidor signs new sunderland contract to end summer transfer speculation",
     "ipswich strike shock loan deal for tammy abraham as aston villa close in on nico",
     "\u00a343m star still an option for chelsea and man united now surely out of transfer ",
-    "true: arsenal were ready to match liverpool\u2019s bradley barcola bid with late tran"
+    "true: arsenal were ready to match liverpool\u2019s bradley barcola bid with late tran",
+    "official: wisdom mike leaves bayern munich for club brugge",
+    "\ud83d\udd35 \u2708\ufe0f honest ahanor has authorization to travel from atalanta as he will be in lo"
   ],
   "tg_update_offset": 263617426,
   "photos": {
-    "lewis dobbin": "https://r2.thesportsdb.com/images/media/player/cutout/ylj6b81761495478.png/small",
     "mason greenwood": "https://r2.thesportsdb.com/images/media/player/cutout/4zpjv11766153131.png/small",
     "youri tielemans": "https://r2.thesportsdb.com/images/media/player/cutout/dvyawe1756987280.png/small",
     "morten hjulmand": "https://r2.thesportsdb.com/images/media/player/cutout/5tz51l1762290678.png/small",
@@ -2604,14 +2604,15 @@
     "oscar naasei": "https://www.thesportsdb.com/images/media/player/cutout/rdeu891787755506.png/small",
     "heaven kilwa": "",
     "michael zetterer": "https://r2.thesportsdb.com/images/media/player/cutout/5ucd981762977059.png/small",
-    "tommy marques": "",
     "dastan satpayev": "",
     "enzo": "",
     "franck kessie": "",
     "honest anahor": "",
-    "andria bartishvili": ""
+    "andria bartishvili": "",
+    "wisdom mike": "https://r2.thesportsdb.com/images/media/player/cutout/opx7n61756415909.png/small",
+    "tommy marques": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 5,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

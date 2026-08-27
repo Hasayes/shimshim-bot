@@ -1,5 +1,29 @@
 [
  {
+  "id": "5fce40b59847bedb0c34fe16957f0f41",
+  "ts": "2026-08-27T22:45:30+00:00",
+  "kind": "deal",
+  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/opx7n61756415909.png/small",
+  "stage": "Completed",
+  "player": "Wisdom Mike",
+  "position": "Winger",
+  "age": "17",
+  "from_club": "Bayern Munich",
+  "to_club": "Club Brugge",
+  "fee": "\u2014",
+  "style": "\u2014",
+  "fit": "\u2014",
+  "source": "bavarianfootballworks",
+  "sources": [
+   "bavarianfootballworks"
+  ],
+  "srcTier": "standard",
+  "summary": "Wisdom Mike, 17-year-old winger, completes official transfer from Bayern Munich to Belgian champion Club Brugge after joining Bayern's academy in summer 2022.",
+  "outlet": "bavarianfootballworks",
+  "url": "https://www.bavarianfootballworks.com/bayern-munich-transfer-news-rumors/248216/official-wisdom-mike-leaves-bayern-munich-for-club-brugge",
+  "title": "Official: Wisdom Mike leaves Bayern Munich for Club Brugge"
+ },
+ {
   "id": "tg:FabrizioRomanoTG/65398",
   "ts": "2026-08-27T21:45:38+00:00",
   "kind": "deal",

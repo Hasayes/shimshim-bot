@@ -1,9 +1,5 @@
 {
   "sent": [
-    "43b701f8b5134619ab19e0ff328ca83e",
-    "9b869df7426ae154765612370f79e9b6",
-    "fb015d77c8d0fe3e6e22677f0f6e1675",
-    "tg:FabrizioRomanoTG/64582",
     "b2d17c28527d9ddb57d2fd2fd7f5ad57",
     "51d69eb1920863a319b81c97d9d10493",
     "tg:FabrizioRomanoTG/64588",
@@ -1499,7 +1495,11 @@
     "a20c1099798bf7a9d68342bce49f1c5f",
     "d0bf40c4c9a814437bfdc83647073f8e",
     "190ecea70f4fff311389ceb094d3be3c",
-    "5049376d9b9c73ff34df5dadaf0ff020"
+    "5049376d9b9c73ff34df5dadaf0ff020",
+    "bad1443c79c8208200c06c22c3dc14fd",
+    "da55f4f32a75349187a48f96ee5d07c4",
+    "f4fc13e9bbaba20fc078cee18cf2c79c",
+    "f7af16935180b8668ea379fe8800075b"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2000,10 +2000,6 @@
     "interest: sorloth -> juventus"
   ],
   "titles": [
-    "liverpool injury update: chiesa, gomez and ekitike latest return dates london ev",
-    "\ud83d\udea8 moise kean, on the bench today for fiorentina as como hope to get the deal don",
-    "\ud83d\udea8 \ud83e\ude75 \ud83e\udd0d breaking: manchester city reach verbal agreement with palmeiras for allan,",
-    "\ud83d\udcfa new youtube video uploaded! \ud83c\udfac \ud83d\udea8 \ud83d\udca3 wingers bomba! gakpo, barcola, martinelli! \u00a3",
     "liverpool given bradley barcola \u2018guarantee\u2019 from fabrizio romano as transfer mov",
     "liverpool 'accelerate' bradley barcola transfer after fabrizio romano drops huge",
     "arsenal news: \u00a3130m transfer talks held in london as manager gives update on 'ph",
@@ -2299,7 +2295,11 @@
     "crystal palace could u turn on ismaila sarr to liverpool position but it depends",
     "julian alvarez transfer news: atletico madrid shut door on barcelona move with \u2018",
     "\u201cplan\u201d revealed as liverpool nightmare continues with \u00a350m transfer bid rejected",
-    "pinamonti set for lazio medical as ratkov opens door to sevilla"
+    "pinamonti set for lazio medical as ratkov opens door to sevilla",
+    "crystal palace respond to \u00a350m liverpool \u2018bid\u2019 for ismaila sarr with deal decide",
+    "liverpool learn result of \u00a350m ismaila sarr bid as crystal palace react",
+    "emiliano martinez transfer news: chelsea handed golden opportunity to sign world",
+    "will chelsea's enzo fernandez end up joining manchester city?"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2596,15 +2596,15 @@
     "sorloth": "https://r2.thesportsdb.com/images/media/player/cutout/v3of4b1762288730.png/small",
     "bryan zaragoza": "https://images.fotmob.com/image_resources/playerimages/1202525.png",
     "exequiel palacios": "https://r2.thesportsdb.com/images/media/player/cutout/oby41y1756316369.png/small",
-    "heaven kilwa": "",
     "enzo": "",
     "franck kessie": "",
     "honest anahor": "",
     "andria bartishvili": "",
     "tommy marques": "",
-    "dastan satpayev": ""
+    "dastan satpayev": "",
+    "heaven kilwa": ""
   },
-  "photo_repair_idx": 6,
+  "photo_repair_idx": 7,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

@@ -1,8 +1,5 @@
 {
   "sent": [
-    "189995e90487b6c23fdffeda3e118028",
-    "183b278d9e91fd71536c231d0b93b201",
-    "735c254c290f9737a43c628d8130562a",
     "69ab3b4e7cb5566735f764eb9bbef0ce",
     "7a969ceeae19cf26e115c41521fd24d7",
     "f610594254d3e2251df9aaf2ea4c70a6",
@@ -1499,7 +1496,10 @@
     "f9e34f98893473a482a6cb989f520bfb",
     "3050155d8fdfd8d9e0101046c2048ed0",
     "02d3b8af98403fb8b6f0ac3c994a03ae",
-    "012727c92112f8b336ffe2789e129071"
+    "012727c92112f8b336ffe2789e129071",
+    "5a44812527a508c25486313e28050fba",
+    "a3110e1f9855f4d9a475bd52b666fe4e",
+    "a20c1099798bf7a9d68342bce49f1c5f"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2000,8 +2000,6 @@
     "interest: sorloth -> juventus"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f christopher nkunku, set to fly to germany for medical tests and contract ",
-    "liverpool latest: yankuba minteh transfer 'update' as bradley barcola decision m",
     "\ud83d\udea8 \ud83c\uddf3\ud83c\uddf1 manchester city made contact with cody gakpo\u2019s camp today, as @mounirbouali",
     "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f juventus agree loan deal to sign kamil grabara from wolfsburg, here we g",
     "\ud83d\udea8 liverpool will only sell cody gakpo if they can get two wingers in next 8 days",
@@ -2299,7 +2297,9 @@
     "liverpool \u2018make \u00a350m bid for crystal palace winger\u2019 after yankuba minteh talks c",
     "fc barcelona going to push for julian alvarez until transfer deadline",
     "0% chance of arsenal transfer target joining barcelona, club insist",
-    "atletico madrid fires back at fc barcelona over julian alvarez pursuit"
+    "atletico madrid fires back at fc barcelona over julian alvarez pursuit",
+    "chelsea consider last minute move for aston villa goalkeeper emiliano martinez",
+    "crystal palace could u turn on ismaila sarr to liverpool position but it depends"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2595,16 +2595,16 @@
     "joel ordonez": "https://r2.thesportsdb.com/images/media/player/cutout/7te4j61767634434.png/small",
     "sorloth": "https://r2.thesportsdb.com/images/media/player/cutout/v3of4b1762288730.png/small",
     "bryan zaragoza": "https://images.fotmob.com/image_resources/playerimages/1202525.png",
-    "tommy marques": "",
     "exequiel palacios": "https://r2.thesportsdb.com/images/media/player/cutout/oby41y1756316369.png/small",
     "dastan satpayev": "",
     "heaven kilwa": "",
     "enzo": "",
     "franck kessie": "",
     "honest anahor": "",
-    "andria bartishvili": ""
+    "andria bartishvili": "",
+    "tommy marques": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 5,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

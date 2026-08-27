@@ -1,7 +1,5 @@
 {
   "sent": [
-    "ef51c81b5afac53371da43676799324e",
-    "7687bde46f911ebd74fc2f591a41b3f4",
     "b0082a9a638c0e52998b400480c8c6f7",
     "497accb6fcd834c682adccb7dd3160b5",
     "14943d96528cfc75250cf96d52f0066f",
@@ -1499,7 +1497,9 @@
     "tg:FabrizioRomanoTG/65448",
     "b65007e836917a482e28065a597b75cc",
     "tg:FabrizioRomanoTG/65449",
-    "01473dbc5d67fb7401e45c40b9eda69d"
+    "01473dbc5d67fb7401e45c40b9eda69d",
+    "8c95179f4851ad760f91b0d1b628d93e",
+    "cc0f3475d1ed12ce5f18943236d2296f"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2006,7 +2006,6 @@
     "interest: reggiani -> milan"
   ],
   "titles": [
-    "rt @fabrizioromano : \ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f al hilal are getting closer to gabriel martinelli de",
     "aston villa open talks to sign portuguese winger as he green lights premier leag",
     "\u26aa\ufe0f \ud83c\udde7\ud83c\uddf7 savinho: \u201cwhenever i came to play against spurs, i always talked to my rep",
     "\u201cmedical completed\u201d \u2013 premier league team add champions league winner and rush t",
@@ -2305,7 +2304,8 @@
     "rt @fabrizioromano : \ud83d\udea8 \ud83d\udca3 breaking: chelsea reach verbal agreement to sign emilia",
     "transfer news live: arsenal get alvarez boost, deal confirmed; barcola to liverp",
     "\ud83d\udd35 \ud83c\udde6\ud83c\uddf7 chelsea have signed emiliano dibu martinez on \u00a37 5m deal from aston villa, ",
-    "fabrizio romano exclusive: emiliano martinez says yes to chelsea transfer & what"
+    "fabrizio romano exclusive: emiliano martinez says yes to chelsea transfer & what",
+    "romano reveals chelsea \u2018agreement done\u2019 for \u00a334m star as martinez \u2018gives green l"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2603,14 +2603,14 @@
     "samuele ricci": "https://r2.thesportsdb.com/images/media/player/cutout/syjck91758893445.png/small",
     "oscar naasei": "https://www.thesportsdb.com/images/media/player/cutout/rdeu891787755506.png/small",
     "heaven kilwa": "",
-    "tommy marques": "",
     "dastan satpayev": "",
     "enzo": "",
     "franck kessie": "",
     "honest anahor": "",
-    "andria bartishvili": ""
+    "andria bartishvili": "",
+    "tommy marques": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 5,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

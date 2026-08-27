@@ -1,8 +1,5 @@
 {
   "sent": [
-    "fc7d826361db2177c8692a98b2bd469f",
-    "12490ef26c5ba7355e6638849ee7e30b",
-    "c617c78c41533859d2071c40fd30b9c7",
     "712d9054b172b543381b3ab7ce6b3bcb",
     "tg:FabrizioRomanoTG/64581",
     "189995e90487b6c23fdffeda3e118028",
@@ -1499,7 +1496,10 @@
     "4ad6807c318daf59c548b2e396a023bf",
     "7440a2f7469a0863fd6497d6d523f637",
     "980ee22669e448eccdd186c67006ea84",
-    "98d314d62044b349382d2cf80972da5c"
+    "98d314d62044b349382d2cf80972da5c",
+    "6fcbd2db3ddbe23f8d4fe90228313a23",
+    "f9e34f98893473a482a6cb989f520bfb",
+    "3050155d8fdfd8d9e0101046c2048ed0"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2000,9 +2000,6 @@
     "interest: sorloth -> juventus"
   ],
   "titles": [
-    "manchester city would make a loss with former frankfurt man! omar marmoush's med",
-    "rt @fabrizioromano : \ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f kamil grabara has agreed on personal terms with juv",
-    "ugly scenes spark blockbuster arsenal swap twist; city close in on $162m teen st",
     "liverpool news: bradley barcola exiled by psg as personal terms 'agreed' the mir",
     "\ud83d\udea8 \u26ab\ufe0f \u26aa\ufe0f breaking: newcastle reach verbal agreement with man city for nico gonzal",
     "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f christopher nkunku, set to fly to germany for medical tests and contract ",
@@ -2299,7 +2296,10 @@
     "barcelona double down on julian alvarez or nothing stance as deadline day approa",
     "napoli lodge offer to onboard young chelsea castoff",
     "chelsea open talks with aston villa\u2019s emiliano martinez",
-    "update: barcelona have \u201cmade the financial means available\u201d to beat arsenal to j"
+    "update: barcelona have \u201cmade the financial means available\u201d to beat arsenal to j",
+    "emiliano martinez reaches decision on joining chelsea from aston villa amid no e",
+    "liverpool \u2018make \u00a350m bid for crystal palace winger\u2019 after yankuba minteh talks c",
+    "fc barcelona going to push for julian alvarez until transfer deadline"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2594,7 +2594,6 @@
     "kristjan asllani": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Kristjan_Asllani%2C_FC_Salzburg_gegen_Inter_Mailand_%28UEFA_Championsleague_2023-11-08%29_63_%28cropped%29.jpg/330px-Kristjan_Asllani%2C_FC_Salzburg_gegen_Inter_Mailand_%28UEFA_Championsleague_2023-11-08%29_63_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "joel ordonez": "https://r2.thesportsdb.com/images/media/player/cutout/7te4j61767634434.png/small",
     "sorloth": "https://r2.thesportsdb.com/images/media/player/cutout/v3of4b1762288730.png/small",
-    "honest anahor": "",
     "bryan zaragoza": "https://images.fotmob.com/image_resources/playerimages/1202525.png",
     "andria bartishvili": "",
     "tommy marques": "",
@@ -2602,9 +2601,10 @@
     "dastan satpayev": "",
     "heaven kilwa": "",
     "enzo": "",
-    "franck kessie": ""
+    "franck kessie": "",
+    "honest anahor": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

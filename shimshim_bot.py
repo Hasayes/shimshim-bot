@@ -1074,6 +1074,12 @@ def brief_problems(brief):
             problems.append("deal without origin club")
         if _norm(brief.stage) not in VALID_STAGES:
             problems.append(f"invalid stage {brief.stage!r}")
+    if brief.kind == "interest" and brief.from_club.strip() in ("", "—"):
+        # A real rumour always knows where the player currently plays; a blank
+        # origin is the tell for a misparse — a lone first name ("Enzo") or a
+        # fabricated/stale link (a player long gone from the club named).
+        # Cheap catch for the class lean mode can't web-verify after the fact.
+        problems.append("rumour without origin club")
     return problems
 
 

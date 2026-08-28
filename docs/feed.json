@@ -48,30 +48,6 @@
   "title": "\ud83d\udd34 \u26aa\ufe0f AC Monza have agreed deal to sign Jan Ziolkowski from AS Roma, here we go! Verbal agreement done on initial loan wi"
  },
  {
-  "id": "61ff850adaf37a877c77f7a26919f8b9",
-  "ts": "2026-08-28T12:00:40+00:00",
-  "kind": "interest",
-  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/29x61e1762020281.png/small",
-  "stage": "\u2014",
-  "player": "Matheus Cunha",
-  "position": "\u2014",
-  "age": "\u2014",
-  "from_club": "Manchester United",
-  "to_club": "Arsenal",
-  "fee": "\u2014",
-  "style": "Dynamic, technical forward who combines pace, dribbling, and positioning to create chances in the final third.",
-  "fit": "Perfect as an inverted winger or attacking midfielder to add creativity and goal-threat to Arsenal's offensive setup.",
-  "source": "Transfer Talk",
-  "sources": [
-   "Transfer Talk"
-  ],
-  "srcTier": "standard",
-  "summary": "Arsenal are looking to sign Wolverhampton Wanderers' Matheus Cunha to reinforce their attacking line.",
-  "outlet": "ng_shotoe",
-  "url": "https://ng.shotoe.com/matheus-cunha-st_393918/news/transfer-rumors-news-arsenal-eyeing-wolves-matheus-cunha-sn_5032376/",
-  "title": "Transfer rumors, news: Arsenal eyeing Wolves' Matheus Cunha ..."
- },
- {
   "id": "tg:FabrizioRomanoTG/65490",
   "ts": "2026-08-28T11:30:32+00:00",
   "kind": "interest",
@@ -795,54 +771,6 @@
   "title": "Napoli pushing for Chelsea striker Marc Guiu and are ready to pay \u20ac16m"
  },
  {
-  "id": "tg:FabrizioRomanoTG/65282",
-  "ts": "2026-08-25T18:30:50+00:00",
-  "kind": "interest",
-  "photo": "",
-  "stage": "\u2014",
-  "player": "Enzo",
-  "position": "\u2014",
-  "age": "\u2014",
-  "from_club": "\u2014",
-  "to_club": "Manchester City",
-  "fee": "\u2014",
-  "style": "\u2014",
-  "fit": "\u2014",
-  "source": "Fabrizio Romano",
-  "sources": [
-   "Fabrizio Romano"
-  ],
-  "srcTier": "tier1",
-  "summary": "Manchester City is preparing to submit an official bid for Enzo, with the deal reported to be on.",
-  "outlet": "Telegram @fabrizioromanotg",
-  "url": "https://t.me/FabrizioRomanoTG/65282",
-  "title": "\ud83d\udd35 \u26aa\ufe0f Manchester City official bid for Enzo will be sent soon, as reported this morning. Deal absolutely on. \u2935\ufe0f \ud83c\udde6\ud83c\uddf7 https:"
- },
- {
-  "id": "tg:FabrizioRomanoTG/65279",
-  "ts": "2026-08-25T16:30:39+00:00",
-  "kind": "interest",
-  "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Franck_Kessie_Cote_D%27Ivoire_v_Ecuador_14_June_2026-15_%28cropped%29.jpg/330px-Franck_Kessie_Cote_D%27Ivoire_v_Ecuador_14_June_2026-15_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-  "stage": "\u2014",
-  "player": "Franck Kessie",
-  "position": "\u2014",
-  "age": "\u2014",
-  "from_club": "\u2014",
-  "to_club": "Juventus",
-  "fee": "\u2014",
-  "style": "Dynamic midfielder with strong ball-winning abilities and physical presence in the center of the park.",
-  "fit": "Can provide midfield depth and defensive stability for Juventus while offering versatility in their central midfield rotation.",
-  "source": "Fabrizio Romano",
-  "sources": [
-   "Fabrizio Romano"
-  ],
-  "srcTier": "tier1",
-  "summary": "Juventus maintaining active talks with Franck Kessie to finalize a deal, with contract terms being discussed. Kessie also has proposals from Saudi clubs including Al Ittihad.",
-  "outlet": "Telegram @fabrizioromanotg",
-  "url": "https://t.me/FabrizioRomanoTG/65279",
-  "title": "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f Juventus mantain active talks with Franck Kessie today in order to try get the deal done as soon as possible. Co"
- },
- {
   "id": "tg:FabrizioRomanoTG/65252",
   "ts": "2026-08-25T13:15:32+00:00",
   "kind": "deal",
@@ -889,30 +817,6 @@
    "Fabrizio Romano"
   ],
   "srcTier": "tier1"
- },
- {
-  "id": "tg:FabrizioRomanoTG/65234",
-  "ts": "2026-08-25T07:45:42+00:00",
-  "kind": "interest",
-  "photo": "",
-  "stage": "\u2014",
-  "player": "Honest Anahor",
-  "position": "Defender",
-  "age": "18",
-  "from_club": "Atalanta",
-  "to_club": "Chelsea",
-  "fee": "\u2014",
-  "style": "\u2014",
-  "fit": "\u2014",
-  "source": "Fabrizio Romano",
-  "sources": [
-   "Fabrizio Romano"
-  ],
-  "srcTier": "tier1",
-  "summary": "Chelsea have opened initial talks with Atalanta and the player's camp over 18-year-old defender Honest Anahor. Atalanta have already rejected two bids this summer for the prospect, who is also of interest to Brighton.",
-  "outlet": "Telegram @fabrizioromanotg",
-  "url": "https://t.me/FabrizioRomanoTG/65234",
-  "title": "\ud83d\udea8 \ud83d\udd35 More on Honest Anahor and Chelsea exclusive story. Initial talks took place with Atalanta and player\u2019s camp as Chels"
  },
  {
   "id": "3ec75cf70d547df250705a644658a61b",

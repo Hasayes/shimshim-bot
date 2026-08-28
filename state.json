@@ -1,10 +1,5 @@
 {
   "sent": [
-    "82d5e71a5feb6bd7e5cd7fd69eb998af",
-    "db22563acd5bdd5e6f7dd1771fc6e44f",
-    "44f448d773a1960e931834f0026214c0",
-    "3c2052afec581470e4015ccf9ba5ec00",
-    "dad53400b39e370d55eab48f3da71113",
     "tg:FabrizioRomanoTG/64683",
     "tg:FabrizioRomanoTG/64684",
     "65b8d305eea7b24c6e391dfca02edc02",
@@ -1499,7 +1494,12 @@
     "7f16e182190c91a9e6516ad4ca2efc52",
     "2533e1fc1aa0d7e14bd657e85b13ad00",
     "5910d50d0ebf9c8c0f6224c0ba469dee",
-    "abce97a36a66305e53bb9b16064bd886"
+    "abce97a36a66305e53bb9b16064bd886",
+    "f049a91e8f9f5e2293022ba3887a5487",
+    "c93533bd3eaef3255dcce50c0959ddc4",
+    "66297ea114d597e5fc95ed06c27789bd",
+    "c4114fba6b449918b09cc30d9838cc22",
+    "tg:FabrizioRomanoTG/65518"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2020,11 +2020,6 @@
     "interest: allister -> manchester city"
   ],
   "titles": [
-    "@hltco if he pass the medical, he\u2019s new palace player \ud83d\ude01 \u2014 fabrizio romano ( @fab",
-    "\ud83d\udea8 \ud83d\udfe1 \ud83d\udd34 as roma have made official club to club approach with morato as new centre",
-    "liverpool's dream end to transfer window as bradley barcola joins and \u00a370m star ",
-    "romano drops liverpool transfer bombshell as reds make \u00a350m offer for premier le",
-    "nico gonzalez set to join newcastle united in \u00a350 million deal",
     "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 crystal palace and club brugge have already prepared all paperwork for joe",
     "\ud83d\udea8 \ud83d\udd35 exclusive story, confirmed: chelsea are now advancing in club to club talks ",
     "\ud83d\udea8 \ud83d\udfe1 \ud83d\udd34 galatasaray are closing in on club to club agreement for rafael leao for \u20ac",
@@ -2319,7 +2314,12 @@
     "transfer: emi martinez undergoes chelsea medicals, striker set to leave man utd",
     "transfer rumors, news: liverpool still eyeing sarr after barcola deal agreed",
     "fabrizio romano explains man utd signing that's a \"guarantee\" before deadline da",
-    "\u20ac65m arsenal deal at \u201clast stages\u201d as green light given and medical to be booked"
+    "\u20ac65m arsenal deal at \u201clast stages\u201d as green light given and medical to be booked",
+    "fabrizio romano: forward finally gives green light for arsenal transfer",
+    "dominik livakovic completes move to barcelona on four year deal",
+    "man utd reach decision on new striker signing as zirkzee exit talks ramp up",
+    "sources: aston villa still chasing striker signing after bid rejected, man unite",
+    "\ud83d\udea8 \ud83d\udfe3 \ud83d\udd35 breaking: aston villa reach verbal agreement on deal to sign ibrahima mbay"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2620,11 +2620,11 @@
     "enzo": "",
     "honest anahor": "",
     "alexis mac allister": "https://r2.thesportsdb.com/images/media/player/cutout/96dmuf1757087513.png/small",
-    "vuk pavicevic": "",
     "andria bartishvili": "",
-    "tommy marques": ""
+    "tommy marques": "",
+    "vuk pavicevic": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

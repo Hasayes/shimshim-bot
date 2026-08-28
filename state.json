@@ -1,7 +1,5 @@
 {
   "sent": [
-    "88f4aee7ea6be064ab1fbf8fd298c8c4",
-    "3350585469965491f6a0b949c64d9380",
     "1709d099119dfc968ef6f701c5f2013d",
     "8344cb4aeb2b6772d37bc9b589d08d06",
     "9c98751a2cec156e1259a297ed63a658",
@@ -1499,7 +1497,9 @@
     "f7770dc76b6fa1e2ec51ffe2599f23b3",
     "tg:FabrizioRomanoTG/65515",
     "c5950dd704ae7ae24709c512fd900e32",
-    "130fbca94f0828e34cb69e317a588cb1"
+    "130fbca94f0828e34cb69e317a588cb1",
+    "4fe2593715dedf70011608f20b7b7a20",
+    "7f16e182190c91a9e6516ad4ca2efc52"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2020,8 +2020,6 @@
     "interest: allister -> manchester city"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83c\udde6\ud83c\uddea kristjan asllani has agreed to join al jazira from inter, here we go! \ud83c\udde6\ud83c\uddf1 ve",
-    "\ud83d\udea8 \ud83c\udde6\ud83c\uddf7 no negotiations so far between tottenham and emiliano martinez chelsea are ",
     "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f real sociedad reached full verbal agreement with barcelona for hector for",
     "\ud83d\udea8 \ud83d\udfe3 \ud83d\udd35 aston villa have almost closed the agreement with nicolas jackson and his ",
     "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 breaking: crystal palace agree deal to sign joel ordonez from club brugge ",
@@ -2319,7 +2317,9 @@
     "emiliano martinez to have chelsea medical as fabrizio romano shares contract det",
     "rt @fabrizioromano : \ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f exclusive: marc guiu to rb leipzig from chelsea, her",
     "emi martinez: top facts you need to know about world cup champion set to join ch",
-    "romano reacts to claims man city are \u2018in talks\u2019 for stunning \u00a3170m double liverp"
+    "romano reacts to claims man city are \u2018in talks\u2019 for stunning \u00a3170m double liverp",
+    "fabrizio romano reveals when liverpool & chelsea transfer target is \u201clikely to l",
+    "transfer: emi martinez undergoes chelsea medicals, striker set to leave man utd"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2620,11 +2620,11 @@
     "enzo": "",
     "honest anahor": "",
     "alexis mac allister": "https://r2.thesportsdb.com/images/media/player/cutout/96dmuf1757087513.png/small",
-    "andria bartishvili": "",
     "tommy marques": "",
-    "vuk pavicevic": ""
+    "vuk pavicevic": "",
+    "andria bartishvili": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

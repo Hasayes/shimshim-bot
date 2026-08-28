@@ -1,6 +1,5 @@
 {
   "sent": [
-    "e8e523705824bbeb7ae5e4c29dc0d0ac",
     "tg:FabrizioRomanoTG/64636",
     "1c4767440b35bd2845404cc34d4128c3",
     "b3a5186075cc29ab9a186145d7ea596b",
@@ -1499,7 +1498,8 @@
     "a1cfb174aed5073dcb03c7e662d9f1ec",
     "c7f7f360fb3424fea1e00a5069b148f9",
     "78ced40a6aa40d2c49cf81ebe6d10fcf",
-    "98fc55924056e946caedd977fd1df04d"
+    "98fc55924056e946caedd977fd1df04d",
+    "44f8567b59055cf79e78865147312805"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2009,7 +2009,6 @@
     "interest: reggiani -> milan"
   ],
   "titles": [
-    "arsenal football transfer latest news: julian alvarez stance could decide \u00a3130m ",
     "defining gakpo blow for tottenham as liverpool decision comes to light after man",
     "done: barcelona sign contracts for a new signing",
     "enzo fernandez reacts as romano reveals \u2018formal bid\u2019 from man city for chelsea s",
@@ -2308,7 +2307,8 @@
     "tottenham need to look elsewhere as long term summer target finalises \u00a365m move ",
     "lucas perri given green light to travel as deal completed for leeds united exit",
     "emi martinez says yes to move amid chelsea, tottenham transfer battle as aston v",
-    "aston villa striker set for loan move to premier league club after nicolas jacks"
+    "aston villa striker set for loan move to premier league club after nicolas jacks",
+    "romano reveals what barcola \u2018here we go\u2019 means for gakpo, third liverpool winger"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2605,15 +2605,15 @@
     "heaven kilwa": "",
     "michael zetterer": "https://r2.thesportsdb.com/images/media/player/cutout/5ucd981762977059.png/small",
     "wisdom mike": "https://r2.thesportsdb.com/images/media/player/cutout/opx7n61756415909.png/small",
-    "dastan satpayev": "",
     "alvaro morata": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/%C3%81lvaro_Morata_in_2025.jpg/330px-%C3%81lvaro_Morata_in_2025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "enzo": "",
     "franck kessie": "",
     "honest anahor": "",
     "andria bartishvili": "",
-    "tommy marques": ""
+    "tommy marques": "",
+    "dastan satpayev": ""
   },
-  "photo_repair_idx": 5,
+  "photo_repair_idx": 6,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

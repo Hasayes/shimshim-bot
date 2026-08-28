@@ -1,9 +1,5 @@
 {
   "sent": [
-    "b43b26d82dde20975df7bffea990af22",
-    "9e633b08127d5fd4c31608c2497cc1b1",
-    "0222e0e50f1fa9af9f59db884e3213b5",
-    "28b19f9448d46565b2149e454dd24089",
     "db15c37ec4bef443a5382665b88d371f",
     "ddcacd7a518792409f73225db5275191",
     "e8e523705824bbeb7ae5e4c29dc0d0ac",
@@ -1499,7 +1495,11 @@
     "8199cde3af5e562fd7a4d318f8b4c19a",
     "tg:FabrizioRomanoTG/65463",
     "f6f0eef8c3ccff2f34f0db624fe8b4c5",
-    "d037a55d7a648c603b492a2967308bc3"
+    "d037a55d7a648c603b492a2967308bc3",
+    "f9546dc6564b6602af097117e5c82eee",
+    "055ad2e005eafe309220f59d8fe0d466",
+    "a1cfb174aed5073dcb03c7e662d9f1ec",
+    "c7f7f360fb3424fea1e00a5069b148f9"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2009,10 +2009,6 @@
     "interest: reggiani -> milan"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 nothing advanced or concrete so far for castello lukeba to barcelona despi",
-    "failed medical examination at lazio: bamba dieng plays for his future at red sta",
-    "man city monitoring liverpool's cody gakpo before transfer deadline sources espn",
-    "napoli pushing for chelsea striker marc guiu and are ready to pay \u20ac16m",
     "liam delap transfer latest as nottingham forest step up move for chelsea striker",
     "rt @fabrizioromano : \ud83d\udea8 \ud83d\ude9c excl: ipswich town have sent new official bid to bayer ",
     "arsenal football transfer latest news: julian alvarez stance could decide \u00a3130m ",
@@ -2308,7 +2304,11 @@
     "has liverpool just pulled off the biggest transfer of the summer?",
     "\ud83d\udea8 \ud83c\uddea\ud83c\uddf8 leganes are confident to complete all final details of alvaro morata deal o",
     "man utd receive \u2018official bid\u2019 as fabrizio romano reveals \u2018deal on\u2019 with serie a",
-    "fiorentina hope to beat juventus to zirkzee with official bid for manchester uni"
+    "fiorentina hope to beat juventus to zirkzee with official bid for manchester uni",
+    "liverpool reach agreement with psg for barcola",
+    "romano confirms man utd \u2018deal on\u2019 as ineos turn to tottenham target to be new st",
+    "tottenham need to look elsewhere as long term summer target finalises \u00a365m move ",
+    "lucas perri given green light to travel as deal completed for leeds united exit"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2604,16 +2604,16 @@
     "oscar naasei": "https://www.thesportsdb.com/images/media/player/cutout/rdeu891787755506.png/small",
     "heaven kilwa": "",
     "michael zetterer": "https://r2.thesportsdb.com/images/media/player/cutout/5ucd981762977059.png/small",
-    "andria bartishvili": "",
     "wisdom mike": "https://r2.thesportsdb.com/images/media/player/cutout/opx7n61756415909.png/small",
     "tommy marques": "",
     "dastan satpayev": "",
     "alvaro morata": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/%C3%81lvaro_Morata_in_2025.jpg/330px-%C3%81lvaro_Morata_in_2025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "enzo": "",
     "franck kessie": "",
-    "honest anahor": ""
+    "honest anahor": "",
+    "andria bartishvili": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

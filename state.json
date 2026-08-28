@@ -1,7 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/64668",
-    "tg:FabrizioRomanoTG/64669",
     "tg:FabrizioRomanoTG/64670",
     "3c8f3f0810ee0708754550e36564b70b",
     "tg:FabrizioRomanoTG/64671",
@@ -1499,7 +1497,9 @@
     "dfaac3a164348a21d256c8a82ddea100",
     "b1925b9d9edd2ac319232b7abf9391b4",
     "b13f713c6ae3a7f44b751d144a444195",
-    "tg:FabrizioRomanoTG/65476"
+    "tg:FabrizioRomanoTG/65476",
+    "84b22896217b2d860da7a8410a9c24cc",
+    "4a61471f3942caca21d95e72782862fa"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2012,8 +2012,6 @@
     "interest: woltemade -> napoli"
   ],
   "titles": [
-    "leeds loan deal for chelsea star back on the table \u2013 but blues need to be convin",
-    "nottingham forest in direct talks to sign chelsea striker",
     "newcastle agree \u00a352m deal for man city star nico gonzalez with midfielder set fo",
     "decision reached on next tottenham signing from nott\u2019m forest after savio announ",
     "manchester city race for gakpo, enzo: latest transfer updates",
@@ -2311,7 +2309,9 @@
     "\u201cchelsea mantain active talks\u201d \u2013 premier league star open to stamford bridge mov",
     "newcastle united issue official response after nick woltemade transfer approach ",
     "liverpool come to sarr conclusion as potential minteh u turn hint is revealed",
-    "\ud83d\udd35 \ud83c\udde6\ud83c\uddf7 emiliano martinez, in london today for medical tests and then contract sign"
+    "\ud83d\udd35 \ud83c\udde6\ud83c\uddf7 emiliano martinez, in london today for medical tests and then contract sign",
+    "romano gives \u2018here we go\u2019 to second chelsea signing of the day after big fernand",
+    "liverpool planning two attacking signings after barcola with 21 goal winger next"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2608,15 +2608,15 @@
     "moise kean": "https://r2.thesportsdb.com/images/media/player/cutout/1vjmgx1776938330.png/small",
     "iliman ndiaye": "https://r2.thesportsdb.com/images/media/player/cutout/rten2t1756977078.png/small",
     "ahanor": "https://r2.thesportsdb.com/images/media/player/cutout/uahuuj1764331567.png/small",
-    "tommy marques": "",
     "dastan satpayev": "",
     "nick woltemade": "https://r2.thesportsdb.com/images/media/player/cutout/guakb31766824614.png/small",
     "enzo": "",
     "franck kessie": "",
     "honest anahor": "",
-    "andria bartishvili": ""
+    "andria bartishvili": "",
+    "tommy marques": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 5,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

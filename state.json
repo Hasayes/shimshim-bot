@@ -1,6 +1,5 @@
 {
   "sent": [
-    "6b2057a04cde8e0ef9b07472d895fe5a",
     "021f6b9cff4c539840cd044711b4a920",
     "ce256d2f86890b5985ec917dec172cdb",
     "112fc55f3f3bc4ba32fbf0899aaca582",
@@ -1499,7 +1498,8 @@
     "61ff850adaf37a877c77f7a26919f8b9",
     "354c342ea9cf17866e9e845d267bfdea",
     "ab68a44e90e70a693bc67562f1ae125e",
-    "tg:FabrizioRomanoTG/65492"
+    "tg:FabrizioRomanoTG/65492",
+    "tg:FabrizioRomanoTG/65494"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2016,7 +2016,6 @@
     "interest: cunha -> arsenal"
   ],
   "titles": [
-    "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f newcastle and manchester city have signed all docs for nico gonzalez dea",
     "\u26aa\ufe0f \ud83c\uddea\ud83c\uddec omar marmoush contract will be officially signed on thursday, tomorrow \u2014 t",
     "\ud83d\udea8 \ud83d\udfe3 \ud83d\udd35 aston villa have sent their contract proposal to nicolas jackson, long ter",
     "roma awaiting further medical tests for oosterwolde",
@@ -2315,7 +2314,8 @@
     "transfer rumors, news: arsenal eyeing wolves' matheus cunha",
     "transfer rumors, news: psg's vitinha linked to real madrid espn",
     "transfer rumors, news: villa's duran close to al nassr move espn",
-    "\ud83d\udd34 \u26aa\ufe0f ac monza have agreed deal to sign jan ziolkowski from as roma, here we go! "
+    "\ud83d\udd34 \u26aa\ufe0f ac monza have agreed deal to sign jan ziolkowski from as roma, here we go! ",
+    "\ud83d\udea8 \u26aa\ufe0f despite new reports and stories in the last 24h, real madrid and endrick\u2019s "
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2609,7 +2609,6 @@
     "iliman ndiaye": "https://r2.thesportsdb.com/images/media/player/cutout/rten2t1756977078.png/small",
     "ahanor": "https://r2.thesportsdb.com/images/media/player/cutout/uahuuj1764331567.png/small",
     "nick woltemade": "https://r2.thesportsdb.com/images/media/player/cutout/guakb31766824614.png/small",
-    "honest anahor": "",
     "david datro fofana": "https://images.fotmob.com/image_resources/playerimages/1207581.png",
     "franck kessie": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Franck_Kessie_Cote_D%27Ivoire_v_Ecuador_14_June_2026-15_%28cropped%29.jpg/330px-Franck_Kessie_Cote_D%27Ivoire_v_Ecuador_14_June_2026-15_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "andria bartishvili": "",
@@ -2618,9 +2617,10 @@
     "dastan satpayev": "",
     "matheus cunha": "https://r2.thesportsdb.com/images/media/player/cutout/29x61e1762020281.png/small",
     "jan ziolkowski": "https://r2.thesportsdb.com/images/media/player/cutout/4wjqvf1764103153.png/small",
-    "enzo": ""
+    "enzo": "",
+    "honest anahor": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

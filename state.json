@@ -1,6 +1,5 @@
 {
   "sent": [
-    "7f39203eca465d10f7268eabea232ded",
     "tg:FabrizioRomanoTG/64641",
     "tg:FabrizioRomanoTG/64643",
     "tg:FabrizioRomanoTG/64648",
@@ -1499,7 +1498,8 @@
     "b3d0aab022ad39d60a8e59fd94834370",
     "4d3a4d0b43b850c00566c7d849cc14f5",
     "7f47545d10658b0af1d48e756aee4833",
-    "tg:FabrizioRomanoTG/65469"
+    "tg:FabrizioRomanoTG/65469",
+    "f1fb6b186dd54bd48665182b38f87a62"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2011,7 +2011,6 @@
     "interest: ndiaye -> manchester city"
   ],
   "titles": [
-    "\u2705 barca sign livakovic as joan garcia's backup (romano, ser)",
     "transfer updates: gakpo, nico gonzalez, lewis skelly, jackson, alvarez, others",
     "barca find bargain \u20ac4m deal for player they will send on loan for at least one y",
     "transfer news live: arsenal given julian alvarez boost, manchester united and li",
@@ -2310,7 +2309,8 @@
     "fiorentina in talks with man united over zirkzee sources espn",
     "former sheffield united hero iliman ndiaye thrown into possible transfer deal in",
     "\u00a3170m spending spree? liverpool still want this attacker signing alongside bradl",
-    "\ud83d\udea8 \ud83c\uddf3\ud83c\uddf1 fiorentina official bid for joshua zirkzee currently being assessed by man "
+    "\ud83d\udea8 \ud83c\uddf3\ud83c\uddf1 fiorentina official bid for joshua zirkzee currently being assessed by man ",
+    "man utd planning shock late signing with chelsea star \u2018offered directly\u2019 to ineo"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2606,16 +2606,16 @@
     "michael zetterer": "https://r2.thesportsdb.com/images/media/player/cutout/5ucd981762977059.png/small",
     "wisdom mike": "https://r2.thesportsdb.com/images/media/player/cutout/opx7n61756415909.png/small",
     "alvaro morata": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/%C3%81lvaro_Morata_in_2025.jpg/330px-%C3%81lvaro_Morata_in_2025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "tommy marques": "",
     "dastan satpayev": "",
     "enzo": "",
     "moise kean": "https://r2.thesportsdb.com/images/media/player/cutout/1vjmgx1776938330.png/small",
     "franck kessie": "",
     "honest anahor": "",
     "iliman ndiaye": "https://r2.thesportsdb.com/images/media/player/cutout/rten2t1756977078.png/small",
-    "andria bartishvili": ""
+    "andria bartishvili": "",
+    "tommy marques": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 5,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

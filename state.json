@@ -1,6 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/64683",
     "tg:FabrizioRomanoTG/64684",
     "65b8d305eea7b24c6e391dfca02edc02",
     "c862eb70cceb336c0f41c53ef3f84c41",
@@ -1499,7 +1498,8 @@
     "c93533bd3eaef3255dcce50c0959ddc4",
     "66297ea114d597e5fc95ed06c27789bd",
     "c4114fba6b449918b09cc30d9838cc22",
-    "tg:FabrizioRomanoTG/65518"
+    "tg:FabrizioRomanoTG/65518",
+    "b78d84c951ce67617bf56fa8f89a3bfb"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2020,7 +2020,6 @@
     "interest: allister -> manchester city"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 crystal palace and club brugge have already prepared all paperwork for joe",
     "\ud83d\udea8 \ud83d\udd35 exclusive story, confirmed: chelsea are now advancing in club to club talks ",
     "\ud83d\udea8 \ud83d\udfe1 \ud83d\udd34 galatasaray are closing in on club to club agreement for rafael leao for \u20ac",
     "liverpool hit insumountable minteh transfer obstacle, as reds \u2018go cold\u2019 on deal ",
@@ -2319,7 +2318,8 @@
     "dominik livakovic completes move to barcelona on four year deal",
     "man utd reach decision on new striker signing as zirkzee exit talks ramp up",
     "sources: aston villa still chasing striker signing after bid rejected, man unite",
-    "\ud83d\udea8 \ud83d\udfe3 \ud83d\udd35 breaking: aston villa reach verbal agreement on deal to sign ibrahima mbay"
+    "\ud83d\udea8 \ud83d\udfe3 \ud83d\udd35 breaking: aston villa reach verbal agreement on deal to sign ibrahima mbay",
+    "roma turn to monaco\u2019s thilo kehrer as oosterwolde fails medical"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2620,11 +2620,11 @@
     "enzo": "",
     "honest anahor": "",
     "alexis mac allister": "https://r2.thesportsdb.com/images/media/player/cutout/96dmuf1757087513.png/small",
-    "andria bartishvili": "",
     "tommy marques": "",
-    "vuk pavicevic": ""
+    "vuk pavicevic": "",
+    "andria bartishvili": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

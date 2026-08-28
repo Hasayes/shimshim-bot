@@ -1,7 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/64660",
-    "tg:FabrizioRomanoTG/64661",
     "tg:FabrizioRomanoTG/64662",
     "tg:FabrizioRomanoTG/64664",
     "tg:FabrizioRomanoTG/64665",
@@ -1499,7 +1497,9 @@
     "f58f603a37421b9c1ba1130217eaf9de",
     "604c5c6121ef40a313caf4ed3ba4501d",
     "a6b202ad22927570cc29f1d94bf68314",
-    "ef64d7f27a33d67b704316d3304a6dc5"
+    "ef64d7f27a33d67b704316d3304a6dc5",
+    "19ae2018bdae40513489098b81a6a07d",
+    "1b316a04f1564bba45c880b8b983e2bf"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2011,8 +2011,6 @@
     "interest: ndiaye -> manchester city"
   ],
   "titles": [
-    "journalist: aston villa keen on move for serie a forward",
-    "liverpool make decision on bizarre minteh deal as full injury timeline revealed",
     "livakovic signs for barcelona",
     "tottenham turn to algeria international as liverpool rule out gakpo transfer",
     "liverpool handed major yankuba minteh injury concern amid brighton negotiations",
@@ -2310,7 +2308,9 @@
     "arsenal terminate star\u2019s contract and arteta confirms next player to go",
     "\u201ccrucial\u201d few hours ahead as arsenal officials to meet julian alvarez reps in se",
     "latest transfer odds reveal where gakpo, minteh, sarr deals stand after barcola ",
-    "arsenal confirm contract termination for 26yo"
+    "arsenal confirm contract termination for 26yo",
+    "transfer: arsenal terminate reiss nelson\u2019s contract, arteta mute on alvarez deal",
+    "aston villa smash transfer record as fabrizio romano declares \u2018here we go\u2019"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2607,15 +2607,15 @@
     "alvaro morata": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/%C3%81lvaro_Morata_in_2025.jpg/330px-%C3%81lvaro_Morata_in_2025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "moise kean": "https://r2.thesportsdb.com/images/media/player/cutout/1vjmgx1776938330.png/small",
     "iliman ndiaye": "https://r2.thesportsdb.com/images/media/player/cutout/rten2t1756977078.png/small",
-    "tommy marques": "",
     "dastan satpayev": "",
     "ahanor": "https://r2.thesportsdb.com/images/media/player/cutout/uahuuj1764331567.png/small",
     "enzo": "",
     "franck kessie": "",
     "honest anahor": "",
-    "andria bartishvili": ""
+    "andria bartishvili": "",
+    "tommy marques": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 5,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

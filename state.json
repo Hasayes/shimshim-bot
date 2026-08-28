@@ -1,7 +1,5 @@
 {
   "sent": [
-    "3052c95ac5eff8c469a1f1ca921c60cf",
-    "82f667e5c6847021f838c3f5fb338673",
     "tg:FabrizioRomanoTG/64687",
     "7a617dec338dd0d3c4bef7c9be76b987",
     "da66a03020d15a0c1560c13c58653fcd",
@@ -1499,7 +1497,9 @@
     "278be4bac3f7b8c58c8e402e5ae7cd4a",
     "0dfe9929ccdbfa33be369e2a14b54bbc",
     "274f09dc455827ea3f917068d01ef781",
-    "a0162e52db123721a9cdd8e228e87db2"
+    "a0162e52db123721a9cdd8e228e87db2",
+    "tg:FabrizioRomanoTG/65519",
+    "tg:FabrizioRomanoTG/65521"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2020,8 +2020,6 @@
     "interest: allister -> manchester city"
   ],
   "titles": [
-    "liverpool turn to \u2018different options\u2019 as minteh deal goes \u2018cold\u2019 in romano updat",
-    "david ornstein\u2019s cryptic liverpool transfer update as \u201ckey talks\u201d held",
     "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f official and confirmed: nico gonzalez joins newcastle united on \u00a347m plu",
     "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f breaking: al hilal have now agreed all details of deal to sign ollie watk",
     "fabrizio romano gives liverpool fresh hope of landing 18 year old wonderkid",
@@ -2319,7 +2317,9 @@
     "michael zetterer on his way to leeds united for medical after lucas perri transf",
     "transfer news live atletico madrid want julian alvarez saga resolved by end of t",
     "chelsea transfer news: xabi alonso seals bargain \u00a37 5m deal for aston villa and ",
-    "premier league winger gives green light to make last minute man city move"
+    "premier league winger gives green light to make last minute man city move",
+    "\ud83e\ude75 \ud83c\udf7f manchester city win their second game in a row under maresca beating palace!",
+    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f olympiacos have scheduled second part of medical and signature tomorrow f"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2620,11 +2620,11 @@
     "enzo": "",
     "honest anahor": "",
     "alexis mac allister": "https://r2.thesportsdb.com/images/media/player/cutout/96dmuf1757087513.png/small",
-    "vuk pavicevic": "",
     "andria bartishvili": "",
-    "tommy marques": ""
+    "tommy marques": "",
+    "vuk pavicevic": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

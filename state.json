@@ -1,6 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/64698",
     "tg:FabrizioRomanoTG/64703",
     "tg:FabrizioRomanoTG/64706",
     "c2e2d9f9abb0e46f04230176ecc7dd0f",
@@ -1499,7 +1498,8 @@
     "13a199512c8a11af5952ec42c56d51bc",
     "tg:FabrizioRomanoTG/65526",
     "eec40646db357d66af9bb81ce8dc56d5",
-    "tg:FabrizioRomanoTG/65527"
+    "tg:FabrizioRomanoTG/65527",
+    "91cc9dd011245f22a63deddfc50c01a8"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2023,7 +2023,6 @@
     "interest: endrick -> arsenal"
   ],
   "titles": [
-    "transfer rumors, news: barcelona and man united to hold talks over balde deal",
     "bradley barcola transfer to liverpool done with medical next as romano gives upd",
     "romano drops huge enzo fernandez to man city update with \u2018green light\u2019 given",
     "arsenal verbally agree club record \u00a356 5m sale",
@@ -2322,7 +2321,8 @@
     "from spain: arsenal given potentially significant transfer boost as \u20ac20m star co",
     "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f as monaco have reached verbal agreement for mexican midfielder erik lira,",
     "fresh approach made: arsenal back in contact over signing real madrid star",
-    "\ud83d\udcfa new youtube video uploaded! \ud83c\udfac \ud83d\udea8 \ud83d\udca3 bid is coming! out again! \u20ac55m deal done! ca"
+    "\ud83d\udcfa new youtube video uploaded! \ud83c\udfac \ud83d\udea8 \ud83d\udca3 bid is coming! out again! \u20ac55m deal done! ca",
+    "medical today: experienced premier league star in london to complete chelsea mov"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2623,11 +2623,11 @@
     "honest anahor": "",
     "alexis mac allister": "https://r2.thesportsdb.com/images/media/player/cutout/96dmuf1757087513.png/small",
     "toni fernandez": "https://r2.thesportsdb.com/images/media/player/thumb/wff8hh1782654603.jpg/small",
-    "andria bartishvili": "",
     "tommy marques": "",
-    "vuk pavicevic": ""
+    "vuk pavicevic": "",
+    "andria bartishvili": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

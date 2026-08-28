@@ -1,7 +1,5 @@
 {
   "sent": [
-    "d51c9ac0db4d451745fbc436e31eb8d5",
-    "tg:FabrizioRomanoTG/64682",
     "98a84e1f6b8b34c927a7ab69df8b95aa",
     "022a743a7168f785e34eb02abbc05ca3",
     "3c3898d3626aed0adb9a559e10541bdf",
@@ -1499,7 +1497,9 @@
     "tg:FabrizioRomanoTG/65508",
     "tg:FabrizioRomanoTG/65509",
     "c6c8cd1d57ab3bf0b29613c61c1332e2",
-    "f87eae88ce183b9bb3b54c913e14a766"
+    "f87eae88ce183b9bb3b54c913e14a766",
+    "ae85becce677f9fa7bf7a37a5ea91e6d",
+    "tg:FabrizioRomanoTG/65512"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1779,7 +1779,8 @@
     "fofana -> servette": 2,
     "ziolkowski -> ac monza": 1,
     "leao -> galatasaray": 1,
-    "pavicevic -> inter": 1
+    "pavicevic -> inter": 1,
+    "guiu -> rb leipzig": 1
   },
   "interest": [
     "interest: alvarez -> arsenal",
@@ -2015,11 +2016,10 @@
     "interest: ndiaye -> manchester city",
     "interest: woltemade -> napoli",
     "interest: camara -> chelsea",
-    "interest: cunha -> arsenal"
+    "interest: cunha -> arsenal",
+    "interest: allister -> manchester city"
   ],
   "titles": [
-    "rt @fabrizioromano : \ud83d\udea8 \ud83d\udca3 exclusive: liverpool open talks to sign ismaila sarr as",
-    "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 barcelona president laporta: \u201cwe are still very interested in julian alvar",
     "\ud83d\udea8 \ud83d\udca3 barcelona president laporta: \u201clet atletico madrid know that, if they are wil",
     "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 barca president laporta: \u201cwe have a great deal of respect for atletico de ",
     "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 barcelona president laporta: \u201cwe got the information that atletico madrid ",
@@ -2317,11 +2317,12 @@
     "\ud83d\udea8 \ud83e\udd87 harvey elliott has agreed personal terms with valencia following positive ta",
     "\u26ab\ufe0f \ud83d\udd35 \ud83c\uddf2\ud83c\uddea excl: inter closing in on deal for 2008 born talent vuk pavicevic to joi",
     "liverpool links \u2018difficult\u2019 for ismaila sarr as palace boss crushes exit talk an",
-    "west ham can now sign ex arsenal star for \u00a30"
+    "west ham can now sign ex arsenal star for \u00a30",
+    "man city explore premier league option as alternative after enzo fernandez talks",
+    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f exclusive: marc guiu to rb leipzig from chelsea, here we go! \ud83d\udca3 \ud83c\uddea\ud83c\uddf8 rb leip"
   ],
   "tg_update_offset": 263617426,
   "photos": {
-    "nathaniel brown": "https://r2.thesportsdb.com/images/media/player/cutout/4a4ydy1762287286.png/small",
     "jeff ekhator": "https://r2.thesportsdb.com/images/media/player/cutout/v0zi6i1758997489.png/small",
     "illan meslier": "https://r2.thesportsdb.com/images/media/player/cutout/qw61t91757078451.png/small",
     "geovany quenda": "https://r2.thesportsdb.com/images/media/player/cutout/05lcli1762290334.png/small",
@@ -2615,14 +2616,15 @@
     "lamine camara": "https://r2.thesportsdb.com/images/media/player/cutout/1fl2tg1766237973.png/small",
     "matheus cunha": "https://r2.thesportsdb.com/images/media/player/cutout/29x61e1762020281.png/small",
     "jan ziolkowski": "https://r2.thesportsdb.com/images/media/player/cutout/4wjqvf1764103153.png/small",
-    "tommy marques": "",
     "dastan satpayev": "",
     "enzo": "",
     "honest anahor": "",
     "vuk pavicevic": "",
-    "andria bartishvili": ""
+    "andria bartishvili": "",
+    "alexis mac allister": "https://r2.thesportsdb.com/images/media/player/cutout/96dmuf1757087513.png/small",
+    "tommy marques": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

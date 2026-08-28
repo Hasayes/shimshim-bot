@@ -1,5 +1,54 @@
 [
  {
+  "id": "51d3eeb7d3e0a9c3dbab0b243669f7b8",
+  "ts": "2026-08-28T18:00:54+00:00",
+  "kind": "deal",
+  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/x4r4991757003409.png/small",
+  "stage": "Here we go",
+  "player": "Marc Guiu",
+  "position": "Striker",
+  "age": "\u2014",
+  "from_club": "Chelsea",
+  "to_club": "RB Leipzig",
+  "fee": "\u20ac16m",
+  "style": "Aggressive, physical striker with strong finishing ability and presence in the box.",
+  "fit": "Should lead RB Leipzig's attack and utilize the team's high-pressing system to create scoring opportunities.",
+  "source": "Fabrizio Romano",
+  "sources": [
+   "Gianluca Di Marzio",
+   "Fabrizio Romano"
+  ],
+  "srcTier": "tier1",
+  "summary": "Marc Guiu joins RB Leipzig from Chelsea on a permanent deal with a sell-on clause included, as agreement is reached between all parties.",
+  "outlet": "Telegram @fabrizioromanotg",
+  "url": "https://t.me/FabrizioRomanoTG/65512",
+  "title": "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f EXCLUSIVE: Marc Guiu to RB Leipzig from Chelsea, here we go! \ud83d\udca3 \ud83c\uddea\ud83c\uddf8 RB Leipzig close the agreement after secret tal"
+ },
+ {
+  "id": "ae85becce677f9fa7bf7a37a5ea91e6d",
+  "ts": "2026-08-28T18:00:49+00:00",
+  "kind": "interest",
+  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/96dmuf1757087513.png/small",
+  "stage": "\u2014",
+  "player": "Alexis Mac Allister",
+  "position": "\u2014",
+  "age": "\u2014",
+  "from_club": "Liverpool",
+  "to_club": "Manchester City",
+  "fee": "\u2014",
+  "style": "Energetic midfielder with excellent ball-carrying ability and press resistance, capable of operating across the midfield line.",
+  "fit": "Could provide City with a dynamic presence to rotate with Rodri and enhance their midfield's pressing and transitional play.",
+  "source": "CaughtOffside",
+  "sources": [
+   "CaughtOffside"
+  ],
+  "srcTier": "standard",
+  "summary": "Manchester City are exploring Alexis Mac Allister as a midfield alternative while negotiations with Chelsea over Enzo Fernandez remain unresolved.",
+  "outlet": "caughtoffside",
+  "url": "https://www.caughtoffside.com/2026/08/28/man-city-explore-premier-league-option-enzo-talks-stall/",
+  "title": "Man City explore Premier League option as alternative after Enzo Fernandez talks stall"
+ },
+ {
   "id": "tg:FabrizioRomanoTG/65509",
   "ts": "2026-08-28T16:30:51+00:00",
   "kind": "deal",
@@ -771,30 +820,6 @@
   "srcTier": "tier1"
  },
  {
-  "id": "51d3eeb7d3e0a9c3dbab0b243669f7b8",
-  "ts": "2026-08-25T20:30:38+00:00",
-  "kind": "interest",
-  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/x4r4991757003409.png/small",
-  "stage": "\u2014",
-  "player": "Marc Guiu",
-  "position": "striker",
-  "age": "\u2014",
-  "from_club": "Chelsea",
-  "to_club": "Napoli",
-  "fee": "\u20ac16m",
-  "style": "Young, aggressive striker with quick movement in the box and developing technical ability.",
-  "fit": "Should be used as a rotational forward option to provide fresh energy and compete for minutes in Napoli's attacking setup.",
-  "source": "Gianluca Di Marzio",
-  "sources": [
-   "Gianluca Di Marzio"
-  ],
-  "srcTier": "tier1",
-  "summary": "Napoli are making a concerted push to sign Chelsea striker Marc Guiu and have tabled a \u20ac16 million bid for him, according to Gianluca Di Marzio.",
-  "outlet": "yahoo",
-  "url": "https://ca.sports.yahoo.com/news/napoli-pushing-chelsea-striker-marc-083000415.html",
-  "title": "Napoli pushing for Chelsea striker Marc Guiu and are ready to pay \u20ac16m"
- },
- {
   "id": "tg:FabrizioRomanoTG/65252",
   "ts": "2026-08-25T13:15:32+00:00",
   "kind": "deal",
@@ -1373,31 +1398,6 @@
    "Fabrizio Romano"
   ],
   "srcTier": "tier1"
- },
- {
-  "id": "751876b467912bd02691876ff96e7f6c",
-  "ts": "2026-08-21T17:52:27+00:00",
-  "kind": "interest",
-  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/ubnx241769330610.png/small",
-  "stage": "\u2014",
-  "player": "Viktor Gy\u00f6keres",
-  "position": "Centre-forward",
-  "age": "28",
-  "from_club": "Arsenal FC",
-  "to_club": "FC Barcelona",
-  "fee": "Undisclosed",
-  "style": "A physically imposing, high-pressing centre-forward with lethal finishing and the ability to hold up play and link attacks.",
-  "fit": "Barcelona need a marquee number nine following Lewandowski's exit, and Gy\u00f6keres' goal-scoring volume and aerial presence would give Flick a dominant focal point in their attack.",
-  "source": "Victor Navarro, COPE",
-  "summary": "According to COPE journalist Victor Navarro, Gy\u00f6keres' camp is pushing for a move to Barcelona as an alternative after the club's pursuit of Juli\u00e1n \u00c1lvarez definitively collapsed, with his agent in dialogue with Bar\u00e7a sporting director Deco. However, no club-to-club contact has been made, Arsenal have no intention of selling, and Barcelona's genuine priority remains Lautaro Mart\u00ednez.",
-  "outlet": "mathrubhumi",
-  "url": "https://english.mathrubhumi.com/sports/football/barcelona-striker-transfer-window-gyokeres-alvarez-2026-u8n98uqu",
-  "title": "From Madrid veto to Camp Nou chase: Why Arsenal's top scorer is eyeing a late Barcelona move",
-  "sources": [
-   "Victor Navarro",
-   "COPE"
-  ],
-  "srcTier": "standard"
  },
  {
   "id": "tg:FabrizioRomanoTG/65068",

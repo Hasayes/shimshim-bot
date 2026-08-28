@@ -1,5 +1,29 @@
 [
  {
+  "id": "4d3a4d0b43b850c00566c7d849cc14f5",
+  "ts": "2026-08-28T02:15:30+00:00",
+  "kind": "interest",
+  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/rten2t1756977078.png/small",
+  "stage": "\u2014",
+  "player": "Iliman Ndiaye",
+  "position": "\u2014",
+  "age": "\u2014",
+  "from_club": "Everton",
+  "to_club": "Manchester City",
+  "fee": "\u2014",
+  "style": "Pacey, direct winger who uses acceleration and close control to create chances in the final third.",
+  "fit": "Deploy him on the wing to provide width and cutting edge in City's attacking play.",
+  "source": "Fabrizio Romano",
+  "sources": [
+   "Fabrizio Romano"
+  ],
+  "srcTier": "tier1",
+  "summary": "Iliman Ndiaye, a former Sheffield United player, has been linked by Fabrizio Romano to Manchester City in a possible transfer deal also involving Everton and Jack Grealish.",
+  "outlet": "thestar_co_uk",
+  "url": "https://www.thestar.co.uk/sport/football/sheffield-united/sheffield-united-iliman-ndiaye-man-city-everton-jack-grealish-8945818",
+  "title": "Former Sheffield United hero Iliman Ndiaye thrown into possible transfer deal involving Man City, Everton and Jack Grealish"
+ },
+ {
   "id": "8477d8aca8d5749dc47e15361c22b951",
   "ts": "2026-08-28T01:45:35+00:00",
   "kind": "deal",

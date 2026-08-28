@@ -1,8 +1,5 @@
 {
   "sent": [
-    "fc86a7a845dc11a1d40048453fa41bd9",
-    "325ac2601846356bdaada478319b45e6",
-    "bd9ff3539d0bc14ed2d2341f1ab9d86c",
     "7f39203eca465d10f7268eabea232ded",
     "tg:FabrizioRomanoTG/64641",
     "tg:FabrizioRomanoTG/64643",
@@ -1499,7 +1496,10 @@
     "5adb443278d4c63915930d4c991b0c6c",
     "4155638ddda73f1cbf861137cd2cf311",
     "1c9b52fbe5d90c6a684e7fabc487e212",
-    "b3d0aab022ad39d60a8e59fd94834370"
+    "b3d0aab022ad39d60a8e59fd94834370",
+    "4d3a4d0b43b850c00566c7d849cc14f5",
+    "7f47545d10658b0af1d48e756aee4833",
+    "tg:FabrizioRomanoTG/65469"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2007,12 +2007,10 @@
     "interest: sarr -> liverpool",
     "interest: martinez -> chelsea",
     "interest: sorloth -> juventus",
-    "interest: reggiani -> milan"
+    "interest: reggiani -> milan",
+    "interest: ndiaye -> manchester city"
   ],
   "titles": [
-    "romano issues latest update on the twist in enzo fernandez saga involving man ci",
-    "\u00a3128m arsenal target now more open to summer move",
-    "romano confirms \u2018internal feeling\u2019 at arsenal regarding julian alvarez pursuit",
     "\u2705 barca sign livakovic as joan garcia's backup (romano, ser)",
     "transfer updates: gakpo, nico gonzalez, lewis skelly, jackson, alvarez, others",
     "barca find bargain \u20ac4m deal for player they will send on loan for at least one y",
@@ -2309,11 +2307,13 @@
     "\ud83d\udcfa new youtube video uploaded! \ud83c\udfac \ud83d\udea8 \ud83d\udca3 julian: deal on! united: two signings, one f",
     "done deal: kean to join como for \u20ac35m plus \u20ac5m bonus from fiorentina",
     "luis enrique defends decision to leave star man out for lille clash",
-    "fiorentina in talks with man united over zirkzee sources espn"
+    "fiorentina in talks with man united over zirkzee sources espn",
+    "former sheffield united hero iliman ndiaye thrown into possible transfer deal in",
+    "\u00a3170m spending spree? liverpool still want this attacker signing alongside bradl",
+    "\ud83d\udea8 \ud83c\uddf3\ud83c\uddf1 fiorentina official bid for joshua zirkzee currently being assessed by man "
   ],
   "tg_update_offset": 263617426,
   "photos": {
-    "morten hjulmand": "https://r2.thesportsdb.com/images/media/player/cutout/5tz51l1762290678.png/small",
     "andrey santos": "https://r2.thesportsdb.com/images/media/player/cutout/jt1o7i1757010267.png/small",
     "mario gila": "https://r2.thesportsdb.com/images/media/player/cutout/sivafj1698231333.png/small",
     "ivan provedel": "https://r2.thesportsdb.com/images/media/player/cutout/3skyav1764242674.png/small",
@@ -2606,15 +2606,16 @@
     "michael zetterer": "https://r2.thesportsdb.com/images/media/player/cutout/5ucd981762977059.png/small",
     "wisdom mike": "https://r2.thesportsdb.com/images/media/player/cutout/opx7n61756415909.png/small",
     "alvaro morata": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/%C3%81lvaro_Morata_in_2025.jpg/330px-%C3%81lvaro_Morata_in_2025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "andria bartishvili": "",
     "tommy marques": "",
     "dastan satpayev": "",
     "enzo": "",
     "moise kean": "https://r2.thesportsdb.com/images/media/player/cutout/1vjmgx1776938330.png/small",
     "franck kessie": "",
-    "honest anahor": ""
+    "honest anahor": "",
+    "iliman ndiaye": "https://r2.thesportsdb.com/images/media/player/cutout/rten2t1756977078.png/small",
+    "andria bartishvili": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

@@ -1,7 +1,5 @@
 {
   "sent": [
-    "25d65fdfbae97423846202e25da8bce2",
-    "dc6ae3bfcfcba79cd7abe230b7be9328",
     "4a6cbf90b41505a805a27df17064d9f3",
     "b99648e7a1394fea7bede0bd5c91c4be",
     "687e4d7925b2b6f358f4ea40b7cf80e9",
@@ -1499,7 +1497,9 @@
     "7f38b017cf358b82b0025f83cee6f395",
     "tg:FabrizioRomanoTG/65482",
     "ec7fef80cc23b9d34a4fd757508d8609",
-    "01f19213f2adc036244611005097001d"
+    "01f19213f2adc036244611005097001d",
+    "0f3b558d588217b8d54f3925332832ec",
+    "92605a5ee5ea6e0cce52a793bf156427"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2013,7 +2013,6 @@
     "interest: woltemade -> napoli"
   ],
   "titles": [
-    "atletico madrid in negotiations with la liga club to sign 19 year old barcelona ",
     "ornstein rates liverpool chances of bradley barcola deal as crunch talks confirm",
     "journalist reveals minteh\u2019s true injury timeline as liverpool prepare third bid",
     "\ud83d\udea8 \ud83c\uddf5\ud83c\uddf9 talks for goncalo inacio continue behind the scenes with an exit still cons",
@@ -2312,7 +2311,8 @@
     "arsenal make unexpected reiss nelson decision as his future takes a new turn",
     "\ud83d\udea8 \ud83c\udde8\ud83c\udded servette fc have completed deal to sign david datro fofana from chelsea on ",
     "napoli interest in woltemade, gabriel jesus and guiu with premier league focus",
-    "transfer: martinez to join chelsea as barcelona sign livakovic"
+    "transfer: martinez to join chelsea as barcelona sign livakovic",
+    "arsenal continue alvarez pursuit friday's gossip"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2609,15 +2609,15 @@
     "iliman ndiaye": "https://r2.thesportsdb.com/images/media/player/cutout/rten2t1756977078.png/small",
     "ahanor": "https://r2.thesportsdb.com/images/media/player/cutout/uahuuj1764331567.png/small",
     "nick woltemade": "https://r2.thesportsdb.com/images/media/player/cutout/guakb31766824614.png/small",
-    "dastan satpayev": "",
     "enzo": "",
     "franck kessie": "",
     "honest anahor": "",
     "david datro fofana": "https://images.fotmob.com/image_resources/playerimages/1207581.png",
     "andria bartishvili": "",
-    "tommy marques": ""
+    "tommy marques": "",
+    "dastan satpayev": ""
   },
-  "photo_repair_idx": 5,
+  "photo_repair_idx": 6,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

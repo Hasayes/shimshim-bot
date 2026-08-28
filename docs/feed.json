@@ -1,5 +1,53 @@
 [
  {
+  "id": "tg:FabrizioRomanoTG/65492",
+  "ts": "2026-08-28T12:00:47+00:00",
+  "kind": "deal",
+  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/4wjqvf1764103153.png/small",
+  "stage": "Here we go",
+  "player": "Jan Ziolkowski",
+  "position": "Defender",
+  "age": "\u2014",
+  "from_club": "AS Roma",
+  "to_club": "AC Monza",
+  "fee": "Loan with \u20ac18m buy option",
+  "style": "\u2014",
+  "fit": "\u2014",
+  "source": "Fabrizio Romano",
+  "sources": [
+   "Fabrizio Romano"
+  ],
+  "srcTier": "tier1",
+  "summary": "AC Monza have agreed a verbal deal to sign Polish defender Jan Ziolkowski from AS Roma on an initial loan with an \u20ac18m buy option clause.",
+  "outlet": "Telegram @fabrizioromanotg",
+  "url": "https://t.me/FabrizioRomanoTG/65492",
+  "title": "\ud83d\udd34 \u26aa\ufe0f AC Monza have agreed deal to sign Jan Ziolkowski from AS Roma, here we go! Verbal agreement done on initial loan wi"
+ },
+ {
+  "id": "61ff850adaf37a877c77f7a26919f8b9",
+  "ts": "2026-08-28T12:00:40+00:00",
+  "kind": "interest",
+  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/29x61e1762020281.png/small",
+  "stage": "\u2014",
+  "player": "Matheus Cunha",
+  "position": "\u2014",
+  "age": "\u2014",
+  "from_club": "Manchester United",
+  "to_club": "Arsenal",
+  "fee": "\u2014",
+  "style": "Dynamic, technical forward who combines pace, dribbling, and positioning to create chances in the final third.",
+  "fit": "Perfect as an inverted winger or attacking midfielder to add creativity and goal-threat to Arsenal's offensive setup.",
+  "source": "Transfer Talk",
+  "sources": [
+   "Transfer Talk"
+  ],
+  "srcTier": "standard",
+  "summary": "Arsenal are looking to sign Wolverhampton Wanderers' Matheus Cunha to reinforce their attacking line.",
+  "outlet": "ng_shotoe",
+  "url": "https://ng.shotoe.com/matheus-cunha-st_393918/news/transfer-rumors-news-arsenal-eyeing-wolves-matheus-cunha-sn_5032376/",
+  "title": "Transfer rumors, news: Arsenal eyeing Wolves' Matheus Cunha ..."
+ },
+ {
   "id": "tg:FabrizioRomanoTG/65490",
   "ts": "2026-08-28T11:30:32+00:00",
   "kind": "interest",

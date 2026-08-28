@@ -1,9 +1,5 @@
 {
   "sent": [
-    "1f39a3d8cabf1cf46374f7e458d3c813",
-    "e648526f132de4882914a34c10472fbf",
-    "tg:FabrizioRomanoTG/64676",
-    "6da21d323f99de305cc20e01877baea2",
     "6b2057a04cde8e0ef9b07472d895fe5a",
     "021f6b9cff4c539840cd044711b4a920",
     "ce256d2f86890b5985ec917dec172cdb",
@@ -1499,7 +1495,11 @@
     "7f979f849d35fddca605e2f035a191a3",
     "5807e2bdc8823550c09f49707faa347b",
     "tg:FabrizioRomanoTG/65490",
-    "tg:FabrizioRomanoTG/65491"
+    "tg:FabrizioRomanoTG/65491",
+    "61ff850adaf37a877c77f7a26919f8b9",
+    "354c342ea9cf17866e9e845d267bfdea",
+    "ab68a44e90e70a693bc67562f1ae125e",
+    "tg:FabrizioRomanoTG/65492"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1776,7 +1776,8 @@
     "mike -> club brugge": 2,
     "morata -> leganes": 1,
     "kean -> como": 2,
-    "fofana -> servette": 2
+    "fofana -> servette": 2,
+    "ziolkowski -> ac monza": 1
   },
   "interest": [
     "interest: alvarez -> arsenal",
@@ -2011,13 +2012,10 @@
     "interest: reggiani -> milan",
     "interest: ndiaye -> manchester city",
     "interest: woltemade -> napoli",
-    "interest: camara -> chelsea"
+    "interest: camara -> chelsea",
+    "interest: cunha -> arsenal"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f gabriel martinelli\u2019s agent are in direct contact with al hilal again to c",
-    "transfer: martinelli\u2019s \u20ac65m move from arsenal \u2018in final stages\u2019",
-    "wednesday's gossip: villa make offer for palace striker mateta",
-    "\ud83d\udea8 \u26aa\ufe0f documents signed by both clubs and exchanged as expected: omar marmoush, se",
     "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f newcastle and manchester city have signed all docs for nico gonzalez dea",
     "\u26aa\ufe0f \ud83c\uddea\ud83c\uddec omar marmoush contract will be officially signed on thursday, tomorrow \u2014 t",
     "\ud83d\udea8 \ud83d\udfe3 \ud83d\udd35 aston villa have sent their contract proposal to nicolas jackson, long ter",
@@ -2313,12 +2311,14 @@
     "dibu martinez is one step away from chelsea",
     "xabi alonso explains decision to leave enzo fernandez out of chelsea\u2019s squad for",
     "\ud83d\udea8 \ud83d\udd35 chelsea and as monaco had a meeting on thursday to discuss lamine camara as ",
-    "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 bologna reach verbal agreement to sign arthur theate from eintracht, here "
+    "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 bologna reach verbal agreement to sign arthur theate from eintracht, here ",
+    "transfer rumors, news: arsenal eyeing wolves' matheus cunha",
+    "transfer rumors, news: psg's vitinha linked to real madrid espn",
+    "transfer rumors, news: villa's duran close to al nassr move espn",
+    "\ud83d\udd34 \u26aa\ufe0f ac monza have agreed deal to sign jan ziolkowski from as roma, here we go! "
   ],
   "tg_update_offset": 263617426,
   "photos": {
-    "denzel dumfries": "https://r2.thesportsdb.com/images/media/player/cutout/1hd7ox1759408866.png/small",
-    "inaki pena": "https://r2.thesportsdb.com/images/media/player/cutout/qia5h11762894216.png/small",
     "elliot anderson": "https://r2.thesportsdb.com/images/media/player/cutout/rhm8q21757162869.png/small",
     "nathaniel brown": "https://r2.thesportsdb.com/images/media/player/cutout/4a4ydy1762287286.png/small",
     "jeff ekhator": "https://r2.thesportsdb.com/images/media/player/cutout/v0zi6i1758997489.png/small",
@@ -2611,14 +2611,16 @@
     "nick woltemade": "https://r2.thesportsdb.com/images/media/player/cutout/guakb31766824614.png/small",
     "honest anahor": "",
     "david datro fofana": "https://images.fotmob.com/image_resources/playerimages/1207581.png",
-    "enzo": "",
     "franck kessie": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Franck_Kessie_Cote_D%27Ivoire_v_Ecuador_14_June_2026-15_%28cropped%29.jpg/330px-Franck_Kessie_Cote_D%27Ivoire_v_Ecuador_14_June_2026-15_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "andria bartishvili": "",
     "tommy marques": "",
     "lamine camara": "https://r2.thesportsdb.com/images/media/player/cutout/1fl2tg1766237973.png/small",
-    "dastan satpayev": ""
+    "dastan satpayev": "",
+    "matheus cunha": "https://r2.thesportsdb.com/images/media/player/cutout/29x61e1762020281.png/small",
+    "jan ziolkowski": "https://r2.thesportsdb.com/images/media/player/cutout/4wjqvf1764103153.png/small",
+    "enzo": ""
   },
-  "photo_repair_idx": 5,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",
@@ -2788,6 +2790,7 @@
     "espanyol": "https://r2.thesportsdb.com/images/media/team/badge/867nzz1681703222.png/small",
     "granada": "https://r2.thesportsdb.com/images/media/team/badge/f9iss11677472689.png/small",
     "leganes": "https://r2.thesportsdb.com/images/media/team/badge/tm0adr1616443898.png/small",
-    "servette": "https://r2.thesportsdb.com/images/media/team/badge/440wv71692206330.png/small"
+    "servette": "https://r2.thesportsdb.com/images/media/team/badge/440wv71692206330.png/small",
+    "ac monza": "https://r2.thesportsdb.com/images/media/team/badge/bxearg1603170113.png/small"
   }
 }

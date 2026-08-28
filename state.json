@@ -1,7 +1,5 @@
 {
   "sent": [
-    "075b8d805e7d31da00d0d6262e3c265e",
-    "tg:FabrizioRomanoTG/64695",
     "tg:FabrizioRomanoTG/64698",
     "tg:FabrizioRomanoTG/64703",
     "tg:FabrizioRomanoTG/64706",
@@ -1499,7 +1497,9 @@
     "169d7c005c6165f9307ca3577769d248",
     "6a958eec95dd4e9c174567999cce9ba0",
     "13a199512c8a11af5952ec42c56d51bc",
-    "tg:FabrizioRomanoTG/65526"
+    "tg:FabrizioRomanoTG/65526",
+    "eec40646db357d66af9bb81ce8dc56d5",
+    "tg:FabrizioRomanoTG/65527"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2019,11 +2019,10 @@
     "interest: camara -> chelsea",
     "interest: cunha -> arsenal",
     "interest: allister -> manchester city",
-    "interest: scott -> liverpool"
+    "interest: scott -> liverpool",
+    "interest: endrick -> arsenal"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83d\udd35 chelsea are in advanced talks over \u20ac40m deal for honest ahanor from atalanta",
-    "\ud83d\udd35 \u26aa\ufe0f \u26a1\ufe0f deportivo de a coruna completed all formal steps to sign adama traore af",
     "transfer rumors, news: barcelona and man united to hold talks over balde deal",
     "bradley barcola transfer to liverpool done with medical next as romano gives upd",
     "romano drops huge enzo fernandez to man city update with \u2018green light\u2019 given",
@@ -2321,7 +2320,9 @@
     "como poised to acquire fiorentina and milan stars",
     "fabrizio romano makes late window \u2018guarantee\u2019 over man utd signing after call wi",
     "from spain: arsenal given potentially significant transfer boost as \u20ac20m star co",
-    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f as monaco have reached verbal agreement for mexican midfielder erik lira,"
+    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f as monaco have reached verbal agreement for mexican midfielder erik lira,",
+    "fresh approach made: arsenal back in contact over signing real madrid star",
+    "\ud83d\udcfa new youtube video uploaded! \ud83c\udfac \ud83d\udea8 \ud83d\udca3 bid is coming! out again! \u20ac55m deal done! ca"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2622,11 +2623,11 @@
     "honest anahor": "",
     "alexis mac allister": "https://r2.thesportsdb.com/images/media/player/cutout/96dmuf1757087513.png/small",
     "toni fernandez": "https://r2.thesportsdb.com/images/media/player/thumb/wff8hh1782654603.jpg/small",
-    "vuk pavicevic": "",
     "andria bartishvili": "",
-    "tommy marques": ""
+    "tommy marques": "",
+    "vuk pavicevic": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

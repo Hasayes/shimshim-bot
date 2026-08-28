@@ -1,5 +1,31 @@
 [
  {
+  "id": "6f2238009a868e12d4dc7711ee94c1a2",
+  "ts": "2026-08-28T22:45:31+00:00",
+  "kind": "interest",
+  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/5yb3rv1733653315.png/small",
+  "stage": "\u2014",
+  "player": "Endrick",
+  "position": "Striker",
+  "age": "20",
+  "from_club": "Real Madrid",
+  "to_club": "AC Milan, Liverpool, Arsenal",
+  "fee": "Undisclosed",
+  "style": "Explosive young striker with exceptional dribbling, pace and finishing ability; direct, aggressive playing style in transition.",
+  "fit": "Should operate as a dynamic, press-resistant forward who can exploit Arsenal's attacking space and create chances through individual brilliance.",
+  "source": "CaughtOffside",
+  "summary": "Arsenal are reportedly back in contact with Real Madrid over a potential transfer move for striker Endrick, a Brazil international.",
+  "outlet": "caughtoffside",
+  "url": "https://www.caughtoffside.com/2026/08/28/arsenal-back-in-for-endrick-transfer/",
+  "title": "Fresh approach made: Arsenal back in contact over signing Real Madrid star",
+  "sources": [
+   "Paul Joyce",
+   "The Times",
+   "CaughtOffside"
+  ],
+  "srcTier": "tier1"
+ },
+ {
   "id": "tg:FabrizioRomanoTG/65522",
   "ts": "2026-08-28T21:27:38+00:00",
   "kind": "deal",
@@ -1371,31 +1397,6 @@
   "sources": [
    "Fabrizio Romano",
    "Romano"
-  ],
-  "srcTier": "tier1"
- },
- {
-  "id": "6f2238009a868e12d4dc7711ee94c1a2",
-  "ts": "2026-08-22T08:01:32+00:00",
-  "kind": "interest",
-  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/5yb3rv1733653315.png/small",
-  "stage": "\u2014",
-  "player": "Endrick",
-  "position": "Forward",
-  "age": "20",
-  "from_club": "Real Madrid",
-  "to_club": "AC Milan, Liverpool",
-  "fee": "Undisclosed",
-  "style": "Dynamic and clinical Brazilian forward who combines pace, technical flair, and sharp finishing in tight spaces.",
-  "fit": "Would offer Liverpool a high-upside attacking option with elite potential, though his preferred use as a central striker suits a rotation or high-press system.",
-  "source": "Paul Joyce / The Times",
-  "summary": "Liverpool have approached Real Madrid to enquire about the availability of Endrick, per Paul Joyce of The Times, corroborated by ESPN Brasil. Real Madrid are reportedly unwilling to sanction a permanent departure and Endrick himself has no intention of leaving, with the Spanish club open only to a loan \u2014 a format that does not suit Liverpool's preference for a permanent deal.",
-  "outlet": "bbc",
-  "url": "https://www.bbc.co.uk/sport/football/articles/cy4kjg3j4d3o",
-  "title": "Saturday's gossip: Liverpool enquire about Real Madrid's Endrick",
-  "sources": [
-   "Paul Joyce",
-   "The Times"
   ],
   "srcTier": "tier1"
  },

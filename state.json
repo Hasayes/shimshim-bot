@@ -1,7 +1,5 @@
 {
   "sent": [
-    "da9948c91d45a58a8adb669c065bfb3c",
-    "6a7f725240239b90694190d580675e03",
     "fc86a7a845dc11a1d40048453fa41bd9",
     "325ac2601846356bdaada478319b45e6",
     "bd9ff3539d0bc14ed2d2341f1ab9d86c",
@@ -1499,7 +1497,9 @@
     "tg:FabrizioRomanoTG/65468",
     "8477d8aca8d5749dc47e15361c22b951",
     "5adb443278d4c63915930d4c991b0c6c",
-    "4155638ddda73f1cbf861137cd2cf311"
+    "4155638ddda73f1cbf861137cd2cf311",
+    "1c9b52fbe5d90c6a684e7fabc487e212",
+    "b3d0aab022ad39d60a8e59fd94834370"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2010,7 +2010,6 @@
     "interest: reggiani -> milan"
   ],
   "titles": [
-    "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f besiktas reach verbal agreement to sign fabio miretti from juventus, her",
     "romano issues latest update on the twist in enzo fernandez saga involving man ci",
     "\u00a3128m arsenal target now more open to summer move",
     "romano confirms \u2018internal feeling\u2019 at arsenal regarding julian alvarez pursuit",
@@ -2309,7 +2308,8 @@
     "transfer news: jack grealish latest as talks held amid sunderland and everton in",
     "\ud83d\udcfa new youtube video uploaded! \ud83c\udfac \ud83d\udea8 \ud83d\udca3 julian: deal on! united: two signings, one f",
     "done deal: kean to join como for \u20ac35m plus \u20ac5m bonus from fiorentina",
-    "luis enrique defends decision to leave star man out for lille clash"
+    "luis enrique defends decision to leave star man out for lille clash",
+    "fiorentina in talks with man united over zirkzee sources espn"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2606,15 +2606,15 @@
     "michael zetterer": "https://r2.thesportsdb.com/images/media/player/cutout/5ucd981762977059.png/small",
     "wisdom mike": "https://r2.thesportsdb.com/images/media/player/cutout/opx7n61756415909.png/small",
     "alvaro morata": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/%C3%81lvaro_Morata_in_2025.jpg/330px-%C3%81lvaro_Morata_in_2025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "honest anahor": "",
     "andria bartishvili": "",
     "tommy marques": "",
     "dastan satpayev": "",
     "enzo": "",
     "moise kean": "https://r2.thesportsdb.com/images/media/player/cutout/1vjmgx1776938330.png/small",
-    "franck kessie": ""
+    "franck kessie": "",
+    "honest anahor": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

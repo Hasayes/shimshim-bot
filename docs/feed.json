@@ -1,5 +1,29 @@
 [
  {
+  "id": "25e5a72ccbf0c6527f218a41577a9db4",
+  "ts": "2026-08-28T03:45:34+00:00",
+  "kind": "deal",
+  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/uahuuj1764331567.png/small",
+  "stage": "Completed",
+  "player": "Ahanor",
+  "position": "Defender",
+  "age": "\u2014",
+  "from_club": "Atalanta",
+  "to_club": "Chelsea",
+  "fee": "\u00a340m",
+  "style": "\u2014",
+  "fit": "\u2014",
+  "source": "Fabrizio Romano",
+  "sources": [
+   "Fabrizio Romano"
+  ],
+  "srcTier": "tier1",
+  "summary": "Chelsea have agreed a \u00a340m deal with Atalanta to sign defender Ahanor. Romano has confirmed the transfer as complete.",
+  "outlet": "google",
+  "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOYm0tbDVTNGdoSnNTQ1QtdHg4N3NjbVd1WE5kakZVZ0R0Q3c1eUlNOVUyNnBhRHJFX01TQTZGbmhMbzRuQWhRaEZQbEpSVktyd3Z6RkJkTTVLS25uVG9qck5fRnhlVUdNcVlwM0pMT05SNmxPWTZ3S3UtdHk3MDV2ZnNITzIzTlFwa1BwUi1aRlRVRkdhY3VuelF1akRkSzNlakt3em53ZExzSHhPUXdvQ2IyZlBNYnRBX21PZGpQaGs2aXdpa0Rj?oc=5",
+  "title": "Fabrizio Romano confirms \u00a340m Chelsea signing and 'final decision' imminent on another arrival - TEAMtalk"
+ },
+ {
   "id": "4d3a4d0b43b850c00566c7d849cc14f5",
   "ts": "2026-08-28T02:15:30+00:00",
   "kind": "interest",

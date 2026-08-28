@@ -1,8 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/64643",
-    "tg:FabrizioRomanoTG/64648",
-    "c3baeb49950965550c7bcb8c462abbfe",
     "tg:FabrizioRomanoTG/64656",
     "tg:FabrizioRomanoTG/64657",
     "tg:FabrizioRomanoTG/64658",
@@ -1499,7 +1496,10 @@
     "7f47545d10658b0af1d48e756aee4833",
     "tg:FabrizioRomanoTG/65469",
     "f1fb6b186dd54bd48665182b38f87a62",
-    "1ed3b9ddcb039ed5d38671384a1683a4"
+    "1ed3b9ddcb039ed5d38671384a1683a4",
+    "25e5a72ccbf0c6527f218a41577a9db4",
+    "ccd5937ce614fa772056aff9061f54e2",
+    "99aade5e297e048f49eb03c145bc7427"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1770,7 +1770,7 @@
     "barcola -> liverpool": 2,
     "ricci -> como": 1,
     "naasei -> real madrid": 2,
-    "ahanor -> chelsea": 1,
+    "ahanor -> chelsea": 2,
     "martinez -> chelsea": 2,
     "zetterer -> leeds": 1,
     "mike -> club brugge": 2,
@@ -2011,9 +2011,6 @@
     "interest: ndiaye -> manchester city"
   ],
   "titles": [
-    "barca find bargain \u20ac4m deal for player they will send on loan for at least one y",
-    "transfer news live: arsenal given julian alvarez boost, manchester united and li",
-    "newcastle united line up seventh summer signing after verbal agreement claim",
     "romano: arsenal wait for signal from world class attacker to start bidding",
     "just in: chelsea open talks to sign elite young defender who could cost more tha",
     "jacobs: man city \u201cexpected to accelerate\u201d late record bid for midfielder",
@@ -2310,11 +2307,13 @@
     "\u00a3170m spending spree? liverpool still want this attacker signing alongside bradl",
     "\ud83d\udea8 \ud83c\uddf3\ud83c\uddf1 fiorentina official bid for joshua zirkzee currently being assessed by man ",
     "man utd planning shock late signing with chelsea star \u2018offered directly\u2019 to ineo",
-    "fabrizio romano confirms major transfer blow for manchester united"
+    "fabrizio romano confirms major transfer blow for manchester united",
+    "fabrizio romano confirms \u00a340m chelsea signing and 'final decision' imminent on a",
+    "romano gives \u2018here we go\u2019 to next chelsea transfer as blues close in on two deal",
+    "fabrizio romano reveals \u201chere we go\u201d for chelsea to complete \u00a340m transfer"
   ],
   "tg_update_offset": 263617426,
   "photos": {
-    "andrey santos": "https://r2.thesportsdb.com/images/media/player/cutout/jt1o7i1757010267.png/small",
     "mario gila": "https://r2.thesportsdb.com/images/media/player/cutout/sivafj1698231333.png/small",
     "ivan provedel": "https://r2.thesportsdb.com/images/media/player/cutout/3skyav1764242674.png/small",
     "bazoumana toure": "https://r2.thesportsdb.com/images/media/player/cutout/sf2uwx1763494642.png/small",
@@ -2606,16 +2605,17 @@
     "michael zetterer": "https://r2.thesportsdb.com/images/media/player/cutout/5ucd981762977059.png/small",
     "wisdom mike": "https://r2.thesportsdb.com/images/media/player/cutout/opx7n61756415909.png/small",
     "alvaro morata": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/%C3%81lvaro_Morata_in_2025.jpg/330px-%C3%81lvaro_Morata_in_2025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "enzo": "",
     "moise kean": "https://r2.thesportsdb.com/images/media/player/cutout/1vjmgx1776938330.png/small",
     "franck kessie": "",
     "honest anahor": "",
     "iliman ndiaye": "https://r2.thesportsdb.com/images/media/player/cutout/rten2t1756977078.png/small",
     "andria bartishvili": "",
     "tommy marques": "",
-    "dastan satpayev": ""
+    "dastan satpayev": "",
+    "ahanor": "https://r2.thesportsdb.com/images/media/player/cutout/uahuuj1764331567.png/small",
+    "enzo": ""
   },
-  "photo_repair_idx": 6,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

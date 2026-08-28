@@ -1,6 +1,5 @@
 {
   "sent": [
-    "9a5a9c538a062479554a5801a766b8e4",
     "tg:FabrizioRomanoTG/64688",
     "tg:FabrizioRomanoTG/64689",
     "tg:FabrizioRomanoTG/64692",
@@ -1499,7 +1498,8 @@
     "e16f8039290f67e40196c5cfc1c09f61",
     "tg:FabrizioRomanoTG/65522",
     "716c0177a30465294825214b48d1c511",
-    "tg:FabrizioRomanoTG/65525"
+    "tg:FabrizioRomanoTG/65525",
+    "951635d1217b99a75894ee868d9314e2"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2022,7 +2022,6 @@
     "interest: scott -> liverpool"
   ],
   "titles": [
-    "rt @fabrizioromano : \ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f breaking: al hilal have now agreed all details of de",
     "decisive development in marmoush's transfer to tottenham",
     "sunderland transfer latest: \u00a319 7m deal completed as fresh everton defender link",
     "fabrizio romano confirms agreement reached for liverpool midfielder deal",
@@ -2321,7 +2320,8 @@
     "romano reveals mac allister \u2018offer\u2019 as man city linked with shock liverpool raid",
     "\ud83d\udea8 \ud83c\uddea\ud83c\uddf8 venezia reach verbal agreement to sign toni fernandez from barcelona, here ",
     "fabrizio romano tells arsenal fans to \u201cget ready\u201d as hugely exciting transfer \u201cn",
-    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f harry kane on new contract at bayern: \u201cthe talks started last week so far"
+    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f harry kane on new contract at bayern: \u201cthe talks started last week so far",
+    "epl: emi martinez undergoes chelsea medical ahead of move"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2621,12 +2621,12 @@
     "enzo": "",
     "honest anahor": "",
     "alexis mac allister": "https://r2.thesportsdb.com/images/media/player/cutout/96dmuf1757087513.png/small",
-    "vuk pavicevic": "",
     "toni fernandez": "https://r2.thesportsdb.com/images/media/player/thumb/wff8hh1782654603.jpg/small",
     "andria bartishvili": "",
-    "tommy marques": ""
+    "tommy marques": "",
+    "vuk pavicevic": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

@@ -1,5 +1,53 @@
 [
  {
+  "id": "tg:FabrizioRomanoTG/65522",
+  "ts": "2026-08-28T21:27:38+00:00",
+  "kind": "deal",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/wff8hh1782654603.jpg/small",
+  "stage": "Here we go",
+  "player": "Toni Fernandez",
+  "position": "\u2014",
+  "age": "18",
+  "from_club": "Barcelona",
+  "to_club": "Venezia",
+  "fee": "\u20ac4m plus 50% sell-on clause",
+  "style": "\u2014",
+  "fit": "\u2014",
+  "source": "Fabrizio Romano",
+  "sources": [
+   "Fabrizio Romano"
+  ],
+  "srcTier": "tier1",
+  "summary": "Barcelona and Venezia have reached a verbal agreement for 18-year-old Toni Fernandez to join the Serie A club for \u20ac4m with a 50% sell-on clause and buy-back clause.",
+  "outlet": "Telegram @fabrizioromanotg",
+  "url": "https://t.me/FabrizioRomanoTG/65522",
+  "title": "\ud83d\udea8 \ud83c\uddea\ud83c\uddf8 Venezia reach verbal agreement to sign Toni Fernandez from Barcelona, here we go! Deal in place at \u20ac4m fee plus 50%"
+ },
+ {
+  "id": "34d371d106e88a5be78b993a608319de",
+  "ts": "2026-08-28T21:27:33+00:00",
+  "kind": "interest",
+  "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Alex_Scott_Interview_2023.jpg/330px-Alex_Scott_Interview_2023.jpg",
+  "stage": "\u2014",
+  "player": "Alex Scott",
+  "position": "Defensive Midfield",
+  "age": "\u2014",
+  "from_club": "Bournemouth",
+  "to_club": "Liverpool",
+  "fee": "\u2014",
+  "style": "Disciplined defensive midfielder who breaks up play with intelligent positioning and tactical awareness, thriving in Iraola's structured system.",
+  "fit": "Can provide Liverpool with a composed ball-winner to shield the backline and initiate attacks from deep, suiting their pressing-based midfield setup.",
+  "source": "Yahoo",
+  "sources": [
+   "Yahoo"
+  ],
+  "srcTier": "standard",
+  "summary": "Alex Scott is Liverpool's top midfield target, having previously played under Andoni Iraola. Bournemouth are expected to resist selling the English midfielder without significant effort.",
+  "outlet": "yahoo",
+  "url": "https://uk.sports.yahoo.com/news/liverpools-top-midfield-target-likely-091802894.html",
+  "title": "Liverpool's top midfield target 'likely to leave' but Reds will have to be patient"
+ },
+ {
   "id": "51d3eeb7d3e0a9c3dbab0b243669f7b8",
   "ts": "2026-08-28T18:00:54+00:00",
   "kind": "deal",

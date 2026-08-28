@@ -1,8 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/64687",
-    "7a617dec338dd0d3c4bef7c9be76b987",
-    "da66a03020d15a0c1560c13c58653fcd",
     "896986441266999d80bd96831acc7160",
     "a7c363aadd81b842ae620aa95a11987c",
     "9a5a9c538a062479554a5801a766b8e4",
@@ -1499,7 +1496,10 @@
     "274f09dc455827ea3f917068d01ef781",
     "a0162e52db123721a9cdd8e228e87db2",
     "tg:FabrizioRomanoTG/65519",
-    "tg:FabrizioRomanoTG/65521"
+    "tg:FabrizioRomanoTG/65521",
+    "34d371d106e88a5be78b993a608319de",
+    "e16f8039290f67e40196c5cfc1c09f61",
+    "tg:FabrizioRomanoTG/65522"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1780,7 +1780,8 @@
     "ziolkowski -> ac monza": 1,
     "leao -> galatasaray": 1,
     "pavicevic -> inter": 1,
-    "guiu -> rb leipzig": 1
+    "guiu -> rb leipzig": 1,
+    "fernandez -> venezia": 1
   },
   "interest": [
     "interest: alvarez -> arsenal",
@@ -2017,12 +2018,10 @@
     "interest: woltemade -> napoli",
     "interest: camara -> chelsea",
     "interest: cunha -> arsenal",
-    "interest: allister -> manchester city"
+    "interest: allister -> manchester city",
+    "interest: scott -> liverpool"
   ],
   "titles": [
-    "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f official and confirmed: nico gonzalez joins newcastle united on \u00a347m plu",
-    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f breaking: al hilal have now agreed all details of deal to sign ollie watk",
-    "fabrizio romano gives liverpool fresh hope of landing 18 year old wonderkid",
     "a decisive development in marmoush's transfer deal to tottenham",
     "fabrizio romano drops bradley barcola to liverpool bombshell \u2013 \u2018at any moment\u2019",
     "rt @fabrizioromano : \ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f breaking: al hilal have now agreed all details of de",
@@ -2319,11 +2318,13 @@
     "chelsea transfer news: xabi alonso seals bargain \u00a37 5m deal for aston villa and ",
     "premier league winger gives green light to make last minute man city move",
     "\ud83e\ude75 \ud83c\udf7f manchester city win their second game in a row under maresca beating palace!",
-    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f olympiacos have scheduled second part of medical and signature tomorrow f"
+    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f olympiacos have scheduled second part of medical and signature tomorrow f",
+    "liverpool's top midfield target 'likely to leave' but reds will have to be patie",
+    "romano reveals mac allister \u2018offer\u2019 as man city linked with shock liverpool raid",
+    "\ud83d\udea8 \ud83c\uddea\ud83c\uddf8 venezia reach verbal agreement to sign toni fernandez from barcelona, here "
   ],
   "tg_update_offset": 263617426,
   "photos": {
-    "jeff ekhator": "https://r2.thesportsdb.com/images/media/player/cutout/v0zi6i1758997489.png/small",
     "illan meslier": "https://r2.thesportsdb.com/images/media/player/cutout/qw61t91757078451.png/small",
     "geovany quenda": "https://r2.thesportsdb.com/images/media/player/cutout/05lcli1762290334.png/small",
     "tyrique george": "https://r2.thesportsdb.com/images/media/player/cutout/wu3lse1772206197.png/small",
@@ -2620,11 +2621,12 @@
     "enzo": "",
     "honest anahor": "",
     "alexis mac allister": "https://r2.thesportsdb.com/images/media/player/cutout/96dmuf1757087513.png/small",
-    "andria bartishvili": "",
     "tommy marques": "",
-    "vuk pavicevic": ""
+    "vuk pavicevic": "",
+    "toni fernandez": "https://r2.thesportsdb.com/images/media/player/thumb/wff8hh1782654603.jpg/small",
+    "andria bartishvili": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",
@@ -2796,6 +2798,7 @@
     "leganes": "https://r2.thesportsdb.com/images/media/team/badge/tm0adr1616443898.png/small",
     "servette": "https://r2.thesportsdb.com/images/media/team/badge/440wv71692206330.png/small",
     "ac monza": "https://r2.thesportsdb.com/images/media/team/badge/bxearg1603170113.png/small",
-    "ofk grbalj": "https://r2.thesportsdb.com/images/media/team/badge/hpsnzi1579467203.png/small"
+    "ofk grbalj": "https://r2.thesportsdb.com/images/media/team/badge/hpsnzi1579467203.png/small",
+    "venezia": "https://r2.thesportsdb.com/images/media/team/badge/vbiget1781026964.png/small"
   }
 }

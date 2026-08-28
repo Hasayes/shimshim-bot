@@ -1,6 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/64670",
     "3c8f3f0810ee0708754550e36564b70b",
     "tg:FabrizioRomanoTG/64671",
     "tg:FabrizioRomanoTG/64672",
@@ -1499,7 +1498,8 @@
     "b13f713c6ae3a7f44b751d144a444195",
     "tg:FabrizioRomanoTG/65476",
     "84b22896217b2d860da7a8410a9c24cc",
-    "4a61471f3942caca21d95e72782862fa"
+    "4a61471f3942caca21d95e72782862fa",
+    "ee58540cc327a3a561df4d00b93f8d95"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2012,7 +2012,6 @@
     "interest: woltemade -> napoli"
   ],
   "titles": [
-    "newcastle agree \u00a352m deal for man city star nico gonzalez with midfielder set fo",
     "decision reached on next tottenham signing from nott\u2019m forest after savio announ",
     "manchester city race for gakpo, enzo: latest transfer updates",
     "aston villa set to complete stunning leon goretzka transfer as champions league ",
@@ -2311,7 +2310,8 @@
     "liverpool come to sarr conclusion as potential minteh u turn hint is revealed",
     "\ud83d\udd35 \ud83c\udde6\ud83c\uddf7 emiliano martinez, in london today for medical tests and then contract sign",
     "romano gives \u2018here we go\u2019 to second chelsea signing of the day after big fernand",
-    "liverpool planning two attacking signings after barcola with 21 goal winger next"
+    "liverpool planning two attacking signings after barcola with 21 goal winger next",
+    "chelsea agree emiliano martinez transfer and \u00a340m signing in double coup"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2608,15 +2608,15 @@
     "moise kean": "https://r2.thesportsdb.com/images/media/player/cutout/1vjmgx1776938330.png/small",
     "iliman ndiaye": "https://r2.thesportsdb.com/images/media/player/cutout/rten2t1756977078.png/small",
     "ahanor": "https://r2.thesportsdb.com/images/media/player/cutout/uahuuj1764331567.png/small",
-    "dastan satpayev": "",
     "nick woltemade": "https://r2.thesportsdb.com/images/media/player/cutout/guakb31766824614.png/small",
     "enzo": "",
     "franck kessie": "",
     "honest anahor": "",
     "andria bartishvili": "",
-    "tommy marques": ""
+    "tommy marques": "",
+    "dastan satpayev": ""
   },
-  "photo_repair_idx": 5,
+  "photo_repair_idx": 6,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

@@ -1,8 +1,5 @@
 {
   "sent": [
-    "771b588db97b4dd3a184b7b52685b2a7",
-    "30ac2caa838b7218cc600e9e473281e1",
-    "13bfe9a7f284a842594e9851ab1b96fa",
     "98c91a9c646abed962859d4b177a361e",
     "b6a9a858849a94dfd3a2e9e14af851b4",
     "8f36c9fecb162d37cd61cc189ec764ea",
@@ -1499,7 +1496,10 @@
     "2289b51683ea431416f0aaa061e1efc0",
     "tg:FabrizioRomanoTG/65498",
     "tg:FabrizioRomanoTG/65500",
-    "tg:FabrizioRomanoTG/65501"
+    "tg:FabrizioRomanoTG/65501",
+    "tg:FabrizioRomanoTG/65503",
+    "tg:FabrizioRomanoTG/65504",
+    "tg:FabrizioRomanoTG/65505"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1777,7 +1777,8 @@
     "morata -> leganes": 1,
     "kean -> como": 2,
     "fofana -> servette": 2,
-    "ziolkowski -> ac monza": 1
+    "ziolkowski -> ac monza": 1,
+    "leao -> galatasaray": 1
   },
   "interest": [
     "interest: alvarez -> arsenal",
@@ -2016,9 +2017,6 @@
     "interest: cunha -> arsenal"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f brentford reach verbal agreement to sign el hadji malick diouf from west ",
-    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f exequiel palacios travelling now to complete ipswich town move, here we g",
-    "official: perin leaves juventus to join palermo in serie b",
     "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f sunderland have reached verbal agreement on personal terms with igor paix",
     "\ud83d\udea8 \ud83d\udca3 exclusive: liverpool open talks to sign ismaila sarr as new winger! \ud83d\udd34 \ud83c\uddf8\ud83c\uddf3 mov",
     "\ud83d\udea8 transfer windfall for club: bundesliga star joins pl for nearly \u00a330m",
@@ -2315,7 +2313,10 @@
     "potential german national team goalkeeper sold to eintracht frankfurt",
     "\ud83d\udea8 \ud83d\udfe1 \ud83d\udd34 galatasaray are closing in on rafa leao deal after getting initial green l",
     "\ud83d\udd35 \ud83c\udde6\ud83c\uddf7 all documents have been signed by chelsea and aston villa for emiliano mart",
-    "\ud83d\udea8 \ud83d\udfe1 \ud83d\udd34 galatasaray reach agreement in principle to sign rafael leao, here we go! "
+    "\ud83d\udea8 \ud83d\udfe1 \ud83d\udd34 galatasaray reach agreement in principle to sign rafael leao, here we go! ",
+    "rt @cdleganes : \u26aa\ufe0f \ud83d\udd35 here we go! #bienvenidomorata https://t co/o73bkfeqwc \u2014 fab",
+    "\ud83d\udfe1 \ud83d\udd34 \ud83c\uddf9\ud83c\uddf7 rafael leao to galatasaray, here we go! deal agreed with ac milan and pla",
+    "\ud83d\udea8 \ud83e\udd87 valencia have made official approach to try sign harvey elliott from liverpo"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2614,13 +2615,13 @@
     "lamine camara": "https://r2.thesportsdb.com/images/media/player/cutout/1fl2tg1766237973.png/small",
     "matheus cunha": "https://r2.thesportsdb.com/images/media/player/cutout/29x61e1762020281.png/small",
     "jan ziolkowski": "https://r2.thesportsdb.com/images/media/player/cutout/4wjqvf1764103153.png/small",
-    "andria bartishvili": "",
     "tommy marques": "",
     "dastan satpayev": "",
     "enzo": "",
-    "honest anahor": ""
+    "honest anahor": "",
+    "andria bartishvili": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

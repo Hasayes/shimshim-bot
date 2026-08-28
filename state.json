@@ -1,6 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/64678",
     "6db7f9cd5d4993f7b1a642085b047fd1",
     "tg:FabrizioRomanoTG/64679",
     "771b588db97b4dd3a184b7b52685b2a7",
@@ -1499,7 +1498,8 @@
     "edff102a1944fce3877d5b5cd1991126",
     "bcafd4e15f76b08985f8868a58f3aa24",
     "c2790893885ffdabb07da9c024b8e2de",
-    "2289b51683ea431416f0aaa061e1efc0"
+    "2289b51683ea431416f0aaa061e1efc0",
+    "tg:FabrizioRomanoTG/65498"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2016,7 +2016,6 @@
     "interest: cunha -> arsenal"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83d\udd34 \u26ab\ufe0f bayer leverkusen agree deal to sign moussa diaby, here we go! verbal agre",
     "\ud83e\ude75 \ud83c\uddf2\ud83c\udde6 official: manchester city sign ayyoub bouaddi from lille for \u20ac95m plus \u20ac5m ",
     "\u201chere we go\u201d \u2013 chelsea lock in impressive \u00a345m deal for forward",
     "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f brentford reach verbal agreement to sign el hadji malick diouf from west ",
@@ -2315,7 +2314,8 @@
     "football gossip: alvarez, ndiaye, leao, gabriel jesus, igor jesus, woltemade",
     "man utd set to submit an official bid for pl star as soon as zirkzee move is fin",
     "man utd reach decision on selling marcus rashford with euro giants to make offer",
-    "potential german national team goalkeeper sold to eintracht frankfurt"
+    "potential german national team goalkeeper sold to eintracht frankfurt",
+    "\ud83d\udea8 \ud83d\udfe1 \ud83d\udd34 galatasaray are closing in on rafa leao deal after getting initial green l"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2614,13 +2614,13 @@
     "lamine camara": "https://r2.thesportsdb.com/images/media/player/cutout/1fl2tg1766237973.png/small",
     "matheus cunha": "https://r2.thesportsdb.com/images/media/player/cutout/29x61e1762020281.png/small",
     "jan ziolkowski": "https://r2.thesportsdb.com/images/media/player/cutout/4wjqvf1764103153.png/small",
-    "enzo": "",
     "honest anahor": "",
     "andria bartishvili": "",
     "tommy marques": "",
-    "dastan satpayev": ""
+    "dastan satpayev": "",
+    "enzo": ""
   },
-  "photo_repair_idx": 5,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

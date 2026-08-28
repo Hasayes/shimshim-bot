@@ -1,7 +1,5 @@
 {
   "sent": [
-    "022a743a7168f785e34eb02abbc05ca3",
-    "3c3898d3626aed0adb9a559e10541bdf",
     "c98c9b8c2b8ded3f0204ba2119feb3c0",
     "955d3f98575a4b926d97351fe3b530c6",
     "8ea84fdab919bbab6ba2bfda90558824",
@@ -1499,7 +1497,9 @@
     "f87eae88ce183b9bb3b54c913e14a766",
     "ae85becce677f9fa7bf7a37a5ea91e6d",
     "tg:FabrizioRomanoTG/65512",
-    "6ef15cd5c2eae2f67b453927e901af94"
+    "6ef15cd5c2eae2f67b453927e901af94",
+    "30c9916cf1a1e2dc87fe80278221aba6",
+    "tg:FabrizioRomanoTG/65513"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2020,8 +2020,6 @@
     "interest: allister -> manchester city"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 barca president laporta: \u201cwe have a great deal of respect for atletico de ",
-    "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 barcelona president laporta: \u201cwe got the information that atletico madrid ",
     "\ud83d\udea8 \ud83d\udd35 chelsea are in negotiations with emiliano \u2018dibu\u2019 martinez camp over possible",
     "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 crystal palace reject \u00a350m bid from liverpool for ismaila sarr #cpfc insis",
     "\ud83d\udea8 \u26ab\ufe0f \ud83d\udd35 agreement closed between inter and pio esposito over new contract until j",
@@ -2319,7 +2317,9 @@
     "west ham can now sign ex arsenal star for \u00a30",
     "man city explore premier league option as alternative after enzo fernandez talks",
     "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f exclusive: marc guiu to rb leipzig from chelsea, here we go! \ud83d\udca3 \ud83c\uddea\ud83c\uddf8 rb leip",
-    "next 48 hours crucial as chelsea prepare for high profile midfield arrival for \u20ac"
+    "next 48 hours crucial as chelsea prepare for high profile midfield arrival for \u20ac",
+    "transfer news live: arsenal in alvarez bid; liverpool book barcola medical; chel",
+    "\ud83d\udfe3 \ud83d\udd35 \ud83c\uddf8\ud83c\uddf3 official, confirmed nico jackson joins aston villa on \u00a365m package deal f"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2619,12 +2619,12 @@
     "dastan satpayev": "",
     "enzo": "",
     "honest anahor": "",
-    "andria bartishvili": "",
     "alexis mac allister": "https://r2.thesportsdb.com/images/media/player/cutout/96dmuf1757087513.png/small",
     "tommy marques": "",
-    "vuk pavicevic": ""
+    "vuk pavicevic": "",
+    "andria bartishvili": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

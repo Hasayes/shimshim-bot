@@ -1,6 +1,5 @@
 {
   "sent": [
-    "8f36c9fecb162d37cd61cc189ec764ea",
     "33919de48f544d9513a0ff984db7318d",
     "d51c9ac0db4d451745fbc436e31eb8d5",
     "tg:FabrizioRomanoTG/64682",
@@ -1499,7 +1498,8 @@
     "tg:FabrizioRomanoTG/65504",
     "tg:FabrizioRomanoTG/65505",
     "tg:FabrizioRomanoTG/65508",
-    "tg:FabrizioRomanoTG/65509"
+    "tg:FabrizioRomanoTG/65509",
+    "c6c8cd1d57ab3bf0b29613c61c1332e2"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2018,7 +2018,6 @@
     "interest: cunha -> arsenal"
   ],
   "titles": [
-    "\ud83d\udea8 transfer windfall for club: bundesliga star joins pl for nearly \u00a330m",
     "\ud83d\udea8 sold for \u20ac55m two years ago! reports: bundesliga club re signs star",
     "rt @fabrizioromano : \ud83d\udea8 \ud83d\udca3 exclusive: liverpool open talks to sign ismaila sarr as",
     "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 barcelona president laporta: \u201cwe are still very interested in julian alvar",
@@ -2317,7 +2316,8 @@
     "\ud83d\udfe1 \ud83d\udd34 \ud83c\uddf9\ud83c\uddf7 rafael leao to galatasaray, here we go! deal agreed with ac milan and pla",
     "\ud83d\udea8 \ud83e\udd87 valencia have made official approach to try sign harvey elliott from liverpo",
     "\ud83d\udea8 \ud83e\udd87 harvey elliott has agreed personal terms with valencia following positive ta",
-    "\u26ab\ufe0f \ud83d\udd35 \ud83c\uddf2\ud83c\uddea excl: inter closing in on deal for 2008 born talent vuk pavicevic to joi"
+    "\u26ab\ufe0f \ud83d\udd35 \ud83c\uddf2\ud83c\uddea excl: inter closing in on deal for 2008 born talent vuk pavicevic to joi",
+    "liverpool links \u2018difficult\u2019 for ismaila sarr as palace boss crushes exit talk an"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2619,10 +2619,10 @@
     "dastan satpayev": "",
     "enzo": "",
     "honest anahor": "",
-    "vuk pavicevic": "",
-    "andria bartishvili": ""
+    "andria bartishvili": "",
+    "vuk pavicevic": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

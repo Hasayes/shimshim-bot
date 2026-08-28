@@ -1,7 +1,5 @@
 {
   "sent": [
-    "7ff4876fb3af37d1b383df1a1fa44a9f",
-    "52a106461031913878242651be1724a3",
     "1f39a3d8cabf1cf46374f7e458d3c813",
     "e648526f132de4882914a34c10472fbf",
     "tg:FabrizioRomanoTG/64676",
@@ -1499,7 +1497,9 @@
     "tg:FabrizioRomanoTG/65484",
     "231f9a479bd6bcd522d3fae79ec7b6df",
     "7f979f849d35fddca605e2f035a191a3",
-    "5807e2bdc8823550c09f49707faa347b"
+    "5807e2bdc8823550c09f49707faa347b",
+    "tg:FabrizioRomanoTG/65490",
+    "tg:FabrizioRomanoTG/65491"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2010,11 +2010,10 @@
     "interest: sorloth -> juventus",
     "interest: reggiani -> milan",
     "interest: ndiaye -> manchester city",
-    "interest: woltemade -> napoli"
+    "interest: woltemade -> napoli",
+    "interest: camara -> chelsea"
   ],
   "titles": [
-    "marmoush to tottenham prompts de zerbi reaction as key duo join savio to face ch",
-    "enzo fernandez reportedly accepts man city move as chelsea negotiations could ma",
     "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f gabriel martinelli\u2019s agent are in direct contact with al hilal again to c",
     "transfer: martinelli\u2019s \u20ac65m move from arsenal \u2018in final stages\u2019",
     "wednesday's gossip: villa make offer for palace striker mateta",
@@ -2312,11 +2311,12 @@
     "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f cd leganes reach verbal agreement to sign alvaro morata, here we go! span",
     "lionel messi to be without inter miami coach guillermo hoyos vs montreal followi",
     "dibu martinez is one step away from chelsea",
-    "xabi alonso explains decision to leave enzo fernandez out of chelsea\u2019s squad for"
+    "xabi alonso explains decision to leave enzo fernandez out of chelsea\u2019s squad for",
+    "\ud83d\udea8 \ud83d\udd35 chelsea and as monaco had a meeting on thursday to discuss lamine camara as ",
+    "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 bologna reach verbal agreement to sign arthur theate from eintracht, here "
   ],
   "tg_update_offset": 263617426,
   "photos": {
-    "bazoumana toure": "https://r2.thesportsdb.com/images/media/player/cutout/sf2uwx1763494642.png/small",
     "denzel dumfries": "https://r2.thesportsdb.com/images/media/player/cutout/1hd7ox1759408866.png/small",
     "inaki pena": "https://r2.thesportsdb.com/images/media/player/cutout/qia5h11762894216.png/small",
     "elliot anderson": "https://r2.thesportsdb.com/images/media/player/cutout/rhm8q21757162869.png/small",
@@ -2611,13 +2611,14 @@
     "nick woltemade": "https://r2.thesportsdb.com/images/media/player/cutout/guakb31766824614.png/small",
     "honest anahor": "",
     "david datro fofana": "https://images.fotmob.com/image_resources/playerimages/1207581.png",
-    "dastan satpayev": "",
     "enzo": "",
     "franck kessie": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Franck_Kessie_Cote_D%27Ivoire_v_Ecuador_14_June_2026-15_%28cropped%29.jpg/330px-Franck_Kessie_Cote_D%27Ivoire_v_Ecuador_14_June_2026-15_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "andria bartishvili": "",
-    "tommy marques": ""
+    "tommy marques": "",
+    "lamine camara": "https://r2.thesportsdb.com/images/media/player/cutout/1fl2tg1766237973.png/small",
+    "dastan satpayev": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 5,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

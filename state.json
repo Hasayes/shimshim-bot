@@ -1,7 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/64688",
-    "tg:FabrizioRomanoTG/64689",
     "tg:FabrizioRomanoTG/64692",
     "tg:FabrizioRomanoTG/64694",
     "075b8d805e7d31da00d0d6262e3c265e",
@@ -1499,7 +1497,9 @@
     "tg:FabrizioRomanoTG/65522",
     "716c0177a30465294825214b48d1c511",
     "tg:FabrizioRomanoTG/65525",
-    "951635d1217b99a75894ee868d9314e2"
+    "951635d1217b99a75894ee868d9314e2",
+    "169d7c005c6165f9307ca3577769d248",
+    "6a958eec95dd4e9c174567999cce9ba0"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2022,8 +2022,6 @@
     "interest: scott -> liverpool"
   ],
   "titles": [
-    "decisive development in marmoush's transfer to tottenham",
-    "sunderland transfer latest: \u00a319 7m deal completed as fresh everton defender link",
     "fabrizio romano confirms agreement reached for liverpool midfielder deal",
     "romano confirms out of favour midfielder has agreed terms to leave liverpool",
     "\ud83d\udea8 \ud83d\udd35 chelsea are in advanced talks over \u20ac40m deal for honest ahanor from atalanta",
@@ -2321,7 +2319,9 @@
     "\ud83d\udea8 \ud83c\uddea\ud83c\uddf8 venezia reach verbal agreement to sign toni fernandez from barcelona, here ",
     "fabrizio romano tells arsenal fans to \u201cget ready\u201d as hugely exciting transfer \u201cn",
     "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f harry kane on new contract at bayern: \u201cthe talks started last week so far",
-    "epl: emi martinez undergoes chelsea medical ahead of move"
+    "epl: emi martinez undergoes chelsea medical ahead of move",
+    "como poised to acquire fiorentina and milan stars",
+    "fabrizio romano makes late window \u2018guarantee\u2019 over man utd signing after call wi"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2622,11 +2622,11 @@
     "honest anahor": "",
     "alexis mac allister": "https://r2.thesportsdb.com/images/media/player/cutout/96dmuf1757087513.png/small",
     "toni fernandez": "https://r2.thesportsdb.com/images/media/player/thumb/wff8hh1782654603.jpg/small",
-    "andria bartishvili": "",
     "tommy marques": "",
-    "vuk pavicevic": ""
+    "vuk pavicevic": "",
+    "andria bartishvili": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

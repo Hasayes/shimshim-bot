@@ -1400,55 +1400,6 @@
   "srcTier": "standard"
  },
  {
-  "id": "1439c6b38f60f8c5700835060f009496",
-  "ts": "2026-08-21T17:32:49+00:00",
-  "kind": "interest",
-  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/dierqf1761492318.png/small",
-  "stage": "\u2014",
-  "player": "Adam Wharton",
-  "position": "Central Midfielder",
-  "age": "22",
-  "from_club": "Crystal Palace",
-  "to_club": "Manchester City, Liverpool",
-  "fee": "\u00a378m\u2013\u00a3100m",
-  "style": "A composed, ball-winning central midfielder who excels at breaking up play and distributing efficiently under pressure.",
-  "fit": "Would provide Liverpool with a defensively solid midfield presence to replace Curtis Jones's energy and creativity, fitting Iraola's high-intensity pressing system.",
-  "source": "Daily Mirror",
-  "summary": "Liverpool are reported to be targeting Crystal Palace midfielder Adam Wharton following the agreed sale of Curtis Jones to Inter Milan for \u20ac35m, with The Daily Mirror citing manager Andoni Iraola's approval of the move. Crystal Palace are demanding around \u00a378\u201380m, with the total potentially rising towards \u00a3100m including add-ons, though no formal bid has been submitted and a Liverpool-connected journalist has cast doubt on the move materialising.",
-  "outlet": "caughtoffside",
-  "url": "https://www.caughtoffside.com/2026/08/21/sources-liverpool-target-outstanding-midfielder-move/",
-  "title": "Sources: Liverpool target \u2018outstanding\u2019 midfielder but move could rise towards \u00a3100 million",
-  "sources": [
-   "Daily Mirror"
-  ],
-  "srcTier": "standard"
- },
- {
-  "id": "de4964976405c7ad0028cc6e3ab5f76f",
-  "ts": "2026-08-21T17:31:40+00:00",
-  "kind": "interest",
-  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/wxbgdk1763561343.png/small",
-  "stage": "\u2014",
-  "player": "David Raum",
-  "position": "Left-back",
-  "age": "27",
-  "from_club": "RB Leipzig",
-  "to_club": "Manchester United",
-  "fee": "\u00a330m",
-  "style": "An attack-minded left-back who overlaps aggressively, delivers quality crosses, and contributes heavily in the final third.",
-  "fit": "His ability to push forward and provide width suits a system that demands active full-backs, offering Manchester United a creative outlet on the left flank.",
-  "source": "GiveMeSport / TEAMtalk (Graeme Bailey)",
-  "summary": "Manchester United have been offered the chance to sign RB Leipzig left-back David Raum, with the club believing a deal can be struck for \u00a330m or less against a \u00a334m release clause. Raum has reportedly spoken with United and given the green light to a potential move to Old Trafford, per TEAMtalk.",
-  "outlet": "givemesport",
-  "url": "https://www.givemesport.com/man-utd-offered-david-raum-transfer/",
-  "title": "Man Utd Offered David Raum as Carlos Baleba Deal Edges Closer",
-  "sources": [
-   "GiveMeSport",
-   "TEAMtalk"
-  ],
-  "srcTier": "standard"
- },
- {
   "id": "tg:FabrizioRomanoTG/65068",
   "ts": "2026-08-21T16:45:41+00:00",
   "kind": "deal",

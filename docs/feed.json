@@ -1,5 +1,29 @@
 [
  {
+  "id": "8477d8aca8d5749dc47e15361c22b951",
+  "ts": "2026-08-28T01:45:35+00:00",
+  "kind": "deal",
+  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/1vjmgx1776938330.png/small",
+  "stage": "Completed",
+  "player": "Moise Kean",
+  "position": "Forward",
+  "age": "\u2014",
+  "from_club": "Fiorentina",
+  "to_club": "Como",
+  "fee": "\u20ac35m plus \u20ac5m bonus",
+  "style": "Pacey, aggressive forward who thrives on pressing and direct attacking play, with strong finishing in the box.",
+  "fit": "Deploy as a central striker or in a fluid front three at Como to utilize his intensity and goal-scoring instincts in Serie A.",
+  "source": "football-italia",
+  "sources": [
+   "football-italia"
+  ],
+  "srcTier": "standard",
+  "summary": "Moise Kean has completed a transfer from Fiorentina to Como for \u20ac35m plus \u20ac5m in bonuses according to multiple Italian sources.",
+  "outlet": "football-italia",
+  "url": "https://football-italia.net/done-deal-kean-como-e35m-e5m-bonus-fiorentina/",
+  "title": "Done Deal: Kean to join Como for \u20ac35m plus \u20ac5m bonus from Fiorentina"
+ },
+ {
   "id": "tg:FabrizioRomanoTG/65463",
   "ts": "2026-08-27T23:30:49+00:00",
   "kind": "deal",

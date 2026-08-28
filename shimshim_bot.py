@@ -179,6 +179,19 @@ MAX_ARTICLE_AGE_DAYS = int(os.environ.get("MAX_ARTICLE_AGE_DAYS", "3"))
 # Interest cards older than this are archived and removed from the live feed.
 MAX_RUMOUR_AGE_DAYS = int(os.environ.get("MAX_RUMOUR_AGE_DAYS", "7"))
 
+# Transfer-window gate: a rumour (interest card) is only published when its
+# report date falls inside an open window. Between windows, speculation is
+# dropped as noise (see active_window / in_open_window). Deals are never
+# gated — a confirmed move is a fact whenever it's announced. Dates are the
+# England/PL reference ("MM-DD"); they shift a few days each season, so each
+# boundary is overridable per window via repo Variables. WINDOW_GATE=0 turns
+# the gate off (every date counts as in-window).
+WINDOW_GATE = os.environ.get("WINDOW_GATE", "1") == "1"
+SUMMER_WINDOW_OPEN = os.environ.get("SUMMER_WINDOW_OPEN", "06-10")
+SUMMER_WINDOW_CLOSE = os.environ.get("SUMMER_WINDOW_CLOSE", "09-01")
+WINTER_WINDOW_OPEN = os.environ.get("WINTER_WINDOW_OPEN", "01-01")
+WINTER_WINDOW_CLOSE = os.environ.get("WINTER_WINDOW_CLOSE", "02-03")
+
 # Public Telegram channels mirroring journalists' posts, read via the t.me/s/
 # web preview (no auth, no API key). Primary fast source; news articles from
 # the provider above remain as the safety net.
@@ -231,6 +244,35 @@ def window_of(ts):
     if d.month >= 10:
         return f"{d.year + 1}-winter"
     return f"{d.year}-winter"
+
+
+def active_window(when=None):
+    """The open transfer window on a given date, or None between windows.
+
+    Rumours are only surfaced while a window is open; the gap between windows
+    is speculative noise, not actionable news. `when` may be a datetime, an
+    ISO string (a report's own date), or None (= now). Neither window crosses
+    New Year, so a plain "MM-DD" range compare is unambiguous.
+    """
+    if when is None:
+        when = datetime.now(timezone.utc)
+    elif isinstance(when, str):
+        try:
+            when = datetime.fromisoformat(when.replace("Z", "+00:00"))
+        except ValueError:
+            when = datetime.now(timezone.utc)
+    md = when.strftime("%m-%d")
+    if WINTER_WINDOW_OPEN <= md <= WINTER_WINDOW_CLOSE:
+        return f"{when.year}-winter"
+    if SUMMER_WINDOW_OPEN <= md <= SUMMER_WINDOW_CLOSE:
+        return f"{when.year}-summer"
+    return None
+
+
+def in_open_window(when=None):
+    """Whether a rumour reported on `when` may publish: True if a window is
+    open then, or the gate is disabled (WINDOW_GATE=0)."""
+    return not WINDOW_GATE or active_window(when) is not None
 
 
 def _window_sort_key(w):
@@ -740,6 +782,7 @@ def fetch_articles():
                 "desc": a.get("description") or "",
                 "url": a.get("url") or "",
                 "source": (a.get("source") or {}).get("name", ""),
+                "published": a.get("publishedAt") or "",  # for the window gate
             })
         return out
 
@@ -758,11 +801,13 @@ def fetch_articles():
             raise RuntimeError(f"newsdata error: {data}")
         for a in data.get("results", []):
             pub = a.get("pubDate") or ""
+            published = ""
             if pub:
                 try:
-                    age = datetime.now(timezone.utc) - datetime.strptime(
+                    dt = datetime.strptime(
                         pub, "%Y-%m-%d %H:%M:%S").replace(tzinfo=timezone.utc)
-                    if age.days >= MAX_ARTICLE_AGE_DAYS:
+                    published = dt.isoformat()  # for the transfer-window gate
+                    if (datetime.now(timezone.utc) - dt).days >= MAX_ARTICLE_AGE_DAYS:
                         continue  # resurfaced old story — not news
                 except ValueError:
                     pass
@@ -772,6 +817,7 @@ def fetch_articles():
                 "desc": a.get("description") or "",
                 "url": a.get("link") or "",
                 "source": a.get("source_id", ""),
+                "published": published,
             })
         page = data.get("nextPage")
         if not page:
@@ -815,12 +861,14 @@ def fetch_telegram_posts(max_pages=None, seen=None):
                 text = text_div.get_text(" ", strip=True)
                 if not text:
                     continue  # photo/video post without a caption
+                tstamp = msg.select_one("time[datetime]")  # for the window gate
                 page.append({
                     "id": f"tg:{post}",
                     "title": text[:120],
                     "desc": text,
                     "url": f"https://t.me/{post}",
                     "source": f"Telegram @{channel}",
+                    "published": tstamp.get("datetime", "") if tstamp else "",
                 })
             if not ids:
                 break
@@ -2030,6 +2078,13 @@ def main():
             # (a £246m "double deal" article produced one); the schema is one
             # player per card
             print(f"skipped (multi-player parse): {brief.player[:60]}")
+            brief.kind = "none"
+        if brief.kind == "interest" and not in_open_window(article.get("published")):
+            # Transfer-window gate: a rumour only publishes when its report
+            # date falls inside an open window. Between windows it's
+            # speculation, not actionable news. Uses the report's own date
+            # (falls back to now). Deals are never gated.
+            print(f"skipped (rumour outside transfer window): {article['title']}")
             brief.kind = "none"
         if brief.kind == "interest":
             # Sanity guards the model kept violating: a club cannot pursue

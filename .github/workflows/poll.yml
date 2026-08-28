@@ -65,6 +65,15 @@ jobs:
           WEB_SEARCH_MAX_USES: ${{ vars.WEB_SEARCH_MAX_USES || '2' }}
           CROSS_CHECK: ${{ vars.CROSS_CHECK || '0' }}
           ORACLE_SANITY: ${{ vars.ORACLE_SANITY || '1' }}
+          # --- Transfer-window gate: rumours only publish while a window is
+          # open (deals are never gated). Window dates drift a few days each
+          # season — retune the "MM-DD" boundaries via repo Variables when the
+          # league confirms them. WINDOW_GATE=0 disables the gate entirely.
+          WINDOW_GATE: ${{ vars.WINDOW_GATE || '1' }}
+          SUMMER_WINDOW_OPEN: ${{ vars.SUMMER_WINDOW_OPEN || '06-10' }}
+          SUMMER_WINDOW_CLOSE: ${{ vars.SUMMER_WINDOW_CLOSE || '09-01' }}
+          WINTER_WINDOW_OPEN: ${{ vars.WINTER_WINDOW_OPEN || '01-01' }}
+          WINTER_WINDOW_CLOSE: ${{ vars.WINTER_WINDOW_CLOSE || '02-03' }}
           VAPID_PRIVATE_KEY_PEM: ${{ secrets.VAPID_PRIVATE_KEY_PEM }}
           PUSH_SUBSCRIPTIONS: ${{ secrets.PUSH_SUBSCRIPTIONS }}
           PUSH_ENC_KEY: ${{ secrets.PUSH_ENC_KEY }}

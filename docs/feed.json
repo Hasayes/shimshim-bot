@@ -1,5 +1,29 @@
 [
  {
+  "id": "tg:FabrizioRomanoTG/65138",
+  "ts": "2026-08-29T13:45:35+00:00",
+  "kind": "deal",
+  "photo": "https://images.fotmob.com/image_resources/playerimages/1791769.png",
+  "stage": "Here we go",
+  "player": "Sergio Martinez",
+  "position": "Midfielder",
+  "age": "19",
+  "from_club": "Racing Santander",
+  "to_club": "Real Madrid",
+  "fee": "\u20ac3m",
+  "style": "\u2014",
+  "fit": "\u2014",
+  "source": "Fabrizio Romano",
+  "sources": [
+   "Fabrizio Romano"
+  ],
+  "srcTier": "tier1",
+  "summary": "Real Madrid have agreed a deal to sign 19-year-old midfielder Sergio Mart\u00ednez from Racing Santander for \u20ac3m on a contract until 2030, joining immediately without a loan spell.",
+  "outlet": "Telegram @fabrizioromanotg",
+  "url": "https://t.me/FabrizioRomanoTG/65559",
+  "title": "\ud83d\udea8 \u26aa\ufe0f Real Madrid have agreed deal to sign 19 year old midfielder Sergio Mart\u00ednez from Racing Santander, here we go! Mart"
+ },
+ {
   "id": "tg:FabrizioRomanoTG/65545",
   "ts": "2026-08-29T12:00:45+00:00",
   "kind": "deal",
@@ -1397,30 +1421,6 @@
    "Fabrizio Romano"
   ],
   "srcTier": "tier1"
- },
- {
-  "id": "tg:FabrizioRomanoTG/65138",
-  "ts": "2026-08-23T06:15:30+00:00",
-  "kind": "interest",
-  "photo": "https://images.fotmob.com/image_resources/playerimages/1791769.png",
-  "stage": "\u2014",
-  "player": "Sergio Martinez",
-  "position": "\u2014",
-  "age": "\u2014",
-  "from_club": "Racing",
-  "to_club": "Real Madrid",
-  "fee": "\u2014",
-  "style": "\u2014",
-  "fit": "\u2014",
-  "source": "Fabrizio Romano",
-  "sources": [
-   "Fabrizio Romano"
-  ],
-  "srcTier": "tier1",
-  "summary": "Real Madrid are in talks to sign Spanish talent Sergio Martinez from Racing, with Bundesliga and Premier League clubs also keen on the player.",
-  "outlet": "Telegram @fabrizioromanotg",
-  "url": "https://t.me/FabrizioRomanoTG/65138",
-  "title": "\ud83d\udea8 \ud83c\uddea\ud83c\uddf8 Real Madrid are not the only club in talks to sign Spanish talent Sergio Martinez from Racing. Bundesliga and Premi"
  },
  {
   "id": "tg:FabrizioRomanoTG/64559",

@@ -1,7 +1,5 @@
 {
   "sent": [
-    "d87d1ece6e666550b22cc53826d4b91a",
-    "tg:FabrizioRomanoTG/64757",
     "tg:FabrizioRomanoTG/64758",
     "74bb4ef435b91de7c70ad73fa8ef95aa",
     "4672c51bcb3117d573481e7c4f3edff2",
@@ -1499,7 +1497,9 @@
     "6959df4889706a9ce3465653085171ab",
     "a6249bffadf35d9a4e523a2f34b92125",
     "tg:FabrizioRomanoTG/65539",
-    "tg:FabrizioRomanoTG/65540"
+    "tg:FabrizioRomanoTG/65540",
+    "0188fe4554eec1138610b09b7c51c6e2",
+    "db90df8ab6380144b7a2c97186632784"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2029,8 +2029,6 @@
     "interest: jesus -> atletico madrid"
   ],
   "titles": [
-    "update: barcelona have \u201cmade the financial means available\u201d to beat arsenal to j",
-    "emiliano martinez reaches decision on joining chelsea from aston villa amid no e",
     "liverpool \u2018make \u00a350m bid for crystal palace winger\u2019 after yankuba minteh talks c",
     "fc barcelona going to push for julian alvarez until transfer deadline",
     "0% chance of arsenal transfer target joining barcelona, club insist",
@@ -2328,7 +2326,9 @@
     "atletico madrid offered chance to sign arsenal star",
     "papers: arsenal hold talks with real madrid for endrick",
     "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f atletico madrid mantain active talks with jonathan david\u2019s camp and also ",
-    "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 excl: genoa reach verbal agreement to sign robinho jr from santos, here we"
+    "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 excl: genoa reach verbal agreement to sign robinho jr from santos, here we",
+    "leao: \u2018my love for milan will never end, but i wanted different goodbye\u2019",
+    "chelsea make major move for liverpool target as player gives transfer green ligh"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2628,12 +2628,12 @@
     "omari hutchinson": "https://r2.thesportsdb.com/images/media/player/cutout/orqfvl1757163045.png/small",
     "toby collyer": "https://r2.thesportsdb.com/images/media/player/cutout/adecrg1761164547.png/small",
     "marcus rashford": "https://r2.thesportsdb.com/images/media/player/cutout/soi5zw1761512565.png/small",
-    "andria bartishvili": "",
     "ibrahim mbaye": "https://r2.thesportsdb.com/images/media/player/cutout/aquiiw1766335383.png/small",
     "tommy marques": "",
-    "vuk pavicevic": ""
+    "vuk pavicevic": "",
+    "andria bartishvili": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

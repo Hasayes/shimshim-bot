@@ -1,6 +1,5 @@
 {
   "sent": [
-    "15c56f668376fbfb8125eed3eb406540",
     "164dd0817ce928d557e7f8a3350463e3",
     "tg:FabrizioRomanoTG/64760",
     "af6f5dc99a98516b5aeafdda053d5fe0",
@@ -1499,7 +1498,8 @@
     "e12729605c13e12c8d9436235f55f572",
     "92c36e797c284cad490bd939a84bc244",
     "256a40f7e39e4b946c1a24cc7da48279",
-    "tg:FabrizioRomanoTG/65545"
+    "tg:FabrizioRomanoTG/65545",
+    "tg:FabrizioRomanoTG/65546"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2030,7 +2030,6 @@
     "interest: jesus -> atletico madrid"
   ],
   "titles": [
-    "julian alvarez transfer news: atletico madrid shut door on barcelona move with \u2018",
     "\u201cplan\u201d revealed as liverpool nightmare continues with \u00a350m transfer bid rejected",
     "pinamonti set for lazio medical as ratkov opens door to sevilla",
     "crystal palace respond to \u00a350m liverpool \u2018bid\u2019 for ismaila sarr with deal decide",
@@ -2329,7 +2328,8 @@
     "chelsea and man utd heavily linked why is mathys tel desperate",
     "fabrizio romano reveals tottenham response to sunderland offer for kevin danso",
     "enzo, zidane's son retires from football at 29",
-    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f exclusive: augsburg reach verbal agreement to sign juma bah, here we go! "
+    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f exclusive: augsburg reach verbal agreement to sign juma bah, here we go! ",
+    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f arsenal agree deal to sign 17 year old georgian talent andria bartishvili"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2629,12 +2629,12 @@
     "toby collyer": "https://r2.thesportsdb.com/images/media/player/cutout/adecrg1761164547.png/small",
     "marcus rashford": "https://r2.thesportsdb.com/images/media/player/cutout/soi5zw1761512565.png/small",
     "ibrahim mbaye": "https://r2.thesportsdb.com/images/media/player/cutout/aquiiw1766335383.png/small",
-    "tommy marques": "",
     "vuk pavicevic": "",
     "juma bah": "https://r2.thesportsdb.com/images/media/player/cutout/eqh8nl1766319554.png/small",
-    "andria bartishvili": ""
+    "andria bartishvili": "",
+    "tommy marques": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

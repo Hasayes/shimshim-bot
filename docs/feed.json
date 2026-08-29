@@ -1,5 +1,29 @@
 [
  {
+  "id": "tg:FabrizioRomanoTG/65534",
+  "ts": "2026-08-29T07:45:32+00:00",
+  "kind": "deal",
+  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/adecrg1761164547.png/small",
+  "stage": "Completed",
+  "player": "Toby Collyer",
+  "position": "\u2014",
+  "age": "\u2014",
+  "from_club": "Manchester United",
+  "to_club": "West Bromwich Albion",
+  "fee": "\u00a33m plus \u00a35m add-ons",
+  "style": "\u2014",
+  "fit": "\u2014",
+  "source": "Fabrizio Romano",
+  "sources": [
+   "Fabrizio Romano"
+  ],
+  "srcTier": "tier1",
+  "summary": "Toby Collyer has completed a permanent transfer from Manchester United to West Bromwich Albion for \u00a33m plus \u00a35m in add-ons, with a 40% sell-on clause included.",
+  "outlet": "Telegram @fabrizioromanotg",
+  "url": "https://t.me/FabrizioRomanoTG/65534",
+  "title": "\ud83d\udea8 Toby Collyer has signed documents as new West Brom player on permanent deal from Man Unitedz \u00a33m fee plus \u00a35m add-ons "
+ },
+ {
   "id": "911a1c2c66135b84281edfa7a7abd84b",
   "ts": "2026-08-29T06:45:35+00:00",
   "kind": "interest",

@@ -1,6 +1,5 @@
 {
   "sent": [
-    "e9fc4a0c3b50cfaebcf46d72f53053d9",
     "c6ba6340b317e08a643b6e4218db9ca2",
     "377a116a713313029476f5d8d4742d4a",
     "56a8317ca56399761c475de05e95dbdd",
@@ -1499,7 +1498,8 @@
     "9c3e1e762de0dc356b418cb46ae378e1",
     "tg:FabrizioRomanoTG/65530",
     "9a3a7747f57e92bd88c70db59c527c32",
-    "711e2da8e1904ba775391e780332325f"
+    "711e2da8e1904ba775391e780332325f",
+    "tg:FabrizioRomanoTG/65534"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1782,7 +1782,8 @@
     "pavicevic -> inter": 1,
     "guiu -> rb leipzig": 1,
     "fernandez -> venezia": 1,
-    "miretti -> besiktas": 2
+    "miretti -> besiktas": 2,
+    "collyer -> west bromwich albion": 2
   },
   "interest": [
     "interest: alvarez -> arsenal",
@@ -2025,7 +2026,6 @@
     "interest: hutchinson -> milan"
   ],
   "titles": [
-    "palacios travelling for medical",
     "fabrizio romano confirms \u00a350m liverpool offer for new african forward",
     "here we go could come \u201cany moment\u201d for major liverpool transfer, says fabrizio r",
     "man city to bid \u00a3120m for enzo fernandez today, as chelsea set extra condition b",
@@ -2324,11 +2324,11 @@
     "romano reveals chelsea transfer \u2018here we go\u2019 after \u2018secret talks\u2019 as camara stan",
     "\ud83d\udea8 \ud83c\udde6\ud83c\uddf7 enzo fernandez has a verbal agreement with manchester city on personal term",
     "ac milan enquire about nottingham forest\u2019s omari hutchinson",
-    "liverpool's 'fantastic' attacker in 'advanced' talks over exit amid barcola agre"
+    "liverpool's 'fantastic' attacker in 'advanced' talks over exit amid barcola agre",
+    "\ud83d\udea8 toby collyer has signed documents as new west brom player on permanent deal fr"
   ],
   "tg_update_offset": 263617426,
   "photos": {
-    "tyrique george": "https://r2.thesportsdb.com/images/media/player/cutout/wu3lse1772206197.png/small",
     "jeremy jacquet": "https://r2.thesportsdb.com/images/media/player/cutout/d6qx171766136993.png/small",
     "ifeanyi ndukwe": "https://r2.thesportsdb.com/images/media/player/cutout/iagott1769030864.png/small",
     "andy robertson": "https://r2.thesportsdb.com/images/media/player/cutout/t0yil51757088652.png/small",
@@ -2625,11 +2625,12 @@
     "toni fernandez": "https://r2.thesportsdb.com/images/media/player/thumb/wff8hh1782654603.jpg/small",
     "fabio miretti": "https://r2.thesportsdb.com/images/media/player/cutout/cjhsf71759225300.png/small",
     "omari hutchinson": "https://r2.thesportsdb.com/images/media/player/cutout/orqfvl1757163045.png/small",
-    "andria bartishvili": "",
     "tommy marques": "",
-    "vuk pavicevic": ""
+    "vuk pavicevic": "",
+    "toby collyer": "https://r2.thesportsdb.com/images/media/player/cutout/adecrg1761164547.png/small",
+    "andria bartishvili": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",
@@ -2802,6 +2803,7 @@
     "servette": "https://r2.thesportsdb.com/images/media/team/badge/440wv71692206330.png/small",
     "ac monza": "https://r2.thesportsdb.com/images/media/team/badge/bxearg1603170113.png/small",
     "ofk grbalj": "https://r2.thesportsdb.com/images/media/team/badge/hpsnzi1579467203.png/small",
-    "venezia": "https://r2.thesportsdb.com/images/media/team/badge/vbiget1781026964.png/small"
+    "venezia": "https://r2.thesportsdb.com/images/media/team/badge/vbiget1781026964.png/small",
+    "west bromwich albion": "https://r2.thesportsdb.com/images/media/team/badge/rsvuxw1448813527.png/small"
   }
 }

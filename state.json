@@ -1,6 +1,5 @@
 {
   "sent": [
-    "c6ba6340b317e08a643b6e4218db9ca2",
     "377a116a713313029476f5d8d4742d4a",
     "56a8317ca56399761c475de05e95dbdd",
     "98ac1c107123211813b3f97b2127b086",
@@ -1499,7 +1498,8 @@
     "tg:FabrizioRomanoTG/65530",
     "9a3a7747f57e92bd88c70db59c527c32",
     "711e2da8e1904ba775391e780332325f",
-    "tg:FabrizioRomanoTG/65534"
+    "tg:FabrizioRomanoTG/65534",
+    "241f0260b71d8e901e5c4c2eeeea2bd2"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2026,7 +2026,6 @@
     "interest: hutchinson -> milan"
   ],
   "titles": [
-    "fabrizio romano confirms \u00a350m liverpool offer for new african forward",
     "here we go could come \u201cany moment\u201d for major liverpool transfer, says fabrizio r",
     "man city to bid \u00a3120m for enzo fernandez today, as chelsea set extra condition b",
     "liverpool transfer news: ismaila sarr emerges as top winger target in \u00a350m swoop",
@@ -2325,7 +2324,8 @@
     "\ud83d\udea8 \ud83c\udde6\ud83c\uddf7 enzo fernandez has a verbal agreement with manchester city on personal term",
     "ac milan enquire about nottingham forest\u2019s omari hutchinson",
     "liverpool's 'fantastic' attacker in 'advanced' talks over exit amid barcola agre",
-    "\ud83d\udea8 toby collyer has signed documents as new west brom player on permanent deal fr"
+    "\ud83d\udea8 toby collyer has signed documents as new west brom player on permanent deal fr",
+    "ineos officially sell defender after just one season at the club"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2625,12 +2625,12 @@
     "toni fernandez": "https://r2.thesportsdb.com/images/media/player/thumb/wff8hh1782654603.jpg/small",
     "fabio miretti": "https://r2.thesportsdb.com/images/media/player/cutout/cjhsf71759225300.png/small",
     "omari hutchinson": "https://r2.thesportsdb.com/images/media/player/cutout/orqfvl1757163045.png/small",
-    "tommy marques": "",
     "vuk pavicevic": "",
     "toby collyer": "https://r2.thesportsdb.com/images/media/player/cutout/adecrg1761164547.png/small",
-    "andria bartishvili": ""
+    "andria bartishvili": "",
+    "tommy marques": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

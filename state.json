@@ -1,8 +1,5 @@
 {
   "sent": [
-    "56a8317ca56399761c475de05e95dbdd",
-    "98ac1c107123211813b3f97b2127b086",
-    "1ff0b3ce2e048ae00a584f7fc51389fd",
     "2f768bb4304af034c6a74960fda780c9",
     "02b456c89bec32739a69998f9b4f464e",
     "9d48f75d67bb919a4a0f3f7762c16d07",
@@ -1499,7 +1496,10 @@
     "711e2da8e1904ba775391e780332325f",
     "tg:FabrizioRomanoTG/65534",
     "241f0260b71d8e901e5c4c2eeeea2bd2",
-    "3743dba0d8618d9ffcaf2165c32d177d"
+    "3743dba0d8618d9ffcaf2165c32d177d",
+    "00cf8cdb793fbab21a3df78465b2575d",
+    "81b5be9df67e18ab77c11479d35696ec",
+    "tg:FabrizioRomanoTG/65535"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2023,11 +2023,10 @@
     "interest: allister -> manchester city",
     "interest: scott -> liverpool",
     "interest: endrick -> arsenal",
-    "interest: hutchinson -> milan"
+    "interest: hutchinson -> milan",
+    "interest: rashford -> arsenal"
   ],
   "titles": [
-    "man city to bid \u00a3120m for enzo fernandez today, as chelsea set extra condition b",
-    "liverpool transfer news: ismaila sarr emerges as top winger target in \u00a350m swoop",
     "liverpool may not make a third bid for winger target",
     "fabrizio romano drops liverpool winger bombshell as shock \u00a350m bid launched",
     "fabrizio romano drops liverpool winger bombshell as shock \u00a350m bid launched team",
@@ -2325,11 +2324,12 @@
     "liverpool's 'fantastic' attacker in 'advanced' talks over exit amid barcola agre",
     "\ud83d\udea8 toby collyer has signed documents as new west brom player on permanent deal fr",
     "ineos officially sell defender after just one season at the club",
-    "real madrid ready to sell left back to man utd as ineos offered two strikers"
+    "real madrid ready to sell left back to man utd as ineos offered two strikers",
+    "arsenal & barca monitor rashford saturday's gossip",
+    "rt @fabrizioromano : \ud83d\udea8 \ud83d\udca3 breaking: liverpool reach verbal agreement to sign brad"
   ],
   "tg_update_offset": 263617426,
   "photos": {
-    "jeremy jacquet": "https://r2.thesportsdb.com/images/media/player/cutout/d6qx171766136993.png/small",
     "ifeanyi ndukwe": "https://r2.thesportsdb.com/images/media/player/cutout/iagott1769030864.png/small",
     "andy robertson": "https://r2.thesportsdb.com/images/media/player/cutout/t0yil51757088652.png/small",
     "ibrahima konate": "https://r2.thesportsdb.com/images/media/player/cutout/izock91757088476.png/small",
@@ -2626,11 +2626,12 @@
     "fabio miretti": "https://r2.thesportsdb.com/images/media/player/cutout/cjhsf71759225300.png/small",
     "omari hutchinson": "https://r2.thesportsdb.com/images/media/player/cutout/orqfvl1757163045.png/small",
     "toby collyer": "https://r2.thesportsdb.com/images/media/player/cutout/adecrg1761164547.png/small",
-    "andria bartishvili": "",
     "tommy marques": "",
-    "vuk pavicevic": ""
+    "vuk pavicevic": "",
+    "marcus rashford": "https://r2.thesportsdb.com/images/media/player/cutout/soi5zw1761512565.png/small",
+    "andria bartishvili": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

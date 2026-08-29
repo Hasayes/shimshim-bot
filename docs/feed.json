@@ -1,5 +1,29 @@
 [
  {
+  "id": "00cf8cdb793fbab21a3df78465b2575d",
+  "ts": "2026-08-29T09:00:50+00:00",
+  "kind": "interest",
+  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/soi5zw1761512565.png/small",
+  "stage": "\u2014",
+  "player": "Marcus Rashford",
+  "position": "\u2014",
+  "age": "\u2014",
+  "from_club": "Manchester United",
+  "to_club": "Arsenal",
+  "fee": "\u2014",
+  "style": "Direct, explosive winger with elite pace and dribbling ability who can play across the front three and strike from distance.",
+  "fit": "Deploy him on the left wing to maximize his pace in behind and create attacking overloads in Arsenal's high-intensity transition game.",
+  "source": "BBC",
+  "sources": [
+   "BBC"
+  ],
+  "srcTier": "tier1",
+  "summary": "Arsenal are monitoring Marcus Rashford's situation at Manchester United, with Barcelona also keeping watch on the Manchester United winger.",
+  "outlet": "bbc",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cp8416ll9yvo",
+  "title": "Arsenal & Barca monitor Rashford - Saturday's gossip"
+ },
+ {
   "id": "tg:FabrizioRomanoTG/65534",
   "ts": "2026-08-29T07:45:32+00:00",
   "kind": "deal",

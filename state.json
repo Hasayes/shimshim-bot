@@ -1,8 +1,5 @@
 {
   "sent": [
-    "57d7d8253cf9916bdea7ce3f47a6e5cf",
-    "tg:FabrizioRomanoTG/64810",
-    "tg:FabrizioRomanoTG/64811",
     "tg:FabrizioRomanoTG/64813",
     "c3622ba9549422a705de90dfaff02382",
     "b6dca0416c608074f853117620012a5b",
@@ -1499,7 +1496,10 @@
     "56628b249b50b1a08d57b66c10583cbd",
     "7d3a1f9109ea623f2d182d213d2a18e9",
     "156bd177d8c5a3ead5d39b84635758dc",
-    "bf53e711c9a28a453eb1cd3b3f59b279"
+    "bf53e711c9a28a453eb1cd3b3f59b279",
+    "a864160c48694ed362c4088117bfc053",
+    "05e192f4f41d5dbef6604335ab5327ba",
+    "7ab711a3ed00963f74f2d247a120bc59"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2036,9 +2036,6 @@
     "interest: alvarez -> manchester city"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83c\udde6\ud83c\uddf7 enzo fernandez has given his green light to manchester city at the beginnin",
-    "\ud83d\udea8 \ud83d\udca3 breaking! atletico madrid ceo gil confirms atletico being open to selling ju",
-    "two premier league clubs \u201cin contact\u201d over signing man city star, says fabrizio ",
     "chelsea set to sign nigerian star \u2013 \u201cpersonal terms agreed\u201d",
     "\ud83d\udea8 \ud83d\udca3 breaking: chelsea reach verbal agreement to sign emiliano martinez, here we ",
     "man united could soon have talks with super agent jorge mendes to sign left back",
@@ -2335,7 +2332,10 @@
     "\ud83d\udea8 \u26aa\ufe0f \ud83d\udd35 breaking: fc porto reach verbal agreement to sign santi gimenez from ac m",
     "david ornstein drops significant julian alvarez transfer update after talks with",
     "liverpool: fabrizio romano says cody gakpo final decision today after 'meetings'",
-    "julian alvarez 'holds family meeting to discuss arsenal move' after mikel arteta"
+    "julian alvarez 'holds family meeting to discuss arsenal move' after mikel arteta",
+    "romano: atletico madrid hold talks over striker amid arsenal's alvarez interest",
+    "steven gerrard delivers huge verdict on liverpool's \u00a3123m transfer deal for brad",
+    "barcelona target julian alvarez speaks to mikel arteta but refuses to open door "
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2635,12 +2635,12 @@
     "ibrahim mbaye": "https://r2.thesportsdb.com/images/media/player/cutout/aquiiw1766335383.png/small",
     "juma bah": "https://r2.thesportsdb.com/images/media/player/cutout/eqh8nl1766319554.png/small",
     "pape matar sarr": "https://r2.thesportsdb.com/images/media/player/cutout/ll7kkd1757016806.png/small",
-    "vuk pavicevic": "",
     "julian alvarez": "https://r2.thesportsdb.com/images/media/player/cutout/91pla41762288186.png/small",
     "andria bartishvili": "",
-    "tommy marques": ""
+    "tommy marques": "",
+    "vuk pavicevic": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

@@ -1,5 +1,30 @@
 [
  {
+  "id": "911a1c2c66135b84281edfa7a7abd84b",
+  "ts": "2026-08-29T19:30:41+00:00",
+  "kind": "deal",
+  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/orqfvl1757163045.png/small",
+  "stage": "Here we go",
+  "player": "Omari Hutchinson",
+  "position": "\u2014",
+  "age": "\u2014",
+  "from_club": "Nottingham Forest",
+  "to_club": "AC Milan",
+  "fee": "Loan with buy option",
+  "style": "Pacey winger who combines dribbling ability with directness in the final third.",
+  "fit": "Could provide width and attacking dynamism to Milan's forward play as a potential rotation option.",
+  "source": "Fabrizio Romano",
+  "sources": [
+   "football-italia",
+   "Fabrizio Romano"
+  ],
+  "srcTier": "tier1",
+  "summary": "AC Milan have reached a verbal agreement with Nottingham Forest to sign Omari Hutchinson on an initial loan deal with salary covered and a buy option clause. AC Milan are working to book his medical.",
+  "outlet": "Telegram @fabrizioromanotg",
+  "url": "https://t.me/FabrizioRomanoTG/65585",
+  "title": "\ud83d\udea8 \ud83d\udd34 \u26ab\ufe0f AC Milan reach verbal agreement with Nottingham Forest to sign Omari Hutchinson, here we go! Initial loan deal wi"
+ },
+ {
   "id": "tg:FabrizioRomanoTG/65490",
   "ts": "2026-08-29T19:15:34+00:00",
   "kind": "deal",
@@ -239,30 +264,6 @@
   "outlet": "Telegram @fabrizioromanotg",
   "url": "https://t.me/FabrizioRomanoTG/65534",
   "title": "\ud83d\udea8 Toby Collyer has signed documents as new West Brom player on permanent deal from Man Unitedz \u00a33m fee plus \u00a35m add-ons "
- },
- {
-  "id": "911a1c2c66135b84281edfa7a7abd84b",
-  "ts": "2026-08-29T06:45:35+00:00",
-  "kind": "interest",
-  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/orqfvl1757163045.png/small",
-  "stage": "\u2014",
-  "player": "Omari Hutchinson",
-  "position": "\u2014",
-  "age": "\u2014",
-  "from_club": "Nottingham Forest",
-  "to_club": "AC Milan",
-  "fee": "\u2014",
-  "style": "Pacey winger who combines dribbling ability with directness in the final third.",
-  "fit": "Could provide width and attacking dynamism to Milan's forward play as a potential rotation option.",
-  "source": "football-italia",
-  "sources": [
-   "football-italia"
-  ],
-  "srcTier": "standard",
-  "summary": "AC Milan have contacted Nottingham Forest and Omari Hutchinson's agents to enquire about his availability.",
-  "outlet": "football-italia",
-  "url": "https://football-italia.net/hutchinson-targeted-milan-nottingham-forest/",
-  "title": "Report Hutchinson targeted by Milan after Nottingham Forest struggle"
  },
  {
   "id": "12bab89d9b43e00bdcd8ea4e176f5b74",

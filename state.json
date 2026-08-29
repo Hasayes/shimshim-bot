@@ -1,9 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/64790",
-    "8f4bdfd10c3a2a1e44f07d85fccc3a0b",
-    "cca71c7a59de79a247e18666bbd09f9b",
-    "tg:FabrizioRomanoTG/64792",
     "tg:FabrizioRomanoTG/64793",
     "tg:FabrizioRomanoTG/64794",
     "tg:FabrizioRomanoTG/64795",
@@ -1499,7 +1495,11 @@
     "0fdd0b17da072e53e143103d475f6211",
     "62cd4066790ca2442481b80bca3ce94f",
     "tg:FabrizioRomanoTG/65581",
-    "tg:FabrizioRomanoTG/65583"
+    "tg:FabrizioRomanoTG/65583",
+    "dd61bb68abc58379d51082fa24c3ef0e",
+    "c9b22bf38bf48e89452a13d5e6399ad3",
+    "tg:FabrizioRomanoTG/65585",
+    "tg:FabrizioRomanoTG/65586"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1788,7 +1788,8 @@
     "bah -> augsburg": 1,
     "martinez -> real madrid": 1,
     "kessie -> atalanta": 2,
-    "camara -> chelsea": 1
+    "camara -> chelsea": 1,
+    "hutchinson -> milan": 1
   },
   "interest": [
     "interest: alvarez -> arsenal",
@@ -2034,9 +2035,6 @@
     "interest: sarr -> juventus"
   ],
   "titles": [
-    "report: sunderland make stunning move for \u00a3100m man city star",
-    "journo clears the air on potential clauses in omar marmoush\u2019s transfer to totten",
-    "\ud83d\udea8 \u26aa\ufe0f omar marmoush has signed his contract as new tottenham hotspur player https",
     "\u2018chelsea are now advancing\u2019: romano drops exciting update as blues closing in on",
     "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f marc guiu wants napoli as a priority over proposals from spain as persona",
     "milan, battle with inter for borussia dortmund\u2019s reggiani: the defender has been",
@@ -2333,7 +2331,10 @@
     "chelsea reach \u2018agreement\u2019 to sign midfielder, \u2018medical examination\u2019 imminent \u2013 r",
     "chelsea reach agreement for enzo fernandez replacement with medical expected wit",
     "\ud83d\udea8 \ud83d\udd34 \u26ab\ufe0f ac milan have agreed personal terms with omari hutchinson and advance in ",
-    "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f juventus are advancing in talks to sign pape matar sarr with verbal prop"
+    "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f juventus are advancing in talks to sign pape matar sarr with verbal prop",
+    "transfer news live: atletico give alvarez deadline, barcola set for long term li",
+    "ornstein: barcola medical at liverpool expected in \u2018next 24 hours\u2019 as contract l",
+    "\ud83d\udea8 \ud83d\udd34 \u26ab\ufe0f ac milan reach verbal agreement with nottingham forest to sign omari hutc"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2634,11 +2635,11 @@
     "ibrahim mbaye": "https://r2.thesportsdb.com/images/media/player/cutout/aquiiw1766335383.png/small",
     "juma bah": "https://r2.thesportsdb.com/images/media/player/cutout/eqh8nl1766319554.png/small",
     "pape matar sarr": "https://r2.thesportsdb.com/images/media/player/cutout/ll7kkd1757016806.png/small",
-    "andria bartishvili": "",
     "tommy marques": "",
-    "vuk pavicevic": ""
+    "vuk pavicevic": "",
+    "andria bartishvili": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

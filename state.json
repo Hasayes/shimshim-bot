@@ -1,10 +1,5 @@
 {
   "sent": [
-    "527729a5959a030270fac6ee3d780768",
-    "2e138ed56cea6aaa44e14ffa0611e80e",
-    "tg:FabrizioRomanoTG/64750",
-    "tg:FabrizioRomanoTG/64752",
-    "3770aa9469971fba99162d1d0035c81e",
     "69e8009983512bdba3d75ec80991fe5b",
     "88baa6a70cf7fb0325bb03054478d29f",
     "6ff4236098a1721b4a3b389456aa02fe",
@@ -1499,7 +1494,12 @@
     "d27e763281906a06262b79c3010da8d0",
     "be96faf55bb20b4923c5a07f892c16c9",
     "0c92613c5031a579fc93efbdd1f12f93",
-    "73f82b051652248e4c886dce9236df28"
+    "73f82b051652248e4c886dce9236df28",
+    "386d59bf51559af01485887be20ede0f",
+    "2d0ce36d728db506c2981a5f1ec5aeb1",
+    "68b2e0a420d4e8bd7429553ede3ff135",
+    "bc12bc78dff914411479388ce2477550",
+    "b72485c6564caa48d3d5579a9b6cae83"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2023,11 +2023,6 @@
     "interest: endrick -> arsenal"
   ],
   "titles": [
-    "today or tomorrow: next liverpool transfer could be finalised shortly amid worry",
-    "man utd in talks with dutch giant for surprising striker transfer",
-    "man utd in talks for surprising striker transfer carrick has approved",
-    "ogc nice authorise mohamed ali cho to undergo hull city medical",
-    "romano: liverpool make \u00a350m bid to sign crystal palace star ismaila sarr",
     "liverpool \u2018open talks with crystal palace over ismaila sarr transfer after endin",
     "liverpool make second approach for real madrid star after minteh was deemed infe",
     "liverpool launch left field ismaila sarr transfer bid and already have green lig",
@@ -2322,7 +2317,12 @@
     "rafael leao makes final aston villa transfer decision after unai emery talks",
     "liverpool receive official harvey elliott transfer approach as three options tab",
     "liverpool star asks iraola to sanction exit with terms agreed as man city, gakpo",
-    "liverpool \u2018preparing new proposal\u2019 for winger who\u2019s keen on anfield move"
+    "liverpool \u2018preparing new proposal\u2019 for winger who\u2019s keen on anfield move",
+    "gavin beith to join manchester united",
+    "liverpool handed third harvey elliott transfer bid as player faces major choice",
+    "fabrizio romano: the truth about alvarez to arsenal + barcola & gakpo latest",
+    "fabrizio romano: arsenal, liverpool & city make their moves",
+    "marcus rashford makes man utd u turn as england star rejects fenerbahce interest"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2623,11 +2623,11 @@
     "honest anahor": "",
     "alexis mac allister": "https://r2.thesportsdb.com/images/media/player/cutout/96dmuf1757087513.png/small",
     "toni fernandez": "https://r2.thesportsdb.com/images/media/player/thumb/wff8hh1782654603.jpg/small",
-    "vuk pavicevic": "",
     "andria bartishvili": "",
-    "tommy marques": ""
+    "tommy marques": "",
+    "vuk pavicevic": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

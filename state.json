@@ -1,10 +1,5 @@
 {
   "sent": [
-    "8f7c016f36be5ed6a733007891af1c46",
-    "757c215a3e0742befc303281c7cb8b76",
-    "7e3af975f001611ba025285c2e1a6eb8",
-    "96210312cb6009eb3f60573eda1e2f99",
-    "tg:FabrizioRomanoTG/64806",
     "ce5a4767364336295e8810be1ea00853",
     "ebb6926fa958e4b3763c4f5732a3323b",
     "d2f62a3f9b1b2f2d40b0970667360550",
@@ -1499,7 +1494,12 @@
     "63441cced3fb6b2cbc33a48030130bd0",
     "tg:FabrizioRomanoTG/65588",
     "tg:FabrizioRomanoTG/65589",
-    "tg:FabrizioRomanoTG/65590"
+    "tg:FabrizioRomanoTG/65590",
+    "f7aacb118f507785f76bdb35119282a4",
+    "9e25fe7a7fea30b2c1510c5b00c11bce",
+    "dcdcd4cd1c6789f1cf0c0ed367f6c224",
+    "tg:FabrizioRomanoTG/65591",
+    "tg:FabrizioRomanoTG/65593"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2035,11 +2035,6 @@
     "interest: sarr -> juventus"
   ],
   "titles": [
-    "fabrizio romano latest hints liverpool have dropped psg winger pursuit",
-    "\ud83d\udea8 \ud83d\udca3 breaking: liverpool reach verbal agreement to sign bradley barcola, here we ",
-    "transfer: chelsea to sign nigeria\u2019s ahanor",
-    "\u00a350m winger \u2018bid\u2019 lodged at liverpool as saudi side threaten to derail transfer ",
-    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f como reach full verbal agreement with ac milan for samuele ricci, here we",
     "\ud83d\udd34 \u26aa\ufe0f \ud83c\udf33 official: liam delap joins nottingham forest on \u00a350m package deal add ons",
     "al hilal closing in on watkins thursday's gossip",
     "ismaila sarr transfer: fabrizio romano and the athletic can't agree if liverpool",
@@ -2334,7 +2329,12 @@
     "\u201cverbal agreement\u201d for chelsea star to leave as further transfer talks to take p",
     "\ud83d\udea8 \u26aa\ufe0f roberto de zerbi confirms richarlison, pape sarr and kevin danso asked to l",
     "\ud83d\udea8 \ud83c\udde7\ud83c\uddf7 venezia agreed on deal to sign juan jesus as free agent, here we go! brazil",
-    "\ud83d\udea8 \ud83d\udfe3 fiorentina agree deal to sign alieu njie from torino, here we go! new winger"
+    "\ud83d\udea8 \ud83d\udfe3 fiorentina agree deal to sign alieu njie from torino, here we go! new winger",
+    "enzo fernandez agrees personal terms with manchester city",
+    "kessie turns down juventus, roma remain interested",
+    "transfer: enzo fernandez agrees deal with man city",
+    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f manchester city are set to bid for \u00a385m package to sign cody gakpo after ",
+    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f fc porto are closing in on deal to sign santi gimenez from ac milan \ud83d\udc09 neg"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2635,11 +2635,11 @@
     "ibrahim mbaye": "https://r2.thesportsdb.com/images/media/player/cutout/aquiiw1766335383.png/small",
     "juma bah": "https://r2.thesportsdb.com/images/media/player/cutout/eqh8nl1766319554.png/small",
     "pape matar sarr": "https://r2.thesportsdb.com/images/media/player/cutout/ll7kkd1757016806.png/small",
-    "vuk pavicevic": "",
     "andria bartishvili": "",
-    "tommy marques": ""
+    "tommy marques": "",
+    "vuk pavicevic": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

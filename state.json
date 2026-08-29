@@ -1,6 +1,5 @@
 {
   "sent": [
-    "6ff4236098a1721b4a3b389456aa02fe",
     "tg:FabrizioRomanoTG/64754",
     "782994007d141c9d2a7945ae6b61a410",
     "14363a4fa6edef12efba7740f379115a",
@@ -1499,7 +1498,8 @@
     "bc12bc78dff914411479388ce2477550",
     "b72485c6564caa48d3d5579a9b6cae83",
     "7ef273b0a1c67bc124d3700bbfea5439",
-    "67e827ab0a36347648b6258c1fd20d1b"
+    "67e827ab0a36347648b6258c1fd20d1b",
+    "12bab89d9b43e00bdcd8ea4e176f5b74"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1781,7 +1781,8 @@
     "leao -> galatasaray": 1,
     "pavicevic -> inter": 1,
     "guiu -> rb leipzig": 1,
-    "fernandez -> venezia": 1
+    "fernandez -> venezia": 1,
+    "miretti -> besiktas": 2
   },
   "interest": [
     "interest: alvarez -> arsenal",
@@ -2023,7 +2024,6 @@
     "interest: endrick -> arsenal"
   ],
   "titles": [
-    "liverpool make second approach for real madrid star after minteh was deemed infe",
     "liverpool launch left field ismaila sarr transfer bid and already have green lig",
     "liverpool commence talks with crystal palace for ismaila sarr",
     "bayern munich, espanyol expected to maneuver around financial fair play regulati",
@@ -2322,11 +2322,11 @@
     "fabrizio romano: the truth about alvarez to arsenal + barcola & gakpo latest",
     "fabrizio romano: arsenal, liverpool & city make their moves",
     "marcus rashford makes man utd u turn as england star rejects fenerbahce interest",
-    "chelsea in \u201cadvanced talks\u201d with atalanta over \u20ac40m transfer with loan already p"
+    "chelsea in \u201cadvanced talks\u201d with atalanta over \u20ac40m transfer with loan already p",
+    "transfer news round up, 28 august \ud83d\udcb0"
   ],
   "tg_update_offset": 263617426,
   "photos": {
-    "illan meslier": "https://r2.thesportsdb.com/images/media/player/cutout/qw61t91757078451.png/small",
     "geovany quenda": "https://r2.thesportsdb.com/images/media/player/cutout/05lcli1762290334.png/small",
     "tyrique george": "https://r2.thesportsdb.com/images/media/player/cutout/wu3lse1772206197.png/small",
     "jeremy jacquet": "https://r2.thesportsdb.com/images/media/player/cutout/d6qx171766136993.png/small",
@@ -2623,11 +2623,12 @@
     "honest anahor": "",
     "alexis mac allister": "https://r2.thesportsdb.com/images/media/player/cutout/96dmuf1757087513.png/small",
     "toni fernandez": "https://r2.thesportsdb.com/images/media/player/thumb/wff8hh1782654603.jpg/small",
-    "tommy marques": "",
     "vuk pavicevic": "",
-    "andria bartishvili": ""
+    "andria bartishvili": "",
+    "fabio miretti": "https://r2.thesportsdb.com/images/media/player/cutout/cjhsf71759225300.png/small",
+    "tommy marques": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

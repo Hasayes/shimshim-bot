@@ -1,5 +1,29 @@
 [
  {
+  "id": "12bab89d9b43e00bdcd8ea4e176f5b74",
+  "ts": "2026-08-29T06:00:46+00:00",
+  "kind": "deal",
+  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/cjhsf71759225300.png/small",
+  "stage": "Completed",
+  "player": "Fabio Miretti",
+  "position": "Midfielder",
+  "age": "\u2014",
+  "from_club": "Juventus",
+  "to_club": "Besiktas",
+  "fee": "\u2014",
+  "style": "Industrious midfielder with good work rate and ball-winning ability in the center of the park.",
+  "fit": "Can provide depth and defensive cover in midfield while gaining regular playing time away from Juventus.",
+  "source": "Yahoo",
+  "sources": [
+   "Yahoo"
+  ],
+  "srcTier": "standard",
+  "summary": "Juventus have loaned midfielder Fabio Miretti to Besiktas until 30 June.",
+  "outlet": "yahoo",
+  "url": "https://sports.yahoo.com/articles/transfer-news-round-28-august-174600151.html",
+  "title": "Transfer news round-up, 28 August \ud83d\udcb0"
+ },
+ {
   "id": "6f2238009a868e12d4dc7711ee94c1a2",
   "ts": "2026-08-28T22:45:31+00:00",
   "kind": "interest",

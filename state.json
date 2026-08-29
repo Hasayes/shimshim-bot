@@ -1,6 +1,5 @@
 {
   "sent": [
-    "6dc4d8d211e02196097af7dcbe1d022c",
     "tg:FabrizioRomanoTG/64741",
     "tg:FabrizioRomanoTG/64742",
     "tg:FabrizioRomanoTG/64743",
@@ -1499,7 +1498,8 @@
     "d93c5d583f843186359541ea882c8b89",
     "4d148376294b1de5540590715f0d3f17",
     "bfb751c50ea7c505a1525c16aca644f6",
-    "a162491995bd2f65bf3488f1c563ba3c"
+    "a162491995bd2f65bf3488f1c563ba3c",
+    "517bc107ce34b9f6644b5cc0583e65f2"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2023,7 +2023,6 @@
     "interest: endrick -> arsenal"
   ],
   "titles": [
-    "man utd suffer huge transfer blow in bid to sign alejandro balde as he gives bar",
     "video: newcastle united transfer target spotted arriving as \u00a350m deal close to c",
     "juventus have two options to offer atletico in exchange for sorloth, including d",
     "romano provides update on man city \u2018hijack\u2019 for gakpo as one condition gives tot",
@@ -2322,7 +2321,8 @@
     "liverpool make decision on whether to make new offer for ismaila sarr",
     "barcelona starlet toni fernandez seriously considering serie a transfer",
     "is emi martinez better than rob sanchez for chelsea",
-    "french left back wants to join man utd \u2018before transfer deadline\u2019"
+    "french left back wants to join man utd \u2018before transfer deadline\u2019",
+    "\ud83d\udea8 leao joins galatasaray: all the figures! huge wage, sell on \ud83d\udcb0"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2623,11 +2623,11 @@
     "honest anahor": "",
     "alexis mac allister": "https://r2.thesportsdb.com/images/media/player/cutout/96dmuf1757087513.png/small",
     "toni fernandez": "https://r2.thesportsdb.com/images/media/player/thumb/wff8hh1782654603.jpg/small",
-    "tommy marques": "",
     "vuk pavicevic": "",
-    "andria bartishvili": ""
+    "andria bartishvili": "",
+    "tommy marques": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

@@ -1,7 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/64761",
-    "2cd12e711c48b2d374280c3454069d5a",
     "31ef69a6eed3070a437a37bce718e669",
     "95aab345dc58f27235563822eae4fa4d",
     "b3ffa9dac847b2273f6ad9bbe11d1027",
@@ -1499,7 +1497,9 @@
     "tg:FabrizioRomanoTG/65551",
     "tg:FabrizioRomanoTG/65553",
     "95d3ac1340b7a8afe16adab884efc1ad",
-    "tg:FabrizioRomanoTG/65559"
+    "tg:FabrizioRomanoTG/65559",
+    "tg:FabrizioRomanoTG/65562",
+    "tg:FabrizioRomanoTG/65563"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2031,8 +2031,6 @@
     "interest: jesus -> atletico madrid"
   ],
   "titles": [
-    "emiliano martinez transfer news: chelsea handed golden opportunity to sign world",
-    "will chelsea's enzo fernandez end up joining manchester city?",
     "\u201cnext 24 to 48 hours\u201d could give liverpool major boost, transfer target\u2019s price ",
     "crystal palace reject liverpool\u2019s \u00a350m bid for winger ismaila sarr",
     "sunderland table bid to sign man city superstar alongside igor paixao",
@@ -2330,7 +2328,9 @@
     "\ud83d\udea8 \ud83d\udfe1 \ud83d\udd34 as roma agree deal to sign leonardo balerdi from olympique marseille, here",
     "rt @fabrizioromano : \ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f arsenal agree deal to sign 17 year old georgian tale",
     "mercato: crystal palace says no to liverpool for ismaila sarr!",
-    "\ud83d\udea8 \u26aa\ufe0f real madrid have agreed deal to sign 19 year old midfielder sergio martinez"
+    "\ud83d\udea8 \u26aa\ufe0f real madrid have agreed deal to sign 19 year old midfielder sergio martinez",
+    "\ud83d\udea8 \u26ab\ufe0f \ud83d\udd35 atalanta have sent an official contract proposal to franck kessie to try ",
+    "rt @fabrizioromano : \ud83d\udea8 \u26aa\ufe0f real madrid have agreed deal to sign 19 year old midfi"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2631,11 +2631,11 @@
     "marcus rashford": "https://r2.thesportsdb.com/images/media/player/cutout/soi5zw1761512565.png/small",
     "ibrahim mbaye": "https://r2.thesportsdb.com/images/media/player/cutout/aquiiw1766335383.png/small",
     "juma bah": "https://r2.thesportsdb.com/images/media/player/cutout/eqh8nl1766319554.png/small",
-    "vuk pavicevic": "",
     "andria bartishvili": "",
-    "tommy marques": ""
+    "tommy marques": "",
+    "vuk pavicevic": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

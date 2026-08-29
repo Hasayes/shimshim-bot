@@ -1,7 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/64808",
-    "tg:FabrizioRomanoTG/64809",
     "6cf87cdbb3b6b8392507a7a6c478309d",
     "2e5b6251b8b26969aea5f0c62ee055f9",
     "2c1ecf6a89d98c6c544476bdd32d4338",
@@ -1499,7 +1497,9 @@
     "9e7cc83b290e4a5e83230024ffffd0a5",
     "11ff9cd249f9b1046d68afe0a750870b",
     "06510001e5548eb5602420062356753f",
-    "tg:FabrizioRomanoTG/65604"
+    "tg:FabrizioRomanoTG/65604",
+    "d747c2e08e4bc4e34ce1b2eca2c64e56",
+    "tg:FabrizioRomanoTG/65605"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2036,8 +2036,6 @@
     "interest: alvarez -> manchester city"
   ],
   "titles": [
-    "aston villa transfer news: al hilal agree all details for ollie watkins; \u20ac60 4m ",
-    "jack grealish to sunderland? why the move could actually make sense",
     "92 app premier league starlet says playing for manchester united is \u2018a dream\u2019",
     "everton star wanted by pl giants as price named to sanction deadline busting sal",
     "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f official: reiss nelson leaves arsenal as free agent as contract has been ",
@@ -2335,7 +2333,9 @@
     "\u2018done deal!\u2019 \u2013 ornstein explains details behind barcola liverpool transfer",
     "transfer updates: alvarez, rashford, camara, mbaye, elliott, others",
     "arsenal chances of signing julian alvarez rated as atletico madrid set new deadl",
-    "\ud83d\udea8 \u26aa\ufe0f \ud83d\udd34 rb leipzig reach verbal agreement with as roma to sign neil el aynaoui, h"
+    "\ud83d\udea8 \u26aa\ufe0f \ud83d\udd34 rb leipzig reach verbal agreement with as roma to sign neil el aynaoui, h",
+    "fofana waits for roma, talks with chelsea for gittens continue",
+    "\ud83d\udea8 \u26aa\ufe0f \ud83d\udd35 breaking: fc porto reach verbal agreement to sign santi gimenez from ac m"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2635,12 +2635,12 @@
     "ibrahim mbaye": "https://r2.thesportsdb.com/images/media/player/cutout/aquiiw1766335383.png/small",
     "juma bah": "https://r2.thesportsdb.com/images/media/player/cutout/eqh8nl1766319554.png/small",
     "pape matar sarr": "https://r2.thesportsdb.com/images/media/player/cutout/ll7kkd1757016806.png/small",
-    "tommy marques": "",
     "vuk pavicevic": "",
     "julian alvarez": "https://r2.thesportsdb.com/images/media/player/cutout/91pla41762288186.png/small",
-    "andria bartishvili": ""
+    "andria bartishvili": "",
+    "tommy marques": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

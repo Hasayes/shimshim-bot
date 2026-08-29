@@ -1,10 +1,5 @@
 {
   "sent": [
-    "9d48f75d67bb919a4a0f3f7762c16d07",
-    "a0d80beff8ec9630192dabf91cb046db",
-    "6c30d12aeee21c395fb78e491a53fb14",
-    "8c0302f668acc9a710cf205bb707655d",
-    "04e25df5e479e45fbb8a1c8a39090f53",
     "d87d1ece6e666550b22cc53826d4b91a",
     "tg:FabrizioRomanoTG/64757",
     "tg:FabrizioRomanoTG/64758",
@@ -1499,7 +1494,12 @@
     "81b5be9df67e18ab77c11479d35696ec",
     "tg:FabrizioRomanoTG/65535",
     "tg:FabrizioRomanoTG/65537",
-    "tg:FabrizioRomanoTG/65538"
+    "tg:FabrizioRomanoTG/65538",
+    "8505cb44f30ea8e5f0620af9e99cf64b",
+    "6959df4889706a9ce3465653085171ab",
+    "a6249bffadf35d9a4e523a2f34b92125",
+    "tg:FabrizioRomanoTG/65539",
+    "tg:FabrizioRomanoTG/65540"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2025,14 +2025,10 @@
     "interest: scott -> liverpool",
     "interest: endrick -> arsenal",
     "interest: hutchinson -> milan",
-    "interest: rashford -> arsenal"
+    "interest: rashford -> arsenal",
+    "interest: jesus -> atletico madrid"
   ],
   "titles": [
-    "fabrizio romano drops liverpool winger bombshell as shock \u00a350m bid launched team",
-    "david ornstein reveals chelsea are considering emiliano martinez transfer follow",
-    "barcelona double down on julian alvarez or nothing stance as deadline day approa",
-    "napoli lodge offer to onboard young chelsea castoff",
-    "chelsea open talks with aston villa\u2019s emiliano martinez",
     "update: barcelona have \u201cmade the financial means available\u201d to beat arsenal to j",
     "emiliano martinez reaches decision on joining chelsea from aston villa amid no e",
     "liverpool \u2018make \u00a350m bid for crystal palace winger\u2019 after yankuba minteh talks c",
@@ -2327,7 +2323,12 @@
     "arsenal & barca monitor rashford saturday's gossip",
     "rt @fabrizioromano : \ud83d\udea8 \ud83d\udca3 breaking: liverpool reach verbal agreement to sign brad",
     "\ud83d\udea8 \ud83d\udd34 liverpool have booked a medical for bradley barcola on sunday, then he will ",
-    "\ud83d\udea8 \ud83d\udfe3 \ud83d\udd35 ibrahim mbaye will undergo first part of medical at aston villa today befo"
+    "\ud83d\udea8 \ud83d\udfe3 \ud83d\udd35 ibrahim mbaye will undergo first part of medical at aston villa today befo",
+    "\u2018new\u2019 liverpool \u2018proposal\u2019 for senegalese star imminent as midfielder tells ando",
+    "atletico madrid offered chance to sign arsenal star",
+    "papers: arsenal hold talks with real madrid for endrick",
+    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f atletico madrid mantain active talks with jonathan david\u2019s camp and also ",
+    "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 excl: genoa reach verbal agreement to sign robinho jr from santos, here we"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2626,13 +2627,13 @@
     "fabio miretti": "https://r2.thesportsdb.com/images/media/player/cutout/cjhsf71759225300.png/small",
     "omari hutchinson": "https://r2.thesportsdb.com/images/media/player/cutout/orqfvl1757163045.png/small",
     "toby collyer": "https://r2.thesportsdb.com/images/media/player/cutout/adecrg1761164547.png/small",
-    "vuk pavicevic": "",
     "marcus rashford": "https://r2.thesportsdb.com/images/media/player/cutout/soi5zw1761512565.png/small",
     "andria bartishvili": "",
     "ibrahim mbaye": "https://r2.thesportsdb.com/images/media/player/cutout/aquiiw1766335383.png/small",
-    "tommy marques": ""
+    "tommy marques": "",
+    "vuk pavicevic": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

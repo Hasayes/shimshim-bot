@@ -1,5 +1,29 @@
 [
  {
+  "id": "6959df4889706a9ce3465653085171ab",
+  "ts": "2026-08-29T09:30:38+00:00",
+  "kind": "interest",
+  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/rwsqi51769330458.png/small",
+  "stage": "\u2014",
+  "player": "Gabriel Jesus",
+  "position": "Forward",
+  "age": "\u2014",
+  "from_club": "Arsenal",
+  "to_club": "Atletico Madrid",
+  "fee": "\u2014",
+  "style": "Dynamic, press-resistant forward with excellent work rate and pressing intensity off the ball.",
+  "fit": "Should operate as a high-energy attacking outlet in Atl\u00e9tico's pressing system, either as a lone striker or secondary forward alongside a target man.",
+  "source": "Yahoo Sports",
+  "sources": [
+   "Yahoo Sports"
+  ],
+  "srcTier": "standard",
+  "summary": "Atl\u00e9tico Madrid have been offered the chance to sign Arsenal forward Gabriel Jesus in recent days.",
+  "outlet": "yahoo",
+  "url": "https://ca.sports.yahoo.com/news/atl-tico-madrid-offered-chance-212000926.html",
+  "title": "Atle\u0301tico Madrid offered chance to sign Arsenal star"
+ },
+ {
   "id": "tg:FabrizioRomanoTG/65538",
   "ts": "2026-08-29T09:15:33+00:00",
   "kind": "deal",

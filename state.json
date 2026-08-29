@@ -1,9 +1,5 @@
 {
   "sent": [
-    "ce5a4767364336295e8810be1ea00853",
-    "ebb6926fa958e4b3763c4f5732a3323b",
-    "d2f62a3f9b1b2f2d40b0970667360550",
-    "bd5fc36bf543c459e2ad9a90d866fa1b",
     "45a1016a26887178005801742187b1bf",
     "1f2e607ff14d5affd34d394dba609b2c",
     "6064766ac9456f2accd0822d885654a6",
@@ -1499,7 +1495,11 @@
     "9e25fe7a7fea30b2c1510c5b00c11bce",
     "dcdcd4cd1c6789f1cf0c0ed367f6c224",
     "tg:FabrizioRomanoTG/65591",
-    "tg:FabrizioRomanoTG/65593"
+    "tg:FabrizioRomanoTG/65593",
+    "74537bf7b884616f2f3b69c28ed607f3",
+    "f4d71829068ce9a11628a8f2e7066b5f",
+    "9a8397019fe263bd62a4c78d2c64ec5a",
+    "tg:FabrizioRomanoTG/65594"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2035,10 +2035,6 @@
     "interest: sarr -> juventus"
   ],
   "titles": [
-    "\ud83d\udd34 \u26aa\ufe0f \ud83c\udf33 official: liam delap joins nottingham forest on \u00a350m package deal add ons",
-    "al hilal closing in on watkins thursday's gossip",
-    "ismaila sarr transfer: fabrizio romano and the athletic can't agree if liverpool",
-    "\ud83d\udea8 \u26aa\ufe0f real madrid have agreed to sign 21 year old ghanian centre back oscar naase",
     "chelsea in advance talks over \u20ac40m deal for italy born nigerian defender ahanor",
     "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 medical today for joel ordonez at crystal palace, crucial step to complete",
     "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f breaking: atletico madrid officially announce julian alvarez will not be ",
@@ -2334,7 +2330,11 @@
     "kessie turns down juventus, roma remain interested",
     "transfer: enzo fernandez agrees deal with man city",
     "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f manchester city are set to bid for \u00a385m package to sign cody gakpo after ",
-    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f fc porto are closing in on deal to sign santi gimenez from ac milan \ud83d\udc09 neg"
+    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f fc porto are closing in on deal to sign santi gimenez from ac milan \ud83d\udc09 neg",
+    "'what i'm told' fabrizio romano update on man city move for chelsea star fernand",
+    "ornstein confirms barcola to liverpool \u2018agreement finalised\u2019 with medical set, n",
+    "leeds ready medical for michael zetterer despite update on 'compensation payment",
+    "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f udinese have agreed deal to sign 19 year old winger lazar jovanovic from"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2635,11 +2635,11 @@
     "ibrahim mbaye": "https://r2.thesportsdb.com/images/media/player/cutout/aquiiw1766335383.png/small",
     "juma bah": "https://r2.thesportsdb.com/images/media/player/cutout/eqh8nl1766319554.png/small",
     "pape matar sarr": "https://r2.thesportsdb.com/images/media/player/cutout/ll7kkd1757016806.png/small",
-    "andria bartishvili": "",
     "tommy marques": "",
-    "vuk pavicevic": ""
+    "vuk pavicevic": "",
+    "andria bartishvili": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

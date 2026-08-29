@@ -1,5 +1,29 @@
 [
  {
+  "id": "11ff9cd249f9b1046d68afe0a750870b",
+  "ts": "2026-08-29T22:45:44+00:00",
+  "kind": "interest",
+  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/91pla41762288186.png/small",
+  "stage": "\u2014",
+  "player": "Juli\u00e1n \u00c1lvarez",
+  "position": "Forward",
+  "age": "26",
+  "from_club": "Atl\u00e9tico Madrid",
+  "to_club": "Manchester City",
+  "fee": "\u2014",
+  "style": "Clinical forward with excellent movement in the box and proven finishing ability in European competition.",
+  "fit": "Could provide experienced backup and rotation option in City's attacking line while offering tactical flexibility in cup competitions.",
+  "source": "Marca",
+  "sources": [
+   "Marca"
+  ],
+  "srcTier": "standard",
+  "summary": "Manchester City have entered the transfer race to re-sign Juli\u00e1n \u00c1lvarez from Atl\u00e9tico Madrid according to Marca.",
+  "outlet": "naijanews",
+  "url": "https://www.naijanews.com/2026/08/29/transfer-updates-alvarez-rashford-camara-mbaye-elliott/",
+  "title": "Transfer Updates: A\u0301lvarez, Rashford, Camara, Mbaye, Elliott, Others"
+ },
+ {
   "id": "911a1c2c66135b84281edfa7a7abd84b",
   "ts": "2026-08-29T19:30:41+00:00",
   "kind": "deal",

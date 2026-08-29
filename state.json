@@ -1,11 +1,5 @@
 {
   "sent": [
-    "ac5f4bca78e3b9a734a3c8da76e0867e",
-    "122b50223ec633535216f0ff06d27ab0",
-    "3cdc6fa9ab2f57b96eadb16c93bb8a0b",
-    "cd1412e7e2a1407834b8ecf1ec84b305",
-    "7ed9b93b9f6ae21b5e1c73b42368fbdc",
-    "4cb4031f7b18f90833b62e4f76fafc40",
     "tg:FabrizioRomanoTG/64808",
     "tg:FabrizioRomanoTG/64809",
     "6cf87cdbb3b6b8392507a7a6c478309d",
@@ -1499,7 +1493,13 @@
     "tg:FabrizioRomanoTG/65601",
     "7da2b13a54c959ec1ce37b38c49a6c03",
     "99f7b5654a8949c6ca572c709ece7a4e",
-    "tg:FabrizioRomanoTG/65603"
+    "tg:FabrizioRomanoTG/65603",
+    "0568ff5b195251cdb475240dbbb35bca",
+    "8ee787240e52d6184ff2d94df060adb8",
+    "9e7cc83b290e4a5e83230024ffffd0a5",
+    "11ff9cd249f9b1046d68afe0a750870b",
+    "06510001e5548eb5602420062356753f",
+    "tg:FabrizioRomanoTG/65604"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2032,15 +2032,10 @@
     "interest: hutchinson -> milan",
     "interest: rashford -> arsenal",
     "interest: jesus -> atletico madrid",
-    "interest: sarr -> juventus"
+    "interest: sarr -> juventus",
+    "interest: alvarez -> manchester city"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83d\udfe3 \ud83d\udd35 official, confirmed leon goretzka has joined aston villa as free agent, wa",
-    "\ud83d\udea8 \ud83c\uddf5\ud83c\uddf9 galatasaray are waiting for rafa leao decision after \u20ac45m plus add ons deal",
-    "bayern munich news: jurgen klopp has already spoken with key bundesliga coaches,",
-    "man united latest: joshua zirkzee eyeing exit as \u00a330m star makes decision on tra",
-    "\ud83d\udea8 \ud83d\udfe3 \ud83d\udd35 breaking: nicolas jackson to aston villa, here we go! deal now done and do",
-    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f rc strasbourg agree deal to sign oso from sevilla, here we go! deal done ",
     "aston villa transfer news: al hilal agree all details for ollie watkins; \u20ac60 4m ",
     "jack grealish to sunderland? why the move could actually make sense",
     "92 app premier league starlet says playing for manchester united is \u2018a dream\u2019",
@@ -2334,11 +2329,16 @@
     "@fpl_cruyff the news is from spain my friend there\u2019s zero, no talks barcelona an",
     "fabrizio romano: man city in talks to hijack move for 'underrated' liverpool sta",
     "ornstein on alvarez latest: 'he's spoken to arteta, he doesn't want to come'",
-    "\ud83d\udea8 \ud83d\udfe1 \ud83d\udd34 as roma reach verbal agreement to sign marten de roon from atalanta, here "
+    "\ud83d\udea8 \ud83d\udfe1 \ud83d\udd34 as roma reach verbal agreement to sign marten de roon from atalanta, here ",
+    "newcastle star wants exit but euro giants\u2019 proposal could leave magpies unimpres",
+    "man utd have just enquired about signing aston villa left back",
+    "\u2018done deal!\u2019 \u2013 ornstein explains details behind barcola liverpool transfer",
+    "transfer updates: alvarez, rashford, camara, mbaye, elliott, others",
+    "arsenal chances of signing julian alvarez rated as atletico madrid set new deadl",
+    "\ud83d\udea8 \u26aa\ufe0f \ud83d\udd34 rb leipzig reach verbal agreement with as roma to sign neil el aynaoui, h"
   ],
   "tg_update_offset": 263617426,
   "photos": {
-    "jeremy monga": "https://r2.thesportsdb.com/images/media/player/cutout/6sdxxj1761861667.png/small",
     "bernardo silva": "https://r2.thesportsdb.com/images/media/player/cutout/13ajsp1769182879.png/small",
     "jahmai simpson-pusey": "https://r2.thesportsdb.com/images/media/player/cutout/jc77kv1773672990.png/small",
     "andre onana": "https://r2.thesportsdb.com/images/media/player/cutout/ha3jbx1766826944.png/small",
@@ -2635,11 +2635,12 @@
     "ibrahim mbaye": "https://r2.thesportsdb.com/images/media/player/cutout/aquiiw1766335383.png/small",
     "juma bah": "https://r2.thesportsdb.com/images/media/player/cutout/eqh8nl1766319554.png/small",
     "pape matar sarr": "https://r2.thesportsdb.com/images/media/player/cutout/ll7kkd1757016806.png/small",
-    "andria bartishvili": "",
     "tommy marques": "",
-    "vuk pavicevic": ""
+    "vuk pavicevic": "",
+    "julian alvarez": "https://r2.thesportsdb.com/images/media/player/cutout/91pla41762288186.png/small",
+    "andria bartishvili": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

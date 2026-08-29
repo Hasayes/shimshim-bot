@@ -1,7 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/64777",
-    "014bbd78d427ebc5149f2927b6a558ab",
     "tg:FabrizioRomanoTG/64779",
     "tg:FabrizioRomanoTG/64780",
     "tg:FabrizioRomanoTG/64781",
@@ -1499,7 +1497,9 @@
     "19d7bc66d440a5554e4592573860c141",
     "d5a74f226b5466bab7a6c14009160657",
     "e26625d7f16aa80926e106b45dd0bd0b",
-    "tg:FabrizioRomanoTG/65577"
+    "tg:FabrizioRomanoTG/65577",
+    "tg:FabrizioRomanoTG/65578",
+    "tg:FabrizioRomanoTG/65579"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2033,8 +2033,6 @@
     "interest: sarr -> juventus"
   ],
   "titles": [
-    "chelsea progressing move for honest ahanor and why a deal would be great",
-    "aston villa in \u2018official club to club talks\u2019 with \u00a360m attacker with 30 goals, 1",
     "why alejandro balde and mateus fernandes were a 'red flag' for man utd chief jas",
     "\ud83d\udea8 \ud83d\udd34 liverpool are now at the final stages of bradley barcola deal with psg the n",
     "al hilal agree \u00a351million ollie watkins transfer with aston villa set to sign ni",
@@ -2332,7 +2330,9 @@
     "enzo fernandez agrees terms with man city as chelsea prepare for shock premier l",
     "liverpool transfer news: richard hughes makes late request to sign real madrid f",
     "venezia agree \u20ac4 million deal to sign barcelona wonderkid toni fernandez as blau",
-    "rt @fabrizioromano : \ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f breaking: sofyan amrabat to ajax, here we go! verbal"
+    "rt @fabrizioromano : \ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f breaking: sofyan amrabat to ajax, here we go! verbal",
+    "\ud83d\udea8 \u26ab\ufe0f \u26aa\ufe0f juventus ceo carnevali: \u201cwe thought we were in a good position to sign k",
+    "\ud83d\udea8 \ud83c\udde8\ud83c\udde6 juventus ceo carnevali on jonathan david: \u201cin my view, all players can be u"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2633,11 +2633,11 @@
     "ibrahim mbaye": "https://r2.thesportsdb.com/images/media/player/cutout/aquiiw1766335383.png/small",
     "juma bah": "https://r2.thesportsdb.com/images/media/player/cutout/eqh8nl1766319554.png/small",
     "pape matar sarr": "https://r2.thesportsdb.com/images/media/player/cutout/ll7kkd1757016806.png/small",
-    "tommy marques": "",
     "vuk pavicevic": "",
-    "andria bartishvili": ""
+    "andria bartishvili": "",
+    "tommy marques": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

@@ -1,7 +1,5 @@
 {
   "sent": [
-    "3edb1e4720628b30685eebc9d0c667a2",
-    "tg:FabrizioRomanoTG/64744",
     "tg:FabrizioRomanoTG/64745",
     "tg:FabrizioRomanoTG/64749",
     "b23ef4a2fd7c5f0aade3c48056f31117",
@@ -1499,7 +1497,9 @@
     "517bc107ce34b9f6644b5cc0583e65f2",
     "c8c3e5f36937986d94cdc25c447419f3",
     "33f7b0990eb5a974cb01174131faa565",
-    "016f1b3bc67075f7ba1556385b60084d"
+    "016f1b3bc67075f7ba1556385b60084d",
+    "bd02b4b274a2feb2398d0b6f01a7c5e1",
+    "d27e763281906a06262b79c3010da8d0"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2023,8 +2023,6 @@
     "interest: endrick -> arsenal"
   ],
   "titles": [
-    "hansi flick officially confirms alejandro balde barcelona future",
-    "approach made: tottenham in discussions over midfielder loan",
     "manchester city transfer news: morocco sensation ayyoub bouaddi joins enzo mares",
     "arsenal begin breakthrough julian alvarez talks: report",
     "monaco have enquired about tottenham hotspur target pape matar sarr",
@@ -2322,7 +2320,9 @@
     "\ud83d\udea8 leao joins galatasaray: all the figures! huge wage, sell on \ud83d\udcb0",
     "aston villa agree deal to sign psg wonderkid ibrahim mbaye david ornstein footba",
     "man utd to submit official bid in aston villa, tottenham hijack once one deal is",
-    "aston villa transfers: ornstein reveals shock villa 'agreement' struck to sign p"
+    "aston villa transfers: ornstein reveals shock villa 'agreement' struck to sign p",
+    "marcus rashford rejects new exit route with man utd u turn decided under michael",
+    "rafael leao makes final aston villa transfer decision after unai emery talks"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2623,11 +2623,11 @@
     "honest anahor": "",
     "alexis mac allister": "https://r2.thesportsdb.com/images/media/player/cutout/96dmuf1757087513.png/small",
     "toni fernandez": "https://r2.thesportsdb.com/images/media/player/thumb/wff8hh1782654603.jpg/small",
-    "vuk pavicevic": "",
     "andria bartishvili": "",
-    "tommy marques": ""
+    "tommy marques": "",
+    "vuk pavicevic": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

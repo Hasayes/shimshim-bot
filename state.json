@@ -1,9 +1,5 @@
 {
   "sent": [
-    "4672c51bcb3117d573481e7c4f3edff2",
-    "tg:FabrizioRomanoTG/64759",
-    "33c28482e24ecfd06a3ff0e1d71dcaae",
-    "fce23f64d7297c0a23a2a23836aca114",
     "15c56f668376fbfb8125eed3eb406540",
     "164dd0817ce928d557e7f8a3350463e3",
     "tg:FabrizioRomanoTG/64760",
@@ -1499,7 +1495,11 @@
     "0188fe4554eec1138610b09b7c51c6e2",
     "db90df8ab6380144b7a2c97186632784",
     "tg:FabrizioRomanoTG/65541",
-    "tg:FabrizioRomanoTG/65544"
+    "tg:FabrizioRomanoTG/65544",
+    "e12729605c13e12c8d9436235f55f572",
+    "92c36e797c284cad490bd939a84bc244",
+    "256a40f7e39e4b946c1a24cc7da48279",
+    "tg:FabrizioRomanoTG/65545"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1784,7 +1784,8 @@
     "fernandez -> venezia": 1,
     "miretti -> besiktas": 2,
     "collyer -> west bromwich albion": 2,
-    "mbaye -> aston villa": 1
+    "mbaye -> aston villa": 1,
+    "bah -> augsburg": 1
   },
   "interest": [
     "interest: alvarez -> arsenal",
@@ -2029,10 +2030,6 @@
     "interest: jesus -> atletico madrid"
   ],
   "titles": [
-    "0% chance of arsenal transfer target joining barcelona, club insist",
-    "atletico madrid fires back at fc barcelona over julian alvarez pursuit",
-    "chelsea consider last minute move for aston villa goalkeeper emiliano martinez",
-    "crystal palace could u turn on ismaila sarr to liverpool position but it depends",
     "julian alvarez transfer news: atletico madrid shut door on barcelona move with \u2018",
     "\u201cplan\u201d revealed as liverpool nightmare continues with \u00a350m transfer bid rejected",
     "pinamonti set for lazio medical as ratkov opens door to sevilla",
@@ -2328,11 +2325,14 @@
     "leao: \u2018my love for milan will never end, but i wanted different goodbye\u2019",
     "chelsea make major move for liverpool target as player gives transfer green ligh",
     "\ud83d\udea8 \ud83d\udd34 cody gakpo\u2019s future will be decided after today\u2019s game with key meetings set",
-    "\ud83d\udea8 \ud83d\udfe2 \u26ab\ufe0f excl: sassuolo have agreed deal to sign duje caleta car from olympique ly"
+    "\ud83d\udea8 \ud83d\udfe2 \u26ab\ufe0f excl: sassuolo have agreed deal to sign duje caleta car from olympique ly",
+    "chelsea and man utd heavily linked why is mathys tel desperate",
+    "fabrizio romano reveals tottenham response to sunderland offer for kevin danso",
+    "enzo, zidane's son retires from football at 29",
+    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f exclusive: augsburg reach verbal agreement to sign juma bah, here we go! "
   ],
   "tg_update_offset": 263617426,
   "photos": {
-    "andy robertson": "https://r2.thesportsdb.com/images/media/player/cutout/t0yil51757088652.png/small",
     "ibrahima konate": "https://r2.thesportsdb.com/images/media/player/cutout/izock91757088476.png/small",
     "jeremy monga": "https://r2.thesportsdb.com/images/media/player/cutout/6sdxxj1761861667.png/small",
     "bernardo silva": "https://r2.thesportsdb.com/images/media/player/cutout/13ajsp1769182879.png/small",
@@ -2629,11 +2629,12 @@
     "toby collyer": "https://r2.thesportsdb.com/images/media/player/cutout/adecrg1761164547.png/small",
     "marcus rashford": "https://r2.thesportsdb.com/images/media/player/cutout/soi5zw1761512565.png/small",
     "ibrahim mbaye": "https://r2.thesportsdb.com/images/media/player/cutout/aquiiw1766335383.png/small",
-    "andria bartishvili": "",
     "tommy marques": "",
-    "vuk pavicevic": ""
+    "vuk pavicevic": "",
+    "juma bah": "https://r2.thesportsdb.com/images/media/player/cutout/eqh8nl1766319554.png/small",
+    "andria bartishvili": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",
@@ -2807,6 +2808,7 @@
     "ac monza": "https://r2.thesportsdb.com/images/media/team/badge/bxearg1603170113.png/small",
     "ofk grbalj": "https://r2.thesportsdb.com/images/media/team/badge/hpsnzi1579467203.png/small",
     "venezia": "https://r2.thesportsdb.com/images/media/team/badge/vbiget1781026964.png/small",
-    "west bromwich albion": "https://r2.thesportsdb.com/images/media/team/badge/rsvuxw1448813527.png/small"
+    "west bromwich albion": "https://r2.thesportsdb.com/images/media/team/badge/rsvuxw1448813527.png/small",
+    "augsburg": "https://r2.thesportsdb.com/images/media/team/badge/xqyyvq1473453233.png/small"
   }
 }

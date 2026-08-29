@@ -1,8 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/64764",
-    "tg:FabrizioRomanoTG/64765",
-    "tg:FabrizioRomanoTG/64766",
     "e34b6b7333789b805f383023b30d58fd",
     "e761832d923272bc9371d1e4b4757bfc",
     "tg:FabrizioRomanoTG/64767",
@@ -1499,7 +1496,10 @@
     "7f783996ea3433ea367878f3d04831af",
     "c8d70f696c9bf4a4f0e356d1f403784f",
     "5e33dda9f580e997863dee41767677ba",
-    "tg:FabrizioRomanoTG/65570"
+    "tg:FabrizioRomanoTG/65570",
+    "62b5aab91c39a6686b9ba8f22147e6d8",
+    "tg:FabrizioRomanoTG/65571",
+    "tg:FabrizioRomanoTG/65572"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2033,8 +2033,6 @@
     "interest: sarr -> juventus"
   ],
   "titles": [
-    "saudi side threaten to stun liverpool with top winger transfer as \u2018no 1 option\u2019 ",
-    "hansi flick confirms barcelona will insist for julian alvarez despite atletico m",
     "hector fort set to leave barcelona for real sociedad in \u20ac8m transfer",
     "sunderland plot insane double winger swoop amid man city and marseille bid repor",
     "crystal palace refuse \u00a350m liverpool offer for ismaila sarr",
@@ -2332,7 +2330,9 @@
     "psg still targeting young striker despite montpellier stance",
     "there is no official offer: has manchester city abandoned the enzo fernandez dea",
     "liverpool transfer news winger target heads elsewhere but reds offered midfielde",
-    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f nottingham forest agree \u00a322m deal for daniel munoz, here we go! \ud83c\udf33 \ud83c\udde8\ud83c\uddf4 agre"
+    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f nottingham forest agree \u00a322m deal for daniel munoz, here we go! \ud83c\udf33 \ud83c\udde8\ud83c\uddf4 agre",
+    "enzo fernandez wants to leave chelsea and reaches personal agreement",
+    "rt @fabrizioromano : \ud83d\udea8 \ud83d\udd34 cody gakpo\u2019s future will be decided after today\u2019s game "
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2633,11 +2633,11 @@
     "ibrahim mbaye": "https://r2.thesportsdb.com/images/media/player/cutout/aquiiw1766335383.png/small",
     "juma bah": "https://r2.thesportsdb.com/images/media/player/cutout/eqh8nl1766319554.png/small",
     "pape matar sarr": "https://r2.thesportsdb.com/images/media/player/cutout/ll7kkd1757016806.png/small",
-    "vuk pavicevic": "",
     "andria bartishvili": "",
-    "tommy marques": ""
+    "tommy marques": "",
+    "vuk pavicevic": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

@@ -1,8 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/64735",
-    "9e6d08807a1adb473bb76fc2ab06c8a2",
-    "tg:FabrizioRomanoTG/64737",
     "tg:FabrizioRomanoTG/64738",
     "02cc4e945c0ecc44b6f9a56752f1c361",
     "6dc4d8d211e02196097af7dcbe1d022c",
@@ -1499,7 +1496,10 @@
     "896dc624aba105943f27b5b78e0586a7",
     "1b60e703231a4e6d5c539c741506082d",
     "a95ae20f692b9f13334f4f963b2a4fef",
-    "b647e455d248b7d2ff099f8446663cc4"
+    "b647e455d248b7d2ff099f8446663cc4",
+    "1b1afa415f720684f32d50dc311a0684",
+    "d93c5d583f843186359541ea882c8b89",
+    "4d148376294b1de5540590715f0d3f17"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2023,8 +2023,6 @@
     "interest: endrick -> arsenal"
   ],
   "titles": [
-    "fc barcelona heavyweight decides to stay at club before athletic clash",
-    "romano: ligue 1 giants make approach for tottenham player de zerbi called 'cruci",
     "a swift move: barcelona chase the cousin of a bayern munich star",
     "\u201cclosing in on personal terms agreement\u201d: fabrizio romano confirms imminent live",
     "man utd suffer huge transfer blow in bid to sign alejandro balde as he gives bar",
@@ -2322,7 +2320,9 @@
     "romano confirms \u2018it\u2019s over\u2019 for chelsea flop who joined the club in 2023",
     "liverpool reach final decision on new ismaila sarr bid as minteh deal assessed",
     "leao has decided on aston villa but milan remain unsatisfied",
-    "promising real madrid forward will go nowhere despite multiple enquiries \u2013 roman"
+    "promising real madrid forward will go nowhere despite multiple enquiries \u2013 roman",
+    "liverpool make decision on whether to make new offer for ismaila sarr",
+    "barcelona starlet toni fernandez seriously considering serie a transfer"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2623,11 +2623,11 @@
     "honest anahor": "",
     "alexis mac allister": "https://r2.thesportsdb.com/images/media/player/cutout/96dmuf1757087513.png/small",
     "toni fernandez": "https://r2.thesportsdb.com/images/media/player/thumb/wff8hh1782654603.jpg/small",
-    "vuk pavicevic": "",
     "andria bartishvili": "",
-    "tommy marques": ""
+    "tommy marques": "",
+    "vuk pavicevic": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

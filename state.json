@@ -1,6 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/64723",
     "02d3151d0dc320ad32f346b9cbb1f20c",
     "tg:FabrizioRomanoTG/64726",
     "tg:FabrizioRomanoTG/64730",
@@ -1499,7 +1498,8 @@
     "0a17f79da285c58876aa7eb36c2558c3",
     "077625aa010f6254ee8be266266ef471",
     "2b6f54f8c2d858fea763ea836db183ea",
-    "ae12bff1ae9b11886a8be78680f1a477"
+    "ae12bff1ae9b11886a8be78680f1a477",
+    "67556ae3fa1f4f9287881bedd5e94fed"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2023,7 +2023,6 @@
     "interest: endrick -> arsenal"
   ],
   "titles": [
-    "liverpool target deadly \u00a350m winger as two minteh alternatives emerge",
     "roma attempt to overtake juve in race for kessie",
     "fabrizio romano confirms julian alvarez \u201cabsent\u201d from atletico madrid training a",
     "latest: arsenal stance on barcola emerge as arteta continues to look for attacki",
@@ -2322,7 +2321,8 @@
     "fiorentina edge ahead of juventus in pursuit of manchester united\u2019s joshua zirkz",
     "man utd reach decision on selling marcus rashford with euro giants to make 'offe",
     "man utd stance on signing \u00a334m star surfaces with interested confirmed as romano",
-    "gabriel martinelli nears al hilal move as arsenal close in on record sale"
+    "gabriel martinelli nears al hilal move as arsenal close in on record sale",
+    "man united on red alert as alejandro balde sent fresh barcelona message in surpr"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2623,11 +2623,11 @@
     "honest anahor": "",
     "alexis mac allister": "https://r2.thesportsdb.com/images/media/player/cutout/96dmuf1757087513.png/small",
     "toni fernandez": "https://r2.thesportsdb.com/images/media/player/thumb/wff8hh1782654603.jpg/small",
-    "tommy marques": "",
     "vuk pavicevic": "",
-    "andria bartishvili": ""
+    "andria bartishvili": "",
+    "tommy marques": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

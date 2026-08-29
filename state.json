@@ -1,6 +1,5 @@
 {
   "sent": [
-    "af6f5dc99a98516b5aeafdda053d5fe0",
     "662c230d63804ac13d526d08714b3094",
     "tg:FabrizioRomanoTG/64761",
     "2cd12e711c48b2d374280c3454069d5a",
@@ -1499,7 +1498,8 @@
     "tg:FabrizioRomanoTG/65545",
     "tg:FabrizioRomanoTG/65546",
     "tg:FabrizioRomanoTG/65551",
-    "tg:FabrizioRomanoTG/65553"
+    "tg:FabrizioRomanoTG/65553",
+    "95d3ac1340b7a8afe16adab884efc1ad"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2030,7 +2030,6 @@
     "interest: jesus -> atletico madrid"
   ],
   "titles": [
-    "crystal palace respond to \u00a350m liverpool \u2018bid\u2019 for ismaila sarr with deal decide",
     "liverpool learn result of \u00a350m ismaila sarr bid as crystal palace react",
     "emiliano martinez transfer news: chelsea handed golden opportunity to sign world",
     "will chelsea's enzo fernandez end up joining manchester city?",
@@ -2329,7 +2328,8 @@
     "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f exclusive: augsburg reach verbal agreement to sign juma bah, here we go! ",
     "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f arsenal agree deal to sign 17 year old georgian talent andria bartishvili",
     "\ud83d\udea8 \ud83d\udfe1 \ud83d\udd34 as roma agree deal to sign leonardo balerdi from olympique marseille, here",
-    "rt @fabrizioromano : \ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f arsenal agree deal to sign 17 year old georgian tale"
+    "rt @fabrizioromano : \ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f arsenal agree deal to sign 17 year old georgian tale",
+    "mercato: crystal palace says no to liverpool for ismaila sarr!"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2630,11 +2630,11 @@
     "marcus rashford": "https://r2.thesportsdb.com/images/media/player/cutout/soi5zw1761512565.png/small",
     "ibrahim mbaye": "https://r2.thesportsdb.com/images/media/player/cutout/aquiiw1766335383.png/small",
     "juma bah": "https://r2.thesportsdb.com/images/media/player/cutout/eqh8nl1766319554.png/small",
-    "andria bartishvili": "",
     "tommy marques": "",
-    "vuk pavicevic": ""
+    "vuk pavicevic": "",
+    "andria bartishvili": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

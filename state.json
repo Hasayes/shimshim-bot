@@ -1,8 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/64813",
-    "c3622ba9549422a705de90dfaff02382",
-    "b6dca0416c608074f853117620012a5b",
     "0b855f517457a3b8400ff98024929561",
     "09f0e23fc6a06644cee40bf19c238fe3",
     "35e8668c1d2451a04b81d7ec62448363",
@@ -1499,7 +1496,10 @@
     "bf53e711c9a28a453eb1cd3b3f59b279",
     "a864160c48694ed362c4088117bfc053",
     "05e192f4f41d5dbef6604335ab5327ba",
-    "7ab711a3ed00963f74f2d247a120bc59"
+    "7ab711a3ed00963f74f2d247a120bc59",
+    "c2703b1f0dca586501f82b4236a90449",
+    "3f4c4a34e3083b40c775c6c32643227c",
+    "tg:FabrizioRomanoTG/65606"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2033,12 +2033,10 @@
     "interest: rashford -> arsenal",
     "interest: jesus -> atletico madrid",
     "interest: sarr -> juventus",
-    "interest: alvarez -> manchester city"
+    "interest: alvarez -> manchester city",
+    "interest: ndiaye -> tottenham"
   ],
   "titles": [
-    "chelsea set to sign nigerian star \u2013 \u201cpersonal terms agreed\u201d",
-    "\ud83d\udea8 \ud83d\udca3 breaking: chelsea reach verbal agreement to sign emiliano martinez, here we ",
-    "man united could soon have talks with super agent jorge mendes to sign left back",
     "transfer news live: liverpool\u2019s barcola breakthrough, alvarez to arsenal saga ta",
     "liverpool set to land bradley barcola from psg after breakthrough talks ahead of",
     "rt @fabrizioromano : \ud83d\udea8 \ud83d\udca3 breaking: chelsea reach verbal agreement to sign emilia",
@@ -2335,7 +2333,10 @@
     "julian alvarez 'holds family meeting to discuss arsenal move' after mikel arteta",
     "romano: atletico madrid hold talks over striker amid arsenal's alvarez interest",
     "steven gerrard delivers huge verdict on liverpool's \u00a3123m transfer deal for brad",
-    "barcelona target julian alvarez speaks to mikel arteta but refuses to open door "
+    "barcelona target julian alvarez speaks to mikel arteta but refuses to open door ",
+    "tottenham explore player plus cash deal for premier league star",
+    "aston villa make approach to sign amad diallo as man united winger's decision re",
+    "\ud83d\udcfa new youtube video uploaded! \ud83c\udfac \ud83d\udea8 \ud83d\udca3 hijack done! barca swap truth! three leaving"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2637,10 +2638,10 @@
     "pape matar sarr": "https://r2.thesportsdb.com/images/media/player/cutout/ll7kkd1757016806.png/small",
     "julian alvarez": "https://r2.thesportsdb.com/images/media/player/cutout/91pla41762288186.png/small",
     "andria bartishvili": "",
-    "tommy marques": "",
-    "vuk pavicevic": ""
+    "vuk pavicevic": "",
+    "tommy marques": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

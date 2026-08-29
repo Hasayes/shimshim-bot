@@ -1,5 +1,30 @@
 [
  {
+  "id": "4d3a4d0b43b850c00566c7d849cc14f5",
+  "ts": "2026-08-29T23:45:37+00:00",
+  "kind": "interest",
+  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/rten2t1756977078.png/small",
+  "stage": "\u2014",
+  "player": "Iliman Ndiaye",
+  "position": "\u2014",
+  "age": "26",
+  "from_club": "Everton",
+  "to_club": "Manchester City, Tottenham Hotspur",
+  "fee": "\u2014",
+  "style": "Versatile winger who combines pace and technical ability with intelligent movement in the attacking third, capable of playing across multiple positions.",
+  "fit": "Could provide depth and tactical flexibility to Tottenham's attacking rotation, offering an alternative option to their current wide player options.",
+  "source": "Sacha Tavolieri",
+  "sources": [
+   "Fabrizio Romano",
+   "Sacha Tavolieri"
+  ],
+  "srcTier": "tier1",
+  "summary": "Tottenham are reportedly exploring a player-plus-cash deal to sign Everton's Iliman Ndiaye, with Richarlison potentially included as part of the transfer.",
+  "outlet": "caughtoffside",
+  "url": "https://www.caughtoffside.com/2026/08/29/tottenham-explore-player-plus-cash-deal-for-premier-league-star/",
+  "title": "Tottenham explore player-plus-cash deal for Premier League star"
+ },
+ {
   "id": "11ff9cd249f9b1046d68afe0a750870b",
   "ts": "2026-08-29T22:45:44+00:00",
   "kind": "interest",
@@ -555,30 +580,6 @@
   "outlet": "google",
   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOYm0tbDVTNGdoSnNTQ1QtdHg4N3NjbVd1WE5kakZVZ0R0Q3c1eUlNOVUyNnBhRHJFX01TQTZGbmhMbzRuQWhRaEZQbEpSVktyd3Z6RkJkTTVLS25uVG9qck5fRnhlVUdNcVlwM0pMT05SNmxPWTZ3S3UtdHk3MDV2ZnNITzIzTlFwa1BwUi1aRlRVRkdhY3VuelF1akRkSzNlakt3em53ZExzSHhPUXdvQ2IyZlBNYnRBX21PZGpQaGs2aXdpa0Rj?oc=5",
   "title": "Fabrizio Romano confirms \u00a340m Chelsea signing and 'final decision' imminent on another arrival - TEAMtalk"
- },
- {
-  "id": "4d3a4d0b43b850c00566c7d849cc14f5",
-  "ts": "2026-08-28T02:15:30+00:00",
-  "kind": "interest",
-  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/rten2t1756977078.png/small",
-  "stage": "\u2014",
-  "player": "Iliman Ndiaye",
-  "position": "\u2014",
-  "age": "\u2014",
-  "from_club": "Everton",
-  "to_club": "Manchester City",
-  "fee": "\u2014",
-  "style": "Pacey, direct winger who uses acceleration and close control to create chances in the final third.",
-  "fit": "Deploy him on the wing to provide width and cutting edge in City's attacking play.",
-  "source": "Fabrizio Romano",
-  "sources": [
-   "Fabrizio Romano"
-  ],
-  "srcTier": "tier1",
-  "summary": "Iliman Ndiaye, a former Sheffield United player, has been linked by Fabrizio Romano to Manchester City in a possible transfer deal also involving Everton and Jack Grealish.",
-  "outlet": "thestar_co_uk",
-  "url": "https://www.thestar.co.uk/sport/football/sheffield-united/sheffield-united-iliman-ndiaye-man-city-everton-jack-grealish-8945818",
-  "title": "Former Sheffield United hero Iliman Ndiaye thrown into possible transfer deal involving Man City, Everton and Jack Grealish"
  },
  {
   "id": "8477d8aca8d5749dc47e15361c22b951",

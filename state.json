@@ -1,7 +1,5 @@
 {
   "sent": [
-    "69e8009983512bdba3d75ec80991fe5b",
-    "88baa6a70cf7fb0325bb03054478d29f",
     "6ff4236098a1721b4a3b389456aa02fe",
     "tg:FabrizioRomanoTG/64754",
     "782994007d141c9d2a7945ae6b61a410",
@@ -1499,7 +1497,9 @@
     "2d0ce36d728db506c2981a5f1ec5aeb1",
     "68b2e0a420d4e8bd7429553ede3ff135",
     "bc12bc78dff914411479388ce2477550",
-    "b72485c6564caa48d3d5579a9b6cae83"
+    "b72485c6564caa48d3d5579a9b6cae83",
+    "7ef273b0a1c67bc124d3700bbfea5439",
+    "67e827ab0a36347648b6258c1fd20d1b"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2023,7 +2023,6 @@
     "interest: endrick -> arsenal"
   ],
   "titles": [
-    "liverpool \u2018open talks with crystal palace over ismaila sarr transfer after endin",
     "liverpool make second approach for real madrid star after minteh was deemed infe",
     "liverpool launch left field ismaila sarr transfer bid and already have green lig",
     "liverpool commence talks with crystal palace for ismaila sarr",
@@ -2322,7 +2321,8 @@
     "liverpool handed third harvey elliott transfer bid as player faces major choice",
     "fabrizio romano: the truth about alvarez to arsenal + barcola & gakpo latest",
     "fabrizio romano: arsenal, liverpool & city make their moves",
-    "marcus rashford makes man utd u turn as england star rejects fenerbahce interest"
+    "marcus rashford makes man utd u turn as england star rejects fenerbahce interest",
+    "chelsea in \u201cadvanced talks\u201d with atalanta over \u20ac40m transfer with loan already p"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2623,11 +2623,11 @@
     "honest anahor": "",
     "alexis mac allister": "https://r2.thesportsdb.com/images/media/player/cutout/96dmuf1757087513.png/small",
     "toni fernandez": "https://r2.thesportsdb.com/images/media/player/thumb/wff8hh1782654603.jpg/small",
-    "andria bartishvili": "",
     "tommy marques": "",
-    "vuk pavicevic": ""
+    "vuk pavicevic": "",
+    "andria bartishvili": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

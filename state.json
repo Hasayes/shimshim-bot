@@ -1,10 +1,5 @@
 {
   "sent": [
-    "45a1016a26887178005801742187b1bf",
-    "1f2e607ff14d5affd34d394dba609b2c",
-    "6064766ac9456f2accd0822d885654a6",
-    "993a015608cd7bbc4441829ae5ffe786",
-    "e2b7348858a82f799a1e17273b4cc02c",
     "cad54035acf44954a019a08f93c3d9b7",
     "e72baaa19421c6b1815767c96385e535",
     "77873234f2152bec5bdfeeddd061da54",
@@ -1499,7 +1494,12 @@
     "74537bf7b884616f2f3b69c28ed607f3",
     "f4d71829068ce9a11628a8f2e7066b5f",
     "9a8397019fe263bd62a4c78d2c64ec5a",
-    "tg:FabrizioRomanoTG/65594"
+    "tg:FabrizioRomanoTG/65594",
+    "3fe1cc96d2c9ccc2074ded385d886429",
+    "44fbe759cae82bb5c172e16f37f2500c",
+    "781336c250b278eb0fc3ebad38125364",
+    "70e6cdc9c2a04ff4784e1b0c514376b0",
+    "3de7e9f81ff1ec4d53003a0b84eb2311"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2035,9 +2035,6 @@
     "interest: sarr -> juventus"
   ],
   "titles": [
-    "chelsea in advance talks over \u20ac40m deal for italy born nigerian defender ahanor",
-    "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 medical today for joel ordonez at crystal palace, crucial step to complete",
-    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f breaking: atletico madrid officially announce julian alvarez will not be ",
     "\ud83d\udea8 \ud83d\udfe3 fiorentina are in advanced talks to sign joshua zirkzee as official bid has ",
     "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f como are now closing in on moise kean deal with fiorentina for package wo",
     "record signing for bundesliga club! reports: 5 goal striker joins for \u20ac24m",
@@ -2334,7 +2331,10 @@
     "'what i'm told' fabrizio romano update on man city move for chelsea star fernand",
     "ornstein confirms barcola to liverpool \u2018agreement finalised\u2019 with medical set, n",
     "leeds ready medical for michael zetterer despite update on 'compensation payment",
-    "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f udinese have agreed deal to sign 19 year old winger lazar jovanovic from"
+    "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f udinese have agreed deal to sign 19 year old winger lazar jovanovic from",
+    "surprise arsenal signing could be \u201con the cards\u201d as transfer odds tumble",
+    "liverpool confirm bradley barcola agreement as tottenham learn cody gakpo stance",
+    "enzo fernandez agrees personal terms with man city: will chelsea sell for \u20ac140 m"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2635,11 +2635,11 @@
     "ibrahim mbaye": "https://r2.thesportsdb.com/images/media/player/cutout/aquiiw1766335383.png/small",
     "juma bah": "https://r2.thesportsdb.com/images/media/player/cutout/eqh8nl1766319554.png/small",
     "pape matar sarr": "https://r2.thesportsdb.com/images/media/player/cutout/ll7kkd1757016806.png/small",
-    "tommy marques": "",
     "vuk pavicevic": "",
-    "andria bartishvili": ""
+    "andria bartishvili": "",
+    "tommy marques": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

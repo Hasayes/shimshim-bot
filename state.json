@@ -1,8 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/64772",
-    "tg:FabrizioRomanoTG/64775",
-    "7049b2f7ac4e84613142cb6fa5d7e25f",
     "tg:FabrizioRomanoTG/64777",
     "014bbd78d427ebc5149f2927b6a558ab",
     "tg:FabrizioRomanoTG/64779",
@@ -1499,7 +1496,10 @@
     "866c80fb941d4e2329011f2893af7bd8",
     "tg:FabrizioRomanoTG/65575",
     "485846c7aba121bf89afd5a230b2d1c3",
-    "19d7bc66d440a5554e4592573860c141"
+    "19d7bc66d440a5554e4592573860c141",
+    "d5a74f226b5466bab7a6c14009160657",
+    "e26625d7f16aa80926e106b45dd0bd0b",
+    "tg:FabrizioRomanoTG/65577"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1781,7 +1781,7 @@
     "leao -> galatasaray": 1,
     "pavicevic -> inter": 1,
     "guiu -> rb leipzig": 1,
-    "fernandez -> venezia": 1,
+    "fernandez -> venezia": 2,
     "miretti -> besiktas": 2,
     "collyer -> west bromwich albion": 2,
     "mbaye -> aston villa": 1,
@@ -2033,8 +2033,6 @@
     "interest: sarr -> juventus"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83d\udfe1 \ud83d\udd34 the club to club agreement between ac milan and galatasaray for rafael lea",
-    "milan, challenge to inter for borussia dortmund\u2019s reggiani: the defender has bee",
     "chelsea progressing move for honest ahanor and why a deal would be great",
     "aston villa in \u2018official club to club talks\u2019 with \u00a360m attacker with 30 goals, 1",
     "why alejandro balde and mateus fernandes were a 'red flag' for man utd chief jas",
@@ -2332,7 +2330,9 @@
     "fabrizio romano rules out move for 'extraordinary' arsenal laliga target",
     "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f breaking: sofyan amrabat to ajax, here we go! verbal agreement done for m",
     "enzo fernandez agrees terms with man city as chelsea prepare for shock premier l",
-    "liverpool transfer news: richard hughes makes late request to sign real madrid f"
+    "liverpool transfer news: richard hughes makes late request to sign real madrid f",
+    "venezia agree \u20ac4 million deal to sign barcelona wonderkid toni fernandez as blau",
+    "rt @fabrizioromano : \ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f breaking: sofyan amrabat to ajax, here we go! verbal"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2633,11 +2633,11 @@
     "ibrahim mbaye": "https://r2.thesportsdb.com/images/media/player/cutout/aquiiw1766335383.png/small",
     "juma bah": "https://r2.thesportsdb.com/images/media/player/cutout/eqh8nl1766319554.png/small",
     "pape matar sarr": "https://r2.thesportsdb.com/images/media/player/cutout/ll7kkd1757016806.png/small",
-    "andria bartishvili": "",
     "tommy marques": "",
-    "vuk pavicevic": ""
+    "vuk pavicevic": "",
+    "andria bartishvili": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

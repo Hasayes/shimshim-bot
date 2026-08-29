@@ -1,5 +1,29 @@
 [
  {
+  "id": "tg:FabrizioRomanoTG/65522",
+  "ts": "2026-08-29T18:45:37+00:00",
+  "kind": "deal",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/wff8hh1782654603.jpg/small",
+  "stage": "Completed",
+  "player": "Toni Fernandez",
+  "position": "Forward",
+  "age": "18",
+  "from_club": "Barcelona",
+  "to_club": "Venezia",
+  "fee": "\u20ac4 million",
+  "style": "Energetic young forward with directness and pressing intensity in the final third, looking to develop consistency in front of goal.",
+  "fit": "Use as an attacking outlet to press opposition defenses and create space for others, with room to grow into a regular starter role.",
+  "source": "Fabrizio Romano",
+  "sources": [
+   "Fabrizio Romano"
+  ],
+  "srcTier": "tier1",
+  "summary": "Venezia have agreed a \u20ac4 million deal to sign Barcelona forward Toni Fernandez with Barcelona securing a buy-back clause.",
+  "outlet": "yardbarker",
+  "url": "https://www.yardbarker.com/soccer/articles/venezia_agree_4_million_deal_to_sign_barcelona_wonderkid_toni_fernandez_as_blaugrana_secure_crucial_buy_back_clause/s1_17790_44232753",
+  "title": "Venezia agree \u20ac4 million deal to sign Barcelona wonderkid Toni Fernandez as Blaugrana secure crucial buy-back clause"
+ },
+ {
   "id": "tg:FabrizioRomanoTG/65568",
   "ts": "2026-08-29T16:00:42+00:00",
   "kind": "interest",
@@ -264,30 +288,6 @@
    "CaughtOffside"
   ],
   "srcTier": "tier1"
- },
- {
-  "id": "tg:FabrizioRomanoTG/65522",
-  "ts": "2026-08-28T21:27:38+00:00",
-  "kind": "deal",
-  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/wff8hh1782654603.jpg/small",
-  "stage": "Here we go",
-  "player": "Toni Fernandez",
-  "position": "\u2014",
-  "age": "18",
-  "from_club": "Barcelona",
-  "to_club": "Venezia",
-  "fee": "\u20ac4m plus 50% sell-on clause",
-  "style": "\u2014",
-  "fit": "\u2014",
-  "source": "Fabrizio Romano",
-  "sources": [
-   "Fabrizio Romano"
-  ],
-  "srcTier": "tier1",
-  "summary": "Barcelona and Venezia have reached a verbal agreement for 18-year-old Toni Fernandez to join the Serie A club for \u20ac4m with a 50% sell-on clause and buy-back clause.",
-  "outlet": "Telegram @fabrizioromanotg",
-  "url": "https://t.me/FabrizioRomanoTG/65522",
-  "title": "\ud83d\udea8 \ud83c\uddea\ud83c\uddf8 Venezia reach verbal agreement to sign Toni Fernandez from Barcelona, here we go! Deal in place at \u20ac4m fee plus 50%"
  },
  {
   "id": "34d371d106e88a5be78b993a608319de",

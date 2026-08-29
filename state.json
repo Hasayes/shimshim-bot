@@ -1,6 +1,5 @@
 {
   "sent": [
-    "b23ef4a2fd7c5f0aade3c48056f31117",
     "527729a5959a030270fac6ee3d780768",
     "2e138ed56cea6aaa44e14ffa0611e80e",
     "tg:FabrizioRomanoTG/64750",
@@ -1499,7 +1498,8 @@
     "bd02b4b274a2feb2398d0b6f01a7c5e1",
     "d27e763281906a06262b79c3010da8d0",
     "be96faf55bb20b4923c5a07f892c16c9",
-    "0c92613c5031a579fc93efbdd1f12f93"
+    "0c92613c5031a579fc93efbdd1f12f93",
+    "73f82b051652248e4c886dce9236df28"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2023,7 +2023,6 @@
     "interest: endrick -> arsenal"
   ],
   "titles": [
-    "monaco have enquired about tottenham hotspur target pape matar sarr",
     "today or tomorrow: next liverpool transfer could be finalised shortly amid worry",
     "man utd in talks with dutch giant for surprising striker transfer",
     "man utd in talks for surprising striker transfer carrick has approved",
@@ -2322,7 +2321,8 @@
     "marcus rashford rejects new exit route with man utd u turn decided under michael",
     "rafael leao makes final aston villa transfer decision after unai emery talks",
     "liverpool receive official harvey elliott transfer approach as three options tab",
-    "liverpool star asks iraola to sanction exit with terms agreed as man city, gakpo"
+    "liverpool star asks iraola to sanction exit with terms agreed as man city, gakpo",
+    "liverpool \u2018preparing new proposal\u2019 for winger who\u2019s keen on anfield move"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2623,11 +2623,11 @@
     "honest anahor": "",
     "alexis mac allister": "https://r2.thesportsdb.com/images/media/player/cutout/96dmuf1757087513.png/small",
     "toni fernandez": "https://r2.thesportsdb.com/images/media/player/thumb/wff8hh1782654603.jpg/small",
-    "tommy marques": "",
     "vuk pavicevic": "",
-    "andria bartishvili": ""
+    "andria bartishvili": "",
+    "tommy marques": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

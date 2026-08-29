@@ -1,8 +1,5 @@
 {
   "sent": [
-    "cad54035acf44954a019a08f93c3d9b7",
-    "e72baaa19421c6b1815767c96385e535",
-    "77873234f2152bec5bdfeeddd061da54",
     "f29b3083bb0620e42dbd06c5b97ce49b",
     "f4b0d8c52242a25952f0c41ba8b496fb",
     "c51c8ba634e4fd08911618593ca5488c",
@@ -1499,7 +1496,10 @@
     "44fbe759cae82bb5c172e16f37f2500c",
     "781336c250b278eb0fc3ebad38125364",
     "70e6cdc9c2a04ff4784e1b0c514376b0",
-    "3de7e9f81ff1ec4d53003a0b84eb2311"
+    "3de7e9f81ff1ec4d53003a0b84eb2311",
+    "4f881d71469f0295822808e2838cc55f",
+    "442972f384ad4d0d180deb4c118bb827",
+    "tg:FabrizioRomanoTG/65598"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2035,9 +2035,6 @@
     "interest: sarr -> juventus"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83d\udfe3 fiorentina are in advanced talks to sign joshua zirkzee as official bid has ",
-    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f como are now closing in on moise kean deal with fiorentina for package wo",
-    "record signing for bundesliga club! reports: 5 goal striker joins for \u20ac24m",
     "\ud83d\udcfa new youtube video uploaded! \ud83c\udfac \ud83d\udea8 julian over! next after barcola! united: bid i",
     "\ud83d\udea8 \ud83d\udc02 torino have completed deal for lucas perri as new goalkeeper from leeds unit",
     "marc guiu, napoli are the priority: agreement with the player, talks ongoing wit",
@@ -2334,7 +2331,10 @@
     "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f udinese have agreed deal to sign 19 year old winger lazar jovanovic from",
     "surprise arsenal signing could be \u201con the cards\u201d as transfer odds tumble",
     "liverpool confirm bradley barcola agreement as tottenham learn cody gakpo stance",
-    "enzo fernandez agrees personal terms with man city: will chelsea sell for \u20ac140 m"
+    "enzo fernandez agrees personal terms with man city: will chelsea sell for \u20ac140 m",
+    "why juventus\u2019 move for franck kessie has now fallen through",
+    "fabrizio romano confirms arsenal won\u2019t sign striker \u2013 \u2018arsenal are not stupid\u2019",
+    "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f juventus have agreed on personal terms with pape matar sarr; he wants th"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2635,11 +2635,11 @@
     "ibrahim mbaye": "https://r2.thesportsdb.com/images/media/player/cutout/aquiiw1766335383.png/small",
     "juma bah": "https://r2.thesportsdb.com/images/media/player/cutout/eqh8nl1766319554.png/small",
     "pape matar sarr": "https://r2.thesportsdb.com/images/media/player/cutout/ll7kkd1757016806.png/small",
-    "vuk pavicevic": "",
     "andria bartishvili": "",
-    "tommy marques": ""
+    "tommy marques": "",
+    "vuk pavicevic": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

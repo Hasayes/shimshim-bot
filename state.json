@@ -1,9 +1,5 @@
 {
   "sent": [
-    "02d3151d0dc320ad32f346b9cbb1f20c",
-    "tg:FabrizioRomanoTG/64726",
-    "tg:FabrizioRomanoTG/64730",
-    "tg:FabrizioRomanoTG/64731",
     "tg:FabrizioRomanoTG/64732",
     "3e8f211188400fd6a2b8d55d28ec2367",
     "tg:FabrizioRomanoTG/64733",
@@ -1499,7 +1495,11 @@
     "077625aa010f6254ee8be266266ef471",
     "2b6f54f8c2d858fea763ea836db183ea",
     "ae12bff1ae9b11886a8be78680f1a477",
-    "67556ae3fa1f4f9287881bedd5e94fed"
+    "67556ae3fa1f4f9287881bedd5e94fed",
+    "0126774452900628acd32b59cbe00dfe",
+    "a96b34871a8ecb98f3ff009667722f60",
+    "5bee7582d26d3d28655348ca136c825e",
+    "896dc624aba105943f27b5b78e0586a7"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2023,9 +2023,6 @@
     "interest: endrick -> arsenal"
   ],
   "titles": [
-    "roma attempt to overtake juve in race for kessie",
-    "fabrizio romano confirms julian alvarez \u201cabsent\u201d from atletico madrid training a",
-    "latest: arsenal stance on barcola emerge as arteta continues to look for attacki",
     "alejandro balde makes decision on barcelona future amid man utd links",
     "man utd to launch bid for real madrid star as fourth midfield deal eyed",
     "transfer: alvarez absent from atletico training as arsenal wait for green light",
@@ -2322,7 +2319,10 @@
     "man utd reach decision on selling marcus rashford with euro giants to make 'offe",
     "man utd stance on signing \u00a334m star surfaces with interested confirmed as romano",
     "gabriel martinelli nears al hilal move as arsenal close in on record sale",
-    "man united on red alert as alejandro balde sent fresh barcelona message in surpr"
+    "man united on red alert as alejandro balde sent fresh barcelona message in surpr",
+    "done deal: ziolkowski set to join monza on loan",
+    "after the first blow: arsenal return to madrid and real madrid have their say",
+    "romano confirms \u2018it\u2019s over\u2019 for chelsea flop who joined the club in 2023"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2623,11 +2623,11 @@
     "honest anahor": "",
     "alexis mac allister": "https://r2.thesportsdb.com/images/media/player/cutout/96dmuf1757087513.png/small",
     "toni fernandez": "https://r2.thesportsdb.com/images/media/player/thumb/wff8hh1782654603.jpg/small",
-    "vuk pavicevic": "",
     "andria bartishvili": "",
-    "tommy marques": ""
+    "tommy marques": "",
+    "vuk pavicevic": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

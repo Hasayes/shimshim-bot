@@ -1,5 +1,29 @@
 [
  {
+  "id": "510a52270e216231191ef505d99f7811",
+  "ts": "2026-08-22T23:15:35+00:00",
+  "kind": "interest",
+  "photo": "",
+  "stage": "\u2014",
+  "player": "Andria Bartishvili",
+  "position": "Midfielder",
+  "age": "\u2014",
+  "from_club": "\u2014",
+  "to_club": "Arsenal",
+  "fee": "\u2014",
+  "style": "\u2014",
+  "fit": "\u2014",
+  "source": "yahoo",
+  "sources": [
+   "yahoo"
+  ],
+  "srcTier": "standard",
+  "summary": "Arsenal have made a pre-contract offer to young midfielder Andria Bartishvili, though the player is considering other options.",
+  "outlet": "yahoo",
+  "url": "https://sports.yahoo.com/articles/arsenal-pre-contract-offer-young-110500022.html",
+  "title": "Arsenal make pre-contract offer to young midfielder"
+ },
+ {
   "id": "4f992a3932f188c9a1186bed9a6f53ea",
   "ts": "2026-08-22T18:00:41+00:00",
   "kind": "interest",

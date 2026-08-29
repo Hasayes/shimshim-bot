@@ -1,9 +1,5 @@
 {
   "sent": [
-    "6cf87cdbb3b6b8392507a7a6c478309d",
-    "2e5b6251b8b26969aea5f0c62ee055f9",
-    "2c1ecf6a89d98c6c544476bdd32d4338",
-    "d6742288280cafe5a40d3b729178ba9f",
     "57d7d8253cf9916bdea7ce3f47a6e5cf",
     "tg:FabrizioRomanoTG/64810",
     "tg:FabrizioRomanoTG/64811",
@@ -1499,7 +1495,11 @@
     "06510001e5548eb5602420062356753f",
     "tg:FabrizioRomanoTG/65604",
     "d747c2e08e4bc4e34ce1b2eca2c64e56",
-    "tg:FabrizioRomanoTG/65605"
+    "tg:FabrizioRomanoTG/65605",
+    "56628b249b50b1a08d57b66c10583cbd",
+    "7d3a1f9109ea623f2d182d213d2a18e9",
+    "156bd177d8c5a3ead5d39b84635758dc",
+    "bf53e711c9a28a453eb1cd3b3f59b279"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2036,9 +2036,6 @@
     "interest: alvarez -> manchester city"
   ],
   "titles": [
-    "92 app premier league starlet says playing for manchester united is \u2018a dream\u2019",
-    "everton star wanted by pl giants as price named to sanction deadline busting sal",
-    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f official: reiss nelson leaves arsenal as free agent as contract has been ",
     "\ud83d\udea8 \ud83c\udde6\ud83c\uddf7 enzo fernandez has given his green light to manchester city at the beginnin",
     "\ud83d\udea8 \ud83d\udca3 breaking! atletico madrid ceo gil confirms atletico being open to selling ju",
     "two premier league clubs \u201cin contact\u201d over signing man city star, says fabrizio ",
@@ -2335,7 +2332,10 @@
     "arsenal chances of signing julian alvarez rated as atletico madrid set new deadl",
     "\ud83d\udea8 \u26aa\ufe0f \ud83d\udd34 rb leipzig reach verbal agreement with as roma to sign neil el aynaoui, h",
     "fofana waits for roma, talks with chelsea for gittens continue",
-    "\ud83d\udea8 \u26aa\ufe0f \ud83d\udd35 breaking: fc porto reach verbal agreement to sign santi gimenez from ac m"
+    "\ud83d\udea8 \u26aa\ufe0f \ud83d\udd35 breaking: fc porto reach verbal agreement to sign santi gimenez from ac m",
+    "david ornstein drops significant julian alvarez transfer update after talks with",
+    "liverpool: fabrizio romano says cody gakpo final decision today after 'meetings'",
+    "julian alvarez 'holds family meeting to discuss arsenal move' after mikel arteta"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2640,7 +2640,7 @@
     "andria bartishvili": "",
     "tommy marques": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

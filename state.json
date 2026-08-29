@@ -1,6 +1,5 @@
 {
   "sent": [
-    "e34b6b7333789b805f383023b30d58fd",
     "e761832d923272bc9371d1e4b4757bfc",
     "tg:FabrizioRomanoTG/64767",
     "dfd8b5f9fbb83084916898903c108240",
@@ -1499,7 +1498,8 @@
     "tg:FabrizioRomanoTG/65570",
     "62b5aab91c39a6686b9ba8f22147e6d8",
     "tg:FabrizioRomanoTG/65571",
-    "tg:FabrizioRomanoTG/65572"
+    "tg:FabrizioRomanoTG/65572",
+    "866c80fb941d4e2329011f2893af7bd8"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2033,7 +2033,6 @@
     "interest: sarr -> juventus"
   ],
   "titles": [
-    "hector fort set to leave barcelona for real sociedad in \u20ac8m transfer",
     "sunderland plot insane double winger swoop amid man city and marseille bid repor",
     "crystal palace refuse \u00a350m liverpool offer for ismaila sarr",
     "insider reveals winger liverpool are pursuing is now \u2018priority\u2019 for saudi arabia",
@@ -2332,7 +2331,8 @@
     "liverpool transfer news winger target heads elsewhere but reds offered midfielde",
     "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f nottingham forest agree \u00a322m deal for daniel munoz, here we go! \ud83c\udf33 \ud83c\udde8\ud83c\uddf4 agre",
     "enzo fernandez wants to leave chelsea and reaches personal agreement",
-    "rt @fabrizioromano : \ud83d\udea8 \ud83d\udd34 cody gakpo\u2019s future will be decided after today\u2019s game "
+    "rt @fabrizioromano : \ud83d\udea8 \ud83d\udd34 cody gakpo\u2019s future will be decided after today\u2019s game ",
+    "fabrizio romano rules out move for 'extraordinary' arsenal laliga target"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2633,11 +2633,11 @@
     "ibrahim mbaye": "https://r2.thesportsdb.com/images/media/player/cutout/aquiiw1766335383.png/small",
     "juma bah": "https://r2.thesportsdb.com/images/media/player/cutout/eqh8nl1766319554.png/small",
     "pape matar sarr": "https://r2.thesportsdb.com/images/media/player/cutout/ll7kkd1757016806.png/small",
-    "andria bartishvili": "",
     "tommy marques": "",
-    "vuk pavicevic": ""
+    "vuk pavicevic": "",
+    "andria bartishvili": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

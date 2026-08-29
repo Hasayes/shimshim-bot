@@ -1,6 +1,5 @@
 {
   "sent": [
-    "69d1142fb88bd63120917091fa7234ff",
     "0c026cc3a16b24608bcd8f406708e57e",
     "b5837e7b5ede948e6a2950d1f449beeb",
     "6698c98880ca61e367e5e56fbe327c1b",
@@ -1499,7 +1498,8 @@
     "8d183081445bfdaec6d1edc495af6b2f",
     "c0df43a7b833f279595d6e77870d4d80",
     "f9d4f1143f5ab6d46db0021c03e768e2",
-    "tg:FabrizioRomanoTG/65599"
+    "tg:FabrizioRomanoTG/65599",
+    "tg:FabrizioRomanoTG/65601"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2035,7 +2035,6 @@
     "interest: sarr -> juventus"
   ],
   "titles": [
-    "\u26aa\ufe0f \ud83c\uddea\ud83c\uddec official, story confirmed: omar marmoush signs in as new tottenham player ",
     "\ud83d\udea8 \ud83d\udd35 exclusive: chelsea reach verbal agreement with atalanta to sign 18 year old ",
     "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f juventus want franck kessie now, no exits or sales are needed as reporte",
     "\ud83d\udea8 \ud83d\udd35 chelsea mantain active talks for emiliano martinez deal with player\u2019s camp a",
@@ -2334,7 +2333,8 @@
     "'documents exchanged' fabrizio romano confirms date of bradley barcola's liverpo",
     "romano confirms man utd deal is done with fee revealed and documents \u2018signed\u2019",
     "fabrizio romano says \u201cchelsea are coming\u201d for midfielder signing, but what about",
-    "rt @cfcpys : \ud83d\udea8 breaking: there is an expectation that enzo fernandez does not pl"
+    "rt @cfcpys : \ud83d\udea8 breaking: there is an expectation that enzo fernandez does not pl",
+    "@fpl_cruyff the news is from spain my friend there\u2019s zero, no talks barcelona an"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2635,11 +2635,11 @@
     "ibrahim mbaye": "https://r2.thesportsdb.com/images/media/player/cutout/aquiiw1766335383.png/small",
     "juma bah": "https://r2.thesportsdb.com/images/media/player/cutout/eqh8nl1766319554.png/small",
     "pape matar sarr": "https://r2.thesportsdb.com/images/media/player/cutout/ll7kkd1757016806.png/small",
-    "tommy marques": "",
     "vuk pavicevic": "",
-    "andria bartishvili": ""
+    "andria bartishvili": "",
+    "tommy marques": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

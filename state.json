@@ -1,10 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/64793",
-    "tg:FabrizioRomanoTG/64794",
-    "tg:FabrizioRomanoTG/64795",
-    "tg:FabrizioRomanoTG/64797",
-    "tg:FabrizioRomanoTG/64802",
     "8f7c016f36be5ed6a733007891af1c46",
     "757c215a3e0742befc303281c7cb8b76",
     "7e3af975f001611ba025285c2e1a6eb8",
@@ -1499,7 +1494,12 @@
     "dd61bb68abc58379d51082fa24c3ef0e",
     "c9b22bf38bf48e89452a13d5e6399ad3",
     "tg:FabrizioRomanoTG/65585",
-    "tg:FabrizioRomanoTG/65586"
+    "tg:FabrizioRomanoTG/65586",
+    "a96a454d5ef237776cd1178ead788b11",
+    "63441cced3fb6b2cbc33a48030130bd0",
+    "tg:FabrizioRomanoTG/65588",
+    "tg:FabrizioRomanoTG/65589",
+    "tg:FabrizioRomanoTG/65590"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2035,10 +2035,6 @@
     "interest: sarr -> juventus"
   ],
   "titles": [
-    "\u2018chelsea are now advancing\u2019: romano drops exciting update as blues closing in on",
-    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f marc guiu wants napoli as a priority over proposals from spain as persona",
-    "milan, battle with inter for borussia dortmund\u2019s reggiani: the defender has been",
-    "\ud83d\udea8 \ud83d\udd35 emiliano martinez already said yes to chelsea project he wants the move and ",
     "fabrizio romano latest hints liverpool have dropped psg winger pursuit",
     "\ud83d\udea8 \ud83d\udca3 breaking: liverpool reach verbal agreement to sign bradley barcola, here we ",
     "transfer: chelsea to sign nigeria\u2019s ahanor",
@@ -2334,7 +2330,11 @@
     "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f juventus are advancing in talks to sign pape matar sarr with verbal prop",
     "transfer news live: atletico give alvarez deadline, barcola set for long term li",
     "ornstein: barcola medical at liverpool expected in \u2018next 24 hours\u2019 as contract l",
-    "\ud83d\udea8 \ud83d\udd34 \u26ab\ufe0f ac milan reach verbal agreement with nottingham forest to sign omari hutc"
+    "\ud83d\udea8 \ud83d\udd34 \u26ab\ufe0f ac milan reach verbal agreement with nottingham forest to sign omari hutc",
+    "\u201cverbal agreement\u201d for chelsea star to leave as further transfer talks to take p",
+    "\ud83d\udea8 \u26aa\ufe0f roberto de zerbi confirms richarlison, pape sarr and kevin danso asked to l",
+    "\ud83d\udea8 \ud83c\udde7\ud83c\uddf7 venezia agreed on deal to sign juan jesus as free agent, here we go! brazil",
+    "\ud83d\udea8 \ud83d\udfe3 fiorentina agree deal to sign alieu njie from torino, here we go! new winger"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2635,11 +2635,11 @@
     "ibrahim mbaye": "https://r2.thesportsdb.com/images/media/player/cutout/aquiiw1766335383.png/small",
     "juma bah": "https://r2.thesportsdb.com/images/media/player/cutout/eqh8nl1766319554.png/small",
     "pape matar sarr": "https://r2.thesportsdb.com/images/media/player/cutout/ll7kkd1757016806.png/small",
-    "tommy marques": "",
     "vuk pavicevic": "",
-    "andria bartishvili": ""
+    "andria bartishvili": "",
+    "tommy marques": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

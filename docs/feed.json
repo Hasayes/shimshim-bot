@@ -1,5 +1,30 @@
 [
  {
+  "id": "tg:FabrizioRomanoTG/65490",
+  "ts": "2026-08-29T19:15:34+00:00",
+  "kind": "deal",
+  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/1fl2tg1766237973.png/small",
+  "stage": "Here we go",
+  "player": "Lamine Camara",
+  "position": "\u2014",
+  "age": "\u2014",
+  "from_club": "AS Monaco",
+  "to_club": "Chelsea",
+  "fee": "\u2014",
+  "style": "Dynamic midfielder who combines technical quality with pressing intensity and ball recovery in the middle of the pitch.",
+  "fit": "Deploy as a box-to-box midfielder or alongside a deeper playmaker to provide energy and defensive cover in Chelsea's midfield.",
+  "source": "football365",
+  "sources": [
+   "Fabrizio Romano",
+   "football365"
+  ],
+  "srcTier": "tier1",
+  "summary": "Chelsea have reached an agreement with AS Monaco for midfielder Lamine Camara as an Enzo Fernandez replacement, with a medical expected within two days.",
+  "outlet": "football365",
+  "url": "https://www.football365.com/news/chelsea-reach-agreement-enzo-fernandez-replacement-medical-expected-two-days",
+  "title": "Chelsea reach agreement for Enzo Fernandez replacement with medical expected within two days"
+ },
+ {
   "id": "tg:FabrizioRomanoTG/65522",
   "ts": "2026-08-29T18:45:37+00:00",
   "kind": "deal",
@@ -433,30 +458,6 @@
   "outlet": "Telegram @fabrizioromanotg",
   "url": "https://t.me/FabrizioRomanoTG/65492",
   "title": "\ud83d\udd34 \u26aa\ufe0f AC Monza have agreed deal to sign Jan Ziolkowski from AS Roma, here we go! Verbal agreement done on initial loan wi"
- },
- {
-  "id": "tg:FabrizioRomanoTG/65490",
-  "ts": "2026-08-28T11:30:32+00:00",
-  "kind": "interest",
-  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/1fl2tg1766237973.png/small",
-  "stage": "\u2014",
-  "player": "Lamine Camara",
-  "position": "\u2014",
-  "age": "\u2014",
-  "from_club": "AS Monaco",
-  "to_club": "Chelsea",
-  "fee": "\u2014",
-  "style": "\u2014",
-  "fit": "\u2014",
-  "source": "Fabrizio Romano",
-  "sources": [
-   "Fabrizio Romano"
-  ],
-  "srcTier": "tier1",
-  "summary": "Chelsea and AS Monaco held a meeting on Thursday to discuss Lamine Camara as a midfield option for Chelsea, though Monaco hope to retain him.",
-  "outlet": "Telegram @fabrizioromanotg",
-  "url": "https://t.me/FabrizioRomanoTG/65490",
-  "title": "\ud83d\udea8 \ud83d\udd35 Chelsea and AS Monaco had a meeting on Thursday to discuss Lamine Camara as possible option for #CFC midfield. AS Mo"
  },
  {
   "id": "tg:FabrizioRomanoTG/65482",

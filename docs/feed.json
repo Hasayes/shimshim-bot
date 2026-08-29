@@ -1,5 +1,29 @@
 [
  {
+  "id": "911a1c2c66135b84281edfa7a7abd84b",
+  "ts": "2026-08-29T06:45:35+00:00",
+  "kind": "interest",
+  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/orqfvl1757163045.png/small",
+  "stage": "\u2014",
+  "player": "Omari Hutchinson",
+  "position": "\u2014",
+  "age": "\u2014",
+  "from_club": "Nottingham Forest",
+  "to_club": "AC Milan",
+  "fee": "\u2014",
+  "style": "Pacey winger who combines dribbling ability with directness in the final third.",
+  "fit": "Could provide width and attacking dynamism to Milan's forward play as a potential rotation option.",
+  "source": "football-italia",
+  "sources": [
+   "football-italia"
+  ],
+  "srcTier": "standard",
+  "summary": "AC Milan have contacted Nottingham Forest and Omari Hutchinson's agents to enquire about his availability.",
+  "outlet": "football-italia",
+  "url": "https://football-italia.net/hutchinson-targeted-milan-nottingham-forest/",
+  "title": "Report Hutchinson targeted by Milan after Nottingham Forest struggle"
+ },
+ {
   "id": "12bab89d9b43e00bdcd8ea4e176f5b74",
   "ts": "2026-08-29T06:00:46+00:00",
   "kind": "deal",

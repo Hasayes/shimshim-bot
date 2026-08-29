@@ -1,9 +1,5 @@
 {
   "sent": [
-    "14363a4fa6edef12efba7740f379115a",
-    "tg:FabrizioRomanoTG/64755",
-    "b2d5316237bcba7bbd41b8081dab5d56",
-    "981b2780ec9a81abfa91add147d9bc11",
     "9d9c9a9d96f4346d15da5909d1307f11",
     "39116f3d7edf986c9a1a0b0924cb46bb",
     "e9fc4a0c3b50cfaebcf46d72f53053d9",
@@ -1499,7 +1495,11 @@
     "67e827ab0a36347648b6258c1fd20d1b",
     "12bab89d9b43e00bdcd8ea4e176f5b74",
     "a4497d3e34cb946b374dd476747fd3a2",
-    "tg:FabrizioRomanoTG/65529"
+    "tg:FabrizioRomanoTG/65529",
+    "911a1c2c66135b84281edfa7a7abd84b",
+    "823e306858bd6eb8793dbbfee4d52b3c",
+    "9c3e1e762de0dc356b418cb46ae378e1",
+    "tg:FabrizioRomanoTG/65530"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2021,12 +2021,10 @@
     "interest: cunha -> arsenal",
     "interest: allister -> manchester city",
     "interest: scott -> liverpool",
-    "interest: endrick -> arsenal"
+    "interest: endrick -> arsenal",
+    "interest: hutchinson -> milan"
   ],
   "titles": [
-    "bayern munich, espanyol expected to maneuver around financial fair play regulati",
-    "sunderland reach verbal agreement with marseille winger igor paixao",
-    "fabrizio romano: liverpool open talks to sign \u00a350m forward after minteh blow",
     "man utd planning \u20ac50m bid for real madrid midfielder after baleba signing \u2013 jour",
     "whitwell confirms man utd plan for lewis hall amid alejandro balde rejection",
     "palacios travelling for medical",
@@ -2323,11 +2321,13 @@
     "chelsea in \u201cadvanced talks\u201d with atalanta over \u20ac40m transfer with loan already p",
     "transfer news round up, 28 august \ud83d\udcb0",
     "eintracht frankfurt set to sign lilian brassier and offload arthur theate",
-    "\ud83d\udea8 \ud83c\uddf2\ud83c\uddea inter have decided against proceeding with montenegro talent vuk pavicevic "
+    "\ud83d\udea8 \ud83c\uddf2\ud83c\uddea inter have decided against proceeding with montenegro talent vuk pavicevic ",
+    "report hutchinson targeted by milan after nottingham forest struggle",
+    "romano reveals chelsea transfer \u2018here we go\u2019 after \u2018secret talks\u2019 as camara stan",
+    "\ud83d\udea8 \ud83c\udde6\ud83c\uddf7 enzo fernandez has a verbal agreement with manchester city on personal term"
   ],
   "tg_update_offset": 263617426,
   "photos": {
-    "geovany quenda": "https://r2.thesportsdb.com/images/media/player/cutout/05lcli1762290334.png/small",
     "tyrique george": "https://r2.thesportsdb.com/images/media/player/cutout/wu3lse1772206197.png/small",
     "jeremy jacquet": "https://r2.thesportsdb.com/images/media/player/cutout/d6qx171766136993.png/small",
     "ifeanyi ndukwe": "https://r2.thesportsdb.com/images/media/player/cutout/iagott1769030864.png/small",
@@ -2623,12 +2623,13 @@
     "honest anahor": "",
     "alexis mac allister": "https://r2.thesportsdb.com/images/media/player/cutout/96dmuf1757087513.png/small",
     "toni fernandez": "https://r2.thesportsdb.com/images/media/player/thumb/wff8hh1782654603.jpg/small",
-    "andria bartishvili": "",
     "fabio miretti": "https://r2.thesportsdb.com/images/media/player/cutout/cjhsf71759225300.png/small",
     "tommy marques": "",
-    "vuk pavicevic": ""
+    "vuk pavicevic": "",
+    "omari hutchinson": "https://r2.thesportsdb.com/images/media/player/cutout/orqfvl1757163045.png/small",
+    "andria bartishvili": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

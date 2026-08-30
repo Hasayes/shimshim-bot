@@ -1,6 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/64833",
     "tg:FabrizioRomanoTG/64834",
     "tg:FabrizioRomanoTG/64838",
     "tg:FabrizioRomanoTG/64841",
@@ -1499,7 +1498,8 @@
     "22aa0bf0ba8aa349f128423f9b678817",
     "a65a99e505af2f30ce38b3ee8eec792d",
     "16de171fa5e140e75e102a1a5e808a34",
-    "a12039adc9e350d781f283c034494192"
+    "a12039adc9e350d781f283c034494192",
+    "57ea483af4fb68a70d1dc165fa4c6923"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2040,7 +2040,6 @@
     "interest: maatsen -> manchester united"
   ],
   "titles": [
-    "man utd receive \u2018official bid\u2019 as fabrizio romano reveals \u2018deal on\u2019 with serie a",
     "fiorentina hope to beat juventus to zirkzee with official bid for manchester uni",
     "liverpool reach agreement with psg for barcola",
     "romano confirms man utd \u2018deal on\u2019 as ineos turn to tottenham target to be new st",
@@ -2339,7 +2338,8 @@
     "ornstein: cody gakpo chooses man city over tottenham as liverpool talks advance",
     "report hutchinson ready for milan after verbal agreement with nottingham forest",
     "crystal palace receive bid for dean henderson to return to former club",
-    "juventus in advanced talks to sign tottenham hotspur midfielder pape matar sarr"
+    "juventus in advanced talks to sign tottenham hotspur midfielder pape matar sarr",
+    "cody gakpo wants to leave liverpool to join man city"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2641,10 +2641,10 @@
     "leonardo balerdi": "https://r2.thesportsdb.com/images/media/player/cutout/qmafbd1766151863.png/small",
     "james scanlon": "https://r2.thesportsdb.com/images/media/player/thumb/zlab2y1774453056.jpg/small",
     "ian maatsen": "https://r2.thesportsdb.com/images/media/player/cutout/9cu0ow1725359392.png/small",
-    "tommy marques": "",
-    "vuk pavicevic": ""
+    "vuk pavicevic": "",
+    "tommy marques": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

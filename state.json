@@ -1,8 +1,5 @@
 {
   "sent": [
-    "9177b711fc913e997956ff43cbb2d3c2",
-    "84adeb003e4a82c28b0266ffc58e874d",
-    "c16372b450f9bedf8d58135d743b94c7",
     "21ead2d451b94d1c4991fa0293911d10",
     "565e368ca701c2f63fcd97452c57a925",
     "b3f8138610d2ea19fbdd643523a2f82f",
@@ -1499,7 +1496,10 @@
     "65650f4491cacc6f10cb8fd5a6baca21",
     "4934b4866724f8704374bea405f5a80f",
     "5c27aa75f1a68ee2e5faf01cd115e4f3",
-    "85b450a5f6d17159b6f2e15ef4422a6d"
+    "85b450a5f6d17159b6f2e15ef4422a6d",
+    "8d220f5074f4083bcf874ffbd4ba13c6",
+    "30356fa95a945dca8e9b02d39f6b7f36",
+    "a790872562805ffeae9090b94a77af70"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2038,9 +2038,6 @@
     "interest: ndiaye -> tottenham"
   ],
   "titles": [
-    "\ud83d\udea8 \u274c jayden oosterwolde to as roma deal has now collapsed after extra medical tes",
-    "internal talks ongoing as romano confirms rival player says \u2018yes\u2019 to chelsea mov",
-    "julian alvarez misses atletico madrid training again in transfer boost for arsen",
     "aston villa strike full agreement for jackson and step up leao hijack in \u00a3103m d",
     "barcola to liverpool now in \u2018final stages\u2019 as fabrizio romano issues thursday mo",
     "breaking: liverpool reach \u2018agreement in principle\u2019 to sign bradley barcola from ",
@@ -2337,7 +2334,10 @@
     "one step closer: psg\u2019s bradley barcola to undergo medical at liverpool",
     "julian alvarez transfer to arsenal off as star tells mikel arteta he has no inte",
     "fabrizio romano confirms arsenal have vanquished liverpool with signing \u2018here we",
-    "opportunistic arsenal take risk over major attacker deal as top insider updates"
+    "opportunistic arsenal take risk over major attacker deal as top insider updates",
+    "chelsea star enzo fernandez agrees terms with manchester city",
+    "not juventus or roma: a surprise italian offer to snatch kessie",
+    "david ornstein reveals what julian alvarez told arsenal boss mikel arteta amid b"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2639,10 +2639,10 @@
     "julian alvarez": "https://r2.thesportsdb.com/images/media/player/cutout/91pla41762288186.png/small",
     "andria bartishvili": "",
     "leonardo balerdi": "https://r2.thesportsdb.com/images/media/player/cutout/qmafbd1766151863.png/small",
-    "tommy marques": "",
-    "vuk pavicevic": ""
+    "vuk pavicevic": "",
+    "tommy marques": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

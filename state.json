@@ -1,6 +1,5 @@
 {
   "sent": [
-    "ab4252ecf347026a992f7409df11ea3d",
     "tg:FabrizioRomanoTG/64872",
     "cf0f072fc4acf09b6761e72dcb4ee1ff",
     "13dd504c06cb0d636ee5f4d9055719bf",
@@ -1499,7 +1498,8 @@
     "tg:FabrizioRomanoTG/65647",
     "tg:FabrizioRomanoTG/65650",
     "tg:FabrizioRomanoTG/65651",
-    "tg:FabrizioRomanoTG/65652"
+    "tg:FabrizioRomanoTG/65652",
+    "79ed5eec9fb8ef75b3d1da9eff7913da"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2045,7 +2045,6 @@
     "interest: brughmans -> liverpool"
   ],
   "titles": [
-    "aston villa smash transfer record as fabrizio romano declares \u2018here we go\u2019",
     "\ud83d\udd35 \ud83d\udd34 rodri: \u201ci always wanted barca, this is where i wanted to be\u201d \u201cthere are the ",
     "fabrizio romano: napoli in contact with newcastle over loan for \u00a369m star",
     "\u201cchelsea mantain active talks\u201d \u2013 premier league star open to stamford bridge mov",
@@ -2344,7 +2343,8 @@
     "\ud83d\udea8 \ud83d\udd34 liverpool have made official club to club contact with genk to sign lucca br",
     "\ud83d\udea8 \ud83d\udfe3 \ud83d\udd35 aston villa have reached a verbal agreement to sign taylor harwood bellis ",
     "rt @krakenfx : \ud83d\udea8 \u23f3 kraken deadline day! only 24hrs remain! today's the final day",
-    "\ud83d\udea8 \ud83d\udd35 official, confirmed ollie watkins has joined al hilal as he leaves aston vil"
+    "\ud83d\udea8 \ud83d\udd35 official, confirmed ollie watkins has joined al hilal as he leaves aston vil",
+    "the attacker that manchester city want to bolster their squad looks to have been"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2646,10 +2646,10 @@
     "santi gimenez": "https://r2.thesportsdb.com/images/media/player/cutout/j63fz01758892529.png/small",
     "santiago gimenez": "https://r2.thesportsdb.com/images/media/player/cutout/j63fz01758892529.png/small",
     "lucca brughmans": "https://images.fotmob.com/image_resources/playerimages/1679949.png",
-    "tommy marques": "",
-    "vuk pavicevic": ""
+    "vuk pavicevic": "",
+    "tommy marques": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

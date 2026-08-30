@@ -1,8 +1,5 @@
 {
   "sent": [
-    "21ead2d451b94d1c4991fa0293911d10",
-    "565e368ca701c2f63fcd97452c57a925",
-    "b3f8138610d2ea19fbdd643523a2f82f",
     "37b8a41dcd04417ba1ccd23d46c92247",
     "c2c3b5ddc101c55ebc0e5a85b54a8139",
     "3e4316ab8d674ce01a827509bd763c62",
@@ -1499,7 +1496,10 @@
     "85b450a5f6d17159b6f2e15ef4422a6d",
     "8d220f5074f4083bcf874ffbd4ba13c6",
     "30356fa95a945dca8e9b02d39f6b7f36",
-    "a790872562805ffeae9090b94a77af70"
+    "a790872562805ffeae9090b94a77af70",
+    "7e264fd29afc4194c31b257d1d84a7e0",
+    "ad10517f630803180a331ab50499718d",
+    "36bf040a850cee166ccd2558af68a6e9"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2038,8 +2038,6 @@
     "interest: ndiaye -> tottenham"
   ],
   "titles": [
-    "aston villa strike full agreement for jackson and step up leao hijack in \u00a3103m d",
-    "barcola to liverpool now in \u2018final stages\u2019 as fabrizio romano issues thursday mo",
     "breaking: liverpool reach \u2018agreement in principle\u2019 to sign bradley barcola from ",
     "transfer: emi martinez gives green light for chelsea move",
     "why leeds now have green light for michael zetterer transfer as agreement reache",
@@ -2337,7 +2335,9 @@
     "opportunistic arsenal take risk over major attacker deal as top insider updates",
     "chelsea star enzo fernandez agrees terms with manchester city",
     "not juventus or roma: a surprise italian offer to snatch kessie",
-    "david ornstein reveals what julian alvarez told arsenal boss mikel arteta amid b"
+    "david ornstein reveals what julian alvarez told arsenal boss mikel arteta amid b",
+    "report kessie ready for atalanta return after juventus talks abandoned",
+    "record breaking liverpool \u2018proposal\u2019 for winger imminent \u2013 \u2018confidence is high t"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2639,10 +2639,10 @@
     "julian alvarez": "https://r2.thesportsdb.com/images/media/player/cutout/91pla41762288186.png/small",
     "andria bartishvili": "",
     "leonardo balerdi": "https://r2.thesportsdb.com/images/media/player/cutout/qmafbd1766151863.png/small",
-    "vuk pavicevic": "",
-    "tommy marques": ""
+    "tommy marques": "",
+    "vuk pavicevic": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

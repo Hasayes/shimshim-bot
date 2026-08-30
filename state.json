@@ -1,8 +1,5 @@
 {
   "sent": [
-    "24936c197ef2777e55d25f25672fde6c",
-    "d1cc08490bfe4cd980c8ec0cb38a6399",
-    "tg:FabrizioRomanoTG/64817",
     "75710b6bedbc50906c86f61cf3e98763",
     "3de00a4ba86f3ae1e33cea218d74aabc",
     "1e592aece86b63fce1429d6bfd618d6b",
@@ -1499,7 +1496,10 @@
     "2fad884944992a7718ffa96f4f220793",
     "6cf7756353c98f86b3889a7dd4e8042a",
     "642b4dd9e7f5a195cc48caec69fa0fa9",
-    "c0570740d4ffaefa8ac4c954d06a83d5"
+    "c0570740d4ffaefa8ac4c954d06a83d5",
+    "e1cdd6cffae43a3fbf3af9b6e0d54116",
+    "fcb868df46cadb521092ece01fce8703",
+    "28d7192a7b966872519a2bc52bb43841"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2040,9 +2040,6 @@
     "interest: maatsen -> manchester united"
   ],
   "titles": [
-    "liverpool get their man: reds seal blockbuster \u00a3120m bradley barcola deal",
-    "report: chelsea consider rivalling arsenal for \u201ctechnically brilliant\u201d attacker",
-    "jack grealish reaches decision on re joining everton or aston villa as man city ",
     "liverpool transfer latest news: reds close in on dream target bradley barcola in",
     "wilson isidor signs new sunderland contract to end summer transfer speculation",
     "ipswich strike shock loan deal for tammy abraham as aston villa close in on nico",
@@ -2339,7 +2336,10 @@
     "official: manchester united announce youngster\u2019s transfer to arsenal",
     "how ian maatsen compares with lewis hall as man utd make transfer enquiry",
     "winger desperate to join liverpool as fsg continue talks over transfer",
-    "rb leipzig set to pounce on chelsea target who they think is a bargain at \u20ac20m"
+    "rb leipzig set to pounce on chelsea target who they think is a bargain at \u20ac20m",
+    "\u00a360m arsenal, liverpool winger battle explodes after julian alvarez snub",
+    "gerrard: 'huge loss for everton' as \u00a340m rated youngster edges closer to exit",
+    "fabrizio romano exclusive claims real madrid set to snap up \u20ac3m midfield signing"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2641,10 +2641,10 @@
     "leonardo balerdi": "https://r2.thesportsdb.com/images/media/player/cutout/qmafbd1766151863.png/small",
     "james scanlon": "https://r2.thesportsdb.com/images/media/player/thumb/zlab2y1774453056.jpg/small",
     "ian maatsen": "https://r2.thesportsdb.com/images/media/player/cutout/9cu0ow1725359392.png/small",
-    "tommy marques": "",
-    "vuk pavicevic": ""
+    "vuk pavicevic": "",
+    "tommy marques": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

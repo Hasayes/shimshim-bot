@@ -34,4 +34,5 @@ jobs:
           ANTHROPIC_API_KEY: x
         run: |
           python test_rumour_gates.py
+          python test_verify_sweep.py
           python test_search_upgrade.py

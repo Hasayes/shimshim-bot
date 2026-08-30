@@ -1,6 +1,5 @@
 {
   "sent": [
-    "2bed67eec0a1faf302dacdaf3333cefc",
     "15cd7001f4a5a6af7b7fe8f466116d34",
     "b22a546b2c820a7e4663085d3f11f56f",
     "2398f3b8b029409c08ec6568e015b8a5",
@@ -1499,7 +1498,8 @@
     "tg:FabrizioRomanoTG/65666",
     "0cdcddaa9e969503d2283f437deec86b",
     "35a00f9ec55cae841092782029935304",
-    "6305d4958570cd09bf0a224175e77120"
+    "6305d4958570cd09bf0a224175e77120",
+    "841a3c27df2854437bd953d99b40db21"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2047,7 +2047,6 @@
     "interest: brughmans -> liverpool"
   ],
   "titles": [
-    "man city to drop \u00a3200m on double signing with enzo fernandez agreement struck",
     "arsenal make unexpected reiss nelson decision as his future takes a new turn",
     "\ud83d\udea8 \ud83c\udde8\ud83c\udded servette fc have completed deal to sign david datro fofana from chelsea on ",
     "napoli interest in woltemade, gabriel jesus and guiu with premier league focus",
@@ -2346,7 +2345,8 @@
     "bundesliga giants call off pursuit of barcelona midfielder \u2013 romano",
     "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f excl: atletico madrid submit official bid to juventus for jonathan david ",
     "man united transfer news live: marcus rashford latest, arsenal agreement, amad b",
-    "chelsea continue to demand permanent deal for gittens"
+    "chelsea continue to demand permanent deal for gittens",
+    "aston villa respond to man utd enquiry for ian maatsen"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2648,10 +2648,10 @@
     "lucca brughmans": "https://images.fotmob.com/image_resources/playerimages/1679949.png",
     "neil el aynaoui": "https://r2.thesportsdb.com/images/media/player/cutout/wbm4lk1758815430.png/small",
     "marten de roon": "https://r2.thesportsdb.com/images/media/player/cutout/vd6v6q1695157451.png/small",
-    "vuk pavicevic": "",
-    "tommy marques": ""
+    "tommy marques": "",
+    "vuk pavicevic": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

@@ -1,8 +1,5 @@
 {
   "sent": [
-    "17d71e4e28db012ad275d8b37b66808d",
-    "ba72e5dbc93360e3e689ca9f6a37f582",
-    "tg:FabrizioRomanoTG/64827",
     "tg:FabrizioRomanoTG/64830",
     "tg:FabrizioRomanoTG/64831",
     "tg:FabrizioRomanoTG/64833",
@@ -1499,7 +1496,10 @@
     "7af13eda12fb453a703792a393bbd2cf",
     "daee64b8de8952829dc672414b48ade8",
     "1311f26cda1280cb408ccf05f6e9911f",
-    "tg:FabrizioRomanoTG/65611"
+    "tg:FabrizioRomanoTG/65611",
+    "68fda187de60dcb73e6e750825d4ae5a",
+    "22aa0bf0ba8aa349f128423f9b678817",
+    "a65a99e505af2f30ce38b3ee8eec792d"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2040,8 +2040,6 @@
     "interest: maatsen -> manchester united"
   ],
   "titles": [
-    "romano: man utd in advanced talks with fiorentina after official joshua zirkzee ",
-    "fiorentina submit bid for joshua zirkzee",
     "has liverpool just pulled off the biggest transfer of the summer?",
     "\ud83d\udea8 \ud83c\uddea\ud83c\uddf8 leganes are confident to complete all final details of alvaro morata deal o",
     "man utd receive \u2018official bid\u2019 as fabrizio romano reveals \u2018deal on\u2019 with serie a",
@@ -2339,7 +2337,9 @@
     "enzo fernandez has long been linked with a chelsea exit",
     "\u00a34 3m shot stopper flies to england for medical with leeds united: good signing ",
     "why julian alvarez won\u2019t sign for arsenal",
-    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f manchester city confident to close all details of cody gakpo deal as soon"
+    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f manchester city confident to close all details of cody gakpo deal as soon",
+    "ornstein: cody gakpo chooses man city over tottenham as liverpool talks advance",
+    "report hutchinson ready for milan after verbal agreement with nottingham forest"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2641,10 +2641,10 @@
     "leonardo balerdi": "https://r2.thesportsdb.com/images/media/player/cutout/qmafbd1766151863.png/small",
     "james scanlon": "https://r2.thesportsdb.com/images/media/player/thumb/zlab2y1774453056.jpg/small",
     "ian maatsen": "https://r2.thesportsdb.com/images/media/player/cutout/9cu0ow1725359392.png/small",
-    "tommy marques": "",
-    "vuk pavicevic": ""
+    "vuk pavicevic": "",
+    "tommy marques": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

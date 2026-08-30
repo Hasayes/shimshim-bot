@@ -1,6 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/64844",
     "5d2d133a03e0df370b7bfb8471648025",
     "tg:FabrizioRomanoTG/64845",
     "ff364a525548908bff99650a7f0c1ead",
@@ -1499,7 +1498,8 @@
     "57024e6395502cda04d616395d0427dd",
     "tg:FabrizioRomanoTG/65614",
     "ce8c6d9484613b1686b23836f3d48576",
-    "tg:FabrizioRomanoTG/65616"
+    "tg:FabrizioRomanoTG/65616",
+    "tg:FabrizioRomanoTG/65617"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2641,10 +2641,10 @@
     "leonardo balerdi": "https://r2.thesportsdb.com/images/media/player/cutout/qmafbd1766151863.png/small",
     "james scanlon": "https://r2.thesportsdb.com/images/media/player/thumb/zlab2y1774453056.jpg/small",
     "ian maatsen": "https://r2.thesportsdb.com/images/media/player/cutout/9cu0ow1725359392.png/small",
-    "tommy marques": "",
-    "vuk pavicevic": ""
+    "vuk pavicevic": "",
+    "tommy marques": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

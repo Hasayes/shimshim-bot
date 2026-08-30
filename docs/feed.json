@@ -1,5 +1,53 @@
 [
  {
+  "id": "b2b9e91b498bb82e599e2c647aaf6565",
+  "ts": "2026-08-30T18:00:53+00:00",
+  "kind": "deal",
+  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/vd6v6q1695157451.png/small",
+  "stage": "Here we go",
+  "player": "Marten de Roon",
+  "position": "Midfielder",
+  "age": "\u2014",
+  "from_club": "Atalanta",
+  "to_club": "Roma",
+  "fee": "\u2014",
+  "style": "Versatile midfielder with strong defensive work rate and physical presence in midfield.",
+  "fit": "Deploy as a defensive midfielder or box-to-box option to provide stability and intensity in Roma's central midfield.",
+  "source": "Yahoo",
+  "sources": [
+   "Yahoo"
+  ],
+  "srcTier": "standard",
+  "summary": "Marten de Roon has completed a transfer from Atalanta to Roma and is expected to arrive in Rome for his medical.",
+  "outlet": "yahoo",
+  "url": "https://sports.yahoo.com/articles/confirmed-roon-reunites-gasperini-dutchman-055000773.html",
+  "title": "Confirmed: De Roon reunites with Gasperini, Dutchman will land in Rome at 12.10 ahead of Roma medical"
+ },
+ {
+  "id": "28040e2fa32268930f97ea281f38c1a5",
+  "ts": "2026-08-30T18:00:49+00:00",
+  "kind": "deal",
+  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/wbm4lk1758815430.png/small",
+  "stage": "Completed",
+  "player": "Neil El Aynaoui",
+  "position": "Midfielder",
+  "age": "\u2014",
+  "from_club": "Roma",
+  "to_club": "Leipzig",
+  "fee": "\u2014",
+  "style": "Dynamic midfielder who combines technical ability with pressing intensity and box-to-box energy.",
+  "fit": "Can be deployed in Leipzig's midfield system as a ball-winning midfielder to drive transitions and support their attacking play.",
+  "source": "Fabrizio Romano",
+  "sources": [
+   "Fabrizio Romano"
+  ],
+  "srcTier": "tier1",
+  "summary": "Neil El Aynaoui has completed a move from Roma to Leipzig. The deal has been finalized according to Fabrizio Romano.",
+  "outlet": "yahoo",
+  "url": "https://sports.yahoo.com/articles/done-deal-el-aynaoui-moves-055000149.html",
+  "title": "Done deal: El Aynaoui moves to Leipzig, De Roon joins Roma"
+ },
+ {
   "id": "tg:FabrizioRomanoTG/65647",
   "ts": "2026-08-30T15:30:41+00:00",
   "kind": "interest",

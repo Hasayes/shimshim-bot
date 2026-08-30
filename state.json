@@ -1,10 +1,5 @@
 {
   "sent": [
-    "cf0f072fc4acf09b6761e72dcb4ee1ff",
-    "13dd504c06cb0d636ee5f4d9055719bf",
-    "0be91f0a90768350a870a1bdf9d981c5",
-    "458d3d879eee442408e34db2c0379059",
-    "2bf438bf532ddfdfe81f83c55bb720de",
     "d9a42cc80e06f44e67235d33589ec339",
     "tg:FabrizioRomanoTG/64876",
     "f0f0003e443cedcfe1a4ad10972f2a37",
@@ -1499,7 +1494,12 @@
     "tg:FabrizioRomanoTG/65651",
     "tg:FabrizioRomanoTG/65652",
     "79ed5eec9fb8ef75b3d1da9eff7913da",
-    "1d442dbaaa189fec65e84875468ab2d9"
+    "1d442dbaaa189fec65e84875468ab2d9",
+    "28040e2fa32268930f97ea281f38c1a5",
+    "b2b9e91b498bb82e599e2c647aaf6565",
+    "b9f016be4dc2cc674ef94efaa32070fc",
+    "tg:FabrizioRomanoTG/65659",
+    "tg:FabrizioRomanoTG/65663"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1794,7 +1794,9 @@
     "scanlon -> arsenal": 2,
     "ndiaye -> tottenham": 1,
     "gimenez -> fc porto": 2,
-    "jesus -> barcelona": 1
+    "jesus -> barcelona": 1,
+    "aynaoui -> leipzig": 2,
+    "roon -> roma": 1
   },
   "interest": [
     "interest: alvarez -> arsenal",
@@ -2045,11 +2047,6 @@
     "interest: brughmans -> liverpool"
   ],
   "titles": [
-    "\ud83d\udd35 \ud83d\udd34 rodri: \u201ci always wanted barca, this is where i wanted to be\u201d \u201cthere are the ",
-    "fabrizio romano: napoli in contact with newcastle over loan for \u00a369m star",
-    "\u201cchelsea mantain active talks\u201d \u2013 premier league star open to stamford bridge mov",
-    "newcastle united issue official response after nick woltemade transfer approach ",
-    "liverpool come to sarr conclusion as potential minteh u turn hint is revealed",
     "\ud83d\udd35 \ud83c\udde6\ud83c\uddf7 emiliano martinez, in london today for medical tests and then contract sign",
     "romano gives \u2018here we go\u2019 to second chelsea signing of the day after big fernand",
     "liverpool planning two attacking signings after barcola with 21 goal winger next",
@@ -2344,12 +2341,15 @@
     "\ud83d\udea8 \ud83d\udfe3 \ud83d\udd35 aston villa have reached a verbal agreement to sign taylor harwood bellis ",
     "rt @krakenfx : \ud83d\udea8 \u23f3 kraken deadline day! only 24hrs remain! today's the final day",
     "\ud83d\udea8 \ud83d\udd35 official, confirmed ollie watkins has joined al hilal as he leaves aston vil",
-    "the attacker that manchester city want to bolster their squad looks to have been"
+    "the attacker that manchester city want to bolster their squad looks to have been",
+    "done deal: el aynaoui moves to leipzig, de roon joins roma",
+    "confirmed: de roon reunites with gasperini, dutchman will land in rome at 12 10 ",
+    "confirmed: barcelona defender joins real sociedad on a permanent deal",
+    "\ud83d\udea8 \ud83d\udd35 watkins to al hilal, here we go confirmed! celebrate the new signing with co",
+    "\ud83d\udd35 \u26aa\ufe0f \ud83c\uddf8\ud83c\udde6 gabriel martinelli\u2019s contract at al hilal will be valid until june 2030 "
   ],
   "tg_update_offset": 263617426,
   "photos": {
-    "alejo veliz": "https://r2.thesportsdb.com/images/media/player/cutout/h56c361765276200.png/small",
-    "sean steur": "https://www.thesportsdb.com/images/media/player/thumb/vhdhz21783707932.jpg/small",
     "hayden hackney": "https://r2.thesportsdb.com/images/media/player/cutout/rutov51761830079.png/small",
     "merlin rohl": "https://r2.thesportsdb.com/images/media/player/cutout/jjzhlp1756976847.png/small",
     "pascal struijk": "https://r2.thesportsdb.com/images/media/player/cutout/axi6z01757076178.png/small",
@@ -2646,10 +2646,12 @@
     "santi gimenez": "https://r2.thesportsdb.com/images/media/player/cutout/j63fz01758892529.png/small",
     "santiago gimenez": "https://r2.thesportsdb.com/images/media/player/cutout/j63fz01758892529.png/small",
     "lucca brughmans": "https://images.fotmob.com/image_resources/playerimages/1679949.png",
-    "tommy marques": "",
-    "vuk pavicevic": ""
+    "vuk pavicevic": "",
+    "neil el aynaoui": "https://r2.thesportsdb.com/images/media/player/cutout/wbm4lk1758815430.png/small",
+    "marten de roon": "https://r2.thesportsdb.com/images/media/player/cutout/vd6v6q1695157451.png/small",
+    "tommy marques": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",
@@ -2825,6 +2827,7 @@
     "venezia": "https://r2.thesportsdb.com/images/media/team/badge/vbiget1781026964.png/small",
     "west bromwich albion": "https://r2.thesportsdb.com/images/media/team/badge/rsvuxw1448813527.png/small",
     "augsburg": "https://r2.thesportsdb.com/images/media/team/badge/xqyyvq1473453233.png/small",
-    "genk": "https://r2.thesportsdb.com/images/media/team/badge/tp06te1534875918.png/small"
+    "genk": "https://r2.thesportsdb.com/images/media/team/badge/tp06te1534875918.png/small",
+    "leipzig": "https://images.fotmob.com/image_resources/logo/teamlogo/178475.png"
   }
 }

@@ -1,9 +1,5 @@
 {
   "sent": [
-    "db4144ffb636f012a89b471c7846ac32",
-    "8f8b8176c189e5279772ca15414901cf",
-    "499b36fbb5a5f04e7654bf4cf783c589",
-    "c35ff256521e50bf3ff1dc2f509b059d",
     "e12aecd29632ba4d41081bb730599725",
     "tg:FabrizioRomanoTG/64868",
     "69cb26acb56db1d6a377050846a01ce7",
@@ -1499,7 +1495,11 @@
     "tg:FabrizioRomanoTG/65636",
     "f2fbbfe40e35efa555cbd26dfaf41fdc",
     "tg:FabrizioRomanoTG/65639",
-    "tg:FabrizioRomanoTG/65641"
+    "tg:FabrizioRomanoTG/65641",
+    "3afefc058f6f92133c4333e8b3e549cd",
+    "aa2177376cc3c3e042a234b44503847c",
+    "tg:FabrizioRomanoTG/65643",
+    "tg:FabrizioRomanoTG/65644"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1760,7 +1760,7 @@
     "sarr -> real sociedad": 2,
     "poku -> besiktas": 2,
     "delap -> nottingham forest": 2,
-    "martinelli -> al hilal": 1,
+    "martinelli -> al hilal": 2,
     "asllani -> al jazira": 2,
     "fort -> real sociedad": 2,
     "ordonez -> crystal palace": 1,
@@ -2044,9 +2044,6 @@
     "interest: jesus -> barcelona"
   ],
   "titles": [
-    "fabrizio romano confirms \u00a340m chelsea signing and 'final decision' imminent on a",
-    "romano gives \u2018here we go\u2019 to next chelsea transfer as blues close in on two deal",
-    "fabrizio romano reveals \u201chere we go\u201d for chelsea to complete \u00a340m transfer",
     "arsenal terminate star\u2019s contract and arteta confirms next player to go",
     "\u201ccrucial\u201d few hours ahead as arsenal officials to meet julian alvarez reps in se",
     "latest transfer odds reveal where gakpo, minteh, sarr deals stand after barcola ",
@@ -2343,7 +2340,10 @@
     "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 breaking: barcelona agree deal to sign gabriel jesus from arsenal, here we",
     "liverpool star decides he wants to join manchester city, clubs begin talks for t",
     "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f breaking: gabriel martinelli to al hilal, here we go! verbal agreement do",
-    "rt @fabrizioromano : \ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f breaking: gabriel martinelli to al hilal, here we go"
+    "rt @fabrizioromano : \ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f breaking: gabriel martinelli to al hilal, here we go",
+    "arsenal news: julian alvarez transfer deadline emerges as star signs contract da",
+    "arsenal news: julian alvarez transfer deadline emerges as star signs contract",
+    "\ud83d\udd35 \u26aa\ufe0f \ud83d\udc4b\ud83c\udffc after gabriel jesus, also gabriel martinelli leaves arsenal and joins al"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2645,10 +2645,10 @@
     "ian maatsen": "https://r2.thesportsdb.com/images/media/player/cutout/9cu0ow1725359392.png/small",
     "santi gimenez": "https://r2.thesportsdb.com/images/media/player/cutout/j63fz01758892529.png/small",
     "santiago gimenez": "https://r2.thesportsdb.com/images/media/player/cutout/j63fz01758892529.png/small",
-    "tommy marques": "",
-    "vuk pavicevic": ""
+    "vuk pavicevic": "",
+    "tommy marques": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

@@ -1,5 +1,29 @@
 [
  {
+  "id": "tg:FabrizioRomanoTG/65303",
+  "ts": "2026-08-30T15:00:45+00:00",
+  "kind": "deal",
+  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/pnwfls1769331152.png/small",
+  "stage": "Completed",
+  "player": "Gabriel Martinelli",
+  "position": "\u2014",
+  "age": "\u2014",
+  "from_club": "Arsenal",
+  "to_club": "Al Hilal",
+  "fee": "\u20ac65m+",
+  "style": "Dynamic winger with pace, technical ability, and pressing intensity who operates effectively on the left flank.",
+  "fit": "Should be utilized as a key attacking threat in Al Hilal's wing system to provide width and creativity in their offensive setup.",
+  "source": "Fabrizio Romano",
+  "sources": [
+   "Fabrizio Romano"
+  ],
+  "srcTier": "tier1",
+  "summary": "Gabriel Martinelli completes his move from Arsenal to Al Hilal after the exclusive story was revealed two weeks prior.",
+  "outlet": "Telegram @fabrizioromanotg",
+  "url": "https://t.me/FabrizioRomanoTG/65644",
+  "title": "\ud83d\udd35 \u26aa\ufe0f \ud83d\udc4b\ud83c\udffc After Gabriel Jesus, also Gabriel Martinelli leaves Arsenal and joins Al Hilal. The exclusive story revealed two"
+ },
+ {
   "id": "6959df4889706a9ce3465653085171ab",
   "ts": "2026-08-30T12:45:37+00:00",
   "kind": "deal",
@@ -1159,30 +1183,6 @@
   "outlet": "onefootball",
   "url": "https://onefootball.com/en/news/official-perin-leaves-juventus-to-join-palermo-in-serie-b-43341179",
   "title": "Official: Perin leaves Juventus to join Palermo in Serie B"
- },
- {
-  "id": "tg:FabrizioRomanoTG/65303",
-  "ts": "2026-08-26T07:15:01+00:00",
-  "kind": "deal",
-  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/pnwfls1769331152.png/small",
-  "stage": "Here we go",
-  "player": "Gabriel Martinelli",
-  "position": "\u2014",
-  "age": "\u2014",
-  "from_club": "Arsenal",
-  "to_club": "Al Hilal",
-  "fee": "\u20ac65m+",
-  "style": "Dynamic left-winger with strong dribbling ability, pace and technical skill to create chances from the flank.",
-  "fit": "Should operate as the primary attacking threat on the left wing to lead Al Hilal's European-style pressing and creative play.",
-  "source": "Fabrizio Romano",
-  "sources": [
-   "Fabrizio Romano"
-  ],
-  "srcTier": "tier1",
-  "summary": "Gabriel Martinelli's agent is in direct contact with Al Hilal to finalize personal terms. Arsenal have authorized the player for medical after a package over \u20ac65m was verbally agreed.",
-  "outlet": "Telegram @fabrizioromanotg",
-  "url": "https://t.me/FabrizioRomanoTG/65303",
-  "title": "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f Gabriel Martinelli\u2019s agent are in direct contact with Al Hilal again to close the agreement on personal terms and"
  },
  {
   "id": "tg:FabrizioRomanoTG/65301",

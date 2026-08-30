@@ -1,8 +1,5 @@
 {
   "sent": [
-    "37b8a41dcd04417ba1ccd23d46c92247",
-    "c2c3b5ddc101c55ebc0e5a85b54a8139",
-    "3e4316ab8d674ce01a827509bd763c62",
     "81d8af673636f25da42115d60ffe0b65",
     "76c98194fb3c1875e8af9f5ac5fb1223",
     "f1ebf706548e693ebeeb4efa6a1821cb",
@@ -1499,7 +1496,10 @@
     "a790872562805ffeae9090b94a77af70",
     "7e264fd29afc4194c31b257d1d84a7e0",
     "ad10517f630803180a331ab50499718d",
-    "36bf040a850cee166ccd2558af68a6e9"
+    "36bf040a850cee166ccd2558af68a6e9",
+    "5bb3ebb8e487584c196aafa596e74722",
+    "95450f30e609f4fb1a0dd0a62d741b3c",
+    "a764ffa1c66a1555352672830e6fbffa"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2038,9 +2038,6 @@
     "interest: ndiaye -> tottenham"
   ],
   "titles": [
-    "breaking: liverpool reach \u2018agreement in principle\u2019 to sign bradley barcola from ",
-    "transfer: emi martinez gives green light for chelsea move",
-    "why leeds now have green light for michael zetterer transfer as agreement reache",
     "\"done deal\": atubolu set to complete eintracht frankfurt move",
     "liverpool make major breakthrough in bid to sign psg winger bradley barcola",
     "official: lazio sign pinamonti in permanent transfer from sassuolo",
@@ -2337,7 +2334,10 @@
     "not juventus or roma: a surprise italian offer to snatch kessie",
     "david ornstein reveals what julian alvarez told arsenal boss mikel arteta amid b",
     "report kessie ready for atalanta return after juventus talks abandoned",
-    "record breaking liverpool \u2018proposal\u2019 for winger imminent \u2013 \u2018confidence is high t"
+    "record breaking liverpool \u2018proposal\u2019 for winger imminent \u2013 \u2018confidence is high t",
+    "romano: chelsea in club to club talks for 'truly fantastic' fernandez replacemen",
+    "julian alvarez transfer update issued as arsenal chances measured talksport",
+    "chelsea target set to fly to london for medical this weekend after move consider"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2639,10 +2639,10 @@
     "julian alvarez": "https://r2.thesportsdb.com/images/media/player/cutout/91pla41762288186.png/small",
     "andria bartishvili": "",
     "leonardo balerdi": "https://r2.thesportsdb.com/images/media/player/cutout/qmafbd1766151863.png/small",
-    "tommy marques": "",
-    "vuk pavicevic": ""
+    "vuk pavicevic": "",
+    "tommy marques": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

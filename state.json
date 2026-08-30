@@ -1,6 +1,5 @@
 {
   "sent": [
-    "8b2024b17fe7b256a4a2bcb55ca5d76b",
     "d0783c32ae372263fa9c7a1dcc86a105",
     "8d9bb32af06a08b299119bb9f3bf8d83",
     "c73c50157b05b73427a76d01b63be249",
@@ -1499,7 +1498,8 @@
     "7e570a7caa3546c29f7165f39c31af8f",
     "54ccae45a1c0c7e18ecf373b9d188a51",
     "02460f87561170837ca718d72635f7e1",
-    "1bf9eed8420dbda014ad788e5bdb6f29"
+    "1bf9eed8420dbda014ad788e5bdb6f29",
+    "65650f4491cacc6f10cb8fd5a6baca21"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2038,7 +2038,6 @@
     "interest: ndiaye -> tottenham"
   ],
   "titles": [
-    "just in: ornstein delivers latest bombshell involving liverpool and bradley barc",
     "liverpool reach \u2018agreement in principle\u2019 for bradley barcola transfer as ornstei",
     "liverpool's new investors 'involved' in securing blockbuster bradley barcola tra",
     "deal agreed: liverpool finally get \u00a3120m bradley barcola transfer breakthrough",
@@ -2337,7 +2336,8 @@
     "arsenal beat liverpool to signing as fabrizio romano declares \u2018here we go\u2019",
     "done deal: balerdi set to join roma from marseille, paid loan with mandatory buy",
     "arsenal beat liverpool to signing as fabrizio romano declares \u2018here we go\u2019 teamt",
-    "julain alvarez gives mikel arteta his answer amid arsenal transfer interest"
+    "julain alvarez gives mikel arteta his answer amid arsenal transfer interest",
+    "one step closer: psg\u2019s bradley barcola to undergo medical at liverpool"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2638,11 +2638,11 @@
     "pape matar sarr": "https://r2.thesportsdb.com/images/media/player/cutout/ll7kkd1757016806.png/small",
     "julian alvarez": "https://r2.thesportsdb.com/images/media/player/cutout/91pla41762288186.png/small",
     "andria bartishvili": "",
-    "vuk pavicevic": "",
     "leonardo balerdi": "https://r2.thesportsdb.com/images/media/player/cutout/qmafbd1766151863.png/small",
-    "tommy marques": ""
+    "tommy marques": "",
+    "vuk pavicevic": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

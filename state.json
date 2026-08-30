@@ -1,7 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/64850",
-    "9c0b2bc1b12efea8262b7d1f2b0277f2",
     "tg:FabrizioRomanoTG/64852",
     "tg:FabrizioRomanoTG/64855",
     "tg:FabrizioRomanoTG/64860",
@@ -1499,7 +1497,9 @@
     "783eb87a34b29548e85a0b0568b506e1",
     "tg:FabrizioRomanoTG/65619",
     "tg:FabrizioRomanoTG/65620",
-    "tg:FabrizioRomanoTG/65621"
+    "tg:FabrizioRomanoTG/65621",
+    "tg:FabrizioRomanoTG/65622",
+    "tg:FabrizioRomanoTG/65623"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1792,7 +1792,8 @@
     "hutchinson -> milan": 1,
     "balerdi -> roma": 2,
     "scanlon -> arsenal": 2,
-    "ndiaye -> tottenham": 1
+    "ndiaye -> tottenham": 1,
+    "gimenez -> fc porto": 1
   },
   "interest": [
     "interest: alvarez -> arsenal",
@@ -2041,8 +2042,6 @@
     "interest: maatsen -> manchester united"
   ],
   "titles": [
-    "italian giants \u2018in advanced talks\u2019 to sign man utd striker joshua zirkzee on loa",
-    "fabrizio romano says manchester city have \u201ccompleted deal\u201d to sign arsenal midfi",
     "transfer news: jack grealish latest as talks held amid sunderland and everton in",
     "\ud83d\udcfa new youtube video uploaded! \ud83c\udfac \ud83d\udea8 \ud83d\udca3 julian: deal on! united: two signings, one f",
     "done deal: kean to join como for \u20ac35m plus \u20ac5m bonus from fiorentina",
@@ -2340,11 +2339,12 @@
     "sarr pushing hard for juventus, but tottenham want obligation to buy",
     "nottingham forest in transfer rampage as romano gives double \u2018here we go\u2019",
     "\ud83d\udea8 \ud83d\udd04 tottenham and everton have reached an agreement on double deal with iliman n",
-    "\ud83d\udea8 \ud83d\udd35 everton are in advanced talks to bring jack grealish back to the club, negot"
+    "\ud83d\udea8 \ud83d\udd35 everton are in advanced talks to bring jack grealish back to the club, negot",
+    "\ud83d\udd35 \u26aa\ufe0f \ud83d\udc09 santi gimenez has authorization to travel and join fc porto after deal ag",
+    "\ud83d\udea8 \u26aa\ufe0f iliman ndiaye has given green light to tottenham contract proposal, ready t"
   ],
   "tg_update_offset": 263617426,
   "photos": {
-    "mateus fernandes": "https://r2.thesportsdb.com/images/media/player/cutout/gd8frh1772133322.png/small",
     "marcos senesi": "https://r2.thesportsdb.com/images/media/player/cutout/ve65ug1757018745.png/small",
     "martin dubravka": "https://r2.thesportsdb.com/images/media/player/cutout/frmd101757174406.png/small",
     "alejo veliz": "https://r2.thesportsdb.com/images/media/player/cutout/h56c361765276200.png/small",
@@ -2642,10 +2642,11 @@
     "leonardo balerdi": "https://r2.thesportsdb.com/images/media/player/cutout/qmafbd1766151863.png/small",
     "james scanlon": "https://r2.thesportsdb.com/images/media/player/thumb/zlab2y1774453056.jpg/small",
     "ian maatsen": "https://r2.thesportsdb.com/images/media/player/cutout/9cu0ow1725359392.png/small",
-    "vuk pavicevic": "",
-    "tommy marques": ""
+    "tommy marques": "",
+    "santi gimenez": "https://r2.thesportsdb.com/images/media/player/cutout/j63fz01758892529.png/small",
+    "vuk pavicevic": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

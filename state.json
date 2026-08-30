@@ -1,7 +1,5 @@
 {
   "sent": [
-    "17d40ee5634bd852fd4169932f0e34ce",
-    "eb9ffa4255b926cf2530d486bf4ceaa2",
     "2bed67eec0a1faf302dacdaf3333cefc",
     "15cd7001f4a5a6af7b7fe8f466116d34",
     "b22a546b2c820a7e4663085d3f11f56f",
@@ -1499,7 +1497,9 @@
     "29426101073f6be60abd68a0c7e04be7",
     "20e1e2b89bac3977734a2fd0e3d09687",
     "tg:FabrizioRomanoTG/65666",
-    "0cdcddaa9e969503d2283f437deec86b"
+    "0cdcddaa9e969503d2283f437deec86b",
+    "35a00f9ec55cae841092782029935304",
+    "6305d4958570cd09bf0a224175e77120"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2047,8 +2047,6 @@
     "interest: brughmans -> liverpool"
   ],
   "titles": [
-    "chelsea agree emiliano martinez transfer and \u00a340m signing in double coup",
-    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f understand gabriel martinelli has given green light to al hilal move as c",
     "man city to drop \u00a3200m on double signing with enzo fernandez agreement struck",
     "arsenal make unexpected reiss nelson decision as his future takes a new turn",
     "\ud83d\udea8 \ud83c\udde8\ud83c\udded servette fc have completed deal to sign david datro fofana from chelsea on ",
@@ -2346,7 +2344,9 @@
     "\ud83d\udd35 \u26aa\ufe0f \ud83c\uddf8\ud83c\udde6 gabriel martinelli\u2019s contract at al hilal will be valid until june 2030 ",
     "romano explains liverpool stance on gakpo exit as man city talks advance",
     "bundesliga giants call off pursuit of barcelona midfielder \u2013 romano",
-    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f excl: atletico madrid submit official bid to juventus for jonathan david "
+    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f excl: atletico madrid submit official bid to juventus for jonathan david ",
+    "man united transfer news live: marcus rashford latest, arsenal agreement, amad b",
+    "chelsea continue to demand permanent deal for gittens"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2648,10 +2648,10 @@
     "lucca brughmans": "https://images.fotmob.com/image_resources/playerimages/1679949.png",
     "neil el aynaoui": "https://r2.thesportsdb.com/images/media/player/cutout/wbm4lk1758815430.png/small",
     "marten de roon": "https://r2.thesportsdb.com/images/media/player/cutout/vd6v6q1695157451.png/small",
-    "tommy marques": "",
-    "vuk pavicevic": ""
+    "vuk pavicevic": "",
+    "tommy marques": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

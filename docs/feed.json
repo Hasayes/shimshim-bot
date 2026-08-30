@@ -1,5 +1,29 @@
 [
  {
+  "id": "2fad884944992a7718ffa96f4f220793",
+  "ts": "2026-08-30T02:45:37+00:00",
+  "kind": "deal",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/zlab2y1774453056.jpg/small",
+  "stage": "Completed",
+  "player": "James Scanlon",
+  "position": "attacking midfielder",
+  "age": "19",
+  "from_club": "Manchester United",
+  "to_club": "Arsenal",
+  "fee": "\u2014",
+  "style": "Energetic attacking midfielder with quick feet and creative passing ability in the final third.",
+  "fit": "Can provide depth and development opportunities in Arsenal's attacking midfield rotation and squad depth.",
+  "source": "CaughtOffside",
+  "sources": [
+   "CaughtOffside"
+  ],
+  "srcTier": "standard",
+  "summary": "Manchester United have officially confirmed James Scanlon's transfer to Arsenal. The 19-year-old attacking midfielder leaves the Man Utd academy to join the Premier League rivals.",
+  "outlet": "caughtoffside",
+  "url": "https://www.caughtoffside.com/2026/08/29/man-united-confirm-james-scanlon-transfer-to-arsenal/",
+  "title": "Official: Manchester United announce youngster\u2019s transfer to Arsenal"
+ },
+ {
   "id": "54ccae45a1c0c7e18ecf373b9d188a51",
   "ts": "2026-08-30T00:45:37+00:00",
   "kind": "deal",

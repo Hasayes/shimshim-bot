@@ -1,8 +1,5 @@
 {
   "sent": [
-    "81d8af673636f25da42115d60ffe0b65",
-    "76c98194fb3c1875e8af9f5ac5fb1223",
-    "f1ebf706548e693ebeeb4efa6a1821cb",
     "tg:FabrizioRomanoTG/64816",
     "46ac9b33293b02bd65555064dc701d1a",
     "2f7ab31d4ea029d38958206549dc90fa",
@@ -1499,7 +1496,10 @@
     "36bf040a850cee166ccd2558af68a6e9",
     "5bb3ebb8e487584c196aafa596e74722",
     "95450f30e609f4fb1a0dd0a62d741b3c",
-    "a764ffa1c66a1555352672830e6fbffa"
+    "a764ffa1c66a1555352672830e6fbffa",
+    "95fe93ed4ea162c0cc5d2a2f36312f5a",
+    "3fe892783c39cbf9f3d0abf24f1a792d",
+    "2fad884944992a7718ffa96f4f220793"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1790,7 +1790,8 @@
     "kessie -> atalanta": 2,
     "camara -> chelsea": 1,
     "hutchinson -> milan": 1,
-    "balerdi -> roma": 2
+    "balerdi -> roma": 2,
+    "scanlon -> arsenal": 2
   },
   "interest": [
     "interest: alvarez -> arsenal",
@@ -2038,9 +2039,6 @@
     "interest: ndiaye -> tottenham"
   ],
   "titles": [
-    "\"done deal\": atubolu set to complete eintracht frankfurt move",
-    "liverpool make major breakthrough in bid to sign psg winger bradley barcola",
-    "official: lazio sign pinamonti in permanent transfer from sassuolo",
     "liverpool\u2019s next mega money transfer teased after fabrizio romano drops \u201chere we",
     "chelsea advance in ahanor talks with atalanta as sarr loan to real sociedad near",
     "potential shirt numbers for bradley barcola at liverpool as \u00a3120m transfer on ve",
@@ -2337,11 +2335,13 @@
     "record breaking liverpool \u2018proposal\u2019 for winger imminent \u2013 \u2018confidence is high t",
     "romano: chelsea in club to club talks for 'truly fantastic' fernandez replacemen",
     "julian alvarez transfer update issued as arsenal chances measured talksport",
-    "chelsea target set to fly to london for medical this weekend after move consider"
+    "chelsea target set to fly to london for medical this weekend after move consider",
+    "arsenal announce signing of man utd winger who\u2019s \u2018buzzing\u2019 to join",
+    "liverpool make decision on selling cody gakpo immediately after nottingham fores",
+    "official: manchester united announce youngster\u2019s transfer to arsenal"
   ],
   "tg_update_offset": 263617426,
   "photos": {
-    "jahmai simpson-pusey": "https://r2.thesportsdb.com/images/media/player/cutout/jc77kv1773672990.png/small",
     "andre onana": "https://r2.thesportsdb.com/images/media/player/cutout/ha3jbx1766826944.png/small",
     "mateus fernandes": "https://r2.thesportsdb.com/images/media/player/cutout/gd8frh1772133322.png/small",
     "marcos senesi": "https://r2.thesportsdb.com/images/media/player/cutout/ve65ug1757018745.png/small",
@@ -2639,10 +2639,11 @@
     "julian alvarez": "https://r2.thesportsdb.com/images/media/player/cutout/91pla41762288186.png/small",
     "andria bartishvili": "",
     "leonardo balerdi": "https://r2.thesportsdb.com/images/media/player/cutout/qmafbd1766151863.png/small",
-    "vuk pavicevic": "",
-    "tommy marques": ""
+    "tommy marques": "",
+    "james scanlon": "https://r2.thesportsdb.com/images/media/player/thumb/zlab2y1774453056.jpg/small",
+    "vuk pavicevic": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

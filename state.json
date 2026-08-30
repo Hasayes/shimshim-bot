@@ -1,7 +1,5 @@
 {
   "sent": [
-    "2a371ed8be27f37991a6f40b9b39e02a",
-    "dcfb0f36b49d9a8e4d7748986b39edf8",
     "tg:FabrizioRomanoTG/64883",
     "a85cbc3dea27a7c87e1491550126b3d3",
     "db2424c0ad8e03f4ddf339d370447bd9",
@@ -1499,7 +1497,9 @@
     "b3aecff1ca0b946ceb0d36a1a401c713",
     "d0a726d71ce4d2f90e2d7447c93625a9",
     "c2567a992f431397bc1f1cb0d1336c1e",
-    "2ead14b8c6596dae00b464d6b776ad96"
+    "2ead14b8c6596dae00b464d6b776ad96",
+    "2497be8ce73dcc1a46a90e0d95d833e9",
+    "ddcd20238edde602c5136bd7a22e0453"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2047,8 +2047,6 @@
     "interest: brughmans -> liverpool"
   ],
   "titles": [
-    "nottingham forest make offer for 30 year old tottenham target from crystal palac",
-    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f cd leganes reach verbal agreement to sign alvaro morata, here we go! span",
     "lionel messi to be without inter miami coach guillermo hoyos vs montreal followi",
     "dibu martinez is one step away from chelsea",
     "xabi alonso explains decision to leave enzo fernandez out of chelsea\u2019s squad for",
@@ -2346,7 +2344,9 @@
     "romano reveals how much man city are \u2018set to bid\u2019 for cody gakpo after \u2018agreemen",
     "tottenham exit looms as euro giants reach advanced stages of talks to land 23 ye",
     "aston villa reach decision on selling ian maatsen to man utd",
-    "liverpool contact agents of premier league star as cody gakpo exit looms"
+    "liverpool contact agents of premier league star as cody gakpo exit looms",
+    "romano: newcastle chiefs doing everything to sign explosive star before deadline",
+    "ian maatsen to manchester united is about to end before it even began"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2648,10 +2648,10 @@
     "lucca brughmans": "https://images.fotmob.com/image_resources/playerimages/1679949.png",
     "neil el aynaoui": "https://r2.thesportsdb.com/images/media/player/cutout/wbm4lk1758815430.png/small",
     "marten de roon": "https://r2.thesportsdb.com/images/media/player/cutout/vd6v6q1695157451.png/small",
-    "vuk pavicevic": "",
-    "tommy marques": ""
+    "tommy marques": "",
+    "vuk pavicevic": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

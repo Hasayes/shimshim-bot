@@ -1,7 +1,5 @@
 {
   "sent": [
-    "46ac9b33293b02bd65555064dc701d1a",
-    "2f7ab31d4ea029d38958206549dc90fa",
     "24936c197ef2777e55d25f25672fde6c",
     "d1cc08490bfe4cd980c8ec0cb38a6399",
     "tg:FabrizioRomanoTG/64817",
@@ -1499,7 +1497,9 @@
     "95fe93ed4ea162c0cc5d2a2f36312f5a",
     "3fe892783c39cbf9f3d0abf24f1a792d",
     "2fad884944992a7718ffa96f4f220793",
-    "6cf7756353c98f86b3889a7dd4e8042a"
+    "6cf7756353c98f86b3889a7dd4e8042a",
+    "642b4dd9e7f5a195cc48caec69fa0fa9",
+    "c0570740d4ffaefa8ac4c954d06a83d5"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2040,8 +2040,6 @@
     "interest: maatsen -> manchester united"
   ],
   "titles": [
-    "chelsea advance in ahanor talks with atalanta as sarr loan to real sociedad near",
-    "potential shirt numbers for bradley barcola at liverpool as \u00a3120m transfer on ve",
     "liverpool get their man: reds seal blockbuster \u00a3120m bradley barcola deal",
     "report: chelsea consider rivalling arsenal for \u201ctechnically brilliant\u201d attacker",
     "jack grealish reaches decision on re joining everton or aston villa as man city ",
@@ -2339,7 +2337,9 @@
     "arsenal announce signing of man utd winger who\u2019s \u2018buzzing\u2019 to join",
     "liverpool make decision on selling cody gakpo immediately after nottingham fores",
     "official: manchester united announce youngster\u2019s transfer to arsenal",
-    "how ian maatsen compares with lewis hall as man utd make transfer enquiry"
+    "how ian maatsen compares with lewis hall as man utd make transfer enquiry",
+    "winger desperate to join liverpool as fsg continue talks over transfer",
+    "rb leipzig set to pounce on chelsea target who they think is a bargain at \u20ac20m"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2640,11 +2640,11 @@
     "andria bartishvili": "",
     "leonardo balerdi": "https://r2.thesportsdb.com/images/media/player/cutout/qmafbd1766151863.png/small",
     "james scanlon": "https://r2.thesportsdb.com/images/media/player/thumb/zlab2y1774453056.jpg/small",
-    "vuk pavicevic": "",
     "ian maatsen": "https://r2.thesportsdb.com/images/media/player/cutout/9cu0ow1725359392.png/small",
-    "tommy marques": ""
+    "tommy marques": "",
+    "vuk pavicevic": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

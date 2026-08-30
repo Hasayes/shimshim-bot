@@ -1,5 +1,29 @@
 [
  {
+  "id": "b8704a8b551990e2ad34d6eed79cfff3",
+  "ts": "2026-08-30T11:00:40+00:00",
+  "kind": "deal",
+  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/j63fz01758892529.png/small",
+  "stage": "Completed",
+  "player": "Santiago Gimenez",
+  "position": "\u2014",
+  "age": "\u2014",
+  "from_club": "AC Milan",
+  "to_club": "FC Porto",
+  "fee": "\u20ac20m",
+  "style": "Clinical finisher with good movement in the box and ability to hold up play.",
+  "fit": "Should lead Porto's attack as their primary striker in a high-pressing Portuguese system.",
+  "source": "football-italia",
+  "sources": [
+   "football-italia"
+  ],
+  "srcTier": "standard",
+  "summary": "AC Milan have agreed the transfer of Santiago Gimenez to FC Porto for \u20ac20m.",
+  "outlet": "football-italia",
+  "url": "https://football-italia.net/done-deal-gimenez-ready-for-fc-porto-milan/",
+  "title": "Done Deal: Gimenez ready for FC Porto in \u20ac20m Milan agreement"
+ },
+ {
   "id": "tg:FabrizioRomanoTG/65622",
   "ts": "2026-08-30T10:15:38+00:00",
   "kind": "deal",

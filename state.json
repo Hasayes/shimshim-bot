@@ -1,6 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/64855",
     "tg:FabrizioRomanoTG/64860",
     "tg:FabrizioRomanoTG/64861",
     "tg:FabrizioRomanoTG/64862",
@@ -1499,7 +1498,8 @@
     "tg:FabrizioRomanoTG/65621",
     "tg:FabrizioRomanoTG/65622",
     "tg:FabrizioRomanoTG/65623",
-    "tg:FabrizioRomanoTG/65624"
+    "tg:FabrizioRomanoTG/65624",
+    "b8704a8b551990e2ad34d6eed79cfff3"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1793,7 +1793,7 @@
     "balerdi -> roma": 2,
     "scanlon -> arsenal": 2,
     "ndiaye -> tottenham": 1,
-    "gimenez -> fc porto": 1
+    "gimenez -> fc porto": 2
   },
   "interest": [
     "interest: alvarez -> arsenal",
@@ -2042,7 +2042,6 @@
     "interest: maatsen -> manchester united"
   ],
   "titles": [
-    "\ud83d\udcfa new youtube video uploaded! \ud83c\udfac \ud83d\udea8 \ud83d\udca3 julian: deal on! united: two signings, one f",
     "done deal: kean to join como for \u20ac35m plus \u20ac5m bonus from fiorentina",
     "luis enrique defends decision to leave star man out for lille clash",
     "fiorentina in talks with man united over zirkzee sources espn",
@@ -2341,11 +2340,11 @@
     "\ud83d\udea8 \ud83d\udd35 everton are in advanced talks to bring jack grealish back to the club, negot",
     "\ud83d\udd35 \u26aa\ufe0f \ud83d\udc09 santi gimenez has authorization to travel and join fc porto after deal ag",
     "\ud83d\udea8 \u26aa\ufe0f iliman ndiaye has given green light to tottenham contract proposal, ready t",
-    "\ud83d\udea8 \ud83d\udd34 \u26ab\ufe0f omari hutchinson, arriving tonight in milano after deal done with forest "
+    "\ud83d\udea8 \ud83d\udd34 \u26ab\ufe0f omari hutchinson, arriving tonight in milano after deal done with forest ",
+    "done deal: gimenez ready for fc porto in \u20ac20m milan agreement"
   ],
   "tg_update_offset": 263617426,
   "photos": {
-    "marcos senesi": "https://r2.thesportsdb.com/images/media/player/cutout/ve65ug1757018745.png/small",
     "martin dubravka": "https://r2.thesportsdb.com/images/media/player/cutout/frmd101757174406.png/small",
     "alejo veliz": "https://r2.thesportsdb.com/images/media/player/cutout/h56c361765276200.png/small",
     "sean steur": "https://www.thesportsdb.com/images/media/player/thumb/vhdhz21783707932.jpg/small",
@@ -2643,10 +2642,11 @@
     "james scanlon": "https://r2.thesportsdb.com/images/media/player/thumb/zlab2y1774453056.jpg/small",
     "ian maatsen": "https://r2.thesportsdb.com/images/media/player/cutout/9cu0ow1725359392.png/small",
     "santi gimenez": "https://r2.thesportsdb.com/images/media/player/cutout/j63fz01758892529.png/small",
-    "vuk pavicevic": "",
-    "tommy marques": ""
+    "tommy marques": "",
+    "santiago gimenez": "https://r2.thesportsdb.com/images/media/player/cutout/j63fz01758892529.png/small",
+    "vuk pavicevic": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

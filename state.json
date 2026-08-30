@@ -1,9 +1,5 @@
 {
   "sent": [
-    "dc7ac054e8d4efd43187f3d910433f9e",
-    "6f2238009a868e12d4dc7711ee94c1a2",
-    "9fae2bf3efe35a55afb76d0b5e6c7c1d",
-    "29a06d212fa0518e3b40324997b0d4b7",
     "17d71e4e28db012ad275d8b37b66808d",
     "ba72e5dbc93360e3e689ca9f6a37f582",
     "tg:FabrizioRomanoTG/64827",
@@ -1499,7 +1495,11 @@
     "2f2076235e5970b754f5e5709383c0cf",
     "c2aa501a0804831bdcb238d84c671fbd",
     "47579f4a8a7ae6943b3d27c7f1b860be",
-    "e063cfb08d57026fe3673c3b12f93cf0"
+    "e063cfb08d57026fe3673c3b12f93cf0",
+    "7af13eda12fb453a703792a393bbd2cf",
+    "daee64b8de8952829dc672414b48ade8",
+    "1311f26cda1280cb408ccf05f6e9911f",
+    "tg:FabrizioRomanoTG/65611"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2040,9 +2040,6 @@
     "interest: maatsen -> manchester united"
   ],
   "titles": [
-    "fabrizio romano exclusive update on manchester united\u2019s potential left back sign",
-    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f ipswich town are waiting for tammy abraham to decide on the move as strai",
-    "exclusive: fabrizio romano delivers new arsenal and julian alvarez transfer upda",
     "romano: man utd in advanced talks with fiorentina after official joshua zirkzee ",
     "fiorentina submit bid for joshua zirkzee",
     "has liverpool just pulled off the biggest transfer of the summer?",
@@ -2339,7 +2336,10 @@
     "morocco star terminates his contract: swift agreement reached with european gian",
     "alvarez finally snubs arsenal, prefers barcelona move",
     "everything we know as everton agreement reached with right back kenny tete",
-    "enzo fernandez has long been linked with a chelsea exit"
+    "enzo fernandez has long been linked with a chelsea exit",
+    "\u00a34 3m shot stopper flies to england for medical with leeds united: good signing ",
+    "why julian alvarez won\u2019t sign for arsenal",
+    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f manchester city confident to close all details of cody gakpo deal as soon"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2641,10 +2641,10 @@
     "leonardo balerdi": "https://r2.thesportsdb.com/images/media/player/cutout/qmafbd1766151863.png/small",
     "james scanlon": "https://r2.thesportsdb.com/images/media/player/thumb/zlab2y1774453056.jpg/small",
     "ian maatsen": "https://r2.thesportsdb.com/images/media/player/cutout/9cu0ow1725359392.png/small",
-    "vuk pavicevic": "",
-    "tommy marques": ""
+    "tommy marques": "",
+    "vuk pavicevic": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

@@ -1,6 +1,5 @@
 {
   "sent": [
-    "b3594c7a9fc527141803f5e497ca9a02",
     "tg:FabrizioRomanoTG/64822",
     "dc7ac054e8d4efd43187f3d910433f9e",
     "6f2238009a868e12d4dc7711ee94c1a2",
@@ -1499,7 +1498,8 @@
     "d71ba4f9d29fc75fecc14fb8d5e3a64b",
     "8c5f8ce8a65a483e6c78930b02d40d68",
     "2f2076235e5970b754f5e5709383c0cf",
-    "c2aa501a0804831bdcb238d84c671fbd"
+    "c2aa501a0804831bdcb238d84c671fbd",
+    "47579f4a8a7ae6943b3d27c7f1b860be"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2040,7 +2040,6 @@
     "interest: maatsen -> manchester united"
   ],
   "titles": [
-    "\ud83d\udd35 \u2708\ufe0f honest ahanor has authorization to travel from atalanta as he will be in lo",
     "deal agreed: real madrid on the verge of announcing a new signing",
     "fabrizio romano exclusive update on manchester united\u2019s potential left back sign",
     "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f ipswich town are waiting for tammy abraham to decide on the move as strai",
@@ -2339,7 +2338,8 @@
     "man utd striker wanted by atletico madrid as julian alvarez replacement",
     "augsburg set to take manchester city defender on loan",
     "morocco star terminates his contract: swift agreement reached with european gian",
-    "alvarez finally snubs arsenal, prefers barcelona move"
+    "alvarez finally snubs arsenal, prefers barcelona move",
+    "everything we know as everton agreement reached with right back kenny tete"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2641,10 +2641,10 @@
     "leonardo balerdi": "https://r2.thesportsdb.com/images/media/player/cutout/qmafbd1766151863.png/small",
     "james scanlon": "https://r2.thesportsdb.com/images/media/player/thumb/zlab2y1774453056.jpg/small",
     "ian maatsen": "https://r2.thesportsdb.com/images/media/player/cutout/9cu0ow1725359392.png/small",
-    "vuk pavicevic": "",
-    "tommy marques": ""
+    "tommy marques": "",
+    "vuk pavicevic": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

@@ -1,5 +1,29 @@
 [
  {
+  "id": "54ccae45a1c0c7e18ecf373b9d188a51",
+  "ts": "2026-08-30T00:45:37+00:00",
+  "kind": "deal",
+  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/qmafbd1766151863.png/small",
+  "stage": "Completed",
+  "player": "Leonardo Balerdi",
+  "position": "Defender",
+  "age": "\u2014",
+  "from_club": "Marseille",
+  "to_club": "Roma",
+  "fee": "Paid loan with mandatory buy clause",
+  "style": "Aggressive left-sided defender with strong physicality and leadership qualities, commanding presence in Roma's backline.",
+  "fit": "Can serve as Roma's primary left-center back option, providing defensive solidity and aerial dominance in their three-defender system.",
+  "source": "Filippo Biafora",
+  "sources": [
+   "Filippo Biafora"
+  ],
+  "srcTier": "standard",
+  "summary": "Leonardo Balerdi has completed a move from Marseille to Roma on a paid loan with a mandatory buy clause, becoming Roma's fifth signing of the summer.",
+  "outlet": "yahoo",
+  "url": "https://sports.yahoo.com/articles/done-deal-balerdi-set-join-124000777.html",
+  "title": "Done deal: Balerdi set to join Roma from Marseille, paid loan with mandatory buy clause"
+ },
+ {
   "id": "4d3a4d0b43b850c00566c7d849cc14f5",
   "ts": "2026-08-29T23:45:37+00:00",
   "kind": "interest",

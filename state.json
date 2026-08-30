@@ -1,9 +1,5 @@
 {
   "sent": [
-    "8b66e2e94a4e9c51b2b1fa2d7197c720",
-    "14373c44f6079a9d5499b4d8927fb164",
-    "938f23b7896ee9c0c0fb99576b8e09a7",
-    "30e3a2b188ec4e1056ca625d5c3f0cbe",
     "8b2024b17fe7b256a4a2bcb55ca5d76b",
     "d0783c32ae372263fa9c7a1dcc86a105",
     "8d9bb32af06a08b299119bb9f3bf8d83",
@@ -1499,7 +1495,11 @@
     "0229bdc228bc7ed4a14ad9416b1050db",
     "f21e533333ff49883bf993658e811e1b",
     "e0c6f854955e0769f38ed0ff5ecc856f",
-    "b5409d3fbe7287544363447b408c6951"
+    "b5409d3fbe7287544363447b408c6951",
+    "7e570a7caa3546c29f7165f39c31af8f",
+    "54ccae45a1c0c7e18ecf373b9d188a51",
+    "02460f87561170837ca718d72635f7e1",
+    "1bf9eed8420dbda014ad788e5bdb6f29"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1789,7 +1789,8 @@
     "martinez -> real madrid": 1,
     "kessie -> atalanta": 2,
     "camara -> chelsea": 1,
-    "hutchinson -> milan": 1
+    "hutchinson -> milan": 1,
+    "balerdi -> roma": 2
   },
   "interest": [
     "interest: alvarez -> arsenal",
@@ -2037,10 +2038,6 @@
     "interest: ndiaye -> tottenham"
   ],
   "titles": [
-    "transfer rumors, news: arsenal, man city to fight for everton winger",
-    "sources: mikel arteta likely to block arsenal star\u2019s exit as three transfer suit",
-    "baleba debut delayed: when man united midfielder is expected to make his debut",
-    "real madrid midfielder wants to stay despite transfer speculation; no negotiatio",
     "just in: ornstein delivers latest bombshell involving liverpool and bradley barc",
     "liverpool reach \u2018agreement in principle\u2019 for bradley barcola transfer as ornstei",
     "liverpool's new investors 'involved' in securing blockbuster bradley barcola tra",
@@ -2336,11 +2333,14 @@
     "chelsea midfield signing set for medical in next 48 hours after blues agree fee ",
     "arsenal fans all say the same thing as julian alvarez brutally snubs mikel artet",
     "tfg take official social media action over harrison armstong exit talk at everto",
-    "\u201chere we go\u201d for new arsenal signing, medical scheduled for september 1st"
+    "\u201chere we go\u201d for new arsenal signing, medical scheduled for september 1st",
+    "arsenal beat liverpool to signing as fabrizio romano declares \u2018here we go\u2019",
+    "done deal: balerdi set to join roma from marseille, paid loan with mandatory buy",
+    "arsenal beat liverpool to signing as fabrizio romano declares \u2018here we go\u2019 teamt",
+    "julain alvarez gives mikel arteta his answer amid arsenal transfer interest"
   ],
   "tg_update_offset": 263617426,
   "photos": {
-    "bernardo silva": "https://r2.thesportsdb.com/images/media/player/cutout/13ajsp1769182879.png/small",
     "jahmai simpson-pusey": "https://r2.thesportsdb.com/images/media/player/cutout/jc77kv1773672990.png/small",
     "andre onana": "https://r2.thesportsdb.com/images/media/player/cutout/ha3jbx1766826944.png/small",
     "mateus fernandes": "https://r2.thesportsdb.com/images/media/player/cutout/gd8frh1772133322.png/small",
@@ -2638,10 +2638,11 @@
     "pape matar sarr": "https://r2.thesportsdb.com/images/media/player/cutout/ll7kkd1757016806.png/small",
     "julian alvarez": "https://r2.thesportsdb.com/images/media/player/cutout/91pla41762288186.png/small",
     "andria bartishvili": "",
-    "tommy marques": "",
-    "vuk pavicevic": ""
+    "vuk pavicevic": "",
+    "leonardo balerdi": "https://r2.thesportsdb.com/images/media/player/cutout/qmafbd1766151863.png/small",
+    "tommy marques": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

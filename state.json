@@ -1,9 +1,5 @@
 {
   "sent": [
-    "c120e1414c942f35552cadf3ef0ece0b",
-    "576fa6cd9095c53f96c3087aab47b5df",
-    "d9a72c13c46ba62f1da4e1576c0bc4b1",
-    "adfb73163aca892df64558014439dfd3",
     "c8257942e29b8957096f4fd734497c69",
     "f217c23f7effb9d91094bedcaf8efc79",
     "22007548faa9af75e3eb5a05fc28a7c7",
@@ -1499,7 +1495,11 @@
     "1327520331a273d7bb37d8f2f9f7b3af",
     "tg:FabrizioRomanoTG/65668",
     "tg:FabrizioRomanoTG/65670",
-    "tg:FabrizioRomanoTG/65671"
+    "tg:FabrizioRomanoTG/65671",
+    "d0de8d061d8b1f227d3b6a9ac641bfdf",
+    "fe0fc7100eed887d2d4fbd0dda9f7cc1",
+    "6f83f60607b63dc8af971a0effc33547",
+    "tg:FabrizioRomanoTG/65673"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2047,8 +2047,6 @@
     "interest: brughmans -> liverpool"
   ],
   "titles": [
-    "transfer rumors, news: arsenal eyeing wolves' matheus cunha",
-    "transfer rumors, news: psg's vitinha linked to real madrid espn",
     "transfer rumors, news: villa's duran close to al nassr move espn",
     "\ud83d\udd34 \u26aa\ufe0f ac monza have agreed deal to sign jan ziolkowski from as roma, here we go! ",
     "\ud83d\udea8 \u26aa\ufe0f despite new reports and stories in the last 24h, real madrid and endrick\u2019s ",
@@ -2346,7 +2344,9 @@
     "transfer news live everton veto harrison armstrong sale, chelsea confirm signing",
     "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 barcelona and arsenal have now exchanged documents for gabriel jesus deal ",
     "\ud83d\udd34 \u26aa\ufe0f \ud83c\udf33 nottingham forest and crystal palace completed daniel munoz deal document",
-    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f lille have exchanged documents and completed deal to sign ayase ueda from"
+    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f lille have exchanged documents and completed deal to sign ayase ueda from",
+    "tottenham and everton reach agreement for ndiaye and richarlison deals",
+    "\ud83d\udea8 \ud83d\udd34 ismaila sarr remains a target for liverpool as new winger to proceed with ga"
   ],
   "tg_update_offset": 263617426,
   "photos": {

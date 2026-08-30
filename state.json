@@ -1,6 +1,5 @@
 {
   "sent": [
-    "c73c50157b05b73427a76d01b63be249",
     "9177b711fc913e997956ff43cbb2d3c2",
     "84adeb003e4a82c28b0266ffc58e874d",
     "c16372b450f9bedf8d58135d743b94c7",
@@ -1499,7 +1498,8 @@
     "1bf9eed8420dbda014ad788e5bdb6f29",
     "65650f4491cacc6f10cb8fd5a6baca21",
     "4934b4866724f8704374bea405f5a80f",
-    "5c27aa75f1a68ee2e5faf01cd115e4f3"
+    "5c27aa75f1a68ee2e5faf01cd115e4f3",
+    "85b450a5f6d17159b6f2e15ef4422a6d"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2038,7 +2038,6 @@
     "interest: ndiaye -> tottenham"
   ],
   "titles": [
-    "deal agreed: liverpool finally get \u00a3120m bradley barcola transfer breakthrough",
     "\ud83d\udea8 \u274c jayden oosterwolde to as roma deal has now collapsed after extra medical tes",
     "internal talks ongoing as romano confirms rival player says \u2018yes\u2019 to chelsea mov",
     "julian alvarez misses atletico madrid training again in transfer boost for arsen",
@@ -2337,7 +2336,8 @@
     "julain alvarez gives mikel arteta his answer amid arsenal transfer interest",
     "one step closer: psg\u2019s bradley barcola to undergo medical at liverpool",
     "julian alvarez transfer to arsenal off as star tells mikel arteta he has no inte",
-    "fabrizio romano confirms arsenal have vanquished liverpool with signing \u2018here we"
+    "fabrizio romano confirms arsenal have vanquished liverpool with signing \u2018here we",
+    "opportunistic arsenal take risk over major attacker deal as top insider updates"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2639,10 +2639,10 @@
     "julian alvarez": "https://r2.thesportsdb.com/images/media/player/cutout/91pla41762288186.png/small",
     "andria bartishvili": "",
     "leonardo balerdi": "https://r2.thesportsdb.com/images/media/player/cutout/qmafbd1766151863.png/small",
-    "vuk pavicevic": "",
-    "tommy marques": ""
+    "tommy marques": "",
+    "vuk pavicevic": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

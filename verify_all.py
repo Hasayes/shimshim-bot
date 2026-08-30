@@ -9,8 +9,16 @@ current club. Rules:
   - FLAG (never auto-downgrade): a Completed card older than 3 days whose
     player still shows at the origin on 2+ oracles — could be an
     over-staged card OR oracle lag; a human (or Claude session) decides.
-  - FLAG: oracles agree the player is at a club that appears nowhere on
-    the card (wrong destination / move went elsewhere).
+  - FLAG: oracles agree the player is at a club nowhere on the card AND the
+    card's own move is still unfinished (rumour / "here we go") — the move
+    likely collapsed or redirected (e.g. Suzuki's "Parma -> PSG here we go"
+    that fell through; he signed for Aston Villa).
+  - NOTE (not alerted): a *completed* deal whose player 2+ oracles place at a
+    third club is the "signed, then loaned out" chain (Detourbet -> Monaco,
+    P.Charles -> QPR, Openda -> Lyon, Cuenca -> Gijon). The card's destination
+    genuinely happened; the oracle just shows the onward loan. Only an onward
+    loan can follow a completed arrival, so these are downgraded from flags.
+    If the feed already records the onward move it is silent; otherwise printed.
 Flags are sent to Telegram in one summary message (only when any exist).
 """
 import json
@@ -26,11 +34,53 @@ from shimshim_bot import (FEED_FILE, STATE_FILE, STAGE_RANK, _norm, _norm_club,
 PACE = float(os.environ.get("VERIFY_PACE", "2.5"))
 
 
+def _same_player(a, b):
+    """Loose player-name match: surnames must agree (accent-folded); a first
+    name is compared only when both sides supply one ('Suzuki' vs 'Zion
+    Suzuki' still matches, 'Andrés Cuenca' vs 'David Cuenca' does not)."""
+    na, nb = _norm(a).split(), _norm(b).split()
+    if not na or not nb or na[-1] != nb[-1]:
+        return False
+    if len(na) > 1 and len(nb) > 1:
+        return na[0] == nb[0]
+    return True
+
+
+def has_onward_move(feed, player, dest, later_club):
+    """True when the feed already records `player` moving dest -> later_club.
+
+    That onward card is proof the oracle's 'current club' is just a later loan
+    from a genuine arrival at `dest`, not evidence the `dest` move was wrong.
+    """
+    for c in feed:
+        if not _same_player(c.get("player", ""), player):
+            continue
+        if same_club(c.get("from_club", ""), dest) and \
+           same_club(c.get("to_club", ""), later_club):
+            return True
+    return False
+
+
+def elsewhere_disposition(is_completed, onward_in_feed):
+    """Decide how to treat a card whose player 2+ oracles place at a third club.
+
+      - not a completed deal            -> 'flag' (move collapsed/redirected)
+      - completed + onward move in feed -> 'ok'   (documented chain, silent)
+      - completed, onward not recorded  -> 'note' (likely onward loan)
+
+    Only a completed permanent arrival can be followed by an onward loan, so a
+    still-unfinished move whose player is already elsewhere is a real problem.
+    """
+    if not is_completed:
+        return "flag"
+    return "ok" if onward_in_feed else "note"
+
+
 def main():
     feed = json.loads(FEED_FILE.read_text())
     state = json.loads(STATE_FILE.read_text())
     now = datetime.now(timezone.utc)
-    upgrades, flags = [], []
+    upgrades, flags, notes = [], [], []
 
     for c in feed:
         player = c.get("player", "")
@@ -72,14 +122,31 @@ def main():
             flags.append(f"• {player}: card says Completed -> {c['to_club']}, "
                          f"but oracles still show {teams[0]}")
             print(f"[FLAG] {player}: completed but oracles show {teams}")
-        elif len(elsewhere) >= 2 and same_club(elsewhere[0], elsewhere[1] if len(elsewhere) > 1 else elsewhere[0]):
-            flags.append(f"• {player}: oracles show {elsewhere[0]}, "
-                         f"not on the card ({origin} -> {c['to_club']})")
-            print(f"[FLAG] {player}: oracles at {elsewhere[0]}, card {origin}->{c['to_club']}")
+        elif len(elsewhere) >= 2 and same_club(elsewhere[0], elsewhere[1]):
+            moved_to = elsewhere[0]
+            onward = has_onward_move(feed, player, c["to_club"], moved_to)
+            disp = elsewhere_disposition(is_completed, onward)
+            if disp == "ok":
+                print(f"[OK] {player}: onward move {c['to_club']}->{moved_to} "
+                      f"already recorded in feed")
+            elif disp == "note":
+                notes.append(f"{player}: {c['to_club']} deal stands; now at "
+                             f"{moved_to} (likely onward loan)")
+                print(f"[NOTE] {player}: completed {c['to_club']} deal, oracle "
+                      f"shows {moved_to} — likely onward loan, not flagged")
+            else:  # flag: an unfinished move whose player is already elsewhere
+                flags.append(f"• {player}: shows at {moved_to}, but the "
+                             f"{origin} -> {c['to_club']} move is unfinished "
+                             f"— likely collapsed or redirected")
+                print(f"[FLAG] {player}: unfinished {origin}->{c['to_club']}, "
+                      f"now at {moved_to}")
 
     FEED_FILE.write_text(json.dumps(feed, indent=1))
     STATE_FILE.write_text(json.dumps(state, indent=2))
-    print(f"done: {len(upgrades)} upgraded, {len(flags)} flagged")
+    for n in notes:
+        print(f"[NOTE] {n}")
+    print(f"done: {len(upgrades)} upgraded, {len(flags)} flagged, "
+          f"{len(notes)} noted (onward loans, not alerted)")
     if flags and os.environ.get("TELEGRAM_BOT_TOKEN"):
         try:
             send_plain_telegram("🧾 ShimShim daily solidity check flagged:\n"

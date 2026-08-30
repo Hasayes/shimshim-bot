@@ -17,6 +17,29 @@ A genuine rumour always names the player's current club; a blank origin is
 the tell for the single-name / stale-link misparse class.
 Pinned by `test_rumour_gates.py`.
 
+### The solidity sweep must not cry wolf on onward loans
+`verify_all.py` flags a card when 2+ oracles place the player at a club that's
+neither the card's origin nor destination. That reading has two causes, and the
+sweep must tell them apart (`elsewhere_disposition`):
+
+- **Completed deal** + player now elsewhere = the "signed, then loaned out"
+  chain — the destination genuinely happened; the oracle just shows the onward
+  loan. **Downgraded to a note, not alerted.** Silent when the feed already
+  records the onward move (`has_onward_move`); printed otherwise. Only a
+  completed arrival *can* be followed by an onward loan — that's the tell.
+- **Unfinished move** (rumour / "here we go") + player elsewhere = the move
+  likely collapsed or redirected. **Still a real flag.**
+
+*Incident (2026-08-30):* the sweep flagged 6 deals; web-checking all six showed
+only one wrong (Suzuki's "Parma → PSG here we go", collapsed — he signed for
+Aston Villa). The other five were benign — four completed-deal onward loans
+(Detourbet→Monaco, P.Charles→QPR, Openda→Lyon, Cuenca→Gijón) and a João Mário
+name collision. Alerting on all six equally trained the eye to ignore the alert.
+*Accepted trade-off:* a genuinely-wrong **completed** deal now downgrades to a
+note too — irreducible without loan metadata the free oracles don't expose. The
+loud flag is reserved for the unfinished-move class, which is where the real
+error (Suzuki) actually lived. Pinned by `test_verify_sweep.py`.
+
 ## Lean mode's accepted gap — and its backstops
 
 `VERIFY_NEWS` / `VERIFY_INTEREST` are **off** by default (cost / "free of

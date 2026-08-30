@@ -1,6 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/64872",
     "cf0f072fc4acf09b6761e72dcb4ee1ff",
     "13dd504c06cb0d636ee5f4d9055719bf",
     "0be91f0a90768350a870a1bdf9d981c5",
@@ -1499,7 +1498,8 @@
     "tg:FabrizioRomanoTG/65650",
     "tg:FabrizioRomanoTG/65651",
     "tg:FabrizioRomanoTG/65652",
-    "79ed5eec9fb8ef75b3d1da9eff7913da"
+    "79ed5eec9fb8ef75b3d1da9eff7913da",
+    "1d442dbaaa189fec65e84875468ab2d9"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2646,10 +2646,10 @@
     "santi gimenez": "https://r2.thesportsdb.com/images/media/player/cutout/j63fz01758892529.png/small",
     "santiago gimenez": "https://r2.thesportsdb.com/images/media/player/cutout/j63fz01758892529.png/small",
     "lucca brughmans": "https://images.fotmob.com/image_resources/playerimages/1679949.png",
-    "vuk pavicevic": "",
-    "tommy marques": ""
+    "tommy marques": "",
+    "vuk pavicevic": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

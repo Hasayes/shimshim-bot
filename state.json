@@ -1,6 +1,5 @@
 {
   "sent": [
-    "a85cbc3dea27a7c87e1491550126b3d3",
     "db2424c0ad8e03f4ddf339d370447bd9",
     "4e821f9d6e0166fc946c67ee06d49785",
     "69e86f5345a6023d89a63610df34c791",
@@ -1499,7 +1498,8 @@
     "2ead14b8c6596dae00b464d6b776ad96",
     "2497be8ce73dcc1a46a90e0d95d833e9",
     "ddcd20238edde602c5136bd7a22e0453",
-    "b90e0e19a5a382847d2615e02ed9e26b"
+    "b90e0e19a5a382847d2615e02ed9e26b",
+    "1327520331a273d7bb37d8f2f9f7b3af"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2047,7 +2047,6 @@
     "interest: brughmans -> liverpool"
   ],
   "titles": [
-    "dibu martinez is one step away from chelsea",
     "xabi alonso explains decision to leave enzo fernandez out of chelsea\u2019s squad for",
     "\ud83d\udea8 \ud83d\udd35 chelsea and as monaco had a meeting on thursday to discuss lamine camara as ",
     "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 bologna reach verbal agreement to sign arthur theate from eintracht, here ",
@@ -2346,7 +2345,8 @@
     "liverpool contact agents of premier league star as cody gakpo exit looms",
     "romano: newcastle chiefs doing everything to sign explosive star before deadline",
     "ian maatsen to manchester united is about to end before it even began",
-    "\u2018we never know \u2019 \u2013 romano not completely ruling out liverpool hijack for \u00a351m mi"
+    "\u2018we never know \u2019 \u2013 romano not completely ruling out liverpool hijack for \u00a351m mi",
+    "transfer news live everton veto harrison armstrong sale, chelsea confirm signing"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2648,10 +2648,10 @@
     "lucca brughmans": "https://images.fotmob.com/image_resources/playerimages/1679949.png",
     "neil el aynaoui": "https://r2.thesportsdb.com/images/media/player/cutout/wbm4lk1758815430.png/small",
     "marten de roon": "https://r2.thesportsdb.com/images/media/player/cutout/vd6v6q1695157451.png/small",
-    "vuk pavicevic": "",
-    "tommy marques": ""
+    "tommy marques": "",
+    "vuk pavicevic": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

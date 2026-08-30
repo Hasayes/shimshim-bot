@@ -1,5 +1,29 @@
 [
  {
+  "id": "tg:FabrizioRomanoTG/65681",
+  "ts": "2026-08-30T22:40:55+00:00",
+  "kind": "deal",
+  "photo": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Fulham_v_Everton_10052025_%287%29_%28Beto%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "stage": "Here we go",
+  "player": "Beto",
+  "position": "\u2014",
+  "age": "\u2014",
+  "from_club": "Everton",
+  "to_club": "Fiorentina",
+  "fee": "\u20ac17m",
+  "style": "\u2014",
+  "fit": "\u2014",
+  "source": "Fabrizio Romano",
+  "sources": [
+   "Fabrizio Romano"
+  ],
+  "srcTier": "tier1",
+  "summary": "Beto will travel to Florence on Monday for medical tests and contract signing. Everton have approved the permanent sale at \u20ac17m.",
+  "outlet": "Telegram @fabrizioromanotg",
+  "url": "https://t.me/FabrizioRomanoTG/65681",
+  "title": "\ud83d\udea8 \ud83d\udfe3 Beto will travel to Florence on Monday morning for medical tests and contract signing. Green light from Everton to t"
+ },
+ {
   "id": "tg:FabrizioRomanoTG/65674",
   "ts": "2026-08-30T22:00:39+00:00",
   "kind": "deal",

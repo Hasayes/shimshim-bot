@@ -1,10 +1,5 @@
 {
   "sent": [
-    "e15e8b838523a85311ad2cbd25e05f0a",
-    "tg:FabrizioRomanoTG/64893",
-    "ee1690f468ddec41b284a456542ba96c",
-    "0d23c9c88ca998cca252ccf55c4f4305",
-    "c1e8304d0d27380fafdeda81d94cf565",
     "252ad6ad22ca883af8c5af9104cf0020",
     "tg:FabrizioRomanoTG/64897",
     "61b050cde764ecf186e3a73b903b9967",
@@ -1499,7 +1494,12 @@
     "tg:FabrizioRomanoTG/65676",
     "tg:FabrizioRomanoTG/65677",
     "012e172f72c6e18ab2691548c89d0765",
-    "a7500535d33e60378214c153f9247096"
+    "a7500535d33e60378214c153f9247096",
+    "057c966acede61197c1de32f40b6b10b",
+    "tg:FabrizioRomanoTG/65678",
+    "tg:FabrizioRomanoTG/65679",
+    "tg:FabrizioRomanoTG/65680",
+    "tg:FabrizioRomanoTG/65681"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1798,7 +1798,8 @@
     "aynaoui -> leipzig": 2,
     "roon -> roma": 1,
     "richarlison -> tottenham": 1,
-    "ahanor -> crystal palace": 1
+    "ahanor -> crystal palace": 1,
+    "beto -> fiorentina": 1
   },
   "interest": [
     "interest: alvarez -> arsenal",
@@ -2049,11 +2050,6 @@
     "interest: brughmans -> liverpool"
   ],
   "titles": [
-    "\ud83d\udfe1 \ud83d\udd34 \ud83c\uddf9\ud83c\uddf7 rafael leao to galatasaray, here we go! deal agreed with ac milan and pla",
-    "\ud83d\udea8 \ud83e\udd87 valencia have made official approach to try sign harvey elliott from liverpo",
-    "\ud83d\udea8 \ud83e\udd87 harvey elliott has agreed personal terms with valencia following positive ta",
-    "\u26ab\ufe0f \ud83d\udd35 \ud83c\uddf2\ud83c\uddea excl: inter closing in on deal for 2008 born talent vuk pavicevic to joi",
-    "liverpool links \u2018difficult\u2019 for ismaila sarr as palace boss crushes exit talk an",
     "west ham can now sign ex arsenal star for \u00a30",
     "man city explore premier league option as alternative after enzo fernandez talks",
     "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f exclusive: marc guiu to rb leipzig from chelsea, here we go! \ud83d\udca3 \ud83c\uddea\ud83c\uddf8 rb leip",
@@ -2348,11 +2344,15 @@
     "\ud83d\udea8 \ud83d\udfe1 \ud83d\udd35 parma reach verbal agreement to sign diego carlos who\u2019s leaving fenerbahce",
     "rt @fabrizioromano : \ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f exclusive: augsburg reach verbal agreement to sign j",
     "tottenham respond to cody gakpo snub by raiding everton \u2013 \u2018agreement in principl",
-    "victor osimhen to arsenal? transfer expert clarifies super eagles striker\u2019s futu"
+    "victor osimhen to arsenal? transfer expert clarifies super eagles striker\u2019s futu",
+    "tottenham receive \u2018green light\u2019 from 26 year old target as double transfer plan ",
+    "\ud83d\udea8 \ud83d\udfe3 fiorentina have reached verbal agreement with everton to sign beto, here we ",
+    "\ud83d\udd35 \u26aa\ufe0f \ud83c\uddee\ud83c\uddf9 moise kean will undergo medical and sign a five year deal at como this w",
+    "\ud83d\udea8 \ud83c\uddf3\ud83c\uddf1 joshua zirkzee has turned down a move to fiorentina after \u20ac5m loan plus \u20ac30",
+    "\ud83d\udea8 \ud83d\udfe3 beto will travel to florence on monday morning for medical tests and contrac"
   ],
   "tg_update_offset": 263617426,
   "photos": {
-    "merlin rohl": "https://r2.thesportsdb.com/images/media/player/cutout/jjzhlp1756976847.png/small",
     "pascal struijk": "https://r2.thesportsdb.com/images/media/player/cutout/axi6z01757076178.png/small",
     "eliezer mayenda": "https://r2.thesportsdb.com/images/media/player/cutout/g5icfr1756904169.png/small",
     "loum tchaouna": "https://r2.thesportsdb.com/images/media/player/cutout/t8itlf1757174754.png/small",
@@ -2651,6 +2651,7 @@
     "marten de roon": "https://r2.thesportsdb.com/images/media/player/cutout/vd6v6q1695157451.png/small",
     "tommy marques": "",
     "richarlison": "https://r2.thesportsdb.com/images/media/player/cutout/qgim7p1757016148.png/small",
+    "beto": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Fulham_v_Everton_10052025_%287%29_%28Beto%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
     "vuk pavicevic": ""
   },
   "photo_repair_idx": 1,

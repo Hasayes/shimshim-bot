@@ -1,8 +1,5 @@
 {
   "sent": [
-    "3de00a4ba86f3ae1e33cea218d74aabc",
-    "1e592aece86b63fce1429d6bfd618d6b",
-    "1dbae230628a2bd719f82327b01d67ab",
     "aac3e23ec2157f79ac575be21d122737",
     "c0a6583bb668fb2f43f54428ef796d24",
     "b3594c7a9fc527141803f5e497ca9a02",
@@ -1499,7 +1496,10 @@
     "e1cdd6cffae43a3fbf3af9b6e0d54116",
     "fcb868df46cadb521092ece01fce8703",
     "28d7192a7b966872519a2bc52bb43841",
-    "81909dffa5b0056419bea3d30f27ca4c"
+    "81909dffa5b0056419bea3d30f27ca4c",
+    "e36dae864f4f34575bc064309e06ed45",
+    "d71ba4f9d29fc75fecc14fb8d5e3a64b",
+    "8c5f8ce8a65a483e6c78930b02d40d68"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2040,9 +2040,6 @@
     "interest: maatsen -> manchester united"
   ],
   "titles": [
-    "wilson isidor signs new sunderland contract to end summer transfer speculation",
-    "ipswich strike shock loan deal for tammy abraham as aston villa close in on nico",
-    "\u00a343m star still an option for chelsea and man united now surely out of transfer ",
     "true: arsenal were ready to match liverpool\u2019s bradley barcola bid with late tran",
     "official: wisdom mike leaves bayern munich for club brugge",
     "\ud83d\udd35 \u2708\ufe0f honest ahanor has authorization to travel from atalanta as he will be in lo",
@@ -2339,7 +2336,10 @@
     "\u00a360m arsenal, liverpool winger battle explodes after julian alvarez snub",
     "gerrard: 'huge loss for everton' as \u00a340m rated youngster edges closer to exit",
     "fabrizio romano exclusive claims real madrid set to snap up \u20ac3m midfield signing",
-    "the future for julian alvarez appears murky"
+    "the future for julian alvarez appears murky",
+    "fofana eager for galatasaray, but milan want permanent sale",
+    "man utd striker wanted by atletico madrid as julian alvarez replacement",
+    "augsburg set to take manchester city defender on loan"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2641,10 +2641,10 @@
     "leonardo balerdi": "https://r2.thesportsdb.com/images/media/player/cutout/qmafbd1766151863.png/small",
     "james scanlon": "https://r2.thesportsdb.com/images/media/player/thumb/zlab2y1774453056.jpg/small",
     "ian maatsen": "https://r2.thesportsdb.com/images/media/player/cutout/9cu0ow1725359392.png/small",
-    "tommy marques": "",
-    "vuk pavicevic": ""
+    "vuk pavicevic": "",
+    "tommy marques": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

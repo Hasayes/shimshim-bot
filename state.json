@@ -1,9 +1,5 @@
 {
   "sent": [
-    "0b855f517457a3b8400ff98024929561",
-    "09f0e23fc6a06644cee40bf19c238fe3",
-    "35e8668c1d2451a04b81d7ec62448363",
-    "38800517207732fd6135d4205cb25822",
     "04432498c0352da324ad939347135c73",
     "57739f0dee47c7ac5940ac5172b1848c",
     "d07a6e19d74d046dc03dcd8a56521a86",
@@ -1499,7 +1495,11 @@
     "7ab711a3ed00963f74f2d247a120bc59",
     "c2703b1f0dca586501f82b4236a90449",
     "3f4c4a34e3083b40c775c6c32643227c",
-    "tg:FabrizioRomanoTG/65606"
+    "tg:FabrizioRomanoTG/65606",
+    "d1e050163c4fb1cc7c1b995a38cf726d",
+    "165018681f65ba0901e9136cc50f22dd",
+    "50dec16292088259ba8479f20fc037b9",
+    "1004048ee09698d7cdcc9a14f072be6c"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2037,9 +2037,6 @@
     "interest: ndiaye -> tottenham"
   ],
   "titles": [
-    "transfer news live: liverpool\u2019s barcola breakthrough, alvarez to arsenal saga ta",
-    "liverpool set to land bradley barcola from psg after breakthrough talks ahead of",
-    "rt @fabrizioromano : \ud83d\udea8 \ud83d\udca3 breaking: chelsea reach verbal agreement to sign emilia",
     "transfer news live: arsenal get alvarez boost, deal confirmed; barcola to liverp",
     "\ud83d\udd35 \ud83c\udde6\ud83c\uddf7 chelsea have signed emiliano dibu martinez on \u00a37 5m deal from aston villa, ",
     "fabrizio romano exclusive: emiliano martinez says yes to chelsea transfer & what",
@@ -2336,7 +2333,10 @@
     "barcelona target julian alvarez speaks to mikel arteta but refuses to open door ",
     "tottenham explore player plus cash deal for premier league star",
     "aston villa make approach to sign amad diallo as man united winger's decision re",
-    "\ud83d\udcfa new youtube video uploaded! \ud83c\udfac \ud83d\udea8 \ud83d\udca3 hijack done! barca swap truth! three leaving"
+    "\ud83d\udcfa new youtube video uploaded! \ud83c\udfac \ud83d\udea8 \ud83d\udca3 hijack done! barca swap truth! three leaving",
+    "whisper it, but arsenal have had a much worse transfer window than it looks",
+    "fabrizio romano says alejandro balde to man utd possible on one condition teamta",
+    "\u2018he\u2019s spoken to mikel arteta\u2019 \u2013 julian alvarez says no to arsenal & still has he"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2638,10 +2638,10 @@
     "pape matar sarr": "https://r2.thesportsdb.com/images/media/player/cutout/ll7kkd1757016806.png/small",
     "julian alvarez": "https://r2.thesportsdb.com/images/media/player/cutout/91pla41762288186.png/small",
     "andria bartishvili": "",
-    "vuk pavicevic": "",
-    "tommy marques": ""
+    "tommy marques": "",
+    "vuk pavicevic": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

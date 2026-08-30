@@ -1,6 +1,5 @@
 {
   "sent": [
-    "f0f0003e443cedcfe1a4ad10972f2a37",
     "727a9bf821ebc0a65c3fbccfb611912a",
     "17d40ee5634bd852fd4169932f0e34ce",
     "eb9ffa4255b926cf2530d486bf4ceaa2",
@@ -1499,7 +1498,8 @@
     "tg:FabrizioRomanoTG/65659",
     "tg:FabrizioRomanoTG/65663",
     "29426101073f6be60abd68a0c7e04be7",
-    "20e1e2b89bac3977734a2fd0e3d09687"
+    "20e1e2b89bac3977734a2fd0e3d09687",
+    "tg:FabrizioRomanoTG/65666"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2047,7 +2047,6 @@
     "interest: brughmans -> liverpool"
   ],
   "titles": [
-    "liverpool planning two attacking signings after barcola with 21 goal winger next",
     "chelsea agree emiliano martinez transfer and \u00a340m signing in double coup",
     "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f understand gabriel martinelli has given green light to al hilal move as c",
     "man city to drop \u00a3200m on double signing with enzo fernandez agreement struck",
@@ -2346,7 +2345,8 @@
     "\ud83d\udea8 \ud83d\udd35 watkins to al hilal, here we go confirmed! celebrate the new signing with co",
     "\ud83d\udd35 \u26aa\ufe0f \ud83c\uddf8\ud83c\udde6 gabriel martinelli\u2019s contract at al hilal will be valid until june 2030 ",
     "romano explains liverpool stance on gakpo exit as man city talks advance",
-    "bundesliga giants call off pursuit of barcelona midfielder \u2013 romano"
+    "bundesliga giants call off pursuit of barcelona midfielder \u2013 romano",
+    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f excl: atletico madrid submit official bid to juventus for jonathan david "
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2648,10 +2648,10 @@
     "lucca brughmans": "https://images.fotmob.com/image_resources/playerimages/1679949.png",
     "neil el aynaoui": "https://r2.thesportsdb.com/images/media/player/cutout/wbm4lk1758815430.png/small",
     "marten de roon": "https://r2.thesportsdb.com/images/media/player/cutout/vd6v6q1695157451.png/small",
-    "tommy marques": "",
-    "vuk pavicevic": ""
+    "vuk pavicevic": "",
+    "tommy marques": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

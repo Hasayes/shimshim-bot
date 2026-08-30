@@ -1,8 +1,5 @@
 {
   "sent": [
-    "2398f3b8b029409c08ec6568e015b8a5",
-    "fe975282db2e725e002e52c55753583e",
-    "tg:FabrizioRomanoTG/64880",
     "2a371ed8be27f37991a6f40b9b39e02a",
     "dcfb0f36b49d9a8e4d7748986b39edf8",
     "tg:FabrizioRomanoTG/64883",
@@ -1499,7 +1496,10 @@
     "6305d4958570cd09bf0a224175e77120",
     "841a3c27df2854437bd953d99b40db21",
     "9a328135f1060bad997bbd637be68e09",
-    "b3aecff1ca0b946ceb0d36a1a401c713"
+    "b3aecff1ca0b946ceb0d36a1a401c713",
+    "d0a726d71ce4d2f90e2d7447c93625a9",
+    "c2567a992f431397bc1f1cb0d1336c1e",
+    "2ead14b8c6596dae00b464d6b776ad96"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2047,9 +2047,6 @@
     "interest: brughmans -> liverpool"
   ],
   "titles": [
-    "napoli interest in woltemade, gabriel jesus and guiu with premier league focus",
-    "transfer: martinez to join chelsea as barcelona sign livakovic",
-    "arsenal continue alvarez pursuit friday's gossip",
     "nottingham forest make offer for 30 year old tottenham target from crystal palac",
     "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f cd leganes reach verbal agreement to sign alvaro morata, here we go! span",
     "lionel messi to be without inter miami coach guillermo hoyos vs montreal followi",
@@ -2346,7 +2343,10 @@
     "chelsea continue to demand permanent deal for gittens",
     "aston villa respond to man utd enquiry for ian maatsen",
     "transfer news live: arsenal in alvarez talks; barcola has liverpool medical; man",
-    "romano reveals how much man city are \u2018set to bid\u2019 for cody gakpo after \u2018agreemen"
+    "romano reveals how much man city are \u2018set to bid\u2019 for cody gakpo after \u2018agreemen",
+    "tottenham exit looms as euro giants reach advanced stages of talks to land 23 ye",
+    "aston villa reach decision on selling ian maatsen to man utd",
+    "liverpool contact agents of premier league star as cody gakpo exit looms"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2648,10 +2648,10 @@
     "lucca brughmans": "https://images.fotmob.com/image_resources/playerimages/1679949.png",
     "neil el aynaoui": "https://r2.thesportsdb.com/images/media/player/cutout/wbm4lk1758815430.png/small",
     "marten de roon": "https://r2.thesportsdb.com/images/media/player/cutout/vd6v6q1695157451.png/small",
-    "tommy marques": "",
-    "vuk pavicevic": ""
+    "vuk pavicevic": "",
+    "tommy marques": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

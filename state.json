@@ -1,6 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/64868",
     "69cb26acb56db1d6a377050846a01ce7",
     "e8077e857961f55d59ff2b6f9b2c7e17",
     "20c82f2d086d40e6208a944f5c9e77a0",
@@ -1499,7 +1498,8 @@
     "aa2177376cc3c3e042a234b44503847c",
     "tg:FabrizioRomanoTG/65643",
     "tg:FabrizioRomanoTG/65644",
-    "tg:FabrizioRomanoTG/65646"
+    "tg:FabrizioRomanoTG/65646",
+    "tg:FabrizioRomanoTG/65647"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2041,10 +2041,10 @@
     "interest: alvarez -> manchester city",
     "interest: ndiaye -> tottenham",
     "interest: maatsen -> manchester united",
-    "interest: jesus -> barcelona"
+    "interest: jesus -> barcelona",
+    "interest: brughmans -> liverpool"
   ],
   "titles": [
-    "\u201ccrucial\u201d few hours ahead as arsenal officials to meet julian alvarez reps in se",
     "latest transfer odds reveal where gakpo, minteh, sarr deals stand after barcola ",
     "arsenal confirm contract termination for 26yo",
     "transfer: arsenal terminate reiss nelson\u2019s contract, arteta mute on alvarez deal",
@@ -2343,11 +2343,11 @@
     "arsenal news: julian alvarez transfer deadline emerges as star signs contract da",
     "arsenal news: julian alvarez transfer deadline emerges as star signs contract",
     "\ud83d\udd35 \u26aa\ufe0f \ud83d\udc4b\ud83c\udffc after gabriel jesus, also gabriel martinelli leaves arsenal and joins al",
-    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f fc porto agree deal to sign brazilian talent gabriel mec, here we go! \ud83c\udde7\ud83c\uddf7 "
+    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f fc porto agree deal to sign brazilian talent gabriel mec, here we go! \ud83c\udde7\ud83c\uddf7 ",
+    "\ud83d\udea8 \ud83d\udd34 liverpool have made official club to club contact with genk to sign lucca br"
   ],
   "tg_update_offset": 263617426,
   "photos": {
-    "martin dubravka": "https://r2.thesportsdb.com/images/media/player/cutout/frmd101757174406.png/small",
     "alejo veliz": "https://r2.thesportsdb.com/images/media/player/cutout/h56c361765276200.png/small",
     "sean steur": "https://www.thesportsdb.com/images/media/player/thumb/vhdhz21783707932.jpg/small",
     "hayden hackney": "https://r2.thesportsdb.com/images/media/player/cutout/rutov51761830079.png/small",
@@ -2645,10 +2645,11 @@
     "ian maatsen": "https://r2.thesportsdb.com/images/media/player/cutout/9cu0ow1725359392.png/small",
     "santi gimenez": "https://r2.thesportsdb.com/images/media/player/cutout/j63fz01758892529.png/small",
     "santiago gimenez": "https://r2.thesportsdb.com/images/media/player/cutout/j63fz01758892529.png/small",
-    "tommy marques": "",
-    "vuk pavicevic": ""
+    "vuk pavicevic": "",
+    "lucca brughmans": "https://images.fotmob.com/image_resources/playerimages/1679949.png",
+    "tommy marques": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",
@@ -2823,6 +2824,7 @@
     "ofk grbalj": "https://r2.thesportsdb.com/images/media/team/badge/hpsnzi1579467203.png/small",
     "venezia": "https://r2.thesportsdb.com/images/media/team/badge/vbiget1781026964.png/small",
     "west bromwich albion": "https://r2.thesportsdb.com/images/media/team/badge/rsvuxw1448813527.png/small",
-    "augsburg": "https://r2.thesportsdb.com/images/media/team/badge/xqyyvq1473453233.png/small"
+    "augsburg": "https://r2.thesportsdb.com/images/media/team/badge/xqyyvq1473453233.png/small",
+    "genk": "https://r2.thesportsdb.com/images/media/team/badge/tp06te1534875918.png/small"
   }
 }

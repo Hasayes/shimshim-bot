@@ -1,7 +1,5 @@
 {
   "sent": [
-    "04432498c0352da324ad939347135c73",
-    "57739f0dee47c7ac5940ac5172b1848c",
     "d07a6e19d74d046dc03dcd8a56521a86",
     "e832f9dea88c1e1ff2b71e42fb7b2b64",
     "bfa2e97ff30b2c1f4b617da6f0f4be1b",
@@ -1499,7 +1497,9 @@
     "d1e050163c4fb1cc7c1b995a38cf726d",
     "165018681f65ba0901e9136cc50f22dd",
     "50dec16292088259ba8479f20fc037b9",
-    "1004048ee09698d7cdcc9a14f072be6c"
+    "1004048ee09698d7cdcc9a14f072be6c",
+    "e36d44d6240dd7eebfbd733a70ada748",
+    "0229bdc228bc7ed4a14ad9416b1050db"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2037,8 +2037,6 @@
     "interest: ndiaye -> tottenham"
   ],
   "titles": [
-    "transfer news live: arsenal get alvarez boost, deal confirmed; barcola to liverp",
-    "\ud83d\udd35 \ud83c\udde6\ud83c\uddf7 chelsea have signed emiliano dibu martinez on \u00a37 5m deal from aston villa, ",
     "fabrizio romano exclusive: emiliano martinez says yes to chelsea transfer & what",
     "romano reveals chelsea \u2018agreement done\u2019 for \u00a334m star as martinez \u2018gives green l",
     "new liverpool, ismaila sarr update may concern millwall",
@@ -2336,7 +2334,9 @@
     "\ud83d\udcfa new youtube video uploaded! \ud83c\udfac \ud83d\udea8 \ud83d\udca3 hijack done! barca swap truth! three leaving",
     "whisper it, but arsenal have had a much worse transfer window than it looks",
     "fabrizio romano says alejandro balde to man utd possible on one condition teamta",
-    "\u2018he\u2019s spoken to mikel arteta\u2019 \u2013 julian alvarez says no to arsenal & still has he"
+    "\u2018he\u2019s spoken to mikel arteta\u2019 \u2013 julian alvarez says no to arsenal & still has he",
+    "fabrizio romano reveals alejandro balde stance on joining man utd from barcelona",
+    "chelsea midfield signing set for medical in next 48 hours after blues agree fee "
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2638,10 +2638,10 @@
     "pape matar sarr": "https://r2.thesportsdb.com/images/media/player/cutout/ll7kkd1757016806.png/small",
     "julian alvarez": "https://r2.thesportsdb.com/images/media/player/cutout/91pla41762288186.png/small",
     "andria bartishvili": "",
-    "tommy marques": "",
-    "vuk pavicevic": ""
+    "vuk pavicevic": "",
+    "tommy marques": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

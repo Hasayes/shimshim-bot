@@ -1,10 +1,5 @@
 {
   "sent": [
-    "c8257942e29b8957096f4fd734497c69",
-    "f217c23f7effb9d91094bedcaf8efc79",
-    "22007548faa9af75e3eb5a05fc28a7c7",
-    "tg:FabrizioRomanoTG/64888",
-    "a80ec505738435d8d65cecc35072998e",
     "tg:FabrizioRomanoTG/64889",
     "1a3c09b87aaa92802564eda3a0892415",
     "tg:FabrizioRomanoTG/64890",
@@ -1499,7 +1494,12 @@
     "d0de8d061d8b1f227d3b6a9ac641bfdf",
     "fe0fc7100eed887d2d4fbd0dda9f7cc1",
     "6f83f60607b63dc8af971a0effc33547",
-    "tg:FabrizioRomanoTG/65673"
+    "tg:FabrizioRomanoTG/65673",
+    "b99664e10ad0fbb4a4c29be68ea18803",
+    "e4c4e3800dab6ffe2ca9d1d2c059d60d",
+    "d030fff3768c9096fce64fa52d989eb1",
+    "6703fa3caa057452455c3fad7406bd17",
+    "37484d7b0dcb408114289df9122dbc77"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1796,7 +1796,8 @@
     "gimenez -> fc porto": 2,
     "jesus -> barcelona": 1,
     "aynaoui -> leipzig": 2,
-    "roon -> roma": 1
+    "roon -> roma": 1,
+    "richarlison -> tottenham": 1
   },
   "interest": [
     "interest: alvarez -> arsenal",
@@ -2047,11 +2048,6 @@
     "interest: brughmans -> liverpool"
   ],
   "titles": [
-    "transfer rumors, news: villa's duran close to al nassr move espn",
-    "\ud83d\udd34 \u26aa\ufe0f ac monza have agreed deal to sign jan ziolkowski from as roma, here we go! ",
-    "\ud83d\udea8 \u26aa\ufe0f despite new reports and stories in the last 24h, real madrid and endrick\u2019s ",
-    "football gossip: alvarez, ndiaye, leao, gabriel jesus, igor jesus, woltemade",
-    "man utd set to submit an official bid for pl star as soon as zirkzee move is fin",
     "man utd reach decision on selling marcus rashford with euro giants to make offer",
     "potential german national team goalkeeper sold to eintracht frankfurt",
     "\ud83d\udea8 \ud83d\udfe1 \ud83d\udd34 galatasaray are closing in on rafa leao deal after getting initial green l",
@@ -2346,11 +2342,15 @@
     "\ud83d\udd34 \u26aa\ufe0f \ud83c\udf33 nottingham forest and crystal palace completed daniel munoz deal document",
     "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f lille have exchanged documents and completed deal to sign ayase ueda from",
     "tottenham and everton reach agreement for ndiaye and richarlison deals",
-    "\ud83d\udea8 \ud83d\udd34 ismaila sarr remains a target for liverpool as new winger to proceed with ga"
+    "\ud83d\udea8 \ud83d\udd34 ismaila sarr remains a target for liverpool as new winger to proceed with ga",
+    "midday transfer update \ud83d\udcb0",
+    "transfer rumors, news: liverpool in talks to sign ismaila sarr",
+    "everton agree groundbreaking tottenham transfers for richarlison and iliman ndia",
+    "medicals next as everton agree blockbuster tottenham agreements for richarlison ",
+    "julian alvarez to arsenal transfer twist after mikel arteta talks london evening"
   ],
   "tg_update_offset": 263617426,
   "photos": {
-    "hayden hackney": "https://r2.thesportsdb.com/images/media/player/cutout/rutov51761830079.png/small",
     "merlin rohl": "https://r2.thesportsdb.com/images/media/player/cutout/jjzhlp1756976847.png/small",
     "pascal struijk": "https://r2.thesportsdb.com/images/media/player/cutout/axi6z01757076178.png/small",
     "eliezer mayenda": "https://r2.thesportsdb.com/images/media/player/cutout/g5icfr1756904169.png/small",
@@ -2649,6 +2649,7 @@
     "neil el aynaoui": "https://r2.thesportsdb.com/images/media/player/cutout/wbm4lk1758815430.png/small",
     "marten de roon": "https://r2.thesportsdb.com/images/media/player/cutout/vd6v6q1695157451.png/small",
     "tommy marques": "",
+    "richarlison": "https://r2.thesportsdb.com/images/media/player/cutout/qgim7p1757016148.png/small",
     "vuk pavicevic": ""
   },
   "photo_repair_idx": 1,

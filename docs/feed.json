@@ -1,5 +1,29 @@
 [
  {
+  "id": "d030fff3768c9096fce64fa52d989eb1",
+  "ts": "2026-08-30T21:45:37+00:00",
+  "kind": "deal",
+  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/qgim7p1757016148.png/small",
+  "stage": "Here we go",
+  "player": "Richarlison",
+  "position": "\u2014",
+  "age": "\u2014",
+  "from_club": "Everton",
+  "to_club": "Tottenham Hotspur",
+  "fee": "\u2014",
+  "style": "Direct, dynamic forward with excellent work rate and defensive commitment; strong finisher in the box with good aerial presence.",
+  "fit": "Could operate as left-sided forward or secondary striker to provide energy and pressing intensity alongside Kane's focal point role.",
+  "source": "Yahoo",
+  "sources": [
+   "Yahoo"
+  ],
+  "srcTier": "standard",
+  "summary": "Everton have agreed to sell Richarlison to Tottenham; medicals are next.",
+  "outlet": "yahoo",
+  "url": "https://uk.sports.yahoo.com/news/everton-agree-groundbreaking-tottenham-transfers-093433029.html",
+  "title": "Everton agree groundbreaking Tottenham transfers for Richarlison and Iliman Ndiaye, medicals next"
+ },
+ {
   "id": "b2b9e91b498bb82e599e2c647aaf6565",
   "ts": "2026-08-30T18:00:53+00:00",
   "kind": "deal",

@@ -2378,7 +2378,7 @@
   "player": "Suzuki",
   "position": "\u2014",
   "age": "\u2014",
-  "from_club": "PSG",
+  "from_club": "Parma",
   "to_club": "Aston Villa",
   "fee": "\u2014",
   "style": "\u2014",
@@ -2823,30 +2823,6 @@
   "outlet": "Telegram @fabrizioromanotg",
   "url": "https://t.me/FabrizioRomanoTG/64410",
   "title": "\ud83d\udd34 \u26aa\ufe0f \ud83e\udd1d\ud83c\udfff Divin Mubama has joined Southampton on loan deal from Manchester City, as reported. Green light from #MCFC and o",
-  "sources": [
-   "Fabrizio Romano"
-  ],
-  "srcTier": "tier1"
- },
- {
-  "id": "tg:FabrizioRomanoTG/63661",
-  "ts": "2026-08-11T09:30:39+00:00",
-  "kind": "deal",
-  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/24eahn1759780929.png/small",
-  "stage": "Here we go",
-  "player": "Zion Suzuki",
-  "position": "Goalkeeper",
-  "age": "\u2014",
-  "from_club": "Parma",
-  "to_club": "Paris Saint-Germain",
-  "fee": "\u20ac35m",
-  "style": "Goalkeeper with great potential according to Spalletti's assessment.",
-  "fit": "Juventus manager has publicly expressed strong interest in the shot-stopper as a potential acquisition.",
-  "source": "Fabrizio Romano",
-  "outlet": "Telegram @fabrizioromanotg",
-  "url": "https://t.me/FabrizioRomanoTG/64403",
-  "title": "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 Paris Saint-Germain agree deal in principle with Parma to sign Zion Suzuki, here we go! Japanese goalkeeper joins ",
-  "summary": "Paris Saint-Germain have agreed a deal in principle with Parma to sign Japanese goalkeeper Zion Suzuki for \u20ac35m. PSG are considering a loan move for Suzuki to ensure regular playing time.",
   "sources": [
    "Fabrizio Romano"
   ],

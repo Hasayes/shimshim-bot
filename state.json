@@ -1,6 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/64852",
     "tg:FabrizioRomanoTG/64855",
     "tg:FabrizioRomanoTG/64860",
     "tg:FabrizioRomanoTG/64861",
@@ -1499,7 +1498,8 @@
     "tg:FabrizioRomanoTG/65620",
     "tg:FabrizioRomanoTG/65621",
     "tg:FabrizioRomanoTG/65622",
-    "tg:FabrizioRomanoTG/65623"
+    "tg:FabrizioRomanoTG/65623",
+    "tg:FabrizioRomanoTG/65624"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2042,7 +2042,6 @@
     "interest: maatsen -> manchester united"
   ],
   "titles": [
-    "transfer news: jack grealish latest as talks held amid sunderland and everton in",
     "\ud83d\udcfa new youtube video uploaded! \ud83c\udfac \ud83d\udea8 \ud83d\udca3 julian: deal on! united: two signings, one f",
     "done deal: kean to join como for \u20ac35m plus \u20ac5m bonus from fiorentina",
     "luis enrique defends decision to leave star man out for lille clash",
@@ -2341,7 +2340,8 @@
     "\ud83d\udea8 \ud83d\udd04 tottenham and everton have reached an agreement on double deal with iliman n",
     "\ud83d\udea8 \ud83d\udd35 everton are in advanced talks to bring jack grealish back to the club, negot",
     "\ud83d\udd35 \u26aa\ufe0f \ud83d\udc09 santi gimenez has authorization to travel and join fc porto after deal ag",
-    "\ud83d\udea8 \u26aa\ufe0f iliman ndiaye has given green light to tottenham contract proposal, ready t"
+    "\ud83d\udea8 \u26aa\ufe0f iliman ndiaye has given green light to tottenham contract proposal, ready t",
+    "\ud83d\udea8 \ud83d\udd34 \u26ab\ufe0f omari hutchinson, arriving tonight in milano after deal done with forest "
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2642,11 +2642,11 @@
     "leonardo balerdi": "https://r2.thesportsdb.com/images/media/player/cutout/qmafbd1766151863.png/small",
     "james scanlon": "https://r2.thesportsdb.com/images/media/player/thumb/zlab2y1774453056.jpg/small",
     "ian maatsen": "https://r2.thesportsdb.com/images/media/player/cutout/9cu0ow1725359392.png/small",
-    "tommy marques": "",
     "santi gimenez": "https://r2.thesportsdb.com/images/media/player/cutout/j63fz01758892529.png/small",
-    "vuk pavicevic": ""
+    "vuk pavicevic": "",
+    "tommy marques": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

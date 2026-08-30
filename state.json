@@ -1,8 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/64865",
-    "020256818c6e7c7bbcce99599480321c",
-    "tg:FabrizioRomanoTG/64866",
     "tg:FabrizioRomanoTG/64867",
     "6b5fd07d82bfb32b0c903172640006b6",
     "987575b5ed210571c615762e42fac11d",
@@ -1499,7 +1496,10 @@
     "b8704a8b551990e2ad34d6eed79cfff3",
     "87f75d9db7840054f59f99aa9b562540",
     "tg:FabrizioRomanoTG/65630",
-    "5d97b390bf2587655121cfc0d01bff9e"
+    "5d97b390bf2587655121cfc0d01bff9e",
+    "tg:FabrizioRomanoTG/65634",
+    "tg:FabrizioRomanoTG/65635",
+    "tg:FabrizioRomanoTG/65636"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1793,7 +1793,8 @@
     "balerdi -> roma": 2,
     "scanlon -> arsenal": 2,
     "ndiaye -> tottenham": 1,
-    "gimenez -> fc porto": 2
+    "gimenez -> fc porto": 2,
+    "jesus -> barcelona": 1
   },
   "interest": [
     "interest: alvarez -> arsenal",
@@ -2039,11 +2040,10 @@
     "interest: sarr -> juventus",
     "interest: alvarez -> manchester city",
     "interest: ndiaye -> tottenham",
-    "interest: maatsen -> manchester united"
+    "interest: maatsen -> manchester united",
+    "interest: jesus -> barcelona"
   ],
   "titles": [
-    "former sheffield united hero iliman ndiaye thrown into possible transfer deal in",
-    "\u00a3170m spending spree? liverpool still want this attacker signing alongside bradl",
     "\ud83d\udea8 \ud83c\uddf3\ud83c\uddf1 fiorentina official bid for joshua zirkzee currently being assessed by man ",
     "man utd planning shock late signing with chelsea star \u2018offered directly\u2019 to ineo",
     "fabrizio romano confirms major transfer blow for manchester united",
@@ -2341,7 +2341,9 @@
     "done deal: gimenez ready for fc porto in \u20ac20m milan agreement",
     "hull city set to sign french winger",
     "\ud83d\udd34 \ud83d\udd35 \ud83c\uddee\ud83c\uddf9 cagliari have agreed deal to sign roberto gagliardini as new midfielder w",
-    "arsenal: fresh julian alvarez transfer twist confirmed after mikel arteta talks"
+    "arsenal: fresh julian alvarez transfer twist confirmed after mikel arteta talks",
+    "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 barcelona are in advanced club to club talks with arsenal to sign gabriel ",
+    "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 breaking: barcelona agree deal to sign gabriel jesus from arsenal, here we"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2643,10 +2645,10 @@
     "ian maatsen": "https://r2.thesportsdb.com/images/media/player/cutout/9cu0ow1725359392.png/small",
     "santi gimenez": "https://r2.thesportsdb.com/images/media/player/cutout/j63fz01758892529.png/small",
     "santiago gimenez": "https://r2.thesportsdb.com/images/media/player/cutout/j63fz01758892529.png/small",
-    "tommy marques": "",
-    "vuk pavicevic": ""
+    "vuk pavicevic": "",
+    "tommy marques": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

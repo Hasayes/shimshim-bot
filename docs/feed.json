@@ -1,5 +1,30 @@
 [
  {
+  "id": "6959df4889706a9ce3465653085171ab",
+  "ts": "2026-08-30T12:45:37+00:00",
+  "kind": "deal",
+  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/rwsqi51769330458.png/small",
+  "stage": "Here we go",
+  "player": "Gabriel Jesus",
+  "position": "Forward",
+  "age": "\u2014",
+  "from_club": "Arsenal",
+  "to_club": "Barcelona",
+  "fee": "\u20ac10m plus add-ons",
+  "style": "Energetic forward with strong pressing, good movement in the box, and solid link-up play connecting midfield to attack.",
+  "fit": "Deploy as a dynamic attacking partner or lone striker to inject intensity into Barcelona's press and provide alternative finishing options.",
+  "source": "Fabrizio Romano",
+  "sources": [
+   "Yahoo Sports",
+   "Fabrizio Romano"
+  ],
+  "srcTier": "tier1",
+  "summary": "Barcelona have agreed a deal to sign Gabriel Jesus from Arsenal for a \u20ac10m package plus add-ons. Jesus' medical is booked for Monday.",
+  "outlet": "Telegram @fabrizioromanotg",
+  "url": "https://t.me/FabrizioRomanoTG/65636",
+  "title": "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 BREAKING: Barcelona agree deal to sign Gabriel Jesus from Arsenal, here we go! Exclusive details: medical booked o"
+ },
+ {
   "id": "b8704a8b551990e2ad34d6eed79cfff3",
   "ts": "2026-08-30T11:00:40+00:00",
   "kind": "deal",
@@ -337,30 +362,6 @@
   "outlet": "Telegram @fabrizioromanotg",
   "url": "https://t.me/FabrizioRomanoTG/65545",
   "title": "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f EXCLUSIVE: Augsburg reach verbal agreement to sign Juma Bah, here we go! The centre back will join Augsburg on lo"
- },
- {
-  "id": "6959df4889706a9ce3465653085171ab",
-  "ts": "2026-08-29T09:30:38+00:00",
-  "kind": "interest",
-  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/rwsqi51769330458.png/small",
-  "stage": "\u2014",
-  "player": "Gabriel Jesus",
-  "position": "Forward",
-  "age": "\u2014",
-  "from_club": "Arsenal",
-  "to_club": "Atletico Madrid",
-  "fee": "\u2014",
-  "style": "Dynamic, press-resistant forward with excellent work rate and pressing intensity off the ball.",
-  "fit": "Should operate as a high-energy attacking outlet in Atl\u00e9tico's pressing system, either as a lone striker or secondary forward alongside a target man.",
-  "source": "Yahoo Sports",
-  "sources": [
-   "Yahoo Sports"
-  ],
-  "srcTier": "standard",
-  "summary": "Atl\u00e9tico Madrid have been offered the chance to sign Arsenal forward Gabriel Jesus in recent days.",
-  "outlet": "yahoo",
-  "url": "https://ca.sports.yahoo.com/news/atl-tico-madrid-offered-chance-212000926.html",
-  "title": "Atle\u0301tico Madrid offered chance to sign Arsenal star"
  },
  {
   "id": "tg:FabrizioRomanoTG/65538",

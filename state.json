@@ -1,9 +1,5 @@
 {
   "sent": [
-    "5d2d133a03e0df370b7bfb8471648025",
-    "tg:FabrizioRomanoTG/64845",
-    "ff364a525548908bff99650a7f0c1ead",
-    "tg:FabrizioRomanoTG/64848",
     "tg:FabrizioRomanoTG/64849",
     "tg:FabrizioRomanoTG/64850",
     "9c0b2bc1b12efea8262b7d1f2b0277f2",
@@ -1499,7 +1495,11 @@
     "tg:FabrizioRomanoTG/65614",
     "ce8c6d9484613b1686b23836f3d48576",
     "tg:FabrizioRomanoTG/65616",
-    "tg:FabrizioRomanoTG/65617"
+    "tg:FabrizioRomanoTG/65617",
+    "c22451dfa2cbb615f0baa4e5b01d70f9",
+    "783eb87a34b29548e85a0b0568b506e1",
+    "tg:FabrizioRomanoTG/65619",
+    "tg:FabrizioRomanoTG/65620"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1791,7 +1791,8 @@
     "camara -> chelsea": 1,
     "hutchinson -> milan": 1,
     "balerdi -> roma": 2,
-    "scanlon -> arsenal": 2
+    "scanlon -> arsenal": 2,
+    "ndiaye -> tottenham": 1
   },
   "interest": [
     "interest: alvarez -> arsenal",
@@ -2040,10 +2041,6 @@
     "interest: maatsen -> manchester united"
   ],
   "titles": [
-    "lucas perri given green light to travel as deal completed for leeds united exit",
-    "emi martinez says yes to move amid chelsea, tottenham transfer battle as aston v",
-    "aston villa striker set for loan move to premier league club after nicolas jacks",
-    "romano reveals what barcola \u2018here we go\u2019 means for gakpo, third liverpool winger",
     "italian giants \u2018in advanced talks\u2019 to sign man utd striker joshua zirkzee on loa",
     "fabrizio romano says manchester city have \u201ccompleted deal\u201d to sign arsenal midfi",
     "transfer news: jack grealish latest as talks held amid sunderland and everton in",
@@ -2339,7 +2336,11 @@
     "transfer rumors, news: man united offered atetli striker s\u00f8rloth",
     "\ud83d\udd35 \ud83c\udde6\ud83c\uddf7 official, confirmed emiliano martinez joined chelsea from aston villa on \u00a37",
     "fabrizio romano reveals huge cody gakpo bid man city will send liverpool",
-    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f sami ouaissa to psv eindhoven, here we go! deal agreed for \u20ac9m transfer f"
+    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f sami ouaissa to psv eindhoven, here we go! deal agreed for \u20ac9m transfer f",
+    "sarr pushing hard for juventus, but tottenham want obligation to buy",
+    "nottingham forest in transfer rampage as romano gives double \u2018here we go\u2019",
+    "\ud83d\udea8 \ud83d\udd04 tottenham and everton have reached an agreement on double deal with iliman n",
+    "\ud83d\udea8 \ud83d\udd35 everton are in advanced talks to bring jack grealish back to the club, negot"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2641,10 +2642,10 @@
     "leonardo balerdi": "https://r2.thesportsdb.com/images/media/player/cutout/qmafbd1766151863.png/small",
     "james scanlon": "https://r2.thesportsdb.com/images/media/player/thumb/zlab2y1774453056.jpg/small",
     "ian maatsen": "https://r2.thesportsdb.com/images/media/player/cutout/9cu0ow1725359392.png/small",
-    "vuk pavicevic": "",
-    "tommy marques": ""
+    "tommy marques": "",
+    "vuk pavicevic": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

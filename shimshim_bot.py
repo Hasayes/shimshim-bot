@@ -1579,24 +1579,16 @@ def _card_sig(kind, stage, player, to_club):
     return (_norm(player), kind, _norm(stage), dests)
 
 
-def append_feed(article, brief, photo="", feed=None):
+def append_feed(article, brief, photo, feed):
     """Upsert the card: one card per transfer journey, moving through stages.
 
     Rumour -> Here we go -> Confirmed is ONE card that upgrades in place
     (suitors collapse to the winning club when a deal stage arrives) and
     jumps to the top of the feed. A brand-new story appends a new card.
 
-    Returns 'noop' | 'upgraded' | 'new'. When feed= is passed, mutates that
-    list in place and does not write disk (caller writes once at end).
+    Mutates feed in place; caller persists via write_feed() once at end.
+    Returns 'noop' | 'upgraded' | 'new'.
     """
-    write = feed is None
-    if feed is None:
-        feed = []
-        if FEED_FILE.exists():
-            try:
-                feed = json.loads(FEED_FILE.read_text())
-            except json.JSONDecodeError:
-                pass
     sig = _card_sig(brief.kind, brief.stage, brief.player, brief.to_club)
     dup = next((c for c in feed
                 if _card_sig(c["kind"], c.get("stage", ""), c["player"], c["to_club"]) == sig),
@@ -1610,9 +1602,6 @@ def append_feed(article, brief, photo="", feed=None):
         if len(merged) > len(before):
             dup["sources"] = merged
             dup["srcTier"] = tier_of(merged)
-            if write:
-                FEED_FILE.parent.mkdir(parents=True, exist_ok=True)
-                FEED_FILE.write_text(json.dumps(feed[:MAX_FEED], indent=1))
             print(f"corroborated: {brief.player} now {len(merged)} sources")
         else:
             print(f"feed append skipped (identical card exists): {brief.player}")
@@ -1670,9 +1659,6 @@ def append_feed(article, brief, photo="", feed=None):
         existing["title"] = article["title"]
         feed.remove(existing)
         feed.insert(0, existing)
-        if write:
-            FEED_FILE.parent.mkdir(parents=True, exist_ok=True)
-            FEED_FILE.write_text(json.dumps(feed[:MAX_FEED], indent=1))
         print(f"card upgraded: {brief.player} -> {brief.to_club} ({brief.kind}/{brief.stage})")
         return "upgraded"
     _names, _tier = source_meta(brief.source)
@@ -1698,11 +1684,6 @@ def append_feed(article, brief, photo="", feed=None):
         "url": article["url"],
         "title": article["title"],
     })
-    if write:
-        FEED_FILE.parent.mkdir(parents=True, exist_ok=True)
-        if len(feed) > MAX_FEED:
-            archive_cards(feed[MAX_FEED:])  # rolled-off cards keep their history
-        FEED_FILE.write_text(json.dumps(feed[:MAX_FEED], indent=1))
     return "new"
 
 
@@ -1891,7 +1872,7 @@ def send_web_push(article, brief, state, subs):
     return bool(dead)
 
 
-def repair_one_photo(state, feed=None):
+def repair_one_photo(state, feed):
     """Each poll, retry the photo lookup for one recent photo-less card.
 
     Youth players get photos as they break through; cached misses would
@@ -1899,12 +1880,6 @@ def repair_one_photo(state, feed=None):
     Returns True only when a photo was actually written (so callers can
     avoid dirtying state.json / git for no-op index bumps).
     """
-    write = feed is None
-    if feed is None:
-        try:
-            feed = json.loads(FEED_FILE.read_text())
-        except Exception:  # noqa: BLE001
-            return False
     cutoff = (datetime.now(timezone.utc).timestamp() - 14 * 86400)
     todo = [i for i in feed
             if not i.get("photo") and i.get("player", "").strip() not in ("", "—")
@@ -1923,8 +1898,6 @@ def repair_one_photo(state, feed=None):
     for i in feed:
         if i["player"] == card["player"] and not i.get("photo"):
             i["photo"] = photo
-    if write:
-        FEED_FILE.write_text(json.dumps(feed, indent=1))
     print(f"photo repaired: {card['player']}")
     return True
 

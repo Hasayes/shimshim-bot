@@ -1,4 +1,4 @@
-const CACHE = "shimshim-v24";
+const CACHE = "shimshim-v25";
 const SHELL = ["./", "index.html", "style.css", "app.js", "manifest.webmanifest", "icon-192.png", "icon-512.png"];
 
 self.addEventListener("install", (e) => {

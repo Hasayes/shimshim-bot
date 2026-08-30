@@ -4,7 +4,7 @@ let feed = [];
 
 // ---------- theme (follows the system; ?theme=dark|light overrides) ----------
 {
-  const t = new URLSearchParams(location.search).get("theme") || localStorage.getItem("theme");
+  const t = new URLSearchParams(location.search).get("theme");
   if (t === "dark" || t === "light") document.documentElement.dataset.theme = t;
 }
 

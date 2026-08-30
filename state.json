@@ -1,8 +1,5 @@
 {
   "sent": [
-    "d07a6e19d74d046dc03dcd8a56521a86",
-    "e832f9dea88c1e1ff2b71e42fb7b2b64",
-    "bfa2e97ff30b2c1f4b617da6f0f4be1b",
     "8b66e2e94a4e9c51b2b1fa2d7197c720",
     "14373c44f6079a9d5499b4d8927fb164",
     "938f23b7896ee9c0c0fb99576b8e09a7",
@@ -1499,7 +1496,10 @@
     "50dec16292088259ba8479f20fc037b9",
     "1004048ee09698d7cdcc9a14f072be6c",
     "e36d44d6240dd7eebfbd733a70ada748",
-    "0229bdc228bc7ed4a14ad9416b1050db"
+    "0229bdc228bc7ed4a14ad9416b1050db",
+    "f21e533333ff49883bf993658e811e1b",
+    "e0c6f854955e0769f38ed0ff5ecc856f",
+    "b5409d3fbe7287544363447b408c6951"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2037,9 +2037,6 @@
     "interest: ndiaye -> tottenham"
   ],
   "titles": [
-    "fabrizio romano exclusive: emiliano martinez says yes to chelsea transfer & what",
-    "romano reveals chelsea \u2018agreement done\u2019 for \u00a334m star as martinez \u2018gives green l",
-    "new liverpool, ismaila sarr update may concern millwall",
     "transfer rumors, news: arsenal, man city to fight for everton winger",
     "sources: mikel arteta likely to block arsenal star\u2019s exit as three transfer suit",
     "baleba debut delayed: when man united midfielder is expected to make his debut",
@@ -2336,7 +2333,10 @@
     "fabrizio romano says alejandro balde to man utd possible on one condition teamta",
     "\u2018he\u2019s spoken to mikel arteta\u2019 \u2013 julian alvarez says no to arsenal & still has he",
     "fabrizio romano reveals alejandro balde stance on joining man utd from barcelona",
-    "chelsea midfield signing set for medical in next 48 hours after blues agree fee "
+    "chelsea midfield signing set for medical in next 48 hours after blues agree fee ",
+    "arsenal fans all say the same thing as julian alvarez brutally snubs mikel artet",
+    "tfg take official social media action over harrison armstong exit talk at everto",
+    "\u201chere we go\u201d for new arsenal signing, medical scheduled for september 1st"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2638,10 +2638,10 @@
     "pape matar sarr": "https://r2.thesportsdb.com/images/media/player/cutout/ll7kkd1757016806.png/small",
     "julian alvarez": "https://r2.thesportsdb.com/images/media/player/cutout/91pla41762288186.png/small",
     "andria bartishvili": "",
-    "vuk pavicevic": "",
-    "tommy marques": ""
+    "tommy marques": "",
+    "vuk pavicevic": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

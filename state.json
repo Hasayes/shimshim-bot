@@ -1,8 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/64867",
-    "6b5fd07d82bfb32b0c903172640006b6",
-    "987575b5ed210571c615762e42fac11d",
     "db4144ffb636f012a89b471c7846ac32",
     "8f8b8176c189e5279772ca15414901cf",
     "499b36fbb5a5f04e7654bf4cf783c589",
@@ -1499,7 +1496,10 @@
     "5d97b390bf2587655121cfc0d01bff9e",
     "tg:FabrizioRomanoTG/65634",
     "tg:FabrizioRomanoTG/65635",
-    "tg:FabrizioRomanoTG/65636"
+    "tg:FabrizioRomanoTG/65636",
+    "f2fbbfe40e35efa555cbd26dfaf41fdc",
+    "tg:FabrizioRomanoTG/65639",
+    "tg:FabrizioRomanoTG/65641"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2044,9 +2044,6 @@
     "interest: jesus -> barcelona"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83c\uddf3\ud83c\uddf1 fiorentina official bid for joshua zirkzee currently being assessed by man ",
-    "man utd planning shock late signing with chelsea star \u2018offered directly\u2019 to ineo",
-    "fabrizio romano confirms major transfer blow for manchester united",
     "fabrizio romano confirms \u00a340m chelsea signing and 'final decision' imminent on a",
     "romano gives \u2018here we go\u2019 to next chelsea transfer as blues close in on two deal",
     "fabrizio romano reveals \u201chere we go\u201d for chelsea to complete \u00a340m transfer",
@@ -2343,7 +2340,10 @@
     "\ud83d\udd34 \ud83d\udd35 \ud83c\uddee\ud83c\uddf9 cagliari have agreed deal to sign roberto gagliardini as new midfielder w",
     "arsenal: fresh julian alvarez transfer twist confirmed after mikel arteta talks",
     "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 barcelona are in advanced club to club talks with arsenal to sign gabriel ",
-    "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 breaking: barcelona agree deal to sign gabriel jesus from arsenal, here we"
+    "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 breaking: barcelona agree deal to sign gabriel jesus from arsenal, here we",
+    "liverpool star decides he wants to join manchester city, clubs begin talks for t",
+    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f breaking: gabriel martinelli to al hilal, here we go! verbal agreement do",
+    "rt @fabrizioromano : \ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f breaking: gabriel martinelli to al hilal, here we go"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2645,10 +2645,10 @@
     "ian maatsen": "https://r2.thesportsdb.com/images/media/player/cutout/9cu0ow1725359392.png/small",
     "santi gimenez": "https://r2.thesportsdb.com/images/media/player/cutout/j63fz01758892529.png/small",
     "santiago gimenez": "https://r2.thesportsdb.com/images/media/player/cutout/j63fz01758892529.png/small",
-    "vuk pavicevic": "",
-    "tommy marques": ""
+    "tommy marques": "",
+    "vuk pavicevic": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

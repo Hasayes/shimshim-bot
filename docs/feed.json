@@ -1,5 +1,30 @@
 [
  {
+  "id": "tg:FabrizioRomanoTG/65674",
+  "ts": "2026-08-31T17:00:42+00:00",
+  "kind": "deal",
+  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/uahuuj1764331567.png/small",
+  "stage": "Completed",
+  "player": "Honest Ahanor",
+  "position": "Defender",
+  "age": "\u2014",
+  "from_club": "Atalanta",
+  "to_club": "Crystal Palace",
+  "fee": "\u2014",
+  "style": "\u2014",
+  "fit": "\u2014",
+  "source": "Yardbarker",
+  "sources": [
+   "Fabrizio Romano",
+   "Yardbarker"
+  ],
+  "srcTier": "tier1",
+  "summary": "Honest Ahanor has completed a loan move from Atalanta to Crystal Palace, with an agreement that he will later join Chelsea.",
+  "outlet": "yardbarker",
+  "url": "https://www.yardbarker.com/soccer/articles/atalanta_ahanor_on_loan_to_crystal_palace_then_he_will_belong_to_chelsea_the_reason/s1_17790_44240552",
+  "title": "Atalanta: Ahanor on loan to Crystal Palace, then he will belong to Chelsea: the reason"
+ },
+ {
   "id": "tg:FabrizioRomanoTG/65766",
   "ts": "2026-08-31T16:45:36+00:00",
   "kind": "interest",
@@ -526,30 +551,6 @@
   "outlet": "Telegram @fabrizioromanotg",
   "url": "https://t.me/FabrizioRomanoTG/65681",
   "title": "\ud83d\udea8 \ud83d\udfe3 Beto will travel to Florence on Monday morning for medical tests and contract signing. Green light from Everton to t"
- },
- {
-  "id": "tg:FabrizioRomanoTG/65674",
-  "ts": "2026-08-30T22:00:39+00:00",
-  "kind": "deal",
-  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/uahuuj1764331567.png/small",
-  "stage": "Here we go",
-  "player": "Honest Ahanor",
-  "position": "\u2014",
-  "age": "\u2014",
-  "from_club": "Atalanta",
-  "to_club": "Crystal Palace",
-  "fee": "\u2014",
-  "style": "\u2014",
-  "fit": "\u2014",
-  "source": "Fabrizio Romano",
-  "sources": [
-   "Fabrizio Romano"
-  ],
-  "srcTier": "tier1",
-  "summary": "Honest Ahanor has agreed to join Crystal Palace on loan from Chelsea, with his medical booked for Monday. Ahanor recently joined Chelsea from Atalanta for \u00a340m.",
-  "outlet": "Telegram @fabrizioromanotg",
-  "url": "https://t.me/FabrizioRomanoTG/65674",
-  "title": "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 Crystal Palace agree deal to sign Honest Ahanor on loan from Chelsea, here we go! Verbal agreement done as Honest "
  },
  {
   "id": "d030fff3768c9096fce64fa52d989eb1",

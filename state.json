@@ -1,7 +1,5 @@
 {
   "sent": [
-    "661bf768f3d8d9f27f8cdff98c119674",
-    "88ec37ae090babdc24715a6489262706",
     "a5b1cb601c9e99197629975a3fbc207f",
     "fd6772e8384e7c3b3db7b224438d52e0",
     "6d886f0f27fd979edeb89c83a5848140",
@@ -1499,7 +1497,9 @@
     "tg:FabrizioRomanoTG/65764",
     "tg:FabrizioRomanoTG/65765",
     "tg:FabrizioRomanoTG/65766",
-    "tg:FabrizioRomanoTG/65767"
+    "tg:FabrizioRomanoTG/65767",
+    "887d8a7d4d6d1997f50f8fd63423c442",
+    "7bbf7bf0ef52d151b92605d92a1716a5"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1798,7 +1798,7 @@
     "aynaoui -> leipzig": 2,
     "roon -> roma": 1,
     "richarlison -> tottenham": 1,
-    "ahanor -> crystal palace": 1,
+    "ahanor -> crystal palace": 2,
     "beto -> fiorentina": 1,
     "souza -> fc porto": 1,
     "massolin -> cagliari": 2,
@@ -2070,8 +2070,6 @@
     "interest: fofana -> arsenal"
   ],
   "titles": [
-    "liverpool transfer news winger target heads elsewhere but reds offered midfielde",
-    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f nottingham forest agree \u00a322m deal for daniel munoz, here we go! \ud83c\udf33 \ud83c\udde8\ud83c\uddf4 agre",
     "enzo fernandez wants to leave chelsea and reaches personal agreement",
     "rt @fabrizioromano : \ud83d\udea8 \ud83d\udd34 cody gakpo\u2019s future will be decided after today\u2019s game ",
     "fabrizio romano rules out move for 'extraordinary' arsenal laliga target",
@@ -2369,7 +2367,9 @@
     "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f manchester city are back in talks with everton for iliman ndiaye, as reve",
     "\ud83d\udea8 \u26aa\ufe0f valencia reach verbal agreement to sign harvey elliott from liverpool, here",
     "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f arsenal have made official club to club approach with olympique lyon for ",
-    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f more on malick fofana: arsenal are not willing to match \u20ac40m valuation, o"
+    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f more on malick fofana: arsenal are not willing to match \u20ac40m valuation, o",
+    "atalanta: ahanor on loan to crystal palace, then he will belong to chelsea: the ",
+    "liverpool latest: virgil van dijk speaks out about bradley barcola as 'talks con"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2668,13 +2668,13 @@
     "djylian n'guessan": "https://r2.thesportsdb.com/images/media/player/cutout/yczqu01748684871.png/small",
     "mirza catovic": "https://images.fotmob.com/image_resources/playerimages/1700267.png",
     "robinio vaz": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Vaz_asse_om_cdf_2024.png/330px-Vaz_asse_om_cdf_2024.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "dinis": "",
     "harvey elliott": "https://r2.thesportsdb.com/images/media/player/cutout/cqkvsj1756984276.png/small",
     "mikael baza": "",
     "malick fofana": "https://r2.thesportsdb.com/images/media/player/cutout/vca9wj1766146326.png/small",
-    "vuk pavicevic": ""
+    "vuk pavicevic": "",
+    "dinis": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

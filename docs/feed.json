@@ -1,5 +1,29 @@
 [
  {
+  "id": "8cc10d14b247e037789e9b88d1004bd4",
+  "ts": "2026-08-31T07:15:32+00:00",
+  "kind": "interest",
+  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/guakb31766824614.png/small",
+  "stage": "\u2014",
+  "player": "Nick Woltemade",
+  "position": "\u2014",
+  "age": "\u2014",
+  "from_club": "Newcastle United",
+  "to_club": "Napoli, Juventus",
+  "fee": "\u2014",
+  "style": "Pacey winger with direct running style and defensive work rate who can play across the front line.",
+  "fit": "Would provide Newcastle with a dynamic attacking option on loan to strengthen depth and competition in wide positions.",
+  "source": "Fabrizio Romano",
+  "sources": [
+   "Fabrizio Romano"
+  ],
+  "srcTier": "tier1",
+  "summary": "Juventus are in active talks to sign Nick Woltemade on loan from Newcastle, with the player keen on the move as Juve seek a new striker following Jonathan David's departure.",
+  "outlet": "Telegram @fabrizioromanotg",
+  "url": "https://t.me/FabrizioRomanoTG/65698",
+  "title": "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f Juventus remain in active talks for Nick Woltemade on loan from Newcastle with player keen on move. Joshua Zirkz"
+ },
+ {
   "id": "tg:FabrizioRomanoTG/65568",
   "ts": "2026-08-31T07:00:49+00:00",
   "kind": "deal",
@@ -917,30 +941,6 @@
   "outlet": "Telegram @fabrizioromanotg",
   "url": "https://t.me/FabrizioRomanoTG/65482",
   "title": "\ud83d\udea8 \ud83c\udde8\ud83c\udded Servette FC have completed deal to sign David Datro Fofana from Chelsea on a permanent move. \u20ac2.5m fee plus \u20ac1m add"
- },
- {
-  "id": "8cc10d14b247e037789e9b88d1004bd4",
-  "ts": "2026-08-28T05:30:33+00:00",
-  "kind": "interest",
-  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/guakb31766824614.png/small",
-  "stage": "\u2014",
-  "player": "Nick Woltemade",
-  "position": "\u2014",
-  "age": "\u2014",
-  "from_club": "Newcastle United",
-  "to_club": "Napoli",
-  "fee": "\u2014",
-  "style": "Pacey winger with direct running style and defensive work rate who can play across the front line.",
-  "fit": "Would provide Newcastle with a dynamic attacking option on loan to strengthen depth and competition in wide positions.",
-  "source": "Fabrizio Romano",
-  "sources": [
-   "Fabrizio Romano"
-  ],
-  "srcTier": "tier1",
-  "summary": "Napoli has made contact with Newcastle United regarding a loan move for Nick Woltemade, a \u00a369M player.",
-  "outlet": "givemesport",
-  "url": "https://www.givemesport.com/fabrizio-romano-napoli-contact-newcastle-woltemade-loan/",
-  "title": "Fabrizio Romano: Napoli in Contact With Newcastle Over Loan For \u00a369M Star"
  },
  {
   "id": "25e5a72ccbf0c6527f218a41577a9db4",

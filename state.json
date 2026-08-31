@@ -1,7 +1,5 @@
 {
   "sent": [
-    "77a3df79a9af82c9ece55b4fb746314a",
-    "31e06f158e11c334401fd0bd524bdabc",
     "3d1f12e35777144a3faccbf02cb7b5f6",
     "ac737d56fb19a44041314a8c36a27ede",
     "3c9d0118532e1ac82dff2af788049e59",
@@ -1499,7 +1497,9 @@
     "tg:FabrizioRomanoTG/65752",
     "tg:FabrizioRomanoTG/65755",
     "d138824c1da4fef03330e831ecd3c6fe",
-    "808feebf16343ad7948b27b91da74c9c"
+    "808feebf16343ad7948b27b91da74c9c",
+    "f93754b3881d8731f5fa7f167f17f4c5",
+    "tg:FabrizioRomanoTG/65763"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2068,8 +2068,6 @@
     "interest: pulisic -> tottenham"
   ],
   "titles": [
-    "manchester united deal agreed with left back transfer in the works before deadli",
-    "man utd news: left back transfer priority switches as chelsea star offered",
     "\ud83d\udea8 \u26ab\ufe0f \ud83d\udd35 franck kessie returns to atalanta after leaving al ahli and talks collaps",
     "\ud83d\udea8 \ud83c\uddf8\ud83c\uddf3 pape matar sarr has been offered to juventus as midfield option after kessi",
     "psg still targeting young striker despite montpellier stance",
@@ -2367,7 +2365,9 @@
     "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f juventus are in direct talks with nico tagliafico\u2019s camp over possible m",
     "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f napoli have agreed deal to sign 21 year old striker dinis from sion as in",
     "seven transfers liverpool can complete before deadline as barcola joins and \u00a385m",
-    "rafael leao\u2019s ac milan to galatasaray fee and salary officially revealed as amor"
+    "rafael leao\u2019s ac milan to galatasaray fee and salary officially revealed as amor",
+    "liverpool news: virgil van dijk gives verdict on bradley barcola as talks ongoin",
+    "\ud83d\udea8 \ud83d\udca3 official: liverpool have decided to keep cody gakpo at the club as they can\u2019"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2668,11 +2668,11 @@
     "djylian n'guessan": "https://r2.thesportsdb.com/images/media/player/cutout/yczqu01748684871.png/small",
     "mirza catovic": "https://images.fotmob.com/image_resources/playerimages/1700267.png",
     "robinio vaz": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Vaz_asse_om_cdf_2024.png/330px-Vaz_asse_om_cdf_2024.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "vuk pavicevic": "",
     "dinis": "",
-    "mikael baza": ""
+    "mikael baza": "",
+    "vuk pavicevic": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

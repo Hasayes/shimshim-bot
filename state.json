@@ -1,6 +1,5 @@
 {
   "sent": [
-    "b568a02fb25fe4906bd87e0428c44ee9",
     "tg:FabrizioRomanoTG/64941",
     "tg:FabrizioRomanoTG/64942",
     "84e0c0453d251914b921fa0149a2ee81",
@@ -1499,7 +1498,8 @@
     "tg:FabrizioRomanoTG/65689",
     "331b5570d57ac93322723cfaf39912a1",
     "36d83b80acb2ab98ab1744dcc17a850e",
-    "83d2f6b4a5fbf8027606122d5bc9923c"
+    "83d2f6b4a5fbf8027606122d5bc9923c",
+    "tg:FabrizioRomanoTG/65690"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1801,7 +1801,8 @@
     "ahanor -> crystal palace": 1,
     "beto -> fiorentina": 1,
     "souza -> fc porto": 1,
-    "massolin -> cagliari": 2
+    "massolin -> cagliari": 2,
+    "moore -> fc koln": 1
   },
   "interest": [
     "interest: alvarez -> arsenal",
@@ -2053,7 +2054,6 @@
     "interest: dimarco -> barcelona"
   ],
   "titles": [
-    "man utd reach decision on selling marcus rashford with euro giants to make 'offe",
     "man utd stance on signing \u00a334m star surfaces with interested confirmed as romano",
     "gabriel martinelli nears al hilal move as arsenal close in on record sale",
     "man united on red alert as alejandro balde sent fresh barcelona message in surpr",
@@ -2352,7 +2352,8 @@
     "transfer: two players leave arsenal on sunday",
     "\ud83d\udea8 \ud83c\udde6\ud83c\uddf7 alexis mac allister\u2019s father carlos: \u201calexis is not thinking of leaving liv",
     "florian wirtz confirms talks with jurgen klopp ahead of germany\u2019s nations league",
-    "aston villa eye \u00a355m double swoop as fabrizio romano confirms verbal agreement f"
+    "aston villa eye \u00a355m double swoop as fabrizio romano confirms verbal agreement f",
+    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f excl: fc koln have closed the agreement with tottenham to sign mikey moor"
   ],
   "tg_update_offset": 263617426,
   "photos": {

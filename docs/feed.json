@@ -1,5 +1,29 @@
 [
  {
+  "id": "tg:FabrizioRomanoTG/65690",
+  "ts": "2026-08-31T06:00:47+00:00",
+  "kind": "deal",
+  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/5vwygx1777017074.png/small",
+  "stage": "Here we go",
+  "player": "Mikey Moore",
+  "position": "\u2014",
+  "age": "\u2014",
+  "from_club": "Tottenham Hotspur",
+  "to_club": "FC K\u00f6ln",
+  "fee": "\u2014",
+  "style": "\u2014",
+  "fit": "\u2014",
+  "source": "Fabrizio Romano",
+  "sources": [
+   "Fabrizio Romano"
+  ],
+  "srcTier": "tier1",
+  "summary": "FC K\u00f6ln have closed agreement with Tottenham to sign Mikey Moore on a straight loan with no buy option, returning to Spurs in June 2027.",
+  "outlet": "Telegram @fabrizioromanotg",
+  "url": "https://t.me/FabrizioRomanoTG/65690",
+  "title": "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f EXCL: FC K\u00f6ln have closed the agreement with Tottenham to sign Mikey Moore, here we go! Deal in place on straight"
+ },
+ {
   "id": "12cd4b0c20bc61602767eb34b4faef03",
   "ts": "2026-08-31T04:45:44+00:00",
   "kind": "interest",

@@ -1,9 +1,5 @@
 {
   "sent": [
-    "d14ee7bd5e5306a4329204c7650c4767",
-    "3fda1e870fc4e8c7f9780bfec12c576d",
-    "5541f698707d550eafb65a1bab96db1e",
-    "76dbadcbee19fd82a141a6e9787dbd3e",
     "6fc4cf5be34395101bdefeb09a1a7168",
     "tg:FabrizioRomanoTG/64996",
     "tg:FabrizioRomanoTG/64997",
@@ -1499,7 +1495,11 @@
     "b9ffef03f303307bb933e959e8400bb8",
     "tg:FabrizioRomanoTG/65802",
     "tg:FabrizioRomanoTG/65803",
-    "tg:FabrizioRomanoTG/65804"
+    "tg:FabrizioRomanoTG/65804",
+    "313b0df2af81a37451f6e8152242afdf",
+    "1832170e3ea3c7cb208d8ef79eabfe7d",
+    "6ee43d134525d8d6d89ead75b8449ffa",
+    "91847662405511ddeed553e6aa272d99"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1811,7 +1811,7 @@
     "s\u00f8rensen -> celtic": 1,
     "monga -> swansea": 1,
     "n'guessan -> liverpool": 1,
-    "catovic -> barcelona": 1,
+    "catovic -> barcelona": 2,
     "david -> atletico madrid": 1,
     "vaz -> hull city": 1,
     "dinis -> napoli": 1,
@@ -1820,7 +1820,8 @@
     "woltemade -> juventus": 1,
     "doue -> bayer leverkusen": 1,
     "moore -> 1 fc koln": 2,
-    "adarabioyo -> tottenham": 1
+    "adarabioyo -> tottenham": 1,
+    "bajcetic -> celta vigo": 1
   },
   "interest": [
     "interest: alvarez -> arsenal",
@@ -2078,9 +2079,6 @@
     "interest: mudryk -> tottenham"
   ],
   "titles": [
-    "arsenal chances of signing julian alvarez rated as atletico madrid set new deadl",
-    "\ud83d\udea8 \u26aa\ufe0f \ud83d\udd34 rb leipzig reach verbal agreement with as roma to sign neil el aynaoui, h",
-    "fofana waits for roma, talks with chelsea for gittens continue",
     "\ud83d\udea8 \u26aa\ufe0f \ud83d\udd35 breaking: fc porto reach verbal agreement to sign santi gimenez from ac m",
     "david ornstein drops significant julian alvarez transfer update after talks with",
     "liverpool: fabrizio romano says cody gakpo final decision today after 'meetings'",
@@ -2377,11 +2375,13 @@
     "liverpool agree huge future \u20ac35m move for goalkeeper wonderkid",
     "\ud83d\udd35 \ud83d\udd34 \ud83c\udf7f barcelona beat rayo with lamine and raphinha\u2019s braces! who\u2019s been your man",
     "\ud83d\udea8 \u26aa\ufe0f tosin adarabioyo to tottenham, here we go! deal agreed also on personal ter",
-    "\ud83d\udea8 \u26aa\ufe0f breaking: mykhaylo mudryk to tottenham, here we go! everything agreed also "
+    "\ud83d\udea8 \u26aa\ufe0f breaking: mykhaylo mudryk to tottenham, here we go! everything agreed also ",
+    "report: liverpool midfielder set to leave in bargain deal",
+    "at the decisive moments: barcelona seal a new signing from the bundesliga",
+    "man utd turn down \u00a326m offer with arsenal target \u2018waiting\u2019 to join as replacemen"
   ],
   "tg_update_offset": 263617426,
   "photos": {
-    "jakub kiwior": "https://r2.thesportsdb.com/images/media/player/cutout/s9vp9d1694204099.png/small",
     "manuel akanji": "https://r2.thesportsdb.com/images/media/player/cutout/k7o5oh1759408095.png/small",
     "rasmus h\u00f8jlund": "https://r2.thesportsdb.com/images/media/player/cutout/jop7ho1762288170.png/small",
     "rodri": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Rodri_France_v_Spain_7.24.26-096_%28cropped%29.jpg/330px-Rodri_France_v_Spain_7.24.26-096_%28cropped%29.jpg",
@@ -2677,12 +2677,13 @@
     "tosin": "https://www.thesportsdb.com/images/media/player/cutout/vfg1pr1787690891.png/small",
     "mykhaylo mudryk": "https://images.fotmob.com/image_resources/playerimages/976506.png",
     "guela doue": "https://r2.thesportsdb.com/images/media/player/cutout/l18qe01766402363.png/small",
-    "mikael baza": "",
     "vuk pavicevic": "",
     "tosin adarabioyo": "https://www.thesportsdb.com/images/media/player/cutout/vfg1pr1787690891.png/small",
-    "dinis": ""
+    "dinis": "",
+    "stefan bajcetic": "https://r2.thesportsdb.com/images/media/player/cutout/yf8zmo1735799860.png/small",
+    "mikael baza": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

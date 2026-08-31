@@ -1,5 +1,54 @@
 [
  {
+  "id": "tg:FabrizioRomanoTG/65725",
+  "ts": "2026-08-31T22:00:51+00:00",
+  "kind": "deal",
+  "photo": "https://images.fotmob.com/image_resources/playerimages/1700267.png",
+  "stage": "Completed",
+  "player": "Mirza Catovic",
+  "position": "Midfielder",
+  "age": "19",
+  "from_club": "Stuttgart",
+  "to_club": "Barcelona",
+  "fee": "Loan",
+  "style": "Energetic central midfielder with strong pressing and ball-carrying abilities in the Bundesliga.",
+  "fit": "Can provide midfield depth and creative support in Barcelona's possession-based system while developing further.",
+  "source": "yardbarker",
+  "sources": [
+   "Fabrizio Romano",
+   "yardbarker"
+  ],
+  "srcTier": "tier1",
+  "summary": "Barcelona have completed the signing of young German midfielder Mirza Catovic on loan from Stuttgart.",
+  "outlet": "yardbarker",
+  "url": "https://www.yardbarker.com/soccer/articles/at_the_decisive_moments_barcelona_seal_a_new_signing_from_the_bundesliga/s1_17790_44241074",
+  "title": "At the decisive moments: Barcelona seal a new signing from the Bundesliga"
+ },
+ {
+  "id": "313b0df2af81a37451f6e8152242afdf",
+  "ts": "2026-08-31T22:00:46+00:00",
+  "kind": "deal",
+  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/yf8zmo1735799860.png/small",
+  "stage": "Here we go",
+  "player": "Stefan Bajcetic",
+  "position": "midfielder",
+  "age": "\u2014",
+  "from_club": "Liverpool",
+  "to_club": "Celta Vigo",
+  "fee": "\u2014",
+  "style": "Technically gifted midfielder with good ball progression and press resistance, though limited in physicality and game-changing impact.",
+  "fit": "Deploy as a rotational or backup option in midfield to provide depth and maintain possession in lower-intensity matches.",
+  "source": "yahoo",
+  "sources": [
+   "yahoo"
+  ],
+  "srcTier": "standard",
+  "summary": "Liverpool have agreed a permanent transfer of midfielder Stefan Bajcetic to Celta Vigo in a carefully structured deal to provide him regular football.",
+  "outlet": "yahoo",
+  "url": "https://ca.sports.yahoo.com/news/report-liverpool-midfielder-set-leave-095500816.html",
+  "title": "Report: Liverpool midfielder set to leave in bargain deal"
+ },
+ {
   "id": "tg:FabrizioRomanoTG/65803",
   "ts": "2026-08-31T21:45:39+00:00",
   "kind": "deal",
@@ -410,30 +459,6 @@
    "Fabrizio Romano"
   ],
   "srcTier": "tier1"
- },
- {
-  "id": "tg:FabrizioRomanoTG/65725",
-  "ts": "2026-08-31T11:30:44+00:00",
-  "kind": "deal",
-  "photo": "https://images.fotmob.com/image_resources/playerimages/1700267.png",
-  "stage": "Here we go",
-  "player": "Mirza Catovic",
-  "position": "Midfielder",
-  "age": "19",
-  "from_club": "Stuttgart",
-  "to_club": "Barcelona",
-  "fee": "Loan with buy option",
-  "style": "Dynamic midfielder with technical ability and pressing intensity; develops play through intelligent positioning and ball progression.",
-  "fit": "Deploy as a central midfield cornerstone for Barcelona Atletic to build experience in La Liga while developing the passing range and tactical awareness needed for eventual first-team integration.",
-  "source": "Fabrizio Romano",
-  "sources": [
-   "Fabrizio Romano"
-  ],
-  "srcTier": "tier1",
-  "summary": "Barcelona have agreed a deal to sign 19-year-old midfielder Mirza Catovic from Stuttgart on an initial loan with a buy option clause. The German talent joins Barcelona Atletic and travels to Barcelona today.",
-  "outlet": "Telegram @fabrizioromanotg",
-  "url": "https://t.me/FabrizioRomanoTG/65725",
-  "title": "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 Barcelona have agreed deal to sign 19 year old talented midfielder Mirza Catovic, here we go! German talent joins "
  },
  {
   "id": "tg:FabrizioRomanoTG/65720",

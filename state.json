@@ -1,8 +1,5 @@
 {
   "sent": [
-    "764401f333214e9bef92b952474c9165",
-    "ee136f204ec5df1f9e6744726953dbca",
-    "ef473a5a67f326bfe51d24b5e2668d10",
     "72bba66cedb22c2c7cc2d2bdc1ef94fa",
     "ca2daa610a6ee1507d9327888c9ddea3",
     "e1501c629fe65cde60525577b7e5655a",
@@ -1499,7 +1496,10 @@
     "0159399e66df012abfac17e32a78ee14",
     "cf7eb4ee55cf722a5fc95571c03ba9ee",
     "tg:FabrizioRomanoTG/65712",
-    "tg:FabrizioRomanoTG/65713"
+    "tg:FabrizioRomanoTG/65713",
+    "8cb24a582166c517af64fa30c1c8b97a",
+    "04a8a9b3e508e6ef1ef62049adf99751",
+    "tg:FabrizioRomanoTG/65714"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2060,8 +2060,6 @@
     "interest: pulisic -> tottenham"
   ],
   "titles": [
-    "report hutchinson targeted by milan after nottingham forest struggle",
-    "romano reveals chelsea transfer \u2018here we go\u2019 after \u2018secret talks\u2019 as camara stan",
     "\ud83d\udea8 \ud83c\udde6\ud83c\uddf7 enzo fernandez has a verbal agreement with manchester city on personal term",
     "ac milan enquire about nottingham forest\u2019s omari hutchinson",
     "liverpool's 'fantastic' attacker in 'advanced' talks over exit amid barcola agre",
@@ -2359,7 +2357,9 @@
     "arsenal put on red alert as atletico madrid bid for julian alvarez replacement",
     "arsenal put on red alert as atletico madrid 'bid' for julian alvarez replacement",
     "\ud83d\udea8 \ud83d\udfe3 fiorentina have agreed a loan deal to sign willy gnonto from leeds united, h",
-    "\ud83d\udea8 \ud83c\uddf9\ud83c\uddf7 corum fk have agreed deal to sign youssoufa moukoko from copenhagen, here w"
+    "\ud83d\udea8 \ud83c\uddf9\ud83c\uddf7 corum fk have agreed deal to sign youssoufa moukoko from copenhagen, here w",
+    "juventus agree personal terms with pape matar sarr as tottenham negotiate buy cl",
+    "\ud83d\udea8 \ud83c\udde7\ud83c\uddea alexis saelemaekers will not join atalanta or any other club in next 24h no"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2661,10 +2661,10 @@
     "federico dimarco": "https://r2.thesportsdb.com/images/media/player/cutout/0rhwx41759408849.png/small",
     "christian pulisic": "https://r2.thesportsdb.com/images/media/player/cutout/qwii9r1758893548.png/small",
     "youssouf fofana": "https://r2.thesportsdb.com/images/media/player/cutout/3npg7a1758892447.png/small",
-    "mikael baza": "",
-    "vuk pavicevic": ""
+    "vuk pavicevic": "",
+    "mikael baza": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

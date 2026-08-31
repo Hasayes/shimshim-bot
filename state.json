@@ -1,6 +1,5 @@
 {
   "sent": [
-    "eed75800e3605eca8ff9886616b57a30",
     "6b7a0076d74eb461dcdf3ec77577e654",
     "65e7b2a9963237ff72086ef21fdc6ec3",
     "b3a5f451762ed1ef306983b37f85d615",
@@ -1499,7 +1498,8 @@
     "tg:FabrizioRomanoTG/65718",
     "tg:FabrizioRomanoTG/65719",
     "tg:FabrizioRomanoTG/65720",
-    "tg:FabrizioRomanoTG/65721"
+    "tg:FabrizioRomanoTG/65721",
+    "tg:FabrizioRomanoTG/65722"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2064,7 +2064,6 @@
     "interest: pulisic -> tottenham"
   ],
   "titles": [
-    "rt @fabrizioromano : \ud83d\udea8 \ud83d\udca3 breaking: liverpool reach verbal agreement to sign brad",
     "\ud83d\udea8 \ud83d\udd34 liverpool have booked a medical for bradley barcola on sunday, then he will ",
     "\ud83d\udea8 \ud83d\udfe3 \ud83d\udd35 ibrahim mbaye will undergo first part of medical at aston villa today befo",
     "\u2018new\u2019 liverpool \u2018proposal\u2019 for senegalese star imminent as midfielder tells ando",
@@ -2363,7 +2362,8 @@
     "\ud83d\udea8 \ud83d\udfe2 \u26aa\ufe0f oliver s\u00f8rensen leaves parma and joins celtic on initial loan deal with b",
     "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f exclusive: swansea agree deal to sign jeremy monga from manchester city,",
     "\ud83d\udea8 \ud83d\udd34 liverpool agree deal to sign djylian n'guessan from saint etienne, here we g",
-    "\ud83d\udea8 \ud83d\udd35 chelsea made contact with manu kone agents as one of the options for late mi"
+    "\ud83d\udea8 \ud83d\udd35 chelsea made contact with manu kone agents as one of the options for late mi",
+    "\ud83d\udfe3 \ud83d\udd35 aston villa consider ian maatsen as key player; untouchable and he will not "
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2664,11 +2664,11 @@
     "diego carlos": "https://r2.thesportsdb.com/images/media/player/cutout/u0hz4n1764278170.png/small",
     "oliver s\u00f8rensen": "https://r2.thesportsdb.com/images/media/player/cutout/kwsz361759780896.png/small",
     "jeremy monga": "https://r2.thesportsdb.com/images/media/player/cutout/6sdxxj1761861667.png/small",
-    "vuk pavicevic": "",
     "djylian n'guessan": "https://r2.thesportsdb.com/images/media/player/cutout/yczqu01748684871.png/small",
-    "mikael baza": ""
+    "mikael baza": "",
+    "vuk pavicevic": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

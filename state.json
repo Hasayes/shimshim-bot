@@ -1,7 +1,5 @@
 {
   "sent": [
-    "a1527214361deacc90e54edf6337cc0f",
-    "tg:FabrizioRomanoTG/64957",
     "741d6d95509347fd05dc087f02b9c47e",
     "0e676ff91735ced33430da01af3959d5",
     "0e64b25e962a1750baf6488f8317b70f",
@@ -1499,7 +1497,9 @@
     "tg:FabrizioRomanoTG/65774",
     "tg:FabrizioRomanoTG/65775",
     "tg:FabrizioRomanoTG/65777",
-    "tg:FabrizioRomanoTG/65778"
+    "tg:FabrizioRomanoTG/65778",
+    "6bc37de3f1ad74a331508c8ba350f244",
+    "tg:FabrizioRomanoTG/65779"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1794,7 +1794,7 @@
     "scanlon -> arsenal": 2,
     "ndiaye -> tottenham": 1,
     "gimenez -> fc porto": 2,
-    "jesus -> barcelona": 1,
+    "jesus -> barcelona": 2,
     "aynaoui -> leipzig": 2,
     "roon -> roma": 1,
     "richarlison -> tottenham": 1,
@@ -1815,7 +1815,8 @@
     "david -> atletico madrid": 1,
     "vaz -> hull city": 1,
     "dinis -> napoli": 1,
-    "elliott -> valencia": 1
+    "elliott -> valencia": 1,
+    "ndiaye -> manchester city": 1
   },
   "interest": [
     "interest: alvarez -> arsenal",
@@ -2073,8 +2074,6 @@
     "interest: mudryk -> tottenham"
   ],
   "titles": [
-    "\ud83d\udea8 \u26ab\ufe0f \u26aa\ufe0f juventus ceo carnevali: \u201cwe thought we were in a good position to sign k",
-    "\ud83d\udea8 \ud83c\udde8\ud83c\udde6 juventus ceo carnevali on jonathan david: \u201cin my view, all players can be u",
     "fernandez reaches verbal agreement with man city",
     "chelsea reach \u2018agreement\u2019 to sign midfielder, \u2018medical examination\u2019 imminent \u2013 r",
     "chelsea reach agreement for enzo fernandez replacement with medical expected wit",
@@ -2372,7 +2371,9 @@
     "\ud83d\udea8 \ud83d\udca3 breaking: manchester city have now made official club to club approach with ",
     "\ud83d\udea8 \u26ab\ufe0f \u26aa\ufe0f andrei ratiu, very disappointed and hurt by rayo stance as he wants fulh",
     "\ud83d\udea8 \u26aa\ufe0f tottenham are ready to buy tosin on permanent deal from chelsea if they can",
-    "\ud83d\udea8 \u26aa\ufe0f breaking: mykhaylo mudryk says yes to tottenham move as he wants to work un"
+    "\ud83d\udea8 \u26aa\ufe0f breaking: mykhaylo mudryk says yes to tottenham move as he wants to work un",
+    "full financial details of gabriel jesus\u2019 barcelona transfer \u2013 romano",
+    "\ud83d\udea8 \u26aa\ufe0f \ud83d\udd35 breaking: manchester city agree deal to sign iliman ndiaye from everton, "
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2671,13 +2672,13 @@
     "robinio vaz": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Vaz_asse_om_cdf_2024.png/330px-Vaz_asse_om_cdf_2024.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "harvey elliott": "https://r2.thesportsdb.com/images/media/player/cutout/cqkvsj1756984276.png/small",
     "malick fofana": "https://r2.thesportsdb.com/images/media/player/cutout/vca9wj1766146326.png/small",
-    "vuk pavicevic": "",
     "dinis": "",
     "tosin": "https://www.thesportsdb.com/images/media/player/cutout/vfg1pr1787690891.png/small",
     "mykhaylo mudryk": "https://images.fotmob.com/image_resources/playerimages/976506.png",
-    "mikael baza": ""
+    "mikael baza": "",
+    "vuk pavicevic": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

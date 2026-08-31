@@ -1,5 +1,54 @@
 [
  {
+  "id": "tg:FabrizioRomanoTG/65779",
+  "ts": "2026-08-31T18:30:44+00:00",
+  "kind": "deal",
+  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/rten2t1756977078.png/small",
+  "stage": "Here we go",
+  "player": "Iliman Ndiaye",
+  "position": "\u2014",
+  "age": "\u2014",
+  "from_club": "Everton",
+  "to_club": "Manchester City",
+  "fee": "\u00a365m",
+  "style": "Dynamic and versatile winger with sharp dribbling skills and the ability to play across the front line with pressing intensity.",
+  "fit": "Deploy as a wide attacker in City's system to provide directness and creativity while maintaining high defensive work rate in the pressing game.",
+  "source": "Fabrizio Romano",
+  "sources": [
+   "Fabrizio Romano"
+  ],
+  "srcTier": "tier1",
+  "summary": "Manchester City have agreed a deal to sign Iliman Ndiaye from Everton for a \u00a365m package with personal terms in place and medical tests green-lit.",
+  "outlet": "Telegram @fabrizioromanotg",
+  "url": "https://t.me/FabrizioRomanoTG/65779",
+  "title": "\ud83d\udea8 \u26aa\ufe0f \ud83d\udd35 BREAKING: Manchester City agree deal to sign Iliman Ndiaye from Everton, here we go! Club to club agreement in pl"
+ },
+ {
+  "id": "6959df4889706a9ce3465653085171ab",
+  "ts": "2026-08-31T18:30:39+00:00",
+  "kind": "deal",
+  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/rwsqi51769330458.png/small",
+  "stage": "Completed",
+  "player": "Gabriel Jesus",
+  "position": "Striker",
+  "age": "\u2014",
+  "from_club": "Arsenal",
+  "to_club": "Barcelona",
+  "fee": "\u20ac10 million",
+  "style": "Energetic, physically aggressive striker who combines pace and positioning to press defenders and create space for teammates.",
+  "fit": "Deploy as a high-pressing forward or secondary striker to complement Barcelona's attacking setup and add intensity to transitions.",
+  "source": "Fabrizio Romano",
+  "sources": [
+   "Yahoo Sports",
+   "Fabrizio Romano"
+  ],
+  "srcTier": "tier1",
+  "summary": "Barcelona have completed the signing of Arsenal striker Gabriel Jesus for approximately \u20ac10 million.",
+  "outlet": "yahoo",
+  "url": "https://sports.yahoo.com/articles/full-financial-details-gabriel-jesus-062000615.html",
+  "title": "Full financial details of Gabriel Jesus\u2019 Barcelona transfer \u2013 Romano"
+ },
+ {
   "id": "tg:FabrizioRomanoTG/65778",
   "ts": "2026-08-31T18:15:49+00:00",
   "kind": "interest",
@@ -719,31 +768,6 @@
   "outlet": "Telegram @fabrizioromanotg",
   "url": "https://t.me/FabrizioRomanoTG/65644",
   "title": "\ud83d\udd35 \u26aa\ufe0f \ud83d\udc4b\ud83c\udffc After Gabriel Jesus, also Gabriel Martinelli leaves Arsenal and joins Al Hilal. The exclusive story revealed two"
- },
- {
-  "id": "6959df4889706a9ce3465653085171ab",
-  "ts": "2026-08-30T12:45:37+00:00",
-  "kind": "deal",
-  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/rwsqi51769330458.png/small",
-  "stage": "Here we go",
-  "player": "Gabriel Jesus",
-  "position": "Forward",
-  "age": "\u2014",
-  "from_club": "Arsenal",
-  "to_club": "Barcelona",
-  "fee": "\u20ac10m plus add-ons",
-  "style": "Energetic forward with strong pressing, good movement in the box, and solid link-up play connecting midfield to attack.",
-  "fit": "Deploy as a dynamic attacking partner or lone striker to inject intensity into Barcelona's press and provide alternative finishing options.",
-  "source": "Fabrizio Romano",
-  "sources": [
-   "Yahoo Sports",
-   "Fabrizio Romano"
-  ],
-  "srcTier": "tier1",
-  "summary": "Barcelona have agreed a deal to sign Gabriel Jesus from Arsenal for a \u20ac10m package plus add-ons. Jesus' medical is booked for Monday.",
-  "outlet": "Telegram @fabrizioromanotg",
-  "url": "https://t.me/FabrizioRomanoTG/65636",
-  "title": "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 BREAKING: Barcelona agree deal to sign Gabriel Jesus from Arsenal, here we go! Exclusive details: medical booked o"
  },
  {
   "id": "b8704a8b551990e2ad34d6eed79cfff3",

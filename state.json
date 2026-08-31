@@ -1,13 +1,5 @@
 {
   "sent": [
-    "dad09817b9c32eda480297f7e8df7e4b",
-    "tg:FabrizioRomanoTG/64994",
-    "8184bfc1cab8b02e9d3c4f1064ea1162",
-    "eac1abf7b33f0ffdac09844ab7751473",
-    "c7a242b94416c2f8d7e33cf69e8694d3",
-    "bc76f15726ff2aaa965c6debdfd2562e",
-    "1a92aa38c2e890e1c206466e7adf05fd",
-    "tg:FabrizioRomanoTG/64995",
     "d14ee7bd5e5306a4329204c7650c4767",
     "3fda1e870fc4e8c7f9780bfec12c576d",
     "5541f698707d550eafb65a1bab96db1e",
@@ -1499,7 +1491,15 @@
     "16b474e79761a5205d51ac56a6ec2564",
     "a8d7bc95dc52605d28b57720382e4e8f",
     "ed1706f66ecf87a673a7f42624713d0c",
-    "15eca868e229f7375b4881ddba774a94"
+    "15eca868e229f7375b4881ddba774a94",
+    "f9dcbbe8d2186286496dccf9f4f2ce09",
+    "ab62e282929ccdd73dd5cc9b388bbe6a",
+    "2e78cf08044c888c0d04ca0a15ddab37",
+    "c8c001e953b11686324738b46069d9ba",
+    "b9ffef03f303307bb933e959e8400bb8",
+    "tg:FabrizioRomanoTG/65802",
+    "tg:FabrizioRomanoTG/65803",
+    "tg:FabrizioRomanoTG/65804"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1819,7 +1819,8 @@
     "ndiaye -> manchester city": 1,
     "woltemade -> juventus": 1,
     "doue -> bayer leverkusen": 1,
-    "moore -> 1 fc koln": 2
+    "moore -> 1 fc koln": 2,
+    "adarabioyo -> tottenham": 1
   },
   "interest": [
     "interest: alvarez -> arsenal",
@@ -2077,13 +2078,6 @@
     "interest: mudryk -> tottenham"
   ],
   "titles": [
-    "fabrizio romano: man city in talks to hijack move for 'underrated' liverpool sta",
-    "ornstein on alvarez latest: 'he's spoken to arteta, he doesn't want to come'",
-    "\ud83d\udea8 \ud83d\udfe1 \ud83d\udd34 as roma reach verbal agreement to sign marten de roon from atalanta, here ",
-    "newcastle star wants exit but euro giants\u2019 proposal could leave magpies unimpres",
-    "man utd have just enquired about signing aston villa left back",
-    "\u2018done deal!\u2019 \u2013 ornstein explains details behind barcola liverpool transfer",
-    "transfer updates: alvarez, rashford, camara, mbaye, elliott, others",
     "arsenal chances of signing julian alvarez rated as atletico madrid set new deadl",
     "\ud83d\udea8 \u26aa\ufe0f \ud83d\udd34 rb leipzig reach verbal agreement with as roma to sign neil el aynaoui, h",
     "fofana waits for roma, talks with chelsea for gittens continue",
@@ -2376,11 +2370,17 @@
     "hull city 'reach verbal agreement' to sign robinio vaz from roma as buy option f",
     "atletico madrid submit formal offer for juventus striker david",
     "transfer news: latest on arsenal target alvarez as spurs trio near departure",
-    "here we go: barcelona reach agreement to sign 16 year old german defensive prodi"
+    "here we go: barcelona reach agreement to sign 16 year old german defensive prodi",
+    "fabrizio romano confirms two more tottenham transfers after pape sarr \u2013 \u2018here we",
+    "juventus make approach for woltemade as dortmund weigh move",
+    "barcelona sign 16 year old defender mikael baza from hsv hamburg",
+    "liverpool agree huge future \u20ac35m move for goalkeeper wonderkid",
+    "\ud83d\udd35 \ud83d\udd34 \ud83c\udf7f barcelona beat rayo with lamine and raphinha\u2019s braces! who\u2019s been your man",
+    "\ud83d\udea8 \u26aa\ufe0f tosin adarabioyo to tottenham, here we go! deal agreed also on personal ter",
+    "\ud83d\udea8 \u26aa\ufe0f breaking: mykhaylo mudryk to tottenham, here we go! everything agreed also "
   ],
   "tg_update_offset": 263617426,
   "photos": {
-    "jeremie boga": "https://r2.thesportsdb.com/images/media/player/cutout/9dndpt1776674931.png/small",
     "jakub kiwior": "https://r2.thesportsdb.com/images/media/player/cutout/s9vp9d1694204099.png/small",
     "manuel akanji": "https://r2.thesportsdb.com/images/media/player/cutout/k7o5oh1759408095.png/small",
     "rasmus h\u00f8jlund": "https://r2.thesportsdb.com/images/media/player/cutout/jop7ho1762288170.png/small",
@@ -2677,11 +2677,12 @@
     "tosin": "https://www.thesportsdb.com/images/media/player/cutout/vfg1pr1787690891.png/small",
     "mykhaylo mudryk": "https://images.fotmob.com/image_resources/playerimages/976506.png",
     "guela doue": "https://r2.thesportsdb.com/images/media/player/cutout/l18qe01766402363.png/small",
-    "dinis": "",
     "mikael baza": "",
-    "vuk pavicevic": ""
+    "vuk pavicevic": "",
+    "tosin adarabioyo": "https://www.thesportsdb.com/images/media/player/cutout/vfg1pr1787690891.png/small",
+    "dinis": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

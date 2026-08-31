@@ -1,6 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/64986",
     "tg:FabrizioRomanoTG/64987",
     "tg:FabrizioRomanoTG/64988",
     "a8b22b53704718d146066f4f9ad2fb34",
@@ -1499,7 +1498,8 @@
     "4a4c77cdb907c4b69d20e172dc7a91d0",
     "0323b14561261f4b4321fe7ba4e2a28c",
     "5999a42f608fb65327b56cc45ab6492c",
-    "765f404ce9f19378dd05b605501a72ba"
+    "765f404ce9f19378dd05b605501a72ba",
+    "0b8c5fc087fe3d506e8e0fdb82a382a9"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2077,7 +2077,6 @@
     "interest: mudryk -> tottenham"
   ],
   "titles": [
-    "rb leipzig close to finalizing deal for chelsea talent marc guiu",
     "'documents exchanged' fabrizio romano confirms date of bradley barcola's liverpo",
     "romano confirms man utd deal is done with fee revealed and documents \u2018signed\u2019",
     "fabrizio romano says \u201cchelsea are coming\u201d for midfielder signing, but what about",
@@ -2376,7 +2375,8 @@
     "liverpool facing humiliation as mac allister reaches decision on joining man cit",
     "juventus reach sarr agreement and renew zirkzee pursuit",
     "juventus push transfer reset with sarr agreement and renewed zirkzee pursuit",
-    "tottenham youngster given green light to join koln"
+    "tottenham youngster given green light to join koln",
+    "transfer news live arsenal striker gabriel jesus set for barcelona medical, isma"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2677,11 +2677,11 @@
     "tosin": "https://www.thesportsdb.com/images/media/player/cutout/vfg1pr1787690891.png/small",
     "mykhaylo mudryk": "https://images.fotmob.com/image_resources/playerimages/976506.png",
     "guela doue": "https://r2.thesportsdb.com/images/media/player/cutout/l18qe01766402363.png/small",
-    "dinis": "",
     "mikael baza": "",
-    "vuk pavicevic": ""
+    "vuk pavicevic": "",
+    "dinis": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

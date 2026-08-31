@@ -1,13 +1,5 @@
 {
   "sent": [
-    "512d528a2a5b47d27d787a474bce0991",
-    "670a51c6a606aab16bb622735e715734",
-    "efadde147bb9771c26841085a30f53f2",
-    "1439c6b38f60f8c5700835060f009496",
-    "7b689903355e372808943b04282e70f1",
-    "5b42fdee5f0f81693618a258892c46b0",
-    "cd53eb7aa4215b7c6c1c224789ae31d5",
-    "tg:FabrizioRomanoTG/65003",
     "38005c35cdfd5cf554371fd99b9e1071",
     "5e51016cb431eaef69452c801574689a",
     "19431859b1cef5e832470fd1a9a9ccd1",
@@ -1499,7 +1491,15 @@
     "bb505a79552578456d382daed0779f9f",
     "c4ebc6d7852ae2dfeca97b0b9135fafb",
     "acf9362f8332c86865fa7c8ad78d9dbc",
-    "4d116da9abf8ac31ce22950d4cd6bfc2"
+    "4d116da9abf8ac31ce22950d4cd6bfc2",
+    "8f3001af20c2a87ba95f7fd405f6c34a",
+    "87e86f7d364cf84596d136c82030e616",
+    "2089f29bc7ee23262d2be10fa4a18ae0",
+    "190e94db40c3244adb097f71de64ce68",
+    "a7430e2aa60add8e683113c255ae0897",
+    "cc4a864a3fffcd31c70f1b5dbfb56d0a",
+    "tg:FabrizioRomanoTG/65810",
+    "tg:FabrizioRomanoTG/65811"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2082,12 +2082,6 @@
     "interest: sanchez -> tottenham"
   ],
   "titles": [
-    "fabrizio romano reveals alejandro balde stance on joining man utd from barcelona",
-    "chelsea midfield signing set for medical in next 48 hours after blues agree fee ",
-    "arsenal fans all say the same thing as julian alvarez brutally snubs mikel artet",
-    "tfg take official social media action over harrison armstong exit talk at everto",
-    "\u201chere we go\u201d for new arsenal signing, medical scheduled for september 1st",
-    "arsenal beat liverpool to signing as fabrizio romano declares \u2018here we go\u2019",
     "done deal: balerdi set to join roma from marseille, paid loan with mandatory buy",
     "arsenal beat liverpool to signing as fabrizio romano declares \u2018here we go\u2019 teamt",
     "julain alvarez gives mikel arteta his answer amid arsenal transfer interest",
@@ -2381,7 +2375,13 @@
     "augsburg fend off werder in race for bayern youngster",
     "fabrizio romano confirms leeds \u2018here we go\u2019 for willy gnonto exit with \u00a362m repl",
     "breaking: bayern munich\u2019s arijon ibrahimovic set for loan with fc augsburg",
-    "alvarez's replacement has arrived: will atletico madrid let the argentine go?"
+    "alvarez's replacement has arrived: will atletico madrid let the argentine go?",
+    "fabrizio romano claims liverpool\u2019s \u2018favourite candidate\u2019 to replace gakpo wants ",
+    "chelsea make move for kone in case of enzo\u2019s exit",
+    "an exciting summer signing is set to be loaned out by manchester city",
+    "chelsea close in on \u00a340m teenage defensive sensation",
+    "\ud83d\udea8 \ud83d\udd35 exclusive: everton agree personal terms with folarin balogun on four year de",
+    "\ud83d\udcfa new youtube video uploaded! \ud83c\udfac \ud83d\udea8 \ud83d\udca3 crazy night! double deal done! \u00a375m! united:"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2680,13 +2680,13 @@
     "tosin adarabioyo": "https://www.thesportsdb.com/images/media/player/cutout/vfg1pr1787690891.png/small",
     "stefan bajcetic": "https://r2.thesportsdb.com/images/media/player/cutout/yf8zmo1735799860.png/small",
     "jack grealish": "https://r2.thesportsdb.com/images/media/player/cutout/7ckk5a1756976762.png/small",
-    "dinis": "",
     "robert sanchez": "https://www.thesportsdb.com/images/media/player/cutout/tp7tca1787691371.png/small",
     "arijon ibrahimovic": "https://images.fotmob.com/image_resources/playerimages/1327150.png",
     "mikael baza": "",
-    "vuk pavicevic": ""
+    "vuk pavicevic": "",
+    "dinis": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

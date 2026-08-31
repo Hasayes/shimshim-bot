@@ -1,5 +1,53 @@
 [
  {
+  "id": "tg:FabrizioRomanoTG/65719",
+  "ts": "2026-08-31T10:45:43+00:00",
+  "kind": "deal",
+  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/6sdxxj1761861667.png/small",
+  "stage": "Here we go",
+  "player": "Jeremy Monga",
+  "position": "Winger",
+  "age": "\u2014",
+  "from_club": "Manchester City",
+  "to_club": "Swansea",
+  "fee": "Loan",
+  "style": "\u2014",
+  "fit": "\u2014",
+  "source": "Fabrizio Romano",
+  "sources": [
+   "Fabrizio Romano"
+  ],
+  "srcTier": "tier1",
+  "summary": "Swansea have agreed a loan deal to sign winger Jeremy Monga from Manchester City with a verbal agreement in place. Monga will return to City in June 2027 with no buy clause.",
+  "outlet": "Telegram @fabrizioromanotg",
+  "url": "https://t.me/FabrizioRomanoTG/65719",
+  "title": "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f EXCLUSIVE: Swansea agree deal to sign Jeremy Monga from Manchester City, here we go! Verbal agreement in place o"
+ },
+ {
+  "id": "tg:FabrizioRomanoTG/65718",
+  "ts": "2026-08-31T10:45:36+00:00",
+  "kind": "deal",
+  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/kwsz361759780896.png/small",
+  "stage": "Here we go",
+  "player": "Oliver S\u00f8rensen",
+  "position": "\u2014",
+  "age": "\u2014",
+  "from_club": "Parma",
+  "to_club": "Celtic",
+  "fee": "\u2014",
+  "style": "\u2014",
+  "fit": "\u2014",
+  "source": "Fabrizio Romano",
+  "sources": [
+   "Fabrizio Romano"
+  ],
+  "srcTier": "tier1",
+  "summary": "Oliver S\u00f8rensen leaves Parma and joins Celtic on an initial loan deal with a buy option clause. Medical is underway.",
+  "outlet": "Telegram @fabrizioromanotg",
+  "url": "https://t.me/FabrizioRomanoTG/65718",
+  "title": "\ud83d\udea8 \ud83d\udfe2 \u26aa\ufe0f Oliver S\u00f8rensen leaves Parma and joins Celtic on initial loan deal with buy option clause. Medical underway, as @"
+ },
+ {
   "id": "0c36d3013b423c71da2038982f234514",
   "ts": "2026-08-31T10:15:35+00:00",
   "kind": "deal",

@@ -1,5 +1,29 @@
 [
  {
+  "id": "1f04d993e6ce0ab9b84b778efbb7cf66",
+  "ts": "2026-08-31T20:00:57+00:00",
+  "kind": "deal",
+  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/l18qe01766402363.png/small",
+  "stage": "Here we go",
+  "player": "Gu\u00e9la Dou\u00e9",
+  "position": "Full-back",
+  "age": "\u2014",
+  "from_club": "RC Strasbourg",
+  "to_club": "Bayer Leverkusen",
+  "fee": "\u20ac37.5m",
+  "style": "Pacey full-back with strong defensive instincts and good crossing ability from the flank.",
+  "fit": "Can compete immediately as a versatile fullback option who brings athleticism and intensity to Leverkusen's high-pressing system.",
+  "source": "Sportingpedia",
+  "sources": [
+   "Sportingpedia"
+  ],
+  "srcTier": "standard",
+  "summary": "Bayer Leverkusen have agreed a \u20ac37.5m deal with RC Strasbourg for Ivory Coast full-back Gu\u00e9la Dou\u00e9, who is undergoing a medical with the Bundesliga side.",
+  "outlet": "sportingpedia",
+  "url": "https://www.sportingpedia.com/2026/08/31/bayer-leverkusen-agree-deal-for-guela-doue-deal-while-marc-casado-race-intensifies/",
+  "title": "Bayer Leverkusen Agree Deal For Gue\u0301la Doue\u0301 Deal While Marc Casado Race Intensifies"
+ },
+ {
   "id": "8cc10d14b247e037789e9b88d1004bd4",
   "ts": "2026-08-31T19:00:46+00:00",
   "kind": "deal",

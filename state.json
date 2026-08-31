@@ -1,9 +1,5 @@
 {
   "sent": [
-    "c3ff67366023fee682763d1057721bd9",
-    "tg:FabrizioRomanoTG/64964",
-    "tg:FabrizioRomanoTG/64965",
-    "e152d77ef6f5f9c975df65b28cd62d9e",
     "tg:FabrizioRomanoTG/64968",
     "35111feaa250c68327e6f47a53de3d89",
     "5e5a0bd70e2f62448f9772c7bb97768e",
@@ -1499,7 +1495,11 @@
     "9ac9fb46a1a27afa0e57452024d8085c",
     "c4f3e99ae026ce1558e34abaaff85127",
     "1dc066c0a44cbd92d2939c305c5c77b6",
-    "cdf34e28f538a0b2067d13b78daf96bf"
+    "cdf34e28f538a0b2067d13b78daf96bf",
+    "82f8043c92e0e58d99ba814cbaabe50d",
+    "1f04d993e6ce0ab9b84b778efbb7cf66",
+    "tg:FabrizioRomanoTG/65792",
+    "tg:FabrizioRomanoTG/65793"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1817,7 +1817,8 @@
     "dinis -> napoli": 1,
     "elliott -> valencia": 1,
     "ndiaye -> manchester city": 1,
-    "woltemade -> juventus": 1
+    "woltemade -> juventus": 1,
+    "doue -> bayer leverkusen": 1
   },
   "interest": [
     "interest: alvarez -> arsenal",
@@ -2075,10 +2076,6 @@
     "interest: mudryk -> tottenham"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f manchester city are set to bid for \u00a385m package to sign cody gakpo after ",
-    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f fc porto are closing in on deal to sign santi gimenez from ac milan \ud83d\udc09 neg",
-    "'what i'm told' fabrizio romano update on man city move for chelsea star fernand",
-    "ornstein confirms barcola to liverpool \u2018agreement finalised\u2019 with medical set, n",
     "leeds ready medical for michael zetterer despite update on 'compensation payment",
     "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f udinese have agreed deal to sign 19 year old winger lazar jovanovic from",
     "surprise arsenal signing could be \u201con the cards\u201d as transfer odds tumble",
@@ -2374,11 +2371,14 @@
     "liverpool news: \u00a360m ace 'in talks with reds' as virgil van dijk gives verdict o",
     "\u201che wants to stay\u201d \u2013 father confirms liverpool player has no desire to leave",
     "manchester united consider barcelona star alejandro balde deal too expensive \u2013 r",
-    "romano confirms man utd striker transfer is off, but alternative deal \u2018here we g"
+    "romano confirms man utd striker transfer is off, but alternative deal \u2018here we g",
+    "transfer news live: arsenal triple deal, alvarez boost; barcola has liverpool me",
+    "bayer leverkusen agree deal for guela doue deal while marc casado race intensifi",
+    "\ud83d\udea8 \ud83d\udfe0 \u26ab\ufe0f exclusive: hull city agree deal to sign tim iroegbunam from everton, here",
+    "\ud83d\udea8 \ud83d\udd35 exclusive: como reach verbal agreement over loan deal to sign robert sanchez"
   ],
   "tg_update_offset": 263617426,
   "photos": {
-    "piero hincapie": "https://r2.thesportsdb.com/images/media/player/cutout/7dltx01769330396.png/small",
     "jeremie boga": "https://r2.thesportsdb.com/images/media/player/cutout/9dndpt1776674931.png/small",
     "jakub kiwior": "https://r2.thesportsdb.com/images/media/player/cutout/s9vp9d1694204099.png/small",
     "manuel akanji": "https://r2.thesportsdb.com/images/media/player/cutout/k7o5oh1759408095.png/small",
@@ -2675,11 +2675,12 @@
     "malick fofana": "https://r2.thesportsdb.com/images/media/player/cutout/vca9wj1766146326.png/small",
     "tosin": "https://www.thesportsdb.com/images/media/player/cutout/vfg1pr1787690891.png/small",
     "mykhaylo mudryk": "https://images.fotmob.com/image_resources/playerimages/976506.png",
-    "vuk pavicevic": "",
     "dinis": "",
-    "mikael baza": ""
+    "mikael baza": "",
+    "guela doue": "https://r2.thesportsdb.com/images/media/player/cutout/l18qe01766402363.png/small",
+    "vuk pavicevic": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

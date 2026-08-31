@@ -1,8 +1,5 @@
 {
   "sent": [
-    "a38bf0a524d53724cdd2e4f67c7a57ca",
-    "284cd8a99b33ed654a7c35fe7ed2a41e",
-    "c94c686c20736f9796b96b24a2d559b6",
     "292957d8d128b84c1e4371854eb55a21",
     "7fe3b8751cf79bef86191e74ac97ac3f",
     "fc1977debd9bfd852fe42c4949b20eeb",
@@ -1499,7 +1496,10 @@
     "tg:FabrizioRomanoTG/65740",
     "tg:FabrizioRomanoTG/65747",
     "f2ea39d61d55dd77836ebce221551f23",
-    "tg:FabrizioRomanoTG/65749"
+    "tg:FabrizioRomanoTG/65749",
+    "tg:FabrizioRomanoTG/65750",
+    "tg:FabrizioRomanoTG/65751",
+    "tg:FabrizioRomanoTG/65752"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2067,9 +2067,6 @@
     "interest: pulisic -> tottenham"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83d\udfe1 \ud83d\udd34 as roma agree deal to sign leonardo balerdi from olympique marseille, here",
-    "rt @fabrizioromano : \ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f arsenal agree deal to sign 17 year old georgian tale",
-    "mercato: crystal palace says no to liverpool for ismaila sarr!",
     "\ud83d\udea8 \u26aa\ufe0f real madrid have agreed deal to sign 19 year old midfielder sergio martinez",
     "\ud83d\udea8 \u26ab\ufe0f \ud83d\udd35 atalanta have sent an official contract proposal to franck kessie to try ",
     "rt @fabrizioromano : \ud83d\udea8 \u26aa\ufe0f real madrid have agreed deal to sign 19 year old midfi",
@@ -2366,7 +2363,10 @@
     "rt @fabrizioromano : \ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f exclusive: newcastle have agreed deal to sign matia",
     "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f malaga have agreed deal to sign jens cajuste from napoli on initial loan ",
     "southampton lodge offer for italy talent reggiani at borussia dortmund",
-    "\ud83d\udea8 \ud83d\udc2f robinio vaz has authorization from as roma to undergo medical and sign in as"
+    "\ud83d\udea8 \ud83d\udc2f robinio vaz has authorization from as roma to undergo medical and sign in as",
+    "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 samuel mbangula to bologna, deal almost done with green light next for med",
+    "\ud83d\udea8 \u26ab\ufe0f \ud83d\udd35 atalanta have agreed deal to sign jonathan rowe from bologna, here we go!",
+    "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f juventus are in direct talks with nico tagliafico\u2019s camp over possible m"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2667,11 +2667,11 @@
     "jeremy monga": "https://r2.thesportsdb.com/images/media/player/cutout/6sdxxj1761861667.png/small",
     "djylian n'guessan": "https://r2.thesportsdb.com/images/media/player/cutout/yczqu01748684871.png/small",
     "mirza catovic": "https://images.fotmob.com/image_resources/playerimages/1700267.png",
-    "vuk pavicevic": "",
     "robinio vaz": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Vaz_asse_om_cdf_2024.png/330px-Vaz_asse_om_cdf_2024.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "mikael baza": ""
+    "mikael baza": "",
+    "vuk pavicevic": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

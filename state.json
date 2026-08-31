@@ -1,6 +1,5 @@
 {
   "sent": [
-    "02ebae7208fc00ece7e43c6b914b49bd",
     "f272816e7e3a96387ae351e8a75d4fa9",
     "a38bf0a524d53724cdd2e4f67c7a57ca",
     "284cd8a99b33ed654a7c35fe7ed2a41e",
@@ -1499,7 +1498,8 @@
     "tg:FabrizioRomanoTG/65738",
     "tg:FabrizioRomanoTG/65739",
     "tg:FabrizioRomanoTG/65740",
-    "tg:FabrizioRomanoTG/65747"
+    "tg:FabrizioRomanoTG/65747",
+    "f2ea39d61d55dd77836ebce221551f23"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2066,7 +2066,6 @@
     "interest: pulisic -> tottenham"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f exclusive: augsburg reach verbal agreement to sign juma bah, here we go! ",
     "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f arsenal agree deal to sign 17 year old georgian talent andria bartishvili",
     "\ud83d\udea8 \ud83d\udfe1 \ud83d\udd34 as roma agree deal to sign leonardo balerdi from olympique marseille, here",
     "rt @fabrizioromano : \ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f arsenal agree deal to sign 17 year old georgian tale",
@@ -2365,7 +2364,8 @@
     "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f exclusive: newcastle have agreed deal to sign matias fernandez pardo fro",
     "\ud83d\udea8 \ud83d\udd34 official: bradley barcola has joined liverpool from psg \u26a1\ufe0f a move revealed s",
     "rt @fabrizioromano : \ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f exclusive: newcastle have agreed deal to sign matia",
-    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f malaga have agreed deal to sign jens cajuste from napoli on initial loan "
+    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f malaga have agreed deal to sign jens cajuste from napoli on initial loan ",
+    "southampton lodge offer for italy talent reggiani at borussia dortmund"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2667,10 +2667,10 @@
     "jeremy monga": "https://r2.thesportsdb.com/images/media/player/cutout/6sdxxj1761861667.png/small",
     "djylian n'guessan": "https://r2.thesportsdb.com/images/media/player/cutout/yczqu01748684871.png/small",
     "mirza catovic": "https://images.fotmob.com/image_resources/playerimages/1700267.png",
-    "vuk pavicevic": "",
-    "mikael baza": ""
+    "mikael baza": "",
+    "vuk pavicevic": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

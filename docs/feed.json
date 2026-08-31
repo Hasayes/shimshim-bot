@@ -1,5 +1,29 @@
 [
  {
+  "id": "f18e3b709c195a5d2bf803dc5c96270b",
+  "ts": "2026-08-31T04:00:48+00:00",
+  "kind": "deal",
+  "photo": "https://images.fotmob.com/image_resources/playerimages/1382392.png",
+  "stage": "Completed",
+  "player": "Yanis Massolin",
+  "position": "\u2014",
+  "age": "\u2014",
+  "from_club": "Inter",
+  "to_club": "Cagliari",
+  "fee": "Loan with \u20ac8.5m buyback option",
+  "style": "\u2014",
+  "fit": "\u2014",
+  "source": "SempreInter.com",
+  "sources": [
+   "SempreInter.com"
+  ],
+  "srcTier": "standard",
+  "summary": "Yanis Massolin joins Cagliari on loan from Inter, with Inter retaining an \u20ac8.5m buyback option and 10% of any future resale fee.",
+  "outlet": "sempreinter",
+  "url": "https://sempreinter.com/2026/08/30/yanis-massolin-cagliari-loan/",
+  "title": "Inter Build Buyback Safeguard Into Massolin\u2019s Cagliari Loan"
+ },
+ {
   "id": "tg:FabrizioRomanoTG/65686",
   "ts": "2026-08-31T00:45:37+00:00",
   "kind": "deal",

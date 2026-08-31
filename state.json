@@ -1,7 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/64929",
-    "tg:FabrizioRomanoTG/64930",
     "8df382fb6469f658369412fab65339e9",
     "tg:FabrizioRomanoTG/64931",
     "e35f11ba6423166cdea2ec2429f9dc4c",
@@ -1499,7 +1497,9 @@
     "39308137a592fd75916b8e059327e75b",
     "76d2038f17f59c256403cdcdf4e1e4f3",
     "9aeafaf4864c85cdb17bf8cdcd527cba",
-    "6fc5461fc0e3c99ccafd4e45a989c2a3"
+    "6fc5461fc0e3c99ccafd4e45a989c2a3",
+    "10ce5bad5bcf03c626cb817f8812b270",
+    "f18e3b709c195a5d2bf803dc5c96270b"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1800,7 +1800,8 @@
     "richarlison -> tottenham": 1,
     "ahanor -> crystal palace": 1,
     "beto -> fiorentina": 1,
-    "souza -> fc porto": 1
+    "souza -> fc porto": 1,
+    "massolin -> cagliari": 2
   },
   "interest": [
     "interest: alvarez -> arsenal",
@@ -2051,8 +2052,6 @@
     "interest: brughmans -> liverpool"
   ],
   "titles": [
-    "como poised to acquire fiorentina and milan stars",
-    "fabrizio romano makes late window \u2018guarantee\u2019 over man utd signing after call wi",
     "from spain: arsenal given potentially significant transfer boost as \u20ac20m star co",
     "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f as monaco have reached verbal agreement for mexican midfielder erik lira,",
     "fresh approach made: arsenal back in contact over signing real madrid star",
@@ -2350,11 +2349,12 @@
     "nottingham forest 'want' liverpool star as new transfer claims made",
     "romano: liverpool in official talks to sign 6 ft 7 giant to replace 25 year old",
     "arsenal transfer news: gabriel jesus set for barcelona move as gabriel martinell",
-    "\u201cdone and confirmed\u201d arsenal star leaves gunners to complete record breaking tra"
+    "\u201cdone and confirmed\u201d arsenal star leaves gunners to complete record breaking tra",
+    "man utd transfers: who is being signed and sold before deadline?",
+    "inter build buyback safeguard into massolin\u2019s cagliari loan"
   ],
   "tg_update_offset": 263617426,
   "photos": {
-    "eliezer mayenda": "https://r2.thesportsdb.com/images/media/player/cutout/g5icfr1756904169.png/small",
     "loum tchaouna": "https://r2.thesportsdb.com/images/media/player/cutout/t8itlf1757174754.png/small",
     "robert lewandowski": "https://r2.thesportsdb.com/images/media/player/cutout/xg2rl51762289740.png/small",
     "ismael saibari": "https://r2.thesportsdb.com/images/media/player/cutout/3y277g1764595447.png/small",
@@ -2653,6 +2653,7 @@
     "richarlison": "https://r2.thesportsdb.com/images/media/player/cutout/qgim7p1757016148.png/small",
     "beto": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Fulham_v_Everton_10052025_%287%29_%28Beto%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
     "souza": "https://images.fotmob.com/image_resources/playerimages/1636513.png",
+    "yanis massolin": "https://images.fotmob.com/image_resources/playerimages/1382392.png",
     "vuk pavicevic": ""
   },
   "photo_repair_idx": 1,
@@ -2832,6 +2833,7 @@
     "west bromwich albion": "https://r2.thesportsdb.com/images/media/team/badge/rsvuxw1448813527.png/small",
     "augsburg": "https://r2.thesportsdb.com/images/media/team/badge/xqyyvq1473453233.png/small",
     "genk": "https://r2.thesportsdb.com/images/media/team/badge/tp06te1534875918.png/small",
-    "leipzig": "https://images.fotmob.com/image_resources/logo/teamlogo/178475.png"
+    "leipzig": "https://images.fotmob.com/image_resources/logo/teamlogo/178475.png",
+    "cagliari": "https://r2.thesportsdb.com/images/media/team/badge/wvsvxt1447534471.png/small"
   }
 }

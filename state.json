@@ -1,8 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/64968",
-    "35111feaa250c68327e6f47a53de3d89",
-    "5e5a0bd70e2f62448f9772c7bb97768e",
     "0b7155dedf33db708c3b502a7e1cd5cb",
     "62473e69165c16c7e6a17c93c9d34063",
     "tg:FabrizioRomanoTG/64970",
@@ -1499,7 +1496,10 @@
     "82f8043c92e0e58d99ba814cbaabe50d",
     "1f04d993e6ce0ab9b84b778efbb7cf66",
     "tg:FabrizioRomanoTG/65792",
-    "tg:FabrizioRomanoTG/65793"
+    "tg:FabrizioRomanoTG/65793",
+    "37ede91b39f4244b04096615024cd228",
+    "c18754f91808356502e8a3d111d52b62",
+    "871e870f9fdbfa63865097c65ffc36d7"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2076,9 +2076,6 @@
     "interest: mudryk -> tottenham"
   ],
   "titles": [
-    "leeds ready medical for michael zetterer despite update on 'compensation payment",
-    "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f udinese have agreed deal to sign 19 year old winger lazar jovanovic from",
-    "surprise arsenal signing could be \u201con the cards\u201d as transfer odds tumble",
     "liverpool confirm bradley barcola agreement as tottenham learn cody gakpo stance",
     "enzo fernandez agrees personal terms with man city: will chelsea sell for \u20ac140 m",
     "why juventus\u2019 move for franck kessie has now fallen through",
@@ -2375,7 +2372,10 @@
     "transfer news live: arsenal triple deal, alvarez boost; barcola has liverpool me",
     "bayer leverkusen agree deal for guela doue deal while marc casado race intensifi",
     "\ud83d\udea8 \ud83d\udfe0 \u26ab\ufe0f exclusive: hull city agree deal to sign tim iroegbunam from everton, here",
-    "\ud83d\udea8 \ud83d\udd35 exclusive: como reach verbal agreement over loan deal to sign robert sanchez"
+    "\ud83d\udea8 \ud83d\udd35 exclusive: como reach verbal agreement over loan deal to sign robert sanchez",
+    "juventus finally finds a home for jonathan david",
+    "romano delivers \u2018here we go\u2019 on major tottenham exit as ndiaye personal terms \u2018a",
+    "alexis mac allister reaches decision on joining man city from liverpool after de"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2675,12 +2675,12 @@
     "malick fofana": "https://r2.thesportsdb.com/images/media/player/cutout/vca9wj1766146326.png/small",
     "tosin": "https://www.thesportsdb.com/images/media/player/cutout/vfg1pr1787690891.png/small",
     "mykhaylo mudryk": "https://images.fotmob.com/image_resources/playerimages/976506.png",
-    "dinis": "",
     "mikael baza": "",
     "guela doue": "https://r2.thesportsdb.com/images/media/player/cutout/l18qe01766402363.png/small",
-    "vuk pavicevic": ""
+    "vuk pavicevic": "",
+    "dinis": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

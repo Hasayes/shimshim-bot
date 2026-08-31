@@ -1,7 +1,5 @@
 {
   "sent": [
-    "e1501c629fe65cde60525577b7e5655a",
-    "a17a20c38160bd5b749250a728763425",
     "d0f3114ec41cbedbd6bb554b8386859c",
     "65988e72d01b53fefa2e551ed3583b12",
     "1515089384588c3853054f905257fab3",
@@ -1499,7 +1497,9 @@
     "04a8a9b3e508e6ef1ef62049adf99751",
     "tg:FabrizioRomanoTG/65714",
     "0c36d3013b423c71da2038982f234514",
-    "tg:FabrizioRomanoTG/65715"
+    "tg:FabrizioRomanoTG/65715",
+    "0cceb2f42203dc8df7110cf9859613e1",
+    "tg:FabrizioRomanoTG/65716"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2061,7 +2061,6 @@
     "interest: pulisic -> tottenham"
   ],
   "titles": [
-    "liverpool's 'fantastic' attacker in 'advanced' talks over exit amid barcola agre",
     "\ud83d\udea8 toby collyer has signed documents as new west brom player on permanent deal fr",
     "ineos officially sell defender after just one season at the club",
     "real madrid ready to sell left back to man utd as ineos offered two strikers",
@@ -2360,7 +2359,8 @@
     "juventus agree personal terms with pape matar sarr as tottenham negotiate buy cl",
     "\ud83d\udea8 \ud83c\udde7\ud83c\uddea alexis saelemaekers will not join atalanta or any other club in next 24h no",
     "diego carlos ready for serie a return to parma from fenerbahce",
-    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f excl: benfica advance on new deal for tomas araujo benfica rejected appro"
+    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f excl: benfica advance on new deal for tomas araujo benfica rejected appro",
+    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f exclusive: augsburg agree deal to sign arijon ibrahimovic from fc bayern,"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2661,11 +2661,11 @@
     "federico dimarco": "https://r2.thesportsdb.com/images/media/player/cutout/0rhwx41759408849.png/small",
     "christian pulisic": "https://r2.thesportsdb.com/images/media/player/cutout/qwii9r1758893548.png/small",
     "youssouf fofana": "https://r2.thesportsdb.com/images/media/player/cutout/3npg7a1758892447.png/small",
-    "mikael baza": "",
     "diego carlos": "https://r2.thesportsdb.com/images/media/player/cutout/u0hz4n1764278170.png/small",
-    "vuk pavicevic": ""
+    "vuk pavicevic": "",
+    "mikael baza": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

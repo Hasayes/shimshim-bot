@@ -1,5 +1,29 @@
 [
  {
+  "id": "12cd4b0c20bc61602767eb34b4faef03",
+  "ts": "2026-08-31T04:45:44+00:00",
+  "kind": "interest",
+  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/0rhwx41759408849.png/small",
+  "stage": "\u2014",
+  "player": "Federico Dimarco",
+  "position": "\u2014",
+  "age": "\u2014",
+  "from_club": "Inter",
+  "to_club": "Barcelona",
+  "fee": "\u2014",
+  "style": "Dynamic left-back who contributes in attack with pace and crosses while maintaining defensive solidity.",
+  "fit": "Should operate as Barcelona's primary left-back, providing width in their build-up play and contributing to their possession-based system.",
+  "source": "beinsports",
+  "sources": [
+   "beinsports"
+  ],
+  "srcTier": "standard",
+  "summary": "Barcelona expressed interest in Inter's Federico Dimarco, but Inter have rejected the approach, indicating they consider him fundamental to their project.",
+  "outlet": "beinsports",
+  "url": "https://www.beinsports.com/en-us/soccer/la-liga/articles/inter-close-the-door-on-barcelona-again-2026-08-30",
+  "title": "Inter Close the Door on Barcelona Again"
+ },
+ {
   "id": "f18e3b709c195a5d2bf803dc5c96270b",
   "ts": "2026-08-31T04:00:48+00:00",
   "kind": "deal",

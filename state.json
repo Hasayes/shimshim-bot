@@ -1,6 +1,5 @@
 {
   "sent": [
-    "1b78ae806d8c9d2d0b54d82c68f5ea58",
     "tg:FabrizioRomanoTG/64936",
     "2171dcf6702d8b4475fa27919c257182",
     "tg:FabrizioRomanoTG/64938",
@@ -1499,7 +1498,8 @@
     "f18e3b709c195a5d2bf803dc5c96270b",
     "c0dd4e26af1f33bca7e574ee54957a49",
     "1a52333980f2804e04788e70ffd0b60e",
-    "4ad3e3199f9627981bc15661c2c724e3"
+    "4ad3e3199f9627981bc15661c2c724e3",
+    "12cd4b0c20bc61602767eb34b4faef03"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2049,10 +2049,10 @@
     "interest: ndiaye -> tottenham",
     "interest: maatsen -> manchester united",
     "interest: jesus -> barcelona",
-    "interest: brughmans -> liverpool"
+    "interest: brughmans -> liverpool",
+    "interest: dimarco -> barcelona"
   ],
   "titles": [
-    "\ud83d\udcfa new youtube video uploaded! \ud83c\udfac \ud83d\udea8 \ud83d\udca3 bid is coming! out again! \u20ac55m deal done! ca",
     "medical today: experienced premier league star in london to complete chelsea mov",
     "man utd offered 175 goal striker giant in stunning late deal \u2013 exclusive",
     "'my information' fabrizio romano drops update on man utd move to sign new left b",
@@ -2351,11 +2351,11 @@
     "inter build buyback safeguard into massolin\u2019s cagliari loan",
     "fabrizio romano says arsenal striker is joining barcelona \u2013 \u2018here we go\u2019 teamtal",
     "liverpool \u2018open talks\u2019 to sign 6\u20197\u201d goalkeeper lucca brughmans this is anfield",
-    "two insiders confirm liverpool in talks for 6ft 7in keeper as prem rivals want t"
+    "two insiders confirm liverpool in talks for 6ft 7in keeper as prem rivals want t",
+    "inter close the door on barcelona again"
   ],
   "tg_update_offset": 263617426,
   "photos": {
-    "loum tchaouna": "https://r2.thesportsdb.com/images/media/player/cutout/t8itlf1757174754.png/small",
     "robert lewandowski": "https://r2.thesportsdb.com/images/media/player/cutout/xg2rl51762289740.png/small",
     "ismael saibari": "https://r2.thesportsdb.com/images/media/player/cutout/3y277g1764595447.png/small",
     "joane gadou": "https://r2.thesportsdb.com/images/media/player/cutout/rps4361769721996.png/small",
@@ -2654,6 +2654,7 @@
     "beto": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Fulham_v_Everton_10052025_%287%29_%28Beto%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
     "souza": "https://images.fotmob.com/image_resources/playerimages/1636513.png",
     "yanis massolin": "https://images.fotmob.com/image_resources/playerimages/1382392.png",
+    "federico dimarco": "https://r2.thesportsdb.com/images/media/player/cutout/0rhwx41759408849.png/small",
     "vuk pavicevic": ""
   },
   "photo_repair_idx": 1,

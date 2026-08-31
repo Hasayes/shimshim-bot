@@ -1,10 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/64962",
-    "ac33194abd020aad58ed7eb744d98440",
-    "tg:FabrizioRomanoTG/64963",
-    "2524a65f9af07c723856b089c18b2575",
-    "1657fd62ff199bfdef7e425ca0a4ec3f",
     "c3ff67366023fee682763d1057721bd9",
     "tg:FabrizioRomanoTG/64964",
     "tg:FabrizioRomanoTG/64965",
@@ -1499,7 +1494,12 @@
     "436f97e42797868e672cfc93c2fb68e8",
     "61d77856b4159220b52cf140b087220f",
     "tg:FabrizioRomanoTG/65789",
-    "tg:FabrizioRomanoTG/65790"
+    "tg:FabrizioRomanoTG/65790",
+    "ea9895f102e6d2e68eeca3f60fedaff8",
+    "9ac9fb46a1a27afa0e57452024d8085c",
+    "c4f3e99ae026ce1558e34abaaff85127",
+    "1dc066c0a44cbd92d2939c305c5c77b6",
+    "cdf34e28f538a0b2067d13b78daf96bf"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2075,10 +2075,6 @@
     "interest: mudryk -> tottenham"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83d\udfe3 fiorentina agree deal to sign alieu njie from torino, here we go! new winger",
-    "enzo fernandez agrees personal terms with manchester city",
-    "kessie turns down juventus, roma remain interested",
-    "transfer: enzo fernandez agrees deal with man city",
     "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f manchester city are set to bid for \u00a385m package to sign cody gakpo after ",
     "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f fc porto are closing in on deal to sign santi gimenez from ac milan \ud83d\udc09 neg",
     "'what i'm told' fabrizio romano update on man city move for chelsea star fernand",
@@ -2374,7 +2370,11 @@
     "guela doue to bayer leverkusen: \u20ac37 5m agreement reached",
     "fabrizio romano: tottenham agree deal for star to leave on loan with \u00a326m option",
     "\ud83d\udea8 \ud83d\udfe1 \ud83d\udd34 galatasaray have received now the authorization for deniz gul to travel to",
-    "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f understand fulham have opened official club to club talks with eintracht"
+    "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f understand fulham have opened official club to club talks with eintracht",
+    "liverpool news: \u00a360m ace 'in talks with reds' as virgil van dijk gives verdict o",
+    "\u201che wants to stay\u201d \u2013 father confirms liverpool player has no desire to leave",
+    "manchester united consider barcelona star alejandro balde deal too expensive \u2013 r",
+    "romano confirms man utd striker transfer is off, but alternative deal \u2018here we g"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2675,11 +2675,11 @@
     "malick fofana": "https://r2.thesportsdb.com/images/media/player/cutout/vca9wj1766146326.png/small",
     "tosin": "https://www.thesportsdb.com/images/media/player/cutout/vfg1pr1787690891.png/small",
     "mykhaylo mudryk": "https://images.fotmob.com/image_resources/playerimages/976506.png",
-    "mikael baza": "",
     "vuk pavicevic": "",
-    "dinis": ""
+    "dinis": "",
+    "mikael baza": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

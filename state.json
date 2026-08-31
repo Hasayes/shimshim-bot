@@ -1,8 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/64903",
-    "tg:FabrizioRomanoTG/64904",
-    "fe911d1caadc818d73df1d00afed033a",
     "tg:FabrizioRomanoTG/64906",
     "fcec73945905a21bb787178b415ce1e6",
     "a5013678dd12d3e6f0f844a9bbef6ac2",
@@ -1499,7 +1496,10 @@
     "d352d277e3674462661f04a48a4d6344",
     "tg:FabrizioRomanoTG/65684",
     "af749ce8dbfc2a66d91a23c4835b1cb4",
-    "d17b9ceb630dac448782d764d3a80b2f"
+    "d17b9ceb630dac448782d764d3a80b2f",
+    "af55a285d1ce04606031a52b907b0919",
+    "8f5441333be53d17b30531b0d0721081",
+    "tg:FabrizioRomanoTG/65686"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1799,7 +1799,8 @@
     "roon -> roma": 1,
     "richarlison -> tottenham": 1,
     "ahanor -> crystal palace": 1,
-    "beto -> fiorentina": 1
+    "beto -> fiorentina": 1,
+    "souza -> fc porto": 1
   },
   "interest": [
     "interest: alvarez -> arsenal",
@@ -2050,9 +2051,6 @@
     "interest: brughmans -> liverpool"
   ],
   "titles": [
-    "romano reacts to claims man city are \u2018in talks\u2019 for stunning \u00a3170m double liverp",
-    "fabrizio romano reveals when liverpool & chelsea transfer target is \u201clikely to l",
-    "transfer: emi martinez undergoes chelsea medicals, striker set to leave man utd",
     "transfer rumors, news: liverpool still eyeing sarr after barcola deal agreed",
     "fabrizio romano explains man utd signing that's a \"guarantee\" before deadline da",
     "\u20ac65m arsenal deal at \u201clast stages\u201d as green light given and medical to be booked",
@@ -2349,11 +2347,13 @@
     "alejandro balde transfer decision made by manchester united",
     "\ud83d\udea8 \ud83d\udfe0 \u26ab\ufe0f excl: hull city reach verbal agreement to sign robinio vaz, here we go! i",
     "julian alvarez makes atletico madrid decision as clock ticks down on arsenal dea",
-    "julian alvarez to arsenal transfer boost thanks to liverpool selling cody gakpo "
+    "julian alvarez to arsenal transfer boost thanks to liverpool selling cody gakpo ",
+    "fabrizio romano confirms contract green light; surprise liverpool deal imminent",
+    "\ud83d\udc40 here we go! barca's lightning move for gabriel jesus as no 9",
+    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f fc porto agree deal to sign souza from tottenham, here we go! \ud83c\udde7\ud83c\uddf7 loan mov"
   ],
   "tg_update_offset": 263617426,
   "photos": {
-    "pascal struijk": "https://r2.thesportsdb.com/images/media/player/cutout/axi6z01757076178.png/small",
     "eliezer mayenda": "https://r2.thesportsdb.com/images/media/player/cutout/g5icfr1756904169.png/small",
     "loum tchaouna": "https://r2.thesportsdb.com/images/media/player/cutout/t8itlf1757174754.png/small",
     "robert lewandowski": "https://r2.thesportsdb.com/images/media/player/cutout/xg2rl51762289740.png/small",
@@ -2652,6 +2652,7 @@
     "tommy marques": "",
     "richarlison": "https://r2.thesportsdb.com/images/media/player/cutout/qgim7p1757016148.png/small",
     "beto": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Fulham_v_Everton_10052025_%287%29_%28Beto%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "souza": "https://images.fotmob.com/image_resources/playerimages/1636513.png",
     "vuk pavicevic": ""
   },
   "photo_repair_idx": 1,

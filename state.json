@@ -1,6 +1,5 @@
 {
   "sent": [
-    "a5b1cb601c9e99197629975a3fbc207f",
     "fd6772e8384e7c3b3db7b224438d52e0",
     "6d886f0f27fd979edeb89c83a5848140",
     "40c7101018627d790220606f95f43b0f",
@@ -1499,7 +1498,8 @@
     "tg:FabrizioRomanoTG/65766",
     "tg:FabrizioRomanoTG/65767",
     "887d8a7d4d6d1997f50f8fd63423c442",
-    "7bbf7bf0ef52d151b92605d92a1716a5"
+    "7bbf7bf0ef52d151b92605d92a1716a5",
+    "9a9b97260da3c26cf4f485a24d5fab8b"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2070,7 +2070,6 @@
     "interest: fofana -> arsenal"
   ],
   "titles": [
-    "enzo fernandez wants to leave chelsea and reaches personal agreement",
     "rt @fabrizioromano : \ud83d\udea8 \ud83d\udd34 cody gakpo\u2019s future will be decided after today\u2019s game ",
     "fabrizio romano rules out move for 'extraordinary' arsenal laliga target",
     "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f breaking: sofyan amrabat to ajax, here we go! verbal agreement done for m",
@@ -2369,7 +2368,8 @@
     "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f arsenal have made official club to club approach with olympique lyon for ",
     "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f more on malick fofana: arsenal are not willing to match \u20ac40m valuation, o",
     "atalanta: ahanor on loan to crystal palace, then he will belong to chelsea: the ",
-    "liverpool latest: virgil van dijk speaks out about bradley barcola as 'talks con"
+    "liverpool latest: virgil van dijk speaks out about bradley barcola as 'talks con",
+    "manchester united discuss zirkzee transfer and ask for at least \u20ac35 million"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2669,12 +2669,12 @@
     "mirza catovic": "https://images.fotmob.com/image_resources/playerimages/1700267.png",
     "robinio vaz": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Vaz_asse_om_cdf_2024.png/330px-Vaz_asse_om_cdf_2024.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "harvey elliott": "https://r2.thesportsdb.com/images/media/player/cutout/cqkvsj1756984276.png/small",
-    "mikael baza": "",
     "malick fofana": "https://r2.thesportsdb.com/images/media/player/cutout/vca9wj1766146326.png/small",
     "vuk pavicevic": "",
-    "dinis": ""
+    "dinis": "",
+    "mikael baza": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

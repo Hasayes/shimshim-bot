@@ -1,6 +1,5 @@
 {
   "sent": [
-    "52ac4d18e95858010b46eb29a5a20077",
     "70af5aad9e28d04b1324aeba94398ac8",
     "3f5ff4fbf487f953c0ff7d0ba8f085b2",
     "tg:FabrizioRomanoTG/64949",
@@ -1499,7 +1498,8 @@
     "2a8eca9a3526b87586b7eefed59aeffa",
     "b056e8f1fa958a572abe1e9a5c80a594",
     "tg:FabrizioRomanoTG/65708",
-    "tg:FabrizioRomanoTG/65709"
+    "tg:FabrizioRomanoTG/65709",
+    "tg:FabrizioRomanoTG/65711"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1805,7 +1805,8 @@
     "moore -> fc koln": 1,
     "sarr -> juventus": 1,
     "baza -> barcelona": 2,
-    "fofana -> lyon": 1
+    "fofana -> lyon": 1,
+    "brughmans -> liverpool": 1
   },
   "interest": [
     "interest: alvarez -> arsenal",
@@ -2059,7 +2060,6 @@
     "interest: pulisic -> tottenham"
   ],
   "titles": [
-    "marcus rashford makes man utd u turn as england star rejects fenerbahce interest",
     "chelsea in \u201cadvanced talks\u201d with atalanta over \u20ac40m transfer with loan already p",
     "transfer news round up, 28 august \ud83d\udcb0",
     "eintracht frankfurt set to sign lilian brassier and offload arthur theate",
@@ -2358,7 +2358,8 @@
     "tottenham enquire about pulisic monday's gossip",
     "julian alvarez to arsenal twist as new atletico madrid transfer bid submitted",
     "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 barcelona have completed deal to sign 16 year old defender mikael baza fro",
-    "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 youssouf fofana has agreed to joining ol on initial loan ac milan and lyon"
+    "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 youssouf fofana has agreed to joining ol on initial loan ac milan and lyon",
+    "\ud83d\udea8 \ud83d\udd34 liverpool have reached verbal agreement with genk to sign 18 year old goalke"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2659,11 +2660,11 @@
     "yanis massolin": "https://images.fotmob.com/image_resources/playerimages/1382392.png",
     "federico dimarco": "https://r2.thesportsdb.com/images/media/player/cutout/0rhwx41759408849.png/small",
     "christian pulisic": "https://r2.thesportsdb.com/images/media/player/cutout/qwii9r1758893548.png/small",
-    "mikael baza": "",
     "youssouf fofana": "https://r2.thesportsdb.com/images/media/player/cutout/3npg7a1758892447.png/small",
-    "vuk pavicevic": ""
+    "vuk pavicevic": "",
+    "mikael baza": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

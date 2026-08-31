@@ -1,5 +1,29 @@
 [
  {
+  "id": "tg:FabrizioRomanoTG/65647",
+  "ts": "2026-08-31T09:30:36+00:00",
+  "kind": "deal",
+  "photo": "https://images.fotmob.com/image_resources/playerimages/1679949.png",
+  "stage": "Here we go",
+  "player": "Lucca Brughmans",
+  "position": "Goalkeeper",
+  "age": "18",
+  "from_club": "Genk",
+  "to_club": "Liverpool",
+  "fee": "\u20ac35m",
+  "style": "\u2014",
+  "fit": "\u2014",
+  "source": "Fabrizio Romano",
+  "sources": [
+   "Fabrizio Romano"
+  ],
+  "srcTier": "tier1",
+  "summary": "Liverpool have reached verbal agreement with Genk to sign 18-year-old goalkeeper Lucca Brughmans for \u20ac35m, with authorization for medical already granted and expected to join in summer 2027.",
+  "outlet": "Telegram @fabrizioromanotg",
+  "url": "https://t.me/FabrizioRomanoTG/65711",
+  "title": "\ud83d\udea8 \ud83d\udd34 Liverpool have reached verbal agreement with Genk to sign 18 year old goalkeeper Lucca Brughmans, here we go! Deal w"
+ },
+ {
   "id": "tg:FabrizioRomanoTG/65709",
   "ts": "2026-08-31T09:15:59+00:00",
   "kind": "deal",
@@ -334,30 +358,6 @@
   "outlet": "yahoo",
   "url": "https://sports.yahoo.com/articles/done-deal-el-aynaoui-moves-055000149.html",
   "title": "Done deal: El Aynaoui moves to Leipzig, De Roon joins Roma"
- },
- {
-  "id": "tg:FabrizioRomanoTG/65647",
-  "ts": "2026-08-30T15:30:41+00:00",
-  "kind": "interest",
-  "photo": "https://images.fotmob.com/image_resources/playerimages/1679949.png",
-  "stage": "\u2014",
-  "player": "Lucca Brughmans",
-  "position": "Goalkeeper",
-  "age": "\u2014",
-  "from_club": "Genk",
-  "to_club": "Liverpool",
-  "fee": "\u2014",
-  "style": "\u2014",
-  "fit": "\u2014",
-  "source": "Fabrizio Romano",
-  "sources": [
-   "Fabrizio Romano"
-  ],
-  "srcTier": "tier1",
-  "summary": "Liverpool have made official club-to-club contact with Genk regarding goalkeeper Lucca Brughmans, assessing a potential signing either immediately or eventually from 2027 depending on Mamardashvili's situation.",
-  "outlet": "Telegram @fabrizioromanotg",
-  "url": "https://t.me/FabrizioRomanoTG/65647",
-  "title": "\ud83d\udea8 \ud83d\udd34 Liverpool have made official club to club contact with Genk to sign Lucca Brughmans as new goalkeeper. #LFC assessin"
  },
  {
   "id": "tg:FabrizioRomanoTG/65303",

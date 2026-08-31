@@ -1,6 +1,5 @@
 {
   "sent": [
-    "3d1f12e35777144a3faccbf02cb7b5f6",
     "ac737d56fb19a44041314a8c36a27ede",
     "3c9d0118532e1ac82dff2af788049e59",
     "3968a2092585f64906302e3f1c0dbe8a",
@@ -1499,7 +1498,8 @@
     "d138824c1da4fef03330e831ecd3c6fe",
     "808feebf16343ad7948b27b91da74c9c",
     "f93754b3881d8731f5fa7f167f17f4c5",
-    "tg:FabrizioRomanoTG/65763"
+    "tg:FabrizioRomanoTG/65763",
+    "tg:FabrizioRomanoTG/65764"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2068,7 +2068,6 @@
     "interest: pulisic -> tottenham"
   ],
   "titles": [
-    "\ud83d\udea8 \u26ab\ufe0f \ud83d\udd35 franck kessie returns to atalanta after leaving al ahli and talks collaps",
     "\ud83d\udea8 \ud83c\uddf8\ud83c\uddf3 pape matar sarr has been offered to juventus as midfield option after kessi",
     "psg still targeting young striker despite montpellier stance",
     "there is no official offer: has manchester city abandoned the enzo fernandez dea",
@@ -2367,7 +2366,8 @@
     "seven transfers liverpool can complete before deadline as barcola joins and \u00a385m",
     "rafael leao\u2019s ac milan to galatasaray fee and salary officially revealed as amor",
     "liverpool news: virgil van dijk gives verdict on bradley barcola as talks ongoin",
-    "\ud83d\udea8 \ud83d\udca3 official: liverpool have decided to keep cody gakpo at the club as they can\u2019"
+    "\ud83d\udea8 \ud83d\udca3 official: liverpool have decided to keep cody gakpo at the club as they can\u2019",
+    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f manchester city are back in talks with everton for iliman ndiaye, as reve"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2668,11 +2668,11 @@
     "djylian n'guessan": "https://r2.thesportsdb.com/images/media/player/cutout/yczqu01748684871.png/small",
     "mirza catovic": "https://images.fotmob.com/image_resources/playerimages/1700267.png",
     "robinio vaz": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Vaz_asse_om_cdf_2024.png/330px-Vaz_asse_om_cdf_2024.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "dinis": "",
     "mikael baza": "",
-    "vuk pavicevic": ""
+    "vuk pavicevic": "",
+    "dinis": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

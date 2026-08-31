@@ -1,6 +1,5 @@
 {
   "sent": [
-    "f272816e7e3a96387ae351e8a75d4fa9",
     "a38bf0a524d53724cdd2e4f67c7a57ca",
     "284cd8a99b33ed654a7c35fe7ed2a41e",
     "c94c686c20736f9796b96b24a2d559b6",
@@ -1499,7 +1498,8 @@
     "tg:FabrizioRomanoTG/65739",
     "tg:FabrizioRomanoTG/65740",
     "tg:FabrizioRomanoTG/65747",
-    "f2ea39d61d55dd77836ebce221551f23"
+    "f2ea39d61d55dd77836ebce221551f23",
+    "tg:FabrizioRomanoTG/65749"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1812,7 +1812,8 @@
     "monga -> swansea": 1,
     "n'guessan -> liverpool": 1,
     "catovic -> barcelona": 1,
-    "david -> atletico madrid": 1
+    "david -> atletico madrid": 1,
+    "vaz -> hull city": 1
   },
   "interest": [
     "interest: alvarez -> arsenal",
@@ -2066,7 +2067,6 @@
     "interest: pulisic -> tottenham"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f arsenal agree deal to sign 17 year old georgian talent andria bartishvili",
     "\ud83d\udea8 \ud83d\udfe1 \ud83d\udd34 as roma agree deal to sign leonardo balerdi from olympique marseille, here",
     "rt @fabrizioromano : \ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f arsenal agree deal to sign 17 year old georgian tale",
     "mercato: crystal palace says no to liverpool for ismaila sarr!",
@@ -2365,11 +2365,11 @@
     "\ud83d\udea8 \ud83d\udd34 official: bradley barcola has joined liverpool from psg \u26a1\ufe0f a move revealed s",
     "rt @fabrizioromano : \ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f exclusive: newcastle have agreed deal to sign matia",
     "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f malaga have agreed deal to sign jens cajuste from napoli on initial loan ",
-    "southampton lodge offer for italy talent reggiani at borussia dortmund"
+    "southampton lodge offer for italy talent reggiani at borussia dortmund",
+    "\ud83d\udea8 \ud83d\udc2f robinio vaz has authorization from as roma to undergo medical and sign in as"
   ],
   "tg_update_offset": 263617426,
   "photos": {
-    "nathan ake": "https://www.thesportsdb.com/images/media/player/cutout/istqgy1784661303.png/small",
     "sandro tonali": "https://r2.thesportsdb.com/images/media/player/cutout/b9oang1766824727.png/small",
     "pierce charles": "https://r2.thesportsdb.com/images/media/player/cutout/mq9wk41761336451.png/small",
     "ansu fati": "https://r2.thesportsdb.com/images/media/player/cutout/54v6h91766238031.png/small",
@@ -2667,10 +2667,11 @@
     "jeremy monga": "https://r2.thesportsdb.com/images/media/player/cutout/6sdxxj1761861667.png/small",
     "djylian n'guessan": "https://r2.thesportsdb.com/images/media/player/cutout/yczqu01748684871.png/small",
     "mirza catovic": "https://images.fotmob.com/image_resources/playerimages/1700267.png",
-    "mikael baza": "",
-    "vuk pavicevic": ""
+    "vuk pavicevic": "",
+    "robinio vaz": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Vaz_asse_om_cdf_2024.png/330px-Vaz_asse_om_cdf_2024.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "mikael baza": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",
@@ -2853,6 +2854,7 @@
     "lyon": "https://r2.thesportsdb.com/images/media/team/badge/blk9771656932845.png/small",
     "swansea": "https://r2.thesportsdb.com/images/media/team/badge/474rco1686920744.png/small",
     "saint etienne": "https://r2.thesportsdb.com/images/media/team/badge/m4ej831656423694.png/small",
-    "stuttgart": "https://r2.thesportsdb.com/images/media/team/badge/yppyux1473454085.png/small"
+    "stuttgart": "https://r2.thesportsdb.com/images/media/team/badge/yppyux1473454085.png/small",
+    "hull city": "https://r2.thesportsdb.com/images/media/team/badge/fbqqda1601726113.png/small"
   }
 }

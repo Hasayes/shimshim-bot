@@ -1,5 +1,53 @@
 [
  {
+  "id": "tg:FabrizioRomanoTG/65709",
+  "ts": "2026-08-31T09:15:59+00:00",
+  "kind": "deal",
+  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/3npg7a1758892447.png/small",
+  "stage": "Here we go",
+  "player": "Youssouf Fofana",
+  "position": "\u2014",
+  "age": "\u2014",
+  "from_club": "AC Milan",
+  "to_club": "Lyon",
+  "fee": "Loan with buy option",
+  "style": "Energetic midfielder with strong ball recovery and pressing intensity, excels in disrupting opposition play in the center.",
+  "fit": "Deploy as a defensive midfielder or box-to-box option to provide defensive cover and allow Lyon's attacking players more freedom in advanced areas.",
+  "source": "Fabrizio Romano",
+  "sources": [
+   "Fabrizio Romano"
+  ],
+  "srcTier": "tier1",
+  "summary": "Youssouf Fofana has agreed to join Lyon on an initial loan deal from AC Milan with a buy option clause. AC Milan and Lyon are working on finalizing the details before the player travels.",
+  "outlet": "Telegram @fabrizioromanotg",
+  "url": "https://t.me/FabrizioRomanoTG/65709",
+  "title": "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 Youssouf Fofana has agreed to joining OL on initial loan. AC Milan and Lyon working on details of loan deal with b"
+ },
+ {
+  "id": "tg:FabrizioRomanoTG/65708",
+  "ts": "2026-08-31T09:15:50+00:00",
+  "kind": "deal",
+  "photo": "",
+  "stage": "Completed",
+  "player": "Mikael Baza",
+  "position": "Defender",
+  "age": "16",
+  "from_club": "HSV Hamburg",
+  "to_club": "Barcelona",
+  "fee": "\u2014",
+  "style": "\u2014",
+  "fit": "\u2014",
+  "source": "Fabrizio Romano",
+  "sources": [
+   "Fabrizio Romano"
+  ],
+  "srcTier": "tier1",
+  "summary": "Barcelona have completed the signing of 16-year-old defender Mikael Baza from HSV Hamburg for Bar\u00e7a Atletic on a three-year deal until June 2029.",
+  "outlet": "Telegram @fabrizioromanotg",
+  "url": "https://t.me/FabrizioRomanoTG/65708",
+  "title": "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 Barcelona have completed deal to sign 16 year old defender Mikael Baza from HSV Hamburg for Bar\u00e7a Atletic. The dea"
+ },
+ {
   "id": "2a8eca9a3526b87586b7eefed59aeffa",
   "ts": "2026-08-31T09:00:50+00:00",
   "kind": "interest",

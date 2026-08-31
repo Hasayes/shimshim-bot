@@ -1,8 +1,5 @@
 {
   "sent": [
-    "df829f210df40779c02446d64ed666d5",
-    "8ade2133d3feacbbccf219892c8c1ea3",
-    "d61442f2620045e01dc97b40964440d3",
     "52ac4d18e95858010b46eb29a5a20077",
     "70af5aad9e28d04b1324aeba94398ac8",
     "3f5ff4fbf487f953c0ff7d0ba8f085b2",
@@ -1499,7 +1496,10 @@
     "efa8e45f29141f2ac53fd8cab39a4c1f",
     "tg:FabrizioRomanoTG/65706",
     "tg:FabrizioRomanoTG/65707",
-    "2a8eca9a3526b87586b7eefed59aeffa"
+    "2a8eca9a3526b87586b7eefed59aeffa",
+    "b056e8f1fa958a572abe1e9a5c80a594",
+    "tg:FabrizioRomanoTG/65708",
+    "tg:FabrizioRomanoTG/65709"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1803,7 +1803,9 @@
     "souza -> fc porto": 1,
     "massolin -> cagliari": 2,
     "moore -> fc koln": 1,
-    "sarr -> juventus": 1
+    "sarr -> juventus": 1,
+    "baza -> barcelona": 2,
+    "fofana -> lyon": 1
   },
   "interest": [
     "interest: alvarez -> arsenal",
@@ -2057,9 +2059,6 @@
     "interest: pulisic -> tottenham"
   ],
   "titles": [
-    "liverpool handed third harvey elliott transfer bid as player faces major choice",
-    "fabrizio romano: the truth about alvarez to arsenal + barcola & gakpo latest",
-    "fabrizio romano: arsenal, liverpool & city make their moves",
     "marcus rashford makes man utd u turn as england star rejects fenerbahce interest",
     "chelsea in \u201cadvanced talks\u201d with atalanta over \u20ac40m transfer with loan already p",
     "transfer news round up, 28 august \ud83d\udcb0",
@@ -2356,12 +2355,13 @@
     "(video): psg score late double to level with lille",
     "\ud83d\udea8 \ud83d\udd35 everton have sent official bid to as monaco for folarin balogun as negotiati",
     "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f after pape sarr to juventus and mikey moore to koln, kevin danso can also",
-    "tottenham enquire about pulisic monday's gossip"
+    "tottenham enquire about pulisic monday's gossip",
+    "julian alvarez to arsenal twist as new atletico madrid transfer bid submitted",
+    "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 barcelona have completed deal to sign 16 year old defender mikael baza fro",
+    "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 youssouf fofana has agreed to joining ol on initial loan ac milan and lyon"
   ],
   "tg_update_offset": 263617426,
   "photos": {
-    "ismael saibari": "https://r2.thesportsdb.com/images/media/player/cutout/3y277g1764595447.png/small",
-    "joane gadou": "https://r2.thesportsdb.com/images/media/player/cutout/rps4361769721996.png/small",
     "goncalo ramos": "https://r2.thesportsdb.com/images/media/player/cutout/47dx051766335509.png/small",
     "lois openda": "https://r2.thesportsdb.com/images/media/player/cutout/1chuok1759225712.png/small",
     "anthony gordon": "https://r2.thesportsdb.com/images/media/player/cutout/8ztck61766824986.png/small",
@@ -2659,9 +2659,11 @@
     "yanis massolin": "https://images.fotmob.com/image_resources/playerimages/1382392.png",
     "federico dimarco": "https://r2.thesportsdb.com/images/media/player/cutout/0rhwx41759408849.png/small",
     "christian pulisic": "https://r2.thesportsdb.com/images/media/player/cutout/qwii9r1758893548.png/small",
+    "mikael baza": "",
+    "youssouf fofana": "https://r2.thesportsdb.com/images/media/player/cutout/3npg7a1758892447.png/small",
     "vuk pavicevic": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",
@@ -2839,6 +2841,8 @@
     "augsburg": "https://r2.thesportsdb.com/images/media/team/badge/xqyyvq1473453233.png/small",
     "genk": "https://r2.thesportsdb.com/images/media/team/badge/tp06te1534875918.png/small",
     "leipzig": "https://images.fotmob.com/image_resources/logo/teamlogo/178475.png",
-    "cagliari": "https://r2.thesportsdb.com/images/media/team/badge/wvsvxt1447534471.png/small"
+    "cagliari": "https://r2.thesportsdb.com/images/media/team/badge/wvsvxt1447534471.png/small",
+    "hsv hamburg": "https://r2.thesportsdb.com/images/media/team/badge/tvtppt1473453296.png/small",
+    "lyon": "https://r2.thesportsdb.com/images/media/team/badge/blk9771656932845.png/small"
   }
 }

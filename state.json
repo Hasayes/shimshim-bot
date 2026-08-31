@@ -1,9 +1,5 @@
 {
   "sent": [
-    "0e64b25e962a1750baf6488f8317b70f",
-    "e0f9d52f4819765927ad76567d624147",
-    "3a03c14ad8b84eaa497a038db4664af5",
-    "b6bdcfd593182d48ca338834193c4837",
     "66ec95bec0667e50d1292ce07162d475",
     "30d1934fd05f742888919cd9ff313310",
     "46dd247c820add715713fca8f8af12df",
@@ -1499,7 +1495,11 @@
     "6bc37de3f1ad74a331508c8ba350f244",
     "tg:FabrizioRomanoTG/65779",
     "tg:FabrizioRomanoTG/65781",
-    "tg:FabrizioRomanoTG/65782"
+    "tg:FabrizioRomanoTG/65782",
+    "5075ea216bcb85460ca9e5a54745f764",
+    "6ff47d76c32c5cb8aa48b599f4a6de78",
+    "tg:FabrizioRomanoTG/65783",
+    "tg:FabrizioRomanoTG/65784"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1816,7 +1816,8 @@
     "vaz -> hull city": 1,
     "dinis -> napoli": 1,
     "elliott -> valencia": 1,
-    "ndiaye -> manchester city": 1
+    "ndiaye -> manchester city": 1,
+    "woltemade -> juventus": 1
   },
   "interest": [
     "interest: alvarez -> arsenal",
@@ -2074,10 +2075,6 @@
     "interest: mudryk -> tottenham"
   ],
   "titles": [
-    "chelsea reach agreement for enzo fernandez replacement with medical expected wit",
-    "\ud83d\udea8 \ud83d\udd34 \u26ab\ufe0f ac milan have agreed personal terms with omari hutchinson and advance in ",
-    "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f juventus are advancing in talks to sign pape matar sarr with verbal prop",
-    "transfer news live: atletico give alvarez deadline, barcola set for long term li",
     "ornstein: barcola medical at liverpool expected in \u2018next 24 hours\u2019 as contract l",
     "\ud83d\udea8 \ud83d\udd34 \u26ab\ufe0f ac milan reach verbal agreement with nottingham forest to sign omari hutc",
     "\u201cverbal agreement\u201d for chelsea star to leave as further transfer talks to take p",
@@ -2373,7 +2370,11 @@
     "full financial details of gabriel jesus\u2019 barcelona transfer \u2013 romano",
     "\ud83d\udea8 \u26aa\ufe0f \ud83d\udd35 breaking: manchester city agree deal to sign iliman ndiaye from everton, ",
     "\ud83d\udea8 \ud83c\uddf8\ud83c\uddf3 iliman ndiaye has authorization from everton to undergo a medical at manche",
-    "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 samuel mbangula has agreed to join bologna from werder bremen, here we go!"
+    "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 samuel mbangula has agreed to join bologna from werder bremen, here we go!",
+    "done deal: robinio vaz set to join hull city on loan",
+    "juventus making a move for nick woltemade?",
+    "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f juventus have agreed personal terms tonight with nico tagliafico if juan",
+    "\ud83d\udea8 \ud83d\udca3 breaking: juventus reached verbal agreement with newcastle to sign nick wolt"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2674,11 +2675,11 @@
     "malick fofana": "https://r2.thesportsdb.com/images/media/player/cutout/vca9wj1766146326.png/small",
     "tosin": "https://www.thesportsdb.com/images/media/player/cutout/vfg1pr1787690891.png/small",
     "mykhaylo mudryk": "https://images.fotmob.com/image_resources/playerimages/976506.png",
-    "mikael baza": "",
     "vuk pavicevic": "",
-    "dinis": ""
+    "dinis": "",
+    "mikael baza": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

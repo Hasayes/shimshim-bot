@@ -1,8 +1,5 @@
 {
   "sent": [
-    "6b7a0076d74eb461dcdf3ec77577e654",
-    "65e7b2a9963237ff72086ef21fdc6ec3",
-    "b3a5f451762ed1ef306983b37f85d615",
     "d82ed9e3fe16d77b732b32ab23c37eaf",
     "ef2f376816ca12b0bade4f723a4de2ed",
     "df4e9fd380072622f4e2094881f882b5",
@@ -1499,7 +1496,10 @@
     "tg:FabrizioRomanoTG/65719",
     "tg:FabrizioRomanoTG/65720",
     "tg:FabrizioRomanoTG/65721",
-    "tg:FabrizioRomanoTG/65722"
+    "tg:FabrizioRomanoTG/65722",
+    "tg:FabrizioRomanoTG/65724",
+    "tg:FabrizioRomanoTG/65725",
+    "tg:FabrizioRomanoTG/65726"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1810,7 +1810,8 @@
     "carlos -> parma": 1,
     "s\u00f8rensen -> celtic": 1,
     "monga -> swansea": 1,
-    "n'guessan -> liverpool": 1
+    "n'guessan -> liverpool": 1,
+    "catovic -> barcelona": 1
   },
   "interest": [
     "interest: alvarez -> arsenal",
@@ -2064,8 +2065,6 @@
     "interest: pulisic -> tottenham"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83d\udd34 liverpool have booked a medical for bradley barcola on sunday, then he will ",
-    "\ud83d\udea8 \ud83d\udfe3 \ud83d\udd35 ibrahim mbaye will undergo first part of medical at aston villa today befo",
     "\u2018new\u2019 liverpool \u2018proposal\u2019 for senegalese star imminent as midfielder tells ando",
     "atletico madrid offered chance to sign arsenal star",
     "papers: arsenal hold talks with real madrid for endrick",
@@ -2363,11 +2362,12 @@
     "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f exclusive: swansea agree deal to sign jeremy monga from manchester city,",
     "\ud83d\udea8 \ud83d\udd34 liverpool agree deal to sign djylian n'guessan from saint etienne, here we g",
     "\ud83d\udea8 \ud83d\udd35 chelsea made contact with manu kone agents as one of the options for late mi",
-    "\ud83d\udfe3 \ud83d\udd35 aston villa consider ian maatsen as key player; untouchable and he will not "
+    "\ud83d\udfe3 \ud83d\udd35 aston villa consider ian maatsen as key player; untouchable and he will not ",
+    "\ud83d\udea8 \u26a0\ufe0f luiz henrique\u2019s move to as roma is not progressing despite verbal agreement",
+    "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 barcelona have agreed deal to sign 19 year old talented midfielder mirza c"
   ],
   "tg_update_offset": 263617426,
   "photos": {
-    "marc cucurella": "https://r2.thesportsdb.com/images/media/player/cutout/j7i66q1757002736.png/small",
     "nathan ake": "https://www.thesportsdb.com/images/media/player/cutout/istqgy1784661303.png/small",
     "sandro tonali": "https://r2.thesportsdb.com/images/media/player/cutout/b9oang1766824727.png/small",
     "pierce charles": "https://r2.thesportsdb.com/images/media/player/cutout/mq9wk41761336451.png/small",
@@ -2665,10 +2665,11 @@
     "oliver s\u00f8rensen": "https://r2.thesportsdb.com/images/media/player/cutout/kwsz361759780896.png/small",
     "jeremy monga": "https://r2.thesportsdb.com/images/media/player/cutout/6sdxxj1761861667.png/small",
     "djylian n'guessan": "https://r2.thesportsdb.com/images/media/player/cutout/yczqu01748684871.png/small",
-    "mikael baza": "",
-    "vuk pavicevic": ""
+    "vuk pavicevic": "",
+    "mirza catovic": "https://images.fotmob.com/image_resources/playerimages/1700267.png",
+    "mikael baza": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",
@@ -2850,6 +2851,7 @@
     "hsv hamburg": "https://r2.thesportsdb.com/images/media/team/badge/tvtppt1473453296.png/small",
     "lyon": "https://r2.thesportsdb.com/images/media/team/badge/blk9771656932845.png/small",
     "swansea": "https://r2.thesportsdb.com/images/media/team/badge/474rco1686920744.png/small",
-    "saint etienne": "https://r2.thesportsdb.com/images/media/team/badge/m4ej831656423694.png/small"
+    "saint etienne": "https://r2.thesportsdb.com/images/media/team/badge/m4ej831656423694.png/small",
+    "stuttgart": "https://r2.thesportsdb.com/images/media/team/badge/yppyux1473454085.png/small"
   }
 }

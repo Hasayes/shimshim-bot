@@ -1,8 +1,5 @@
 {
   "sent": [
-    "55c98ea62f0e3d92ddbf3fd620921d91",
-    "fbb1bb4f99c327b9eb74bedb21617a80",
-    "e15b5a1e5d70733c23e80d90722b6d4b",
     "a1527214361deacc90e54edf6337cc0f",
     "tg:FabrizioRomanoTG/64957",
     "741d6d95509347fd05dc087f02b9c47e",
@@ -1499,7 +1496,10 @@
     "e22c1d74b7423fff89add7b80db0f329",
     "0e7106df0734ec7b458985468f735c1c",
     "tg:FabrizioRomanoTG/65773",
-    "tg:FabrizioRomanoTG/65774"
+    "tg:FabrizioRomanoTG/65774",
+    "tg:FabrizioRomanoTG/65775",
+    "tg:FabrizioRomanoTG/65777",
+    "tg:FabrizioRomanoTG/65778"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2068,12 +2068,11 @@
     "interest: woltemade -> juventus",
     "interest: pulisic -> tottenham",
     "interest: fofana -> arsenal",
-    "interest: kroupi -> arsenal"
+    "interest: kroupi -> arsenal",
+    "interest: tosin -> tottenham",
+    "interest: mudryk -> tottenham"
   ],
   "titles": [
-    "liverpool transfer news: richard hughes makes late request to sign real madrid f",
-    "venezia agree \u20ac4 million deal to sign barcelona wonderkid toni fernandez as blau",
-    "rt @fabrizioromano : \ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f breaking: sofyan amrabat to ajax, here we go! verbal",
     "\ud83d\udea8 \u26ab\ufe0f \u26aa\ufe0f juventus ceo carnevali: \u201cwe thought we were in a good position to sign k",
     "\ud83d\udea8 \ud83c\udde8\ud83c\udde6 juventus ceo carnevali on jonathan david: \u201cin my view, all players can be u",
     "fernandez reaches verbal agreement with man city",
@@ -2370,12 +2369,13 @@
     "sources: arsenal make \u2018generational\u2019 talent their top target amid rising interes",
     "everton green light \u00a314 5m player exit, medical today report",
     "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f manchester city are advancing in talks for iliman ndiaye as exclusively r",
-    "\ud83d\udea8 \ud83d\udca3 breaking: manchester city have now made official club to club approach with "
+    "\ud83d\udea8 \ud83d\udca3 breaking: manchester city have now made official club to club approach with ",
+    "\ud83d\udea8 \u26ab\ufe0f \u26aa\ufe0f andrei ratiu, very disappointed and hurt by rayo stance as he wants fulh",
+    "\ud83d\udea8 \u26aa\ufe0f tottenham are ready to buy tosin on permanent deal from chelsea if they can",
+    "\ud83d\udea8 \u26aa\ufe0f breaking: mykhaylo mudryk says yes to tottenham move as he wants to work un"
   ],
   "tg_update_offset": 263617426,
   "photos": {
-    "jan paul van hecke": "https://r2.thesportsdb.com/images/media/player/cutout/37rw1u1756994375.png/small",
-    "alessandro zanoli": "https://r2.thesportsdb.com/images/media/player/cutout/hfjxfr1764172621.png/small",
     "piero hincapie": "https://r2.thesportsdb.com/images/media/player/cutout/7dltx01769330396.png/small",
     "jeremie boga": "https://r2.thesportsdb.com/images/media/player/cutout/9dndpt1776674931.png/small",
     "jakub kiwior": "https://r2.thesportsdb.com/images/media/player/cutout/s9vp9d1694204099.png/small",
@@ -2671,11 +2671,13 @@
     "robinio vaz": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Vaz_asse_om_cdf_2024.png/330px-Vaz_asse_om_cdf_2024.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "harvey elliott": "https://r2.thesportsdb.com/images/media/player/cutout/cqkvsj1756984276.png/small",
     "malick fofana": "https://r2.thesportsdb.com/images/media/player/cutout/vca9wj1766146326.png/small",
-    "mikael baza": "",
     "vuk pavicevic": "",
-    "dinis": ""
+    "dinis": "",
+    "tosin": "https://www.thesportsdb.com/images/media/player/cutout/vfg1pr1787690891.png/small",
+    "mykhaylo mudryk": "https://images.fotmob.com/image_resources/playerimages/976506.png",
+    "mikael baza": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

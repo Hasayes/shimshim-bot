@@ -1,8 +1,5 @@
 {
   "sent": [
-    "a16e054bc3f74c8b9af485cb4ef93d21",
-    "1f8feb0317550f7829b556582e4063e2",
-    "bb5bc91841573ef048035272037b2e20",
     "402f97c106c8170a4a65e56bd09ac99c",
     "tg:FabrizioRomanoTG/64999",
     "28745ddfc028b3bfdea5479ad27b36b5",
@@ -1499,7 +1496,10 @@
     "ff9a714f3ed4b1806068802f8c861bdb",
     "86917a7ae9b6a616de4da7a85b55cfad",
     "07bbbc46290c081a1ceae13272301a90",
-    "a32506b891882aafcfa3a7d984e8cbf2"
+    "a32506b891882aafcfa3a7d984e8cbf2",
+    "e92fafbdb69948425208eb3cc949c04b",
+    "d33effc0f4e4850b24c1f317892b5760",
+    "tg:FabrizioRomanoTG/65807"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1821,7 +1821,8 @@
     "doue -> bayer leverkusen": 1,
     "moore -> 1 fc koln": 2,
     "adarabioyo -> tottenham": 1,
-    "bajcetic -> celta vigo": 1
+    "bajcetic -> celta vigo": 1,
+    "grealish -> everton": 1
   },
   "interest": [
     "interest: alvarez -> arsenal",
@@ -2079,9 +2080,6 @@
     "interest: mudryk -> tottenham"
   ],
   "titles": [
-    "steven gerrard delivers huge verdict on liverpool's \u00a3123m transfer deal for brad",
-    "barcelona target julian alvarez speaks to mikel arteta but refuses to open door ",
-    "tottenham explore player plus cash deal for premier league star",
     "aston villa make approach to sign amad diallo as man united winger's decision re",
     "\ud83d\udcfa new youtube video uploaded! \ud83c\udfac \ud83d\udea8 \ud83d\udca3 hijack done! barca swap truth! three leaving",
     "whisper it, but arsenal have had a much worse transfer window than it looks",
@@ -2378,11 +2376,13 @@
     "fabrizio romano confirms \u00a330m liverpool signing is \u2018here we go\u2019 done",
     "fabrizio romano confirms \u00a330m liverpool signing is \u2018here we go\u2019 done teamtalk",
     "liverpool agree \u00a330m deal for genk goalkeeper lucca brughmans this is anfield",
-    "celtic secure deal for parma midfielder sorensen after gineitis attempt"
+    "celtic secure deal for parma midfielder sorensen after gineitis attempt",
+    "\u2018here we go\u2019 \u2013 fabrizio romano confirms liverpool \u2018agreement\u2019 as green light giv",
+    "liverpool agree \u00a330m transfer as medical booked and star accepts surprise offer",
+    "\ud83d\udea8 \ud83d\udca3 breaking: jack grealish will undergo medical as new everton player on tuesda"
   ],
   "tg_update_offset": 263617426,
   "photos": {
-    "manuel akanji": "https://r2.thesportsdb.com/images/media/player/cutout/k7o5oh1759408095.png/small",
     "rasmus h\u00f8jlund": "https://r2.thesportsdb.com/images/media/player/cutout/jop7ho1762288170.png/small",
     "rodri": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Rodri_France_v_Spain_7.24.26-096_%28cropped%29.jpg/330px-Rodri_France_v_Spain_7.24.26-096_%28cropped%29.jpg",
     "alex scott": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Alex_Scott_Interview_2023.jpg/330px-Alex_Scott_Interview_2023.jpg",
@@ -2678,12 +2678,13 @@
     "mykhaylo mudryk": "https://images.fotmob.com/image_resources/playerimages/976506.png",
     "guela doue": "https://r2.thesportsdb.com/images/media/player/cutout/l18qe01766402363.png/small",
     "tosin adarabioyo": "https://www.thesportsdb.com/images/media/player/cutout/vfg1pr1787690891.png/small",
-    "dinis": "",
     "stefan bajcetic": "https://r2.thesportsdb.com/images/media/player/cutout/yf8zmo1735799860.png/small",
     "mikael baza": "",
-    "vuk pavicevic": ""
+    "vuk pavicevic": "",
+    "jack grealish": "https://r2.thesportsdb.com/images/media/player/cutout/7ckk5a1756976762.png/small",
+    "dinis": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

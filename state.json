@@ -1,9 +1,5 @@
 {
   "sent": [
-    "29e2c2f34ce33db6e211bd7f237e7bdb",
-    "9c5fd8d19958991ded74cd57224c1487",
-    "8a97b0a45d010fd780095636cce86e4c",
-    "1c589883225bdd43ca34bc5b966c5eaa",
     "tg:FabrizioRomanoTG/65004",
     "7c1749ea24a4bae7e473fd23a68f9a11",
     "tg:FabrizioRomanoTG/65005",
@@ -1499,7 +1495,11 @@
     "a7a2308099d7f9eb034184685666b944",
     "8dca1b99f9212bd7de5859861b75667a",
     "77fa9a9796104126d2446ec3db643ae2",
-    "96efe13c696ffedd7d5448b3a9b3e5ed"
+    "96efe13c696ffedd7d5448b3a9b3e5ed",
+    "dd55b9fe565850288b02dc5d7d1d3c13",
+    "06125bb04c7345a9d3e0f30421f57a72",
+    "acd6df1bda7ce2a08fc1a683853c4d85",
+    "6de98d6b861ea8a97c9d64c5a6af9548"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2083,10 +2083,6 @@
     "interest: sanchez -> tottenham"
   ],
   "titles": [
-    "fabrizio romano confirms arsenal have vanquished liverpool with signing \u2018here we",
-    "opportunistic arsenal take risk over major attacker deal as top insider updates",
-    "chelsea star enzo fernandez agrees terms with manchester city",
-    "not juventus or roma: a surprise italian offer to snatch kessie",
     "david ornstein reveals what julian alvarez told arsenal boss mikel arteta amid b",
     "report kessie ready for atalanta return after juventus talks abandoned",
     "record breaking liverpool \u2018proposal\u2019 for winger imminent \u2013 \u2018confidence is high t",
@@ -2382,7 +2378,11 @@
     "romano gives liverpool \u2018here we go\u2019 to attacker signing after cody gakpo update",
     "just in: chelsea contact agents to explore opportunity to sign frenchman in late",
     "juventus make \u20ac32 5m bid for joshua zirkzee",
-    "transfer: barcelona secure mika faye\u2019s signing as midfielder leaves man utd"
+    "transfer: barcelona secure mika faye\u2019s signing as midfielder leaves man utd",
+    "liverpool\u2019s \u20ac35m transfer is done \u2013 but his destination this season still isn\u2019t ",
+    "romano: liverpool in active talks to sign 'electric' winger after bradley barcol",
+    "manchester city make brutal call on jeremy monga just weeks after arsenal snub h",
+    "official: inter send massolin to cagliari in potential \u20ac7m deal with buy back op"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2682,12 +2682,12 @@
     "jack grealish": "https://r2.thesportsdb.com/images/media/player/cutout/7ckk5a1756976762.png/small",
     "robert sanchez": "https://www.thesportsdb.com/images/media/player/cutout/tp7tca1787691371.png/small",
     "arijon ibrahimovic": "https://images.fotmob.com/image_resources/playerimages/1327150.png",
-    "mikael baza": "",
     "vuk pavicevic": "",
     "mika faye": "",
-    "dinis": ""
+    "dinis": "",
+    "mikael baza": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

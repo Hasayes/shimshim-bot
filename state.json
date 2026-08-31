@@ -1,6 +1,5 @@
 {
   "sent": [
-    "fc1977debd9bfd852fe42c4949b20eeb",
     "77a3df79a9af82c9ece55b4fb746314a",
     "31e06f158e11c334401fd0bd524bdabc",
     "3d1f12e35777144a3faccbf02cb7b5f6",
@@ -1499,7 +1498,8 @@
     "tg:FabrizioRomanoTG/65751",
     "tg:FabrizioRomanoTG/65752",
     "tg:FabrizioRomanoTG/65755",
-    "d138824c1da4fef03330e831ecd3c6fe"
+    "d138824c1da4fef03330e831ecd3c6fe",
+    "808feebf16343ad7948b27b91da74c9c"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2068,7 +2068,6 @@
     "interest: pulisic -> tottenham"
   ],
   "titles": [
-    "rt @fabrizioromano : \ud83d\udea8 \u26aa\ufe0f real madrid have agreed deal to sign 19 year old midfi",
     "manchester united deal agreed with left back transfer in the works before deadli",
     "man utd news: left back transfer priority switches as chelsea star offered",
     "\ud83d\udea8 \u26ab\ufe0f \ud83d\udd35 franck kessie returns to atalanta after leaving al ahli and talks collaps",
@@ -2367,7 +2366,8 @@
     "\ud83d\udea8 \u26ab\ufe0f \ud83d\udd35 atalanta have agreed deal to sign jonathan rowe from bologna, here we go!",
     "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f juventus are in direct talks with nico tagliafico\u2019s camp over possible m",
     "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f napoli have agreed deal to sign 21 year old striker dinis from sion as in",
-    "seven transfers liverpool can complete before deadline as barcola joins and \u00a385m"
+    "seven transfers liverpool can complete before deadline as barcola joins and \u00a385m",
+    "rafael leao\u2019s ac milan to galatasaray fee and salary officially revealed as amor"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2668,11 +2668,11 @@
     "djylian n'guessan": "https://r2.thesportsdb.com/images/media/player/cutout/yczqu01748684871.png/small",
     "mirza catovic": "https://images.fotmob.com/image_resources/playerimages/1700267.png",
     "robinio vaz": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Vaz_asse_om_cdf_2024.png/330px-Vaz_asse_om_cdf_2024.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "mikael baza": "",
     "vuk pavicevic": "",
-    "dinis": ""
+    "dinis": "",
+    "mikael baza": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

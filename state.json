@@ -1,6 +1,5 @@
 {
   "sent": [
-    "292957d8d128b84c1e4371854eb55a21",
     "7fe3b8751cf79bef86191e74ac97ac3f",
     "fc1977debd9bfd852fe42c4949b20eeb",
     "77a3df79a9af82c9ece55b4fb746314a",
@@ -1499,7 +1498,8 @@
     "tg:FabrizioRomanoTG/65749",
     "tg:FabrizioRomanoTG/65750",
     "tg:FabrizioRomanoTG/65751",
-    "tg:FabrizioRomanoTG/65752"
+    "tg:FabrizioRomanoTG/65752",
+    "tg:FabrizioRomanoTG/65755"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1813,7 +1813,8 @@
     "n'guessan -> liverpool": 1,
     "catovic -> barcelona": 1,
     "david -> atletico madrid": 1,
-    "vaz -> hull city": 1
+    "vaz -> hull city": 1,
+    "dinis -> napoli": 1
   },
   "interest": [
     "interest: alvarez -> arsenal",
@@ -2067,7 +2068,6 @@
     "interest: pulisic -> tottenham"
   ],
   "titles": [
-    "\ud83d\udea8 \u26aa\ufe0f real madrid have agreed deal to sign 19 year old midfielder sergio martinez",
     "\ud83d\udea8 \u26ab\ufe0f \ud83d\udd35 atalanta have sent an official contract proposal to franck kessie to try ",
     "rt @fabrizioromano : \ud83d\udea8 \u26aa\ufe0f real madrid have agreed deal to sign 19 year old midfi",
     "manchester united deal agreed with left back transfer in the works before deadli",
@@ -2366,11 +2366,11 @@
     "\ud83d\udea8 \ud83d\udc2f robinio vaz has authorization from as roma to undergo medical and sign in as",
     "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 samuel mbangula to bologna, deal almost done with green light next for med",
     "\ud83d\udea8 \u26ab\ufe0f \ud83d\udd35 atalanta have agreed deal to sign jonathan rowe from bologna, here we go!",
-    "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f juventus are in direct talks with nico tagliafico\u2019s camp over possible m"
+    "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f juventus are in direct talks with nico tagliafico\u2019s camp over possible m",
+    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f napoli have agreed deal to sign 21 year old striker dinis from sion as in"
   ],
   "tg_update_offset": 263617426,
   "photos": {
-    "sandro tonali": "https://r2.thesportsdb.com/images/media/player/cutout/b9oang1766824727.png/small",
     "pierce charles": "https://r2.thesportsdb.com/images/media/player/cutout/mq9wk41761336451.png/small",
     "ansu fati": "https://r2.thesportsdb.com/images/media/player/cutout/54v6h91766238031.png/small",
     "jan paul van hecke": "https://r2.thesportsdb.com/images/media/player/cutout/37rw1u1756994375.png/small",
@@ -2669,9 +2669,10 @@
     "mirza catovic": "https://images.fotmob.com/image_resources/playerimages/1700267.png",
     "robinio vaz": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Vaz_asse_om_cdf_2024.png/330px-Vaz_asse_om_cdf_2024.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "mikael baza": "",
+    "dinis": "",
     "vuk pavicevic": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",
@@ -2855,6 +2856,7 @@
     "swansea": "https://r2.thesportsdb.com/images/media/team/badge/474rco1686920744.png/small",
     "saint etienne": "https://r2.thesportsdb.com/images/media/team/badge/m4ej831656423694.png/small",
     "stuttgart": "https://r2.thesportsdb.com/images/media/team/badge/yppyux1473454085.png/small",
-    "hull city": "https://r2.thesportsdb.com/images/media/team/badge/fbqqda1601726113.png/small"
+    "hull city": "https://r2.thesportsdb.com/images/media/team/badge/fbqqda1601726113.png/small",
+    "sion": "https://r2.thesportsdb.com/images/media/team/badge/gzpfmv1689085319.png/small"
   }
 }

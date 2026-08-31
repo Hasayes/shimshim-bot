@@ -1,5 +1,29 @@
 [
  {
+  "id": "2a8eca9a3526b87586b7eefed59aeffa",
+  "ts": "2026-08-31T09:00:50+00:00",
+  "kind": "interest",
+  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/qwii9r1758893548.png/small",
+  "stage": "\u2014",
+  "player": "Christian Pulisic",
+  "position": "\u2014",
+  "age": "\u2014",
+  "from_club": "Milan",
+  "to_club": "Tottenham Hotspur",
+  "fee": "\u2014",
+  "style": "Direct, pacey winger who combines technical skill with athleticism to create and score from wide positions.",
+  "fit": "Deploy on the right flank to provide width and attacking thrust, utilizing his pace to stretch defenses and support Spurs' counter-attacking transitions.",
+  "source": "BBC",
+  "sources": [
+   "BBC"
+  ],
+  "srcTier": "tier1",
+  "summary": "Tottenham have enquired about Christian Pulisic.",
+  "outlet": "bbc",
+  "url": "https://www.bbc.co.uk/sport/football/articles/c89jxnelpywo",
+  "title": "Tottenham enquire about Pulisic - Monday's gossip"
+ },
+ {
   "id": "8cc10d14b247e037789e9b88d1004bd4",
   "ts": "2026-08-31T07:15:32+00:00",
   "kind": "interest",

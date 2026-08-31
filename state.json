@@ -1,7 +1,5 @@
 {
   "sent": [
-    "e5ea520bdd5e90c9fe08574fc95a21f4",
-    "a84a30d7c65a3ee921e091bc22c94d1b",
     "512d528a2a5b47d27d787a474bce0991",
     "670a51c6a606aab16bb622735e715734",
     "efadde147bb9771c26841085a30f53f2",
@@ -1499,7 +1497,9 @@
     "21774d5f2ef87a6d37f72e772583a03d",
     "268dd38f22a2f7d74edee6af599ea8ca",
     "bb505a79552578456d382daed0779f9f",
-    "c4ebc6d7852ae2dfeca97b0b9135fafb"
+    "c4ebc6d7852ae2dfeca97b0b9135fafb",
+    "acf9362f8332c86865fa7c8ad78d9dbc",
+    "4d116da9abf8ac31ce22950d4cd6bfc2"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2082,7 +2082,6 @@
     "interest: sanchez -> tottenham"
   ],
   "titles": [
-    "\u2018he\u2019s spoken to mikel arteta\u2019 \u2013 julian alvarez says no to arsenal & still has he",
     "fabrizio romano reveals alejandro balde stance on joining man utd from barcelona",
     "chelsea midfield signing set for medical in next 48 hours after blues agree fee ",
     "arsenal fans all say the same thing as julian alvarez brutally snubs mikel artet",
@@ -2381,7 +2380,8 @@
     "tottenham considering mind boggling chelsea raid after sale approved \u2013 exclusive",
     "augsburg fend off werder in race for bayern youngster",
     "fabrizio romano confirms leeds \u2018here we go\u2019 for willy gnonto exit with \u00a362m repl",
-    "breaking: bayern munich\u2019s arijon ibrahimovic set for loan with fc augsburg"
+    "breaking: bayern munich\u2019s arijon ibrahimovic set for loan with fc augsburg",
+    "alvarez's replacement has arrived: will atletico madrid let the argentine go?"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2679,14 +2679,14 @@
     "guela doue": "https://r2.thesportsdb.com/images/media/player/cutout/l18qe01766402363.png/small",
     "tosin adarabioyo": "https://www.thesportsdb.com/images/media/player/cutout/vfg1pr1787690891.png/small",
     "stefan bajcetic": "https://r2.thesportsdb.com/images/media/player/cutout/yf8zmo1735799860.png/small",
-    "vuk pavicevic": "",
     "jack grealish": "https://r2.thesportsdb.com/images/media/player/cutout/7ckk5a1756976762.png/small",
     "dinis": "",
     "robert sanchez": "https://www.thesportsdb.com/images/media/player/cutout/tp7tca1787691371.png/small",
     "arijon ibrahimovic": "https://images.fotmob.com/image_resources/playerimages/1327150.png",
-    "mikael baza": ""
+    "mikael baza": "",
+    "vuk pavicevic": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

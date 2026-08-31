@@ -1,7 +1,5 @@
 {
   "sent": [
-    "1515089384588c3853054f905257fab3",
-    "608035979e2b5ad071d522a9a2a27745",
     "eed75800e3605eca8ff9886616b57a30",
     "6b7a0076d74eb461dcdf3ec77577e654",
     "65e7b2a9963237ff72086ef21fdc6ec3",
@@ -1499,7 +1497,9 @@
     "0cceb2f42203dc8df7110cf9859613e1",
     "tg:FabrizioRomanoTG/65716",
     "tg:FabrizioRomanoTG/65718",
-    "tg:FabrizioRomanoTG/65719"
+    "tg:FabrizioRomanoTG/65719",
+    "tg:FabrizioRomanoTG/65720",
+    "tg:FabrizioRomanoTG/65721"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1809,7 +1809,8 @@
     "brughmans -> liverpool": 1,
     "carlos -> parma": 1,
     "s\u00f8rensen -> celtic": 1,
-    "monga -> swansea": 1
+    "monga -> swansea": 1,
+    "n'guessan -> liverpool": 1
   },
   "interest": [
     "interest: alvarez -> arsenal",
@@ -2063,8 +2064,6 @@
     "interest: pulisic -> tottenham"
   ],
   "titles": [
-    "real madrid ready to sell left back to man utd as ineos offered two strikers",
-    "arsenal & barca monitor rashford saturday's gossip",
     "rt @fabrizioromano : \ud83d\udea8 \ud83d\udca3 breaking: liverpool reach verbal agreement to sign brad",
     "\ud83d\udea8 \ud83d\udd34 liverpool have booked a medical for bradley barcola on sunday, then he will ",
     "\ud83d\udea8 \ud83d\udfe3 \ud83d\udd35 ibrahim mbaye will undergo first part of medical at aston villa today befo",
@@ -2362,11 +2361,12 @@
     "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f excl: benfica advance on new deal for tomas araujo benfica rejected appro",
     "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f exclusive: augsburg agree deal to sign arijon ibrahimovic from fc bayern,",
     "\ud83d\udea8 \ud83d\udfe2 \u26aa\ufe0f oliver s\u00f8rensen leaves parma and joins celtic on initial loan deal with b",
-    "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f exclusive: swansea agree deal to sign jeremy monga from manchester city,"
+    "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f exclusive: swansea agree deal to sign jeremy monga from manchester city,",
+    "\ud83d\udea8 \ud83d\udd34 liverpool agree deal to sign djylian n'guessan from saint etienne, here we g",
+    "\ud83d\udea8 \ud83d\udd35 chelsea made contact with manu kone agents as one of the options for late mi"
   ],
   "tg_update_offset": 263617426,
   "photos": {
-    "alejandro grimaldo": "https://r2.thesportsdb.com/images/media/player/cutout/ddeb6b1756316030.png/small",
     "marc cucurella": "https://r2.thesportsdb.com/images/media/player/cutout/j7i66q1757002736.png/small",
     "nathan ake": "https://www.thesportsdb.com/images/media/player/cutout/istqgy1784661303.png/small",
     "sandro tonali": "https://r2.thesportsdb.com/images/media/player/cutout/b9oang1766824727.png/small",
@@ -2662,12 +2662,13 @@
     "christian pulisic": "https://r2.thesportsdb.com/images/media/player/cutout/qwii9r1758893548.png/small",
     "youssouf fofana": "https://r2.thesportsdb.com/images/media/player/cutout/3npg7a1758892447.png/small",
     "diego carlos": "https://r2.thesportsdb.com/images/media/player/cutout/u0hz4n1764278170.png/small",
-    "mikael baza": "",
     "oliver s\u00f8rensen": "https://r2.thesportsdb.com/images/media/player/cutout/kwsz361759780896.png/small",
     "jeremy monga": "https://r2.thesportsdb.com/images/media/player/cutout/6sdxxj1761861667.png/small",
-    "vuk pavicevic": ""
+    "vuk pavicevic": "",
+    "djylian n'guessan": "https://r2.thesportsdb.com/images/media/player/cutout/yczqu01748684871.png/small",
+    "mikael baza": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",
@@ -2848,6 +2849,7 @@
     "cagliari": "https://r2.thesportsdb.com/images/media/team/badge/wvsvxt1447534471.png/small",
     "hsv hamburg": "https://r2.thesportsdb.com/images/media/team/badge/tvtppt1473453296.png/small",
     "lyon": "https://r2.thesportsdb.com/images/media/team/badge/blk9771656932845.png/small",
-    "swansea": "https://r2.thesportsdb.com/images/media/team/badge/474rco1686920744.png/small"
+    "swansea": "https://r2.thesportsdb.com/images/media/team/badge/474rco1686920744.png/small",
+    "saint etienne": "https://r2.thesportsdb.com/images/media/team/badge/m4ej831656423694.png/small"
   }
 }

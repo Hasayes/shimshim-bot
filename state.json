@@ -1,10 +1,5 @@
 {
   "sent": [
-    "ef2f376816ca12b0bade4f723a4de2ed",
-    "df4e9fd380072622f4e2094881f882b5",
-    "252f22e68c600705671b7b863b0fb168",
-    "31160da9944f0f0989bea0867edb1d5b",
-    "348809734857fc4b689d379705c4c150",
     "6ca4375ae69149ae3eeba655b7f9f02f",
     "058c7eaf9c75d794f62c59f4f8cb1d96",
     "100851bb68326c3f28fdecaee0cdc661",
@@ -1499,7 +1494,12 @@
     "tg:FabrizioRomanoTG/65724",
     "tg:FabrizioRomanoTG/65725",
     "tg:FabrizioRomanoTG/65726",
-    "266a6ca97dc7c3681edc8bc6b07e644c"
+    "266a6ca97dc7c3681edc8bc6b07e644c",
+    "586811596f3b6556ce2b641f23eabcb7",
+    "tg:FabrizioRomanoTG/65729",
+    "tg:FabrizioRomanoTG/65730",
+    "tg:FabrizioRomanoTG/65731",
+    "tg:FabrizioRomanoTG/65732"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1756,7 +1756,7 @@
     "gonzalez -> newcastle": 2,
     "nkunku -> rb leipzig": 2,
     "grabara -> juventus": 2,
-    "allan -> manchester city": 1,
+    "allan -> manchester city": 2,
     "sarr -> real sociedad": 2,
     "poku -> besiktas": 2,
     "delap -> nottingham forest": 2,
@@ -1811,7 +1811,8 @@
     "s\u00f8rensen -> celtic": 1,
     "monga -> swansea": 1,
     "n'guessan -> liverpool": 1,
-    "catovic -> barcelona": 1
+    "catovic -> barcelona": 1,
+    "david -> atletico madrid": 1
   },
   "interest": [
     "interest: alvarez -> arsenal",
@@ -2065,11 +2066,6 @@
     "interest: pulisic -> tottenham"
   ],
   "titles": [
-    "atletico madrid offered chance to sign arsenal star",
-    "papers: arsenal hold talks with real madrid for endrick",
-    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f atletico madrid mantain active talks with jonathan david\u2019s camp and also ",
-    "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 excl: genoa reach verbal agreement to sign robinho jr from santos, here we",
-    "leao: \u2018my love for milan will never end, but i wanted different goodbye\u2019",
     "chelsea make major move for liverpool target as player gives transfer green ligh",
     "\ud83d\udea8 \ud83d\udd34 cody gakpo\u2019s future will be decided after today\u2019s game with key meetings set",
     "\ud83d\udea8 \ud83d\udfe2 \u26ab\ufe0f excl: sassuolo have agreed deal to sign duje caleta car from olympique ly",
@@ -2364,7 +2360,12 @@
     "\ud83d\udfe3 \ud83d\udd35 aston villa consider ian maatsen as key player; untouchable and he will not ",
     "\ud83d\udea8 \u26a0\ufe0f luiz henrique\u2019s move to as roma is not progressing despite verbal agreement",
     "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 barcelona have agreed deal to sign 19 year old talented midfielder mirza c",
-    "swap deal chelsea to trade christopher nkunku for bayern talent"
+    "swap deal chelsea to trade christopher nkunku for bayern talent",
+    "chelsea open talks for roma\u2019s kone in final 48 hours of summer transfer window",
+    "\ud83d\udd34 \u26aa\ufe0f \ud83c\udde8\ud83c\udde6 atletico madrid are moving to the final stages of jonathan david deal, p",
+    "\ud83d\udea8 \ud83e\ude75 official, confirmed manchester city sign allan from palmeiras in a deal wort",
+    "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f juventus have agreed on personal terms with nick woltemade who wants the",
+    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f breaking: jonathan david to atletico madrid, here we go! verbal agreement"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2666,10 +2667,10 @@
     "jeremy monga": "https://r2.thesportsdb.com/images/media/player/cutout/6sdxxj1761861667.png/small",
     "djylian n'guessan": "https://r2.thesportsdb.com/images/media/player/cutout/yczqu01748684871.png/small",
     "mirza catovic": "https://images.fotmob.com/image_resources/playerimages/1700267.png",
-    "mikael baza": "",
-    "vuk pavicevic": ""
+    "vuk pavicevic": "",
+    "mikael baza": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

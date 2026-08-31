@@ -1,5 +1,53 @@
 [
  {
+  "id": "tg:FabrizioRomanoTG/65301",
+  "ts": "2026-08-31T12:15:56+00:00",
+  "kind": "deal",
+  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/nyd9d91759225738.png/small",
+  "stage": "Here we go",
+  "player": "Jonathan David",
+  "position": "Striker",
+  "age": "\u2014",
+  "from_club": "Juventus",
+  "to_club": "Atl\u00e9tico Madrid",
+  "fee": "Loan with buy option",
+  "style": "Clinical and efficient finisher with good movement in the box and pressing intensity off the ball.",
+  "fit": "Deploy as the primary striker to lead Atl\u00e9tico's attack and provide consistent goal-scoring threat within their structured defensive system.",
+  "source": "Fabrizio Romano",
+  "sources": [
+   "Fabrizio Romano"
+  ],
+  "srcTier": "tier1",
+  "summary": "Jonathan David has reached a verbal agreement to join Atl\u00e9tico Madrid from Juventus on an initial loan deal with a buy option clause, with Atl\u00e9tico covering more than 50% of his salary.",
+  "outlet": "Telegram @fabrizioromanotg",
+  "url": "https://t.me/FabrizioRomanoTG/65732",
+  "title": "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f BREAKING: Jonathan David to Atl\u00e9tico Madrid, here we go! Verbal agreement done with Juventus. Initial loan deal w"
+ },
+ {
+  "id": "tg:FabrizioRomanoTG/64991",
+  "ts": "2026-08-31T12:15:49+00:00",
+  "kind": "deal",
+  "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Allan-palmeiras-sport-ago-25-4.jpg/330px-Allan-palmeiras-sport-ago-25-4.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "stage": "Completed",
+  "player": "Allan",
+  "position": "Winger",
+  "age": "22",
+  "from_club": "Palmeiras",
+  "to_club": "Manchester City",
+  "fee": "\u20ac40m+",
+  "style": "Dynamic midfielder with strong ball-carrying ability and pressing intensity, thriving in possession-based systems.",
+  "fit": "Best utilized as a box-to-box midfielder in City's high-pressing setup, where his energy and technical quality can rotate within the midfield three.",
+  "source": "Fabrizio Romano",
+  "summary": "Manchester City have officially completed the signing of Allan from Palmeiras for a fee exceeding \u20ac40m.",
+  "outlet": "Telegram @fabrizioromanotg",
+  "url": "https://t.me/FabrizioRomanoTG/65730",
+  "title": "\ud83d\udea8 \ud83e\ude75 Official, confirmed. Manchester City sign Allan from Palmeiras in a deal worth more than \u20ac40m. Deal done by agent Pa",
+  "sources": [
+   "Fabrizio Romano"
+  ],
+  "srcTier": "tier1"
+ },
+ {
   "id": "tg:FabrizioRomanoTG/65725",
   "ts": "2026-08-31T11:30:44+00:00",
   "kind": "deal",
@@ -1617,30 +1665,6 @@
   "title": "Official: Perin leaves Juventus to join Palermo in Serie B"
  },
  {
-  "id": "tg:FabrizioRomanoTG/65301",
-  "ts": "2026-08-26T06:15:39+00:00",
-  "kind": "interest",
-  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/nyd9d91759225738.png/small",
-  "stage": "\u2014",
-  "player": "Jonathan David",
-  "position": "Striker",
-  "age": "\u2014",
-  "from_club": "Juventus",
-  "to_club": "Atletico Madrid",
-  "fee": "\u2014",
-  "style": "Clinical, intelligent striker with strong finishing ability and positioning in the box.",
-  "fit": "Deploy as the primary center forward to lead Atl\u00e9tico's attack and provide consistent goal-scoring threat in La Liga and European competition.",
-  "source": "Fabrizio Romano",
-  "sources": [
-   "Fabrizio Romano"
-  ],
-  "srcTier": "tier1",
-  "summary": "Atl\u00e9tico Madrid made contact with Juventus to inquire about striker Jonathan David and deal conditions, with no official bid or negotiations yet underway.",
-  "outlet": "Telegram @fabrizioromanotg",
-  "url": "https://t.me/FabrizioRomanoTG/65301",
-  "title": "\ud83d\udea8 \u26aa\ufe0f \ud83d\udd34 Atl\u00e9tico Madrid keep looking for new striker and made contact with Juventus about Jonathan David. No official bid"
- },
- {
   "id": "cef074ec339de7ccee08b11caf4cf362",
   "ts": "2026-08-26T06:15:35+00:00",
   "kind": "deal",
@@ -1808,30 +1832,6 @@
   "outlet": "Telegram @fabrizioromanotg",
   "url": "https://t.me/FabrizioRomanoTG/65221",
   "title": "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f Real Sociedad reach verbal agreement to sign Mamadou Sarr on loan from Chelsea, here we go! Clubs to prepare pape"
- },
- {
-  "id": "tg:FabrizioRomanoTG/64991",
-  "ts": "2026-08-24T18:00:40+00:00",
-  "kind": "deal",
-  "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Allan-palmeiras-sport-ago-25-4.jpg/330px-Allan-palmeiras-sport-ago-25-4.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-  "stage": "Here we go",
-  "player": "Allan",
-  "position": "Winger",
-  "age": "22",
-  "from_club": "Palmeiras",
-  "to_club": "Manchester City",
-  "fee": "\u20ac40m fixed plus add-ons",
-  "style": "Pacey winger with sharp dribbling skills and direct running style from Brazil's Palmeiras system.",
-  "fit": "Can provide width and attacking depth for Enzo Maresca's system as a backup option on the flank.",
-  "source": "Fabrizio Romano",
-  "summary": "Manchester City reach verbal agreement with Palmeiras for winger Allan. Transfer worth \u20ac40m fixed plus add-ons, with documents being exchanged between clubs.",
-  "outlet": "Telegram @fabrizioromanotg",
-  "url": "https://t.me/FabrizioRomanoTG/65214",
-  "title": "\ud83d\udea8 \ud83e\ude75 \ud83e\udd0d BREAKING: Manchester City reach verbal agreement with Palmeiras for Allan, here we go! New winger incoming for Enz",
-  "sources": [
-   "Fabrizio Romano"
-  ],
-  "srcTier": "tier1"
  },
  {
   "id": "tg:FabrizioRomanoTG/65094",

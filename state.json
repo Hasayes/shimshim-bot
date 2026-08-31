@@ -1,6 +1,5 @@
 {
   "sent": [
-    "6ca4375ae69149ae3eeba655b7f9f02f",
     "058c7eaf9c75d794f62c59f4f8cb1d96",
     "100851bb68326c3f28fdecaee0cdc661",
     "ae6b91e2b5c8abed6184a83ade1c40a5",
@@ -1499,7 +1498,8 @@
     "tg:FabrizioRomanoTG/65729",
     "tg:FabrizioRomanoTG/65730",
     "tg:FabrizioRomanoTG/65731",
-    "tg:FabrizioRomanoTG/65732"
+    "tg:FabrizioRomanoTG/65732",
+    "tg:FabrizioRomanoTG/65734"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2066,7 +2066,6 @@
     "interest: pulisic -> tottenham"
   ],
   "titles": [
-    "chelsea make major move for liverpool target as player gives transfer green ligh",
     "\ud83d\udea8 \ud83d\udd34 cody gakpo\u2019s future will be decided after today\u2019s game with key meetings set",
     "\ud83d\udea8 \ud83d\udfe2 \u26ab\ufe0f excl: sassuolo have agreed deal to sign duje caleta car from olympique ly",
     "chelsea and man utd heavily linked why is mathys tel desperate",
@@ -2365,7 +2364,8 @@
     "\ud83d\udd34 \u26aa\ufe0f \ud83c\udde8\ud83c\udde6 atletico madrid are moving to the final stages of jonathan david deal, p",
     "\ud83d\udea8 \ud83e\ude75 official, confirmed manchester city sign allan from palmeiras in a deal wort",
     "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f juventus have agreed on personal terms with nick woltemade who wants the",
-    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f breaking: jonathan david to atletico madrid, here we go! verbal agreement"
+    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f breaking: jonathan david to atletico madrid, here we go! verbal agreement",
+    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f gennaro wijks will move to rb leipzig from sparta rotterdam, agreement do"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2667,10 +2667,10 @@
     "jeremy monga": "https://r2.thesportsdb.com/images/media/player/cutout/6sdxxj1761861667.png/small",
     "djylian n'guessan": "https://r2.thesportsdb.com/images/media/player/cutout/yczqu01748684871.png/small",
     "mirza catovic": "https://images.fotmob.com/image_resources/playerimages/1700267.png",
-    "vuk pavicevic": "",
-    "mikael baza": ""
+    "mikael baza": "",
+    "vuk pavicevic": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

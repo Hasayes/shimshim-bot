@@ -1,9 +1,5 @@
 {
   "sent": [
-    "402f97c106c8170a4a65e56bd09ac99c",
-    "tg:FabrizioRomanoTG/64999",
-    "28745ddfc028b3bfdea5479ad27b36b5",
-    "bacb5fa30030d006d555c7d5ff9badbe",
     "e5ea520bdd5e90c9fe08574fc95a21f4",
     "a84a30d7c65a3ee921e091bc22c94d1b",
     "512d528a2a5b47d27d787a474bce0991",
@@ -1499,7 +1495,11 @@
     "a32506b891882aafcfa3a7d984e8cbf2",
     "e92fafbdb69948425208eb3cc949c04b",
     "d33effc0f4e4850b24c1f317892b5760",
-    "tg:FabrizioRomanoTG/65807"
+    "tg:FabrizioRomanoTG/65807",
+    "21774d5f2ef87a6d37f72e772583a03d",
+    "268dd38f22a2f7d74edee6af599ea8ca",
+    "bb505a79552578456d382daed0779f9f",
+    "c4ebc6d7852ae2dfeca97b0b9135fafb"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1822,7 +1822,8 @@
     "moore -> 1 fc koln": 2,
     "adarabioyo -> tottenham": 1,
     "bajcetic -> celta vigo": 1,
-    "grealish -> everton": 1
+    "grealish -> everton": 1,
+    "ibrahimovic -> fc augsburg": 2
   },
   "interest": [
     "interest: alvarez -> arsenal",
@@ -2077,13 +2078,10 @@
     "interest: fofana -> arsenal",
     "interest: kroupi -> arsenal",
     "interest: tosin -> tottenham",
-    "interest: mudryk -> tottenham"
+    "interest: mudryk -> tottenham",
+    "interest: sanchez -> tottenham"
   ],
   "titles": [
-    "aston villa make approach to sign amad diallo as man united winger's decision re",
-    "\ud83d\udcfa new youtube video uploaded! \ud83c\udfac \ud83d\udea8 \ud83d\udca3 hijack done! barca swap truth! three leaving",
-    "whisper it, but arsenal have had a much worse transfer window than it looks",
-    "fabrizio romano says alejandro balde to man utd possible on one condition teamta",
     "\u2018he\u2019s spoken to mikel arteta\u2019 \u2013 julian alvarez says no to arsenal & still has he",
     "fabrizio romano reveals alejandro balde stance on joining man utd from barcelona",
     "chelsea midfield signing set for medical in next 48 hours after blues agree fee ",
@@ -2379,12 +2377,14 @@
     "celtic secure deal for parma midfielder sorensen after gineitis attempt",
     "\u2018here we go\u2019 \u2013 fabrizio romano confirms liverpool \u2018agreement\u2019 as green light giv",
     "liverpool agree \u00a330m transfer as medical booked and star accepts surprise offer",
-    "\ud83d\udea8 \ud83d\udca3 breaking: jack grealish will undergo medical as new everton player on tuesda"
+    "\ud83d\udea8 \ud83d\udca3 breaking: jack grealish will undergo medical as new everton player on tuesda",
+    "tottenham considering mind boggling chelsea raid after sale approved \u2013 exclusive",
+    "augsburg fend off werder in race for bayern youngster",
+    "fabrizio romano confirms leeds \u2018here we go\u2019 for willy gnonto exit with \u00a362m repl",
+    "breaking: bayern munich\u2019s arijon ibrahimovic set for loan with fc augsburg"
   ],
   "tg_update_offset": 263617426,
   "photos": {
-    "rasmus h\u00f8jlund": "https://r2.thesportsdb.com/images/media/player/cutout/jop7ho1762288170.png/small",
-    "rodri": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Rodri_France_v_Spain_7.24.26-096_%28cropped%29.jpg/330px-Rodri_France_v_Spain_7.24.26-096_%28cropped%29.jpg",
     "alex scott": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Alex_Scott_Interview_2023.jpg/330px-Alex_Scott_Interview_2023.jpg",
     "joao pedro": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Jo%C3%A3o_Pedro%2C_2025_FIFA_Club_World_Cup_final_%2854654843615%29.jpg",
     "emmanuel emegha": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/FC_RB_Salzburg_gegen_SK_Sturm_Graz%282023-05-21%29_35_%28Emanuel_Emegha%29.jpg/330px-FC_RB_Salzburg_gegen_SK_Sturm_Graz%282023-05-21%29_35_%28Emanuel_Emegha%29.jpg",
@@ -2679,12 +2679,14 @@
     "guela doue": "https://r2.thesportsdb.com/images/media/player/cutout/l18qe01766402363.png/small",
     "tosin adarabioyo": "https://www.thesportsdb.com/images/media/player/cutout/vfg1pr1787690891.png/small",
     "stefan bajcetic": "https://r2.thesportsdb.com/images/media/player/cutout/yf8zmo1735799860.png/small",
-    "mikael baza": "",
     "vuk pavicevic": "",
     "jack grealish": "https://r2.thesportsdb.com/images/media/player/cutout/7ckk5a1756976762.png/small",
-    "dinis": ""
+    "dinis": "",
+    "robert sanchez": "https://www.thesportsdb.com/images/media/player/cutout/tp7tca1787691371.png/small",
+    "arijon ibrahimovic": "https://images.fotmob.com/image_resources/playerimages/1327150.png",
+    "mikael baza": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",
@@ -2871,6 +2873,7 @@
     "hull city": "https://r2.thesportsdb.com/images/media/team/badge/fbqqda1601726113.png/small",
     "sion": "https://r2.thesportsdb.com/images/media/team/badge/gzpfmv1689085319.png/small",
     "valencia": "https://r2.thesportsdb.com/images/media/team/badge/dm8l6o1655594864.png/small",
-    "1 fc koln": "https://r2.thesportsdb.com/images/media/team/badge/2j1sc91566049407.png/small"
+    "1 fc koln": "https://r2.thesportsdb.com/images/media/team/badge/2j1sc91566049407.png/small",
+    "fc augsburg": "https://r2.thesportsdb.com/images/media/team/badge/xqyyvq1473453233.png/small"
   }
 }

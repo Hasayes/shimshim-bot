@@ -1,7 +1,5 @@
 {
   "sent": [
-    "3c9d0118532e1ac82dff2af788049e59",
-    "3968a2092585f64906302e3f1c0dbe8a",
     "661bf768f3d8d9f27f8cdff98c119674",
     "88ec37ae090babdc24715a6489262706",
     "a5b1cb601c9e99197629975a3fbc207f",
@@ -1499,7 +1497,9 @@
     "f93754b3881d8731f5fa7f167f17f4c5",
     "tg:FabrizioRomanoTG/65763",
     "tg:FabrizioRomanoTG/65764",
-    "tg:FabrizioRomanoTG/65765"
+    "tg:FabrizioRomanoTG/65765",
+    "tg:FabrizioRomanoTG/65766",
+    "tg:FabrizioRomanoTG/65767"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2066,11 +2066,10 @@
     "interest: brughmans -> liverpool",
     "interest: dimarco -> barcelona",
     "interest: woltemade -> juventus",
-    "interest: pulisic -> tottenham"
+    "interest: pulisic -> tottenham",
+    "interest: fofana -> arsenal"
   ],
   "titles": [
-    "psg still targeting young striker despite montpellier stance",
-    "there is no official offer: has manchester city abandoned the enzo fernandez dea",
     "liverpool transfer news winger target heads elsewhere but reds offered midfielde",
     "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f nottingham forest agree \u00a322m deal for daniel munoz, here we go! \ud83c\udf33 \ud83c\udde8\ud83c\uddf4 agre",
     "enzo fernandez wants to leave chelsea and reaches personal agreement",
@@ -2368,11 +2367,12 @@
     "liverpool news: virgil van dijk gives verdict on bradley barcola as talks ongoin",
     "\ud83d\udea8 \ud83d\udca3 official: liverpool have decided to keep cody gakpo at the club as they can\u2019",
     "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f manchester city are back in talks with everton for iliman ndiaye, as reve",
-    "\ud83d\udea8 \u26aa\ufe0f valencia reach verbal agreement to sign harvey elliott from liverpool, here"
+    "\ud83d\udea8 \u26aa\ufe0f valencia reach verbal agreement to sign harvey elliott from liverpool, here",
+    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f arsenal have made official club to club approach with olympique lyon for ",
+    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f more on malick fofana: arsenal are not willing to match \u20ac40m valuation, o"
   ],
   "tg_update_offset": 263617426,
   "photos": {
-    "ansu fati": "https://r2.thesportsdb.com/images/media/player/cutout/54v6h91766238031.png/small",
     "jan paul van hecke": "https://r2.thesportsdb.com/images/media/player/cutout/37rw1u1756994375.png/small",
     "alessandro zanoli": "https://r2.thesportsdb.com/images/media/player/cutout/hfjxfr1764172621.png/small",
     "piero hincapie": "https://r2.thesportsdb.com/images/media/player/cutout/7dltx01769330396.png/small",
@@ -2668,12 +2668,13 @@
     "djylian n'guessan": "https://r2.thesportsdb.com/images/media/player/cutout/yczqu01748684871.png/small",
     "mirza catovic": "https://images.fotmob.com/image_resources/playerimages/1700267.png",
     "robinio vaz": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Vaz_asse_om_cdf_2024.png/330px-Vaz_asse_om_cdf_2024.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "vuk pavicevic": "",
     "dinis": "",
     "harvey elliott": "https://r2.thesportsdb.com/images/media/player/cutout/cqkvsj1756984276.png/small",
-    "mikael baza": ""
+    "mikael baza": "",
+    "malick fofana": "https://r2.thesportsdb.com/images/media/player/cutout/vca9wj1766146326.png/small",
+    "vuk pavicevic": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

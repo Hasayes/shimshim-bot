@@ -1,5 +1,29 @@
 [
  {
+  "id": "96efe13c696ffedd7d5448b3a9b3e5ed",
+  "ts": "2026-08-31T23:30:51+00:00",
+  "kind": "deal",
+  "photo": "",
+  "stage": "Here we go",
+  "player": "Mika Faye",
+  "position": "Center-back",
+  "age": "16",
+  "from_club": "Hamburger SV",
+  "to_club": "Barcelona",
+  "fee": "\u2014",
+  "style": "Versatile young defender with good physical attributes and tactical awareness for his age.",
+  "fit": "Should develop through Barcelona Atl\u00e9tico before potentially becoming a long-term center-back option for the first team.",
+  "source": "Florian Plettenberg",
+  "sources": [
+   "Florian Plettenberg"
+  ],
+  "srcTier": "tier1",
+  "summary": "Barcelona have agreed to sign 16-year-old center-back Mika Faye from Hamburger SV. The medical examination and contract signing are scheduled for Tuesday, with Faye set to initially develop with Barcelona Atl\u00e9tico on a contract through 2029.",
+  "outlet": "dailypost",
+  "url": "https://dailypost.ng/2026/08/31/transfer-barcelona-secure-mika-fayes-signing-as-midfielder-leaves-man-utd/",
+  "title": "Transfer: Barcelona secure Mika Faye\u2019s signing as midfielder leaves Man Utd"
+ },
+ {
   "id": "268dd38f22a2f7d74edee6af599ea8ca",
   "ts": "2026-08-31T22:45:41+00:00",
   "kind": "deal",

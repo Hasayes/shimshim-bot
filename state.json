@@ -1,7 +1,5 @@
 {
   "sent": [
-    "ca9b36c305f18d42750c0b2eecb62cf2",
-    "5f81e0a550d3a1fc17c1234e5db43892",
     "a1afa3ad641d3490d91c1aba6b9e6897",
     "055a4b981fb0d04ad111cb73d0a7a813",
     "fac76602a3cfdbee498288f13a2a9bfd",
@@ -1499,7 +1497,9 @@
     "61dd0ffb3e413a7c0974ccc3f2421148",
     "tg:FabrizioRomanoTG/65694",
     "a47be894eef34ef7c110e801ef179d95",
-    "tg:FabrizioRomanoTG/65696"
+    "tg:FabrizioRomanoTG/65696",
+    "e4a662f047946529707faec9db05b5ed",
+    "tg:FabrizioRomanoTG/65697"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1802,7 +1802,8 @@
     "beto -> fiorentina": 1,
     "souza -> fc porto": 1,
     "massolin -> cagliari": 2,
-    "moore -> fc koln": 1
+    "moore -> fc koln": 1,
+    "sarr -> juventus": 1
   },
   "interest": [
     "interest: alvarez -> arsenal",
@@ -2054,8 +2055,6 @@
     "interest: dimarco -> barcelona"
   ],
   "titles": [
-    "liverpool reach final decision on new ismaila sarr bid as minteh deal assessed",
-    "leao has decided on aston villa but milan remain unsatisfied",
     "promising real madrid forward will go nowhere despite multiple enquiries \u2013 roman",
     "liverpool make decision on whether to make new offer for ismaila sarr",
     "barcelona starlet toni fernandez seriously considering serie a transfer",
@@ -2353,7 +2352,9 @@
     "swift move: atletico make their first offer to sign a replacement for alvarez",
     "\ud83d\udea8 \ud83d\udd34 \u26ab\ufe0f exclusive: bayer leverkusen have agreed deal to sign guela doue, here we ",
     "report: atletico madrid submit official loan bid for jonathan david",
-    "\ud83d\udea8 \ud83c\udde9\ud83c\uddff torino have reached verbal agreement to sign rafik belghali as new right ba"
+    "\ud83d\udea8 \ud83c\udde9\ud83c\uddff torino have reached verbal agreement to sign rafik belghali as new right ba",
+    "jose mourinho has change of heart on man utd target as \u00a342m transfer looks remot",
+    "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f excl: juventus agree deal to sign pape matar sarr, here we go! \ud83c\uddf8\ud83c\uddf3 deal a"
   ],
   "tg_update_offset": 263617426,
   "photos": {

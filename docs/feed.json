@@ -1,5 +1,29 @@
 [
  {
+  "id": "tg:FabrizioRomanoTG/65568",
+  "ts": "2026-08-31T07:00:49+00:00",
+  "kind": "deal",
+  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/ll7kkd1757016806.png/small",
+  "stage": "Here we go",
+  "player": "Pape Matar Sarr",
+  "position": "\u2014",
+  "age": "\u2014",
+  "from_club": "Tottenham Hotspur",
+  "to_club": "Juventus",
+  "fee": "\u20ac30m",
+  "style": "Dynamic midfielder with press-resistant passing and aggressive ball recovery in the middle third.",
+  "fit": "Deploy as a box-to-box midfielder to drive Juventus's pressing intensity and provide midfield control alongside their existing pivots.",
+  "source": "Fabrizio Romano",
+  "sources": [
+   "Fabrizio Romano"
+  ],
+  "srcTier": "tier1",
+  "summary": "Juventus have agreed a deal to sign Pape Matar Sarr from Tottenham on an initial loan with a mandatory buy option clause. The total package is worth \u20ac30m.",
+  "outlet": "Telegram @fabrizioromanotg",
+  "url": "https://t.me/FabrizioRomanoTG/65697",
+  "title": "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f EXCL: Juventus agree deal to sign Pape Matar Sarr, here we go! \ud83c\uddf8\ud83c\uddf3 Deal agreed between clubs with Tottenham on in"
+ },
+ {
   "id": "tg:FabrizioRomanoTG/65690",
   "ts": "2026-08-31T06:00:47+00:00",
   "kind": "deal",
@@ -530,30 +554,6 @@
   "outlet": "yardbarker",
   "url": "https://www.yardbarker.com/soccer/articles/venezia_agree_4_million_deal_to_sign_barcelona_wonderkid_toni_fernandez_as_blaugrana_secure_crucial_buy_back_clause/s1_17790_44232753",
   "title": "Venezia agree \u20ac4 million deal to sign Barcelona wonderkid Toni Fernandez as Blaugrana secure crucial buy-back clause"
- },
- {
-  "id": "tg:FabrizioRomanoTG/65568",
-  "ts": "2026-08-29T16:00:42+00:00",
-  "kind": "interest",
-  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/ll7kkd1757016806.png/small",
-  "stage": "\u2014",
-  "player": "Pape Matar Sarr",
-  "position": "\u2014",
-  "age": "\u2014",
-  "from_club": "Tottenham Hotspur",
-  "to_club": "Juventus",
-  "fee": "\u2014",
-  "style": "Dynamic central midfielder with press resistance and ball progression ability, thriving in high-intensity transitions.",
-  "fit": "Deploy as a box-to-box midfielder to add energy and technical security to Juventus's midfield structure.",
-  "source": "Fabrizio Romano",
-  "sources": [
-   "Fabrizio Romano"
-  ],
-  "srcTier": "tier1",
-  "summary": "Pape Matar Sarr has been offered to Juventus as a midfield option. He is allowed to leave Tottenham, with AS Monaco leading talks that have been ongoing for days.",
-  "outlet": "Telegram @fabrizioromanotg",
-  "url": "https://t.me/FabrizioRomanoTG/65568",
-  "title": "\ud83d\udea8 \ud83c\uddf8\ud83c\uddf3 Pape Matar Sarr has been offered to Juventus as midfield option after Kessie deal off. He\u2019s allowed to leave Totten"
  },
  {
   "id": "tg:FabrizioRomanoTG/65566",

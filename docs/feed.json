@@ -1,5 +1,29 @@
 [
  {
+  "id": "0c36d3013b423c71da2038982f234514",
+  "ts": "2026-08-31T10:15:35+00:00",
+  "kind": "deal",
+  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/u0hz4n1764278170.png/small",
+  "stage": "Here we go",
+  "player": "Diego Carlos",
+  "position": "\u2014",
+  "age": "\u2014",
+  "from_club": "Fenerbahce",
+  "to_club": "Parma",
+  "fee": "\u2014",
+  "style": "Commanding centre-back who uses his physical presence and aerial dominance to dominate opposing forwards in defensive transitions.",
+  "fit": "Deploy as a key defensive anchor in Parma's back line to provide leadership and solidity against Serie A's attacking threats.",
+  "source": "football-italia",
+  "sources": [
+   "football-italia"
+  ],
+  "srcTier": "standard",
+  "summary": "Diego Carlos is set to return to Serie A with Parma from Fenerbahce, with his medical scheduled.",
+  "outlet": "football-italia",
+  "url": "https://football-italia.net/diego-carlos-serie-a-return-parma-fenerbahce/",
+  "title": "Diego Carlos ready for Serie A return to Parma from Fenerbahce"
+ },
+ {
   "id": "tg:FabrizioRomanoTG/65647",
   "ts": "2026-08-31T09:30:36+00:00",
   "kind": "deal",

@@ -1,8 +1,5 @@
 {
   "sent": [
-    "fd6772e8384e7c3b3db7b224438d52e0",
-    "6d886f0f27fd979edeb89c83a5848140",
-    "40c7101018627d790220606f95f43b0f",
     "e29bcd157d892ac1cffc6b629cb1189c",
     "55c98ea62f0e3d92ddbf3fd620921d91",
     "fbb1bb4f99c327b9eb74bedb21617a80",
@@ -1499,7 +1496,10 @@
     "tg:FabrizioRomanoTG/65767",
     "887d8a7d4d6d1997f50f8fd63423c442",
     "7bbf7bf0ef52d151b92605d92a1716a5",
-    "9a9b97260da3c26cf4f485a24d5fab8b"
+    "9a9b97260da3c26cf4f485a24d5fab8b",
+    "e22c1d74b7423fff89add7b80db0f329",
+    "0e7106df0734ec7b458985468f735c1c",
+    "tg:FabrizioRomanoTG/65773"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2067,12 +2067,10 @@
     "interest: dimarco -> barcelona",
     "interest: woltemade -> juventus",
     "interest: pulisic -> tottenham",
-    "interest: fofana -> arsenal"
+    "interest: fofana -> arsenal",
+    "interest: kroupi -> arsenal"
   ],
   "titles": [
-    "rt @fabrizioromano : \ud83d\udea8 \ud83d\udd34 cody gakpo\u2019s future will be decided after today\u2019s game ",
-    "fabrizio romano rules out move for 'extraordinary' arsenal laliga target",
-    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f breaking: sofyan amrabat to ajax, here we go! verbal agreement done for m",
     "enzo fernandez agrees terms with man city as chelsea prepare for shock premier l",
     "liverpool transfer news: richard hughes makes late request to sign real madrid f",
     "venezia agree \u20ac4 million deal to sign barcelona wonderkid toni fernandez as blau",
@@ -2369,7 +2367,10 @@
     "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f more on malick fofana: arsenal are not willing to match \u20ac40m valuation, o",
     "atalanta: ahanor on loan to crystal palace, then he will belong to chelsea: the ",
     "liverpool latest: virgil van dijk speaks out about bradley barcola as 'talks con",
-    "manchester united discuss zirkzee transfer and ask for at least \u20ac35 million"
+    "manchester united discuss zirkzee transfer and ask for at least \u20ac35 million",
+    "sources: arsenal make \u2018generational\u2019 talent their top target amid rising interes",
+    "everton green light \u00a314 5m player exit, medical today report",
+    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f manchester city are advancing in talks for iliman ndiaye as exclusively r"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2670,11 +2671,11 @@
     "robinio vaz": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Vaz_asse_om_cdf_2024.png/330px-Vaz_asse_om_cdf_2024.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "harvey elliott": "https://r2.thesportsdb.com/images/media/player/cutout/cqkvsj1756984276.png/small",
     "malick fofana": "https://r2.thesportsdb.com/images/media/player/cutout/vca9wj1766146326.png/small",
-    "vuk pavicevic": "",
     "dinis": "",
-    "mikael baza": ""
+    "mikael baza": "",
+    "vuk pavicevic": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

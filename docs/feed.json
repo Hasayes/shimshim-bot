@@ -1,5 +1,29 @@
 [
  {
+  "id": "e22c1d74b7423fff89add7b80db0f329",
+  "ts": "2026-08-31T17:45:39+00:00",
+  "kind": "interest",
+  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/7z9b4h1757017919.png/small",
+  "stage": "\u2014",
+  "player": "Eli Junior Kroupi",
+  "position": "Striker",
+  "age": "20",
+  "from_club": "Bournemouth",
+  "to_club": "Arsenal",
+  "fee": "\u2014",
+  "style": "Energetic, clinical finisher with natural movement in the box and a keen eye for goal; demonstrated impressive productivity in his debut Premier League season.",
+  "fit": "Should be developed as Arsenal's long-term striker solution, providing immediate backup while maturing into a regular starter under Arteta's attacking system.",
+  "source": "CaughtOffside",
+  "sources": [
+   "CaughtOffside"
+  ],
+  "srcTier": "standard",
+  "summary": "Arsenal have made Bournemouth striker Eli Junior Kroupi, 20, their top target, tracking him closely after his 13-goal Premier League debut season, with Manchester United and Liverpool also monitoring his future.",
+  "outlet": "caughtoffside",
+  "url": "https://www.caughtoffside.com/2026/08/31/sources-arsenal-make-generational-talent-top-target/",
+  "title": "Sources: Arsenal make \u2018generational\u2019 talent their top target amid rising interest"
+ },
+ {
   "id": "tg:FabrizioRomanoTG/65674",
   "ts": "2026-08-31T17:00:42+00:00",
   "kind": "deal",

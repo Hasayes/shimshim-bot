@@ -1,6 +1,5 @@
 {
   "sent": [
-    "d82ed9e3fe16d77b732b32ab23c37eaf",
     "ef2f376816ca12b0bade4f723a4de2ed",
     "df4e9fd380072622f4e2094881f882b5",
     "252f22e68c600705671b7b863b0fb168",
@@ -1499,7 +1498,8 @@
     "tg:FabrizioRomanoTG/65722",
     "tg:FabrizioRomanoTG/65724",
     "tg:FabrizioRomanoTG/65725",
-    "tg:FabrizioRomanoTG/65726"
+    "tg:FabrizioRomanoTG/65726",
+    "266a6ca97dc7c3681edc8bc6b07e644c"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2065,7 +2065,6 @@
     "interest: pulisic -> tottenham"
   ],
   "titles": [
-    "\u2018new\u2019 liverpool \u2018proposal\u2019 for senegalese star imminent as midfielder tells ando",
     "atletico madrid offered chance to sign arsenal star",
     "papers: arsenal hold talks with real madrid for endrick",
     "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f atletico madrid mantain active talks with jonathan david\u2019s camp and also ",
@@ -2364,7 +2363,8 @@
     "\ud83d\udea8 \ud83d\udd35 chelsea made contact with manu kone agents as one of the options for late mi",
     "\ud83d\udfe3 \ud83d\udd35 aston villa consider ian maatsen as key player; untouchable and he will not ",
     "\ud83d\udea8 \u26a0\ufe0f luiz henrique\u2019s move to as roma is not progressing despite verbal agreement",
-    "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 barcelona have agreed deal to sign 19 year old talented midfielder mirza c"
+    "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 barcelona have agreed deal to sign 19 year old talented midfielder mirza c",
+    "swap deal chelsea to trade christopher nkunku for bayern talent"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2665,11 +2665,11 @@
     "oliver s\u00f8rensen": "https://r2.thesportsdb.com/images/media/player/cutout/kwsz361759780896.png/small",
     "jeremy monga": "https://r2.thesportsdb.com/images/media/player/cutout/6sdxxj1761861667.png/small",
     "djylian n'guessan": "https://r2.thesportsdb.com/images/media/player/cutout/yczqu01748684871.png/small",
-    "vuk pavicevic": "",
     "mirza catovic": "https://images.fotmob.com/image_resources/playerimages/1700267.png",
-    "mikael baza": ""
+    "mikael baza": "",
+    "vuk pavicevic": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

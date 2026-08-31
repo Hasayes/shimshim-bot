@@ -1,10 +1,5 @@
 {
   "sent": [
-    "6fc4cf5be34395101bdefeb09a1a7168",
-    "tg:FabrizioRomanoTG/64996",
-    "tg:FabrizioRomanoTG/64997",
-    "fb75a6ad3309aa103b2815d455591a88",
-    "54f36076f32c0601a047a5867595b369",
     "a16e054bc3f74c8b9af485cb4ef93d21",
     "1f8feb0317550f7829b556582e4063e2",
     "bb5bc91841573ef048035272037b2e20",
@@ -1499,7 +1494,12 @@
     "313b0df2af81a37451f6e8152242afdf",
     "1832170e3ea3c7cb208d8ef79eabfe7d",
     "6ee43d134525d8d6d89ead75b8449ffa",
-    "91847662405511ddeed553e6aa272d99"
+    "91847662405511ddeed553e6aa272d99",
+    "cffefbb156717c5754e516887bb2e601",
+    "ff9a714f3ed4b1806068802f8c861bdb",
+    "86917a7ae9b6a616de4da7a85b55cfad",
+    "07bbbc46290c081a1ceae13272301a90",
+    "a32506b891882aafcfa3a7d984e8cbf2"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2079,11 +2079,6 @@
     "interest: mudryk -> tottenham"
   ],
   "titles": [
-    "\ud83d\udea8 \u26aa\ufe0f \ud83d\udd35 breaking: fc porto reach verbal agreement to sign santi gimenez from ac m",
-    "david ornstein drops significant julian alvarez transfer update after talks with",
-    "liverpool: fabrizio romano says cody gakpo final decision today after 'meetings'",
-    "julian alvarez 'holds family meeting to discuss arsenal move' after mikel arteta",
-    "romano: atletico madrid hold talks over striker amid arsenal's alvarez interest",
     "steven gerrard delivers huge verdict on liverpool's \u00a3123m transfer deal for brad",
     "barcelona target julian alvarez speaks to mikel arteta but refuses to open door ",
     "tottenham explore player plus cash deal for premier league star",
@@ -2378,7 +2373,12 @@
     "\ud83d\udea8 \u26aa\ufe0f breaking: mykhaylo mudryk to tottenham, here we go! everything agreed also ",
     "report: liverpool midfielder set to leave in bargain deal",
     "at the decisive moments: barcelona seal a new signing from the bundesliga",
-    "man utd turn down \u00a326m offer with arsenal target \u2018waiting\u2019 to join as replacemen"
+    "man utd turn down \u00a326m offer with arsenal target \u2018waiting\u2019 to join as replacemen",
+    "man utd and arsenal striker transfer plans could set up major newcastle deal",
+    "fabrizio romano confirms \u00a330m liverpool signing is \u2018here we go\u2019 done",
+    "fabrizio romano confirms \u00a330m liverpool signing is \u2018here we go\u2019 done teamtalk",
+    "liverpool agree \u00a330m deal for genk goalkeeper lucca brughmans this is anfield",
+    "celtic secure deal for parma midfielder sorensen after gineitis attempt"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2677,13 +2677,13 @@
     "tosin": "https://www.thesportsdb.com/images/media/player/cutout/vfg1pr1787690891.png/small",
     "mykhaylo mudryk": "https://images.fotmob.com/image_resources/playerimages/976506.png",
     "guela doue": "https://r2.thesportsdb.com/images/media/player/cutout/l18qe01766402363.png/small",
-    "vuk pavicevic": "",
     "tosin adarabioyo": "https://www.thesportsdb.com/images/media/player/cutout/vfg1pr1787690891.png/small",
     "dinis": "",
     "stefan bajcetic": "https://r2.thesportsdb.com/images/media/player/cutout/yf8zmo1735799860.png/small",
-    "mikael baza": ""
+    "mikael baza": "",
+    "vuk pavicevic": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

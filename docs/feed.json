@@ -1,5 +1,55 @@
 [
  {
+  "id": "765f404ce9f19378dd05b605501a72ba",
+  "ts": "2026-08-31T20:45:54+00:00",
+  "kind": "deal",
+  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/5vwygx1777017074.png/small",
+  "stage": "Completed",
+  "player": "Mikey Moore",
+  "position": "\u2014",
+  "age": "19",
+  "from_club": "Tottenham Hotspur",
+  "to_club": "1. FC K\u00f6ln",
+  "fee": "\u2014",
+  "style": "Pacey winger with good dribbling ability and potential to develop into a key attacking threat.",
+  "fit": "Can provide pace and creativity on the flank while gaining regular first-team football away from Tottenham's competitive squad.",
+  "source": "Sky Germany, Fabrizio Romano",
+  "sources": [
+   "Sky Germany",
+   "Fabrizio Romano"
+  ],
+  "srcTier": "tier1",
+  "summary": "Tottenham have given 19-year-old Mikey Moore permission to join 1. FC K\u00f6ln after the move was delayed for several weeks. The youngster is set to complete the transfer.",
+  "outlet": "yahoo",
+  "url": "https://sports.yahoo.com/articles/tottenham-youngster-given-green-light-084500506.html",
+  "title": "Tottenham youngster given green light to join Ko\u0308ln"
+ },
+ {
+  "id": "tg:FabrizioRomanoTG/65568",
+  "ts": "2026-08-31T20:45:46+00:00",
+  "kind": "deal",
+  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/ll7kkd1757016806.png/small",
+  "stage": "Completed",
+  "player": "Pape Matar Sarr",
+  "position": "\u2014",
+  "age": "\u2014",
+  "from_club": "Tottenham Hotspur",
+  "to_club": "Juventus",
+  "fee": "\u20ac30m",
+  "style": "Energetic midfielder with strong ball-carrying ability and progressive passing range from midfield.",
+  "fit": "Deploy as a dynamic box-to-box midfielder to drive Juventus' attacking transitions and add creative thrust to their midfield engine.",
+  "source": "Sportingpedia",
+  "sources": [
+   "Fabrizio Romano",
+   "Sportingpedia"
+  ],
+  "srcTier": "tier1",
+  "summary": "Juventus and Tottenham Hotspur have reached an agreement for Pape Matar Sarr in a deal potentially worth \u20ac30m.",
+  "outlet": "sportingpedia",
+  "url": "https://www.sportingpedia.com/2026/08/31/juventus-reach-sarr-agreement-and-renew-zirkzee-pursuit/",
+  "title": "Juventus Reach Sarr Agreement And Renew Zirkzee Pursuit"
+ },
+ {
   "id": "1f04d993e6ce0ab9b84b778efbb7cf66",
   "ts": "2026-08-31T20:00:57+00:00",
   "kind": "deal",
@@ -552,30 +602,6 @@
   "outlet": "bbc",
   "url": "https://www.bbc.co.uk/sport/football/articles/c89jxnelpywo",
   "title": "Tottenham enquire about Pulisic - Monday's gossip"
- },
- {
-  "id": "tg:FabrizioRomanoTG/65568",
-  "ts": "2026-08-31T07:00:49+00:00",
-  "kind": "deal",
-  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/ll7kkd1757016806.png/small",
-  "stage": "Here we go",
-  "player": "Pape Matar Sarr",
-  "position": "\u2014",
-  "age": "\u2014",
-  "from_club": "Tottenham Hotspur",
-  "to_club": "Juventus",
-  "fee": "\u20ac30m",
-  "style": "Dynamic midfielder with press-resistant passing and aggressive ball recovery in the middle third.",
-  "fit": "Deploy as a box-to-box midfielder to drive Juventus's pressing intensity and provide midfield control alongside their existing pivots.",
-  "source": "Fabrizio Romano",
-  "sources": [
-   "Fabrizio Romano"
-  ],
-  "srcTier": "tier1",
-  "summary": "Juventus have agreed a deal to sign Pape Matar Sarr from Tottenham on an initial loan with a mandatory buy option clause. The total package is worth \u20ac30m.",
-  "outlet": "Telegram @fabrizioromanotg",
-  "url": "https://t.me/FabrizioRomanoTG/65697",
-  "title": "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f EXCL: Juventus agree deal to sign Pape Matar Sarr, here we go! \ud83c\uddf8\ud83c\uddf3 Deal agreed between clubs with Tottenham on in"
  },
  {
   "id": "tg:FabrizioRomanoTG/65690",

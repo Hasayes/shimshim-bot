@@ -1,12 +1,5 @@
 {
   "sent": [
-    "62473e69165c16c7e6a17c93c9d34063",
-    "tg:FabrizioRomanoTG/64970",
-    "tg:FabrizioRomanoTG/64971",
-    "tg:FabrizioRomanoTG/64977",
-    "tg:FabrizioRomanoTG/64980",
-    "tg:FabrizioRomanoTG/64983",
-    "tg:FabrizioRomanoTG/64985",
     "tg:FabrizioRomanoTG/64986",
     "tg:FabrizioRomanoTG/64987",
     "tg:FabrizioRomanoTG/64988",
@@ -1499,7 +1492,14 @@
     "37ede91b39f4244b04096615024cd228",
     "c18754f91808356502e8a3d111d52b62",
     "871e870f9fdbfa63865097c65ffc36d7",
-    "tg:FabrizioRomanoTG/65797"
+    "tg:FabrizioRomanoTG/65797",
+    "5aa978ca5e967306cd0a11aec857cf40",
+    "9d356977f14a011bc5b365009453c728",
+    "7ace775acb063411387dd842d064de49",
+    "4a4c77cdb907c4b69d20e172dc7a91d0",
+    "0323b14561261f4b4321fe7ba4e2a28c",
+    "5999a42f608fb65327b56cc45ab6492c",
+    "765f404ce9f19378dd05b605501a72ba"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1803,7 +1803,7 @@
     "souza -> fc porto": 1,
     "massolin -> cagliari": 2,
     "moore -> fc koln": 1,
-    "sarr -> juventus": 1,
+    "sarr -> juventus": 2,
     "baza -> barcelona": 2,
     "fofana -> lyon": 1,
     "brughmans -> liverpool": 1,
@@ -1818,7 +1818,8 @@
     "elliott -> valencia": 1,
     "ndiaye -> manchester city": 1,
     "woltemade -> juventus": 1,
-    "doue -> bayer leverkusen": 1
+    "doue -> bayer leverkusen": 1,
+    "moore -> 1 fc koln": 2
   },
   "interest": [
     "interest: alvarez -> arsenal",
@@ -2076,13 +2077,6 @@
     "interest: mudryk -> tottenham"
   ],
   "titles": [
-    "enzo fernandez agrees personal terms with man city: will chelsea sell for \u20ac140 m",
-    "why juventus\u2019 move for franck kessie has now fallen through",
-    "fabrizio romano confirms arsenal won\u2019t sign striker \u2013 \u2018arsenal are not stupid\u2019",
-    "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f juventus have agreed on personal terms with pape matar sarr; he wants th",
-    "fabrizio romano confirmation is fantastic news for liverpool",
-    "liverpool deal for wonderkid fell through for one simple reason",
-    "man utd sale finalised as documents \u2018signed\u2019 and transfer fee, massive clause re",
     "rb leipzig close to finalizing deal for chelsea talent marc guiu",
     "'documents exchanged' fabrizio romano confirms date of bradley barcola's liverpo",
     "romano confirms man utd deal is done with fee revealed and documents \u2018signed\u2019",
@@ -2375,7 +2369,14 @@
     "juventus finally finds a home for jonathan david",
     "romano delivers \u2018here we go\u2019 on major tottenham exit as ndiaye personal terms \u2018a",
     "alexis mac allister reaches decision on joining man city from liverpool after de",
-    "rt @fabrizioromano : \ud83d\udea8 \u26aa\ufe0f tottenham are ready to buy tosin on permanent deal fro"
+    "rt @fabrizioromano : \ud83d\udea8 \u26aa\ufe0f tottenham are ready to buy tosin on permanent deal fro",
+    "man united face zirkzee decision as striker rejects opportunity of late summer e",
+    "liverpool open talks with genk to sign 18 year old goalkeeper lucca brughmans",
+    "chelsea agree deal to send \u00a340m new signing honest ahanor on loan to crystal pal",
+    "liverpool facing humiliation as mac allister reaches decision on joining man cit",
+    "juventus reach sarr agreement and renew zirkzee pursuit",
+    "juventus push transfer reset with sarr agreement and renewed zirkzee pursuit",
+    "tottenham youngster given green light to join koln"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2676,11 +2677,11 @@
     "tosin": "https://www.thesportsdb.com/images/media/player/cutout/vfg1pr1787690891.png/small",
     "mykhaylo mudryk": "https://images.fotmob.com/image_resources/playerimages/976506.png",
     "guela doue": "https://r2.thesportsdb.com/images/media/player/cutout/l18qe01766402363.png/small",
-    "vuk pavicevic": "",
     "dinis": "",
-    "mikael baza": ""
+    "mikael baza": "",
+    "vuk pavicevic": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",
@@ -2866,6 +2867,7 @@
     "stuttgart": "https://r2.thesportsdb.com/images/media/team/badge/yppyux1473454085.png/small",
     "hull city": "https://r2.thesportsdb.com/images/media/team/badge/fbqqda1601726113.png/small",
     "sion": "https://r2.thesportsdb.com/images/media/team/badge/gzpfmv1689085319.png/small",
-    "valencia": "https://r2.thesportsdb.com/images/media/team/badge/dm8l6o1655594864.png/small"
+    "valencia": "https://r2.thesportsdb.com/images/media/team/badge/dm8l6o1655594864.png/small",
+    "1 fc koln": "https://r2.thesportsdb.com/images/media/team/badge/2j1sc91566049407.png/small"
   }
 }

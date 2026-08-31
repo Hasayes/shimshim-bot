@@ -1,8 +1,5 @@
 {
   "sent": [
-    "100851bb68326c3f28fdecaee0cdc661",
-    "ae6b91e2b5c8abed6184a83ade1c40a5",
-    "ef610fc1714669b2faf82f95a8820cd2",
     "tg:FabrizioRomanoTG/64953",
     "02ebae7208fc00ece7e43c6b914b49bd",
     "f272816e7e3a96387ae351e8a75d4fa9",
@@ -1499,7 +1496,10 @@
     "tg:FabrizioRomanoTG/65731",
     "tg:FabrizioRomanoTG/65732",
     "tg:FabrizioRomanoTG/65734",
-    "5f9e0e94e8f0d32819dac5447d363d81"
+    "5f9e0e94e8f0d32819dac5447d363d81",
+    "tg:FabrizioRomanoTG/65738",
+    "tg:FabrizioRomanoTG/65739",
+    "tg:FabrizioRomanoTG/65740"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2066,9 +2066,6 @@
     "interest: pulisic -> tottenham"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83d\udfe2 \u26ab\ufe0f excl: sassuolo have agreed deal to sign duje caleta car from olympique ly",
-    "chelsea and man utd heavily linked why is mathys tel desperate",
-    "fabrizio romano reveals tottenham response to sunderland offer for kevin danso",
     "enzo, zidane's son retires from football at 29",
     "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f exclusive: augsburg reach verbal agreement to sign juma bah, here we go! ",
     "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f arsenal agree deal to sign 17 year old georgian talent andria bartishvili",
@@ -2365,7 +2362,10 @@
     "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f juventus have agreed on personal terms with nick woltemade who wants the",
     "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f breaking: jonathan david to atletico madrid, here we go! verbal agreement",
     "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f gennaro wijks will move to rb leipzig from sparta rotterdam, agreement do",
-    "transfer rumors, news: liverpool, newcastle eye belgian forward"
+    "transfer rumors, news: liverpool, newcastle eye belgian forward",
+    "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f exclusive: newcastle have agreed deal to sign matias fernandez pardo fro",
+    "\ud83d\udea8 \ud83d\udd34 official: bradley barcola has joined liverpool from psg \u26a1\ufe0f a move revealed s",
+    "rt @fabrizioromano : \ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f exclusive: newcastle have agreed deal to sign matia"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2667,10 +2667,10 @@
     "jeremy monga": "https://r2.thesportsdb.com/images/media/player/cutout/6sdxxj1761861667.png/small",
     "djylian n'guessan": "https://r2.thesportsdb.com/images/media/player/cutout/yczqu01748684871.png/small",
     "mirza catovic": "https://images.fotmob.com/image_resources/playerimages/1700267.png",
-    "vuk pavicevic": "",
-    "mikael baza": ""
+    "mikael baza": "",
+    "vuk pavicevic": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

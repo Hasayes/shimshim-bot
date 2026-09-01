@@ -1,8 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/65004",
-    "7c1749ea24a4bae7e473fd23a68f9a11",
-    "tg:FabrizioRomanoTG/65005",
     "898510d33bb961cfd5d7bc1f05378c13",
     "6526e53f5de60139ece3a652e53e48b0",
     "7fd783984a7a0110b4e32944e035443a",
@@ -1499,7 +1496,10 @@
     "dd55b9fe565850288b02dc5d7d1d3c13",
     "06125bb04c7345a9d3e0f30421f57a72",
     "acd6df1bda7ce2a08fc1a683853c4d85",
-    "6de98d6b861ea8a97c9d64c5a6af9548"
+    "6de98d6b861ea8a97c9d64c5a6af9548",
+    "e045c26860ff2975f4b7de3eedb9ff03",
+    "a468e27fd6036a542cebc2b4b3b33e23",
+    "fa16acfda553df4445a83a7446296067"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2083,8 +2083,6 @@
     "interest: sanchez -> tottenham"
   ],
   "titles": [
-    "david ornstein reveals what julian alvarez told arsenal boss mikel arteta amid b",
-    "report kessie ready for atalanta return after juventus talks abandoned",
     "record breaking liverpool \u2018proposal\u2019 for winger imminent \u2013 \u2018confidence is high t",
     "romano: chelsea in club to club talks for 'truly fantastic' fernandez replacemen",
     "julian alvarez transfer update issued as arsenal chances measured talksport",
@@ -2382,7 +2380,9 @@
     "liverpool\u2019s \u20ac35m transfer is done \u2013 but his destination this season still isn\u2019t ",
     "romano: liverpool in active talks to sign 'electric' winger after bradley barcol",
     "manchester city make brutal call on jeremy monga just weeks after arsenal snub h",
-    "official: inter send massolin to cagliari in potential \u20ac7m deal with buy back op"
+    "official: inter send massolin to cagliari in potential \u20ac7m deal with buy back op",
+    "why chelsea are in contact with roma midfielder despite being close to camara de",
+    "fabrizio romano confirms man utd have made move for aston villa ace with \u2018decisi"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2682,12 +2682,12 @@
     "jack grealish": "https://r2.thesportsdb.com/images/media/player/cutout/7ckk5a1756976762.png/small",
     "robert sanchez": "https://www.thesportsdb.com/images/media/player/cutout/tp7tca1787691371.png/small",
     "arijon ibrahimovic": "https://images.fotmob.com/image_resources/playerimages/1327150.png",
-    "vuk pavicevic": "",
     "mika faye": "",
     "dinis": "",
-    "mikael baza": ""
+    "mikael baza": "",
+    "vuk pavicevic": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

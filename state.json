@@ -1,7 +1,5 @@
 {
   "sent": [
-    "01db768914497c66fae3880ad25653b5",
-    "212eb6217c8719e61748b89c1041fb6f",
     "e3e125d871501f33282841927737ce6f",
     "12ba4ebe209b780cd16985ad5b04e0c8",
     "5480fea47f4b2b7a7d1efd320ae849b9",
@@ -1499,7 +1497,9 @@
     "tg:FabrizioRomanoTG/65864",
     "tg:FabrizioRomanoTG/65865",
     "c5acbf584640f0d92e9a1d1bd956ab25",
-    "cb3811c417d9b979e7f58129d3001863"
+    "cb3811c417d9b979e7f58129d3001863",
+    "tg:FabrizioRomanoTG/65867",
+    "tg:FabrizioRomanoTG/65869"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1833,7 +1833,8 @@
     "mheuka -> celtic": 1,
     "echeverri -> benfica": 1,
     "fernandez -> manchester city": 1,
-    "gimenez -> deportivo de a coruna": 1
+    "gimenez -> deportivo de a coruna": 1,
+    "essugo -> rc strasbourg": 1
   },
   "interest": [
     "interest: alvarez -> arsenal",
@@ -2095,8 +2096,6 @@
     "interest: tagliafico -> atletico madrid"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83c\udde9\ud83c\uddff torino have reached verbal agreement to sign rafik belghali as new right ba",
-    "jose mourinho has change of heart on man utd target as \u00a342m transfer looks remot",
     "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f excl: juventus agree deal to sign pape matar sarr, here we go! \ud83c\uddf8\ud83c\uddf3 deal a",
     "hansi flick wanted barcelona to sign a striker this summer",
     "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f juventus remain in active talks for nick woltemade on loan from newcastl",
@@ -2394,11 +2393,12 @@
     "\ud83d\udea8 \ud83d\udd35 enzo fernandez to manchester city in a record british deal for \u00a3125m here we",
     "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f jose gimenez to deportivo de a coruna, here we go! agreement reached now ",
     "manchester city, chelsea in talks at last over potential enzo fernandez deal \u2014 r",
-    "man united transfer latest: alejandro balde talks held as marcus rashford future"
+    "man united transfer latest: alejandro balde talks held as marcus rashford future",
+    "\ud83d\udea8 \ud83d\udd35 rc strasbourg agree deal to sign dario essugo from chelsea, here we go! all ",
+    "\ud83d\udea8 \ud83d\udfe3 excl: anderlecht have agreed on surprise deal to sign oleg reabciuk medical "
   ],
   "tg_update_offset": 263617426,
   "photos": {
-    "isaac schmidt": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Isaac_Schmidt_15032025_%282%29.jpg/330px-Isaac_Schmidt_15032025_%282%29.jpg",
     "victor munoz": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Victor_Munoz_France_v_Spain_7.24.26-017.jpg/330px-Victor_Munoz_France_v_Spain_7.24.26-017.jpg",
     "jhon duran": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Jhon_Dur%C3%A1n%2C_Esteghlal_FC_vs_Al-Nassr_FC_%28ACLElite%29%3B_3_Mar_2025.png/330px-Jhon_Dur%C3%A1n%2C_Esteghlal_FC_vs_Al-Nassr_FC_%28ACLElite%29%3B_3_Mar_2025.png",
     "marc-andre ter stegen": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Marc-Andre_Ter_Stegen_ACCI_FCBARCELONA_Turisme_Catalunya_gira_pretemporada_CATPRESS.jpg/330px-Marc-Andre_Ter_Stegen_ACCI_FCBARCELONA_Turisme_Catalunya_gira_pretemporada_CATPRESS.jpg",
@@ -2692,14 +2692,15 @@
     "estevao willian": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Estevao-Palmeiras-Liverpool-abr24_%28cropped%29.jpg/330px-Estevao-Palmeiras-Liverpool-abr24_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "nicolas tagliafico": "https://r2.thesportsdb.com/images/media/player/cutout/4z43fy1766146600.png/small",
     "claudio echeverri": "https://r2.thesportsdb.com/images/media/player/cutout/jbdnk91756315963.png/small",
-    "dinis": "",
     "mikael baza": "",
     "vuk pavicevic": "",
     "jose gimenez": "https://r2.thesportsdb.com/images/media/player/cutout/j2c2gn1762287634.png/small",
     "shim mheuka": "",
-    "mika faye": ""
+    "mika faye": "",
+    "dario essugo": "https://www.thesportsdb.com/images/media/player/cutout/sgwvhr1787727807.png/small",
+    "dinis": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

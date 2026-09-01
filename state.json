@@ -1,8 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/65058",
-    "tg:FabrizioRomanoTG/65059",
-    "tg:FabrizioRomanoTG/65060",
     "943e28974dc769de6da52507cd2fde19",
     "c90107777e7aa9da67b22005862316d4",
     "tg:FabrizioRomanoTG/65063",
@@ -1499,7 +1496,10 @@
     "effb599889a0b9f9a8d9456bdaa7365d",
     "tg:FabrizioRomanoTG/65819",
     "9967ee4b8b7f1d32cfbff22cf079d402",
-    "tg:FabrizioRomanoTG/65821"
+    "tg:FabrizioRomanoTG/65821",
+    "655b6a601742ba0851a1dc542e17c880",
+    "526c62cfff25106e44adb776cfd6d1dd",
+    "2e6e213920c64db739b8a4f28cf15414"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2088,9 +2088,6 @@
     "interest: willian -> liverpool"
   ],
   "titles": [
-    "transfer rumors, news: liverpool in talks to sign ismaila sarr",
-    "everton agree groundbreaking tottenham transfers for richarlison and iliman ndia",
-    "medicals next as everton agree blockbuster tottenham agreements for richarlison ",
     "julian alvarez to arsenal transfer twist after mikel arteta talks london evening",
     "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 crystal palace agree deal to sign honest ahanor on loan from chelsea, here",
     "\ud83d\udea8 \ud83d\udfe1 \ud83d\udd34 galatasaray reach verbal agreement to sign deniz gul from fc porto, here w",
@@ -2387,7 +2384,10 @@
     "newcastle united\u2019s nick woltemade set for juventus medical on tuesday",
     "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f kevin danso to sunderland, here we go! deal in place for loan move with o",
     "tottenham rocked as iliman ndiaye agrees to join man city from everton in \u00a365m d",
-    "rt @fabrizioromano : \ud83d\udea8 \ud83d\udfe1 \u26ab\ufe0f exclusive: borussia dortmund reach verbal agreement "
+    "rt @fabrizioromano : \ud83d\udea8 \ud83d\udfe1 \u26ab\ufe0f exclusive: borussia dortmund reach verbal agreement ",
+    "chelsea face major decision as rivals make approach for key star",
+    "fresh footage confirms imminent newcastle united medical plus deadline day trans",
+    "perhaps the least surprising move of the summer has finally been made by manches"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2687,12 +2687,12 @@
     "arijon ibrahimovic": "https://images.fotmob.com/image_resources/playerimages/1327150.png",
     "matias fernandez pardo": "https://r2.thesportsdb.com/images/media/player/cutout/8vhxnr1766077473.png/small",
     "estevao willian": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Estevao-Palmeiras-Liverpool-abr24_%28cropped%29.jpg/330px-Estevao-Palmeiras-Liverpool-abr24_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "dinis": "",
     "mikael baza": "",
     "vuk pavicevic": "",
-    "mika faye": ""
+    "mika faye": "",
+    "dinis": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

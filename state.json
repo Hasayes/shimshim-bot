@@ -1,7 +1,5 @@
 {
   "sent": [
-    "09403a3fddb7e37f97833b33ff771068",
-    "0a3dcf9f32ade3846e0b79436b5532ff",
     "9c90d3571f7b74bbf950fb3b2830a7d7",
     "9eabe2794904d1b9bbf3e9a839fe2e7c",
     "9dd9cb57cff2a33bc54fc51c7ec08153",
@@ -1499,7 +1497,9 @@
     "a8f194fbea637e7424066a63509f5343",
     "tg:FabrizioRomanoTG/65854",
     "tg:FabrizioRomanoTG/65855",
-    "tg:FabrizioRomanoTG/65856"
+    "tg:FabrizioRomanoTG/65856",
+    "tg:FabrizioRomanoTG/65857",
+    "tg:FabrizioRomanoTG/65858"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1830,7 +1830,8 @@
     "nwaneri -> borussia dortmund": 1,
     "sanchez -> como": 1,
     "fofana -> sunderland": 1,
-    "mheuka -> celtic": 1
+    "mheuka -> celtic": 1,
+    "echeverri -> benfica": 1
   },
   "interest": [
     "interest: alvarez -> arsenal",
@@ -2092,8 +2093,6 @@
     "interest: tagliafico -> atletico madrid"
   ],
   "titles": [
-    "inter build buyback safeguard into massolin\u2019s cagliari loan",
-    "fabrizio romano says arsenal striker is joining barcelona \u2013 \u2018here we go\u2019 teamtal",
     "liverpool \u2018open talks\u2019 to sign 6\u20197\u201d goalkeeper lucca brughmans this is anfield",
     "two insiders confirm liverpool in talks for 6ft 7in keeper as prem rivals want t",
     "inter close the door on barcelona again",
@@ -2391,11 +2390,12 @@
     "\ud83d\udd35 \ud83d\udd34 \ud83e\udd19\ud83c\udffd official, confirmed gabriel jesus joins barcelona from arsenal \ud83c\udde7\ud83c\uddf7 \u20ac14m pa",
     "jack grealish joins everton on loan from man city with fitness crucial to perman",
     "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f rayo vallecano are set to sign emil audero on straight loan, agreement do",
-    "\ud83d\udea8 \ud83d\udfe3 fiorentina agree surprise deal to sign pedro goncalves from sporting, here w"
+    "\ud83d\udea8 \ud83d\udfe3 fiorentina agree surprise deal to sign pedro goncalves from sporting, here w",
+    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f claudio echeverri to benfica, here we go! verbal agreement done with man ",
+    "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 olympique lyon have agreed deal to sign youssouf fofana, here we go! detai"
   ],
   "tg_update_offset": 263617426,
   "photos": {
-    "karl hein": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/RC_Lens_-_Arsenal_FC_%2803-10-2023%29_6.jpg/330px-RC_Lens_-_Arsenal_FC_%2803-10-2023%29_6.jpg",
     "john stones": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/John_Stones_England_v_Ghana_23_June_2026-038.jpg/330px-John_Stones_England_v_Ghana_23_June_2026-038.jpg",
     "isaac schmidt": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Isaac_Schmidt_15032025_%282%29.jpg/330px-Isaac_Schmidt_15032025_%282%29.jpg",
     "victor munoz": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Victor_Munoz_France_v_Spain_7.24.26-017.jpg/330px-Victor_Munoz_France_v_Spain_7.24.26-017.jpg",
@@ -2690,13 +2690,14 @@
     "matias fernandez pardo": "https://r2.thesportsdb.com/images/media/player/cutout/8vhxnr1766077473.png/small",
     "estevao willian": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Estevao-Palmeiras-Liverpool-abr24_%28cropped%29.jpg/330px-Estevao-Palmeiras-Liverpool-abr24_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "nicolas tagliafico": "https://r2.thesportsdb.com/images/media/player/cutout/4z43fy1766146600.png/small",
-    "shim mheuka": "",
     "mika faye": "",
     "dinis": "",
     "mikael baza": "",
-    "vuk pavicevic": ""
+    "vuk pavicevic": "",
+    "claudio echeverri": "https://r2.thesportsdb.com/images/media/player/cutout/jbdnk91756315963.png/small",
+    "shim mheuka": ""
   },
-  "photo_repair_idx": 5,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

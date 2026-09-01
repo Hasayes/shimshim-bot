@@ -1,5 +1,53 @@
 [
  {
+  "id": "tg:FabrizioRomanoTG/65872",
+  "ts": "2026-09-01T17:45:46+00:00",
+  "kind": "deal",
+  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/f1a7kt1766238123.png/small",
+  "stage": "Here we go",
+  "player": "Thilo Kehrer",
+  "position": "Defender",
+  "age": "\u2014",
+  "from_club": "AS Monaco",
+  "to_club": "Ajax",
+  "fee": "Loan",
+  "style": "Versatile defender with solid positioning and aerial ability, capable of playing across the back line with composed passing.",
+  "fit": "Use as a reliable center-back or fullback option to provide depth and experience in Ajax's defensive setup during the loan spell.",
+  "source": "Fabrizio Romano",
+  "sources": [
+   "Fabrizio Romano"
+  ],
+  "srcTier": "tier1",
+  "summary": "Thilo Kehrer joins Ajax on a straight loan from AS Monaco with verbal agreement done, medical completed and contract signed.",
+  "outlet": "Telegram @fabrizioromanotg",
+  "url": "https://t.me/FabrizioRomanoTG/65872",
+  "title": "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f Thilo Kehrer to Ajax, here we go! Verbal agreement done with the defender who joins on straight loan from AS Mona"
+ },
+ {
+  "id": "442aae42b8d6af1086cc07a797945653",
+  "ts": "2026-09-01T17:45:37+00:00",
+  "kind": "deal",
+  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/ic7kq51781348516.png/small",
+  "stage": "Here we go",
+  "player": "Folarin Balogun",
+  "position": "\u2014",
+  "age": "\u2014",
+  "from_club": "Monaco",
+  "to_club": "Everton",
+  "fee": "\u2014",
+  "style": "Clinical finisher with intelligent movement in the box and strong technical ability to link play from the forward line.",
+  "fit": "Deploy as a central striker or attacking focal point to lead Everton's frontline and convert the chances created by their midfield.",
+  "source": "goodisonnews",
+  "sources": [
+   "goodisonnews"
+  ],
+  "srcTier": "standard",
+  "summary": "Folarin Balogun has been granted permission by Monaco to travel for an Everton medical, with contract terms agreed between the player and club.",
+  "outlet": "goodisonnews",
+  "url": "https://www.goodisonnews.com/transfers/folarin-balogun-given-green-light-to-travel-for-everton-medical-as-contract-terms-emerge",
+  "title": "31-gap int'l given green light for Everton medical as contract terms agreed - report"
+ },
+ {
   "id": "tg:FabrizioRomanoTG/65870",
   "ts": "2026-09-01T17:15:46+00:00",
   "kind": "deal",

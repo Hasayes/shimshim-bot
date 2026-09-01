@@ -1,12 +1,5 @@
 {
   "sent": [
-    "60bc11cb07daadbfc5a18a79a5e1ab47",
-    "fe4e24e5677bb0c1e9c0d28e8d593224",
-    "362f46cda58b0dc2397c8dc839f1f59d",
-    "cd97f4a97a45410ba2f72df639e8edbb",
-    "cf618e7accab171bd82417050632e1b0",
-    "55d0cbd71c6711082b2473dfa2b0201b",
-    "57e94adb50c867e8c6d204fd0144005e",
     "b986c5e8eae6c224200c29229a2a7128",
     "c1574a52d359c1936eb20bfe336057c9",
     "f4d9e23c882ad27a3a50fa7e83615df1",
@@ -1499,7 +1492,14 @@
     "18c507575ef01cfa43598b153b9b3d90",
     "2fbe2d81a4f2c2bb846c032ea89f913d",
     "tg:FabrizioRomanoTG/65870",
-    "4eced0114a72b963f23398c50df94cca"
+    "4eced0114a72b963f23398c50df94cca",
+    "14ca811a118ab641521a78724a45e154",
+    "279f534b89c0e4468d471e939f926666",
+    "442aae42b8d6af1086cc07a797945653",
+    "03f45bd6c3959048122f9e078f702f13",
+    "a350639e1e5aaf99cdf2d6c080ece824",
+    "7a01f61dad156397e6863ff9425240e7",
+    "tg:FabrizioRomanoTG/65872"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1835,7 +1835,9 @@
     "fernandez -> manchester city": 1,
     "gimenez -> deportivo de a coruna": 1,
     "essugo -> rc strasbourg": 1,
-    "bahoya -> leeds": 1
+    "bahoya -> leeds": 1,
+    "balogun -> everton": 1,
+    "kehrer -> ajax": 1
   },
   "interest": [
     "interest: alvarez -> arsenal",
@@ -2097,13 +2099,6 @@
     "interest: tagliafico -> atletico madrid"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83c\uddfa\ud83c\udde6 mykhaylo mudryk set to leave chelsea before the deadline, loan deal being d",
-    "arsenal handed julian alvarez boost as 'atletico open talks to sign replacement ",
-    "ollie watkins\u2019 al hilal arrival could reportedly lead to karim benzema\u2019s retirem",
-    "guess who? liverpool's surprise target confirmed",
-    "rt @fabrizioromano : \ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f excl: fc koln have closed the agreement with tottenh",
-    "barcelona close in on gabriel jesus signing as documents are exchanged with arse",
-    "(video): psg score late double to level with lille",
     "\ud83d\udea8 \ud83d\udd35 everton have sent official bid to as monaco for folarin balogun as negotiati",
     "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f after pape sarr to juventus and mikey moore to koln, kevin danso can also",
     "tottenham enquire about pulisic monday's gossip",
@@ -2396,12 +2391,17 @@
     "jack grealish to undergo medical as everton do something no other club did for t",
     "everton do something no other club did to sign pl star on loan, medical today re",
     "\ud83d\udea8 \ud83d\udfe1 \ud83d\udd35 jean matteo bahoya to leeds united, here we go! deal agreed with also auth",
-    "big moves could be made across europe ahead of deadline, here are a few you migh"
+    "big moves could be made across europe ahead of deadline, here are a few you migh",
+    "'here we go' fabrizio romano delivers fresh newcastle united deadline day transf",
+    "folarin balogun given green light to travel for everton medical as contract term",
+    "31 gap int'l given green light for everton medical as contract terms agreed repo",
+    "como reach verbal agreement over loan deal for sanchez",
+    "arsenal explore late move for alvarez tuesday gossip",
+    "man utd news: \u00a334m transfer target's move 'sanctioned' as boss confirms 'fantast",
+    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f thilo kehrer to ajax, here we go! verbal agreement done with the defender"
   ],
   "tg_update_offset": 263617426,
   "photos": {
-    "jhon duran": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Jhon_Dur%C3%A1n%2C_Esteghlal_FC_vs_Al-Nassr_FC_%28ACLElite%29%3B_3_Mar_2025.png/330px-Jhon_Dur%C3%A1n%2C_Esteghlal_FC_vs_Al-Nassr_FC_%28ACLElite%29%3B_3_Mar_2025.png",
-    "marc-andre ter stegen": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Marc-Andre_Ter_Stegen_ACCI_FCBARCELONA_Turisme_Catalunya_gira_pretemporada_CATPRESS.jpg/330px-Marc-Andre_Ter_Stegen_ACCI_FCBARCELONA_Turisme_Catalunya_gira_pretemporada_CATPRESS.jpg",
     "antonio silva": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ant%C3%B3nio_Silva_USMNT_v_Portugal_Mar_31_2026-19_%28cropped%29.jpg/330px-Ant%C3%B3nio_Silva_USMNT_v_Portugal_Mar_31_2026-19_%28cropped%29.jpg",
     "luka vuskovic": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Luka_Vuskovic_Croatia_v_Portugal_2_July_2026-020.jpg/330px-Luka_Vuskovic_Croatia_v_Portugal_2_July_2026-020.jpg",
     "warren zaire-emery": "https://r2.thesportsdb.com/images/media/player/cutout/fjxbac1766335583.png/small",
@@ -2693,15 +2693,17 @@
     "nicolas tagliafico": "https://r2.thesportsdb.com/images/media/player/cutout/4z43fy1766146600.png/small",
     "claudio echeverri": "https://r2.thesportsdb.com/images/media/player/cutout/jbdnk91756315963.png/small",
     "jose gimenez": "https://r2.thesportsdb.com/images/media/player/cutout/j2c2gn1762287634.png/small",
-    "mika faye": "",
     "dario essugo": "https://www.thesportsdb.com/images/media/player/cutout/sgwvhr1787727807.png/small",
     "dinis": "",
     "mikael baza": "",
     "jean matteo bahoya": "https://r2.thesportsdb.com/images/media/player/cutout/fp3ti91762287362.png/small",
     "vuk pavicevic": "",
-    "shim mheuka": ""
+    "shim mheuka": "",
+    "folarin balogun": "https://r2.thesportsdb.com/images/media/player/cutout/ic7kq51781348516.png/small",
+    "thilo kehrer": "https://r2.thesportsdb.com/images/media/player/cutout/f1a7kt1766238123.png/small",
+    "mika faye": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

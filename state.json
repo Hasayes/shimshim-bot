@@ -1,11 +1,5 @@
 {
   "sent": [
-    "043641c4cf256f96b8d11c8acac6a308",
-    "060761dc543cc4729b08bc6b57690850",
-    "de584d454bbad7c0f84be2753bbb9329",
-    "9efb84a09e1b9b077818647949af79a7",
-    "76f40630009c04402cc775f38472328f",
-    "164c16763e357ccde8ae4e33c2b5aed6",
     "f1aa3ebe107568abb94a16b98d84f316",
     "851ebdcc2d590f56022edca845249369",
     "c3d7f3de42ae39f5bee21019ad55f889",
@@ -1499,7 +1493,13 @@
     "b47ceef245de77bd7375f34af9b36e42",
     "fa5a6ecabac6627e1604af2aa39b04a8",
     "tg:FabrizioRomanoTG/65895",
-    "9480de3db82f5983008ae7ae64b47e5f"
+    "9480de3db82f5983008ae7ae64b47e5f",
+    "4a8a5f94db7b02dce8ad6a7594fcfe96",
+    "179c960cc135adfb28dbaa77f4ed74d1",
+    "72de577ad8d52f2fa54df0b804bcf097",
+    "0cb7550cfb14f6b880214f9ff209566d",
+    "4b4d5f12b3a8a1b34ef341e73032ab63",
+    "tg:FabrizioRomanoTG/65896"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2103,11 +2103,6 @@
     "interest: tagliafico -> atletico madrid"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f more on malick fofana: arsenal are not willing to match \u20ac40m valuation, o",
-    "atalanta: ahanor on loan to crystal palace, then he will belong to chelsea: the ",
-    "liverpool latest: virgil van dijk speaks out about bradley barcola as 'talks con",
-    "manchester united discuss zirkzee transfer and ask for at least \u20ac35 million",
-    "sources: arsenal make \u2018generational\u2019 talent their top target amid rising interes",
     "everton green light \u00a314 5m player exit, medical today report",
     "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f manchester city are advancing in talks for iliman ndiaye as exclusively r",
     "\ud83d\udea8 \ud83d\udca3 breaking: manchester city have now made official club to club approach with ",
@@ -2402,7 +2397,12 @@
     "kone chelsea deal at risk: gasperini wants to keep him",
     "romano: spurs agree two stunning deals for fringe chelsea pair",
     "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f depor reach verbal agreement to sign marc casado from barcelona, here we ",
-    "man city \u2018agree enzo fernandez transfer in stunning \u00a3137million premier league r"
+    "man city \u2018agree enzo fernandez transfer in stunning \u00a3137million premier league r",
+    "kone chelsea deal called off: gasperini\u2019s decision is final",
+    "everton star undergoes medical as toffees green light big wage deal",
+    "everton reach agreement with monaco for tottenham target who once played for ars",
+    "leeds united target undergoes medical and deal hijacked as wales stars face batt",
+    "\u26aa\ufe0f \u26ab\ufe0f \ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udffc official, confirmed hugo larsson joins fulham on \u20ac25m deal from eint"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2701,13 +2701,13 @@
     "dani ceballos": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Dani_Ceballos%2C_Real_Madrid%2C_2022.jpg/330px-Dani_Ceballos%2C_Real_Madrid%2C_2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "mykhailo mudryk": "https://www.thesportsdb.com/images/media/player/cutout/uoz87a1787728061.png/small",
     "kevin danso": "https://r2.thesportsdb.com/images/media/player/cutout/unhinl1739274856.png/small",
-    "mikael baza": "",
     "vuk pavicevic": "",
     "shim mheuka": "",
     "mika faye": "",
-    "dinis": ""
+    "dinis": "",
+    "mikael baza": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

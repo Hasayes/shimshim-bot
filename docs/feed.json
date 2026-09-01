@@ -1,5 +1,29 @@
 [
  {
+  "id": "6cce24004a762bb2cf5ea844a21a3ff8",
+  "ts": "2026-09-01T08:15:39+00:00",
+  "kind": "deal",
+  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/8vhxnr1766077473.png/small",
+  "stage": "Completed",
+  "player": "Matias Fernandez-Pardo",
+  "position": "Winger",
+  "age": "21",
+  "from_club": "Lille",
+  "to_club": "Newcastle",
+  "fee": "\u20ac60m plus add-ons",
+  "style": "Pacey left winger with direct running ability and strong technical skills to beat defenders in wide areas.",
+  "fit": "Can provide attacking width and creativity for Newcastle's front line while developing further in the Premier League.",
+  "source": "Fabrizio Romano",
+  "sources": [
+   "Fabrizio Romano"
+  ],
+  "srcTier": "tier1",
+  "summary": "Matias Fern\u00e1ndez Pardo transfer from Lille to Newcastle is completed with all documents signed by both clubs.",
+  "outlet": "Telegram @fabrizioromanotg",
+  "url": "https://t.me/FabrizioRomanoTG/65825",
+  "title": "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f Matias Fern\u00e1ndez Pardo deal: all documents have been signed by Lille and Newcastle. https://t.co/pdbWc7nbDC \u2014 Fa"
+ },
+ {
   "id": "tg:FabrizioRomanoTG/65779",
   "ts": "2026-09-01T07:30:41+00:00",
   "kind": "deal",
@@ -71,30 +95,6 @@
   "outlet": "football365",
   "url": "https://www.football365.com/news/chelsea-liverpool-estevao-willian-decision-reached",
   "title": "Chelsea respond to Liverpool enquiry about signing Estevao Willian"
- },
- {
-  "id": "6cce24004a762bb2cf5ea844a21a3ff8",
-  "ts": "2026-09-01T02:00:54+00:00",
-  "kind": "deal",
-  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/8vhxnr1766077473.png/small",
-  "stage": "Here we go",
-  "player": "Matias Fernandez-Pardo",
-  "position": "Winger",
-  "age": "21",
-  "from_club": "Lille OSC",
-  "to_club": "Newcastle United",
-  "fee": "\u20ac60m plus add-ons",
-  "style": "Pacey left winger with direct running ability and strong technical skills to beat defenders in wide areas.",
-  "fit": "Can provide attacking width and creativity for Newcastle's front line while developing further in the Premier League.",
-  "source": "Fabrizio Romano",
-  "sources": [
-   "Fabrizio Romano"
-  ],
-  "srcTier": "tier1",
-  "summary": "Newcastle United have reached an agreement with Lille for 21-year-old Belgium winger Matias Fernandez-Pardo for \u20ac60m plus add-ons. Fernandez-Pardo is expected to travel to Tyneside to complete formalities and undergo a medical.",
-  "outlet": "sportingpedia",
-  "url": "https://www.sportingpedia.com/2026/08/31/newcastle-transfer-picture-shifts-as-fernandez-pardo-deal-advances-and-juventus-target-woltemade/",
-  "title": "Newcastle Transfer Picture Shifts as Fernandez-Pardo Deal Advances and Juventus Target Woltemade"
  },
  {
   "id": "3ec75cf70d547df250705a644658a61b",

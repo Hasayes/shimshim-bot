@@ -1,10 +1,5 @@
 {
   "sent": [
-    "943e28974dc769de6da52507cd2fde19",
-    "c90107777e7aa9da67b22005862316d4",
-    "tg:FabrizioRomanoTG/65063",
-    "tg:FabrizioRomanoTG/65064",
-    "tg:FabrizioRomanoTG/65065",
     "tg:FabrizioRomanoTG/65068",
     "tg:FabrizioRomanoTG/65070",
     "tg:FabrizioRomanoTG/65071",
@@ -1499,7 +1494,12 @@
     "tg:FabrizioRomanoTG/65821",
     "655b6a601742ba0851a1dc542e17c880",
     "526c62cfff25106e44adb776cfd6d1dd",
-    "2e6e213920c64db739b8a4f28cf15414"
+    "2e6e213920c64db739b8a4f28cf15414",
+    "488adb76937c803ee37b04f7341d887f",
+    "c9b02e21413c8b5d09915faf20a1890b",
+    "f2c6c7f4fd5fda6503e9fda48752dad5",
+    "c19139549073538683f27b0ffd242307",
+    "tg:FabrizioRomanoTG/65825"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1826,7 +1826,7 @@
     "ibrahimovic -> fc augsburg": 2,
     "faye -> barcelona": 1,
     "gakpo -> manchester city": 1,
-    "pardo -> newcastle": 1,
+    "pardo -> newcastle": 2,
     "nwaneri -> borussia dortmund": 1
   },
   "interest": [
@@ -2088,11 +2088,6 @@
     "interest: willian -> liverpool"
   ],
   "titles": [
-    "julian alvarez to arsenal transfer twist after mikel arteta talks london evening",
-    "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 crystal palace agree deal to sign honest ahanor on loan from chelsea, here",
-    "\ud83d\udea8 \ud83d\udfe1 \ud83d\udd34 galatasaray reach verbal agreement to sign deniz gul from fc porto, here w",
-    "\ud83d\udea8 \ud83d\udfe1 \ud83d\udd35 parma reach verbal agreement to sign diego carlos who\u2019s leaving fenerbahce",
-    "rt @fabrizioromano : \ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f exclusive: augsburg reach verbal agreement to sign j",
     "tottenham respond to cody gakpo snub by raiding everton \u2013 \u2018agreement in principl",
     "victor osimhen to arsenal? transfer expert clarifies super eagles striker\u2019s futu",
     "tottenham receive \u2018green light\u2019 from 26 year old target as double transfer plan ",
@@ -2387,7 +2382,12 @@
     "rt @fabrizioromano : \ud83d\udea8 \ud83d\udfe1 \u26ab\ufe0f exclusive: borussia dortmund reach verbal agreement ",
     "chelsea face major decision as rivals make approach for key star",
     "fresh footage confirms imminent newcastle united medical plus deadline day trans",
-    "perhaps the least surprising move of the summer has finally been made by manches"
+    "perhaps the least surprising move of the summer has finally been made by manches",
+    "tottenham suffer new \u00a365m transfer blow hours after liverpool block cody gakpo d",
+    "how much everton will pay for folarin balogun and next steps as deal agreed",
+    "man city open talks to sign fernandez tuesday gossip",
+    "liverpool respond to \u00a330m nottingham forest bid for midfielder as cody gakpo rea",
+    "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f matias fernandez pardo deal: all documents have been signed by lille and"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2687,12 +2687,12 @@
     "arijon ibrahimovic": "https://images.fotmob.com/image_resources/playerimages/1327150.png",
     "matias fernandez pardo": "https://r2.thesportsdb.com/images/media/player/cutout/8vhxnr1766077473.png/small",
     "estevao willian": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Estevao-Palmeiras-Liverpool-abr24_%28cropped%29.jpg/330px-Estevao-Palmeiras-Liverpool-abr24_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "mikael baza": "",
     "vuk pavicevic": "",
     "mika faye": "",
-    "dinis": ""
+    "dinis": "",
+    "mikael baza": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

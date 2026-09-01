@@ -1,5 +1,29 @@
 [
  {
+  "id": "tg:FabrizioRomanoTG/65818",
+  "ts": "2026-09-01T19:45:41+00:00",
+  "kind": "deal",
+  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/duej621756983689.png/small",
+  "stage": "Completed",
+  "player": "Ethan Nwaneri",
+  "position": "\u2014",
+  "age": "\u2014",
+  "from_club": "Arsenal",
+  "to_club": "Borussia Dortmund",
+  "fee": "Loan",
+  "style": "Versatile midfielder with technical ability and press resistance, capable of playing across multiple positions in the final third.",
+  "fit": "Can provide depth and creativity in Dortmund's midfield rotation while gaining regular first-team experience in the Bundesliga.",
+  "source": "Fabrizio Romano",
+  "sources": [
+   "Fabrizio Romano"
+  ],
+  "srcTier": "tier1",
+  "summary": "Ethan Nwaneri has joined Borussia Dortmund on loan from Arsenal, confirmed by Fabrizio Romano.",
+  "outlet": "Telegram @fabrizioromanotg",
+  "url": "https://t.me/FabrizioRomanoTG/65885",
+  "title": "\ud83d\udfe1 \u26ab\ufe0f \ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udffc Ethan Nwaneri has joined Borussia Dortmund on loan deal from Arsenal. Here with his agent Will Salthouse from"
+ },
+ {
   "id": "366ad2c8e9efb94be3a2c2009634b8ad",
   "ts": "2026-09-01T19:30:44+00:00",
   "kind": "deal",
@@ -458,30 +482,6 @@
   "outlet": "teamtalk",
   "url": "https://www.teamtalk.com/tottenham-hotspur/tottenham-rocked-as-iliman-ndiaye-agrees-to-join-man-city-from-everton-in-65m-deal",
   "title": "Tottenham rocked as Iliman Ndiaye agrees to join Man City from Everton in \u00a365m deal"
- },
- {
-  "id": "tg:FabrizioRomanoTG/65818",
-  "ts": "2026-09-01T06:30:48+00:00",
-  "kind": "deal",
-  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/duej621756983689.png/small",
-  "stage": "Here we go",
-  "player": "Ethan Nwaneri",
-  "position": "\u2014",
-  "age": "\u2014",
-  "from_club": "Arsenal",
-  "to_club": "Borussia Dortmund",
-  "fee": "Loan",
-  "style": "Versatile midfielder with technical ability and press resistance, capable of playing across multiple positions in the final third.",
-  "fit": "Can provide depth and creativity in Dortmund's midfield rotation while gaining regular first-team experience in the Bundesliga.",
-  "source": "Fabrizio Romano",
-  "sources": [
-   "Fabrizio Romano"
-  ],
-  "srcTier": "tier1",
-  "summary": "Borussia Dortmund have reached a verbal agreement to sign Ethan Nwaneri from Arsenal on a season-long loan, with the German club covering his entire salary.",
-  "outlet": "Telegram @fabrizioromanotg",
-  "url": "https://t.me/FabrizioRomanoTG/65818",
-  "title": "\ud83d\udea8 \ud83d\udfe1 \u26ab\ufe0f EXCLUSIVE: Borussia Dortmund reach verbal agreement to sign Ethan Nwaneri from Arsenal, here we go! Season long l"
  },
  {
   "id": "493825054e5ba4789061cd05492b7d2f",

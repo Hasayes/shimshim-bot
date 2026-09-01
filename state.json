@@ -1,10 +1,5 @@
 {
   "sent": [
-    "082dc834bda53bf228a68dd829534b07",
-    "b79c96f0bd9e78679f215ae3cfacb53b",
-    "tg:FabrizioRomanoTG/65094",
-    "bec25d43bc0515d4606ba8785be24c0c",
-    "tg:FabrizioRomanoTG/65100",
     "e4df777d0e5a52abe71f0ae090c109b0",
     "tg:FabrizioRomanoTG/65105",
     "tg:FabrizioRomanoTG/65108",
@@ -1499,7 +1494,12 @@
     "aa558239f6d661cb3edaf940d9cb863e",
     "f5a92e37da6620f34bf5b2cb5599657d",
     "3a374654d06295ada9da32c807b8783b",
-    "tg:FabrizioRomanoTG/65884"
+    "tg:FabrizioRomanoTG/65884",
+    "01b9ba912e54afb7ed509057b2799b04",
+    "831a7ac674af9d43892f42934eddebad",
+    "c7b9f4dbb1420d1b6097f339e50dd941",
+    "tg:FabrizioRomanoTG/65885",
+    "tg:FabrizioRomanoTG/65886"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1827,7 +1827,7 @@
     "faye -> barcelona": 1,
     "gakpo -> manchester city": 1,
     "pardo -> newcastle": 2,
-    "nwaneri -> borussia dortmund": 1,
+    "nwaneri -> borussia dortmund": 2,
     "sanchez -> como": 1,
     "fofana -> sunderland": 1,
     "mheuka -> celtic": 1,
@@ -2102,11 +2102,6 @@
     "interest: tagliafico -> atletico madrid"
   ],
   "titles": [
-    "chelsea open talks for roma\u2019s kone in final 48 hours of summer transfer window",
-    "\ud83d\udd34 \u26aa\ufe0f \ud83c\udde8\ud83c\udde6 atletico madrid are moving to the final stages of jonathan david deal, p",
-    "\ud83d\udea8 \ud83e\ude75 official, confirmed manchester city sign allan from palmeiras in a deal wort",
-    "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f juventus have agreed on personal terms with nick woltemade who wants the",
-    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f breaking: jonathan david to atletico madrid, here we go! verbal agreement",
     "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f gennaro wijks will move to rb leipzig from sparta rotterdam, agreement do",
     "transfer rumors, news: liverpool, newcastle eye belgian forward",
     "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f exclusive: newcastle have agreed deal to sign matias fernandez pardo fro",
@@ -2401,7 +2396,12 @@
     "here we go: tottenham sanction defender exit as sunderland secure deadline day d",
     "fabrizio romano confirms liverpool attacker transfer is \u2018here we go\u2019 done teamta",
     "chelsea make contact with roma for manu kone",
-    "\ud83d\udea8 \u26a0\ufe0f folarin balogun\u2019s move to everton is in jeopardy after medical tests everto"
+    "\ud83d\udea8 \u26a0\ufe0f folarin balogun\u2019s move to everton is in jeopardy after medical tests everto",
+    "deal agreed: 'big sell on clause' sorted as everton green light another 11th hou",
+    "kevin danso medical booked to quit tottenham on deadline day as sunderland terms",
+    "manchester city chelsea agreement: enzo fernandez joins maresca",
+    "\ud83d\udfe1 \u26ab\ufe0f \ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udffc ethan nwaneri has joined borussia dortmund on loan deal from arsenal ",
+    "\ud83d\udea8 \ud83c\udde6\ud83c\uddf7 enzo fernandez has completed a medical as new manchester city player \u00a3125m "
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2699,14 +2699,14 @@
     "thilo kehrer": "https://r2.thesportsdb.com/images/media/player/cutout/f1a7kt1766238123.png/small",
     "dani ceballos": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Dani_Ceballos%2C_Real_Madrid%2C_2022.jpg/330px-Dani_Ceballos%2C_Real_Madrid%2C_2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "mykhailo mudryk": "https://www.thesportsdb.com/images/media/player/cutout/uoz87a1787728061.png/small",
-    "shim mheuka": "",
     "mika faye": "",
     "dinis": "",
     "mikael baza": "",
     "kevin danso": "https://r2.thesportsdb.com/images/media/player/cutout/unhinl1739274856.png/small",
-    "vuk pavicevic": ""
+    "vuk pavicevic": "",
+    "shim mheuka": ""
   },
-  "photo_repair_idx": 5,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

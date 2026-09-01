@@ -1,7 +1,5 @@
 {
   "sent": [
-    "088391325b3765e46ae102379ae95c68",
-    "4f992a3932f188c9a1186bed9a6f53ea",
     "56cca4839cd256b7690063e5d5d85af7",
     "73e011980164f2665346b2dbef18242d",
     "98da08be5c6e485c348ac6d55225bd81",
@@ -1499,7 +1497,9 @@
     "cbf15ecf8a2762621840730e80d45318",
     "5057be686e58fb920d49e0dd68cf2ab0",
     "a1c8212b7d3a83e73b0d2b1456f03f74",
-    "72f23901b2a828033cbaec2b75c1dd60"
+    "72f23901b2a828033cbaec2b75c1dd60",
+    "d273379d1a9b4252d85996d876573d32",
+    "068e2df34396eb0b1fed294c564d6b43"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2084,8 +2084,6 @@
     "interest: adarabioyo -> tottenham"
   ],
   "titles": [
-    "fofana eager for galatasaray, but milan want permanent sale",
-    "man utd striker wanted by atletico madrid as julian alvarez replacement",
     "augsburg set to take manchester city defender on loan",
     "morocco star terminates his contract: swift agreement reached with european gian",
     "alvarez finally snubs arsenal, prefers barcelona move",
@@ -2383,7 +2381,9 @@
     "breaking: romano says \u201cconcrete possibility\u201d tottenham sign unwanted chelsea cen",
     "aston villa shut door on man utd move for maatsen",
     "roma face deadline day balancing act as leweling talks advance and kone draws ch",
-    "fc koln\u2019s said el mala to be included in jurgen klopp\u2019s germany squad"
+    "fc koln\u2019s said el mala to be included in jurgen klopp\u2019s germany squad",
+    "tottenham \u2018working on\u2019 deals to sign two chelsea rejects \u2013 top sources",
+    "'here we go' romano: newcastle agree \u00a350m+ deal to sign matias fernandez pardo"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2683,12 +2683,12 @@
     "jack grealish": "https://r2.thesportsdb.com/images/media/player/cutout/7ckk5a1756976762.png/small",
     "robert sanchez": "https://www.thesportsdb.com/images/media/player/cutout/tp7tca1787691371.png/small",
     "arijon ibrahimovic": "https://images.fotmob.com/image_resources/playerimages/1327150.png",
-    "dinis": "",
     "mikael baza": "",
     "vuk pavicevic": "",
-    "mika faye": ""
+    "mika faye": "",
+    "dinis": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

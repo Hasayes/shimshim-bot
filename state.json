@@ -1,11 +1,5 @@
 {
   "sent": [
-    "a646299e0b356f524821b790dd8778bd",
-    "12eea44192a6a3895c5a2f4321fe7d38",
-    "77ccabbe6b341679c073d0e76f141c02",
-    "3fafca8fc29c707e76f61d859dbda0de",
-    "eb21094448da2291176408f0647677d3",
-    "22981afd9ea566f090fa5583ce2f86d2",
     "088391325b3765e46ae102379ae95c68",
     "4f992a3932f188c9a1186bed9a6f53ea",
     "56cca4839cd256b7690063e5d5d85af7",
@@ -1499,7 +1493,13 @@
     "7f4424c569a116de117faea9838027be",
     "45c3102fcbe4e4ebfd2555d4a59a2ec0",
     "4e42a373e93f9db145943dbea9cd336c",
-    "387f4539ca43ce3d607fb98e15182b17"
+    "387f4539ca43ce3d607fb98e15182b17",
+    "dcebc9829bc2a227c6135b607dc4def7",
+    "12660d1bc7cf9e39278d6328062aa920",
+    "cbf15ecf8a2762621840730e80d45318",
+    "5057be686e58fb920d49e0dd68cf2ab0",
+    "a1c8212b7d3a83e73b0d2b1456f03f74",
+    "72f23901b2a828033cbaec2b75c1dd60"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2084,12 +2084,6 @@
     "interest: adarabioyo -> tottenham"
   ],
   "titles": [
-    "winger desperate to join liverpool as fsg continue talks over transfer",
-    "rb leipzig set to pounce on chelsea target who they think is a bargain at \u20ac20m",
-    "\u00a360m arsenal, liverpool winger battle explodes after julian alvarez snub",
-    "gerrard: 'huge loss for everton' as \u00a340m rated youngster edges closer to exit",
-    "fabrizio romano exclusive claims real madrid set to snap up \u20ac3m midfield signing",
-    "the future for julian alvarez appears murky",
     "fofana eager for galatasaray, but milan want permanent sale",
     "man utd striker wanted by atletico madrid as julian alvarez replacement",
     "augsburg set to take manchester city defender on loan",
@@ -2383,7 +2377,13 @@
     "official: \u00a322m deal completed in worrying news for crystal palace fans as mid ta",
     "romano gives \u201chere we go\u201d for striker transfer to spanish giants",
     "tottenham open talks to sign chelsea star after shock man utd link",
-    "lucca brughmans: liverpool complete his \u20ac35m transfer, but where he plays this s"
+    "lucca brughmans: liverpool complete his \u20ac35m transfer, but where he plays this s",
+    "victor osimhen transfer: ex inter striker rules out arsenal move in barcelona\u2019s ",
+    "here we go! jonathan david tinggalkan juventus demi atletico madrid",
+    "breaking: romano says \u201cconcrete possibility\u201d tottenham sign unwanted chelsea cen",
+    "aston villa shut door on man utd move for maatsen",
+    "roma face deadline day balancing act as leweling talks advance and kone draws ch",
+    "fc koln\u2019s said el mala to be included in jurgen klopp\u2019s germany squad"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2683,12 +2683,12 @@
     "jack grealish": "https://r2.thesportsdb.com/images/media/player/cutout/7ckk5a1756976762.png/small",
     "robert sanchez": "https://www.thesportsdb.com/images/media/player/cutout/tp7tca1787691371.png/small",
     "arijon ibrahimovic": "https://images.fotmob.com/image_resources/playerimages/1327150.png",
-    "mika faye": "",
     "dinis": "",
     "mikael baza": "",
-    "vuk pavicevic": ""
+    "vuk pavicevic": "",
+    "mika faye": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

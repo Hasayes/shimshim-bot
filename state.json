@@ -1,7 +1,5 @@
 {
   "sent": [
-    "c8b84baaaa4426a3822ec2d5bbbfff84",
-    "27d98f2685ed6a70d73a184f63cd0695",
     "fd23eeb0a154ec80f9e129e05779effd",
     "tg:FabrizioRomanoTG/65015",
     "849571ed2efc4d13f43806da4d15f5fa",
@@ -1499,7 +1497,9 @@
     "7ab35f98c5847a168da5669228e27f10",
     "83ece319ca8ff4eb535690df20697938",
     "2852a478f6e839ccab03edaca5ebfbca",
-    "cfcde194704686bd1afb10114af8c887"
+    "cfcde194704686bd1afb10114af8c887",
+    "5b3ba0dcb2a8b1f04e02f712c0f4ef2f",
+    "a377ef72a99853882ac09b2e81e505bb"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2086,8 +2086,6 @@
     "interest: adarabioyo -> tottenham"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f sami ouaissa to psv eindhoven, here we go! deal agreed for \u20ac9m transfer f",
-    "sarr pushing hard for juventus, but tottenham want obligation to buy",
     "nottingham forest in transfer rampage as romano gives double \u2018here we go\u2019",
     "\ud83d\udea8 \ud83d\udd04 tottenham and everton have reached an agreement on double deal with iliman n",
     "\ud83d\udea8 \ud83d\udd35 everton are in advanced talks to bring jack grealish back to the club, negot",
@@ -2385,7 +2383,9 @@
     "monza magic with zeballos from boca juniors, ziolkowski and nelsson ready",
     "this could be a long, strange trip: transfer moves at tottenham offer little con",
     "saints reportedly make offer for teenage dortmund defender",
-    "liverpool officially announce \u00a3123m barcola signing as romano confirms two more "
+    "liverpool officially announce \u00a3123m barcola signing as romano confirms two more ",
+    "matthias jaissle in dreamland as newcastle agree \u20ac60m deal for 2 in 1 star",
+    "eintracht frankfurt working on kalimuendo return as nottingham forest sign danie"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2684,13 +2684,13 @@
     "jack grealish": "https://r2.thesportsdb.com/images/media/player/cutout/7ckk5a1756976762.png/small",
     "robert sanchez": "https://www.thesportsdb.com/images/media/player/cutout/tp7tca1787691371.png/small",
     "arijon ibrahimovic": "https://images.fotmob.com/image_resources/playerimages/1327150.png",
-    "vuk pavicevic": "",
     "matias fernandez pardo": "https://r2.thesportsdb.com/images/media/player/cutout/8vhxnr1766077473.png/small",
     "mika faye": "",
     "dinis": "",
-    "mikael baza": ""
+    "mikael baza": "",
+    "vuk pavicevic": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

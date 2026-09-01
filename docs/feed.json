@@ -1,5 +1,29 @@
 [
  {
+  "id": "366ad2c8e9efb94be3a2c2009634b8ad",
+  "ts": "2026-09-01T19:30:44+00:00",
+  "kind": "deal",
+  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/unhinl1739274856.png/small",
+  "stage": "Here we go",
+  "player": "Kevin Danso",
+  "position": "Defender",
+  "age": "27",
+  "from_club": "Tottenham Hotspur",
+  "to_club": "Sunderland",
+  "fee": "Loan with option to buy",
+  "style": "Aggressive, physical defender who uses his strength and positioning to disrupt opponents in direct duels and aerial situations.",
+  "fit": "Deploy as a key defensive anchor in Sunderland's backline to provide experience and leadership while competing for promotion.",
+  "source": "Fabrizio Romano",
+  "sources": [
+   "Fabrizio Romano"
+  ],
+  "srcTier": "tier1",
+  "summary": "Kevin Danso completes a season-long loan move from Tottenham to Sunderland with an option to make the deal permanent. The 27-year-old Austria international departs Tottenham after less than a season.",
+  "outlet": "yahoo",
+  "url": "https://ca.sports.yahoo.com/news/tottenham-sanction-defender-exit-sunderland-071955758.html",
+  "title": "Here We Go: Tottenham Sanction Defender Exit as Sunderland Secure Deadline Day Deal"
+ },
+ {
   "id": "b3dfa39d91555f725931f998384da4b2",
   "ts": "2026-09-01T18:30:44+00:00",
   "kind": "deal",

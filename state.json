@@ -1,12 +1,5 @@
 {
   "sent": [
-    "63db8df130d3b8c4189ea4de4d18c0c8",
-    "e9716ad30b3222506574a19798b0632c",
-    "b439a1863b0097579f4840c02c73509a",
-    "b370eb75b26e9b0e8acb0f28e7eea8af",
-    "3804fb8e47be9d087dedce1f70412526",
-    "91d4369ae9aea042e75eb5e0ec1ffdf8",
-    "948a13c7fbc65c2951ff1f891a9f62a1",
     "082dc834bda53bf228a68dd829534b07",
     "b79c96f0bd9e78679f215ae3cfacb53b",
     "tg:FabrizioRomanoTG/65094",
@@ -1499,7 +1492,14 @@
     "tg:FabrizioRomanoTG/65881",
     "6e6155e01b6cb090df5db2443652d59a",
     "28c5de58ee56b3acd6cb6d7351aaaf79",
-    "df81608212d65ce58f4cd682eafe2eeb"
+    "df81608212d65ce58f4cd682eafe2eeb",
+    "dfb37a252ec7181ffeb9287c88b06353",
+    "1ffd15a2e5949d7a4ad5f2dcd02e2d26",
+    "366ad2c8e9efb94be3a2c2009634b8ad",
+    "aa558239f6d661cb3edaf940d9cb863e",
+    "f5a92e37da6620f34bf5b2cb5599657d",
+    "3a374654d06295ada9da32c807b8783b",
+    "tg:FabrizioRomanoTG/65884"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1839,7 +1839,8 @@
     "balogun -> everton": 1,
     "kehrer -> ajax": 1,
     "ceballos -> real betis": 1,
-    "mudryk -> tottenham": 1
+    "mudryk -> tottenham": 1,
+    "danso -> sunderland": 1
   },
   "interest": [
     "interest: alvarez -> arsenal",
@@ -2101,12 +2102,6 @@
     "interest: tagliafico -> atletico madrid"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83d\udd34 liverpool agree deal to sign djylian n'guessan from saint etienne, here we g",
-    "\ud83d\udea8 \ud83d\udd35 chelsea made contact with manu kone agents as one of the options for late mi",
-    "\ud83d\udfe3 \ud83d\udd35 aston villa consider ian maatsen as key player; untouchable and he will not ",
-    "\ud83d\udea8 \u26a0\ufe0f luiz henrique\u2019s move to as roma is not progressing despite verbal agreement",
-    "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 barcelona have agreed deal to sign 19 year old talented midfielder mirza c",
-    "swap deal chelsea to trade christopher nkunku for bayern talent",
     "chelsea open talks for roma\u2019s kone in final 48 hours of summer transfer window",
     "\ud83d\udd34 \u26aa\ufe0f \ud83c\udde8\ud83c\udde6 atletico madrid are moving to the final stages of jonathan david deal, p",
     "\ud83d\udea8 \ud83e\ude75 official, confirmed manchester city sign allan from palmeiras in a deal wort",
@@ -2400,11 +2395,16 @@
     "liverpool make final transfer decision on cody gakpo in response to \u00a380m man cit",
     "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f brighton reach verbal agreement to sign chema andres, here we go! stuttga",
     "deadline day live: every completed premier league deal as the clock ticks down",
-    "sunderland agree loan transfer for kevin danso as tottenham let wantaway defende"
+    "sunderland agree loan transfer for kevin danso as tottenham let wantaway defende",
+    "manchester city switch transfer focus to iliman ndiaye after liverpool block cod",
+    "dortmund set to loan arsenal\u2019s nwaneri, move for polish prodigy regula off",
+    "here we go: tottenham sanction defender exit as sunderland secure deadline day d",
+    "fabrizio romano confirms liverpool attacker transfer is \u2018here we go\u2019 done teamta",
+    "chelsea make contact with roma for manu kone",
+    "\ud83d\udea8 \u26a0\ufe0f folarin balogun\u2019s move to everton is in jeopardy after medical tests everto"
   ],
   "tg_update_offset": 263617426,
   "photos": {
-    "warren zaire-emery": "https://r2.thesportsdb.com/images/media/player/cutout/fjxbac1766335583.png/small",
     "raul asencio": "https://r2.thesportsdb.com/images/media/player/cutout/7pk52z1768499125.png/small",
     "franco mastantuono": "https://r2.thesportsdb.com/images/media/player/cutout/pgq83k1762604333.png/small",
     "joao cancelo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Joao_Cancelo_Croatia_v_Portugal_2_July_2026-002.jpg/330px-Joao_Cancelo_Croatia_v_Portugal_2_July_2026-002.jpg",
@@ -2698,14 +2698,15 @@
     "folarin balogun": "https://r2.thesportsdb.com/images/media/player/cutout/ic7kq51781348516.png/small",
     "thilo kehrer": "https://r2.thesportsdb.com/images/media/player/cutout/f1a7kt1766238123.png/small",
     "dani ceballos": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Dani_Ceballos%2C_Real_Madrid%2C_2022.jpg/330px-Dani_Ceballos%2C_Real_Madrid%2C_2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "vuk pavicevic": "",
     "mykhailo mudryk": "https://www.thesportsdb.com/images/media/player/cutout/uoz87a1787728061.png/small",
     "shim mheuka": "",
     "mika faye": "",
     "dinis": "",
-    "mikael baza": ""
+    "mikael baza": "",
+    "kevin danso": "https://r2.thesportsdb.com/images/media/player/cutout/unhinl1739274856.png/small",
+    "vuk pavicevic": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 5,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

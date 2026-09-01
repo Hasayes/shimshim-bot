@@ -1,10 +1,5 @@
 {
   "sent": [
-    "7fd911aa07296d8c4f715e456473f35a",
-    "666882be5278a457f3573aa92806ace2",
-    "cea08b4a0c91823c34c9cb2c03c80ac1",
-    "def3b2219d577eb224d35272e3eb57ad",
-    "be4b3772d4c348aa21eb5a4a0a3e3b05",
     "9a6e9c9e77377ba712cd88c8a36ff396",
     "44fcae1203ebfae4ca7079801ce8c882",
     "a3bf60dabf4c166038f9fe34304fc167",
@@ -1499,7 +1494,12 @@
     "fff08e371b03ef22430dadf3dbbc98dd",
     "6a834e8b6bc56e9134d5244138b537a2",
     "e20ca4e478450f7216665c66222335ab",
-    "b3dfa39d91555f725931f998384da4b2"
+    "b3dfa39d91555f725931f998384da4b2",
+    "3c06ce0ddd808fea1b8e2485b0792d9f",
+    "bece183ea011d35fd97d1d3670c145a7",
+    "547ba06878a58af2ad88f9e19a194ad5",
+    "8c3d48b9e43df0c65d0e7d57594b994b",
+    "tg:FabrizioRomanoTG/65879"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2101,9 +2101,6 @@
     "interest: tagliafico -> atletico madrid"
   ],
   "titles": [
-    "juventus agree personal terms with pape matar sarr as tottenham negotiate buy cl",
-    "\ud83d\udea8 \ud83c\udde7\ud83c\uddea alexis saelemaekers will not join atalanta or any other club in next 24h no",
-    "diego carlos ready for serie a return to parma from fenerbahce",
     "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f excl: benfica advance on new deal for tomas araujo benfica rejected appro",
     "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f exclusive: augsburg agree deal to sign arijon ibrahimovic from fc bayern,",
     "\ud83d\udea8 \ud83d\udfe2 \u26aa\ufe0f oliver s\u00f8rensen leaves parma and joins celtic on initial loan deal with b",
@@ -2400,7 +2397,10 @@
     "after mudryk and tosin: tottenham considering another signing",
     "sunderland face transfer disappointment as \u00a3100m attacker nears move to premier ",
     "agreement reached: chelsea star on the verge of tottenham",
-    "jacobs confirms two tottenham \u2018medicals\u2019 as \u00a375m buy option is revealed"
+    "jacobs confirms two tottenham \u2018medicals\u2019 as \u00a375m buy option is revealed",
+    "arsenal star ethan nwaneri agrees deadline day transfer to join dortmund on loan",
+    "arsenal news: last gasp julian alvarez \u00a3128m transfer twist as deadline day talk",
+    "\ud83d\udd34 \u26aa\ufe0f \ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udffc official and never in doubt: neil el aynaoui signs in as new rb leipz"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2697,15 +2697,15 @@
     "jean matteo bahoya": "https://r2.thesportsdb.com/images/media/player/cutout/fp3ti91762287362.png/small",
     "folarin balogun": "https://r2.thesportsdb.com/images/media/player/cutout/ic7kq51781348516.png/small",
     "thilo kehrer": "https://r2.thesportsdb.com/images/media/player/cutout/f1a7kt1766238123.png/small",
-    "mika faye": "",
     "dani ceballos": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Dani_Ceballos%2C_Real_Madrid%2C_2022.jpg/330px-Dani_Ceballos%2C_Real_Madrid%2C_2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "dinis": "",
     "mikael baza": "",
     "vuk pavicevic": "",
     "mykhailo mudryk": "https://www.thesportsdb.com/images/media/player/cutout/uoz87a1787728061.png/small",
-    "shim mheuka": ""
+    "shim mheuka": "",
+    "mika faye": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

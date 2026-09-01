@@ -1,7 +1,5 @@
 {
   "sent": [
-    "49a85775583aa1f54830121a6944ef30",
-    "82823b7e2f99a8970c7ff1c2e48b2c28",
     "833fa9c3cfea647d539cb1c8ede75812",
     "tg:FabrizioRomanoTG/65016",
     "tg:FabrizioRomanoTG/65017",
@@ -1499,7 +1497,9 @@
     "7930c7eee00cd89a6ca3f117fb6719df",
     "5f8044bd9b166815398ed9234157a348",
     "704ad74e894a3df7aef9416bfa55d89e",
-    "4dd17cc4b638c9b2a8e44cc763af74ca"
+    "4dd17cc4b638c9b2a8e44cc763af74ca",
+    "2e51a822f50f1e89455cfed8095a50e1",
+    "5ce117f0c4c8e2ed162e5f3df1d374bd"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2086,8 +2086,6 @@
     "interest: adarabioyo -> tottenham"
   ],
   "titles": [
-    "hull city set to sign french winger",
-    "\ud83d\udd34 \ud83d\udd35 \ud83c\uddee\ud83c\uddf9 cagliari have agreed deal to sign roberto gagliardini as new midfielder w",
     "arsenal: fresh julian alvarez transfer twist confirmed after mikel arteta talks",
     "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 barcelona are in advanced club to club talks with arsenal to sign gabriel ",
     "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 breaking: barcelona agree deal to sign gabriel jesus from arsenal, here we",
@@ -2385,7 +2383,9 @@
     "two more liverpool signings imminent as \u00a3123m barcola deal officially announced",
     "juventus, newcastle uinted in talks for loan with nick woltemade",
     "crystal palace respond to second liverpool \u2018offer\u2019 for ismaila sarr",
-    "ismaila sarr reacts after crystal palace reject second liverpool \u2018offer\u2019"
+    "ismaila sarr reacts after crystal palace reject second liverpool \u2018offer\u2019",
+    "new twist for ndiaye's everton exit after fresh talks today as deal faces collap",
+    "ornstein: liverpool make cody gakpo transfer decision as man city bid \u00a380m"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2685,12 +2685,12 @@
     "robert sanchez": "https://www.thesportsdb.com/images/media/player/cutout/tp7tca1787691371.png/small",
     "arijon ibrahimovic": "https://images.fotmob.com/image_resources/playerimages/1327150.png",
     "matias fernandez pardo": "https://r2.thesportsdb.com/images/media/player/cutout/8vhxnr1766077473.png/small",
-    "vuk pavicevic": "",
     "mika faye": "",
     "dinis": "",
-    "mikael baza": ""
+    "mikael baza": "",
+    "vuk pavicevic": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

@@ -1,12 +1,5 @@
 {
   "sent": [
-    "8f2a5523e819232f7033e8718aa4dbe0",
-    "510a52270e216231191ef505d99f7811",
-    "21aa2c7a8c27ae07efc96f83a1883fce",
-    "ef4e7be2075a54c110cb7ab2fea7efce",
-    "e93be5daeb1ca50c7c22756fb7abfc5d",
-    "3d59c394391b5aac096facc32ba39862",
-    "ed879b0b2ad511caa4e0a32d711b1c61",
     "16d0a9e76f353eef3592fb4d82c10fa4",
     "tg:FabrizioRomanoTG/65130",
     "57ce753598cb81a96a6fc255ce39b96f",
@@ -1499,7 +1492,14 @@
     "tg:FabrizioRomanoTG/65904",
     "e7a069ac9788d9028b016671b3df4116",
     "6339966748e3ba94472470abc4e7d7e1",
-    "78b0b2f8e5e923d04d301e17bda52ebc"
+    "78b0b2f8e5e923d04d301e17bda52ebc",
+    "b3397901ffa760c7c23f07a50de1f90e",
+    "4b9541d607cf6fb2ed28cdd953a2911a",
+    "4ba9663231da0ea04e5a3f5aba6931f5",
+    "a70e45240fb5078c7f6bd00d5f0e4287",
+    "4ce56a094b300fe8170b562272de8dad",
+    "fa524e54295109cd6cefe4a6307e6410",
+    "tg:FabrizioRomanoTG/65906"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2104,11 +2104,6 @@
     "interest: tagliafico -> atletico madrid"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83c\uddf8\ud83c\uddf3 iliman ndiaye has authorization from everton to undergo a medical at manche",
-    "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 samuel mbangula has agreed to join bologna from werder bremen, here we go!",
-    "done deal: robinio vaz set to join hull city on loan",
-    "juventus making a move for nick woltemade?",
-    "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f juventus have agreed personal terms tonight with nico tagliafico if juan",
     "\ud83d\udea8 \ud83d\udca3 breaking: juventus reached verbal agreement with newcastle to sign nick wolt",
     "transfer rumors, news: spurs to make late move for pulisic?",
     "guela doue to bayer leverkusen: \u20ac37 5m agreement reached",
@@ -2403,7 +2398,12 @@
     "\ud83d\udea8 \ud83d\udfe1 \u26ab\ufe0f watford have completed three signings: stephy mavididi on loan with buy o",
     "breaking: chelsea\u2019s \u20ac45m opening offer for midfielder \u201ctoo low\u201d and rejected alr",
     "ornstein: sunderland agree deal to sign star arsenal were in talks for",
-    "video: english winger rowe arrives for atalanta medical"
+    "video: english winger rowe arrives for atalanta medical",
+    "man utd transfer called off a second time thanks to \u2018surprise\u2019 newcastle done de",
+    "arsenal make final malick fofana transfer decision with lyon star set for medica",
+    "super eagles on alert as dortmund and arsenal agree deal on exciting youngster",
+    "arsenal learn final decision on \u00a3130m julian alvarez deal as atletico madrid off",
+    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f sevilla reach verbal agreement to sign youssouf fofana, here we go! loan "
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2701,14 +2701,14 @@
     "dani ceballos": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Dani_Ceballos%2C_Real_Madrid%2C_2022.jpg/330px-Dani_Ceballos%2C_Real_Madrid%2C_2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "mykhailo mudryk": "https://www.thesportsdb.com/images/media/player/cutout/uoz87a1787728061.png/small",
     "kevin danso": "https://r2.thesportsdb.com/images/media/player/cutout/unhinl1739274856.png/small",
-    "mika faye": "",
     "dinis": "",
     "mikael baza": "",
     "ben chilwell": "https://r2.thesportsdb.com/images/media/player/cutout/hmc0tf1766054345.png/small",
     "vuk pavicevic": "",
-    "shim mheuka": ""
+    "shim mheuka": "",
+    "mika faye": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

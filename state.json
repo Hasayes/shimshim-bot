@@ -1,8 +1,5 @@
 {
   "sent": [
-    "4215279736044f114555fb50ea58ec10",
-    "33627bb867d6265161a54ef4e6b724bd",
-    "19f418d0af83b0aedd7ae832a31eac11",
     "32e9327e53ebc14c262f0bee316fb257",
     "cd27f52cc56fc840aea282514407e3c1",
     "494b290d6c883db680c2f36da13f7614",
@@ -1499,7 +1496,10 @@
     "8bca92a9d4673aaf57763164f1c407bb",
     "tg:FabrizioRomanoTG/65908",
     "79add1e149e44b97d3817f761ea7df61",
-    "c695489d5c8e4db3eebc9eadd0d9e294"
+    "c695489d5c8e4db3eebc9eadd0d9e294",
+    "4eeb463a420505f918901da5df0aa95d",
+    "fcc5fb780793d9ec89b0b7696ef6d308",
+    "0a213bf039e24af67869d5754cfb3805"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2104,9 +2104,6 @@
     "interest: tagliafico -> atletico madrid"
   ],
   "titles": [
-    "liverpool news: \u00a360m ace 'in talks with reds' as virgil van dijk gives verdict o",
-    "\u201che wants to stay\u201d \u2013 father confirms liverpool player has no desire to leave",
-    "manchester united consider barcelona star alejandro balde deal too expensive \u2013 r",
     "romano confirms man utd striker transfer is off, but alternative deal \u2018here we g",
     "transfer news live: arsenal triple deal, alvarez boost; barcola has liverpool me",
     "bayer leverkusen agree deal for guela doue deal while marc casado race intensifi",
@@ -2403,7 +2400,10 @@
     "real reason malick fofana is joining sunderland instead of arsenal revealed",
     "\ud83d\udea8 \ud83e\ude75 official: enzo fernandez joins manchester city on \u00a3125m deal from chelsea ht",
     "fulham open talks over late move for bayern defender",
-    "fulham could make late move for bayern munich\u2019s sacha boey"
+    "fulham could make late move for bayern munich\u2019s sacha boey",
+    "malick fofana nears \u00a330m sunderland switch as club prepares for european return",
+    "lazio reach gudmundsson agreement with fiorentina",
+    "arsenal unwilling to match lyon\u2019s \u20ac40m asking price for malick fofana"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2702,13 +2702,13 @@
     "mykhailo mudryk": "https://www.thesportsdb.com/images/media/player/cutout/uoz87a1787728061.png/small",
     "kevin danso": "https://r2.thesportsdb.com/images/media/player/cutout/unhinl1739274856.png/small",
     "ben chilwell": "https://r2.thesportsdb.com/images/media/player/cutout/hmc0tf1766054345.png/small",
-    "shim mheuka": "",
     "mika faye": "",
     "dinis": "",
     "mikael baza": "",
-    "vuk pavicevic": ""
+    "vuk pavicevic": "",
+    "shim mheuka": ""
   },
-  "photo_repair_idx": 5,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

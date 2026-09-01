@@ -1,6 +1,5 @@
 {
   "sent": [
-    "9c90d3571f7b74bbf950fb3b2830a7d7",
     "9eabe2794904d1b9bbf3e9a839fe2e7c",
     "9dd9cb57cff2a33bc54fc51c7ec08153",
     "fd16b8c891f2af73e01048f2ab924996",
@@ -1499,7 +1498,8 @@
     "tg:FabrizioRomanoTG/65855",
     "tg:FabrizioRomanoTG/65856",
     "tg:FabrizioRomanoTG/65857",
-    "tg:FabrizioRomanoTG/65858"
+    "tg:FabrizioRomanoTG/65858",
+    "8c5e57d4661877d2ad8af81b32d7a7dc"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2093,7 +2093,6 @@
     "interest: tagliafico -> atletico madrid"
   ],
   "titles": [
-    "liverpool \u2018open talks\u2019 to sign 6\u20197\u201d goalkeeper lucca brughmans this is anfield",
     "two insiders confirm liverpool in talks for 6ft 7in keeper as prem rivals want t",
     "inter close the door on barcelona again",
     "transfer: two players leave arsenal on sunday",
@@ -2392,7 +2391,8 @@
     "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f rayo vallecano are set to sign emil audero on straight loan, agreement do",
     "\ud83d\udea8 \ud83d\udfe3 fiorentina agree surprise deal to sign pedro goncalves from sporting, here w",
     "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f claudio echeverri to benfica, here we go! verbal agreement done with man ",
-    "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 olympique lyon have agreed deal to sign youssouf fofana, here we go! detai"
+    "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 olympique lyon have agreed deal to sign youssouf fofana, here we go! detai",
+    "controversial us red card star joins pl club as giants seal $132m blockbuster \u2013 "
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2690,14 +2690,14 @@
     "matias fernandez pardo": "https://r2.thesportsdb.com/images/media/player/cutout/8vhxnr1766077473.png/small",
     "estevao willian": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Estevao-Palmeiras-Liverpool-abr24_%28cropped%29.jpg/330px-Estevao-Palmeiras-Liverpool-abr24_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "nicolas tagliafico": "https://r2.thesportsdb.com/images/media/player/cutout/4z43fy1766146600.png/small",
-    "mika faye": "",
     "dinis": "",
     "mikael baza": "",
     "vuk pavicevic": "",
     "claudio echeverri": "https://r2.thesportsdb.com/images/media/player/cutout/jbdnk91756315963.png/small",
-    "shim mheuka": ""
+    "shim mheuka": "",
+    "mika faye": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

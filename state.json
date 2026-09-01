@@ -1,11 +1,5 @@
 {
   "sent": [
-    "9d07e3a2c2c9acdc3f96d3d04b8c44b8",
-    "ee82a8f401cf75f138b8af6c971e45a8",
-    "fa32c9acbcb709c26074e9dd245a0fc8",
-    "44ee5f9e7a7ac413cee9cb3e2bb54ca9",
-    "634beb89537462d0aa22873cfccad81c",
-    "c467cbb42ae1e0cfbf9a869c2534f528",
     "c8b84baaaa4426a3822ec2d5bbbfff84",
     "27d98f2685ed6a70d73a184f63cd0695",
     "fd23eeb0a154ec80f9e129e05779effd",
@@ -1499,7 +1493,13 @@
     "3ddb43b35cfe2cda475b926a1fbe2b0a",
     "tg:FabrizioRomanoTG/65815",
     "724577fe005b276a828f539571821f53",
-    "6b5a0d8dab7529ebbd0e7a5ae7bf7a1a"
+    "6b5a0d8dab7529ebbd0e7a5ae7bf7a1a",
+    "485e3cf8ab749aab0d3d262d439bbf77",
+    "87b8fc760545ba334c992f24a377abbd",
+    "7ab35f98c5847a168da5669228e27f10",
+    "83ece319ca8ff4eb535690df20697938",
+    "2852a478f6e839ccab03edaca5ebfbca",
+    "cfcde194704686bd1afb10114af8c887"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2086,12 +2086,6 @@
     "interest: adarabioyo -> tottenham"
   ],
   "titles": [
-    "crystal palace receive bid for dean henderson to return to former club",
-    "juventus in advanced talks to sign tottenham hotspur midfielder pape matar sarr",
-    "cody gakpo wants to leave liverpool to join man city",
-    "transfer rumors, news: man united offered atetli striker s\u00f8rloth",
-    "\ud83d\udd35 \ud83c\udde6\ud83c\uddf7 official, confirmed emiliano martinez joined chelsea from aston villa on \u00a37",
-    "fabrizio romano reveals huge cody gakpo bid man city will send liverpool",
     "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f sami ouaissa to psv eindhoven, here we go! deal agreed for \u20ac9m transfer f",
     "sarr pushing hard for juventus, but tottenham want obligation to buy",
     "nottingham forest in transfer rampage as romano gives double \u2018here we go\u2019",
@@ -2385,7 +2379,13 @@
     "newcastle transfer picture shifts as fernandez pardo deal advances and juventus ",
     "transfer bombshell newcastle united strike \u00a351m breakthrough as 21 y/o set for m",
     "\ud83d\udd35 \ud83d\udd34 \ud83d\udc4b\ud83c\udffc medical today for barcelona\u2019s winger toni fernandez at venezia \u20ac4m fee, 5",
-    "liverpool \u2018inform\u2019 cody gakpo of man city transfer decision after formal bid \u2013 f"
+    "liverpool \u2018inform\u2019 cody gakpo of man city transfer decision after formal bid \u2013 f",
+    "fiorentina reshape attack as gnonto nears serie a bow and kean heads for como",
+    "report: canada\u2019s jonathan david joins atletico madrid on loan from juventus",
+    "monza magic with zeballos from boca juniors, ziolkowski and nelsson ready",
+    "this could be a long, strange trip: transfer moves at tottenham offer little con",
+    "saints reportedly make offer for teenage dortmund defender",
+    "liverpool officially announce \u00a3123m barcola signing as romano confirms two more "
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2684,13 +2684,13 @@
     "jack grealish": "https://r2.thesportsdb.com/images/media/player/cutout/7ckk5a1756976762.png/small",
     "robert sanchez": "https://www.thesportsdb.com/images/media/player/cutout/tp7tca1787691371.png/small",
     "arijon ibrahimovic": "https://images.fotmob.com/image_resources/playerimages/1327150.png",
-    "mikael baza": "",
     "vuk pavicevic": "",
     "matias fernandez pardo": "https://r2.thesportsdb.com/images/media/player/cutout/8vhxnr1766077473.png/small",
     "mika faye": "",
-    "dinis": ""
+    "dinis": "",
+    "mikael baza": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

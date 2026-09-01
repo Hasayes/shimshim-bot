@@ -1,11 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/65049",
-    "tg:FabrizioRomanoTG/65050",
-    "tg:FabrizioRomanoTG/65051",
-    "tg:FabrizioRomanoTG/65054",
-    "tg:FabrizioRomanoTG/65055",
-    "511c3784d2e0fed259b702833e4a64a5",
     "tg:FabrizioRomanoTG/65056",
     "tg:FabrizioRomanoTG/65057",
     "tg:FabrizioRomanoTG/65058",
@@ -1499,7 +1493,13 @@
     "tg:FabrizioRomanoTG/65818",
     "b6726df3ad977f7bbcb6250b1ad8b905",
     "ad4484600a3bbf631e2b51a3cffbf0ed",
-    "9b96966494a2185846c74281af0bf263"
+    "9b96966494a2185846c74281af0bf263",
+    "224047bb58121c4188fdb148bb4de69b",
+    "2f2fcca6a6dd67b0c6f55a33c4482da7",
+    "3f374292675f1eb04b36bb58e5774a39",
+    "4ce5fce2dda0dd54f0786a7a7d2591ed",
+    "effb599889a0b9f9a8d9456bdaa7365d",
+    "tg:FabrizioRomanoTG/65819"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2088,12 +2088,6 @@
     "interest: willian -> liverpool"
   ],
   "titles": [
-    "\u2018we never know \u2019 \u2013 romano not completely ruling out liverpool hijack for \u00a351m mi",
-    "transfer news live everton veto harrison armstrong sale, chelsea confirm signing",
-    "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 barcelona and arsenal have now exchanged documents for gabriel jesus deal ",
-    "\ud83d\udd34 \u26aa\ufe0f \ud83c\udf33 nottingham forest and crystal palace completed daniel munoz deal document",
-    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f lille have exchanged documents and completed deal to sign ayase ueda from",
-    "tottenham and everton reach agreement for ndiaye and richarlison deals",
     "\ud83d\udea8 \ud83d\udd34 ismaila sarr remains a target for liverpool as new winger to proceed with ga",
     "midday transfer update \ud83d\udcb0",
     "transfer rumors, news: liverpool in talks to sign ismaila sarr",
@@ -2387,7 +2381,13 @@
     "\ud83d\udea8 \ud83d\udfe1 \u26ab\ufe0f exclusive: borussia dortmund reach verbal agreement to sign ethan nwaneri",
     "everton to receive more money as deal agreed for 'incredible' star's exit report",
     "a move to strengthen their attack is accelerating for manchester city",
-    "tottenham approach chelsea over mykhailo mudryk, tosin adarabioyo transfers sour"
+    "tottenham approach chelsea over mykhailo mudryk, tosin adarabioyo transfers sour",
+    "blow for tottenham as manchester city jump ahead in race to sign everton winger",
+    "winger begging arsenal to sign him is joining man city instead as romano says \u2018h",
+    "tottenham hijack deal for double raid on chelsea as mudryk \u2018agrees to the move\u2019",
+    "aston villa make late call to nab everton target as winner to be named imminentl",
+    "newcastle united\u2019s nick woltemade set for juventus medical on tuesday",
+    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f kevin danso to sunderland, here we go! deal in place for loan move with o"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2687,12 +2687,12 @@
     "arijon ibrahimovic": "https://images.fotmob.com/image_resources/playerimages/1327150.png",
     "matias fernandez pardo": "https://r2.thesportsdb.com/images/media/player/cutout/8vhxnr1766077473.png/small",
     "estevao willian": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Estevao-Palmeiras-Liverpool-abr24_%28cropped%29.jpg/330px-Estevao-Palmeiras-Liverpool-abr24_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "vuk pavicevic": "",
     "mika faye": "",
     "dinis": "",
-    "mikael baza": ""
+    "mikael baza": "",
+    "vuk pavicevic": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

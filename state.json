@@ -1,10 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/65024",
-    "d647ad0ff81c1d60cfed3ce7e5a89cf4",
-    "18113490ee5dd97c1a1f4b4c0de89c83",
-    "tg:FabrizioRomanoTG/65032",
-    "tg:FabrizioRomanoTG/65033",
     "e69178ecdf1028b8af12414b1dae9c10",
     "fba5ec1f87c4cb772206d1e0792c0e05",
     "tg:FabrizioRomanoTG/65038",
@@ -1499,7 +1494,12 @@
     "fda1db7b6e27e75b4cad37ad5b967387",
     "493825054e5ba4789061cd05492b7d2f",
     "f07f245522e05ffb1c4f948da60f9fa5",
-    "ab81fd9cf41c7e3524748337c779dd15"
+    "ab81fd9cf41c7e3524748337c779dd15",
+    "fa283b423ff80ed0eee419ad6d6d93ae",
+    "2bc85c587b49861220bad12451543b1a",
+    "422baa0fded245470abca65fde4a859a",
+    "a3e11bf494f8ebe374ea3ae3e7f72238",
+    "tg:FabrizioRomanoTG/65816"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2087,11 +2087,6 @@
     "interest: willian -> liverpool"
   ],
   "titles": [
-    "bundesliga giants call off pursuit of barcelona midfielder \u2013 romano",
-    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f excl: atletico madrid submit official bid to juventus for jonathan david ",
-    "man united transfer news live: marcus rashford latest, arsenal agreement, amad b",
-    "chelsea continue to demand permanent deal for gittens",
-    "aston villa respond to man utd enquiry for ian maatsen",
     "transfer news live: arsenal in alvarez talks; barcola has liverpool medical; man",
     "romano reveals how much man city are \u2018set to bid\u2019 for cody gakpo after \u2018agreemen",
     "tottenham exit looms as euro giants reach advanced stages of talks to land 23 ye",
@@ -2386,7 +2381,12 @@
     "romano: tottenham working on deal to sign two chelsea players before deadline",
     "chelsea respond to liverpool enquiry about signing estevao willian",
     "ornstein: tottenham pivoting to mykhailo mudryk loan and i honestly can\u2019t even c",
-    "ineos officially sign french defender capable of playing left back"
+    "ineos officially sign french defender capable of playing left back",
+    "tottenham receive major boost as leeds target chooses spurs move",
+    "aston villa close in on \u00a325m centre back to fill konsa void: good deal for the c",
+    "tottenham make shock enquiry to sign chelsea forward on loan",
+    "why largie ramazani's leeds future is as unclear as ever as medical booked",
+    "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f excl: fulham have reached verbal agreement to sign hugo larsson from ein"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2685,13 +2685,13 @@
     "robert sanchez": "https://www.thesportsdb.com/images/media/player/cutout/tp7tca1787691371.png/small",
     "arijon ibrahimovic": "https://images.fotmob.com/image_resources/playerimages/1327150.png",
     "matias fernandez pardo": "https://r2.thesportsdb.com/images/media/player/cutout/8vhxnr1766077473.png/small",
-    "vuk pavicevic": "",
     "mika faye": "",
     "dinis": "",
     "estevao willian": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Estevao-Palmeiras-Liverpool-abr24_%28cropped%29.jpg/330px-Estevao-Palmeiras-Liverpool-abr24_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "mikael baza": ""
+    "mikael baza": "",
+    "vuk pavicevic": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

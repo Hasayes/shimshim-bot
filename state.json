@@ -1,10 +1,5 @@
 {
   "sent": [
-    "f1aa3ebe107568abb94a16b98d84f316",
-    "851ebdcc2d590f56022edca845249369",
-    "c3d7f3de42ae39f5bee21019ad55f889",
-    "fed648db7731e91a51569bf3af1bcec9",
-    "tg:FabrizioRomanoTG/65128",
     "b3795453e453d33bfb74b78e7804df99",
     "e786b49c116cc213446a8f211e981226",
     "089611844c4c4db34457ce8c251e2863",
@@ -1499,7 +1494,12 @@
     "72de577ad8d52f2fa54df0b804bcf097",
     "0cb7550cfb14f6b880214f9ff209566d",
     "4b4d5f12b3a8a1b34ef341e73032ab63",
-    "tg:FabrizioRomanoTG/65896"
+    "tg:FabrizioRomanoTG/65896",
+    "37d659582cadc658b11159b67845597e",
+    "tg:FabrizioRomanoTG/65899",
+    "tg:FabrizioRomanoTG/65900",
+    "tg:FabrizioRomanoTG/65903",
+    "tg:FabrizioRomanoTG/65904"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1841,7 +1841,8 @@
     "ceballos -> real betis": 1,
     "mudryk -> tottenham": 1,
     "danso -> sunderland": 1,
-    "casado -> depor": 1
+    "casado -> depor": 1,
+    "chilwell -> crystal palace": 1
   },
   "interest": [
     "interest: alvarez -> arsenal",
@@ -2103,11 +2104,6 @@
     "interest: tagliafico -> atletico madrid"
   ],
   "titles": [
-    "everton green light \u00a314 5m player exit, medical today report",
-    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f manchester city are advancing in talks for iliman ndiaye as exclusively r",
-    "\ud83d\udea8 \ud83d\udca3 breaking: manchester city have now made official club to club approach with ",
-    "\ud83d\udea8 \u26ab\ufe0f \u26aa\ufe0f andrei ratiu, very disappointed and hurt by rayo stance as he wants fulh",
-    "\ud83d\udea8 \u26aa\ufe0f tottenham are ready to buy tosin on permanent deal from chelsea if they can",
     "\ud83d\udea8 \u26aa\ufe0f breaking: mykhaylo mudryk says yes to tottenham move as he wants to work un",
     "full financial details of gabriel jesus\u2019 barcelona transfer \u2013 romano",
     "\ud83d\udea8 \u26aa\ufe0f \ud83d\udd35 breaking: manchester city agree deal to sign iliman ndiaye from everton, ",
@@ -2402,11 +2398,15 @@
     "everton star undergoes medical as toffees green light big wage deal",
     "everton reach agreement with monaco for tottenham target who once played for ars",
     "leeds united target undergoes medical and deal hijacked as wales stars face batt",
-    "\u26aa\ufe0f \u26ab\ufe0f \ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udffc official, confirmed hugo larsson joins fulham on \u20ac25m deal from eint"
+    "\u26aa\ufe0f \u26ab\ufe0f \ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udffc official, confirmed hugo larsson joins fulham on \u20ac25m deal from eint",
+    "chelsea submit \u00a338 5million transfer bid for monaco star lamine camara as they t",
+    "\ud83d\udea8 \ud83d\udd35 everton and as monaco are in direct talks to sort issues trying to get folar",
+    "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 ben chilwell returns to crystal palace from strasbourg, here we go! agreem",
+    "\ud83d\udea8 \ud83d\udc2f hull city confirm deal done for robinio vaz on \u20ac2m loan wirh \u20ac30m buy option",
+    "\ud83d\udea8 \ud83d\udfe1 \u26ab\ufe0f watford have completed three signings: stephy mavididi on loan with buy o"
   ],
   "tg_update_offset": 263617426,
   "photos": {
-    "raul asencio": "https://r2.thesportsdb.com/images/media/player/cutout/7pk52z1768499125.png/small",
     "franco mastantuono": "https://r2.thesportsdb.com/images/media/player/cutout/pgq83k1762604333.png/small",
     "joao cancelo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Joao_Cancelo_Croatia_v_Portugal_2_July_2026-002.jpg/330px-Joao_Cancelo_Croatia_v_Portugal_2_July_2026-002.jpg",
     "charles de ketelaere": "https://r2.thesportsdb.com/images/media/player/cutout/wqo9ia1695157273.png/small",
@@ -2701,13 +2701,14 @@
     "dani ceballos": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Dani_Ceballos%2C_Real_Madrid%2C_2022.jpg/330px-Dani_Ceballos%2C_Real_Madrid%2C_2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "mykhailo mudryk": "https://www.thesportsdb.com/images/media/player/cutout/uoz87a1787728061.png/small",
     "kevin danso": "https://r2.thesportsdb.com/images/media/player/cutout/unhinl1739274856.png/small",
-    "vuk pavicevic": "",
     "shim mheuka": "",
     "mika faye": "",
     "dinis": "",
-    "mikael baza": ""
+    "mikael baza": "",
+    "ben chilwell": "https://r2.thesportsdb.com/images/media/player/cutout/hmc0tf1766054345.png/small",
+    "vuk pavicevic": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 5,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

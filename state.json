@@ -1,9 +1,5 @@
 {
   "sent": [
-    "05d37c9ddf4e8cc90ac491c2dcfadd11",
-    "db2e1ae8066a08372718b76a774d5a16",
-    "79ea4526147d5bd977a74f9fa4d6a0ed",
-    "7a2c9915cc3697316cb31ea6d353e229",
     "c02b17eb6bf84af06d0606e3fb69d520",
     "tg:FabrizioRomanoTG/65084",
     "5a9b83ffc327b52986896b3799ad24b6",
@@ -1499,7 +1495,11 @@
     "880faedfc02c64a525e2563eda4b8ab5",
     "878ae4ac37b717403e2d2b0885ab4e48",
     "tg:FabrizioRomanoTG/65846",
-    "tg:FabrizioRomanoTG/65847"
+    "tg:FabrizioRomanoTG/65847",
+    "1ffd4bd14f8b0e4f3bbc386abd7c4b42",
+    "tg:FabrizioRomanoTG/65849",
+    "tg:FabrizioRomanoTG/65850",
+    "tg:FabrizioRomanoTG/65851"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2092,10 +2092,6 @@
     "interest: tagliafico -> atletico madrid"
   ],
   "titles": [
-    "\ud83d\udca3 juve sarr fee, fofana to betis, inter sale: today's market \ud83e\udd11",
-    "nottingham forest target liverpool\u2019s giorgi mamardashvili as new no 1 amid late ",
-    "fabrizio romano confirms liverpool remain in talks for forward",
-    "nottingham forest 'want' liverpool star as new transfer claims made",
     "romano: liverpool in official talks to sign 6 ft 7 giant to replace 25 year old",
     "arsenal transfer news: gabriel jesus set for barcelona move as gabriel martinell",
     "\u201cdone and confirmed\u201d arsenal star leaves gunners to complete record breaking tra",
@@ -2391,7 +2387,11 @@
     "transfer rumors, news: man united considering osimhen swoop",
     "fabrizio romano confirms liverpool attacker transfer is \u2018here we go\u2019 done",
     "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 malick fofana has completed his medical at sunderland and crystal palace h",
-    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f nico tagliafico gives green light to atletico madrid after he did the sam"
+    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f nico tagliafico gives green light to atletico madrid after he did the sam",
+    "arsenal miss out on key deadline day target as 'deal agreed' with premier league",
+    "rt @fabrizioromano : \ud83d\udea8 \ud83d\udd34 \ud83d\udd35 malick fofana has completed his medical at sunderland",
+    "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f understand pape matar sarr has just signed his juventus contract and als",
+    "\ud83d\udea8 \ud83d\udc2f medical underway for robinio vaz at hull city loan deal worth \u20ac2m plus buy o"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2691,12 +2691,12 @@
     "estevao willian": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Estevao-Palmeiras-Liverpool-abr24_%28cropped%29.jpg/330px-Estevao-Palmeiras-Liverpool-abr24_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "mika faye": "",
     "dinis": "",
-    "shim mheuka": "",
     "nicolas tagliafico": "https://r2.thesportsdb.com/images/media/player/cutout/4z43fy1766146600.png/small",
     "mikael baza": "",
-    "vuk pavicevic": ""
+    "vuk pavicevic": "",
+    "shim mheuka": ""
   },
-  "photo_repair_idx": 5,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

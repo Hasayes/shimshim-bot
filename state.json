@@ -1,10 +1,5 @@
 {
   "sent": [
-    "b0a62c156b124423f108ab1a6c09a48d",
-    "49e212ceda204d21eccd939af0e9c5b9",
-    "4e8d435b0b853e4636b24c933766c734",
-    "4b831cb53ff9ce485ab81f4842b237c1",
-    "2207eb73e6eff4c897192bd5c344cbba",
     "05d37c9ddf4e8cc90ac491c2dcfadd11",
     "db2e1ae8066a08372718b76a774d5a16",
     "79ea4526147d5bd977a74f9fa4d6a0ed",
@@ -1499,7 +1494,12 @@
     "tg:FabrizioRomanoTG/65840",
     "tg:FabrizioRomanoTG/65843",
     "tg:FabrizioRomanoTG/65844",
-    "tg:FabrizioRomanoTG/65845"
+    "tg:FabrizioRomanoTG/65845",
+    "9e94e0586e556345697550397c2ec544",
+    "880faedfc02c64a525e2563eda4b8ab5",
+    "878ae4ac37b717403e2d2b0885ab4e48",
+    "tg:FabrizioRomanoTG/65846",
+    "tg:FabrizioRomanoTG/65847"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2092,11 +2092,6 @@
     "interest: tagliafico -> atletico madrid"
   ],
   "titles": [
-    "\u2018he loves man utd\u2019 \u2013 arsenal warned over elite forward target being pinched by i",
-    "nottingham forest want to sign \u00a330m liverpool player in last gasp deal",
-    "medical booked for monday as arsenal agree deal for striker ahead of deadline da",
-    "man utd strike \u00a325m transfer agreement as fabrizio romano reveals ineos striker ",
-    "bahoya rejection of hull city gives milan and roma hope",
     "\ud83d\udca3 juve sarr fee, fofana to betis, inter sale: today's market \ud83e\udd11",
     "nottingham forest target liverpool\u2019s giorgi mamardashvili as new no 1 amid late ",
     "fabrizio romano confirms liverpool remain in talks for forward",
@@ -2391,7 +2386,12 @@
     "\ud83d\udea8 \ud83d\udd34 \ud83d\udfe1 el chadaille bitshiabu on loan to galatasaray from rb leipzig, here we go!",
     "rt @givemesport : here we go! \ud83d\udea8 @fabrizioromano joins us live on market madness ",
     "\ud83d\udea8 \u26aa\ufe0f \ud83d\udfe2 celtic have agreed loan deal to sign shim mheuka from chelsea, medical no",
-    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f atletico madrid are trying to hijack juventus move for nicolas tagliafico"
+    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f atletico madrid are trying to hijack juventus move for nicolas tagliafico",
+    "fabrizio romano gives \u2018here we go\u2019 to first arsenal transfer of deadline day",
+    "transfer rumors, news: man united considering osimhen swoop",
+    "fabrizio romano confirms liverpool attacker transfer is \u2018here we go\u2019 done",
+    "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 malick fofana has completed his medical at sunderland and crystal palace h",
+    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f nico tagliafico gives green light to atletico madrid after he did the sam"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2689,14 +2689,14 @@
     "arijon ibrahimovic": "https://images.fotmob.com/image_resources/playerimages/1327150.png",
     "matias fernandez pardo": "https://r2.thesportsdb.com/images/media/player/cutout/8vhxnr1766077473.png/small",
     "estevao willian": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Estevao-Palmeiras-Liverpool-abr24_%28cropped%29.jpg/330px-Estevao-Palmeiras-Liverpool-abr24_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "vuk pavicevic": "",
     "mika faye": "",
     "dinis": "",
     "shim mheuka": "",
     "nicolas tagliafico": "https://r2.thesportsdb.com/images/media/player/cutout/4z43fy1766146600.png/small",
-    "mikael baza": ""
+    "mikael baza": "",
+    "vuk pavicevic": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 5,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

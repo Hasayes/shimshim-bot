@@ -1,5 +1,53 @@
 [
  {
+  "id": "tg:FabrizioRomanoTG/65875",
+  "ts": "2026-09-01T18:00:53+00:00",
+  "kind": "deal",
+  "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Dani_Ceballos%2C_Real_Madrid%2C_2022.jpg/330px-Dani_Ceballos%2C_Real_Madrid%2C_2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "stage": "Here we go",
+  "player": "Dani Ceballos",
+  "position": "\u2014",
+  "age": "\u2014",
+  "from_club": "Real Madrid",
+  "to_club": "Real Betis",
+  "fee": "Free",
+  "style": "Technically gifted midfielder with excellent ball control and vision, capable of dictating play in the center of the park.",
+  "fit": "Deploy as a central midfielder in Betis' possession-based system where his passing range and intelligent movement can orchestrate attacks.",
+  "source": "Fabrizio Romano",
+  "sources": [
+   "Fabrizio Romano"
+  ],
+  "srcTier": "tier1",
+  "summary": "Dani Ceballos joins Real Betis on a three-year contract until June 2029 as a free agent after leaving Real Madrid.",
+  "outlet": "Telegram @fabrizioromanotg",
+  "url": "https://t.me/FabrizioRomanoTG/65875",
+  "title": "\ud83d\udea8 \ud83d\udfe2 \u26aa\ufe0f BREAKING: Dani Ceballos to Real Betis, here we go! He\u2019s back at the club on a three year contract. Deal in place "
+ },
+ {
+  "id": "8cc10d14b247e037789e9b88d1004bd4",
+  "ts": "2026-09-01T18:00:47+00:00",
+  "kind": "deal",
+  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/guakb31766824614.png/small",
+  "stage": "Completed",
+  "player": "Nick Woltemade",
+  "position": "\u2014",
+  "age": "\u2014",
+  "from_club": "Newcastle",
+  "to_club": "Juventus",
+  "fee": "\u00a33.5m",
+  "style": "Pacey winger with direct running style and defensive work rate who can play across the front line.",
+  "fit": "Would provide Newcastle with a dynamic attacking option on loan to strengthen depth and competition in wide positions.",
+  "source": "Fabrizio Romano",
+  "sources": [
+   "Fabrizio Romano"
+  ],
+  "srcTier": "tier1",
+  "summary": "Nick Woltemade completes a loan move to Juventus from Newcastle for \u00a33.5m.",
+  "outlet": "Telegram @fabrizioromanotg",
+  "url": "https://t.me/FabrizioRomanoTG/65873",
+  "title": "\u26aa\ufe0f \u26ab\ufe0f Official, confirmed. Nick Woltemade signs for Juventus from Newcastle on \u00a33.5m straight loan. https://t.co/EXJexSo"
+ },
+ {
   "id": "tg:FabrizioRomanoTG/65872",
   "ts": "2026-09-01T17:45:46+00:00",
   "kind": "deal",
@@ -679,30 +727,6 @@
   "outlet": "sportingpedia",
   "url": "https://www.sportingpedia.com/2026/08/31/bayer-leverkusen-agree-deal-for-guela-doue-deal-while-marc-casado-race-intensifies/",
   "title": "Bayer Leverkusen Agree Deal For Gue\u0301la Doue\u0301 Deal While Marc Casado Race Intensifies"
- },
- {
-  "id": "8cc10d14b247e037789e9b88d1004bd4",
-  "ts": "2026-08-31T19:00:46+00:00",
-  "kind": "deal",
-  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/guakb31766824614.png/small",
-  "stage": "Here we go",
-  "player": "Nick Woltemade",
-  "position": "\u2014",
-  "age": "\u2014",
-  "from_club": "Newcastle United",
-  "to_club": "Juventus",
-  "fee": "\u00a33.5m",
-  "style": "Pacey winger with direct running style and defensive work rate who can play across the front line.",
-  "fit": "Would provide Newcastle with a dynamic attacking option on loan to strengthen depth and competition in wide positions.",
-  "source": "Fabrizio Romano",
-  "sources": [
-   "Fabrizio Romano"
-  ],
-  "srcTier": "tier1",
-  "summary": "Juventus reached a verbal agreement with Newcastle to sign Nick Woltemade on loan for \u00a33.5m with no option or obligation to buy, to be completed on Deadline Day.",
-  "outlet": "Telegram @fabrizioromanotg",
-  "url": "https://t.me/FabrizioRomanoTG/65784",
-  "title": "\ud83d\udea8 \ud83d\udca3 BREAKING: Juventus reached verbal agreement with Newcastle to sign Nick Woltemade, here we go! Surprise move reporte"
  },
  {
   "id": "6959df4889706a9ce3465653085171ab",

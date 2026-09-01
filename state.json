@@ -1,9 +1,5 @@
 {
   "sent": [
-    "b986c5e8eae6c224200c29229a2a7128",
-    "c1574a52d359c1936eb20bfe336057c9",
-    "f4d9e23c882ad27a3a50fa7e83615df1",
-    "46f1b98c2b12b9164e49da4785286cb6",
     "8c32ff32cb08a73bfccf27ffbe180c0d",
     "3a5529ede729e6979b1c1b895559f27b",
     "60755e743e1a44cd59003d91f711027f",
@@ -1499,7 +1495,11 @@
     "03f45bd6c3959048122f9e078f702f13",
     "a350639e1e5aaf99cdf2d6c080ece824",
     "7a01f61dad156397e6863ff9425240e7",
-    "tg:FabrizioRomanoTG/65872"
+    "tg:FabrizioRomanoTG/65872",
+    "be645415361817cdbb0410cbce2dc900",
+    "tg:FabrizioRomanoTG/65873",
+    "tg:FabrizioRomanoTG/65874",
+    "tg:FabrizioRomanoTG/65875"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1817,7 +1817,7 @@
     "dinis -> napoli": 1,
     "elliott -> valencia": 1,
     "ndiaye -> manchester city": 2,
-    "woltemade -> juventus": 1,
+    "woltemade -> juventus": 2,
     "doue -> bayer leverkusen": 1,
     "moore -> 1 fc koln": 2,
     "adarabioyo -> tottenham": 1,
@@ -1837,7 +1837,8 @@
     "essugo -> rc strasbourg": 1,
     "bahoya -> leeds": 1,
     "balogun -> everton": 1,
-    "kehrer -> ajax": 1
+    "kehrer -> ajax": 1,
+    "ceballos -> real betis": 1
   },
   "interest": [
     "interest: alvarez -> arsenal",
@@ -2099,10 +2100,6 @@
     "interest: tagliafico -> atletico madrid"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83d\udd35 everton have sent official bid to as monaco for folarin balogun as negotiati",
-    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f after pape sarr to juventus and mikey moore to koln, kevin danso can also",
-    "tottenham enquire about pulisic monday's gossip",
-    "julian alvarez to arsenal twist as new atletico madrid transfer bid submitted",
     "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 barcelona have completed deal to sign 16 year old defender mikael baza fro",
     "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 youssouf fofana has agreed to joining ol on initial loan ac milan and lyon",
     "\ud83d\udea8 \ud83d\udd34 liverpool have reached verbal agreement with genk to sign 18 year old goalke",
@@ -2398,11 +2395,14 @@
     "como reach verbal agreement over loan deal for sanchez",
     "arsenal explore late move for alvarez tuesday gossip",
     "man utd news: \u00a334m transfer target's move 'sanctioned' as boss confirms 'fantast",
-    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f thilo kehrer to ajax, here we go! verbal agreement done with the defender"
+    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f thilo kehrer to ajax, here we go! verbal agreement done with the defender",
+    "why roberto de zerbi wants to sign mykhailo mudryk at tottenham with medical set",
+    "\u26aa\ufe0f \u26ab\ufe0f official, confirmed nick woltemade signs for juventus from newcastle on \u00a33",
+    "\ud83d\udd34 \ud83d\udd35 \ud83c\udde7\ud83c\uddf7 exclusive story, confirmed: robinho jr has signed in as new genoa player ",
+    "\ud83d\udea8 \ud83d\udfe2 \u26aa\ufe0f breaking: dani ceballos to real betis, here we go! he\u2019s back at the club "
   ],
   "tg_update_offset": 263617426,
   "photos": {
-    "antonio silva": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ant%C3%B3nio_Silva_USMNT_v_Portugal_Mar_31_2026-19_%28cropped%29.jpg/330px-Ant%C3%B3nio_Silva_USMNT_v_Portugal_Mar_31_2026-19_%28cropped%29.jpg",
     "luka vuskovic": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Luka_Vuskovic_Croatia_v_Portugal_2_July_2026-020.jpg/330px-Luka_Vuskovic_Croatia_v_Portugal_2_July_2026-020.jpg",
     "warren zaire-emery": "https://r2.thesportsdb.com/images/media/player/cutout/fjxbac1766335583.png/small",
     "raul asencio": "https://r2.thesportsdb.com/images/media/player/cutout/7pk52z1768499125.png/small",
@@ -2694,16 +2694,17 @@
     "claudio echeverri": "https://r2.thesportsdb.com/images/media/player/cutout/jbdnk91756315963.png/small",
     "jose gimenez": "https://r2.thesportsdb.com/images/media/player/cutout/j2c2gn1762287634.png/small",
     "dario essugo": "https://www.thesportsdb.com/images/media/player/cutout/sgwvhr1787727807.png/small",
-    "dinis": "",
     "mikael baza": "",
     "jean matteo bahoya": "https://r2.thesportsdb.com/images/media/player/cutout/fp3ti91762287362.png/small",
     "vuk pavicevic": "",
     "shim mheuka": "",
     "folarin balogun": "https://r2.thesportsdb.com/images/media/player/cutout/ic7kq51781348516.png/small",
     "thilo kehrer": "https://r2.thesportsdb.com/images/media/player/cutout/f1a7kt1766238123.png/small",
-    "mika faye": ""
+    "mika faye": "",
+    "dani ceballos": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Dani_Ceballos%2C_Real_Madrid%2C_2022.jpg/330px-Dani_Ceballos%2C_Real_Madrid%2C_2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "dinis": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

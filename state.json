@@ -1,7 +1,5 @@
 {
   "sent": [
-    "833fa9c3cfea647d539cb1c8ede75812",
-    "tg:FabrizioRomanoTG/65016",
     "tg:FabrizioRomanoTG/65017",
     "77bd956b82eddeb02ca5fd19c496da3e",
     "cb23537a3ffb3c6b8aa6e4524739333a",
@@ -1499,7 +1497,9 @@
     "704ad74e894a3df7aef9416bfa55d89e",
     "4dd17cc4b638c9b2a8e44cc763af74ca",
     "2e51a822f50f1e89455cfed8095a50e1",
-    "5ce117f0c4c8e2ed162e5f3df1d374bd"
+    "5ce117f0c4c8e2ed162e5f3df1d374bd",
+    "b41927d6337f6621065cbc3b0afc27b4",
+    "ce609ecf9ff1a595b8fcc730d77868a8"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2086,8 +2086,6 @@
     "interest: adarabioyo -> tottenham"
   ],
   "titles": [
-    "arsenal: fresh julian alvarez transfer twist confirmed after mikel arteta talks",
-    "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 barcelona are in advanced club to club talks with arsenal to sign gabriel ",
     "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 breaking: barcelona agree deal to sign gabriel jesus from arsenal, here we",
     "liverpool star decides he wants to join manchester city, clubs begin talks for t",
     "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f breaking: gabriel martinelli to al hilal, here we go! verbal agreement do",
@@ -2385,7 +2383,9 @@
     "crystal palace respond to second liverpool \u2018offer\u2019 for ismaila sarr",
     "ismaila sarr reacts after crystal palace reject second liverpool \u2018offer\u2019",
     "new twist for ndiaye's everton exit after fresh talks today as deal faces collap",
-    "ornstein: liverpool make cody gakpo transfer decision as man city bid \u00a380m"
+    "ornstein: liverpool make cody gakpo transfer decision as man city bid \u00a380m",
+    "liverpool reach shock decision on cody gakpo after \u00a380m man city bid \u2013 david orn",
+    "david ornstein reveals cody gakpo saga \u2018over\u2019 after \u00a380m man city offer to liver"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2685,12 +2685,12 @@
     "robert sanchez": "https://www.thesportsdb.com/images/media/player/cutout/tp7tca1787691371.png/small",
     "arijon ibrahimovic": "https://images.fotmob.com/image_resources/playerimages/1327150.png",
     "matias fernandez pardo": "https://r2.thesportsdb.com/images/media/player/cutout/8vhxnr1766077473.png/small",
-    "mika faye": "",
     "dinis": "",
     "mikael baza": "",
-    "vuk pavicevic": ""
+    "vuk pavicevic": "",
+    "mika faye": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

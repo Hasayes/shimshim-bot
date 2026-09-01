@@ -1,8 +1,5 @@
 {
   "sent": [
-    "d05b625c4bbc143da9ec880cd03b264c",
-    "tg:FabrizioRomanoTG/65020",
-    "824531307bdc0ce47067dad89e7d3479",
     "tg:FabrizioRomanoTG/65021",
     "tg:FabrizioRomanoTG/65022",
     "tg:FabrizioRomanoTG/65023",
@@ -1499,7 +1496,10 @@
     "a388e459e8dd6947704e77c430619cd9",
     "1b6fcff1780891fb3fd0f9250789c47d",
     "126f26f2d4d35e3fa309623846763677",
-    "f370c0ac25f83da27a837132e159a4f9"
+    "f370c0ac25f83da27a837132e159a4f9",
+    "ceec6645de2f0df7018a3e7dd47a1550",
+    "f30bdd1af9299eda122e3cf78a74947c",
+    "fda1db7b6e27e75b4cad37ad5b967387"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2086,9 +2086,6 @@
     "interest: adarabioyo -> tottenham"
   ],
   "titles": [
-    "done deal: el aynaoui moves to leipzig, de roon joins roma",
-    "confirmed: de roon reunites with gasperini, dutchman will land in rome at 12 10 ",
-    "confirmed: barcelona defender joins real sociedad on a permanent deal",
     "\ud83d\udea8 \ud83d\udd35 watkins to al hilal, here we go confirmed! celebrate the new signing with co",
     "\ud83d\udd35 \u26aa\ufe0f \ud83c\uddf8\ud83c\udde6 gabriel martinelli\u2019s contract at al hilal will be valid until june 2030 ",
     "romano explains liverpool stance on gakpo exit as man city talks advance",
@@ -2385,7 +2382,10 @@
     "barca to pursue alvarez deal as jesus plan made clear euro transfer news",
     "arsenal plot late transfer hijack for tottenham target as gunners make deadline ",
     "man utd make final barcelona transfer decision after crunch talks ahead of deadl",
-    "sarr alternative: liverpool hold talks to sign 'world class' winger"
+    "sarr alternative: liverpool hold talks to sign 'world class' winger",
+    "arsenal offered 21yo left winger",
+    "manchester united make final decision on alejandro balde transfer before deadlin",
+    "romano: tottenham working on deal to sign two chelsea players before deadline"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2685,12 +2685,12 @@
     "robert sanchez": "https://www.thesportsdb.com/images/media/player/cutout/tp7tca1787691371.png/small",
     "arijon ibrahimovic": "https://images.fotmob.com/image_resources/playerimages/1327150.png",
     "matias fernandez pardo": "https://r2.thesportsdb.com/images/media/player/cutout/8vhxnr1766077473.png/small",
-    "dinis": "",
     "mikael baza": "",
     "vuk pavicevic": "",
-    "mika faye": ""
+    "mika faye": "",
+    "dinis": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

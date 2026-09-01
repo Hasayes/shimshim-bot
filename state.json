@@ -1,9 +1,5 @@
 {
   "sent": [
-    "87b42c87ca15957f853cb935802f6dda",
-    "acd2ddbbbd07a2bf965a8d2c9ae99c45",
-    "e75072dddbe6d93aac28473b4e4d0410",
-    "47fa7ba160bd7c1d0141be7941184170",
     "tg:FabrizioRomanoTG/65075",
     "509691edc28eba3f052fc0e48e679601",
     "1a1d9e7f37e208f2dc532433b6ef41d8",
@@ -1499,7 +1495,11 @@
     "tg:FabrizioRomanoTG/65827",
     "e438719eb556faf712a7798457824f3b",
     "e399f2b8a96a62c6c0b1dc5c471a02c6",
-    "tg:FabrizioRomanoTG/65828"
+    "tg:FabrizioRomanoTG/65828",
+    "bde3fd7842635e2beb9ac06aec90631f",
+    "aeeae54b83747b96c04f065ffc166eee",
+    "e8f5254388869312b233f394abc4101f",
+    "1abf1a72f467bd5f8bd4f95f358ec978"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1827,7 +1827,8 @@
     "faye -> barcelona": 1,
     "gakpo -> manchester city": 1,
     "pardo -> newcastle": 2,
-    "nwaneri -> borussia dortmund": 1
+    "nwaneri -> borussia dortmund": 1,
+    "sanchez -> como": 1
   },
   "interest": [
     "interest: alvarez -> arsenal",
@@ -2088,9 +2089,6 @@
     "interest: willian -> liverpool"
   ],
   "titles": [
-    "@predict_palace @bobbymanzi he\u2019s already signed with chelsea mate he\u2019s gonna be ",
-    "\ud83d\udd35 \ud83d\udd34 honest ahanor will undergo medical at crystal palace today chelsea already s",
-    "fc barcelona sign striker from arsenal for 10 million",
     "future of \u2018exceptional\u2019 liverpool star confirmed, he\u2019s played his last game at a",
     "fabrizio romano gives update on man utd replacing zirkzee with new striker",
     "alejandro balde transfer decision made by manchester united",
@@ -2387,7 +2385,10 @@
     "fabrizio romano confirms tottenham \u2018verbal agreement\u2019 reached with chelsea for t",
     "tottenham \u2018reach agreement with chelsea\u2019 for two stars \u2013 one is about to undergo",
     "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 exclusive: genoa agree deal to sign cody drameh from hull city, here we go",
-    "\ud83d\udd34 \u26aa\ufe0f exclusive story, confirmed: marc guiu signs in as new rb leipzig player \ud83c\uddea\ud83c\uddf8 "
+    "\ud83d\udd34 \u26aa\ufe0f exclusive story, confirmed: marc guiu signs in as new rb leipzig player \ud83c\uddea\ud83c\uddf8 ",
+    "done deal: leeds star spotted in kit of new club as footage emerges",
+    "robert sanchez to leave chelsea just days after blues signed emi martinez as ces",
+    "como agreement for sanchez on loan from chelsea"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2687,12 +2688,12 @@
     "arijon ibrahimovic": "https://images.fotmob.com/image_resources/playerimages/1327150.png",
     "matias fernandez pardo": "https://r2.thesportsdb.com/images/media/player/cutout/8vhxnr1766077473.png/small",
     "estevao willian": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Estevao-Palmeiras-Liverpool-abr24_%28cropped%29.jpg/330px-Estevao-Palmeiras-Liverpool-abr24_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "mikael baza": "",
     "vuk pavicevic": "",
     "mika faye": "",
-    "dinis": ""
+    "dinis": "",
+    "mikael baza": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

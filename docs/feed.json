@@ -1,5 +1,30 @@
 [
  {
+  "id": "21774d5f2ef87a6d37f72e772583a03d",
+  "ts": "2026-09-01T09:15:34+00:00",
+  "kind": "deal",
+  "photo": "https://www.thesportsdb.com/images/media/player/cutout/tp7tca1787691371.png/small",
+  "stage": "Here we go",
+  "player": "Robert Sanchez",
+  "position": "Goalkeeper",
+  "age": "\u2014",
+  "from_club": "Chelsea",
+  "to_club": "Como",
+  "fee": "\u2014",
+  "style": "Athletic shot-stopper with solid distribution and command of the area, though prone to occasional concentration lapses.",
+  "fit": "Ideal as a starting goalkeeper to provide stability and experience to Como's defense while competing at a high Serie A level.",
+  "source": "thescottishsun",
+  "sources": [
+   "TEAMtalk",
+   "thescottishsun"
+  ],
+  "srcTier": "standard",
+  "summary": "Robert Sanchez is set to leave Chelsea on loan to join Como after being replaced as Blues No. 1 following Emi Martinez's signing from Aston Villa.",
+  "outlet": "thescottishsun",
+  "url": "https://www.thescottishsun.co.uk/sport/16762384/robert-sanchez-leaves-chelsea-emi-martinez-arrival/",
+  "title": "Robert Sanchez to LEAVE Chelsea just days after Blues signed Emi Martinez as Cesc Fabregas\u2019 Como poach goalkeeper"
+ },
+ {
   "id": "51d3eeb7d3e0a9c3dbab0b243669f7b8",
   "ts": "2026-09-01T09:00:45+00:00",
   "kind": "deal",
@@ -242,30 +267,6 @@
   "outlet": "yahoo",
   "url": "https://sports.yahoo.com/articles/augsburg-fend-off-werder-race-103700116.html",
   "title": "Augsburg fend off Werder in race for Bayern youngster"
- },
- {
-  "id": "21774d5f2ef87a6d37f72e772583a03d",
-  "ts": "2026-08-31T22:45:35+00:00",
-  "kind": "interest",
-  "photo": "https://www.thesportsdb.com/images/media/player/cutout/tp7tca1787691371.png/small",
-  "stage": "\u2014",
-  "player": "Robert Sanchez",
-  "position": "Goalkeeper",
-  "age": "\u2014",
-  "from_club": "Chelsea",
-  "to_club": "Tottenham Hotspur",
-  "fee": "\u2014",
-  "style": "Shot-stopper with quick reflexes who commands his penalty area and communicates well with his defense.",
-  "fit": "Could provide competition and cover at Tottenham as a reliable backup goalkeeper to push the current number one.",
-  "source": "TEAMtalk",
-  "sources": [
-   "TEAMtalk"
-  ],
-  "srcTier": "standard",
-  "summary": "TEAMtalk reports Tottenham are considering Chelsea goalkeeper Robert Sanchez as a potential target before the transfer window closes.",
-  "outlet": "teamtalk",
-  "url": "https://www.teamtalk.com/tottenham-hotspur/spurs-considering-mind-boggling-chelsea-raid-robert-sanchez-sale-approved-exclusive",
-  "title": "Tottenham considering mind-boggling Chelsea raid after sale approved \u2013 Exclusive"
  },
  {
   "id": "tg:FabrizioRomanoTG/65807",

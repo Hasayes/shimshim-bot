@@ -1,11 +1,5 @@
 {
   "sent": [
-    "509691edc28eba3f052fc0e48e679601",
-    "1a1d9e7f37e208f2dc532433b6ef41d8",
-    "04f4955068e6902c58f133e2c4a99452",
-    "7c9820e9df2c044bec2f8b1027a55c95",
-    "tg:FabrizioRomanoTG/65076",
-    "08ab070ee4c71aa904eab7bca38bccf2",
     "tg:FabrizioRomanoTG/65077",
     "466ca4f39e1d08dea5ee58297dd79fc5",
     "d108a6f1a8068d06a28bfba32dcb89af",
@@ -1499,7 +1493,13 @@
     "aeeae54b83747b96c04f065ffc166eee",
     "e8f5254388869312b233f394abc4101f",
     "1abf1a72f467bd5f8bd4f95f358ec978",
-    "tg:FabrizioRomanoTG/65829"
+    "tg:FabrizioRomanoTG/65829",
+    "f11d1e4d2021447d769cc5f4e8b3a7d2",
+    "08d22f76a081bf3bd826a84f07763216",
+    "066bc855ab7fbef4091fa1324635ed17",
+    "tg:FabrizioRomanoTG/65831",
+    "tg:FabrizioRomanoTG/65832",
+    "tg:FabrizioRomanoTG/65833"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1828,7 +1828,8 @@
     "gakpo -> manchester city": 1,
     "pardo -> newcastle": 2,
     "nwaneri -> borussia dortmund": 1,
-    "sanchez -> como": 1
+    "sanchez -> como": 1,
+    "fofana -> sunderland": 1
   },
   "interest": [
     "interest: alvarez -> arsenal",
@@ -2089,11 +2090,6 @@
     "interest: willian -> liverpool"
   ],
   "titles": [
-    "fabrizio romano gives update on man utd replacing zirkzee with new striker",
-    "alejandro balde transfer decision made by manchester united",
-    "\ud83d\udea8 \ud83d\udfe0 \u26ab\ufe0f excl: hull city reach verbal agreement to sign robinio vaz, here we go! i",
-    "julian alvarez makes atletico madrid decision as clock ticks down on arsenal dea",
-    "julian alvarez to arsenal transfer boost thanks to liverpool selling cody gakpo ",
     "fabrizio romano confirms contract green light; surprise liverpool deal imminent",
     "\ud83d\udc40 here we go! barca's lightning move for gabriel jesus as no 9",
     "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f fc porto agree deal to sign souza from tottenham, here we go! \ud83c\udde7\ud83c\uddf7 loan mov",
@@ -2388,7 +2384,12 @@
     "done deal: leeds star spotted in kit of new club as footage emerges",
     "robert sanchez to leave chelsea just days after blues signed emi martinez as ces",
     "como agreement for sanchez on loan from chelsea",
-    "\ud83d\udea8 \ud83d\udd35 exclusive: chelsea send official bid to as monaco for lamine camara worth \u20ac4"
+    "\ud83d\udea8 \ud83d\udd35 exclusive: chelsea send official bid to as monaco for lamine camara worth \u20ac4",
+    "liverpool respond to \u00a330m offer for midfielder as romano reveals \u2018agreement\u2019 for",
+    "fabrizio romano reveals arsenal reluctance on winger who \u2018wants to join\u2019 as cody",
+    "\ud83d\udea8 \ud83c\udde7\ud83c\uddea arsenal will not meet \u20ac40m asking price for malick fofana, considered too h",
+    "cody drameh, flying to italy to undergo a medical at genoa while brooke norton c",
+    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f breaking: malick fofana now on his way to undergo medical at sunderland, "
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2688,12 +2689,12 @@
     "arijon ibrahimovic": "https://images.fotmob.com/image_resources/playerimages/1327150.png",
     "matias fernandez pardo": "https://r2.thesportsdb.com/images/media/player/cutout/8vhxnr1766077473.png/small",
     "estevao willian": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Estevao-Palmeiras-Liverpool-abr24_%28cropped%29.jpg/330px-Estevao-Palmeiras-Liverpool-abr24_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "mika faye": "",
     "dinis": "",
     "mikael baza": "",
-    "vuk pavicevic": ""
+    "vuk pavicevic": "",
+    "mika faye": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

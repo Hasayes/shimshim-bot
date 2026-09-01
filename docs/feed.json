@@ -1,5 +1,29 @@
 [
  {
+  "id": "tg:FabrizioRomanoTG/65766",
+  "ts": "2026-09-01T10:00:59+00:00",
+  "kind": "deal",
+  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/vca9wj1766146326.png/small",
+  "stage": "Here we go",
+  "player": "Malick Fofana",
+  "position": "\u2014",
+  "age": "\u2014",
+  "from_club": "Lyon",
+  "to_club": "Sunderland",
+  "fee": "\u20ac30m plus add-ons",
+  "style": "\u2014",
+  "fit": "\u2014",
+  "source": "Fabrizio Romano",
+  "sources": [
+   "Fabrizio Romano"
+  ],
+  "srcTier": "tier1",
+  "summary": "Malick Fofana is undergoing medical at Sunderland after a verbal agreement was reached for \u20ac30m plus add-ons with Lyon. Arsenal had declined to match the package.",
+  "outlet": "Telegram @fabrizioromanotg",
+  "url": "https://t.me/FabrizioRomanoTG/65833",
+  "title": "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f BREAKING: Malick Fofana now on his way to undergo medical at Sunderland, here we go! Deal verbally agreed \u2014 under"
+ },
+ {
   "id": "21774d5f2ef87a6d37f72e772583a03d",
   "ts": "2026-09-01T09:15:34+00:00",
   "kind": "deal",
@@ -584,30 +608,6 @@
   "outlet": "yardbarker",
   "url": "https://www.yardbarker.com/soccer/articles/atalanta_ahanor_on_loan_to_crystal_palace_then_he_will_belong_to_chelsea_the_reason/s1_17790_44240552",
   "title": "Atalanta: Ahanor on loan to Crystal Palace, then he will belong to Chelsea: the reason"
- },
- {
-  "id": "tg:FabrizioRomanoTG/65766",
-  "ts": "2026-08-31T16:45:36+00:00",
-  "kind": "interest",
-  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/vca9wj1766146326.png/small",
-  "stage": "\u2014",
-  "player": "Malick Fofana",
-  "position": "\u2014",
-  "age": "\u2014",
-  "from_club": "Olympique Lyon",
-  "to_club": "Arsenal",
-  "fee": "\u20ac40m (add-ons included)",
-  "style": "\u2014",
-  "fit": "\u2014",
-  "source": "Fabrizio Romano",
-  "sources": [
-   "Fabrizio Romano"
-  ],
-  "srcTier": "tier1",
-  "summary": "Arsenal have made an official club-to-club approach to Olympique Lyon for Malick Fofana as a deadline day deal, with contact established with the player's representatives at Roc Nation and Lyon open to discussions around a \u20ac40m package with add-ons.",
-  "outlet": "Telegram @fabrizioromanotg",
-  "url": "https://t.me/FabrizioRomanoTG/65766",
-  "title": "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f Arsenal have made official club to club approach with Olympique Lyon for Malick Fofana as Deadline Day deal. #AFC"
  },
  {
   "id": "tg:FabrizioRomanoTG/65765",

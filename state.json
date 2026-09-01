@@ -1,10 +1,5 @@
 {
   "sent": [
-    "fd23eeb0a154ec80f9e129e05779effd",
-    "tg:FabrizioRomanoTG/65015",
-    "849571ed2efc4d13f43806da4d15f5fa",
-    "a43449eb74606516c25f9e183964f1a4",
-    "e9fc24d667f9f6b670b6dd2ea324bc07",
     "1bb8cbbb6ce13a1f7e692a37203c122e",
     "0284d4db28ee2ec5a1d2f5d4d8179945",
     "49a85775583aa1f54830121a6944ef30",
@@ -1499,7 +1494,12 @@
     "2852a478f6e839ccab03edaca5ebfbca",
     "cfcde194704686bd1afb10114af8c887",
     "5b3ba0dcb2a8b1f04e02f712c0f4ef2f",
-    "a377ef72a99853882ac09b2e81e505bb"
+    "a377ef72a99853882ac09b2e81e505bb",
+    "a71a642d64d6f52b2abdf68537d87978",
+    "6a6860a9ff8653d9aff7ac0fd2f77f2a",
+    "63adbd71443192e0c90c8e955665a262",
+    "7930c7eee00cd89a6ca3f117fb6719df",
+    "5f8044bd9b166815398ed9234157a348"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2086,11 +2086,6 @@
     "interest: adarabioyo -> tottenham"
   ],
   "titles": [
-    "nottingham forest in transfer rampage as romano gives double \u2018here we go\u2019",
-    "\ud83d\udea8 \ud83d\udd04 tottenham and everton have reached an agreement on double deal with iliman n",
-    "\ud83d\udea8 \ud83d\udd35 everton are in advanced talks to bring jack grealish back to the club, negot",
-    "\ud83d\udd35 \u26aa\ufe0f \ud83d\udc09 santi gimenez has authorization to travel and join fc porto after deal ag",
-    "\ud83d\udea8 \u26aa\ufe0f iliman ndiaye has given green light to tottenham contract proposal, ready t",
     "\ud83d\udea8 \ud83d\udd34 \u26ab\ufe0f omari hutchinson, arriving tonight in milano after deal done with forest ",
     "done deal: gimenez ready for fc porto in \u20ac20m milan agreement",
     "hull city set to sign french winger",
@@ -2385,7 +2380,12 @@
     "saints reportedly make offer for teenage dortmund defender",
     "liverpool officially announce \u00a3123m barcola signing as romano confirms two more ",
     "matthias jaissle in dreamland as newcastle agree \u20ac60m deal for 2 in 1 star",
-    "eintracht frankfurt working on kalimuendo return as nottingham forest sign danie"
+    "eintracht frankfurt working on kalimuendo return as nottingham forest sign danie",
+    "southampton eye transfer for borussia dortmund ace wanted by ac milan",
+    "barcelona called off pursuit of german forward due to \u20ac50 million valuation \u2013 re",
+    "cesc fabregas makes approach to sign chelsea star after xabi alonso decision",
+    "two more liverpool signings imminent as \u00a3123m barcola deal officially announced",
+    "juventus, newcastle uinted in talks for loan with nick woltemade"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2685,12 +2685,12 @@
     "robert sanchez": "https://www.thesportsdb.com/images/media/player/cutout/tp7tca1787691371.png/small",
     "arijon ibrahimovic": "https://images.fotmob.com/image_resources/playerimages/1327150.png",
     "matias fernandez pardo": "https://r2.thesportsdb.com/images/media/player/cutout/8vhxnr1766077473.png/small",
-    "mika faye": "",
     "dinis": "",
     "mikael baza": "",
-    "vuk pavicevic": ""
+    "vuk pavicevic": "",
+    "mika faye": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

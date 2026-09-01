@@ -1,7 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/65084",
-    "5a9b83ffc327b52986896b3799ad24b6",
     "7a37c9e90f088e6fba1bd2d90ae2feb4",
     "3d8bc75e61b2e630195a9f6c43f7c62d",
     "33e4b14daaf3dd0915eb7f6727723c5b",
@@ -1499,7 +1497,9 @@
     "tg:FabrizioRomanoTG/65849",
     "tg:FabrizioRomanoTG/65850",
     "tg:FabrizioRomanoTG/65851",
-    "tg:FabrizioRomanoTG/65852"
+    "tg:FabrizioRomanoTG/65852",
+    "b5a108eda15671a4d0a555c35d55dbf8",
+    "a8f194fbea637e7424066a63509f5343"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1822,7 +1822,7 @@
     "moore -> 1 fc koln": 2,
     "adarabioyo -> tottenham": 1,
     "bajcetic -> celta vigo": 1,
-    "grealish -> everton": 1,
+    "grealish -> everton": 2,
     "ibrahimovic -> fc augsburg": 2,
     "faye -> barcelona": 1,
     "gakpo -> manchester city": 1,
@@ -2092,7 +2092,6 @@
     "interest: tagliafico -> atletico madrid"
   ],
   "titles": [
-    "arsenal transfer news: gabriel jesus set for barcelona move as gabriel martinell",
     "\u201cdone and confirmed\u201d arsenal star leaves gunners to complete record breaking tra",
     "man utd transfers: who is being signed and sold before deadline?",
     "inter build buyback safeguard into massolin\u2019s cagliari loan",
@@ -2391,7 +2390,8 @@
     "rt @fabrizioromano : \ud83d\udea8 \ud83d\udd34 \ud83d\udd35 malick fofana has completed his medical at sunderland",
     "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f understand pape matar sarr has just signed his juventus contract and als",
     "\ud83d\udea8 \ud83d\udc2f medical underway for robinio vaz at hull city loan deal worth \u20ac2m plus buy o",
-    "\ud83d\udd35 \ud83d\udd34 \ud83e\udd19\ud83c\udffd official, confirmed gabriel jesus joins barcelona from arsenal \ud83c\udde7\ud83c\uddf7 \u20ac14m pa"
+    "\ud83d\udd35 \ud83d\udd34 \ud83e\udd19\ud83c\udffd official, confirmed gabriel jesus joins barcelona from arsenal \ud83c\udde7\ud83c\uddf7 \u20ac14m pa",
+    "jack grealish joins everton on loan from man city with fitness crucial to perman"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2689,14 +2689,14 @@
     "arijon ibrahimovic": "https://images.fotmob.com/image_resources/playerimages/1327150.png",
     "matias fernandez pardo": "https://r2.thesportsdb.com/images/media/player/cutout/8vhxnr1766077473.png/small",
     "estevao willian": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Estevao-Palmeiras-Liverpool-abr24_%28cropped%29.jpg/330px-Estevao-Palmeiras-Liverpool-abr24_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "dinis": "",
     "nicolas tagliafico": "https://r2.thesportsdb.com/images/media/player/cutout/4z43fy1766146600.png/small",
     "mikael baza": "",
     "vuk pavicevic": "",
     "shim mheuka": "",
-    "mika faye": ""
+    "mika faye": "",
+    "dinis": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

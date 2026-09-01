@@ -1,10 +1,5 @@
 {
   "sent": [
-    "a8f292f166889b20a72cb7c100b788f9",
-    "tg:FabrizioRomanoTG/65122",
-    "ebe5179a7b1bca8a4c7bc445978dbef8",
-    "652eb1c3f13b686b051ffba702699a20",
-    "a4a58a3eddf5b50597449fb20c6ade4d",
     "tg:FabrizioRomanoTG/65124",
     "043641c4cf256f96b8d11c8acac6a308",
     "060761dc543cc4729b08bc6b57690850",
@@ -1499,7 +1494,12 @@
     "94bea28189ac76e8dd6cbab92038ddc8",
     "tg:FabrizioRomanoTG/65893",
     "97095f9b4add847f8774026fdd2a210a",
-    "dd66e105ee6fb8083cc171e093124e31"
+    "dd66e105ee6fb8083cc171e093124e31",
+    "23a551c2caa1a3cfcf3ec98f217811f2",
+    "664b04363c172d9f21f04e24e0959410",
+    "b47ceef245de77bd7375f34af9b36e42",
+    "fa5a6ecabac6627e1604af2aa39b04a8",
+    "tg:FabrizioRomanoTG/65895"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1840,7 +1840,8 @@
     "kehrer -> ajax": 1,
     "ceballos -> real betis": 1,
     "mudryk -> tottenham": 1,
-    "danso -> sunderland": 1
+    "danso -> sunderland": 1,
+    "casado -> depor": 1
   },
   "interest": [
     "interest: alvarez -> arsenal",
@@ -2102,11 +2103,6 @@
     "interest: tagliafico -> atletico madrid"
   ],
   "titles": [
-    "rafael leao\u2019s ac milan to galatasaray fee and salary officially revealed as amor",
-    "liverpool news: virgil van dijk gives verdict on bradley barcola as talks ongoin",
-    "\ud83d\udea8 \ud83d\udca3 official: liverpool have decided to keep cody gakpo at the club as they can\u2019",
-    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f manchester city are back in talks with everton for iliman ndiaye, as reve",
-    "\ud83d\udea8 \u26aa\ufe0f valencia reach verbal agreement to sign harvey elliott from liverpool, here",
     "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f arsenal have made official club to club approach with olympique lyon for ",
     "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f more on malick fofana: arsenal are not willing to match \u20ac40m valuation, o",
     "atalanta: ahanor on loan to crystal palace, then he will belong to chelsea: the ",
@@ -2401,7 +2397,12 @@
     "everton push deadline plans forward with grealish loan return and balogun move a",
     "\ud83d\udd35 \ud83d\udca3 lamine camara currently undergoing a medical under chelsea staff supervision",
     "sunderland set to sign kevin danso on loan",
-    "chelsea in advanced talks for kone for \u20ac60 million"
+    "chelsea in advanced talks for kone for \u20ac60 million",
+    "transfer deadline day live updates: the biggest done deals and latest rumors bef",
+    "chelsea agree terms with enzo fernandez replacement and bid \u20ac65m \u2013 reports",
+    "kone chelsea deal at risk: gasperini wants to keep him",
+    "romano: spurs agree two stunning deals for fringe chelsea pair",
+    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f depor reach verbal agreement to sign marc casado from barcelona, here we "
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2700,13 +2701,13 @@
     "dani ceballos": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Dani_Ceballos%2C_Real_Madrid%2C_2022.jpg/330px-Dani_Ceballos%2C_Real_Madrid%2C_2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "mykhailo mudryk": "https://www.thesportsdb.com/images/media/player/cutout/uoz87a1787728061.png/small",
     "kevin danso": "https://r2.thesportsdb.com/images/media/player/cutout/unhinl1739274856.png/small",
-    "mika faye": "",
     "dinis": "",
     "mikael baza": "",
     "vuk pavicevic": "",
-    "shim mheuka": ""
+    "shim mheuka": "",
+    "mika faye": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",
@@ -2898,6 +2899,7 @@
     "hamburger sv": "https://images.fotmob.com/image_resources/logo/teamlogo/9790.png",
     "lille osc": "https://r2.thesportsdb.com/images/media/team/badge/2giize1534005340.png/small",
     "deportivo de a coruna": "https://r2.thesportsdb.com/images/media/team/badge/62bvwv1783013156.png/small",
-    "eintracht": "https://r2.thesportsdb.com/images/media/team/badge/o65mpq1599589711.png/small"
+    "eintracht": "https://r2.thesportsdb.com/images/media/team/badge/o65mpq1599589711.png/small",
+    "depor": ""
   }
 }

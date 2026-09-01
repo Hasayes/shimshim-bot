@@ -1,7 +1,5 @@
 {
   "sent": [
-    "36d7e7cab0f0d632119b2d72273f9f39",
-    "7efa0d67b4e28265e29cd5287832dca0",
     "9d07e3a2c2c9acdc3f96d3d04b8c44b8",
     "ee82a8f401cf75f138b8af6c971e45a8",
     "fa32c9acbcb709c26074e9dd245a0fc8",
@@ -1499,7 +1497,9 @@
     "bc75c3fa5d432755aea32558a3f975af",
     "6cce24004a762bb2cf5ea844a21a3ff8",
     "3ddb43b35cfe2cda475b926a1fbe2b0a",
-    "tg:FabrizioRomanoTG/65815"
+    "tg:FabrizioRomanoTG/65815",
+    "724577fe005b276a828f539571821f53",
+    "6b5a0d8dab7529ebbd0e7a5ae7bf7a1a"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2086,7 +2086,6 @@
     "interest: adarabioyo -> tottenham"
   ],
   "titles": [
-    "report hutchinson ready for milan after verbal agreement with nottingham forest",
     "crystal palace receive bid for dean henderson to return to former club",
     "juventus in advanced talks to sign tottenham hotspur midfielder pape matar sarr",
     "cody gakpo wants to leave liverpool to join man city",
@@ -2385,7 +2384,8 @@
     "manchester city may be facing a snag in their bid to sign a dutch international",
     "newcastle transfer picture shifts as fernandez pardo deal advances and juventus ",
     "transfer bombshell newcastle united strike \u00a351m breakthrough as 21 y/o set for m",
-    "\ud83d\udd35 \ud83d\udd34 \ud83d\udc4b\ud83c\udffc medical today for barcelona\u2019s winger toni fernandez at venezia \u20ac4m fee, 5"
+    "\ud83d\udd35 \ud83d\udd34 \ud83d\udc4b\ud83c\udffc medical today for barcelona\u2019s winger toni fernandez at venezia \u20ac4m fee, 5",
+    "liverpool \u2018inform\u2019 cody gakpo of man city transfer decision after formal bid \u2013 f"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2684,13 +2684,13 @@
     "jack grealish": "https://r2.thesportsdb.com/images/media/player/cutout/7ckk5a1756976762.png/small",
     "robert sanchez": "https://www.thesportsdb.com/images/media/player/cutout/tp7tca1787691371.png/small",
     "arijon ibrahimovic": "https://images.fotmob.com/image_resources/playerimages/1327150.png",
-    "dinis": "",
     "mikael baza": "",
     "vuk pavicevic": "",
     "matias fernandez pardo": "https://r2.thesportsdb.com/images/media/player/cutout/8vhxnr1766077473.png/small",
-    "mika faye": ""
+    "mika faye": "",
+    "dinis": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

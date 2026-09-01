@@ -1,8 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/65073",
-    "936e51cfad581a6a77ad6b17d86545f4",
-    "751876b467912bd02691876ff96e7f6c",
     "87b42c87ca15957f853cb935802f6dda",
     "acd2ddbbbd07a2bf965a8d2c9ae99c45",
     "e75072dddbe6d93aac28473b4e4d0410",
@@ -1499,7 +1496,10 @@
     "a44763148bdd405c8b7fab653b72f388",
     "760600532d71d7fef129b2c49b6a09c2",
     "e6238819f979cf3682de7d41a95a205d",
-    "tg:FabrizioRomanoTG/65827"
+    "tg:FabrizioRomanoTG/65827",
+    "e438719eb556faf712a7798457824f3b",
+    "e399f2b8a96a62c6c0b1dc5c471a02c6",
+    "tg:FabrizioRomanoTG/65828"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1780,7 +1780,7 @@
     "ziolkowski -> ac monza": 1,
     "leao -> galatasaray": 2,
     "pavicevic -> inter": 1,
-    "guiu -> rb leipzig": 1,
+    "guiu -> rb leipzig": 2,
     "fernandez -> venezia": 2,
     "miretti -> besiktas": 2,
     "collyer -> west bromwich albion": 2,
@@ -2088,7 +2088,6 @@
     "interest: willian -> liverpool"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83d\udfe3 beto will travel to florence on monday morning for medical tests and contrac",
     "@predict_palace @bobbymanzi he\u2019s already signed with chelsea mate he\u2019s gonna be ",
     "\ud83d\udd35 \ud83d\udd34 honest ahanor will undergo medical at crystal palace today chelsea already s",
     "fc barcelona sign striker from arsenal for 10 million",
@@ -2387,7 +2386,8 @@
     "update on manchester city and their pursuit of this liverpool winger: what will ",
     "fabrizio romano confirms tottenham \u2018verbal agreement\u2019 reached with chelsea for t",
     "tottenham \u2018reach agreement with chelsea\u2019 for two stars \u2013 one is about to undergo",
-    "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 exclusive: genoa agree deal to sign cody drameh from hull city, here we go"
+    "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 exclusive: genoa agree deal to sign cody drameh from hull city, here we go",
+    "\ud83d\udd34 \u26aa\ufe0f exclusive story, confirmed: marc guiu signs in as new rb leipzig player \ud83c\uddea\ud83c\uddf8 "
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2687,12 +2687,12 @@
     "arijon ibrahimovic": "https://images.fotmob.com/image_resources/playerimages/1327150.png",
     "matias fernandez pardo": "https://r2.thesportsdb.com/images/media/player/cutout/8vhxnr1766077473.png/small",
     "estevao willian": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Estevao-Palmeiras-Liverpool-abr24_%28cropped%29.jpg/330px-Estevao-Palmeiras-Liverpool-abr24_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "dinis": "",
     "mikael baza": "",
     "vuk pavicevic": "",
-    "mika faye": ""
+    "mika faye": "",
+    "dinis": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

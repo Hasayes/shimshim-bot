@@ -1,5 +1,30 @@
 [
  {
+  "id": "51d3eeb7d3e0a9c3dbab0b243669f7b8",
+  "ts": "2026-09-01T09:00:45+00:00",
+  "kind": "deal",
+  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/x4r4991757003409.png/small",
+  "stage": "Completed",
+  "player": "Marc Guiu",
+  "position": "Striker",
+  "age": "\u2014",
+  "from_club": "Chelsea",
+  "to_club": "RB Leipzig",
+  "fee": "\u00a315m",
+  "style": "Aggressive, physical striker with strong finishing ability and presence in the box.",
+  "fit": "Should lead RB Leipzig's attack and utilize the team's high-pressing system to create scoring opportunities.",
+  "source": "Fabrizio Romano",
+  "sources": [
+   "Gianluca Di Marzio",
+   "Fabrizio Romano"
+  ],
+  "srcTier": "tier1",
+  "summary": "Marc Guiu completes permanent transfer from Chelsea to RB Leipzig for \u00a315m.",
+  "outlet": "Telegram @fabrizioromanotg",
+  "url": "https://t.me/FabrizioRomanoTG/65828",
+  "title": "\ud83d\udd34 \u26aa\ufe0f Exclusive story, confirmed: Marc Guiu signs in as new RB Leipzig player. \ud83c\uddea\ud83c\uddf8 Chelsea receive \u00a315m package for perman"
+ },
+ {
   "id": "6cce24004a762bb2cf5ea844a21a3ff8",
   "ts": "2026-09-01T08:15:39+00:00",
   "kind": "deal",
@@ -1547,31 +1572,6 @@
   "outlet": "yahoo",
   "url": "https://uk.sports.yahoo.com/news/liverpools-top-midfield-target-likely-091802894.html",
   "title": "Liverpool's top midfield target 'likely to leave' but Reds will have to be patient"
- },
- {
-  "id": "51d3eeb7d3e0a9c3dbab0b243669f7b8",
-  "ts": "2026-08-28T18:00:54+00:00",
-  "kind": "deal",
-  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/x4r4991757003409.png/small",
-  "stage": "Here we go",
-  "player": "Marc Guiu",
-  "position": "Striker",
-  "age": "\u2014",
-  "from_club": "Chelsea",
-  "to_club": "RB Leipzig",
-  "fee": "\u20ac16m",
-  "style": "Aggressive, physical striker with strong finishing ability and presence in the box.",
-  "fit": "Should lead RB Leipzig's attack and utilize the team's high-pressing system to create scoring opportunities.",
-  "source": "Fabrizio Romano",
-  "sources": [
-   "Gianluca Di Marzio",
-   "Fabrizio Romano"
-  ],
-  "srcTier": "tier1",
-  "summary": "Marc Guiu joins RB Leipzig from Chelsea on a permanent deal with a sell-on clause included, as agreement is reached between all parties.",
-  "outlet": "Telegram @fabrizioromanotg",
-  "url": "https://t.me/FabrizioRomanoTG/65512",
-  "title": "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f EXCLUSIVE: Marc Guiu to RB Leipzig from Chelsea, here we go! \ud83d\udca3 \ud83c\uddea\ud83c\uddf8 RB Leipzig close the agreement after secret tal"
  },
  {
   "id": "ae85becce677f9fa7bf7a37a5ea91e6d",

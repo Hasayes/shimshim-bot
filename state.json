@@ -1,8 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/65021",
-    "tg:FabrizioRomanoTG/65022",
-    "tg:FabrizioRomanoTG/65023",
     "tg:FabrizioRomanoTG/65024",
     "d647ad0ff81c1d60cfed3ce7e5a89cf4",
     "18113490ee5dd97c1a1f4b4c0de89c83",
@@ -1499,7 +1496,10 @@
     "f370c0ac25f83da27a837132e159a4f9",
     "ceec6645de2f0df7018a3e7dd47a1550",
     "f30bdd1af9299eda122e3cf78a74947c",
-    "fda1db7b6e27e75b4cad37ad5b967387"
+    "fda1db7b6e27e75b4cad37ad5b967387",
+    "493825054e5ba4789061cd05492b7d2f",
+    "f07f245522e05ffb1c4f948da60f9fa5",
+    "ab81fd9cf41c7e3524748337c779dd15"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2083,12 +2083,10 @@
     "interest: tosin -> tottenham",
     "interest: mudryk -> tottenham",
     "interest: sanchez -> tottenham",
-    "interest: adarabioyo -> tottenham"
+    "interest: adarabioyo -> tottenham",
+    "interest: willian -> liverpool"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83d\udd35 watkins to al hilal, here we go confirmed! celebrate the new signing with co",
-    "\ud83d\udd35 \u26aa\ufe0f \ud83c\uddf8\ud83c\udde6 gabriel martinelli\u2019s contract at al hilal will be valid until june 2030 ",
-    "romano explains liverpool stance on gakpo exit as man city talks advance",
     "bundesliga giants call off pursuit of barcelona midfielder \u2013 romano",
     "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f excl: atletico madrid submit official bid to juventus for jonathan david ",
     "man united transfer news live: marcus rashford latest, arsenal agreement, amad b",
@@ -2385,11 +2383,13 @@
     "sarr alternative: liverpool hold talks to sign 'world class' winger",
     "arsenal offered 21yo left winger",
     "manchester united make final decision on alejandro balde transfer before deadlin",
-    "romano: tottenham working on deal to sign two chelsea players before deadline"
+    "romano: tottenham working on deal to sign two chelsea players before deadline",
+    "chelsea respond to liverpool enquiry about signing estevao willian",
+    "ornstein: tottenham pivoting to mykhailo mudryk loan and i honestly can\u2019t even c",
+    "ineos officially sign french defender capable of playing left back"
   ],
   "tg_update_offset": 263617426,
   "photos": {
-    "emmanuel emegha": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/FC_RB_Salzburg_gegen_SK_Sturm_Graz%282023-05-21%29_35_%28Emanuel_Emegha%29.jpg/330px-FC_RB_Salzburg_gegen_SK_Sturm_Graz%282023-05-21%29_35_%28Emanuel_Emegha%29.jpg",
     "mathys detourbet": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Mathys_Detourbet_sous_les_couleurs_de_l%27ESTAC_Troyes_en_2025.jpg/330px-Mathys_Detourbet_sous_les_couleurs_de_l%27ESTAC_Troyes_en_2025.jpg",
     "alexander nubel": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Alexander_Nubel_Ecuador_v_Germany_25_June_2026-154.jpg/330px-Alexander_Nubel_Ecuador_v_Germany_25_June_2026-154.jpg",
     "karl hein": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/RC_Lens_-_Arsenal_FC_%2803-10-2023%29_6.jpg/330px-RC_Lens_-_Arsenal_FC_%2803-10-2023%29_6.jpg",
@@ -2685,12 +2685,13 @@
     "robert sanchez": "https://www.thesportsdb.com/images/media/player/cutout/tp7tca1787691371.png/small",
     "arijon ibrahimovic": "https://images.fotmob.com/image_resources/playerimages/1327150.png",
     "matias fernandez pardo": "https://r2.thesportsdb.com/images/media/player/cutout/8vhxnr1766077473.png/small",
-    "mikael baza": "",
     "vuk pavicevic": "",
     "mika faye": "",
-    "dinis": ""
+    "dinis": "",
+    "estevao willian": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Estevao-Palmeiras-Liverpool-abr24_%28cropped%29.jpg/330px-Estevao-Palmeiras-Liverpool-abr24_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "mikael baza": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

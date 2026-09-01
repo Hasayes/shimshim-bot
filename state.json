@@ -1,6 +1,5 @@
 {
   "sent": [
-    "32e9327e53ebc14c262f0bee316fb257",
     "cd27f52cc56fc840aea282514407e3c1",
     "494b290d6c883db680c2f36da13f7614",
     "4f96c06f685009f3d8eb9eb395f33b56",
@@ -1499,7 +1498,8 @@
     "c695489d5c8e4db3eebc9eadd0d9e294",
     "4eeb463a420505f918901da5df0aa95d",
     "fcc5fb780793d9ec89b0b7696ef6d308",
-    "0a213bf039e24af67869d5754cfb3805"
+    "0a213bf039e24af67869d5754cfb3805",
+    "ed531364d5e3b9ff44a79e2f6d37a0d7"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2104,7 +2104,6 @@
     "interest: tagliafico -> atletico madrid"
   ],
   "titles": [
-    "romano confirms man utd striker transfer is off, but alternative deal \u2018here we g",
     "transfer news live: arsenal triple deal, alvarez boost; barcola has liverpool me",
     "bayer leverkusen agree deal for guela doue deal while marc casado race intensifi",
     "\ud83d\udea8 \ud83d\udfe0 \u26ab\ufe0f exclusive: hull city agree deal to sign tim iroegbunam from everton, here",
@@ -2403,7 +2402,8 @@
     "fulham could make late move for bayern munich\u2019s sacha boey",
     "malick fofana nears \u00a330m sunderland switch as club prepares for european return",
     "lazio reach gudmundsson agreement with fiorentina",
-    "arsenal unwilling to match lyon\u2019s \u20ac40m asking price for malick fofana"
+    "arsenal unwilling to match lyon\u2019s \u20ac40m asking price for malick fofana",
+    "official \u2013 chelsea sign ahanor from atalanta: \u2018joining in 2027\u2019"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2702,13 +2702,13 @@
     "mykhailo mudryk": "https://www.thesportsdb.com/images/media/player/cutout/uoz87a1787728061.png/small",
     "kevin danso": "https://r2.thesportsdb.com/images/media/player/cutout/unhinl1739274856.png/small",
     "ben chilwell": "https://r2.thesportsdb.com/images/media/player/cutout/hmc0tf1766054345.png/small",
-    "mika faye": "",
     "dinis": "",
     "mikael baza": "",
     "vuk pavicevic": "",
-    "shim mheuka": ""
+    "shim mheuka": "",
+    "mika faye": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

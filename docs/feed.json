@@ -1,5 +1,53 @@
 [
  {
+  "id": "tg:FabrizioRomanoTG/65647",
+  "ts": "2026-09-01T00:45:42+00:00",
+  "kind": "deal",
+  "photo": "https://images.fotmob.com/image_resources/playerimages/1679949.png",
+  "stage": "Completed",
+  "player": "Lucca Brughmans",
+  "position": "Goalkeeper",
+  "age": "18",
+  "from_club": "Genk",
+  "to_club": "Liverpool",
+  "fee": "\u20ac35m (\u20ac33m plus \u20ac2m add-ons)",
+  "style": "\u2014",
+  "fit": "\u2014",
+  "source": "Fabrizio Romano",
+  "sources": [
+   "Fabrizio Romano"
+  ],
+  "srcTier": "tier1",
+  "summary": "Liverpool have completed a \u20ac35m transfer for 18-year-old Genk goalkeeper Lucca Brughmans and plan to loan him back to Genk for the season, contingent on whether backup goalkeeper Giorgi Mamardashvili is sold.",
+  "outlet": "asiantimes",
+  "url": "https://www.easterneye.biz/lucca-brughmans-liverpool-transfer-mamardashvili/",
+  "title": "Lucca Brughmans: Liverpool complete his \u20ac35m transfer, but where he plays this season isn't up to him"
+ },
+ {
+  "id": "4e42a373e93f9db145943dbea9cd336c",
+  "ts": "2026-09-01T00:45:39+00:00",
+  "kind": "interest",
+  "photo": "https://www.thesportsdb.com/images/media/player/cutout/vfg1pr1787690891.png/small",
+  "stage": "\u2014",
+  "player": "Tosin Adarabioyo",
+  "position": "\u2014",
+  "age": "\u2014",
+  "from_club": "Chelsea",
+  "to_club": "Tottenham Hotspur",
+  "fee": "\u2014",
+  "style": "Commanding left-footed center-back with strong physical presence and progressive passing ability from deep.",
+  "fit": "Would provide defensive solidity and left-side coverage to complement Tottenham's backline in a four-man defense.",
+  "source": "metro",
+  "sources": [
+   "metro"
+  ],
+  "srcTier": "standard",
+  "summary": "Tottenham have opened talks with Chelsea over a late deal for defender Tosin Adarabioyo after he was offered to Manchester United.",
+  "outlet": "metro",
+  "url": "https://metro.co.uk/2026/08/31/tottenham-open-talks-sign-chelsea-star-shock-man-utd-link-29501566/",
+  "title": "Tottenham open talks to sign Chelsea star after shock Man Utd link"
+ },
+ {
   "id": "96efe13c696ffedd7d5448b3a9b3e5ed",
   "ts": "2026-08-31T23:30:51+00:00",
   "kind": "deal",
@@ -652,30 +700,6 @@
   "outlet": "football-italia",
   "url": "https://football-italia.net/diego-carlos-serie-a-return-parma-fenerbahce/",
   "title": "Diego Carlos ready for Serie A return to Parma from Fenerbahce"
- },
- {
-  "id": "tg:FabrizioRomanoTG/65647",
-  "ts": "2026-08-31T09:30:36+00:00",
-  "kind": "deal",
-  "photo": "https://images.fotmob.com/image_resources/playerimages/1679949.png",
-  "stage": "Here we go",
-  "player": "Lucca Brughmans",
-  "position": "Goalkeeper",
-  "age": "18",
-  "from_club": "Genk",
-  "to_club": "Liverpool",
-  "fee": "\u20ac35m",
-  "style": "\u2014",
-  "fit": "\u2014",
-  "source": "Fabrizio Romano",
-  "sources": [
-   "Fabrizio Romano"
-  ],
-  "srcTier": "tier1",
-  "summary": "Liverpool have reached verbal agreement with Genk to sign 18-year-old goalkeeper Lucca Brughmans for \u20ac35m, with authorization for medical already granted and expected to join in summer 2027.",
-  "outlet": "Telegram @fabrizioromanotg",
-  "url": "https://t.me/FabrizioRomanoTG/65711",
-  "title": "\ud83d\udea8 \ud83d\udd34 Liverpool have reached verbal agreement with Genk to sign 18 year old goalkeeper Lucca Brughmans, here we go! Deal w"
  },
  {
   "id": "tg:FabrizioRomanoTG/65709",

@@ -1,7 +1,5 @@
 {
   "sent": [
-    "d023720a78013393f5b5e753935ca670",
-    "483617c53cd18ba62eb54b020fe67cb4",
     "a646299e0b356f524821b790dd8778bd",
     "12eea44192a6a3895c5a2f4321fe7d38",
     "77ccabbe6b341679c073d0e76f141c02",
@@ -1499,7 +1497,9 @@
     "a7365bd5345eadb6fcaed4671576fbad",
     "d19228f7d273d248c441ff876b1db965",
     "7f4424c569a116de117faea9838027be",
-    "45c3102fcbe4e4ebfd2555d4a59a2ec0"
+    "45c3102fcbe4e4ebfd2555d4a59a2ec0",
+    "4e42a373e93f9db145943dbea9cd336c",
+    "387f4539ca43ce3d607fb98e15182b17"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1806,7 +1806,7 @@
     "sarr -> juventus": 2,
     "baza -> barcelona": 2,
     "fofana -> lyon": 1,
-    "brughmans -> liverpool": 1,
+    "brughmans -> liverpool": 2,
     "carlos -> parma": 1,
     "s\u00f8rensen -> celtic": 1,
     "monga -> swansea": 1,
@@ -2080,11 +2080,10 @@
     "interest: kroupi -> arsenal",
     "interest: tosin -> tottenham",
     "interest: mudryk -> tottenham",
-    "interest: sanchez -> tottenham"
+    "interest: sanchez -> tottenham",
+    "interest: adarabioyo -> tottenham"
   ],
   "titles": [
-    "official: manchester united announce youngster\u2019s transfer to arsenal",
-    "how ian maatsen compares with lewis hall as man utd make transfer enquiry",
     "winger desperate to join liverpool as fsg continue talks over transfer",
     "rb leipzig set to pounce on chelsea target who they think is a bargain at \u20ac20m",
     "\u00a360m arsenal, liverpool winger battle explodes after julian alvarez snub",
@@ -2382,7 +2381,9 @@
     "romano delivers major green light on liverpool forward signing amid gakpo, sarr ",
     "alongside sarr: liverpool also want to sign 'unstoppable' winger before deadline",
     "official: \u00a322m deal completed in worrying news for crystal palace fans as mid ta",
-    "romano gives \u201chere we go\u201d for striker transfer to spanish giants"
+    "romano gives \u201chere we go\u201d for striker transfer to spanish giants",
+    "tottenham open talks to sign chelsea star after shock man utd link",
+    "lucca brughmans: liverpool complete his \u20ac35m transfer, but where he plays this s"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2682,12 +2683,12 @@
     "jack grealish": "https://r2.thesportsdb.com/images/media/player/cutout/7ckk5a1756976762.png/small",
     "robert sanchez": "https://www.thesportsdb.com/images/media/player/cutout/tp7tca1787691371.png/small",
     "arijon ibrahimovic": "https://images.fotmob.com/image_resources/playerimages/1327150.png",
-    "vuk pavicevic": "",
     "mika faye": "",
     "dinis": "",
-    "mikael baza": ""
+    "mikael baza": "",
+    "vuk pavicevic": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

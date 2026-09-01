@@ -1,6 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/65075",
     "509691edc28eba3f052fc0e48e679601",
     "1a1d9e7f37e208f2dc532433b6ef41d8",
     "04f4955068e6902c58f133e2c4a99452",
@@ -1499,7 +1498,8 @@
     "bde3fd7842635e2beb9ac06aec90631f",
     "aeeae54b83747b96c04f065ffc166eee",
     "e8f5254388869312b233f394abc4101f",
-    "1abf1a72f467bd5f8bd4f95f358ec978"
+    "1abf1a72f467bd5f8bd4f95f358ec978",
+    "tg:FabrizioRomanoTG/65829"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2089,7 +2089,6 @@
     "interest: willian -> liverpool"
   ],
   "titles": [
-    "future of \u2018exceptional\u2019 liverpool star confirmed, he\u2019s played his last game at a",
     "fabrizio romano gives update on man utd replacing zirkzee with new striker",
     "alejandro balde transfer decision made by manchester united",
     "\ud83d\udea8 \ud83d\udfe0 \u26ab\ufe0f excl: hull city reach verbal agreement to sign robinio vaz, here we go! i",
@@ -2388,7 +2387,8 @@
     "\ud83d\udd34 \u26aa\ufe0f exclusive story, confirmed: marc guiu signs in as new rb leipzig player \ud83c\uddea\ud83c\uddf8 ",
     "done deal: leeds star spotted in kit of new club as footage emerges",
     "robert sanchez to leave chelsea just days after blues signed emi martinez as ces",
-    "como agreement for sanchez on loan from chelsea"
+    "como agreement for sanchez on loan from chelsea",
+    "\ud83d\udea8 \ud83d\udd35 exclusive: chelsea send official bid to as monaco for lamine camara worth \u20ac4"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2688,12 +2688,12 @@
     "arijon ibrahimovic": "https://images.fotmob.com/image_resources/playerimages/1327150.png",
     "matias fernandez pardo": "https://r2.thesportsdb.com/images/media/player/cutout/8vhxnr1766077473.png/small",
     "estevao willian": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Estevao-Palmeiras-Liverpool-abr24_%28cropped%29.jpg/330px-Estevao-Palmeiras-Liverpool-abr24_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "vuk pavicevic": "",
     "mika faye": "",
     "dinis": "",
-    "mikael baza": ""
+    "mikael baza": "",
+    "vuk pavicevic": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

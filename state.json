@@ -1,7 +1,5 @@
 {
   "sent": [
-    "ce1099d6cd909b9ec502166ae216e15b",
-    "7e46ead20619571b133afb97b5a227a3",
     "4215279736044f114555fb50ea58ec10",
     "33627bb867d6265161a54ef4e6b724bd",
     "19f418d0af83b0aedd7ae832a31eac11",
@@ -1499,7 +1497,9 @@
     "db5982693b7bd1a6fb41c6f34699149f",
     "712d3782f9e87a5ed64266d9b2e584af",
     "8bca92a9d4673aaf57763164f1c407bb",
-    "tg:FabrizioRomanoTG/65908"
+    "tg:FabrizioRomanoTG/65908",
+    "79add1e149e44b97d3817f761ea7df61",
+    "c695489d5c8e4db3eebc9eadd0d9e294"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2104,8 +2104,6 @@
     "interest: tagliafico -> atletico madrid"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83d\udfe1 \ud83d\udd34 galatasaray have received now the authorization for deniz gul to travel to",
-    "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f understand fulham have opened official club to club talks with eintracht",
     "liverpool news: \u00a360m ace 'in talks with reds' as virgil van dijk gives verdict o",
     "\u201che wants to stay\u201d \u2013 father confirms liverpool player has no desire to leave",
     "manchester united consider barcelona star alejandro balde deal too expensive \u2013 r",
@@ -2403,7 +2401,9 @@
     "chelsea learn fate of \u00a338m offer for liverpool target as fabrizio romano makes e",
     "sunderland agree deal for arsenal winger target",
     "real reason malick fofana is joining sunderland instead of arsenal revealed",
-    "\ud83d\udea8 \ud83e\ude75 official: enzo fernandez joins manchester city on \u00a3125m deal from chelsea ht"
+    "\ud83d\udea8 \ud83e\ude75 official: enzo fernandez joins manchester city on \u00a3125m deal from chelsea ht",
+    "fulham open talks over late move for bayern defender",
+    "fulham could make late move for bayern munich\u2019s sacha boey"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2702,13 +2702,13 @@
     "mykhailo mudryk": "https://www.thesportsdb.com/images/media/player/cutout/uoz87a1787728061.png/small",
     "kevin danso": "https://r2.thesportsdb.com/images/media/player/cutout/unhinl1739274856.png/small",
     "ben chilwell": "https://r2.thesportsdb.com/images/media/player/cutout/hmc0tf1766054345.png/small",
-    "vuk pavicevic": "",
     "shim mheuka": "",
     "mika faye": "",
     "dinis": "",
-    "mikael baza": ""
+    "mikael baza": "",
+    "vuk pavicevic": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 5,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

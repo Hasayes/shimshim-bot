@@ -1,6 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/65045",
     "tg:FabrizioRomanoTG/65046",
     "tg:FabrizioRomanoTG/65048",
     "tg:FabrizioRomanoTG/65049",
@@ -1499,7 +1498,8 @@
     "d8c863d30d7eb9c2b9a6451e70579d53",
     "685ffd715dbe5dbd7cb6272d8c5ab6f3",
     "tg:FabrizioRomanoTG/65817",
-    "tg:FabrizioRomanoTG/65818"
+    "tg:FabrizioRomanoTG/65818",
+    "b6726df3ad977f7bbcb6250b1ad8b905"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2088,7 +2088,6 @@
     "interest: willian -> liverpool"
   ],
   "titles": [
-    "liverpool contact agents of premier league star as cody gakpo exit looms",
     "romano: newcastle chiefs doing everything to sign explosive star before deadline",
     "ian maatsen to manchester united is about to end before it even began",
     "\u2018we never know \u2019 \u2013 romano not completely ruling out liverpool hijack for \u00a351m mi",
@@ -2387,7 +2386,8 @@
     "man city close in on \u00a3185m double deal as ornstein reveals \u2018agreement reached\u2019",
     "deal agreed: man city gazump tottenham to sign iliman ndiaye, medical booked",
     "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f conrad harder deal with rc strasbourg has been completed loan deal from r",
-    "\ud83d\udea8 \ud83d\udfe1 \u26ab\ufe0f exclusive: borussia dortmund reach verbal agreement to sign ethan nwaneri"
+    "\ud83d\udea8 \ud83d\udfe1 \u26ab\ufe0f exclusive: borussia dortmund reach verbal agreement to sign ethan nwaneri",
+    "everton to receive more money as deal agreed for 'incredible' star's exit report"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2686,13 +2686,13 @@
     "robert sanchez": "https://www.thesportsdb.com/images/media/player/cutout/tp7tca1787691371.png/small",
     "arijon ibrahimovic": "https://images.fotmob.com/image_resources/playerimages/1327150.png",
     "matias fernandez pardo": "https://r2.thesportsdb.com/images/media/player/cutout/8vhxnr1766077473.png/small",
-    "dinis": "",
     "estevao willian": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Estevao-Palmeiras-Liverpool-abr24_%28cropped%29.jpg/330px-Estevao-Palmeiras-Liverpool-abr24_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "mikael baza": "",
     "vuk pavicevic": "",
-    "mika faye": ""
+    "mika faye": "",
+    "dinis": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

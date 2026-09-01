@@ -1,6 +1,5 @@
 {
   "sent": [
-    "edf20e0c5c0e2612e144202b1906e097",
     "60bc11cb07daadbfc5a18a79a5e1ab47",
     "fe4e24e5677bb0c1e9c0d28e8d593224",
     "362f46cda58b0dc2397c8dc839f1f59d",
@@ -1499,7 +1498,8 @@
     "2c6bb75a6c7b5beb133e5e63e063a0e4",
     "18c507575ef01cfa43598b153b9b3d90",
     "2fbe2d81a4f2c2bb846c032ea89f913d",
-    "tg:FabrizioRomanoTG/65870"
+    "tg:FabrizioRomanoTG/65870",
+    "4eced0114a72b963f23398c50df94cca"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2097,7 +2097,6 @@
     "interest: tagliafico -> atletico madrid"
   ],
   "titles": [
-    "\u2018deal on\u2019 \u2013 fabrizio romano drops exciting liverpool update as reds make officia",
     "\ud83d\udea8 \ud83c\uddfa\ud83c\udde6 mykhaylo mudryk set to leave chelsea before the deadline, loan deal being d",
     "arsenal handed julian alvarez boost as 'atletico open talks to sign replacement ",
     "ollie watkins\u2019 al hilal arrival could reportedly lead to karim benzema\u2019s retirem",
@@ -2396,7 +2395,8 @@
     "folarin balogun to become second most expensive usmnt player in \u20ac50m everton mov",
     "jack grealish to undergo medical as everton do something no other club did for t",
     "everton do something no other club did to sign pl star on loan, medical today re",
-    "\ud83d\udea8 \ud83d\udfe1 \ud83d\udd35 jean matteo bahoya to leeds united, here we go! deal agreed with also auth"
+    "\ud83d\udea8 \ud83d\udfe1 \ud83d\udd35 jean matteo bahoya to leeds united, here we go! deal agreed with also auth",
+    "big moves could be made across europe ahead of deadline, here are a few you migh"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2693,15 +2693,15 @@
     "nicolas tagliafico": "https://r2.thesportsdb.com/images/media/player/cutout/4z43fy1766146600.png/small",
     "claudio echeverri": "https://r2.thesportsdb.com/images/media/player/cutout/jbdnk91756315963.png/small",
     "jose gimenez": "https://r2.thesportsdb.com/images/media/player/cutout/j2c2gn1762287634.png/small",
-    "shim mheuka": "",
     "mika faye": "",
     "dario essugo": "https://www.thesportsdb.com/images/media/player/cutout/sgwvhr1787727807.png/small",
     "dinis": "",
     "mikael baza": "",
     "jean matteo bahoya": "https://r2.thesportsdb.com/images/media/player/cutout/fp3ti91762287362.png/small",
-    "vuk pavicevic": ""
+    "vuk pavicevic": "",
+    "shim mheuka": ""
   },
-  "photo_repair_idx": 5,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

@@ -1,9 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/65071",
-    "21d5ae4767b64cb1aecf499bc40cf860",
-    "de4964976405c7ad0028cc6e3ab5f76f",
-    "ccdf099d7c7a9531693b360c6443c5ca",
     "tg:FabrizioRomanoTG/65073",
     "936e51cfad581a6a77ad6b17d86545f4",
     "751876b467912bd02691876ff96e7f6c",
@@ -1499,7 +1495,11 @@
     "c19139549073538683f27b0ffd242307",
     "tg:FabrizioRomanoTG/65825",
     "4ecd4dbeba7a0c3d05a6162dba7b34ff",
-    "tg:FabrizioRomanoTG/65826"
+    "tg:FabrizioRomanoTG/65826",
+    "a44763148bdd405c8b7fab653b72f388",
+    "760600532d71d7fef129b2c49b6a09c2",
+    "e6238819f979cf3682de7d41a95a205d",
+    "tg:FabrizioRomanoTG/65827"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2088,10 +2088,6 @@
     "interest: willian -> liverpool"
   ],
   "titles": [
-    "tottenham receive \u2018green light\u2019 from 26 year old target as double transfer plan ",
-    "\ud83d\udea8 \ud83d\udfe3 fiorentina have reached verbal agreement with everton to sign beto, here we ",
-    "\ud83d\udd35 \u26aa\ufe0f \ud83c\uddee\ud83c\uddf9 moise kean will undergo medical and sign a five year deal at como this w",
-    "\ud83d\udea8 \ud83c\uddf3\ud83c\uddf1 joshua zirkzee has turned down a move to fiorentina after \u20ac5m loan plus \u20ac30",
     "\ud83d\udea8 \ud83d\udfe3 beto will travel to florence on monday morning for medical tests and contrac",
     "@predict_palace @bobbymanzi he\u2019s already signed with chelsea mate he\u2019s gonna be ",
     "\ud83d\udd35 \ud83d\udd34 honest ahanor will undergo medical at crystal palace today chelsea already s",
@@ -2387,7 +2383,11 @@
     "liverpool respond to \u00a330m nottingham forest bid for midfielder as cody gakpo rea",
     "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f matias fernandez pardo deal: all documents have been signed by lille and",
     "sir jim ratcliffe officially signs mohammed amoura for season",
-    "\ud83d\udea8 \ud83d\udc2f exclusive: hull city reach verbal agreement to sign brooke norton cuffy from"
+    "\ud83d\udea8 \ud83d\udc2f exclusive: hull city reach verbal agreement to sign brooke norton cuffy from",
+    "update on manchester city and their pursuit of this liverpool winger: what will ",
+    "fabrizio romano confirms tottenham \u2018verbal agreement\u2019 reached with chelsea for t",
+    "tottenham \u2018reach agreement with chelsea\u2019 for two stars \u2013 one is about to undergo",
+    "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 exclusive: genoa agree deal to sign cody drameh from hull city, here we go"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2687,12 +2687,12 @@
     "arijon ibrahimovic": "https://images.fotmob.com/image_resources/playerimages/1327150.png",
     "matias fernandez pardo": "https://r2.thesportsdb.com/images/media/player/cutout/8vhxnr1766077473.png/small",
     "estevao willian": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Estevao-Palmeiras-Liverpool-abr24_%28cropped%29.jpg/330px-Estevao-Palmeiras-Liverpool-abr24_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "mika faye": "",
     "dinis": "",
     "mikael baza": "",
-    "vuk pavicevic": ""
+    "vuk pavicevic": "",
+    "mika faye": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

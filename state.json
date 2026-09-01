@@ -1,9 +1,5 @@
 {
   "sent": [
-    "ba8b2da6fd0807765ac877b346853a74",
-    "tg:FabrizioRomanoTG/65118",
-    "tg:FabrizioRomanoTG/65119",
-    "d5c61bdf53b1fcde18bd232ea48f02d7",
     "4ec17abd673459a44985bc8ed11a4481",
     "0312556d4e31b576cec0a2a3756c5cb5",
     "a8f292f166889b20a72cb7c100b788f9",
@@ -1499,7 +1495,11 @@
     "6490d10ace7effb1ba23cf5a74c850ef",
     "tg:FabrizioRomanoTG/65888",
     "tg:FabrizioRomanoTG/65889",
-    "tg:FabrizioRomanoTG/65891"
+    "tg:FabrizioRomanoTG/65891",
+    "7f5f36d5c747a1cc130755ee29d599ac",
+    "2c7ff9455eb2cf8f5f2ae149962e2c46",
+    "94bea28189ac76e8dd6cbab92038ddc8",
+    "tg:FabrizioRomanoTG/65893"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2102,10 +2102,6 @@
     "interest: tagliafico -> atletico madrid"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83d\udc2f robinio vaz has authorization from as roma to undergo medical and sign in as",
-    "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 samuel mbangula to bologna, deal almost done with green light next for med",
-    "\ud83d\udea8 \u26ab\ufe0f \ud83d\udd35 atalanta have agreed deal to sign jonathan rowe from bologna, here we go!",
-    "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f juventus are in direct talks with nico tagliafico\u2019s camp over possible m",
     "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f napoli have agreed deal to sign 21 year old striker dinis from sion as in",
     "seven transfers liverpool can complete before deadline as barcola joins and \u00a385m",
     "rafael leao\u2019s ac milan to galatasaray fee and salary officially revealed as amor",
@@ -2401,7 +2397,11 @@
     "liverpool news: \u00a360m transfer update as 'fee agreed for winger' after massive u ",
     "\ud83d\udea8 \ud83d\udd35 everton have called manchester united for joshua zirkzee in case folarin bal",
     "\ud83e\ude75 \ud83c\uddf8\ud83c\uddf3 official, confirmed iliman ndiaye has joined manchester city on \u00a365m packag",
-    "\ud83d\udea8 \ud83d\udd35 exclusive: chelsea agree deal in principle to sign lamine camara from as mon"
+    "\ud83d\udea8 \ud83d\udd35 exclusive: chelsea agree deal in principle to sign lamine camara from as mon",
+    "chelsea midfield deal collapses as alternative move \u2018here we go\u2019 confirmed \u2013 fab",
+    "'here we go' romano: hull city agree \u00a312m deal for second serie a star after vaz",
+    "everton push deadline plans forward with grealish loan return and balogun move a",
+    "\ud83d\udd35 \ud83d\udca3 lamine camara currently undergoing a medical under chelsea staff supervision"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2700,13 +2700,13 @@
     "dani ceballos": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Dani_Ceballos%2C_Real_Madrid%2C_2022.jpg/330px-Dani_Ceballos%2C_Real_Madrid%2C_2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "mykhailo mudryk": "https://www.thesportsdb.com/images/media/player/cutout/uoz87a1787728061.png/small",
     "kevin danso": "https://r2.thesportsdb.com/images/media/player/cutout/unhinl1739274856.png/small",
-    "vuk pavicevic": "",
     "shim mheuka": "",
     "mika faye": "",
     "dinis": "",
-    "mikael baza": ""
+    "mikael baza": "",
+    "vuk pavicevic": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 5,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

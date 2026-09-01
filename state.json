@@ -1,9 +1,5 @@
 {
   "sent": [
-    "12ba4ebe209b780cd16985ad5b04e0c8",
-    "5480fea47f4b2b7a7d1efd320ae849b9",
-    "363f44a32e950ed23c0bab887eff3c5c",
-    "0a088d4a15e9f8ad44baed69ed39c758",
     "edf20e0c5c0e2612e144202b1906e097",
     "60bc11cb07daadbfc5a18a79a5e1ab47",
     "fe4e24e5677bb0c1e9c0d28e8d593224",
@@ -1499,7 +1495,11 @@
     "cb3811c417d9b979e7f58129d3001863",
     "tg:FabrizioRomanoTG/65867",
     "tg:FabrizioRomanoTG/65869",
-    "df19351e69152ec83dcfa486be694baa"
+    "df19351e69152ec83dcfa486be694baa",
+    "2c6bb75a6c7b5beb133e5e63e063a0e4",
+    "18c507575ef01cfa43598b153b9b3d90",
+    "2fbe2d81a4f2c2bb846c032ea89f913d",
+    "tg:FabrizioRomanoTG/65870"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1834,7 +1834,8 @@
     "echeverri -> benfica": 1,
     "fernandez -> manchester city": 1,
     "gimenez -> deportivo de a coruna": 1,
-    "essugo -> rc strasbourg": 1
+    "essugo -> rc strasbourg": 1,
+    "bahoya -> leeds": 1
   },
   "interest": [
     "interest: alvarez -> arsenal",
@@ -2096,10 +2097,6 @@
     "interest: tagliafico -> atletico madrid"
   ],
   "titles": [
-    "hansi flick wanted barcelona to sign a striker this summer",
-    "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f juventus remain in active talks for nick woltemade on loan from newcastl",
-    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f serie a side ac monza reach verbal agreement to sign exequiel zeballos fr",
-    "rt @fabrizioromano : \ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f excl: juventus agree deal to sign pape matar sarr, ",
     "\u2018deal on\u2019 \u2013 fabrizio romano drops exciting liverpool update as reds make officia",
     "\ud83d\udea8 \ud83c\uddfa\ud83c\udde6 mykhaylo mudryk set to leave chelsea before the deadline, loan deal being d",
     "arsenal handed julian alvarez boost as 'atletico open talks to sign replacement ",
@@ -2395,11 +2392,14 @@
     "man united transfer latest: alejandro balde talks held as marcus rashford future",
     "\ud83d\udea8 \ud83d\udd35 rc strasbourg agree deal to sign dario essugo from chelsea, here we go! all ",
     "\ud83d\udea8 \ud83d\udfe3 excl: anderlecht have agreed on surprise deal to sign oleg reabciuk medical ",
-    "conditions emerge for man utd to strike deadline day sale of \u00a332m star as aston "
+    "conditions emerge for man utd to strike deadline day sale of \u00a332m star as aston ",
+    "folarin balogun to become second most expensive usmnt player in \u20ac50m everton mov",
+    "jack grealish to undergo medical as everton do something no other club did for t",
+    "everton do something no other club did to sign pl star on loan, medical today re",
+    "\ud83d\udea8 \ud83d\udfe1 \ud83d\udd35 jean matteo bahoya to leeds united, here we go! deal agreed with also auth"
   ],
   "tg_update_offset": 263617426,
   "photos": {
-    "victor munoz": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Victor_Munoz_France_v_Spain_7.24.26-017.jpg/330px-Victor_Munoz_France_v_Spain_7.24.26-017.jpg",
     "jhon duran": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Jhon_Dur%C3%A1n%2C_Esteghlal_FC_vs_Al-Nassr_FC_%28ACLElite%29%3B_3_Mar_2025.png/330px-Jhon_Dur%C3%A1n%2C_Esteghlal_FC_vs_Al-Nassr_FC_%28ACLElite%29%3B_3_Mar_2025.png",
     "marc-andre ter stegen": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Marc-Andre_Ter_Stegen_ACCI_FCBARCELONA_Turisme_Catalunya_gira_pretemporada_CATPRESS.jpg/330px-Marc-Andre_Ter_Stegen_ACCI_FCBARCELONA_Turisme_Catalunya_gira_pretemporada_CATPRESS.jpg",
     "antonio silva": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ant%C3%B3nio_Silva_USMNT_v_Portugal_Mar_31_2026-19_%28cropped%29.jpg/330px-Ant%C3%B3nio_Silva_USMNT_v_Portugal_Mar_31_2026-19_%28cropped%29.jpg",
@@ -2692,15 +2692,16 @@
     "estevao willian": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Estevao-Palmeiras-Liverpool-abr24_%28cropped%29.jpg/330px-Estevao-Palmeiras-Liverpool-abr24_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "nicolas tagliafico": "https://r2.thesportsdb.com/images/media/player/cutout/4z43fy1766146600.png/small",
     "claudio echeverri": "https://r2.thesportsdb.com/images/media/player/cutout/jbdnk91756315963.png/small",
-    "vuk pavicevic": "",
     "jose gimenez": "https://r2.thesportsdb.com/images/media/player/cutout/j2c2gn1762287634.png/small",
     "shim mheuka": "",
     "mika faye": "",
     "dario essugo": "https://www.thesportsdb.com/images/media/player/cutout/sgwvhr1787727807.png/small",
     "dinis": "",
-    "mikael baza": ""
+    "mikael baza": "",
+    "jean matteo bahoya": "https://r2.thesportsdb.com/images/media/player/cutout/fp3ti91762287362.png/small",
+    "vuk pavicevic": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 5,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",
@@ -2891,6 +2892,7 @@
     "fc augsburg": "https://r2.thesportsdb.com/images/media/team/badge/xqyyvq1473453233.png/small",
     "hamburger sv": "https://images.fotmob.com/image_resources/logo/teamlogo/9790.png",
     "lille osc": "https://r2.thesportsdb.com/images/media/team/badge/2giize1534005340.png/small",
-    "deportivo de a coruna": "https://r2.thesportsdb.com/images/media/team/badge/62bvwv1783013156.png/small"
+    "deportivo de a coruna": "https://r2.thesportsdb.com/images/media/team/badge/62bvwv1783013156.png/small",
+    "eintracht": "https://r2.thesportsdb.com/images/media/team/badge/o65mpq1599589711.png/small"
   }
 }

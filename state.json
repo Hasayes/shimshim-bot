@@ -1,9 +1,5 @@
 {
   "sent": [
-    "43133f074e869d36f3caebd6500e4cbf",
-    "cc65c35146b04d4012c72c6189f60491",
-    "da7fe8b7dd85937b4e4426e61f99a092",
-    "860a0f46a1945419b0bfff919b2c82bd",
     "0411217800bf49656973ec9ee5915e31",
     "a3b8c650dfcc2c9ceb5fff91b72c1a6c",
     "d05b625c4bbc143da9ec880cd03b264c",
@@ -1499,7 +1495,11 @@
     "130de78a0c0d58a044d6cb34ac5b1bcc",
     "51f7381ec84221218f69d57d040831c5",
     "15a816364771b593d7a9e62453840344",
-    "efcf1fbd795f1761519fc03d60850883"
+    "efcf1fbd795f1761519fc03d60850883",
+    "7b620a82bcfd5cbfb41fe48900e8ac91",
+    "8e21e86f55f0d5280e49bd0ef82ebef3",
+    "a388e459e8dd6947704e77c430619cd9",
+    "1b6fcff1780891fb3fd0f9250789c47d"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2086,10 +2086,6 @@
     "interest: adarabioyo -> tottenham"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f fc porto agree deal to sign brazilian talent gabriel mec, here we go! \ud83c\udde7\ud83c\uddf7 ",
-    "\ud83d\udea8 \ud83d\udd34 liverpool have made official club to club contact with genk to sign lucca br",
-    "\ud83d\udea8 \ud83d\udfe3 \ud83d\udd35 aston villa have reached a verbal agreement to sign taylor harwood bellis ",
-    "rt @krakenfx : \ud83d\udea8 \u23f3 kraken deadline day! only 24hrs remain! today's the final day",
     "\ud83d\udea8 \ud83d\udd35 official, confirmed ollie watkins has joined al hilal as he leaves aston vil",
     "the attacker that manchester city want to bolster their squad looks to have been",
     "done deal: el aynaoui moves to leipzig, de roon joins roma",
@@ -2385,7 +2381,11 @@
     "manchester city looks to have pivoted as they bid to bolster their attack",
     "sensational cody gakpo liverpool transfer u turn as virgil van dijk wish granted",
     "ornstein: arsenal hold talks to sign belgian forward, he wants to join",
-    "better than tosin: tottenham must go all out to sign 'immense' star after ndiaye"
+    "better than tosin: tottenham must go all out to sign 'immense' star after ndiaye",
+    "left winger gives \u2018green light to arsenal\u2019 \u2013 \u2018discussions ongoing over personal ",
+    "man utd decide on alejandro balde transfer after meeting with barcelona",
+    "barca to pursue alvarez deal as jesus plan made clear euro transfer news",
+    "arsenal plot late transfer hijack for tottenham target as gunners make deadline "
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2685,12 +2685,12 @@
     "robert sanchez": "https://www.thesportsdb.com/images/media/player/cutout/tp7tca1787691371.png/small",
     "arijon ibrahimovic": "https://images.fotmob.com/image_resources/playerimages/1327150.png",
     "matias fernandez pardo": "https://r2.thesportsdb.com/images/media/player/cutout/8vhxnr1766077473.png/small",
-    "vuk pavicevic": "",
     "mika faye": "",
     "dinis": "",
-    "mikael baza": ""
+    "mikael baza": "",
+    "vuk pavicevic": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

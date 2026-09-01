@@ -1,5 +1,29 @@
 [
  {
+  "id": "b3dfa39d91555f725931f998384da4b2",
+  "ts": "2026-09-01T18:30:44+00:00",
+  "kind": "deal",
+  "photo": "https://www.thesportsdb.com/images/media/player/cutout/uoz87a1787728061.png/small",
+  "stage": "Here we go",
+  "player": "Mykhailo Mudryk",
+  "position": "\u2014",
+  "age": "\u2014",
+  "from_club": "Chelsea",
+  "to_club": "Tottenham Hotspur",
+  "fee": "\u00a375m",
+  "style": "Direct, pacey winger with sharp technical ability and an eye for goal from the flanks.",
+  "fit": "Can operate as a left-sided attacking threat in Tottenham's system, adding pace and creativity to their forward play.",
+  "source": "football365",
+  "sources": [
+   "football365"
+  ],
+  "srcTier": "standard",
+  "summary": "Mykhailo Mudryk has been given permission by Chelsea to undergo his medical at Tottenham, with a \u00a375m buy option revealed as part of the arrangement.",
+  "outlet": "football365",
+  "url": "https://www.football365.com/news/jacobs-confirms-two-tottenham-medicals-as-75m-buy-option-is-revealed",
+  "title": "Jacobs confirms two Tottenham \u2018medicals\u2019 as \u00a375m buy option is revealed"
+ },
+ {
   "id": "tg:FabrizioRomanoTG/65875",
   "ts": "2026-09-01T18:00:53+00:00",
   "kind": "deal",

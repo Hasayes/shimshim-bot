@@ -1,6 +1,5 @@
 {
   "sent": [
-    "ffbbfe8975b0d5899859cd3148561d13",
     "7fd911aa07296d8c4f715e456473f35a",
     "666882be5278a457f3573aa92806ace2",
     "cea08b4a0c91823c34c9cb2c03c80ac1",
@@ -1499,7 +1498,8 @@
     "tg:FabrizioRomanoTG/65876",
     "fff08e371b03ef22430dadf3dbbc98dd",
     "6a834e8b6bc56e9134d5244138b537a2",
-    "e20ca4e478450f7216665c66222335ab"
+    "e20ca4e478450f7216665c66222335ab",
+    "b3dfa39d91555f725931f998384da4b2"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1838,7 +1838,8 @@
     "bahoya -> leeds": 1,
     "balogun -> everton": 1,
     "kehrer -> ajax": 1,
-    "ceballos -> real betis": 1
+    "ceballos -> real betis": 1,
+    "mudryk -> tottenham": 1
   },
   "interest": [
     "interest: alvarez -> arsenal",
@@ -2100,7 +2101,6 @@
     "interest: tagliafico -> atletico madrid"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83c\uddf9\ud83c\uddf7 corum fk have agreed deal to sign youssoufa moukoko from copenhagen, here w",
     "juventus agree personal terms with pape matar sarr as tottenham negotiate buy cl",
     "\ud83d\udea8 \ud83c\udde7\ud83c\uddea alexis saelemaekers will not join atalanta or any other club in next 24h no",
     "diego carlos ready for serie a return to parma from fenerbahce",
@@ -2399,11 +2399,11 @@
     "\ud83d\udea8 official: liverpool have agreed a deal to sign 18 year old goalkeeper lucca br",
     "after mudryk and tosin: tottenham considering another signing",
     "sunderland face transfer disappointment as \u00a3100m attacker nears move to premier ",
-    "agreement reached: chelsea star on the verge of tottenham"
+    "agreement reached: chelsea star on the verge of tottenham",
+    "jacobs confirms two tottenham \u2018medicals\u2019 as \u00a375m buy option is revealed"
   ],
   "tg_update_offset": 263617426,
   "photos": {
-    "luka vuskovic": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Luka_Vuskovic_Croatia_v_Portugal_2_July_2026-020.jpg/330px-Luka_Vuskovic_Croatia_v_Portugal_2_July_2026-020.jpg",
     "warren zaire-emery": "https://r2.thesportsdb.com/images/media/player/cutout/fjxbac1766335583.png/small",
     "raul asencio": "https://r2.thesportsdb.com/images/media/player/cutout/7pk52z1768499125.png/small",
     "franco mastantuono": "https://r2.thesportsdb.com/images/media/player/cutout/pgq83k1762604333.png/small",
@@ -2695,16 +2695,17 @@
     "jose gimenez": "https://r2.thesportsdb.com/images/media/player/cutout/j2c2gn1762287634.png/small",
     "dario essugo": "https://www.thesportsdb.com/images/media/player/cutout/sgwvhr1787727807.png/small",
     "jean matteo bahoya": "https://r2.thesportsdb.com/images/media/player/cutout/fp3ti91762287362.png/small",
-    "shim mheuka": "",
     "folarin balogun": "https://r2.thesportsdb.com/images/media/player/cutout/ic7kq51781348516.png/small",
     "thilo kehrer": "https://r2.thesportsdb.com/images/media/player/cutout/f1a7kt1766238123.png/small",
     "mika faye": "",
     "dani ceballos": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Dani_Ceballos%2C_Real_Madrid%2C_2022.jpg/330px-Dani_Ceballos%2C_Real_Madrid%2C_2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "dinis": "",
     "mikael baza": "",
-    "vuk pavicevic": ""
+    "vuk pavicevic": "",
+    "mykhailo mudryk": "https://www.thesportsdb.com/images/media/player/cutout/uoz87a1787728061.png/small",
+    "shim mheuka": ""
   },
-  "photo_repair_idx": 5,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

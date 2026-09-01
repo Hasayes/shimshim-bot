@@ -1,7 +1,5 @@
 {
   "sent": [
-    "0411217800bf49656973ec9ee5915e31",
-    "a3b8c650dfcc2c9ceb5fff91b72c1a6c",
     "d05b625c4bbc143da9ec880cd03b264c",
     "tg:FabrizioRomanoTG/65020",
     "824531307bdc0ce47067dad89e7d3479",
@@ -1499,7 +1497,9 @@
     "7b620a82bcfd5cbfb41fe48900e8ac91",
     "8e21e86f55f0d5280e49bd0ef82ebef3",
     "a388e459e8dd6947704e77c430619cd9",
-    "1b6fcff1780891fb3fd0f9250789c47d"
+    "1b6fcff1780891fb3fd0f9250789c47d",
+    "126f26f2d4d35e3fa309623846763677",
+    "f370c0ac25f83da27a837132e159a4f9"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2086,8 +2086,6 @@
     "interest: adarabioyo -> tottenham"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83d\udd35 official, confirmed ollie watkins has joined al hilal as he leaves aston vil",
-    "the attacker that manchester city want to bolster their squad looks to have been",
     "done deal: el aynaoui moves to leipzig, de roon joins roma",
     "confirmed: de roon reunites with gasperini, dutchman will land in rome at 12 10 ",
     "confirmed: barcelona defender joins real sociedad on a permanent deal",
@@ -2385,7 +2383,9 @@
     "left winger gives \u2018green light to arsenal\u2019 \u2013 \u2018discussions ongoing over personal ",
     "man utd decide on alejandro balde transfer after meeting with barcelona",
     "barca to pursue alvarez deal as jesus plan made clear euro transfer news",
-    "arsenal plot late transfer hijack for tottenham target as gunners make deadline "
+    "arsenal plot late transfer hijack for tottenham target as gunners make deadline ",
+    "man utd make final barcelona transfer decision after crunch talks ahead of deadl",
+    "sarr alternative: liverpool hold talks to sign 'world class' winger"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2685,12 +2685,12 @@
     "robert sanchez": "https://www.thesportsdb.com/images/media/player/cutout/tp7tca1787691371.png/small",
     "arijon ibrahimovic": "https://images.fotmob.com/image_resources/playerimages/1327150.png",
     "matias fernandez pardo": "https://r2.thesportsdb.com/images/media/player/cutout/8vhxnr1766077473.png/small",
-    "mika faye": "",
     "dinis": "",
     "mikael baza": "",
-    "vuk pavicevic": ""
+    "vuk pavicevic": "",
+    "mika faye": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

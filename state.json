@@ -1,8 +1,5 @@
 {
   "sent": [
-    "a3bf60dabf4c166038f9fe34304fc167",
-    "7cc74c4c60ec185e1a570d33b3d7c2d0",
-    "5412cbb8905ba90fa7922aecabe0e173",
     "63db8df130d3b8c4189ea4de4d18c0c8",
     "e9716ad30b3222506574a19798b0632c",
     "b439a1863b0097579f4840c02c73509a",
@@ -1499,7 +1496,10 @@
     "8c3d48b9e43df0c65d0e7d57594b994b",
     "tg:FabrizioRomanoTG/65879",
     "99367a0fd14e8dd1048a83becc662795",
-    "tg:FabrizioRomanoTG/65881"
+    "tg:FabrizioRomanoTG/65881",
+    "6e6155e01b6cb090df5db2443652d59a",
+    "28c5de58ee56b3acd6cb6d7351aaaf79",
+    "df81608212d65ce58f4cd682eafe2eeb"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2101,8 +2101,6 @@
     "interest: tagliafico -> atletico madrid"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83d\udfe2 \u26aa\ufe0f oliver s\u00f8rensen leaves parma and joins celtic on initial loan deal with b",
-    "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f exclusive: swansea agree deal to sign jeremy monga from manchester city,",
     "\ud83d\udea8 \ud83d\udd34 liverpool agree deal to sign djylian n'guessan from saint etienne, here we g",
     "\ud83d\udea8 \ud83d\udd35 chelsea made contact with manu kone agents as one of the options for late mi",
     "\ud83d\udfe3 \ud83d\udd35 aston villa consider ian maatsen as key player; untouchable and he will not ",
@@ -2400,7 +2398,9 @@
     "arsenal news: last gasp julian alvarez \u00a3128m transfer twist as deadline day talk",
     "\ud83d\udd34 \u26aa\ufe0f \ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udffc official and never in doubt: neil el aynaoui signs in as new rb leipz",
     "liverpool make final transfer decision on cody gakpo in response to \u00a380m man cit",
-    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f brighton reach verbal agreement to sign chema andres, here we go! stuttga"
+    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f brighton reach verbal agreement to sign chema andres, here we go! stuttga",
+    "deadline day live: every completed premier league deal as the clock ticks down",
+    "sunderland agree loan transfer for kevin danso as tottenham let wantaway defende"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2698,14 +2698,14 @@
     "folarin balogun": "https://r2.thesportsdb.com/images/media/player/cutout/ic7kq51781348516.png/small",
     "thilo kehrer": "https://r2.thesportsdb.com/images/media/player/cutout/f1a7kt1766238123.png/small",
     "dani ceballos": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Dani_Ceballos%2C_Real_Madrid%2C_2022.jpg/330px-Dani_Ceballos%2C_Real_Madrid%2C_2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "mikael baza": "",
     "vuk pavicevic": "",
     "mykhailo mudryk": "https://www.thesportsdb.com/images/media/player/cutout/uoz87a1787728061.png/small",
     "shim mheuka": "",
     "mika faye": "",
-    "dinis": ""
+    "dinis": "",
+    "mikael baza": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

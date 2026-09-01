@@ -1,6 +1,5 @@
 {
   "sent": [
-    "33e4b14daaf3dd0915eb7f6727723c5b",
     "09403a3fddb7e37f97833b33ff771068",
     "0a3dcf9f32ade3846e0b79436b5532ff",
     "9c90d3571f7b74bbf950fb3b2830a7d7",
@@ -1499,7 +1498,8 @@
     "b5a108eda15671a4d0a555c35d55dbf8",
     "a8f194fbea637e7424066a63509f5343",
     "tg:FabrizioRomanoTG/65854",
-    "tg:FabrizioRomanoTG/65855"
+    "tg:FabrizioRomanoTG/65855",
+    "tg:FabrizioRomanoTG/65856"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2690,13 +2690,13 @@
     "matias fernandez pardo": "https://r2.thesportsdb.com/images/media/player/cutout/8vhxnr1766077473.png/small",
     "estevao willian": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Estevao-Palmeiras-Liverpool-abr24_%28cropped%29.jpg/330px-Estevao-Palmeiras-Liverpool-abr24_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "nicolas tagliafico": "https://r2.thesportsdb.com/images/media/player/cutout/4z43fy1766146600.png/small",
-    "vuk pavicevic": "",
     "shim mheuka": "",
     "mika faye": "",
     "dinis": "",
-    "mikael baza": ""
+    "mikael baza": "",
+    "vuk pavicevic": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 5,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

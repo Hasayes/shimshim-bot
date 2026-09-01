@@ -1,6 +1,5 @@
 {
   "sent": [
-    "1bb8cbbb6ce13a1f7e692a37203c122e",
     "0284d4db28ee2ec5a1d2f5d4d8179945",
     "49a85775583aa1f54830121a6944ef30",
     "82823b7e2f99a8970c7ff1c2e48b2c28",
@@ -1499,7 +1498,8 @@
     "6a6860a9ff8653d9aff7ac0fd2f77f2a",
     "63adbd71443192e0c90c8e955665a262",
     "7930c7eee00cd89a6ca3f117fb6719df",
-    "5f8044bd9b166815398ed9234157a348"
+    "5f8044bd9b166815398ed9234157a348",
+    "704ad74e894a3df7aef9416bfa55d89e"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2086,7 +2086,6 @@
     "interest: adarabioyo -> tottenham"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83d\udd34 \u26ab\ufe0f omari hutchinson, arriving tonight in milano after deal done with forest ",
     "done deal: gimenez ready for fc porto in \u20ac20m milan agreement",
     "hull city set to sign french winger",
     "\ud83d\udd34 \ud83d\udd35 \ud83c\uddee\ud83c\uddf9 cagliari have agreed deal to sign roberto gagliardini as new midfielder w",
@@ -2385,7 +2384,8 @@
     "barcelona called off pursuit of german forward due to \u20ac50 million valuation \u2013 re",
     "cesc fabregas makes approach to sign chelsea star after xabi alonso decision",
     "two more liverpool signings imminent as \u00a3123m barcola deal officially announced",
-    "juventus, newcastle uinted in talks for loan with nick woltemade"
+    "juventus, newcastle uinted in talks for loan with nick woltemade",
+    "crystal palace respond to second liverpool \u2018offer\u2019 for ismaila sarr"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2685,12 +2685,12 @@
     "robert sanchez": "https://www.thesportsdb.com/images/media/player/cutout/tp7tca1787691371.png/small",
     "arijon ibrahimovic": "https://images.fotmob.com/image_resources/playerimages/1327150.png",
     "matias fernandez pardo": "https://r2.thesportsdb.com/images/media/player/cutout/8vhxnr1766077473.png/small",
-    "dinis": "",
     "mikael baza": "",
     "vuk pavicevic": "",
-    "mika faye": ""
+    "mika faye": "",
+    "dinis": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

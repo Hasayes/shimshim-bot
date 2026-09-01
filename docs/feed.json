@@ -1,5 +1,54 @@
 [
  {
+  "id": "6cce24004a762bb2cf5ea844a21a3ff8",
+  "ts": "2026-09-01T02:00:54+00:00",
+  "kind": "deal",
+  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/8vhxnr1766077473.png/small",
+  "stage": "Here we go",
+  "player": "Matias Fernandez-Pardo",
+  "position": "Winger",
+  "age": "21",
+  "from_club": "Lille OSC",
+  "to_club": "Newcastle United",
+  "fee": "\u20ac60m plus add-ons",
+  "style": "Pacey left winger with direct running ability and strong technical skills to beat defenders in wide areas.",
+  "fit": "Can provide attacking width and creativity for Newcastle's front line while developing further in the Premier League.",
+  "source": "Fabrizio Romano",
+  "sources": [
+   "Fabrizio Romano"
+  ],
+  "srcTier": "tier1",
+  "summary": "Newcastle United have reached an agreement with Lille for 21-year-old Belgium winger Matias Fernandez-Pardo for \u20ac60m plus add-ons. Fernandez-Pardo is expected to travel to Tyneside to complete formalities and undergo a medical.",
+  "outlet": "sportingpedia",
+  "url": "https://www.sportingpedia.com/2026/08/31/newcastle-transfer-picture-shifts-as-fernandez-pardo-deal-advances-and-juventus-target-woltemade/",
+  "title": "Newcastle Transfer Picture Shifts as Fernandez-Pardo Deal Advances and Juventus Target Woltemade"
+ },
+ {
+  "id": "3ec75cf70d547df250705a644658a61b",
+  "ts": "2026-09-01T02:00:46+00:00",
+  "kind": "deal",
+  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/lwkl5n1757088091.png/small",
+  "stage": "Here we go",
+  "player": "Cody Gakpo",
+  "position": "\u2014",
+  "age": "\u2014",
+  "from_club": "Liverpool",
+  "to_club": "Manchester City",
+  "fee": "\u00a385m",
+  "style": "Dynamic left winger with excellent dribbling ability and eye for goal from wide areas.",
+  "fit": "Can operate across Manchester City's attacking line to provide width and creative support in Pep's system.",
+  "source": "Fabrizio Romano",
+  "sources": [
+   "Fabrizio Romano via givemesport",
+   "Fabrizio Romano"
+  ],
+  "srcTier": "tier1",
+  "summary": "Manchester City are ready to sign Cody Gakpo for \u00a385m, and the player has agreed to a five-year contract at the Etihad.",
+  "outlet": "yardbarker",
+  "url": "https://www.yardbarker.com/soccer/articles/superstar_edges_closer_to_85m_switch/s1_17738_44241534",
+  "title": "Superstar edges closer to \u00a385m switch"
+ },
+ {
   "id": "tg:FabrizioRomanoTG/65647",
   "ts": "2026-09-01T00:45:42+00:00",
   "kind": "deal",
@@ -2197,30 +2246,6 @@
    "Fabrizio Romano"
   ],
   "srcTier": "tier1"
- },
- {
-  "id": "3ec75cf70d547df250705a644658a61b",
-  "ts": "2026-08-25T04:59:56+00:00",
-  "kind": "interest",
-  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/lwkl5n1757088091.png/small",
-  "stage": "\u2014",
-  "player": "Cody Gakpo",
-  "position": "\u2014",
-  "age": "\u2014",
-  "from_club": "Liverpool",
-  "to_club": "Manchester City",
-  "fee": "\u2014",
-  "style": "Direct, energetic winger who combines pace and technical ability to create and score from wide positions.",
-  "fit": "Deploy him as a flexible attacking option across City's front line to add directness and goal-threat to their possession-based system.",
-  "source": "Fabrizio Romano via givemesport",
-  "sources": [
-   "Fabrizio Romano via givemesport"
-  ],
-  "srcTier": "tier1",
-  "summary": "Manchester City have opened talks to sign Liverpool's Cody Gakpo, attempting to beat Tottenham's interest in the player.",
-  "outlet": "givemesport",
-  "url": "https://www.givemesport.com/breaking-man-city-eye-liverpool-transfer-cody-gakpo/",
-  "title": "Fabrizio Romano: Man City Open Talks to Beat Tottenham to Liverpool Star"
  },
  {
   "id": "tg:FabrizioRomanoTG/65221",

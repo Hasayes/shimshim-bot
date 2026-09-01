@@ -1,12 +1,5 @@
 {
   "sent": [
-    "6ebbcd9348277725a2b2aaa16000a84b",
-    "07faeb969752000f60d9cbec104b7dcb",
-    "c144721267e319e9cd134b999309218e",
-    "3caf5ce59b8f2d0fa9c150e64f1fa5f4",
-    "a94b1f7225a0760519065296fb28323c",
-    "a4333588df1ad1ba247c2c2ac2285641",
-    "681234710eea6c5c7c3c2260504567e4",
     "36d7e7cab0f0d632119b2d72273f9f39",
     "7efa0d67b4e28265e29cd5287832dca0",
     "9d07e3a2c2c9acdc3f96d3d04b8c44b8",
@@ -1499,7 +1492,14 @@
     "a56a6a79cce0dd05073250d05ecb11be",
     "07241fa109750adb01722710630a9db6",
     "6cb1e9288b5bfd41c2d9c3f3e53465f9",
-    "tg:FabrizioRomanoTG/65814"
+    "tg:FabrizioRomanoTG/65814",
+    "cd373a3f4b2fd7aa7608f69441df030e",
+    "ef03d18448b2f841e4870a6a35fcf135",
+    "54a360258277a640316d3191a4bd5b24",
+    "bc75c3fa5d432755aea32558a3f975af",
+    "6cce24004a762bb2cf5ea844a21a3ff8",
+    "3ddb43b35cfe2cda475b926a1fbe2b0a",
+    "tg:FabrizioRomanoTG/65815"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1824,7 +1824,9 @@
     "bajcetic -> celta vigo": 1,
     "grealish -> everton": 1,
     "ibrahimovic -> fc augsburg": 2,
-    "faye -> barcelona": 1
+    "faye -> barcelona": 1,
+    "gakpo -> manchester city": 1,
+    "pardo -> newcastle": 1
   },
   "interest": [
     "interest: alvarez -> arsenal",
@@ -2084,12 +2086,6 @@
     "interest: adarabioyo -> tottenham"
   ],
   "titles": [
-    "everything we know as everton agreement reached with right back kenny tete",
-    "enzo fernandez has long been linked with a chelsea exit",
-    "\u00a34 3m shot stopper flies to england for medical with leeds united: good signing ",
-    "why julian alvarez won\u2019t sign for arsenal",
-    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f manchester city confident to close all details of cody gakpo deal as soon",
-    "ornstein: cody gakpo chooses man city over tottenham as liverpool talks advance",
     "report hutchinson ready for milan after verbal agreement with nottingham forest",
     "crystal palace receive bid for dean henderson to return to former club",
     "juventus in advanced talks to sign tottenham hotspur midfielder pape matar sarr",
@@ -2383,11 +2379,16 @@
     "'here we go' romano: newcastle agree \u00a350m+ deal to sign matias fernandez pardo",
     "como eyeing move for chelsea goalkeeper rob sanchez",
     "why atletico are acquiring jonathan david to complete simeone\u2019s attack",
-    "rt @fabrizioromano : \ud83d\udea8 \ud83d\udd35 exclusive: everton agree personal terms with folarin ba"
+    "rt @fabrizioromano : \ud83d\udea8 \ud83d\udd35 exclusive: everton agree personal terms with folarin ba",
+    "cody gakpo 'ready to make liverpool u turn' and wreck man city transfer agreemen",
+    "superstar edges closer to \u00a385m switch",
+    "manchester city may be facing a snag in their bid to sign a dutch international",
+    "newcastle transfer picture shifts as fernandez pardo deal advances and juventus ",
+    "transfer bombshell newcastle united strike \u00a351m breakthrough as 21 y/o set for m",
+    "\ud83d\udd35 \ud83d\udd34 \ud83d\udc4b\ud83c\udffc medical today for barcelona\u2019s winger toni fernandez at venezia \u20ac4m fee, 5"
   ],
   "tg_update_offset": 263617426,
   "photos": {
-    "joao pedro": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Jo%C3%A3o_Pedro%2C_2025_FIFA_Club_World_Cup_final_%2854654843615%29.jpg",
     "emmanuel emegha": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/FC_RB_Salzburg_gegen_SK_Sturm_Graz%282023-05-21%29_35_%28Emanuel_Emegha%29.jpg/330px-FC_RB_Salzburg_gegen_SK_Sturm_Graz%282023-05-21%29_35_%28Emanuel_Emegha%29.jpg",
     "mathys detourbet": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Mathys_Detourbet_sous_les_couleurs_de_l%27ESTAC_Troyes_en_2025.jpg/330px-Mathys_Detourbet_sous_les_couleurs_de_l%27ESTAC_Troyes_en_2025.jpg",
     "alexander nubel": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Alexander_Nubel_Ecuador_v_Germany_25_June_2026-154.jpg/330px-Alexander_Nubel_Ecuador_v_Germany_25_June_2026-154.jpg",
@@ -2683,12 +2684,13 @@
     "jack grealish": "https://r2.thesportsdb.com/images/media/player/cutout/7ckk5a1756976762.png/small",
     "robert sanchez": "https://www.thesportsdb.com/images/media/player/cutout/tp7tca1787691371.png/small",
     "arijon ibrahimovic": "https://images.fotmob.com/image_resources/playerimages/1327150.png",
-    "mika faye": "",
     "dinis": "",
     "mikael baza": "",
-    "vuk pavicevic": ""
+    "vuk pavicevic": "",
+    "matias fernandez pardo": "https://r2.thesportsdb.com/images/media/player/cutout/8vhxnr1766077473.png/small",
+    "mika faye": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",
@@ -2877,6 +2879,7 @@
     "valencia": "https://r2.thesportsdb.com/images/media/team/badge/dm8l6o1655594864.png/small",
     "1 fc koln": "https://r2.thesportsdb.com/images/media/team/badge/2j1sc91566049407.png/small",
     "fc augsburg": "https://r2.thesportsdb.com/images/media/team/badge/xqyyvq1473453233.png/small",
-    "hamburger sv": "https://images.fotmob.com/image_resources/logo/teamlogo/9790.png"
+    "hamburger sv": "https://images.fotmob.com/image_resources/logo/teamlogo/9790.png",
+    "lille osc": "https://r2.thesportsdb.com/images/media/team/badge/2giize1534005340.png/small"
   }
 }

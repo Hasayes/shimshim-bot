@@ -1,10 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/65105",
-    "tg:FabrizioRomanoTG/65108",
-    "tg:FabrizioRomanoTG/65109",
-    "tg:FabrizioRomanoTG/65113",
-    "8f9eddb20be4a70c5d9d34676f441a82",
     "42e6e87760c0db1b0cdd6aeaac407f9d",
     "ba8b2da6fd0807765ac877b346853a74",
     "tg:FabrizioRomanoTG/65118",
@@ -1499,7 +1494,12 @@
     "c7b9f4dbb1420d1b6097f339e50dd941",
     "tg:FabrizioRomanoTG/65885",
     "tg:FabrizioRomanoTG/65886",
-    "7276fbc78c8aa94308cfb058b43f16bc"
+    "7276fbc78c8aa94308cfb058b43f16bc",
+    "e47ba22d509bc900f088e99e43618fea",
+    "cc041cc6cbb5f3edd59799ceb0a947dd",
+    "6490d10ace7effb1ba23cf5a74c850ef",
+    "tg:FabrizioRomanoTG/65888",
+    "tg:FabrizioRomanoTG/65889"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2102,11 +2102,6 @@
     "interest: tagliafico -> atletico madrid"
   ],
   "titles": [
-    "transfer rumors, news: liverpool, newcastle eye belgian forward",
-    "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f exclusive: newcastle have agreed deal to sign matias fernandez pardo fro",
-    "\ud83d\udea8 \ud83d\udd34 official: bradley barcola has joined liverpool from psg \u26a1\ufe0f a move revealed s",
-    "rt @fabrizioromano : \ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f exclusive: newcastle have agreed deal to sign matia",
-    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f malaga have agreed deal to sign jens cajuste from napoli on initial loan ",
     "southampton lodge offer for italy talent reggiani at borussia dortmund",
     "\ud83d\udea8 \ud83d\udc2f robinio vaz has authorization from as roma to undergo medical and sign in as",
     "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 samuel mbangula to bologna, deal almost done with green light next for med",
@@ -2401,7 +2396,12 @@
     "manchester city chelsea agreement: enzo fernandez joins maresca",
     "\ud83d\udfe1 \u26ab\ufe0f \ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udffc ethan nwaneri has joined borussia dortmund on loan deal from arsenal ",
     "\ud83d\udea8 \ud83c\udde6\ud83c\uddf7 enzo fernandez has completed a medical as new manchester city player \u00a3125m ",
-    "jack grealish agreement reached over season long loan, medical to take place tod"
+    "jack grealish agreement reached over season long loan, medical to take place tod",
+    "fabrizio romano confirms \u2018here we go\u2019 after arsenal player approves late exit",
+    "tottenham seal \u00a325m sunderland deal and \u00a37m chelsea signing \u2013 medicals booked",
+    "liverpool news: \u00a360m transfer update as 'fee agreed for winger' after massive u ",
+    "\ud83d\udea8 \ud83d\udd35 everton have called manchester united for joshua zirkzee in case folarin bal",
+    "\ud83e\ude75 \ud83c\uddf8\ud83c\uddf3 official, confirmed iliman ndiaye has joined manchester city on \u00a365m packag"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2699,14 +2699,14 @@
     "thilo kehrer": "https://r2.thesportsdb.com/images/media/player/cutout/f1a7kt1766238123.png/small",
     "dani ceballos": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Dani_Ceballos%2C_Real_Madrid%2C_2022.jpg/330px-Dani_Ceballos%2C_Real_Madrid%2C_2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "mykhailo mudryk": "https://www.thesportsdb.com/images/media/player/cutout/uoz87a1787728061.png/small",
-    "dinis": "",
     "mikael baza": "",
     "kevin danso": "https://r2.thesportsdb.com/images/media/player/cutout/unhinl1739274856.png/small",
     "vuk pavicevic": "",
     "shim mheuka": "",
-    "mika faye": ""
+    "mika faye": "",
+    "dinis": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

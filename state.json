@@ -1,7 +1,5 @@
 {
   "sent": [
-    "4ec17abd673459a44985bc8ed11a4481",
-    "0312556d4e31b576cec0a2a3756c5cb5",
     "a8f292f166889b20a72cb7c100b788f9",
     "tg:FabrizioRomanoTG/65122",
     "ebe5179a7b1bca8a4c7bc445978dbef8",
@@ -1499,7 +1497,9 @@
     "7f5f36d5c747a1cc130755ee29d599ac",
     "2c7ff9455eb2cf8f5f2ae149962e2c46",
     "94bea28189ac76e8dd6cbab92038ddc8",
-    "tg:FabrizioRomanoTG/65893"
+    "tg:FabrizioRomanoTG/65893",
+    "97095f9b4add847f8774026fdd2a210a",
+    "dd66e105ee6fb8083cc171e093124e31"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2102,8 +2102,6 @@
     "interest: tagliafico -> atletico madrid"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f napoli have agreed deal to sign 21 year old striker dinis from sion as in",
-    "seven transfers liverpool can complete before deadline as barcola joins and \u00a385m",
     "rafael leao\u2019s ac milan to galatasaray fee and salary officially revealed as amor",
     "liverpool news: virgil van dijk gives verdict on bradley barcola as talks ongoin",
     "\ud83d\udea8 \ud83d\udca3 official: liverpool have decided to keep cody gakpo at the club as they can\u2019",
@@ -2401,7 +2399,9 @@
     "chelsea midfield deal collapses as alternative move \u2018here we go\u2019 confirmed \u2013 fab",
     "'here we go' romano: hull city agree \u00a312m deal for second serie a star after vaz",
     "everton push deadline plans forward with grealish loan return and balogun move a",
-    "\ud83d\udd35 \ud83d\udca3 lamine camara currently undergoing a medical under chelsea staff supervision"
+    "\ud83d\udd35 \ud83d\udca3 lamine camara currently undergoing a medical under chelsea staff supervision",
+    "sunderland set to sign kevin danso on loan",
+    "chelsea in advanced talks for kone for \u20ac60 million"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2700,13 +2700,13 @@
     "dani ceballos": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Dani_Ceballos%2C_Real_Madrid%2C_2022.jpg/330px-Dani_Ceballos%2C_Real_Madrid%2C_2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "mykhailo mudryk": "https://www.thesportsdb.com/images/media/player/cutout/uoz87a1787728061.png/small",
     "kevin danso": "https://r2.thesportsdb.com/images/media/player/cutout/unhinl1739274856.png/small",
-    "shim mheuka": "",
     "mika faye": "",
     "dinis": "",
     "mikael baza": "",
-    "vuk pavicevic": ""
+    "vuk pavicevic": "",
+    "shim mheuka": ""
   },
-  "photo_repair_idx": 5,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

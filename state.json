@@ -1,6 +1,5 @@
 {
   "sent": [
-    "42e6e87760c0db1b0cdd6aeaac407f9d",
     "ba8b2da6fd0807765ac877b346853a74",
     "tg:FabrizioRomanoTG/65118",
     "tg:FabrizioRomanoTG/65119",
@@ -1499,7 +1498,8 @@
     "cc041cc6cbb5f3edd59799ceb0a947dd",
     "6490d10ace7effb1ba23cf5a74c850ef",
     "tg:FabrizioRomanoTG/65888",
-    "tg:FabrizioRomanoTG/65889"
+    "tg:FabrizioRomanoTG/65889",
+    "tg:FabrizioRomanoTG/65891"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2102,7 +2102,6 @@
     "interest: tagliafico -> atletico madrid"
   ],
   "titles": [
-    "southampton lodge offer for italy talent reggiani at borussia dortmund",
     "\ud83d\udea8 \ud83d\udc2f robinio vaz has authorization from as roma to undergo medical and sign in as",
     "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 samuel mbangula to bologna, deal almost done with green light next for med",
     "\ud83d\udea8 \u26ab\ufe0f \ud83d\udd35 atalanta have agreed deal to sign jonathan rowe from bologna, here we go!",
@@ -2401,7 +2400,8 @@
     "tottenham seal \u00a325m sunderland deal and \u00a37m chelsea signing \u2013 medicals booked",
     "liverpool news: \u00a360m transfer update as 'fee agreed for winger' after massive u ",
     "\ud83d\udea8 \ud83d\udd35 everton have called manchester united for joshua zirkzee in case folarin bal",
-    "\ud83e\ude75 \ud83c\uddf8\ud83c\uddf3 official, confirmed iliman ndiaye has joined manchester city on \u00a365m packag"
+    "\ud83e\ude75 \ud83c\uddf8\ud83c\uddf3 official, confirmed iliman ndiaye has joined manchester city on \u00a365m packag",
+    "\ud83d\udea8 \ud83d\udd35 exclusive: chelsea agree deal in principle to sign lamine camara from as mon"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2699,14 +2699,14 @@
     "thilo kehrer": "https://r2.thesportsdb.com/images/media/player/cutout/f1a7kt1766238123.png/small",
     "dani ceballos": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Dani_Ceballos%2C_Real_Madrid%2C_2022.jpg/330px-Dani_Ceballos%2C_Real_Madrid%2C_2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "mykhailo mudryk": "https://www.thesportsdb.com/images/media/player/cutout/uoz87a1787728061.png/small",
-    "mikael baza": "",
     "kevin danso": "https://r2.thesportsdb.com/images/media/player/cutout/unhinl1739274856.png/small",
     "vuk pavicevic": "",
     "shim mheuka": "",
     "mika faye": "",
-    "dinis": ""
+    "dinis": "",
+    "mikael baza": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

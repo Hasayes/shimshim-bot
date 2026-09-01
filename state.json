@@ -1,8 +1,5 @@
 {
   "sent": [
-    "8c32ff32cb08a73bfccf27ffbe180c0d",
-    "3a5529ede729e6979b1c1b895559f27b",
-    "60755e743e1a44cd59003d91f711027f",
     "004d25f1fdfbba6e7dac8ea504d56164",
     "b3f31649402c84b3197e251bc1df619b",
     "07618be90d40c9f588e97cb3e277f7cd",
@@ -1499,7 +1496,10 @@
     "be645415361817cdbb0410cbce2dc900",
     "tg:FabrizioRomanoTG/65873",
     "tg:FabrizioRomanoTG/65874",
-    "tg:FabrizioRomanoTG/65875"
+    "tg:FabrizioRomanoTG/65875",
+    "28401af1b7e2b001ef52760eabb22170",
+    "0e1b7b690145e9e14d4d5203dfce3796",
+    "tg:FabrizioRomanoTG/65876"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2100,9 +2100,6 @@
     "interest: tagliafico -> atletico madrid"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 barcelona have completed deal to sign 16 year old defender mikael baza fro",
-    "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 youssouf fofana has agreed to joining ol on initial loan ac milan and lyon",
-    "\ud83d\udea8 \ud83d\udd34 liverpool have reached verbal agreement with genk to sign 18 year old goalke",
     "arsenal put on red alert as atletico madrid bid for julian alvarez replacement",
     "arsenal put on red alert as atletico madrid 'bid' for julian alvarez replacement",
     "\ud83d\udea8 \ud83d\udfe3 fiorentina have agreed a loan deal to sign willy gnonto from leeds united, h",
@@ -2399,7 +2396,10 @@
     "why roberto de zerbi wants to sign mykhailo mudryk at tottenham with medical set",
     "\u26aa\ufe0f \u26ab\ufe0f official, confirmed nick woltemade signs for juventus from newcastle on \u00a33",
     "\ud83d\udd34 \ud83d\udd35 \ud83c\udde7\ud83c\uddf7 exclusive story, confirmed: robinho jr has signed in as new genoa player ",
-    "\ud83d\udea8 \ud83d\udfe2 \u26aa\ufe0f breaking: dani ceballos to real betis, here we go! he\u2019s back at the club "
+    "\ud83d\udea8 \ud83d\udfe2 \u26aa\ufe0f breaking: dani ceballos to real betis, here we go! he\u2019s back at the club ",
+    "spurs prepared to buy premier league star after changing stance on loan deal",
+    "done deal: grealish joins manchester city's premier league rival",
+    "\ud83d\udea8 official: liverpool have agreed a deal to sign 18 year old goalkeeper lucca br"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2694,7 +2694,6 @@
     "claudio echeverri": "https://r2.thesportsdb.com/images/media/player/cutout/jbdnk91756315963.png/small",
     "jose gimenez": "https://r2.thesportsdb.com/images/media/player/cutout/j2c2gn1762287634.png/small",
     "dario essugo": "https://www.thesportsdb.com/images/media/player/cutout/sgwvhr1787727807.png/small",
-    "mikael baza": "",
     "jean matteo bahoya": "https://r2.thesportsdb.com/images/media/player/cutout/fp3ti91762287362.png/small",
     "vuk pavicevic": "",
     "shim mheuka": "",
@@ -2702,9 +2701,10 @@
     "thilo kehrer": "https://r2.thesportsdb.com/images/media/player/cutout/f1a7kt1766238123.png/small",
     "mika faye": "",
     "dani ceballos": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Dani_Ceballos%2C_Real_Madrid%2C_2022.jpg/330px-Dani_Ceballos%2C_Real_Madrid%2C_2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "dinis": ""
+    "dinis": "",
+    "mikael baza": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

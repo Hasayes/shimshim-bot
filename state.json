@@ -1,8 +1,5 @@
 {
   "sent": [
-    "c1d5932bc2b20939c1a63ace62358dd4",
-    "8155a088b1e9c0ee34f0fbfb0b248a16",
-    "a4215e151e2a7cc2acf758b79682c63e",
     "d6a63fc5bdaf02361e603d69832d98a6",
     "ba2dae95cabd9e1047952cfa2afb9de0",
     "69f8ed3d65defcb1ced6f5fb8905881c",
@@ -1499,7 +1496,10 @@
     "658effe0f529701e2222f007a485034d",
     "tg:FabrizioRomanoTG/65859",
     "1a70fcfead459de5bef9d63f49d17924",
-    "tg:FabrizioRomanoTG/65860"
+    "tg:FabrizioRomanoTG/65860",
+    "982413eaaade5a0e3a349ef81dae7c19",
+    "46316d1d7466b7a4997204b76698e477",
+    "tg:FabrizioRomanoTG/65863"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1831,7 +1831,8 @@
     "sanchez -> como": 1,
     "fofana -> sunderland": 1,
     "mheuka -> celtic": 1,
-    "echeverri -> benfica": 1
+    "echeverri -> benfica": 1,
+    "fernandez -> manchester city": 1
   },
   "interest": [
     "interest: alvarez -> arsenal",
@@ -2093,9 +2094,6 @@
     "interest: tagliafico -> atletico madrid"
   ],
   "titles": [
-    "aston villa eye \u00a355m double swoop as fabrizio romano confirms verbal agreement f",
-    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f excl: fc koln have closed the agreement with tottenham to sign mikey moor",
-    "\ud83d\udea8 \ud83d\udd35 understand there are still serious chances for tosin adarabioyo exit in the ",
     "done deal: lazio striker ratkov set to join laliga club \u2013 figures revealed",
     "swift move: atletico make their first offer to sign a replacement for alvarez",
     "\ud83d\udea8 \ud83d\udd34 \u26ab\ufe0f exclusive: bayer leverkusen have agreed deal to sign guela doue, here we ",
@@ -2392,7 +2390,10 @@
     "arsenal news: late julian alvarez transfer twist as deadline day talks emerge",
     "\ud83d\udea8 \ud83d\udfe1 \u26ab\ufe0f al ittihad have agreed deal to sign richard rios, here we go! loan deal f",
     "man utd transfer news: marcus rashford stance clear and fresh barcelona talks em",
-    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f nico tagliafico, waiting for the green light to join atletico madrid as d"
+    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f nico tagliafico, waiting for the green light to join atletico madrid as d",
+    "liverpool news: ismaila sarr transfer update as winger gives green light to move",
+    "bayern munich news: fc bayern, liverpool vying for goalkeeper?; usmnt star chris",
+    "\ud83d\udea8 \ud83d\udca3 breaking: enzo fernandez to manchester city, here we go! \ud83c\udde6\ud83c\uddf7 deal in place fo"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2690,14 +2691,14 @@
     "matias fernandez pardo": "https://r2.thesportsdb.com/images/media/player/cutout/8vhxnr1766077473.png/small",
     "estevao willian": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Estevao-Palmeiras-Liverpool-abr24_%28cropped%29.jpg/330px-Estevao-Palmeiras-Liverpool-abr24_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "nicolas tagliafico": "https://r2.thesportsdb.com/images/media/player/cutout/4z43fy1766146600.png/small",
-    "vuk pavicevic": "",
     "claudio echeverri": "https://r2.thesportsdb.com/images/media/player/cutout/jbdnk91756315963.png/small",
     "shim mheuka": "",
     "mika faye": "",
     "dinis": "",
-    "mikael baza": ""
+    "mikael baza": "",
+    "vuk pavicevic": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 5,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

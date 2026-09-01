@@ -1,7 +1,5 @@
 {
   "sent": [
-    "ebdc0079938f673e7244b6177d5918a1",
-    "ead114cb647257e2fdf70b98c0aecdae",
     "b0a62c156b124423f108ab1a6c09a48d",
     "49e212ceda204d21eccd939af0e9c5b9",
     "4e8d435b0b853e4636b24c933766c734",
@@ -1499,7 +1497,9 @@
     "tg:FabrizioRomanoTG/65838",
     "tg:FabrizioRomanoTG/65839",
     "tg:FabrizioRomanoTG/65840",
-    "tg:FabrizioRomanoTG/65843"
+    "tg:FabrizioRomanoTG/65843",
+    "tg:FabrizioRomanoTG/65844",
+    "tg:FabrizioRomanoTG/65845"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1829,7 +1829,8 @@
     "pardo -> newcastle": 2,
     "nwaneri -> borussia dortmund": 1,
     "sanchez -> como": 1,
-    "fofana -> sunderland": 1
+    "fofana -> sunderland": 1,
+    "mheuka -> celtic": 1
   },
   "interest": [
     "interest: alvarez -> arsenal",
@@ -2087,11 +2088,10 @@
     "interest: mudryk -> tottenham",
     "interest: sanchez -> tottenham",
     "interest: adarabioyo -> tottenham",
-    "interest: willian -> liverpool"
+    "interest: willian -> liverpool",
+    "interest: tagliafico -> atletico madrid"
   ],
   "titles": [
-    "barcelona agree \u20ac10m deal for gabriel jesus as arsenal striker heads for medical",
-    "arsenal transfer news: brazilian star gabriel martinelli signs long term al hila",
     "\u2018he loves man utd\u2019 \u2013 arsenal warned over elite forward target being pinched by i",
     "nottingham forest want to sign \u00a330m liverpool player in last gasp deal",
     "medical booked for monday as arsenal agree deal for striker ahead of deadline da",
@@ -2389,12 +2389,12 @@
     "\ud83d\udea8 \ud83d\udd35 official, exclusive story confirmed chelsea sign honest ahanor from atalanta",
     "\ud83d\udcfa new youtube video uploaded! \ud83c\udfac \ud83d\udea8 \ud83d\udca3 bomba! julian decision! enzo day! chelsea bi",
     "\ud83d\udea8 \ud83d\udd34 \ud83d\udfe1 el chadaille bitshiabu on loan to galatasaray from rb leipzig, here we go!",
-    "rt @givemesport : here we go! \ud83d\udea8 @fabrizioromano joins us live on market madness "
+    "rt @givemesport : here we go! \ud83d\udea8 @fabrizioromano joins us live on market madness ",
+    "\ud83d\udea8 \u26aa\ufe0f \ud83d\udfe2 celtic have agreed loan deal to sign shim mheuka from chelsea, medical no",
+    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f atletico madrid are trying to hijack juventus move for nicolas tagliafico"
   ],
   "tg_update_offset": 263617426,
   "photos": {
-    "mathys detourbet": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Mathys_Detourbet_sous_les_couleurs_de_l%27ESTAC_Troyes_en_2025.jpg/330px-Mathys_Detourbet_sous_les_couleurs_de_l%27ESTAC_Troyes_en_2025.jpg",
-    "alexander nubel": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Alexander_Nubel_Ecuador_v_Germany_25_June_2026-154.jpg/330px-Alexander_Nubel_Ecuador_v_Germany_25_June_2026-154.jpg",
     "karl hein": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/RC_Lens_-_Arsenal_FC_%2803-10-2023%29_6.jpg/330px-RC_Lens_-_Arsenal_FC_%2803-10-2023%29_6.jpg",
     "john stones": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/John_Stones_England_v_Ghana_23_June_2026-038.jpg/330px-John_Stones_England_v_Ghana_23_June_2026-038.jpg",
     "isaac schmidt": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Isaac_Schmidt_15032025_%282%29.jpg/330px-Isaac_Schmidt_15032025_%282%29.jpg",
@@ -2692,9 +2692,11 @@
     "vuk pavicevic": "",
     "mika faye": "",
     "dinis": "",
+    "shim mheuka": "",
+    "nicolas tagliafico": "https://r2.thesportsdb.com/images/media/player/cutout/4z43fy1766146600.png/small",
     "mikael baza": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

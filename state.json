@@ -1,7 +1,5 @@
 {
   "sent": [
-    "16d0a9e76f353eef3592fb4d82c10fa4",
-    "tg:FabrizioRomanoTG/65130",
     "57ce753598cb81a96a6fc255ce39b96f",
     "5a2901ccce1d2e6c0a0b7a9f674fe06f",
     "ce1099d6cd909b9ec502166ae216e15b",
@@ -1499,7 +1497,9 @@
     "a70e45240fb5078c7f6bd00d5f0e4287",
     "4ce56a094b300fe8170b562272de8dad",
     "fa524e54295109cd6cefe4a6307e6410",
-    "tg:FabrizioRomanoTG/65906"
+    "tg:FabrizioRomanoTG/65906",
+    "db5982693b7bd1a6fb41c6f34699149f",
+    "712d3782f9e87a5ed64266d9b2e584af"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2104,8 +2104,6 @@
     "interest: tagliafico -> atletico madrid"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83d\udca3 breaking: juventus reached verbal agreement with newcastle to sign nick wolt",
-    "transfer rumors, news: spurs to make late move for pulisic?",
     "guela doue to bayer leverkusen: \u20ac37 5m agreement reached",
     "fabrizio romano: tottenham agree deal for star to leave on loan with \u00a326m option",
     "\ud83d\udea8 \ud83d\udfe1 \ud83d\udd34 galatasaray have received now the authorization for deniz gul to travel to",
@@ -2403,7 +2401,9 @@
     "arsenal make final malick fofana transfer decision with lyon star set for medica",
     "super eagles on alert as dortmund and arsenal agree deal on exciting youngster",
     "arsenal learn final decision on \u00a3130m julian alvarez deal as atletico madrid off",
-    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f sevilla reach verbal agreement to sign youssouf fofana, here we go! loan "
+    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f sevilla reach verbal agreement to sign youssouf fofana, here we go! loan ",
+    "chelsea learn fate of \u00a338m offer for liverpool target as fabrizio romano makes e",
+    "sunderland agree deal for arsenal winger target"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2701,14 +2701,14 @@
     "dani ceballos": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Dani_Ceballos%2C_Real_Madrid%2C_2022.jpg/330px-Dani_Ceballos%2C_Real_Madrid%2C_2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "mykhailo mudryk": "https://www.thesportsdb.com/images/media/player/cutout/uoz87a1787728061.png/small",
     "kevin danso": "https://r2.thesportsdb.com/images/media/player/cutout/unhinl1739274856.png/small",
-    "dinis": "",
     "mikael baza": "",
     "ben chilwell": "https://r2.thesportsdb.com/images/media/player/cutout/hmc0tf1766054345.png/small",
     "vuk pavicevic": "",
     "shim mheuka": "",
-    "mika faye": ""
+    "mika faye": "",
+    "dinis": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

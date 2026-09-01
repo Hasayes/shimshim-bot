@@ -1,8 +1,5 @@
 {
   "sent": [
-    "73e011980164f2665346b2dbef18242d",
-    "98da08be5c6e485c348ac6d55225bd81",
-    "5a12df0509aa9fb568a391739cc57d91",
     "6ebbcd9348277725a2b2aaa16000a84b",
     "07faeb969752000f60d9cbec104b7dcb",
     "c144721267e319e9cd134b999309218e",
@@ -1499,7 +1496,10 @@
     "72f23901b2a828033cbaec2b75c1dd60",
     "d273379d1a9b4252d85996d876573d32",
     "068e2df34396eb0b1fed294c564d6b43",
-    "a56a6a79cce0dd05073250d05ecb11be"
+    "a56a6a79cce0dd05073250d05ecb11be",
+    "07241fa109750adb01722710630a9db6",
+    "6cb1e9288b5bfd41c2d9c3f3e53465f9",
+    "tg:FabrizioRomanoTG/65814"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2084,8 +2084,6 @@
     "interest: adarabioyo -> tottenham"
   ],
   "titles": [
-    "morocco star terminates his contract: swift agreement reached with european gian",
-    "alvarez finally snubs arsenal, prefers barcelona move",
     "everything we know as everton agreement reached with right back kenny tete",
     "enzo fernandez has long been linked with a chelsea exit",
     "\u00a34 3m shot stopper flies to england for medical with leeds united: good signing ",
@@ -2383,7 +2381,9 @@
     "fc koln\u2019s said el mala to be included in jurgen klopp\u2019s germany squad",
     "tottenham \u2018working on\u2019 deals to sign two chelsea rejects \u2013 top sources",
     "'here we go' romano: newcastle agree \u00a350m+ deal to sign matias fernandez pardo",
-    "como eyeing move for chelsea goalkeeper rob sanchez"
+    "como eyeing move for chelsea goalkeeper rob sanchez",
+    "why atletico are acquiring jonathan david to complete simeone\u2019s attack",
+    "rt @fabrizioromano : \ud83d\udea8 \ud83d\udd35 exclusive: everton agree personal terms with folarin ba"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2683,12 +2683,12 @@
     "jack grealish": "https://r2.thesportsdb.com/images/media/player/cutout/7ckk5a1756976762.png/small",
     "robert sanchez": "https://www.thesportsdb.com/images/media/player/cutout/tp7tca1787691371.png/small",
     "arijon ibrahimovic": "https://images.fotmob.com/image_resources/playerimages/1327150.png",
-    "vuk pavicevic": "",
     "mika faye": "",
     "dinis": "",
-    "mikael baza": ""
+    "mikael baza": "",
+    "vuk pavicevic": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

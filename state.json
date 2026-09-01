@@ -1,9 +1,5 @@
 {
   "sent": [
-    "e69178ecdf1028b8af12414b1dae9c10",
-    "fba5ec1f87c4cb772206d1e0792c0e05",
-    "tg:FabrizioRomanoTG/65038",
-    "tg:FabrizioRomanoTG/65039",
     "tg:FabrizioRomanoTG/65045",
     "tg:FabrizioRomanoTG/65046",
     "tg:FabrizioRomanoTG/65048",
@@ -1499,7 +1495,11 @@
     "2bc85c587b49861220bad12451543b1a",
     "422baa0fded245470abca65fde4a859a",
     "a3e11bf494f8ebe374ea3ae3e7f72238",
-    "tg:FabrizioRomanoTG/65816"
+    "tg:FabrizioRomanoTG/65816",
+    "d8c863d30d7eb9c2b9a6451e70579d53",
+    "685ffd715dbe5dbd7cb6272d8c5ab6f3",
+    "tg:FabrizioRomanoTG/65817",
+    "tg:FabrizioRomanoTG/65818"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1826,7 +1826,8 @@
     "ibrahimovic -> fc augsburg": 2,
     "faye -> barcelona": 1,
     "gakpo -> manchester city": 1,
-    "pardo -> newcastle": 1
+    "pardo -> newcastle": 1,
+    "nwaneri -> borussia dortmund": 1
   },
   "interest": [
     "interest: alvarez -> arsenal",
@@ -2087,10 +2088,6 @@
     "interest: willian -> liverpool"
   ],
   "titles": [
-    "transfer news live: arsenal in alvarez talks; barcola has liverpool medical; man",
-    "romano reveals how much man city are \u2018set to bid\u2019 for cody gakpo after \u2018agreemen",
-    "tottenham exit looms as euro giants reach advanced stages of talks to land 23 ye",
-    "aston villa reach decision on selling ian maatsen to man utd",
     "liverpool contact agents of premier league star as cody gakpo exit looms",
     "romano: newcastle chiefs doing everything to sign explosive star before deadline",
     "ian maatsen to manchester united is about to end before it even began",
@@ -2386,7 +2383,11 @@
     "aston villa close in on \u00a325m centre back to fill konsa void: good deal for the c",
     "tottenham make shock enquiry to sign chelsea forward on loan",
     "why largie ramazani's leeds future is as unclear as ever as medical booked",
-    "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f excl: fulham have reached verbal agreement to sign hugo larsson from ein"
+    "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f excl: fulham have reached verbal agreement to sign hugo larsson from ein",
+    "man city close in on \u00a3185m double deal as ornstein reveals \u2018agreement reached\u2019",
+    "deal agreed: man city gazump tottenham to sign iliman ndiaye, medical booked",
+    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f conrad harder deal with rc strasbourg has been completed loan deal from r",
+    "\ud83d\udea8 \ud83d\udfe1 \u26ab\ufe0f exclusive: borussia dortmund reach verbal agreement to sign ethan nwaneri"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2685,13 +2686,13 @@
     "robert sanchez": "https://www.thesportsdb.com/images/media/player/cutout/tp7tca1787691371.png/small",
     "arijon ibrahimovic": "https://images.fotmob.com/image_resources/playerimages/1327150.png",
     "matias fernandez pardo": "https://r2.thesportsdb.com/images/media/player/cutout/8vhxnr1766077473.png/small",
-    "mika faye": "",
     "dinis": "",
     "estevao willian": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Estevao-Palmeiras-Liverpool-abr24_%28cropped%29.jpg/330px-Estevao-Palmeiras-Liverpool-abr24_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "mikael baza": "",
-    "vuk pavicevic": ""
+    "vuk pavicevic": "",
+    "mika faye": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

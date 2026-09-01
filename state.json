@@ -1,7 +1,5 @@
 {
   "sent": [
-    "769dd57991fe13fae09db07d256524c9",
-    "224043946bdf6d6f3cb9f8b30d555878",
     "43133f074e869d36f3caebd6500e4cbf",
     "cc65c35146b04d4012c72c6189f60491",
     "da7fe8b7dd85937b4e4426e61f99a092",
@@ -1499,7 +1497,9 @@
     "ef73df37837bb15177a6f95b8414c988",
     "a76d2cef616d27dd201afb3617a88f14",
     "130de78a0c0d58a044d6cb34ac5b1bcc",
-    "51f7381ec84221218f69d57d040831c5"
+    "51f7381ec84221218f69d57d040831c5",
+    "15a816364771b593d7a9e62453840344",
+    "efcf1fbd795f1761519fc03d60850883"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2086,8 +2086,6 @@
     "interest: adarabioyo -> tottenham"
   ],
   "titles": [
-    "arsenal news: julian alvarez transfer deadline emerges as star signs contract",
-    "\ud83d\udd35 \u26aa\ufe0f \ud83d\udc4b\ud83c\udffc after gabriel jesus, also gabriel martinelli leaves arsenal and joins al",
     "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f fc porto agree deal to sign brazilian talent gabriel mec, here we go! \ud83c\udde7\ud83c\uddf7 ",
     "\ud83d\udea8 \ud83d\udd34 liverpool have made official club to club contact with genk to sign lucca br",
     "\ud83d\udea8 \ud83d\udfe3 \ud83d\udd35 aston villa have reached a verbal agreement to sign taylor harwood bellis ",
@@ -2385,7 +2383,9 @@
     "man city eye move for tottenham target iliman ndiaye after cody gakpo deal colla",
     "man united make barcelona transfer decision after meeting held in last 24 hours ",
     "manchester city looks to have pivoted as they bid to bolster their attack",
-    "sensational cody gakpo liverpool transfer u turn as virgil van dijk wish granted"
+    "sensational cody gakpo liverpool transfer u turn as virgil van dijk wish granted",
+    "ornstein: arsenal hold talks to sign belgian forward, he wants to join",
+    "better than tosin: tottenham must go all out to sign 'immense' star after ndiaye"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2685,12 +2685,12 @@
     "robert sanchez": "https://www.thesportsdb.com/images/media/player/cutout/tp7tca1787691371.png/small",
     "arijon ibrahimovic": "https://images.fotmob.com/image_resources/playerimages/1327150.png",
     "matias fernandez pardo": "https://r2.thesportsdb.com/images/media/player/cutout/8vhxnr1766077473.png/small",
-    "mikael baza": "",
     "vuk pavicevic": "",
     "mika faye": "",
-    "dinis": ""
+    "dinis": "",
+    "mikael baza": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

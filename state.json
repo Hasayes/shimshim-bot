@@ -1,7 +1,5 @@
 {
   "sent": [
-    "9a6e9c9e77377ba712cd88c8a36ff396",
-    "44fcae1203ebfae4ca7079801ce8c882",
     "a3bf60dabf4c166038f9fe34304fc167",
     "7cc74c4c60ec185e1a570d33b3d7c2d0",
     "5412cbb8905ba90fa7922aecabe0e173",
@@ -1499,7 +1497,9 @@
     "bece183ea011d35fd97d1d3670c145a7",
     "547ba06878a58af2ad88f9e19a194ad5",
     "8c3d48b9e43df0c65d0e7d57594b994b",
-    "tg:FabrizioRomanoTG/65879"
+    "tg:FabrizioRomanoTG/65879",
+    "99367a0fd14e8dd1048a83becc662795",
+    "tg:FabrizioRomanoTG/65881"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2101,8 +2101,6 @@
     "interest: tagliafico -> atletico madrid"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f excl: benfica advance on new deal for tomas araujo benfica rejected appro",
-    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f exclusive: augsburg agree deal to sign arijon ibrahimovic from fc bayern,",
     "\ud83d\udea8 \ud83d\udfe2 \u26aa\ufe0f oliver s\u00f8rensen leaves parma and joins celtic on initial loan deal with b",
     "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f exclusive: swansea agree deal to sign jeremy monga from manchester city,",
     "\ud83d\udea8 \ud83d\udd34 liverpool agree deal to sign djylian n'guessan from saint etienne, here we g",
@@ -2400,7 +2398,9 @@
     "jacobs confirms two tottenham \u2018medicals\u2019 as \u00a375m buy option is revealed",
     "arsenal star ethan nwaneri agrees deadline day transfer to join dortmund on loan",
     "arsenal news: last gasp julian alvarez \u00a3128m transfer twist as deadline day talk",
-    "\ud83d\udd34 \u26aa\ufe0f \ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udffc official and never in doubt: neil el aynaoui signs in as new rb leipz"
+    "\ud83d\udd34 \u26aa\ufe0f \ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udffc official and never in doubt: neil el aynaoui signs in as new rb leipz",
+    "liverpool make final transfer decision on cody gakpo in response to \u00a380m man cit",
+    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f brighton reach verbal agreement to sign chema andres, here we go! stuttga"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2698,14 +2698,14 @@
     "folarin balogun": "https://r2.thesportsdb.com/images/media/player/cutout/ic7kq51781348516.png/small",
     "thilo kehrer": "https://r2.thesportsdb.com/images/media/player/cutout/f1a7kt1766238123.png/small",
     "dani ceballos": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Dani_Ceballos%2C_Real_Madrid%2C_2022.jpg/330px-Dani_Ceballos%2C_Real_Madrid%2C_2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "dinis": "",
     "mikael baza": "",
     "vuk pavicevic": "",
     "mykhailo mudryk": "https://www.thesportsdb.com/images/media/player/cutout/uoz87a1787728061.png/small",
     "shim mheuka": "",
-    "mika faye": ""
+    "mika faye": "",
+    "dinis": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

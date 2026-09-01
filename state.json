@@ -1,6 +1,5 @@
 {
   "sent": [
-    "93faf411a3d7d0e229e2269719f20ebd",
     "ebdc0079938f673e7244b6177d5918a1",
     "ead114cb647257e2fdf70b98c0aecdae",
     "b0a62c156b124423f108ab1a6c09a48d",
@@ -1499,7 +1498,8 @@
     "b6f190721a0909b4d026830efbc6e379",
     "tg:FabrizioRomanoTG/65838",
     "tg:FabrizioRomanoTG/65839",
-    "tg:FabrizioRomanoTG/65840"
+    "tg:FabrizioRomanoTG/65840",
+    "tg:FabrizioRomanoTG/65843"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2090,7 +2090,6 @@
     "interest: willian -> liverpool"
   ],
   "titles": [
-    "\u201cit is true \u201d \u2013 fabrizio romano confirms liverpool had made contact over midfiel",
     "barcelona agree \u20ac10m deal for gabriel jesus as arsenal striker heads for medical",
     "arsenal transfer news: brazilian star gabriel martinelli signs long term al hila",
     "\u2018he loves man utd\u2019 \u2013 arsenal warned over elite forward target being pinched by i",
@@ -2389,7 +2388,8 @@
     "done deal: lazio attacker joining stade rennais \u2013 figures & formula revealed",
     "\ud83d\udea8 \ud83d\udd35 official, exclusive story confirmed chelsea sign honest ahanor from atalanta",
     "\ud83d\udcfa new youtube video uploaded! \ud83c\udfac \ud83d\udea8 \ud83d\udca3 bomba! julian decision! enzo day! chelsea bi",
-    "\ud83d\udea8 \ud83d\udd34 \ud83d\udfe1 el chadaille bitshiabu on loan to galatasaray from rb leipzig, here we go!"
+    "\ud83d\udea8 \ud83d\udd34 \ud83d\udfe1 el chadaille bitshiabu on loan to galatasaray from rb leipzig, here we go!",
+    "rt @givemesport : here we go! \ud83d\udea8 @fabrizioromano joins us live on market madness "
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2689,12 +2689,12 @@
     "arijon ibrahimovic": "https://images.fotmob.com/image_resources/playerimages/1327150.png",
     "matias fernandez pardo": "https://r2.thesportsdb.com/images/media/player/cutout/8vhxnr1766077473.png/small",
     "estevao willian": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Estevao-Palmeiras-Liverpool-abr24_%28cropped%29.jpg/330px-Estevao-Palmeiras-Liverpool-abr24_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "mikael baza": "",
     "vuk pavicevic": "",
     "mika faye": "",
-    "dinis": ""
+    "dinis": "",
+    "mikael baza": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

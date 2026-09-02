@@ -1,5 +1,29 @@
 [
  {
+  "id": "tg:FabrizioRomanoTG/65928",
+  "ts": "2026-09-02T21:15:33+00:00",
+  "kind": "deal",
+  "photo": "https://images.fotmob.com/image_resources/playerimages/1557220.png",
+  "stage": "Completed",
+  "player": "Chido Obi",
+  "position": "striker",
+  "age": "\u2014",
+  "from_club": "Manchester United",
+  "to_club": "Willem II",
+  "fee": "\u2014",
+  "style": "\u2014",
+  "fit": "\u2014",
+  "source": "Fabrizio Romano",
+  "sources": [
+   "Fabrizio Romano"
+  ],
+  "srcTier": "tier1",
+  "summary": "Manchester United striker Chido Obi has completed a loan move to Willem II after passing his medical in the Netherlands.",
+  "outlet": "Telegram @fabrizioromanotg",
+  "url": "https://t.me/FabrizioRomanoTG/65943",
+  "title": "\ud83d\udea8 \ud83c\uddf3\ud83c\uddf1 Manchester United striker Chido Obi has completed his loan move to Willem II after medical in the Netherlands. Deal"
+ },
+ {
   "id": "tg:FabrizioRomanoTG/65934",
   "ts": "2026-09-02T15:45:45+00:00",
   "kind": "deal",
@@ -46,30 +70,6 @@
   "outlet": "yahoo",
   "url": "https://uk.sports.yahoo.com/news/deportivo-coruna-seal-season-long-031500552.html",
   "title": "Deportivo A Coruna seal season-long loan deal for Barcelona midfielder Marc Casado with buy option"
- },
- {
-  "id": "tg:FabrizioRomanoTG/65928",
-  "ts": "2026-09-02T14:00:49+00:00",
-  "kind": "deal",
-  "photo": "https://images.fotmob.com/image_resources/playerimages/1557220.png",
-  "stage": "Here we go",
-  "player": "Chido Obi",
-  "position": "striker",
-  "age": "\u2014",
-  "from_club": "Manchester United",
-  "to_club": "Willem II",
-  "fee": "\u2014",
-  "style": "\u2014",
-  "fit": "\u2014",
-  "source": "Fabrizio Romano",
-  "sources": [
-   "Fabrizio Romano"
-  ],
-  "srcTier": "tier1",
-  "summary": "Chido Obi joins Willem II on a season-long loan from Manchester United with medical authorized today. No buy option clause included in the deal.",
-  "outlet": "Telegram @fabrizioromanotg",
-  "url": "https://t.me/FabrizioRomanoTG/65928",
-  "title": "\ud83d\udea8 \ud83c\uddf3\ud83c\uddf1 Chido Obi from Manchester United to Willem II, here we go! Deal done for the striker to join Dutch side on season l"
  },
  {
   "id": "tg:FabrizioRomanoTG/65490",

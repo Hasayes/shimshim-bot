@@ -1,9 +1,5 @@
 {
   "sent": [
-    "421cbb1937e75ce16fed4d46fcd9fb10",
-    "489cc1e1977d0756c11ee135468739e3",
-    "0d054e63a1fa1f52b1c65be3ee4c555d",
-    "41cb7e18b1fc20d9bd2fed3fffad7f4c",
     "b019b18887ed8145df43d089435c5245",
     "f7a11574271266357649fa545e305cf9",
     "dc5f41c78d038016f55f797956f53eee",
@@ -1499,7 +1495,11 @@
     "3447291491b049f042c447a2315e7332",
     "a4965581b366a20008dfaefbc59c353a",
     "2f62ef2089878c72428398fea436352d",
-    "e23292ca8b61c209df7963d81e4a097e"
+    "e23292ca8b61c209df7963d81e4a097e",
+    "58fb2e631d318bdd1aa3846a81218a57",
+    "9d056aeb1b1b5168d1593729762885d7",
+    "6a7ca019cbb85f3e81e73c54b9dee884",
+    "e59e229f7260bf3eae888e6c1b66a332"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2104,10 +2104,6 @@
     "interest: tagliafico -> atletico madrid"
   ],
   "titles": [
-    "romano delivers \u2018here we go\u2019 on major tottenham exit as ndiaye personal terms \u2018a",
-    "alexis mac allister reaches decision on joining man city from liverpool after de",
-    "rt @fabrizioromano : \ud83d\udea8 \u26aa\ufe0f tottenham are ready to buy tosin on permanent deal fro",
-    "man united face zirkzee decision as striker rejects opportunity of late summer e",
     "liverpool open talks with genk to sign 18 year old goalkeeper lucca brughmans",
     "chelsea agree deal to send \u00a340m new signing honest ahanor on loan to crystal pal",
     "liverpool facing humiliation as mac allister reaches decision on joining man cit",
@@ -2403,7 +2399,11 @@
     "nick woltemade lands in turin as juventus deal nears completion",
     "transfer rumors, news: spurs to make late move for pulisic?",
     "liverpool look to hijack late everton deal for bundesliga star as one of three d",
-    "\u2018here we go!\u2019 tottenham strike agreement with chelsea for their 28 year old defe"
+    "\u2018here we go!\u2019 tottenham strike agreement with chelsea for their 28 year old defe",
+    "chelsea\u2019s two candidates to replace enzo fernandez",
+    "transfer: monaco reject chelsea\u2019s \u00a338 5m bid for camara, two players leave arsen",
+    "atletico madrid open tagliafico talks to hijack juventus move",
+    "malick fofana transfer 'hijacked' as arsenal target holds crunch talks with mana"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2702,13 +2702,13 @@
     "mykhailo mudryk": "https://www.thesportsdb.com/images/media/player/cutout/uoz87a1787728061.png/small",
     "kevin danso": "https://r2.thesportsdb.com/images/media/player/cutout/unhinl1739274856.png/small",
     "ben chilwell": "https://r2.thesportsdb.com/images/media/player/cutout/hmc0tf1766054345.png/small",
-    "shim mheuka": "",
     "mika faye": "",
     "dinis": "",
     "mikael baza": "",
-    "vuk pavicevic": ""
+    "vuk pavicevic": "",
+    "shim mheuka": ""
   },
-  "photo_repair_idx": 5,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

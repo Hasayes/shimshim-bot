@@ -1,6 +1,5 @@
 {
   "sent": [
-    "3535c511b2739c6afb3a718a8ca21293",
     "fda34674eb3d49d32d10e3fbcf77105c",
     "5b97f7d2fab867a2bd173084ab9f3549",
     "a7815f12f4712e7e6896510922bc9ce8",
@@ -1499,7 +1498,8 @@
     "0f3946cff2f5c882b99050a85f377357",
     "a3492ca125844415d97b3afb2a6f40b7",
     "dabd41a86c81546a3a03e2b0f8bcb0c4",
-    "8147000b2e8178371e784386f9df3736"
+    "8147000b2e8178371e784386f9df3736",
+    "53ef8ed461c01d772137f89fedb7c793"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2105,7 +2105,6 @@
     "interest: gusto -> liverpool"
   ],
   "titles": [
-    "fabrizio romano confirms \u00a330m liverpool signing is \u2018here we go\u2019 done",
     "fabrizio romano confirms \u00a330m liverpool signing is \u2018here we go\u2019 done teamtalk",
     "liverpool agree \u00a330m deal for genk goalkeeper lucca brughmans this is anfield",
     "celtic secure deal for parma midfielder sorensen after gineitis attempt",
@@ -2404,7 +2403,8 @@
     "\u201chere we go\u201d \u2013 romano & ornstein both confirm \u00a3125m chelsea transfer deal",
     "liverpool miss out on chelsea transfer for \u00a375m star as bradley barcola deal has",
     "ineos officially make first signing of 2026 summer transfer deadline day",
-    "man city make major breakthrough in enzo fernandez pursuit"
+    "man city make major breakthrough in enzo fernandez pursuit",
+    "borna sosa agrees cologne move as palace talks enter final stage"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2703,13 +2703,13 @@
     "mykhailo mudryk": "https://www.thesportsdb.com/images/media/player/cutout/uoz87a1787728061.png/small",
     "kevin danso": "https://r2.thesportsdb.com/images/media/player/cutout/unhinl1739274856.png/small",
     "ben chilwell": "https://r2.thesportsdb.com/images/media/player/cutout/hmc0tf1766054345.png/small",
-    "mikael baza": "",
     "vuk pavicevic": "",
     "shim mheuka": "",
     "mika faye": "",
-    "dinis": ""
+    "dinis": "",
+    "mikael baza": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

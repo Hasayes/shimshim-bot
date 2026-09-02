@@ -1,7 +1,5 @@
 {
   "sent": [
-    "009c33d0cab44cc1a952b446218171cb",
-    "a81ef226a42896e2ca5ed4fd439dc210",
     "4c56e5051ec96226a0213d9c6f8ac6b6",
     "963058ff292180d73acb1bfe9a267af8",
     "55bcf9a8a3f173be9d1f27c3f1a3a4ae",
@@ -1499,7 +1497,9 @@
     "f6e13aca8ab7475ad50d0a01465b6a16",
     "74924f6607201e5707437fdb7733d399",
     "d8127796d6138af501b7dbe6e0e9afc6",
-    "tg:FabrizioRomanoTG/65931"
+    "tg:FabrizioRomanoTG/65931",
+    "tg:FabrizioRomanoTG/65933",
+    "tg:FabrizioRomanoTG/65934"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1844,7 +1844,8 @@
     "casado -> depor": 1,
     "chilwell -> crystal palace": 1,
     "obi -> willem ii": 1,
-    "casado -> deportivo a coruna": 2
+    "casado -> deportivo a coruna": 2,
+    "adingra -> ajax": 1
   },
   "interest": [
     "interest: alvarez -> arsenal",
@@ -2108,8 +2109,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "saints reportedly make offer for teenage dortmund defender",
-    "liverpool officially announce \u00a3123m barcola signing as romano confirms two more ",
     "matthias jaissle in dreamland as newcastle agree \u20ac60m deal for 2 in 1 star",
     "eintracht frankfurt working on kalimuendo return as nottingham forest sign danie",
     "southampton eye transfer for borussia dortmund ace wanted by ac milan",
@@ -2407,11 +2406,12 @@
     "\ud83d\udea8 \u26ab\ufe0f \ud83d\udd35 inter director piero ausilio to leave the club on mutual agreement decisi",
     "azeez undergoes brighton medical ahead \u00a315m move",
     "deportivo a coruna seal season long loan deal for barcelona midfielder marc casa",
-    "\ud83d\udea8 \ud83d\udfe1 \ud83d\udd34 as roma director d\u2019amico confirms: \u201cmanu kone was never close to joining c"
+    "\ud83d\udea8 \ud83d\udfe1 \ud83d\udd34 as roma director d\u2019amico confirms: \u201cmanu kone was never close to joining c",
+    "\ud83d\udea8 \u26ab\ufe0f \ud83d\udd35 official: inter appoint dario baccin as new sporting director as piero au",
+    "\ud83d\udea8 \ud83c\udde8\ud83c\uddee simon adingra to ajax, here we go! deal signed today after medical on loan "
   ],
   "tg_update_offset": 263617426,
   "photos": {
-    "charles de ketelaere": "https://r2.thesportsdb.com/images/media/player/cutout/wqo9ia1695157273.png/small",
     "nico williams": "https://r2.thesportsdb.com/images/media/player/cutout/8lg7941629190551.png/small",
     "aurelien tchouameni": "https://r2.thesportsdb.com/images/media/player/cutout/4o417k1733653668.png/small",
     "zeno debast": "https://r2.thesportsdb.com/images/media/player/cutout/xlp81e1716408284.png/small",
@@ -2705,14 +2705,15 @@
     "kevin danso": "https://r2.thesportsdb.com/images/media/player/cutout/unhinl1739274856.png/small",
     "ben chilwell": "https://r2.thesportsdb.com/images/media/player/cutout/hmc0tf1766054345.png/small",
     "rayan ait nouri": "https://r2.thesportsdb.com/images/media/player/cutout/pxl8n91769182693.png/small",
-    "mika faye": "",
     "chido obi": "https://images.fotmob.com/image_resources/playerimages/1557220.png",
     "dinis": "",
     "mikael baza": "",
     "vuk pavicevic": "",
-    "shim mheuka": ""
+    "shim mheuka": "",
+    "simon adingra": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg/330px-Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "mika faye": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

@@ -1,5 +1,29 @@
 [
  {
+  "id": "tg:FabrizioRomanoTG/65934",
+  "ts": "2026-09-02T15:45:45+00:00",
+  "kind": "deal",
+  "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg/330px-Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "stage": "Here we go",
+  "player": "Simon Adingra",
+  "position": "\u2014",
+  "age": "\u2014",
+  "from_club": "Sunderland",
+  "to_club": "Ajax",
+  "fee": "\u20ac3m loan fee + \u20ac16m buy option",
+  "style": "Pacy winger with directional dribbling and progressive ball-carrying ability.",
+  "fit": "Deploy him in Ajax's attacking setup to add width and creativity on the flank during pressing sequences.",
+  "source": "Fabrizio Romano",
+  "sources": [
+   "Fabrizio Romano"
+  ],
+  "srcTier": "tier1",
+  "summary": "Simon Adingra has completed a loan move from Sunderland to Ajax with a buy option clause. Sunderland will receive over \u20ac3m as loan fee plus a non-mandatory \u20ac16m buy option.",
+  "outlet": "Telegram @fabrizioromanotg",
+  "url": "https://t.me/FabrizioRomanoTG/65934",
+  "title": "\ud83d\udea8 \ud83c\udde8\ud83c\uddee Simon Adingra to Ajax, here we go! Deal signed today after medical on loan with buy option clause. Sunderland to re"
+ },
+ {
   "id": "74924f6607201e5707437fdb7733d399",
   "ts": "2026-09-02T15:15:33+00:00",
   "kind": "deal",

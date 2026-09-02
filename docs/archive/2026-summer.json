@@ -1,5 +1,29 @@
 [
  {
+  "id": "47676d50d11a51e812b522a42940042f",
+  "ts": "2026-08-26T00:15:32+00:00",
+  "kind": "interest",
+  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/74eam91766152411.png/small",
+  "stage": "\u2014",
+  "player": "Amine Gouiri",
+  "position": "\u2014",
+  "age": "\u2014",
+  "from_club": "Marseille",
+  "to_club": "Tottenham Hotspur",
+  "fee": "\u2014",
+  "style": "Pacey, technical forward who combines sharp dribbling with clinical finishing in the final third.",
+  "fit": "Deploy as a dynamic attacking option who can lead the line or operate from the wing to inject creativity and goals into Tottenham's attack.",
+  "source": "football365",
+  "sources": [
+   "football365"
+  ],
+  "srcTier": "standard",
+  "summary": "Tottenham have joined the race to sign Marseille star Amine Gouiri as a deal for Cody Gakpo looks unlikely.",
+  "outlet": "football365",
+  "url": "https://www.football365.com/news/tottenham-turn-to-algeria-international-as-liverpool-rule-out-gakpo-transfer",
+  "title": "Tottenham turn to Algeria international as Liverpool rule out Gakpo transfer"
+ },
+ {
   "id": "510a52270e216231191ef505d99f7811",
   "ts": "2026-08-22T23:15:35+00:00",
   "kind": "interest",

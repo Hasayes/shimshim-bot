@@ -1,8 +1,5 @@
 {
   "sent": [
-    "4f96c06f685009f3d8eb9eb395f33b56",
-    "c183d82baef98e88eed59d21a012efe7",
-    "e2ca3e0950954e1e5795b695098f1b7e",
     "421cbb1937e75ce16fed4d46fcd9fb10",
     "489cc1e1977d0756c11ee135468739e3",
     "0d054e63a1fa1f52b1c65be3ee4c555d",
@@ -1499,7 +1496,10 @@
     "0a213bf039e24af67869d5754cfb3805",
     "ed531364d5e3b9ff44a79e2f6d37a0d7",
     "a46282c067dad4590377300e806b4880",
-    "3447291491b049f042c447a2315e7332"
+    "3447291491b049f042c447a2315e7332",
+    "a4965581b366a20008dfaefbc59c353a",
+    "2f62ef2089878c72428398fea436352d",
+    "e23292ca8b61c209df7963d81e4a097e"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2104,9 +2104,6 @@
     "interest: tagliafico -> atletico madrid"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83d\udfe0 \u26ab\ufe0f exclusive: hull city agree deal to sign tim iroegbunam from everton, here",
-    "\ud83d\udea8 \ud83d\udd35 exclusive: como reach verbal agreement over loan deal to sign robert sanchez",
-    "juventus finally finds a home for jonathan david",
     "romano delivers \u2018here we go\u2019 on major tottenham exit as ndiaye personal terms \u2018a",
     "alexis mac allister reaches decision on joining man city from liverpool after de",
     "rt @fabrizioromano : \ud83d\udea8 \u26aa\ufe0f tottenham are ready to buy tosin on permanent deal fro",
@@ -2403,7 +2400,10 @@
     "arsenal unwilling to match lyon\u2019s \u20ac40m asking price for malick fofana",
     "official \u2013 chelsea sign ahanor from atalanta: \u2018joining in 2027\u2019",
     "enzo fernandez to man city a \u2018done deal\u2019 but chelsea are hit with double rejecti",
-    "nick woltemade lands in turin as juventus deal nears completion"
+    "nick woltemade lands in turin as juventus deal nears completion",
+    "transfer rumors, news: spurs to make late move for pulisic?",
+    "liverpool look to hijack late everton deal for bundesliga star as one of three d",
+    "\u2018here we go!\u2019 tottenham strike agreement with chelsea for their 28 year old defe"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2702,13 +2702,13 @@
     "mykhailo mudryk": "https://www.thesportsdb.com/images/media/player/cutout/uoz87a1787728061.png/small",
     "kevin danso": "https://r2.thesportsdb.com/images/media/player/cutout/unhinl1739274856.png/small",
     "ben chilwell": "https://r2.thesportsdb.com/images/media/player/cutout/hmc0tf1766054345.png/small",
-    "vuk pavicevic": "",
     "shim mheuka": "",
     "mika faye": "",
     "dinis": "",
-    "mikael baza": ""
+    "mikael baza": "",
+    "vuk pavicevic": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 5,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

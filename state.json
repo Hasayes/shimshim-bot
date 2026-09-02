@@ -1,7 +1,5 @@
 {
   "sent": [
-    "1466e3a4b8d0c1bb20925ad0390588d6",
-    "9330396a49069d5908e64035f504f443",
     "da5d47b888ecffe66eb71ad3e1de6834",
     "tg:FabrizioRomanoTG/65187",
     "11de2e4bb047613a63ae913c18812c41",
@@ -1499,7 +1497,9 @@
     "tg:FabrizioRomanoTG/65919",
     "tg:FabrizioRomanoTG/65920",
     "734cc9e3933dbead6a7374afaa269e61",
-    "f9237fc5aafdac8f0b5fdcc67733fd53"
+    "f9237fc5aafdac8f0b5fdcc67733fd53",
+    "485a25e22cda81ece3d99b3d6d1cb1e2",
+    "tg:FabrizioRomanoTG/65924"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2106,7 +2106,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "manchester city may be facing a snag in their bid to sign a dutch international",
     "newcastle transfer picture shifts as fernandez pardo deal advances and juventus ",
     "transfer bombshell newcastle united strike \u00a351m breakthrough as 21 y/o set for m",
     "\ud83d\udd35 \ud83d\udd34 \ud83d\udc4b\ud83c\udffc medical today for barcelona\u2019s winger toni fernandez at venezia \u20ac4m fee, 5",
@@ -2405,7 +2404,8 @@
     "\ud83d\udd34 \u26aa\ufe0f \u2708\ufe0f andria bartishvili, on his way to london as he\u2019s signing for arsenal thi",
     "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 stephan el shaarawy returns to genoa, deal agreed on one year contract plu",
     "rodri\u2019s arrival triggers barcelona exit as la masia gem marc casado finalizes la",
-    "how usmnt star folarin balogun's everton transfer sensationally collapsed after "
+    "how usmnt star folarin balogun's everton transfer sensationally collapsed after ",
+    "\ud83d\udfe1 \ud83d\udd34 deniz gul has arrived at galatasaray after joining on \u20ac11m deal from fc port"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2704,13 +2704,13 @@
     "kevin danso": "https://r2.thesportsdb.com/images/media/player/cutout/unhinl1739274856.png/small",
     "ben chilwell": "https://r2.thesportsdb.com/images/media/player/cutout/hmc0tf1766054345.png/small",
     "rayan ait nouri": "https://r2.thesportsdb.com/images/media/player/cutout/pxl8n91769182693.png/small",
-    "mikael baza": "",
     "vuk pavicevic": "",
     "shim mheuka": "",
     "mika faye": "",
-    "dinis": ""
+    "dinis": "",
+    "mikael baza": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

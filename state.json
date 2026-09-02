@@ -1,6 +1,5 @@
 {
   "sent": [
-    "1c601ea8cf82c3d9e08d0299a15bda4e",
     "9aac9c6fac2441727b104b0c1ae8a13e",
     "511152d98016f1f8656c721c7628f1ba",
     "1466e3a4b8d0c1bb20925ad0390588d6",
@@ -1499,7 +1498,8 @@
     "tg:FabrizioRomanoTG/65914",
     "tg:FabrizioRomanoTG/65916",
     "tg:FabrizioRomanoTG/65917",
-    "tg:FabrizioRomanoTG/65919"
+    "tg:FabrizioRomanoTG/65919",
+    "tg:FabrizioRomanoTG/65920"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2106,7 +2106,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "rt @fabrizioromano : \ud83d\udea8 \ud83d\udd35 exclusive: everton agree personal terms with folarin ba",
     "cody gakpo 'ready to make liverpool u turn' and wreck man city transfer agreemen",
     "superstar edges closer to \u00a385m switch",
     "manchester city may be facing a snag in their bid to sign a dutch international",
@@ -2405,7 +2404,8 @@
     "\ud83d\udd35 \ud83d\udd34 \u270d\ud83c\udffc 19 year old midfielder mirza catovic signed all documents with barcelona ",
     "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f exclusive: besiktas reach verbal agreement in principle with rangers for",
     "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f excl: tomas araujo has just signed a new contract at benfica all complete",
-    "\ud83d\udd34 \u26aa\ufe0f \u2708\ufe0f andria bartishvili, on his way to london as he\u2019s signing for arsenal thi"
+    "\ud83d\udd34 \u26aa\ufe0f \u2708\ufe0f andria bartishvili, on his way to london as he\u2019s signing for arsenal thi",
+    "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 stephan el shaarawy returns to genoa, deal agreed on one year contract plu"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2704,13 +2704,13 @@
     "kevin danso": "https://r2.thesportsdb.com/images/media/player/cutout/unhinl1739274856.png/small",
     "ben chilwell": "https://r2.thesportsdb.com/images/media/player/cutout/hmc0tf1766054345.png/small",
     "rayan ait nouri": "https://r2.thesportsdb.com/images/media/player/cutout/pxl8n91769182693.png/small",
-    "shim mheuka": "",
     "mika faye": "",
     "dinis": "",
     "mikael baza": "",
-    "vuk pavicevic": ""
+    "vuk pavicevic": "",
+    "shim mheuka": ""
   },
-  "photo_repair_idx": 5,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

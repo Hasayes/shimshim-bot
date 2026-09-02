@@ -1,8 +1,5 @@
 {
   "sent": [
-    "e25690e47543fba74cccd2d8bc4ac1bd",
-    "833b27836f37c75eca786b8a27c5612f",
-    "17bf53be95a5e933d69bc2a81fd4bf48",
     "d51e22c8961043a32f482fb65b726662",
     "f2af5c4e5e05ff5e2780e0c0f779a813",
     "b9f08bd39d1fb633e71b8ff1c613c41c",
@@ -1499,7 +1496,10 @@
     "4a5304aa0ed42858ab47b30fd7f08199",
     "967f13cc9756b29673b6d5e736ba9fb4",
     "bf4c15d5cfcbcff403509bda83bac6ae",
-    "54c645b6bad6a2faaf34e35ff9e5da54"
+    "54c645b6bad6a2faaf34e35ff9e5da54",
+    "8c4084b9cc4ad0a4d032e11436e957ae",
+    "2eb3cb9f507f3deeeb6d88b2f7f190c3",
+    "025ea7bc1601012673932d3104057441"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2105,9 +2105,6 @@
     "interest: gusto -> liverpool"
   ],
   "titles": [
-    "romano gives liverpool \u2018here we go\u2019 to attacker signing after cody gakpo update",
-    "just in: chelsea contact agents to explore opportunity to sign frenchman in late",
-    "juventus make \u20ac32 5m bid for joshua zirkzee",
     "transfer: barcelona secure mika faye\u2019s signing as midfielder leaves man utd",
     "liverpool\u2019s \u20ac35m transfer is done \u2013 but his destination this season still isn\u2019t ",
     "romano: liverpool in active talks to sign 'electric' winger after bradley barcol",
@@ -2404,7 +2401,10 @@
     "'green light' fabrizio romano's fresh claim regarding leeds united chase for jea",
     "arsenal make nwaneri decision as star set for deadline day medical london evenin",
     "leeds united transfer live news: the whites reach verbal agreement with eintrach",
-    "premier league transfer deadline day: fernandez to join city | grealish returns "
+    "premier league transfer deadline day: fernandez to join city | grealish returns ",
+    "fabrizio romano: the blockbuster transfer deals still yet to be finalised from d",
+    "manchester united keep left back after talks held with burnley",
+    "contract rebel eyed by arsenal, liverpool, chelsea & man utd likely to command \u00a3"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2703,13 +2703,13 @@
     "mykhailo mudryk": "https://www.thesportsdb.com/images/media/player/cutout/uoz87a1787728061.png/small",
     "kevin danso": "https://r2.thesportsdb.com/images/media/player/cutout/unhinl1739274856.png/small",
     "ben chilwell": "https://r2.thesportsdb.com/images/media/player/cutout/hmc0tf1766054345.png/small",
-    "dinis": "",
     "mikael baza": "",
     "vuk pavicevic": "",
     "shim mheuka": "",
-    "mika faye": ""
+    "mika faye": "",
+    "dinis": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

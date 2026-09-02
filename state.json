@@ -1,6 +1,5 @@
 {
   "sent": [
-    "0793e966b8d6c40d34a90589b077d32b",
     "e987e3ecd16fe0baf2709eee46c45d0c",
     "eac3b7ec366a4aa46bfeeecc7a02be3c",
     "573ec6d43c05032311b7febb81bebb91",
@@ -1499,7 +1498,8 @@
     "e95814b4613d31872b72353172a28d44",
     "015eea4a3f048bb8843f0f1ee6b0956c",
     "1c97682f16ac809c1f5fe69cbeb31c9c",
-    "54e4e6c305eecb6619b10dad576d120d"
+    "54e4e6c305eecb6619b10dad576d120d",
+    "14cce120994fc6102933dd02b945ab35"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2106,7 +2106,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "fabrizio romano confirms man utd have made move for aston villa ace with \u2018decisi",
     "chelsea transfer news: late move for manu kone? as roma hold firm on \u20ac60m valuat",
     "liverpool locked in \u00a375m deadline day battle over premier league winger who is a",
     "romano delivers major green light on liverpool forward signing amid gakpo, sarr ",
@@ -2405,7 +2404,8 @@
     "everton drama unfolds as deal could collapse over failed medical report",
     "rayan ait nouri enquiry made by manchester united",
     "man city respond to man utd deadline day enquiry for surprise left back transfer",
-    "deadline day surprise as man united make late enquiry about signing man city sta"
+    "deadline day surprise as man united make late enquiry about signing man city sta",
+    "everton launch emergency joshua zirkzee bid as folarin balogun medical issues em"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2703,14 +2703,14 @@
     "mykhailo mudryk": "https://www.thesportsdb.com/images/media/player/cutout/uoz87a1787728061.png/small",
     "kevin danso": "https://r2.thesportsdb.com/images/media/player/cutout/unhinl1739274856.png/small",
     "ben chilwell": "https://r2.thesportsdb.com/images/media/player/cutout/hmc0tf1766054345.png/small",
-    "mika faye": "",
     "dinis": "",
     "mikael baza": "",
     "rayan ait nouri": "https://r2.thesportsdb.com/images/media/player/cutout/pxl8n91769182693.png/small",
     "vuk pavicevic": "",
-    "shim mheuka": ""
+    "shim mheuka": "",
+    "mika faye": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

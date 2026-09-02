@@ -1,6 +1,5 @@
 {
   "sent": [
-    "0be6f668955292441ced42ba287c2019",
     "8d6596c505077336495505a1adefd548",
     "8e1a9c2ce076b9d67726a7796629e8af",
     "7a8d99740e9429144d529c66accd2132",
@@ -1499,7 +1498,8 @@
     "022f061ce9a138fac5ad09fa7223d6f2",
     "tg:FabrizioRomanoTG/65938",
     "9ce6b2e707ae7a58429f300fc65f969c",
-    "tg:FabrizioRomanoTG/65940"
+    "tg:FabrizioRomanoTG/65940",
+    "159755cbefcbb1e86dbd72d831a4c921"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2109,7 +2109,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "ismaila sarr reacts after crystal palace reject second liverpool \u2018offer\u2019",
     "new twist for ndiaye's everton exit after fresh talks today as deal faces collap",
     "ornstein: liverpool make cody gakpo transfer decision as man city bid \u00a380m",
     "liverpool reach shock decision on cody gakpo after \u00a380m man city bid \u2013 david orn",
@@ -2408,7 +2407,8 @@
     "\u2615\ufe0f\ud83e\udd50 fc breakfast special, deadline day deals finalised overnight",
     "\ud83d\udd34 \u26aa\ufe0f \ud83e\udd85 official: tomas araujo signs new long term deal at benfica \u201cbenfica has b",
     "reason why man united struggled in their pursuit of a new left back this summer",
-    "\ud83d\udea8 \u26ab\ufe0f \ud83d\udd35 lautaro martinez: \u201cbarcelona links made me proud but i want to stay here,"
+    "\ud83d\udea8 \u26ab\ufe0f \ud83d\udd35 lautaro martinez: \u201cbarcelona links made me proud but i want to stay here,",
+    "wantaway liverpool star holds \u2018clear the air talks\u2019 after failed move as carragh"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2707,13 +2707,13 @@
     "rayan ait nouri": "https://r2.thesportsdb.com/images/media/player/cutout/pxl8n91769182693.png/small",
     "chido obi": "https://images.fotmob.com/image_resources/playerimages/1557220.png",
     "simon adingra": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg/330px-Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "mikael baza": "",
     "vuk pavicevic": "",
     "shim mheuka": "",
     "mika faye": "",
-    "dinis": ""
+    "dinis": "",
+    "mikael baza": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

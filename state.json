@@ -1,7 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/65183",
-    "3388f1c6aaeb2a5ea65bd1f9c393e8a4",
     "bc68a366b574858870841a702adf1736",
     "1c601ea8cf82c3d9e08d0299a15bda4e",
     "9aac9c6fac2441727b104b0c1ae8a13e",
@@ -1499,7 +1497,9 @@
     "e0d1af8d870f69ab751fe1422e0c5f1d",
     "7b8b654f6da54e29ccc29507de8d8317",
     "tg:FabrizioRomanoTG/65913",
-    "tg:FabrizioRomanoTG/65914"
+    "tg:FabrizioRomanoTG/65914",
+    "tg:FabrizioRomanoTG/65916",
+    "tg:FabrizioRomanoTG/65917"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2106,8 +2106,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "'here we go' romano: newcastle agree \u00a350m+ deal to sign matias fernandez pardo",
-    "como eyeing move for chelsea goalkeeper rob sanchez",
     "why atletico are acquiring jonathan david to complete simeone\u2019s attack",
     "rt @fabrizioromano : \ud83d\udea8 \ud83d\udd35 exclusive: everton agree personal terms with folarin ba",
     "cody gakpo 'ready to make liverpool u turn' and wreck man city transfer agreemen",
@@ -2405,7 +2403,9 @@
     "everton table last gasp \u00a310m loan offer for forward, response already given repo",
     "everton confident of new balogun agreement as man utd reject late zirkzee bid",
     "\ud83d\udea8 \ud83c\uddf3\ud83c\uddf1 essien bassey leaves psv eindhoven to join viking fk, deal done on \u20ac1m pack",
-    "\ud83d\udd35 \ud83d\udd34 \u270d\ud83c\udffc 19 year old midfielder mirza catovic signed all documents with barcelona "
+    "\ud83d\udd35 \ud83d\udd34 \u270d\ud83c\udffc 19 year old midfielder mirza catovic signed all documents with barcelona ",
+    "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f exclusive: besiktas reach verbal agreement in principle with rangers for",
+    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f excl: tomas araujo has just signed a new contract at benfica all complete"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2704,13 +2704,13 @@
     "kevin danso": "https://r2.thesportsdb.com/images/media/player/cutout/unhinl1739274856.png/small",
     "ben chilwell": "https://r2.thesportsdb.com/images/media/player/cutout/hmc0tf1766054345.png/small",
     "rayan ait nouri": "https://r2.thesportsdb.com/images/media/player/cutout/pxl8n91769182693.png/small",
-    "mikael baza": "",
     "vuk pavicevic": "",
     "shim mheuka": "",
     "mika faye": "",
-    "dinis": ""
+    "dinis": "",
+    "mikael baza": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

@@ -1,6 +1,5 @@
 {
   "sent": [
-    "64d08a563e5b0378bc1c38ae9897eeb9",
     "0b8cb11427e8aa10faa1ac93228b22e2",
     "c7ee31c48e34c1e9d4d523134d4def6a",
     "717094835097ac1b159277e556ed8450",
@@ -1499,7 +1498,8 @@
     "tg:FabrizioRomanoTG/65924",
     "tg:FabrizioRomanoTG/65925",
     "tg:FabrizioRomanoTG/65926",
-    "tg:FabrizioRomanoTG/65927"
+    "tg:FabrizioRomanoTG/65927",
+    "tg:FabrizioRomanoTG/65928"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1842,7 +1842,8 @@
     "mudryk -> tottenham": 1,
     "danso -> sunderland": 1,
     "casado -> depor": 1,
-    "chilwell -> crystal palace": 1
+    "chilwell -> crystal palace": 1,
+    "obi -> willem ii": 1
   },
   "interest": [
     "interest: alvarez -> arsenal",
@@ -2106,7 +2107,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "liverpool \u2018inform\u2019 cody gakpo of man city transfer decision after formal bid \u2013 f",
     "fiorentina reshape attack as gnonto nears serie a bow and kean heads for como",
     "report: canada\u2019s jonathan david joins atletico madrid on loan from juventus",
     "monza magic with zeballos from boca juniors, ziolkowski and nelsson ready",
@@ -2405,11 +2405,11 @@
     "\ud83d\udfe1 \ud83d\udd34 deniz gul has arrived at galatasaray after joining on \u20ac11m deal from fc port",
     "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f reiss nelson has completed a medical and joins feyenoord as free agent af",
     "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f exclusive: olympiacos reach verbal agreement for surprise deal to sign le",
-    "fofana fa le visite col lione, firma tutti i documenti, aspettano di annunciare "
+    "fofana fa le visite col lione, firma tutti i documenti, aspettano di annunciare ",
+    "\ud83d\udea8 \ud83c\uddf3\ud83c\uddf1 chido obi from manchester united to willem ii, here we go! deal done for th"
   ],
   "tg_update_offset": 263617426,
   "photos": {
-    "joao cancelo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Joao_Cancelo_Croatia_v_Portugal_2_July_2026-002.jpg/330px-Joao_Cancelo_Croatia_v_Portugal_2_July_2026-002.jpg",
     "charles de ketelaere": "https://r2.thesportsdb.com/images/media/player/cutout/wqo9ia1695157273.png/small",
     "nico williams": "https://r2.thesportsdb.com/images/media/player/cutout/8lg7941629190551.png/small",
     "aurelien tchouameni": "https://r2.thesportsdb.com/images/media/player/cutout/4o417k1733653668.png/small",
@@ -2704,13 +2704,14 @@
     "kevin danso": "https://r2.thesportsdb.com/images/media/player/cutout/unhinl1739274856.png/small",
     "ben chilwell": "https://r2.thesportsdb.com/images/media/player/cutout/hmc0tf1766054345.png/small",
     "rayan ait nouri": "https://r2.thesportsdb.com/images/media/player/cutout/pxl8n91769182693.png/small",
-    "dinis": "",
     "mikael baza": "",
     "vuk pavicevic": "",
     "shim mheuka": "",
-    "mika faye": ""
+    "mika faye": "",
+    "chido obi": "https://images.fotmob.com/image_resources/playerimages/1557220.png",
+    "dinis": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",
@@ -2903,6 +2904,7 @@
     "lille osc": "https://r2.thesportsdb.com/images/media/team/badge/2giize1534005340.png/small",
     "deportivo de a coruna": "https://r2.thesportsdb.com/images/media/team/badge/62bvwv1783013156.png/small",
     "eintracht": "https://r2.thesportsdb.com/images/media/team/badge/o65mpq1599589711.png/small",
-    "depor": ""
+    "depor": "",
+    "willem ii": "https://r2.thesportsdb.com/images/media/team/badge/ushlnc1666107465.png/small"
   }
 }

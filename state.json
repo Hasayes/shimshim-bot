@@ -1,7 +1,5 @@
 {
   "sent": [
-    "82ef73a3dc53d9c71b67de9b20a6191f",
-    "tg:FabrizioRomanoTG/65143",
     "93aedbdd46ca11828182ef4304b3f62a",
     "ef7aae619a86e52768bb1e1467c3c1bb",
     "b08c77d98dd90c08342835070513fbba",
@@ -1499,7 +1497,9 @@
     "b56803c212306b2bf70fc29e73744e05",
     "60d478e712f9f95c691898b03f1af0c6",
     "1bfe315a6ecaaae3d0d4f083260eae5b",
-    "e49182e0a94b9e1b516d87225ac8bb9f"
+    "e49182e0a94b9e1b516d87225ac8bb9f",
+    "5464f168dcbdd689a1b4b7138f7be9a0",
+    "fa83aa2fc5492516dc2456de5ea88ed5"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2104,8 +2104,6 @@
     "interest: tagliafico -> atletico madrid"
   ],
   "titles": [
-    "\ud83d\udea8 \u26aa\ufe0f tosin adarabioyo to tottenham, here we go! deal agreed also on personal ter",
-    "\ud83d\udea8 \u26aa\ufe0f breaking: mykhaylo mudryk to tottenham, here we go! everything agreed also ",
     "report: liverpool midfielder set to leave in bargain deal",
     "at the decisive moments: barcelona seal a new signing from the bundesliga",
     "man utd turn down \u00a326m offer with arsenal target \u2018waiting\u2019 to join as replacemen",
@@ -2403,7 +2401,9 @@
     "transfer deadline day live updates: enzo fernandez, manu kone and more done deal",
     "video: chelsea star spotted arriving in italy ahead of deadline day medical",
     "'what i'm told ' romano issues update on everton signing richarlison and balogun",
-    "petit tells arsenal to \u2018bring\u2019 elite striker who has \u2018something different\u2019 to al"
+    "petit tells arsenal to \u2018bring\u2019 elite striker who has \u2018something different\u2019 to al",
+    "gabriel jesus to barcelona: surprising move for the striker",
+    "romano gives enzo fernandez to man city \u2018here we go\u2019 as chelsea \u2018approve\u2019 joint "
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2702,13 +2702,13 @@
     "mykhailo mudryk": "https://www.thesportsdb.com/images/media/player/cutout/uoz87a1787728061.png/small",
     "kevin danso": "https://r2.thesportsdb.com/images/media/player/cutout/unhinl1739274856.png/small",
     "ben chilwell": "https://r2.thesportsdb.com/images/media/player/cutout/hmc0tf1766054345.png/small",
-    "mika faye": "",
     "dinis": "",
     "mikael baza": "",
     "vuk pavicevic": "",
-    "shim mheuka": ""
+    "shim mheuka": "",
+    "mika faye": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

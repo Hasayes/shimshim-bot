@@ -1,6 +1,5 @@
 {
   "sent": [
-    "9bb71f046831b6dad5f7d2bc024faec5",
     "tg:FabrizioRomanoTG/65179",
     "e7b02a3c1291062b5e400d21fd06541f",
     "tg:FabrizioRomanoTG/65180",
@@ -1499,7 +1498,8 @@
     "5baff6cca0436f4db83fa7e5b251e067",
     "2bda913a2006651a9ed1bc2d3c22586b",
     "8bf92ee5401ccc64d677249ad250ec23",
-    "03d06f4ca42d8851d50993c5b508d2c0"
+    "03d06f4ca42d8851d50993c5b508d2c0",
+    "743055e71d4965440fd04d7a51947fdf"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2106,7 +2106,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "victor osimhen transfer: ex inter striker rules out arsenal move in barcelona\u2019s ",
     "here we go! jonathan david tinggalkan juventus demi atletico madrid",
     "breaking: romano says \u201cconcrete possibility\u201d tottenham sign unwanted chelsea cen",
     "aston villa shut door on man utd move for maatsen",
@@ -2405,7 +2404,8 @@
     "bid made: pl club try to sign man united misfit as another transfer in doubt",
     "romano reveals chelsea deadline day signing \u2018here we go\u2019 as \u2018crazy saga\u2019 ends",
     "transfer deadline day live updates: enzo fernandez, lamine camara, folarin balog",
-    "eye opening man utd left back \u2018enquiry\u2019 met with categorical man city response"
+    "eye opening man utd left back \u2018enquiry\u2019 met with categorical man city response",
+    "chelsea strike lamine camara agreement with medical underway for deadline bustin"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2704,13 +2704,13 @@
     "kevin danso": "https://r2.thesportsdb.com/images/media/player/cutout/unhinl1739274856.png/small",
     "ben chilwell": "https://r2.thesportsdb.com/images/media/player/cutout/hmc0tf1766054345.png/small",
     "rayan ait nouri": "https://r2.thesportsdb.com/images/media/player/cutout/pxl8n91769182693.png/small",
-    "vuk pavicevic": "",
     "shim mheuka": "",
     "mika faye": "",
     "dinis": "",
-    "mikael baza": ""
+    "mikael baza": "",
+    "vuk pavicevic": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 5,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

@@ -1,6 +1,5 @@
 {
   "sent": [
-    "ff90f35c6034688046bc5cadd28c8742",
     "7da0940add6678706aadabb8891e1a50",
     "c4b6ecd1dcafa748dc1bf397263ef2c2",
     "c8798a04f5ac20d868a6405d037a0b92",
@@ -1499,7 +1498,8 @@
     "665ae79dd2601e00663f88e27f05595e",
     "1ed0722d0d057fcfc02e9081a0b3564f",
     "098b60325f90f4241d72b7b85e326cc7",
-    "58e0b80015f4edad7a92424613e3a176"
+    "58e0b80015f4edad7a92424613e3a176",
+    "e3c5e851b3a0af35ad8c1d3a4725316c"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2104,7 +2104,6 @@
     "interest: tagliafico -> atletico madrid"
   ],
   "titles": [
-    "transfer news live arsenal striker gabriel jesus set for barcelona medical, isma",
     "liverpool medical underway as shock \u00a330m signing thunders toward completion",
     "hull city 'reach verbal agreement' to sign robinio vaz from roma as buy option f",
     "atletico madrid submit formal offer for juventus striker david",
@@ -2403,7 +2402,8 @@
     "arsenal pass on malick fofana as crystal palace launch dramatic late hijack to s",
     "transfer updates: alvarez, pulisic, sancho, balde, gakpo, others",
     "mykhailo mudryk to tottenham hotspur details emerge as leeds united face wilfrie",
-    "surprise bombshell as ornstein reveals club \u201cworking to hijack sunderland move f"
+    "surprise bombshell as ornstein reveals club \u201cworking to hijack sunderland move f",
+    "journalist provides key julian alvarez transfer update with just hours until dea"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2702,13 +2702,13 @@
     "mykhailo mudryk": "https://www.thesportsdb.com/images/media/player/cutout/uoz87a1787728061.png/small",
     "kevin danso": "https://r2.thesportsdb.com/images/media/player/cutout/unhinl1739274856.png/small",
     "ben chilwell": "https://r2.thesportsdb.com/images/media/player/cutout/hmc0tf1766054345.png/small",
-    "shim mheuka": "",
     "mika faye": "",
     "dinis": "",
     "mikael baza": "",
-    "vuk pavicevic": ""
+    "vuk pavicevic": "",
+    "shim mheuka": ""
   },
-  "photo_repair_idx": 5,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

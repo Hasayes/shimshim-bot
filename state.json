@@ -1,8 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/65154",
-    "tg:FabrizioRomanoTG/65160",
-    "tg:FabrizioRomanoTG/65163",
     "2d63935f08b41d85d34480c5f5807919",
     "tg:FabrizioRomanoTG/65166",
     "tg:FabrizioRomanoTG/65168",
@@ -1499,7 +1496,10 @@
     "d00d133a355493e249044eaba2f2c77d",
     "d387d1856b9a72e8d24ca6cc27405692",
     "b6a2ce9caeba08db2bff8dd9845e047c",
-    "4b0c726d3dd1c151444b4554151fc172"
+    "4b0c726d3dd1c151444b4554151fc172",
+    "d28cfb61308bbcdde0172870d79e303d",
+    "4b26a5586556441f26d0d0b9929f0da6",
+    "17ab918b5a24c77c339ac9951e735542"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2105,8 +2105,6 @@
     "interest: gusto -> liverpool"
   ],
   "titles": [
-    "fabrizio romano claims liverpool\u2019s \u2018favourite candidate\u2019 to replace gakpo wants ",
-    "chelsea make move for kone in case of enzo\u2019s exit",
     "an exciting summer signing is set to be loaned out by manchester city",
     "chelsea close in on \u00a340m teenage defensive sensation",
     "\ud83d\udea8 \ud83d\udd35 exclusive: everton agree personal terms with folarin balogun on four year de",
@@ -2404,7 +2402,9 @@
     "pape matar sarr signs for serie a giants on loan",
     "update on manchester united and their pursuit of this barcelona left back: what ",
     "ineos officially sign left back on transfer deadline day",
-    "\u201cdecision made\u201d \u2013 fabrizio romano provides update on man utd & chelsea transfer "
+    "\u201cdecision made\u201d \u2013 fabrizio romano provides update on man utd & chelsea transfer ",
+    "leeds agree \u00a326m deal for explosive winger as fabrizio romano gives \u2018here we go\u2019",
+    "\u201cthey feel disappointed\u201d \u2013 inside arsenal\u2019s difficult summer after working for \u201c"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2703,13 +2703,13 @@
     "mykhailo mudryk": "https://www.thesportsdb.com/images/media/player/cutout/uoz87a1787728061.png/small",
     "kevin danso": "https://r2.thesportsdb.com/images/media/player/cutout/unhinl1739274856.png/small",
     "ben chilwell": "https://r2.thesportsdb.com/images/media/player/cutout/hmc0tf1766054345.png/small",
-    "vuk pavicevic": "",
     "shim mheuka": "",
     "mika faye": "",
     "dinis": "",
-    "mikael baza": ""
+    "mikael baza": "",
+    "vuk pavicevic": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 5,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

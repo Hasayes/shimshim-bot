@@ -1,6 +1,5 @@
 {
   "sent": [
-    "963058ff292180d73acb1bfe9a267af8",
     "55bcf9a8a3f173be9d1f27c3f1a3a4ae",
     "42a1a77ad63ea10e85021e6443b9facb",
     "c81aa9ad61b7c2b5ca6eca0cca2373f3",
@@ -1499,7 +1498,8 @@
     "tg:FabrizioRomanoTG/65931",
     "tg:FabrizioRomanoTG/65933",
     "tg:FabrizioRomanoTG/65934",
-    "tg:FabrizioRomanoTG/65935"
+    "tg:FabrizioRomanoTG/65935",
+    "tg:FabrizioRomanoTG/65936"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2109,7 +2109,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "eintracht frankfurt working on kalimuendo return as nottingham forest sign danie",
     "southampton eye transfer for borussia dortmund ace wanted by ac milan",
     "barcelona called off pursuit of german forward due to \u20ac50 million valuation \u2013 re",
     "cesc fabregas makes approach to sign chelsea star after xabi alonso decision",
@@ -2408,7 +2407,8 @@
     "\ud83d\udea8 \ud83d\udfe1 \ud83d\udd34 as roma director d\u2019amico confirms: \u201cmanu kone was never close to joining c",
     "\ud83d\udea8 \u26ab\ufe0f \ud83d\udd35 official: inter appoint dario baccin as new sporting director as piero au",
     "\ud83d\udea8 \ud83c\udde8\ud83c\uddee simon adingra to ajax, here we go! deal signed today after medical on loan ",
-    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f giovanni di lorenzo has signed new deal at napoli until june 2030 https:/"
+    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f giovanni di lorenzo has signed new deal at napoli until june 2030 https:/",
+    "\ud83d\udea8 \ud83c\uddf9\ud83c\uddf7 breaking: richarlison has agreed to join trabzonspor with salary agreed, x3"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2706,14 +2706,14 @@
     "ben chilwell": "https://r2.thesportsdb.com/images/media/player/cutout/hmc0tf1766054345.png/small",
     "rayan ait nouri": "https://r2.thesportsdb.com/images/media/player/cutout/pxl8n91769182693.png/small",
     "chido obi": "https://images.fotmob.com/image_resources/playerimages/1557220.png",
-    "mikael baza": "",
     "vuk pavicevic": "",
     "shim mheuka": "",
     "simon adingra": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg/330px-Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "mika faye": "",
-    "dinis": ""
+    "dinis": "",
+    "mikael baza": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

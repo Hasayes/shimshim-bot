@@ -1,7 +1,5 @@
 {
   "sent": [
-    "bc75eac2a0cc43ed6018f26bb857425e",
-    "0d33eaa39a57f7251ddeb0aa1edd1e31",
     "31ffdeb04bcd1ee63ae0cdb210f76012",
     "bcd6a96b1ae380ba384ef2bffbe5e750",
     "tg:FabrizioRomanoTG/65190",
@@ -1499,7 +1497,9 @@
     "tg:FabrizioRomanoTG/65942",
     "tg:FabrizioRomanoTG/65943",
     "4d9a6a8d418ab36d2e2c6d23a752cb0b",
-    "6c82fa8118e0f8fb2b0fe601dab4a796"
+    "6c82fa8118e0f8fb2b0fe601dab4a796",
+    "58719e48c714b8472fe8da227c2dfbd0",
+    "e2ba434aab646dd91c9b8e2af9536902"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2109,8 +2109,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "man united make barcelona transfer decision after meeting held in last 24 hours ",
-    "manchester city looks to have pivoted as they bid to bolster their attack",
     "sensational cody gakpo liverpool transfer u turn as virgil van dijk wish granted",
     "ornstein: arsenal hold talks to sign belgian forward, he wants to join",
     "better than tosin: tottenham must go all out to sign 'immense' star after ndiaye",
@@ -2408,7 +2406,9 @@
     "\ud83d\udea8 \ud83e\ude75 \ud83e\udd0e franculino to trabzonspor, here we go! verbal agreement in place and medic",
     "\ud83d\udea8 \ud83c\uddf3\ud83c\uddf1 manchester united striker chido obi has completed his loan move to willem i",
     "did he say no to arsenal? inside the gunners\u2019 failed bid to sign julian alvarez",
-    "chelsea are furious: \u20ac55 million transfer is suddenly cancelled despite agreemen"
+    "chelsea are furious: \u20ac55 million transfer is suddenly cancelled despite agreemen",
+    "ismaila sarr agent reacts to \u00a350m liverpool transfer miss with impassioned state",
+    "\u20ac55m star fuming with club for blocking dream chelsea transfer"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2707,13 +2707,13 @@
     "rayan ait nouri": "https://r2.thesportsdb.com/images/media/player/cutout/pxl8n91769182693.png/small",
     "chido obi": "https://images.fotmob.com/image_resources/playerimages/1557220.png",
     "simon adingra": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg/330px-Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "vuk pavicevic": "",
     "shim mheuka": "",
     "mika faye": "",
     "dinis": "",
-    "mikael baza": ""
+    "mikael baza": "",
+    "vuk pavicevic": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 5,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

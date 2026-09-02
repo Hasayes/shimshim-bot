@@ -1,5 +1,29 @@
 [
  {
+  "id": "50c7feaf876a54da0eaed9a3a7df270a",
+  "ts": "2026-09-02T22:30:42+00:00",
+  "kind": "deal",
+  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/zdlxoe1701946661.png/small",
+  "stage": "Here we go",
+  "player": "Raskin",
+  "position": "\u2014",
+  "age": "\u2014",
+  "from_club": "Rangers",
+  "to_club": "Besiktas",
+  "fee": "\u2014",
+  "style": "\u2014",
+  "fit": "\u2014",
+  "source": "glasgowtimes",
+  "sources": [
+   "glasgowtimes"
+  ],
+  "srcTier": "standard",
+  "summary": "Rangers have reached a verbal agreement in principle with Besiktas over the sale of Raskin.",
+  "outlet": "glasgowtimes",
+  "url": "https://www.glasgowtimes.co.uk/sport/26515072.rangers-reach-verbal-agreement-big-money-sale/",
+  "title": "Rangers reach 'verbal agreement' with European side over big-money transfer"
+ },
+ {
   "id": "tg:FabrizioRomanoTG/65928",
   "ts": "2026-09-02T21:15:33+00:00",
   "kind": "deal",

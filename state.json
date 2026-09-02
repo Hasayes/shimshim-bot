@@ -1,10 +1,5 @@
 {
   "sent": [
-    "e987e3ecd16fe0baf2709eee46c45d0c",
-    "eac3b7ec366a4aa46bfeeecc7a02be3c",
-    "573ec6d43c05032311b7febb81bebb91",
-    "339b5632b6d87cf8d13212e304710fd6",
-    "9fd82f8bb87820898cd990bc357c3e0f",
     "20a22048b245b1d34d26a015e96d9399",
     "d1271791a98dc13691c3914ee50cb37c",
     "b3503407770fe69ceaca01a525ea6a2d",
@@ -1499,7 +1494,12 @@
     "015eea4a3f048bb8843f0f1ee6b0956c",
     "1c97682f16ac809c1f5fe69cbeb31c9c",
     "54e4e6c305eecb6619b10dad576d120d",
-    "14cce120994fc6102933dd02b945ab35"
+    "14cce120994fc6102933dd02b945ab35",
+    "3fed21f3a5d17210dc4a3118ff0afea5",
+    "3e294695231066cdaa59c6a368226547",
+    "b358a4471ec60edba8bdc2fd8d034b58",
+    "4460c6eb7495462f397c4aaf73249c04",
+    "bc3e3c581be66f641b81868c9949f3a6"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2106,10 +2106,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "chelsea transfer news: late move for manu kone? as roma hold firm on \u20ac60m valuat",
-    "liverpool locked in \u00a375m deadline day battle over premier league winger who is a",
-    "romano delivers major green light on liverpool forward signing amid gakpo, sarr ",
-    "alongside sarr: liverpool also want to sign 'unstoppable' winger before deadline",
     "official: \u00a322m deal completed in worrying news for crystal palace fans as mid ta",
     "romano gives \u201chere we go\u201d for striker transfer to spanish giants",
     "tottenham open talks to sign chelsea star after shock man utd link",
@@ -2405,7 +2401,11 @@
     "rayan ait nouri enquiry made by manchester united",
     "man city respond to man utd deadline day enquiry for surprise left back transfer",
     "deadline day surprise as man united make late enquiry about signing man city sta",
-    "everton launch emergency joshua zirkzee bid as folarin balogun medical issues em"
+    "everton launch emergency joshua zirkzee bid as folarin balogun medical issues em",
+    "folarin balogun\u2019s move to premier league could be off after failed medical tests",
+    "fabrizio romano delivers late \u201chere we go\u201d for \u20ac55m chelsea signing to replace e",
+    "everton now set to sign forward on loan once likened to prime ronaldinho report",
+    "manchester united outcast set to sign for everton as striker deal collapses: rep"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2703,14 +2703,14 @@
     "mykhailo mudryk": "https://www.thesportsdb.com/images/media/player/cutout/uoz87a1787728061.png/small",
     "kevin danso": "https://r2.thesportsdb.com/images/media/player/cutout/unhinl1739274856.png/small",
     "ben chilwell": "https://r2.thesportsdb.com/images/media/player/cutout/hmc0tf1766054345.png/small",
-    "dinis": "",
     "mikael baza": "",
     "rayan ait nouri": "https://r2.thesportsdb.com/images/media/player/cutout/pxl8n91769182693.png/small",
     "vuk pavicevic": "",
     "shim mheuka": "",
-    "mika faye": ""
+    "mika faye": "",
+    "dinis": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

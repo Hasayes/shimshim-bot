@@ -1,5 +1,29 @@
 [
  {
+  "id": "74924f6607201e5707437fdb7733d399",
+  "ts": "2026-09-02T15:15:33+00:00",
+  "kind": "deal",
+  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/ocpyt41768321624.png/small",
+  "stage": "Completed",
+  "player": "Marc Casado",
+  "position": "midfielder",
+  "age": "22",
+  "from_club": "FC Barcelona",
+  "to_club": "Deportivo A Coruna",
+  "fee": "Loan with buy option",
+  "style": "Technically proficient midfielder with strong passing range and ball retention skills developed at Barcelona's academy system.",
+  "fit": "Use as a regular starter in midfield to provide controlled build-up play and help Deportivo maintain possession during their season-long loan period.",
+  "source": "yahoo",
+  "sources": [
+   "yahoo"
+  ],
+  "srcTier": "standard",
+  "summary": "Deportivo A Coruna confirm the signing of Barcelona midfielder Marc Casado on a season-long loan deal with a permanent purchase option. The 22-year-old joins in search of regular first-team minutes.",
+  "outlet": "yahoo",
+  "url": "https://uk.sports.yahoo.com/news/deportivo-coruna-seal-season-long-031500552.html",
+  "title": "Deportivo A Coruna seal season-long loan deal for Barcelona midfielder Marc Casado with buy option"
+ },
+ {
   "id": "tg:FabrizioRomanoTG/65928",
   "ts": "2026-09-02T14:00:49+00:00",
   "kind": "deal",

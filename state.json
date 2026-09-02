@@ -1,8 +1,5 @@
 {
   "sent": [
-    "717094835097ac1b159277e556ed8450",
-    "50d9cd718f4e508bfd0a6821ed14dd05",
-    "4c27cc6eef4cebc2cf42ec7dc89c5082",
     "009c33d0cab44cc1a952b446218171cb",
     "a81ef226a42896e2ca5ed4fd439dc210",
     "4c56e5051ec96226a0213d9c6f8ac6b6",
@@ -1499,7 +1496,10 @@
     "tg:FabrizioRomanoTG/65927",
     "tg:FabrizioRomanoTG/65928",
     "tg:FabrizioRomanoTG/65929",
-    "f6e13aca8ab7475ad50d0a01465b6a16"
+    "f6e13aca8ab7475ad50d0a01465b6a16",
+    "74924f6607201e5707437fdb7733d399",
+    "d8127796d6138af501b7dbe6e0e9afc6",
+    "tg:FabrizioRomanoTG/65931"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1843,7 +1843,8 @@
     "danso -> sunderland": 1,
     "casado -> depor": 1,
     "chilwell -> crystal palace": 1,
-    "obi -> willem ii": 1
+    "obi -> willem ii": 1,
+    "casado -> deportivo a coruna": 2
   },
   "interest": [
     "interest: alvarez -> arsenal",
@@ -2107,8 +2108,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "monza magic with zeballos from boca juniors, ziolkowski and nelsson ready",
-    "this could be a long, strange trip: transfer moves at tottenham offer little con",
     "saints reportedly make offer for teenage dortmund defender",
     "liverpool officially announce \u00a3123m barcola signing as romano confirms two more ",
     "matthias jaissle in dreamland as newcastle agree \u20ac60m deal for 2 in 1 star",
@@ -2406,7 +2405,9 @@
     "fofana fa le visite col lione, firma tutti i documenti, aspettano di annunciare ",
     "\ud83d\udea8 \ud83c\uddf3\ud83c\uddf1 chido obi from manchester united to willem ii, here we go! deal done for th",
     "\ud83d\udea8 \u26ab\ufe0f \ud83d\udd35 inter director piero ausilio to leave the club on mutual agreement decisi",
-    "azeez undergoes brighton medical ahead \u00a315m move"
+    "azeez undergoes brighton medical ahead \u00a315m move",
+    "deportivo a coruna seal season long loan deal for barcelona midfielder marc casa",
+    "\ud83d\udea8 \ud83d\udfe1 \ud83d\udd34 as roma director d\u2019amico confirms: \u201cmanu kone was never close to joining c"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2704,14 +2705,14 @@
     "kevin danso": "https://r2.thesportsdb.com/images/media/player/cutout/unhinl1739274856.png/small",
     "ben chilwell": "https://r2.thesportsdb.com/images/media/player/cutout/hmc0tf1766054345.png/small",
     "rayan ait nouri": "https://r2.thesportsdb.com/images/media/player/cutout/pxl8n91769182693.png/small",
-    "shim mheuka": "",
     "mika faye": "",
     "chido obi": "https://images.fotmob.com/image_resources/playerimages/1557220.png",
     "dinis": "",
     "mikael baza": "",
-    "vuk pavicevic": ""
+    "vuk pavicevic": "",
+    "shim mheuka": ""
   },
-  "photo_repair_idx": 5,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",
@@ -2905,6 +2906,7 @@
     "deportivo de a coruna": "https://r2.thesportsdb.com/images/media/team/badge/62bvwv1783013156.png/small",
     "eintracht": "https://r2.thesportsdb.com/images/media/team/badge/o65mpq1599589711.png/small",
     "depor": "",
-    "willem ii": "https://r2.thesportsdb.com/images/media/team/badge/ushlnc1666107465.png/small"
+    "willem ii": "https://r2.thesportsdb.com/images/media/team/badge/ushlnc1666107465.png/small",
+    "deportivo a coruna": "https://images.fotmob.com/image_resources/logo/teamlogo/9783.png"
   }
 }

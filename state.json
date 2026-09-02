@@ -1,8 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/65168",
-    "04a1b774137d9c208657ea4b7fbbe16f",
-    "524dd8c474304fde8ab6ca0d457f95c9",
     "e25690e47543fba74cccd2d8bc4ac1bd",
     "833b27836f37c75eca786b8a27c5612f",
     "17bf53be95a5e933d69bc2a81fd4bf48",
@@ -1499,7 +1496,10 @@
     "4b26a5586556441f26d0d0b9929f0da6",
     "17ab918b5a24c77c339ac9951e735542",
     "6ca9d59e4363ee4861fb8cb730bbd3c4",
-    "4a5304aa0ed42858ab47b30fd7f08199"
+    "4a5304aa0ed42858ab47b30fd7f08199",
+    "967f13cc9756b29673b6d5e736ba9fb4",
+    "bf4c15d5cfcbcff403509bda83bac6ae",
+    "54c645b6bad6a2faaf34e35ff9e5da54"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2105,9 +2105,6 @@
     "interest: gusto -> liverpool"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83d\udd35 exclusive: everton agree personal terms with folarin balogun on four year de",
-    "\ud83d\udcfa new youtube video uploaded! \ud83c\udfac \ud83d\udea8 \ud83d\udca3 crazy night! double deal done! \u00a375m! united:",
-    "after barcola: liverpool move for another french attacker gets \u2018here we go\u2019 from",
     "romano gives liverpool \u2018here we go\u2019 to attacker signing after cody gakpo update",
     "just in: chelsea contact agents to explore opportunity to sign frenchman in late",
     "juventus make \u20ac32 5m bid for joshua zirkzee",
@@ -2404,7 +2401,10 @@
     "leeds agree \u00a326m deal for explosive winger as fabrizio romano gives \u2018here we go\u2019",
     "\u201cthey feel disappointed\u201d \u2013 inside arsenal\u2019s difficult summer after working for \u201c",
     "'green light' fabrizio romano's fresh claim regarding leeds united transfer chas",
-    "'green light' fabrizio romano's fresh claim regarding leeds united chase for jea"
+    "'green light' fabrizio romano's fresh claim regarding leeds united chase for jea",
+    "arsenal make nwaneri decision as star set for deadline day medical london evenin",
+    "leeds united transfer live news: the whites reach verbal agreement with eintrach",
+    "premier league transfer deadline day: fernandez to join city | grealish returns "
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2703,13 +2703,13 @@
     "mykhailo mudryk": "https://www.thesportsdb.com/images/media/player/cutout/uoz87a1787728061.png/small",
     "kevin danso": "https://r2.thesportsdb.com/images/media/player/cutout/unhinl1739274856.png/small",
     "ben chilwell": "https://r2.thesportsdb.com/images/media/player/cutout/hmc0tf1766054345.png/small",
-    "mika faye": "",
     "dinis": "",
     "mikael baza": "",
     "vuk pavicevic": "",
-    "shim mheuka": ""
+    "shim mheuka": "",
+    "mika faye": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

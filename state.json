@@ -1,6 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/65139",
     "1b6f7dabccd46a0fa22c88068f5d0699",
     "tg:FabrizioRomanoTG/65141",
     "tg:FabrizioRomanoTG/65142",
@@ -1499,7 +1498,8 @@
     "3e89eb3d080c0bb9ebd44924a3680b80",
     "14d92f798eeee6aa8870d6f984b2af26",
     "6d76b59e7286d089b71ea239d6eb9cc5",
-    "9f556f0ee8a15359b31509b0cabfa599"
+    "9f556f0ee8a15359b31509b0cabfa599",
+    "168ad724b5e8842f265af85f01968baa"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2104,7 +2104,6 @@
     "interest: tagliafico -> atletico madrid"
   ],
   "titles": [
-    "fabrizio romano confirms two more tottenham transfers after pape sarr \u2013 \u2018here we",
     "juventus make approach for woltemade as dortmund weigh move",
     "barcelona sign 16 year old defender mikael baza from hsv hamburg",
     "liverpool agree huge future \u20ac35m move for goalkeeper wonderkid",
@@ -2403,7 +2402,8 @@
     "barcelona reach decision on signing julian alvarez after confirmed arsenal deal",
     "arsenal youngster given transfer lifeline as fulham miss out: report",
     "deadline day \u2014 transfer updates you should know #3",
-    "atletico, nicolas tagliafico in talks for deadline day move"
+    "atletico, nicolas tagliafico in talks for deadline day move",
+    "fiorentina sign pedro goncalves from sporting as gudmundsson nears lazio switch"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2702,13 +2702,13 @@
     "mykhailo mudryk": "https://www.thesportsdb.com/images/media/player/cutout/uoz87a1787728061.png/small",
     "kevin danso": "https://r2.thesportsdb.com/images/media/player/cutout/unhinl1739274856.png/small",
     "ben chilwell": "https://r2.thesportsdb.com/images/media/player/cutout/hmc0tf1766054345.png/small",
-    "mikael baza": "",
     "vuk pavicevic": "",
     "shim mheuka": "",
     "mika faye": "",
-    "dinis": ""
+    "dinis": "",
+    "mikael baza": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

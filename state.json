@@ -1,9 +1,5 @@
 {
   "sent": [
-    "20a22048b245b1d34d26a015e96d9399",
-    "d1271791a98dc13691c3914ee50cb37c",
-    "b3503407770fe69ceaca01a525ea6a2d",
-    "2047de9517903762181e03b3b638cc3c",
     "9bb71f046831b6dad5f7d2bc024faec5",
     "tg:FabrizioRomanoTG/65179",
     "e7b02a3c1291062b5e400d21fd06541f",
@@ -1499,7 +1495,11 @@
     "3e294695231066cdaa59c6a368226547",
     "b358a4471ec60edba8bdc2fd8d034b58",
     "4460c6eb7495462f397c4aaf73249c04",
-    "bc3e3c581be66f641b81868c9949f3a6"
+    "bc3e3c581be66f641b81868c9949f3a6",
+    "5baff6cca0436f4db83fa7e5b251e067",
+    "2bda913a2006651a9ed1bc2d3c22586b",
+    "8bf92ee5401ccc64d677249ad250ec23",
+    "03d06f4ca42d8851d50993c5b508d2c0"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2106,10 +2106,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "official: \u00a322m deal completed in worrying news for crystal palace fans as mid ta",
-    "romano gives \u201chere we go\u201d for striker transfer to spanish giants",
-    "tottenham open talks to sign chelsea star after shock man utd link",
-    "lucca brughmans: liverpool complete his \u20ac35m transfer, but where he plays this s",
     "victor osimhen transfer: ex inter striker rules out arsenal move in barcelona\u2019s ",
     "here we go! jonathan david tinggalkan juventus demi atletico madrid",
     "breaking: romano says \u201cconcrete possibility\u201d tottenham sign unwanted chelsea cen",
@@ -2405,7 +2401,11 @@
     "folarin balogun\u2019s move to premier league could be off after failed medical tests",
     "fabrizio romano delivers late \u201chere we go\u201d for \u20ac55m chelsea signing to replace e",
     "everton now set to sign forward on loan once likened to prime ronaldinho report",
-    "manchester united outcast set to sign for everton as striker deal collapses: rep"
+    "manchester united outcast set to sign for everton as striker deal collapses: rep",
+    "bid made: pl club try to sign man united misfit as another transfer in doubt",
+    "romano reveals chelsea deadline day signing \u2018here we go\u2019 as \u2018crazy saga\u2019 ends",
+    "transfer deadline day live updates: enzo fernandez, lamine camara, folarin balog",
+    "eye opening man utd left back \u2018enquiry\u2019 met with categorical man city response"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2703,14 +2703,14 @@
     "mykhailo mudryk": "https://www.thesportsdb.com/images/media/player/cutout/uoz87a1787728061.png/small",
     "kevin danso": "https://r2.thesportsdb.com/images/media/player/cutout/unhinl1739274856.png/small",
     "ben chilwell": "https://r2.thesportsdb.com/images/media/player/cutout/hmc0tf1766054345.png/small",
-    "mikael baza": "",
     "rayan ait nouri": "https://r2.thesportsdb.com/images/media/player/cutout/pxl8n91769182693.png/small",
     "vuk pavicevic": "",
     "shim mheuka": "",
     "mika faye": "",
-    "dinis": ""
+    "dinis": "",
+    "mikael baza": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

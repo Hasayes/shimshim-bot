@@ -1,6 +1,5 @@
 {
   "sent": [
-    "c7ee31c48e34c1e9d4d523134d4def6a",
     "717094835097ac1b159277e556ed8450",
     "50d9cd718f4e508bfd0a6821ed14dd05",
     "4c27cc6eef4cebc2cf42ec7dc89c5082",
@@ -1499,7 +1498,8 @@
     "tg:FabrizioRomanoTG/65926",
     "tg:FabrizioRomanoTG/65927",
     "tg:FabrizioRomanoTG/65928",
-    "tg:FabrizioRomanoTG/65929"
+    "tg:FabrizioRomanoTG/65929",
+    "f6e13aca8ab7475ad50d0a01465b6a16"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2107,7 +2107,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "report: canada\u2019s jonathan david joins atletico madrid on loan from juventus",
     "monza magic with zeballos from boca juniors, ziolkowski and nelsson ready",
     "this could be a long, strange trip: transfer moves at tottenham offer little con",
     "saints reportedly make offer for teenage dortmund defender",
@@ -2406,7 +2405,8 @@
     "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f exclusive: olympiacos reach verbal agreement for surprise deal to sign le",
     "fofana fa le visite col lione, firma tutti i documenti, aspettano di annunciare ",
     "\ud83d\udea8 \ud83c\uddf3\ud83c\uddf1 chido obi from manchester united to willem ii, here we go! deal done for th",
-    "\ud83d\udea8 \u26ab\ufe0f \ud83d\udd35 inter director piero ausilio to leave the club on mutual agreement decisi"
+    "\ud83d\udea8 \u26ab\ufe0f \ud83d\udd35 inter director piero ausilio to leave the club on mutual agreement decisi",
+    "azeez undergoes brighton medical ahead \u00a315m move"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2704,14 +2704,14 @@
     "kevin danso": "https://r2.thesportsdb.com/images/media/player/cutout/unhinl1739274856.png/small",
     "ben chilwell": "https://r2.thesportsdb.com/images/media/player/cutout/hmc0tf1766054345.png/small",
     "rayan ait nouri": "https://r2.thesportsdb.com/images/media/player/cutout/pxl8n91769182693.png/small",
-    "vuk pavicevic": "",
     "shim mheuka": "",
     "mika faye": "",
     "chido obi": "https://images.fotmob.com/image_resources/playerimages/1557220.png",
     "dinis": "",
-    "mikael baza": ""
+    "mikael baza": "",
+    "vuk pavicevic": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 5,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

@@ -1,6 +1,5 @@
 {
   "sent": [
-    "2772fe0acdbcf4fcfd8cc2aaa117090f",
     "546890f5d920ecebe0406036dcddba5b",
     "f3f86bdbd373f950f94ed82ab6b46ba2",
     "0be6f668955292441ced42ba287c2019",
@@ -1499,7 +1498,8 @@
     "tg:FabrizioRomanoTG/65936",
     "49b49b27eebbaba38ab581be5e7e22d1",
     "9d3a9e62b2268e14759e0b54cf2db8b4",
-    "022f061ce9a138fac5ad09fa7223d6f2"
+    "022f061ce9a138fac5ad09fa7223d6f2",
+    "tg:FabrizioRomanoTG/65938"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2109,7 +2109,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "two more liverpool signings imminent as \u00a3123m barcola deal officially announced",
     "juventus, newcastle uinted in talks for loan with nick woltemade",
     "crystal palace respond to second liverpool \u2018offer\u2019 for ismaila sarr",
     "ismaila sarr reacts after crystal palace reject second liverpool \u2018offer\u2019",
@@ -2408,7 +2407,8 @@
     "\ud83d\udea8 \ud83c\uddf9\ud83c\uddf7 breaking: richarlison has agreed to join trabzonspor with salary agreed, x3",
     "lamine camara chelsea transfer: as monaco cancel deal for senegalese midfielder ",
     "clear the air talks held with player after failure to seal late liverpool exit",
-    "\u2615\ufe0f\ud83e\udd50 fc breakfast special, deadline day deals finalised overnight"
+    "\u2615\ufe0f\ud83e\udd50 fc breakfast special, deadline day deals finalised overnight",
+    "\ud83d\udd34 \u26aa\ufe0f \ud83e\udd85 official: tomas araujo signs new long term deal at benfica \u201cbenfica has b"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2707,13 +2707,13 @@
     "rayan ait nouri": "https://r2.thesportsdb.com/images/media/player/cutout/pxl8n91769182693.png/small",
     "chido obi": "https://images.fotmob.com/image_resources/playerimages/1557220.png",
     "simon adingra": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg/330px-Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "mika faye": "",
     "dinis": "",
     "mikael baza": "",
     "vuk pavicevic": "",
-    "shim mheuka": ""
+    "shim mheuka": "",
+    "mika faye": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

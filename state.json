@@ -1,7 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/65181",
-    "643ce3db15456ab7aa50cf8a0b0bc3ea",
     "tg:FabrizioRomanoTG/65182",
     "tg:FabrizioRomanoTG/65183",
     "3388f1c6aaeb2a5ea65bd1f9c393e8a4",
@@ -1499,7 +1497,9 @@
     "743055e71d4965440fd04d7a51947fdf",
     "a4b7a91bb176fed13f1cfa31b6c85813",
     "4c40ac98e16b27722d4e70a06fed61c2",
-    "e0d1af8d870f69ab751fe1422e0c5f1d"
+    "e0d1af8d870f69ab751fe1422e0c5f1d",
+    "7b8b654f6da54e29ccc29507de8d8317",
+    "tg:FabrizioRomanoTG/65913"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2106,8 +2106,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "roma face deadline day balancing act as leweling talks advance and kone draws ch",
-    "fc koln\u2019s said el mala to be included in jurgen klopp\u2019s germany squad",
     "tottenham \u2018working on\u2019 deals to sign two chelsea rejects \u2013 top sources",
     "'here we go' romano: newcastle agree \u00a350m+ deal to sign matias fernandez pardo",
     "como eyeing move for chelsea goalkeeper rob sanchez",
@@ -2405,7 +2403,9 @@
     "chelsea strike lamine camara agreement with medical underway for deadline bustin",
     "failed medical elsewhere helped chelsea secure signing in \u201cone of the craziest\u201d ",
     "everton left in disarray as man united stance changes after \u00a310m joshua zirkzee ",
-    "everton table last gasp \u00a310m loan offer for forward, response already given repo"
+    "everton table last gasp \u00a310m loan offer for forward, response already given repo",
+    "everton confident of new balogun agreement as man utd reject late zirkzee bid",
+    "\ud83d\udea8 \ud83c\uddf3\ud83c\uddf1 essien bassey leaves psv eindhoven to join viking fk, deal done on \u20ac1m pack"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2704,13 +2704,13 @@
     "kevin danso": "https://r2.thesportsdb.com/images/media/player/cutout/unhinl1739274856.png/small",
     "ben chilwell": "https://r2.thesportsdb.com/images/media/player/cutout/hmc0tf1766054345.png/small",
     "rayan ait nouri": "https://r2.thesportsdb.com/images/media/player/cutout/pxl8n91769182693.png/small",
-    "mika faye": "",
     "dinis": "",
     "mikael baza": "",
     "vuk pavicevic": "",
-    "shim mheuka": ""
+    "shim mheuka": "",
+    "mika faye": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

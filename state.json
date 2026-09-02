@@ -1,6 +1,5 @@
 {
   "sent": [
-    "8e1a9c2ce076b9d67726a7796629e8af",
     "7a8d99740e9429144d529c66accd2132",
     "3b0a1f767235102b418ffc4a76c65422",
     "ab333aa9fb593b659df02cb08d2f296c",
@@ -1499,7 +1498,8 @@
     "9ce6b2e707ae7a58429f300fc65f969c",
     "tg:FabrizioRomanoTG/65940",
     "159755cbefcbb1e86dbd72d831a4c921",
-    "2d770e1d1d46a81fe39239f7a28e11a3"
+    "2d770e1d1d46a81fe39239f7a28e11a3",
+    "2c769a832c0740285c22958fab103991"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2109,7 +2109,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "ornstein: liverpool make cody gakpo transfer decision as man city bid \u00a380m",
     "liverpool reach shock decision on cody gakpo after \u00a380m man city bid \u2013 david orn",
     "david ornstein reveals cody gakpo saga \u2018over\u2019 after \u00a380m man city offer to liver",
     "david ornstein: liverpool star set to stay after \u00a380m bid is rejected",
@@ -2408,7 +2407,8 @@
     "reason why man united struggled in their pursuit of a new left back this summer",
     "\ud83d\udea8 \u26ab\ufe0f \ud83d\udd35 lautaro martinez: \u201cbarcelona links made me proud but i want to stay here,",
     "wantaway liverpool star holds \u2018clear the air talks\u2019 after failed move as carragh",
-    "(photo) midfielder pictured at airport on way to signing for arsenal on 5 yr con"
+    "(photo) midfielder pictured at airport on way to signing for arsenal on 5 yr con",
+    "\u201cwe will be back for you\u201d \u2013 liverpool spoke directly to chelsea transfer target "
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2707,13 +2707,13 @@
     "rayan ait nouri": "https://r2.thesportsdb.com/images/media/player/cutout/pxl8n91769182693.png/small",
     "chido obi": "https://images.fotmob.com/image_resources/playerimages/1557220.png",
     "simon adingra": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg/330px-Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "shim mheuka": "",
     "mika faye": "",
     "dinis": "",
     "mikael baza": "",
-    "vuk pavicevic": ""
+    "vuk pavicevic": "",
+    "shim mheuka": ""
   },
-  "photo_repair_idx": 5,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

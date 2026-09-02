@@ -1,9 +1,5 @@
 {
   "sent": [
-    "93aedbdd46ca11828182ef4304b3f62a",
-    "ef7aae619a86e52768bb1e1467c3c1bb",
-    "b08c77d98dd90c08342835070513fbba",
-    "443cc0ab1c7d3a7dff18dbb108ef078c",
     "3535c511b2739c6afb3a718a8ca21293",
     "fda34674eb3d49d32d10e3fbcf77105c",
     "5b97f7d2fab867a2bd173084ab9f3549",
@@ -1499,7 +1495,11 @@
     "1bfe315a6ecaaae3d0d4f083260eae5b",
     "e49182e0a94b9e1b516d87225ac8bb9f",
     "5464f168dcbdd689a1b4b7138f7be9a0",
-    "fa83aa2fc5492516dc2456de5ea88ed5"
+    "fa83aa2fc5492516dc2456de5ea88ed5",
+    "0f3946cff2f5c882b99050a85f377357",
+    "a3492ca125844415d97b3afb2a6f40b7",
+    "dabd41a86c81546a3a03e2b0f8bcb0c4",
+    "8147000b2e8178371e784386f9df3736"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2101,13 +2101,10 @@
     "interest: sanchez -> tottenham",
     "interest: adarabioyo -> tottenham",
     "interest: willian -> liverpool",
-    "interest: tagliafico -> atletico madrid"
+    "interest: tagliafico -> atletico madrid",
+    "interest: gusto -> liverpool"
   ],
   "titles": [
-    "report: liverpool midfielder set to leave in bargain deal",
-    "at the decisive moments: barcelona seal a new signing from the bundesliga",
-    "man utd turn down \u00a326m offer with arsenal target \u2018waiting\u2019 to join as replacemen",
-    "man utd and arsenal striker transfer plans could set up major newcastle deal",
     "fabrizio romano confirms \u00a330m liverpool signing is \u2018here we go\u2019 done",
     "fabrizio romano confirms \u00a330m liverpool signing is \u2018here we go\u2019 done teamtalk",
     "liverpool agree \u00a330m deal for genk goalkeeper lucca brughmans this is anfield",
@@ -2403,7 +2400,11 @@
     "'what i'm told ' romano issues update on everton signing richarlison and balogun",
     "petit tells arsenal to \u2018bring\u2019 elite striker who has \u2018something different\u2019 to al",
     "gabriel jesus to barcelona: surprising move for the striker",
-    "romano gives enzo fernandez to man city \u2018here we go\u2019 as chelsea \u2018approve\u2019 joint "
+    "romano gives enzo fernandez to man city \u2018here we go\u2019 as chelsea \u2018approve\u2019 joint ",
+    "\u201chere we go\u201d \u2013 romano & ornstein both confirm \u00a3125m chelsea transfer deal",
+    "liverpool miss out on chelsea transfer for \u00a375m star as bradley barcola deal has",
+    "ineos officially make first signing of 2026 summer transfer deadline day",
+    "man city make major breakthrough in enzo fernandez pursuit"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2702,13 +2703,13 @@
     "mykhailo mudryk": "https://www.thesportsdb.com/images/media/player/cutout/uoz87a1787728061.png/small",
     "kevin danso": "https://r2.thesportsdb.com/images/media/player/cutout/unhinl1739274856.png/small",
     "ben chilwell": "https://r2.thesportsdb.com/images/media/player/cutout/hmc0tf1766054345.png/small",
-    "dinis": "",
     "mikael baza": "",
     "vuk pavicevic": "",
     "shim mheuka": "",
-    "mika faye": ""
+    "mika faye": "",
+    "dinis": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

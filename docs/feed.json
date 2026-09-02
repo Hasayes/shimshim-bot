@@ -1,5 +1,29 @@
 [
  {
+  "id": "a3492ca125844415d97b3afb2a6f40b7",
+  "ts": "2026-09-02T04:15:36+00:00",
+  "kind": "interest",
+  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/wzyklc1757003476.png/small",
+  "stage": "\u2014",
+  "player": "Malo Gusto",
+  "position": "Defender",
+  "age": "\u2014",
+  "from_club": "Chelsea",
+  "to_club": "Liverpool",
+  "fee": "\u00a375m",
+  "style": "Pacey, technically assured right-back who combines defensive solidity with progressive passing and willingness to contribute in attack.",
+  "fit": "Would provide competition and cover on the right flank, offering defensive stability and creative options to support Liverpool's attacking play from deep.",
+  "source": "teamtalk",
+  "sources": [
+   "teamtalk"
+  ],
+  "srcTier": "standard",
+  "summary": "Liverpool made a bid to sign Chelsea defender Malo Gusto on loan but failed to secure the deal, despite Chelsea's willingness to allow the Frenchman to leave.",
+  "outlet": "teamtalk",
+  "url": "https://www.teamtalk.com/liverpool/liverpool-miss-chelsea-transfer-75m-star-bradley-barcola-deal-consequences",
+  "title": "Liverpool miss out on Chelsea transfer for \u00a375m star as Bradley Barcola deal has consequences"
+ },
+ {
   "id": "tg:FabrizioRomanoTG/65863",
   "ts": "2026-09-01T22:45:38+00:00",
   "kind": "deal",

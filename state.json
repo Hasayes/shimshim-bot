@@ -1,6 +1,5 @@
 {
   "sent": [
-    "b019b18887ed8145df43d089435c5245",
     "f7a11574271266357649fa545e305cf9",
     "dc5f41c78d038016f55f797956f53eee",
     "44dfe319497969e755a6a7c153678791",
@@ -1499,7 +1498,8 @@
     "58fb2e631d318bdd1aa3846a81218a57",
     "9d056aeb1b1b5168d1593729762885d7",
     "6a7ca019cbb85f3e81e73c54b9dee884",
-    "e59e229f7260bf3eae888e6c1b66a332"
+    "e59e229f7260bf3eae888e6c1b66a332",
+    "46b54b59ffc88d1f6ab43cf08d9ebdfe"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2104,7 +2104,6 @@
     "interest: tagliafico -> atletico madrid"
   ],
   "titles": [
-    "liverpool open talks with genk to sign 18 year old goalkeeper lucca brughmans",
     "chelsea agree deal to send \u00a340m new signing honest ahanor on loan to crystal pal",
     "liverpool facing humiliation as mac allister reaches decision on joining man cit",
     "juventus reach sarr agreement and renew zirkzee pursuit",
@@ -2403,7 +2402,8 @@
     "chelsea\u2019s two candidates to replace enzo fernandez",
     "transfer: monaco reject chelsea\u2019s \u00a338 5m bid for camara, two players leave arsen",
     "atletico madrid open tagliafico talks to hijack juventus move",
-    "malick fofana transfer 'hijacked' as arsenal target holds crunch talks with mana"
+    "malick fofana transfer 'hijacked' as arsenal target holds crunch talks with mana",
+    "atletico madrid challenge juventus for tagliafico as alvarez set to stay at metr"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2702,13 +2702,13 @@
     "mykhailo mudryk": "https://www.thesportsdb.com/images/media/player/cutout/uoz87a1787728061.png/small",
     "kevin danso": "https://r2.thesportsdb.com/images/media/player/cutout/unhinl1739274856.png/small",
     "ben chilwell": "https://r2.thesportsdb.com/images/media/player/cutout/hmc0tf1766054345.png/small",
-    "mika faye": "",
     "dinis": "",
     "mikael baza": "",
     "vuk pavicevic": "",
-    "shim mheuka": ""
+    "shim mheuka": "",
+    "mika faye": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

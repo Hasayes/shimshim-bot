@@ -1,5 +1,29 @@
 [
  {
+  "id": "0cf35d0480a490bc477543b686671374",
+  "ts": "2026-08-26T22:45:39+00:00",
+  "kind": "interest",
+  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/v3of4b1762288730.png/small",
+  "stage": "\u2014",
+  "player": "Sorloth",
+  "position": "\u2014",
+  "age": "\u2014",
+  "from_club": "Atletico Madrid",
+  "to_club": "Juventus",
+  "fee": "\u2014",
+  "style": "Aggressive, physical striker with strong hold-up play and ability to finish in the box",
+  "fit": "Deploy as a focal point in Juventus's attack to provide target-man presence and goal-scoring threat in Serie A",
+  "source": "football-italia",
+  "sources": [
+   "football-italia"
+  ],
+  "srcTier": "standard",
+  "summary": "Atletico Madrid have requested information from Juventus regarding exchange options involving Sorloth, with multiple sources reporting Juventus offering players including David as part of a potential deal structure.",
+  "outlet": "football-italia",
+  "url": "https://football-italia.net/atletico-ask-after-david-juventus-want-sorloth/",
+  "title": "Juventus have two options to offer Atletico in exchange for Sorloth, including David"
+ },
+ {
   "id": "tg:FabrizioRomanoTG/65327",
   "ts": "2026-08-26T12:00:51+00:00",
   "kind": "interest",

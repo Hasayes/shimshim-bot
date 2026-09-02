@@ -1,8 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/65179",
-    "e7b02a3c1291062b5e400d21fd06541f",
-    "tg:FabrizioRomanoTG/65180",
     "tg:FabrizioRomanoTG/65181",
     "643ce3db15456ab7aa50cf8a0b0bc3ea",
     "tg:FabrizioRomanoTG/65182",
@@ -1499,7 +1496,10 @@
     "2bda913a2006651a9ed1bc2d3c22586b",
     "8bf92ee5401ccc64d677249ad250ec23",
     "03d06f4ca42d8851d50993c5b508d2c0",
-    "743055e71d4965440fd04d7a51947fdf"
+    "743055e71d4965440fd04d7a51947fdf",
+    "a4b7a91bb176fed13f1cfa31b6c85813",
+    "4c40ac98e16b27722d4e70a06fed61c2",
+    "e0d1af8d870f69ab751fe1422e0c5f1d"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1788,7 +1788,7 @@
     "bah -> augsburg": 1,
     "martinez -> real madrid": 1,
     "kessie -> atalanta": 2,
-    "camara -> chelsea": 1,
+    "camara -> chelsea": 2,
     "hutchinson -> milan": 1,
     "balerdi -> roma": 2,
     "scanlon -> arsenal": 2,
@@ -2106,9 +2106,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "here we go! jonathan david tinggalkan juventus demi atletico madrid",
-    "breaking: romano says \u201cconcrete possibility\u201d tottenham sign unwanted chelsea cen",
-    "aston villa shut door on man utd move for maatsen",
     "roma face deadline day balancing act as leweling talks advance and kone draws ch",
     "fc koln\u2019s said el mala to be included in jurgen klopp\u2019s germany squad",
     "tottenham \u2018working on\u2019 deals to sign two chelsea rejects \u2013 top sources",
@@ -2405,7 +2402,10 @@
     "romano reveals chelsea deadline day signing \u2018here we go\u2019 as \u2018crazy saga\u2019 ends",
     "transfer deadline day live updates: enzo fernandez, lamine camara, folarin balog",
     "eye opening man utd left back \u2018enquiry\u2019 met with categorical man city response",
-    "chelsea strike lamine camara agreement with medical underway for deadline bustin"
+    "chelsea strike lamine camara agreement with medical underway for deadline bustin",
+    "failed medical elsewhere helped chelsea secure signing in \u201cone of the craziest\u201d ",
+    "everton left in disarray as man united stance changes after \u00a310m joshua zirkzee ",
+    "everton table last gasp \u00a310m loan offer for forward, response already given repo"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2704,13 +2704,13 @@
     "kevin danso": "https://r2.thesportsdb.com/images/media/player/cutout/unhinl1739274856.png/small",
     "ben chilwell": "https://r2.thesportsdb.com/images/media/player/cutout/hmc0tf1766054345.png/small",
     "rayan ait nouri": "https://r2.thesportsdb.com/images/media/player/cutout/pxl8n91769182693.png/small",
-    "shim mheuka": "",
     "mika faye": "",
     "dinis": "",
     "mikael baza": "",
-    "vuk pavicevic": ""
+    "vuk pavicevic": "",
+    "shim mheuka": ""
   },
-  "photo_repair_idx": 5,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

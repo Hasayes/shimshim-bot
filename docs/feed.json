@@ -1,5 +1,32 @@
 [
  {
+  "id": "tg:FabrizioRomanoTG/65490",
+  "ts": "2026-09-02T09:30:56+00:00",
+  "kind": "deal",
+  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/1fl2tg1766237973.png/small",
+  "stage": "Completed",
+  "player": "Lamine Camara",
+  "position": "Midfielder",
+  "age": "\u2014",
+  "from_club": "Monaco",
+  "to_club": "Chelsea",
+  "fee": "\u2014",
+  "style": "Energetic box-to-box midfielder with strong pressing and ball recovery abilities in the middle of the park.",
+  "fit": "Deploy as a rotational option in Chelsea's midfield three to provide defensive cover and creative passing options alongside more technical playmakers.",
+  "source": "Ben Jacobs / CaughtOffside",
+  "sources": [
+   "Fabrizio Romano",
+   "football365",
+   "Ben Jacobs",
+   "CaughtOffside"
+  ],
+  "srcTier": "tier1",
+  "summary": "Chelsea signed Monaco midfielder Lamine Camara on Deadline Day as a replacement for Enzo Fernandez's departure to Manchester City, in a move enabled by Folarin Balogun's failed medical with Everton.",
+  "outlet": "caughtoffside",
+  "url": "https://www.caughtoffside.com/2026/09/01/lamine-camara-transfer-to-chelsea-due-to-folarin-balogun-medical/",
+  "title": "Failed medical elsewhere helped Chelsea secure signing in \u201cone of the craziest\u201d Deadline Day sagas"
+ },
+ {
   "id": "015eea4a3f048bb8843f0f1ee6b0956c",
   "ts": "2026-09-02T08:00:43+00:00",
   "kind": "interest",
@@ -1691,31 +1718,6 @@
   "outlet": "Telegram @fabrizioromanotg",
   "url": "https://t.me/FabrizioRomanoTG/65585",
   "title": "\ud83d\udea8 \ud83d\udd34 \u26ab\ufe0f AC Milan reach verbal agreement with Nottingham Forest to sign Omari Hutchinson, here we go! Initial loan deal wi"
- },
- {
-  "id": "tg:FabrizioRomanoTG/65490",
-  "ts": "2026-08-29T19:15:34+00:00",
-  "kind": "deal",
-  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/1fl2tg1766237973.png/small",
-  "stage": "Here we go",
-  "player": "Lamine Camara",
-  "position": "\u2014",
-  "age": "\u2014",
-  "from_club": "AS Monaco",
-  "to_club": "Chelsea",
-  "fee": "\u2014",
-  "style": "Dynamic midfielder who combines technical quality with pressing intensity and ball recovery in the middle of the pitch.",
-  "fit": "Deploy as a box-to-box midfielder or alongside a deeper playmaker to provide energy and defensive cover in Chelsea's midfield.",
-  "source": "football365",
-  "sources": [
-   "Fabrizio Romano",
-   "football365"
-  ],
-  "srcTier": "tier1",
-  "summary": "Chelsea have reached an agreement with AS Monaco for midfielder Lamine Camara as an Enzo Fernandez replacement, with a medical expected within two days.",
-  "outlet": "football365",
-  "url": "https://www.football365.com/news/chelsea-reach-agreement-enzo-fernandez-replacement-medical-expected-two-days",
-  "title": "Chelsea reach agreement for Enzo Fernandez replacement with medical expected within two days"
  },
  {
   "id": "tg:FabrizioRomanoTG/65522",

@@ -1,6 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/65147",
     "tg:FabrizioRomanoTG/65148",
     "tg:FabrizioRomanoTG/65151",
     "tg:FabrizioRomanoTG/65152",
@@ -1499,7 +1498,8 @@
     "08248cd1ca55458792ca5f483c57a439",
     "5674ed4aa8892ff2a3125812580bbdde",
     "af2459146d2767efa8adbd78cc59279e",
-    "7ce2f0b3b64c096777d8717c149f43f7"
+    "7ce2f0b3b64c096777d8717c149f43f7",
+    "b09a695ae91f5b17e65e001c83a465e0"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2105,7 +2105,6 @@
     "interest: gusto -> liverpool"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83d\udca3 breaking: jack grealish will undergo medical as new everton player on tuesda",
     "tottenham considering mind boggling chelsea raid after sale approved \u2013 exclusive",
     "augsburg fend off werder in race for bayern youngster",
     "fabrizio romano confirms leeds \u2018here we go\u2019 for willy gnonto exit with \u00a362m repl",
@@ -2404,7 +2403,8 @@
     "julian alvarez told mikel arteta he didn't want to join arsenal",
     "deadline day \u2014 transfer updates you should know #4",
     "breaking: chelsea agree deal to sell enzo fernandez to man city for \u00a3125m",
-    "chelsea \u2018deal off\u2019 as monaco respond to \u2018second offer\u2019 for camara and kone \u2018deci"
+    "chelsea \u2018deal off\u2019 as monaco respond to \u2018second offer\u2019 for camara and kone \u2018deci",
+    "'here we go' romano: leeds agree jean matteo bahoya transfer"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2703,13 +2703,13 @@
     "mykhailo mudryk": "https://www.thesportsdb.com/images/media/player/cutout/uoz87a1787728061.png/small",
     "kevin danso": "https://r2.thesportsdb.com/images/media/player/cutout/unhinl1739274856.png/small",
     "ben chilwell": "https://r2.thesportsdb.com/images/media/player/cutout/hmc0tf1766054345.png/small",
-    "mika faye": "",
     "dinis": "",
     "mikael baza": "",
     "vuk pavicevic": "",
-    "shim mheuka": ""
+    "shim mheuka": "",
+    "mika faye": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

@@ -1,6 +1,5 @@
 {
   "sent": [
-    "18cda400745d503ef9754f367c3280e9",
     "3534b804067fd54f8b3bba847dcb29d9",
     "9e0febf0d90314edb92f3331b8a2644b",
     "5156227083be5f1a736df837264f4e9c",
@@ -1499,7 +1498,8 @@
     "2104eaab9c35077b8d50d311dea221cc",
     "b9a0555a13d4ffd1ddd75372e3d89c3d",
     "71f2e4f855f971b785ad71e0cd1a37ce",
-    "3e2eca3fe5c164cc2299cc62684f19c9"
+    "3e2eca3fe5c164cc2299cc62684f19c9",
+    "ad9a3d30adca855306d436fe132d43d0"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2111,7 +2111,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "winger begging arsenal to sign him is joining man city instead as romano says \u2018h",
     "tottenham hijack deal for double raid on chelsea as mudryk \u2018agrees to the move\u2019",
     "aston villa make late call to nab everton target as winner to be named imminentl",
     "newcastle united\u2019s nick woltemade set for juventus medical on tuesday",
@@ -2410,7 +2409,8 @@
     "late liverpool striker signing confirmed, as reason for no announcement emerges",
     "manchester united striker chido obi joins willem ii on season long loan",
     "chelsea linked with shock move for another ex liverpool midfielder",
-    "tottenham in dreamland as fabrizio romano confirms mega money richarlison deal \u2018"
+    "tottenham in dreamland as fabrizio romano confirms mega money richarlison deal \u2018",
+    "chelsea reach decision on signing georginio wijnaldum as free agent"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2709,13 +2709,13 @@
     "chido obi": "https://images.fotmob.com/image_resources/playerimages/1557220.png",
     "simon adingra": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg/330px-Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "raskin": "https://r2.thesportsdb.com/images/media/player/cutout/zdlxoe1701946661.png/small",
-    "mikael baza": "",
     "vuk pavicevic": "",
     "shim mheuka": "",
     "mika faye": "",
-    "dinis": ""
+    "dinis": "",
+    "mikael baza": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

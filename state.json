@@ -1,6 +1,5 @@
 {
   "sent": [
-    "de7a80ee850d9ff9bbabc463ed6c2163",
     "1cdd13c0e8c73d590e9e3430a8308c6c",
     "43d7f885a36a805afc3077a51951f9b5",
     "73861540d092819c332a62ee0eda9ba8",
@@ -1499,7 +1498,8 @@
     "454eab66b106143c944ea3f4b61a2eba",
     "146c1b6230a54950860a648888a892ab",
     "6000775645ba7a54ddf3baff4eba5779",
-    "5063a7121a02f2b25be50177fb68c625"
+    "5063a7121a02f2b25be50177fb68c625",
+    "45473e65f61fb97ef84c15b2c0b81a6d"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2110,7 +2110,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "man utd make final barcelona transfer decision after crunch talks ahead of deadl",
     "sarr alternative: liverpool hold talks to sign 'world class' winger",
     "arsenal offered 21yo left winger",
     "manchester united make final decision on alejandro balde transfer before deadlin",
@@ -2409,7 +2408,8 @@
     "rangers reach 'verbal agreement' with european side over big money transfer",
     "liverpool transfer collapse sparks powerful warning over treatment of african pl",
     "david ornstein admits arsenal didn\u2019t achieve key summer goal",
-    "romano confirms arsenal next arrival \u2018on his way\u2019 to \u2018sign this week\u2019 after \u2018her"
+    "romano confirms arsenal next arrival \u2018on his way\u2019 to \u2018sign this week\u2019 after \u2018her",
+    "ismaila sarr agent posts fiery statement after \u00a350m liverpool talks collapse"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2707,14 +2707,14 @@
     "rayan ait nouri": "https://r2.thesportsdb.com/images/media/player/cutout/pxl8n91769182693.png/small",
     "chido obi": "https://images.fotmob.com/image_resources/playerimages/1557220.png",
     "simon adingra": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg/330px-Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "vuk pavicevic": "",
     "raskin": "https://r2.thesportsdb.com/images/media/player/cutout/zdlxoe1701946661.png/small",
     "shim mheuka": "",
     "mika faye": "",
     "dinis": "",
-    "mikael baza": ""
+    "mikael baza": "",
+    "vuk pavicevic": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 5,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

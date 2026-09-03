@@ -1,5 +1,30 @@
 [
  {
+  "id": "4e42a373e93f9db145943dbea9cd336c",
+  "ts": "2026-09-03T10:00:51+00:00",
+  "kind": "deal",
+  "photo": "https://www.thesportsdb.com/images/media/player/cutout/vfg1pr1787690891.png/small",
+  "stage": "Completed",
+  "player": "Tosin Adarabioyo",
+  "position": "defender",
+  "age": "28",
+  "from_club": "Chelsea",
+  "to_club": "Tottenham Hotspur",
+  "fee": "\u2014",
+  "style": "Commanding center-back who reads the game well, positions himself intelligently, and brings Premier League experience to the defense.",
+  "fit": "Should form a reliable defensive partnership at Tottenham's center-back position, providing stability and consistency to shore up their backline.",
+  "source": "yardbarker",
+  "sources": [
+   "metro",
+   "yardbarker"
+  ],
+  "srcTier": "standard",
+  "summary": "Tottenham completed the signing of 28-year-old defender Tosin Adarabioyo from Chelsea on transfer deadline day, paying a higher fee than initially reported.",
+  "outlet": "yardbarker",
+  "url": "https://www.yardbarker.com/soccer/articles/tottenham_paid_a_higher_fee_for_28_year_old_defender_than_first_reported/s1_17451_44252200",
+  "title": "Tottenham paid a higher fee for 28-year-old defender than first reported"
+ },
+ {
   "id": "6a9557d8dfc041cce592987ad764c2f6",
   "ts": "2026-09-03T05:00:46+00:00",
   "kind": "deal",
@@ -799,30 +824,6 @@
   "outlet": "asiantimes",
   "url": "https://www.easterneye.biz/lucca-brughmans-liverpool-transfer-mamardashvili/",
   "title": "Lucca Brughmans: Liverpool complete his \u20ac35m transfer, but where he plays this season isn't up to him"
- },
- {
-  "id": "4e42a373e93f9db145943dbea9cd336c",
-  "ts": "2026-09-01T00:45:39+00:00",
-  "kind": "interest",
-  "photo": "https://www.thesportsdb.com/images/media/player/cutout/vfg1pr1787690891.png/small",
-  "stage": "\u2014",
-  "player": "Tosin Adarabioyo",
-  "position": "\u2014",
-  "age": "\u2014",
-  "from_club": "Chelsea",
-  "to_club": "Tottenham Hotspur",
-  "fee": "\u2014",
-  "style": "Commanding left-footed center-back with strong physical presence and progressive passing ability from deep.",
-  "fit": "Would provide defensive solidity and left-side coverage to complement Tottenham's backline in a four-man defense.",
-  "source": "metro",
-  "sources": [
-   "metro"
-  ],
-  "srcTier": "standard",
-  "summary": "Tottenham have opened talks with Chelsea over a late deal for defender Tosin Adarabioyo after he was offered to Manchester United.",
-  "outlet": "metro",
-  "url": "https://metro.co.uk/2026/08/31/tottenham-open-talks-sign-chelsea-star-shock-man-utd-link-29501566/",
-  "title": "Tottenham open talks to sign Chelsea star after shock Man Utd link"
  },
  {
   "id": "96efe13c696ffedd7d5448b3a9b3e5ed",

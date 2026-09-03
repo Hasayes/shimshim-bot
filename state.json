@@ -1,6 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/65201",
     "8750c56ebd7f03a8356281b5cb763a5b",
     "tg:FabrizioRomanoTG/65202",
     "tg:FabrizioRomanoTG/65203",
@@ -1499,7 +1498,8 @@
     "94cbcd73f6091e1f1e650f3380aa6659",
     "5fd51d6fd138d7c1196992d6cda806b8",
     "62bee2d6580011e650e28022650b2468",
-    "ad5e308c433fce8f7235297a96a1ea5d"
+    "ad5e308c433fce8f7235297a96a1ea5d",
+    "42648f02485b76cc9de7959185edb6ff"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1820,7 +1820,7 @@
     "woltemade -> juventus": 2,
     "doue -> bayer leverkusen": 1,
     "moore -> 1 fc koln": 2,
-    "adarabioyo -> tottenham": 1,
+    "adarabioyo -> tottenham": 2,
     "bajcetic -> celta vigo": 1,
     "grealish -> everton": 2,
     "ibrahimovic -> fc augsburg": 2,
@@ -2111,7 +2111,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "rt @fabrizioromano : \ud83d\udea8 \ud83d\udfe1 \u26ab\ufe0f exclusive: borussia dortmund reach verbal agreement ",
     "chelsea face major decision as rivals make approach for key star",
     "fresh footage confirms imminent newcastle united medical plus deadline day trans",
     "perhaps the least surprising move of the summer has finally been made by manches",
@@ -2410,7 +2409,8 @@
     "richarlison agrees to join onuachu\u2019s trabzonspor",
     "fabrizio romano: tottenham star gives green light to surprise transfer after sal",
     "tottenham hotspur transfer live news: richarlison agrees massive deal to triple ",
-    "man united complete loan deal a day after transfer window closed in england"
+    "man united complete loan deal a day after transfer window closed in england",
+    "tottenham paid a higher fee for 28 year old defender than first reported"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2709,13 +2709,13 @@
     "chido obi": "https://images.fotmob.com/image_resources/playerimages/1557220.png",
     "simon adingra": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg/330px-Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "raskin": "https://r2.thesportsdb.com/images/media/player/cutout/zdlxoe1701946661.png/small",
-    "vuk pavicevic": "",
     "shim mheuka": "",
     "mika faye": "",
     "dinis": "",
-    "mikael baza": ""
+    "mikael baza": "",
+    "vuk pavicevic": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 5,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

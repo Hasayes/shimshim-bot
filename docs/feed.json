@@ -1,5 +1,30 @@
 [
  {
+  "id": "6a9557d8dfc041cce592987ad764c2f6",
+  "ts": "2026-09-03T05:00:46+00:00",
+  "kind": "deal",
+  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/qgim7p1757016148.png/small",
+  "stage": "Here we go",
+  "player": "Richarlison",
+  "position": "Forward",
+  "age": "\u2014",
+  "from_club": "Tottenham Hotspur",
+  "to_club": "Trabzonspor",
+  "fee": "\u2014",
+  "style": "Direct, aggressive forward with strong work rate and physical presence who combines pace with technical ability in transitional play.",
+  "fit": "Use as a primary attacking outlet to drive Trabzonspor's pressing game and create chances through dynamic wing movement and link-up play.",
+  "source": "Fabrizio Romano / GiveMeSport",
+  "sources": [
+   "Fabrizio Romano",
+   "GiveMeSport"
+  ],
+  "srcTier": "tier1",
+  "summary": "Tottenham forward Richarlison has agreed to join Turkish side Trabzonspor. The deal reportedly sees Richarlison offered a significantly increased salary.",
+  "outlet": "givemesport",
+  "url": "https://www.givemesport.com/breaking-richarlison-agrees-personal-terms-leave-tottenham/",
+  "title": "Fabrizio Romano: Tottenham Star Agrees Deal to Leave as 3x Salary Offered"
+ },
+ {
   "id": "50c7feaf876a54da0eaed9a3a7df270a",
   "ts": "2026-09-02T22:30:42+00:00",
   "kind": "deal",

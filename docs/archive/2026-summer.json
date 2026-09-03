@@ -1,5 +1,29 @@
 [
  {
+  "id": "9547ae52e2406c17dbd45dab17200a78",
+  "ts": "2026-08-27T07:45:30+00:00",
+  "kind": "interest",
+  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/6kn1261773670363.png/small",
+  "stage": "\u2014",
+  "player": "Reggiani",
+  "position": "Defender",
+  "age": "\u2014",
+  "from_club": "Borussia Dortmund",
+  "to_club": "AC Milan",
+  "fee": "\u2014",
+  "style": "\u2014",
+  "fit": "\u2014",
+  "source": "bundle_app",
+  "sources": [
+   "bundle_app"
+  ],
+  "srcTier": "standard",
+  "summary": "Borussia Dortmund defender Reggiani has been offered to AC Milan, with the club battling Inter for his signature.",
+  "outlet": "bundle_app",
+  "url": "https://www.bundle.app/en/sports/milan-battle-with-inter-for-borussia-dortmunds-reggiani-the-defender-has-been-offered-to-ac-milan-9D456453-40FD-42DD-A93F-4F2C431740D0",
+  "title": "Milan, battle with Inter for Borussia Dortmund\u2019s Reggiani: the defender has been offered to AC Milan"
+ },
+ {
   "id": "0cf35d0480a490bc477543b686671374",
   "ts": "2026-08-26T22:45:39+00:00",
   "kind": "interest",

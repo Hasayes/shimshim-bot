@@ -1,8 +1,5 @@
 {
   "sent": [
-    "2eb1efce8aee2358fcd31093efca6b90",
-    "42a493885abea57f27f1b7b41c36e1f3",
-    "35b810c8edf75d29de97e8d1f4a410a7",
     "tg:FabrizioRomanoTG/65195",
     "2271a147ceea05114661ea8388935b10",
     "bf4399a373d64ad0ea2f9f98bdfe66e2",
@@ -1499,7 +1496,10 @@
     "9c0b5f3c4a71ffe3a4e561679c632e09",
     "5b57f4fd7850eb18017b277368c208eb",
     "1daafa04caa8b68c236e63cde74633f0",
-    "0c1a2e70397cda78d8cb6937a33cc917"
+    "0c1a2e70397cda78d8cb6937a33cc917",
+    "bcdcba3eb0917c504ce8c2c0ed7098ac",
+    "72c96a90fd061bcd0458dd502024f7e0",
+    "165bd224afd086beb995b1618d17c5cd"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2110,9 +2110,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "ineos officially sign french defender capable of playing left back",
-    "tottenham receive major boost as leeds target chooses spurs move",
-    "aston villa close in on \u00a325m centre back to fill konsa void: good deal for the c",
     "tottenham make shock enquiry to sign chelsea forward on loan",
     "why largie ramazani's leeds future is as unclear as ever as medical booked",
     "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f excl: fulham have reached verbal agreement to sign hugo larsson from ein",
@@ -2409,7 +2406,10 @@
     "\u2018deal done\u2019 \u2013 fabrizio romano drops man utd \u2018here we go\u2019 as ineos \u2018authorise med",
     "man utd: romano reveals \u2018done deal\u2019 for striker exit with medical \u2018taking place ",
     "medical today: man united star leaves on loan after transfer deadline, says fabr",
-    "enzo fernandez sends pointed message to chelsea as he discusses manchester city "
+    "enzo fernandez sends pointed message to chelsea as he discusses manchester city ",
+    "man utd planning four big signings in 2027 in \u00a3500m ineos masterplan",
+    "man utd complete late transfer after deadline day as 'deal agreed' london evenin",
+    "manchester united complete late transfer after deadline day as 'deal agreed'"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2708,13 +2708,13 @@
     "chido obi": "https://images.fotmob.com/image_resources/playerimages/1557220.png",
     "simon adingra": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg/330px-Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "raskin": "https://r2.thesportsdb.com/images/media/player/cutout/zdlxoe1701946661.png/small",
-    "vuk pavicevic": "",
     "shim mheuka": "",
     "mika faye": "",
     "dinis": "",
-    "mikael baza": ""
+    "mikael baza": "",
+    "vuk pavicevic": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 5,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

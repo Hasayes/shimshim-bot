@@ -1,6 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/65210",
     "tg:FabrizioRomanoTG/65211",
     "bdf0c71f0891baf489da9619c974b5a1",
     "tg:FabrizioRomanoTG/65212",
@@ -1499,7 +1498,8 @@
     "66168375928592f1f1379ca75b91fd95",
     "b84f7a68fe7a5921218cc93807cdc60a",
     "7315a8678a7bc5be7087e94d2cc9f08a",
-    "168d755c34c681a3d9b852a1623be404"
+    "168d755c34c681a3d9b852a1623be404",
+    "b78f8ffcdb2f6429116ec367bebf63ff"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2111,7 +2111,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "done deal: leeds star spotted in kit of new club as footage emerges",
     "robert sanchez to leave chelsea just days after blues signed emi martinez as ces",
     "como agreement for sanchez on loan from chelsea",
     "\ud83d\udea8 \ud83d\udd35 exclusive: chelsea send official bid to as monaco for lamine camara worth \u20ac4",
@@ -2410,7 +2409,8 @@
     "transfer news live: arsenal target martinez, vini jr personal terms; man utd dea",
     "lautaro martinez finally breaks his silence on barcelona links: \u2018my only clear d",
     "exclusive: arsenal have a plan in place for ethan nwaneri following loan move to",
-    "richarlison agrees trabzonspor terms as tottenham exit talks continue"
+    "richarlison agrees trabzonspor terms as tottenham exit talks continue",
+    "manchester united announce deadline beating striker exit is now official"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2709,13 +2709,13 @@
     "chido obi": "https://images.fotmob.com/image_resources/playerimages/1557220.png",
     "simon adingra": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg/330px-Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "raskin": "https://r2.thesportsdb.com/images/media/player/cutout/zdlxoe1701946661.png/small",
-    "mikael baza": "",
     "vuk pavicevic": "",
     "shim mheuka": "",
     "mika faye": "",
-    "dinis": ""
+    "dinis": "",
+    "mikael baza": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

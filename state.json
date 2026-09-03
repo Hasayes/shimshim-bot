@@ -1,6 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/65202",
     "tg:FabrizioRomanoTG/65203",
     "200cb8a53c48ffdc010d035b7b70771a",
     "63659319599b9c4b9bffbe0d46e9f167",
@@ -1499,7 +1498,8 @@
     "62bee2d6580011e650e28022650b2468",
     "ad5e308c433fce8f7235297a96a1ea5d",
     "42648f02485b76cc9de7959185edb6ff",
-    "tg:FabrizioRomanoTG/65953"
+    "tg:FabrizioRomanoTG/65953",
+    "tg:FabrizioRomanoTG/65958"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2111,7 +2111,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "fresh footage confirms imminent newcastle united medical plus deadline day trans",
     "perhaps the least surprising move of the summer has finally been made by manches",
     "tottenham suffer new \u00a365m transfer blow hours after liverpool block cody gakpo d",
     "how much everton will pay for folarin balogun and next steps as deal agreed",
@@ -2410,7 +2409,8 @@
     "tottenham hotspur transfer live news: richarlison agrees massive deal to triple ",
     "man united complete loan deal a day after transfer window closed in england",
     "tottenham paid a higher fee for 28 year old defender than first reported",
-    "\ud83e\ude75 \ud83c\udfe1 enzo fernandez: \u201ci\u2019m honestly feeling at home at man city, and that's very i"
+    "\ud83e\ude75 \ud83c\udfe1 enzo fernandez: \u201ci\u2019m honestly feeling at home at man city, and that's very i",
+    "\ud83d\udea8 \ud83c\udde7\ud83c\uddea royal antwerp agree deal to sign arthur vermeeren on loan from rb leipzig, "
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2709,13 +2709,13 @@
     "chido obi": "https://images.fotmob.com/image_resources/playerimages/1557220.png",
     "simon adingra": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg/330px-Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "raskin": "https://r2.thesportsdb.com/images/media/player/cutout/zdlxoe1701946661.png/small",
-    "mika faye": "",
     "dinis": "",
     "mikael baza": "",
     "vuk pavicevic": "",
-    "shim mheuka": ""
+    "shim mheuka": "",
+    "mika faye": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

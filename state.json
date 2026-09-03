@@ -1,6 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/65204",
     "711ac3ea6022bd6c5cd36084c775ee14",
     "c93008903cf9592b6e0363d41bfb678d",
     "tg:FabrizioRomanoTG/65205",
@@ -1499,7 +1498,8 @@
     "tg:FabrizioRomanoTG/65958",
     "6a436d093ac0239e4878a805ba92f195",
     "tg:FabrizioRomanoTG/65959",
-    "tg:FabrizioRomanoTG/65960"
+    "tg:FabrizioRomanoTG/65960",
+    "tg:FabrizioRomanoTG/65963"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2111,7 +2111,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "man city open talks to sign fernandez tuesday gossip",
     "liverpool respond to \u00a330m nottingham forest bid for midfielder as cody gakpo rea",
     "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f matias fernandez pardo deal: all documents have been signed by lille and",
     "sir jim ratcliffe officially signs mohammed amoura for season",
@@ -2410,7 +2409,8 @@
     "\ud83d\udea8 \ud83c\udde7\ud83c\uddea royal antwerp agree deal to sign arthur vermeeren on loan from rb leipzig, ",
     "every player saints were linked with this summer and where they actually signed",
     "\ud83d\udea8 \ud83c\uddf6\ud83c\udde6 al rayyan have agreed deal to sign otavio from al nassr medical booked and ",
-    "\ud83d\udea8 \ud83c\uddf6\ud83c\udde6 al rayyan have agreed deal to sign otavio from al qadsiah medical booked an"
+    "\ud83d\udea8 \ud83c\uddf6\ud83c\udde6 al rayyan have agreed deal to sign otavio from al qadsiah medical booked an",
+    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f official: gabriel martinelli joins al hilal on \u20ac70m package deal from ars"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2709,13 +2709,13 @@
     "chido obi": "https://images.fotmob.com/image_resources/playerimages/1557220.png",
     "simon adingra": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg/330px-Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "raskin": "https://r2.thesportsdb.com/images/media/player/cutout/zdlxoe1701946661.png/small",
-    "shim mheuka": "",
     "mika faye": "",
     "dinis": "",
     "mikael baza": "",
-    "vuk pavicevic": ""
+    "vuk pavicevic": "",
+    "shim mheuka": ""
   },
-  "photo_repair_idx": 5,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

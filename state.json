@@ -1,7 +1,5 @@
 {
   "sent": [
-    "1cdd13c0e8c73d590e9e3430a8308c6c",
-    "43d7f885a36a805afc3077a51951f9b5",
     "73861540d092819c332a62ee0eda9ba8",
     "2c9d9725664021527df06697a82e6d80",
     "34f2d0e12cc4bd5bffd548c00defe30f",
@@ -1499,7 +1497,9 @@
     "146c1b6230a54950860a648888a892ab",
     "6000775645ba7a54ddf3baff4eba5779",
     "5063a7121a02f2b25be50177fb68c625",
-    "45473e65f61fb97ef84c15b2c0b81a6d"
+    "45473e65f61fb97ef84c15b2c0b81a6d",
+    "2e8cb935792e339c1420c7ffdc8dc404",
+    "c30299a4e0673edfe81a289c97c57802"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2110,8 +2110,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "sarr alternative: liverpool hold talks to sign 'world class' winger",
-    "arsenal offered 21yo left winger",
     "manchester united make final decision on alejandro balde transfer before deadlin",
     "romano: tottenham working on deal to sign two chelsea players before deadline",
     "chelsea respond to liverpool enquiry about signing estevao willian",
@@ -2409,7 +2407,9 @@
     "liverpool transfer collapse sparks powerful warning over treatment of african pl",
     "david ornstein admits arsenal didn\u2019t achieve key summer goal",
     "romano confirms arsenal next arrival \u2018on his way\u2019 to \u2018sign this week\u2019 after \u2018her",
-    "ismaila sarr agent posts fiery statement after \u00a350m liverpool talks collapse"
+    "ismaila sarr agent posts fiery statement after \u00a350m liverpool talks collapse",
+    "man utd strike transfer agreement hours after deadline as medical taking place t",
+    "aston villa transfer news: leon bailey set for shock permanent exit to olympiaco"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2708,13 +2708,13 @@
     "chido obi": "https://images.fotmob.com/image_resources/playerimages/1557220.png",
     "simon adingra": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg/330px-Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "raskin": "https://r2.thesportsdb.com/images/media/player/cutout/zdlxoe1701946661.png/small",
-    "shim mheuka": "",
     "mika faye": "",
     "dinis": "",
     "mikael baza": "",
-    "vuk pavicevic": ""
+    "vuk pavicevic": "",
+    "shim mheuka": ""
   },
-  "photo_repair_idx": 5,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

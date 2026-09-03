@@ -1,6 +1,5 @@
 {
   "sent": [
-    "cb642e870d77b9474a6c8a7475ca4ff5",
     "57ff148f4bc5cae4845e4159ef1c4e26",
     "tg:FabrizioRomanoTG/65198",
     "0ee1561b6112665be0b725a0e4d091b4",
@@ -1499,7 +1498,8 @@
     "ac80b0b26ed3fd7a16c6ec7c9572753d",
     "d6c4de91b2c3be6480728f889f311576",
     "f83e6c416efafe4200a69986e9f16268",
-    "93eac1a16a49e3aad2e0ef27492bb3d4"
+    "93eac1a16a49e3aad2e0ef27492bb3d4",
+    "b89ec86d453adc266f31bfc79ccd8dee"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2110,7 +2110,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f conrad harder deal with rc strasbourg has been completed loan deal from r",
     "\ud83d\udea8 \ud83d\udfe1 \u26ab\ufe0f exclusive: borussia dortmund reach verbal agreement to sign ethan nwaneri",
     "everton to receive more money as deal agreed for 'incredible' star's exit report",
     "a move to strengthen their attack is accelerating for manchester city",
@@ -2409,7 +2408,8 @@
     "transfer: chido obi leaves man utd",
     "gavin beith officially joins manchester united",
     "liverpool could seal lamine camara transfer in 2027 \u2013 latest lfc news this is an",
-    "why liverpool aren\u2019t announcing completed striker signing revealed"
+    "why liverpool aren\u2019t announcing completed striker signing revealed",
+    "forget camara: chelsea made secret approach to sign 'mini valverde' from everton"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2708,13 +2708,13 @@
     "chido obi": "https://images.fotmob.com/image_resources/playerimages/1557220.png",
     "simon adingra": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg/330px-Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "raskin": "https://r2.thesportsdb.com/images/media/player/cutout/zdlxoe1701946661.png/small",
-    "vuk pavicevic": "",
     "shim mheuka": "",
     "mika faye": "",
     "dinis": "",
-    "mikael baza": ""
+    "mikael baza": "",
+    "vuk pavicevic": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 5,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

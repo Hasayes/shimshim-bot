@@ -1,8 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/65198",
-    "0ee1561b6112665be0b725a0e4d091b4",
-    "cc36d7d49c70ce04b20c2bfc9516088e",
     "dab741e0f71bcddbd4c69c837ff05b86",
     "18cda400745d503ef9754f367c3280e9",
     "3534b804067fd54f8b3bba847dcb29d9",
@@ -1499,7 +1496,10 @@
     "f83e6c416efafe4200a69986e9f16268",
     "93eac1a16a49e3aad2e0ef27492bb3d4",
     "b89ec86d453adc266f31bfc79ccd8dee",
-    "6a9557d8dfc041cce592987ad764c2f6"
+    "6a9557d8dfc041cce592987ad764c2f6",
+    "2104eaab9c35077b8d50d311dea221cc",
+    "b9a0555a13d4ffd1ddd75372e3d89c3d",
+    "71f2e4f855f971b785ad71e0cd1a37ce"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2111,9 +2111,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "everton to receive more money as deal agreed for 'incredible' star's exit report",
-    "a move to strengthen their attack is accelerating for manchester city",
-    "tottenham approach chelsea over mykhailo mudryk, tosin adarabioyo transfers sour",
     "blow for tottenham as manchester city jump ahead in race to sign everton winger",
     "winger begging arsenal to sign him is joining man city instead as romano says \u2018h",
     "tottenham hijack deal for double raid on chelsea as mudryk \u2018agrees to the move\u2019",
@@ -2410,7 +2407,10 @@
     "liverpool could seal lamine camara transfer in 2027 \u2013 latest lfc news this is an",
     "why liverpool aren\u2019t announcing completed striker signing revealed",
     "forget camara: chelsea made secret approach to sign 'mini valverde' from everton",
-    "fabrizio romano: tottenham star agrees deal to leave as 3x salary offered"
+    "fabrizio romano: tottenham star agrees deal to leave as 3x salary offered",
+    "late liverpool striker signing confirmed, as reason for no announcement emerges",
+    "manchester united striker chido obi joins willem ii on season long loan",
+    "chelsea linked with shock move for another ex liverpool midfielder"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2709,13 +2709,13 @@
     "chido obi": "https://images.fotmob.com/image_resources/playerimages/1557220.png",
     "simon adingra": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg/330px-Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "raskin": "https://r2.thesportsdb.com/images/media/player/cutout/zdlxoe1701946661.png/small",
-    "mika faye": "",
     "dinis": "",
     "mikael baza": "",
     "vuk pavicevic": "",
-    "shim mheuka": ""
+    "shim mheuka": "",
+    "mika faye": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

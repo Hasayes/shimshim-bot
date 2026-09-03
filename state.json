@@ -1,6 +1,5 @@
 {
   "sent": [
-    "faa80ca589b90a89f90e96ed82b38e7d",
     "tg:FabrizioRomanoTG/65201",
     "8750c56ebd7f03a8356281b5cb763a5b",
     "tg:FabrizioRomanoTG/65202",
@@ -1499,7 +1498,8 @@
     "0a7a3644474db50a194b06b021db1b30",
     "94cbcd73f6091e1f1e650f3380aa6659",
     "5fd51d6fd138d7c1196992d6cda806b8",
-    "62bee2d6580011e650e28022650b2468"
+    "62bee2d6580011e650e28022650b2468",
+    "ad5e308c433fce8f7235297a96a1ea5d"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2111,7 +2111,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "tottenham rocked as iliman ndiaye agrees to join man city from everton in \u00a365m d",
     "rt @fabrizioromano : \ud83d\udea8 \ud83d\udfe1 \u26ab\ufe0f exclusive: borussia dortmund reach verbal agreement ",
     "chelsea face major decision as rivals make approach for key star",
     "fresh footage confirms imminent newcastle united medical plus deadline day trans",
@@ -2410,7 +2409,8 @@
     "richarlison to get move away from tottenham and could triple his wages at \u2018this\u2019",
     "richarlison agrees to join onuachu\u2019s trabzonspor",
     "fabrizio romano: tottenham star gives green light to surprise transfer after sal",
-    "tottenham hotspur transfer live news: richarlison agrees massive deal to triple "
+    "tottenham hotspur transfer live news: richarlison agrees massive deal to triple ",
+    "man united complete loan deal a day after transfer window closed in england"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2709,13 +2709,13 @@
     "chido obi": "https://images.fotmob.com/image_resources/playerimages/1557220.png",
     "simon adingra": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg/330px-Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "raskin": "https://r2.thesportsdb.com/images/media/player/cutout/zdlxoe1701946661.png/small",
-    "mikael baza": "",
     "vuk pavicevic": "",
     "shim mheuka": "",
     "mika faye": "",
-    "dinis": ""
+    "dinis": "",
+    "mikael baza": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

@@ -1,6 +1,5 @@
 {
   "sent": [
-    "912a447ec412a94fc3dcd6d3cdfb2b18",
     "2eb1efce8aee2358fcd31093efca6b90",
     "42a493885abea57f27f1b7b41c36e1f3",
     "35b810c8edf75d29de97e8d1f4a410a7",
@@ -1499,7 +1498,8 @@
     "f58e4316f287ed377573a39c43a0caff",
     "9c0b5f3c4a71ffe3a4e561679c632e09",
     "5b57f4fd7850eb18017b277368c208eb",
-    "1daafa04caa8b68c236e63cde74633f0"
+    "1daafa04caa8b68c236e63cde74633f0",
+    "0c1a2e70397cda78d8cb6937a33cc917"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2110,7 +2110,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "ornstein: tottenham pivoting to mykhailo mudryk loan and i honestly can\u2019t even c",
     "ineos officially sign french defender capable of playing left back",
     "tottenham receive major boost as leeds target chooses spurs move",
     "aston villa close in on \u00a325m centre back to fill konsa void: good deal for the c",
@@ -2409,7 +2408,8 @@
     "aston villa transfer news: leon bailey set for shock permanent exit to olympiaco",
     "\u2018deal done\u2019 \u2013 fabrizio romano drops man utd \u2018here we go\u2019 as ineos \u2018authorise med",
     "man utd: romano reveals \u2018done deal\u2019 for striker exit with medical \u2018taking place ",
-    "medical today: man united star leaves on loan after transfer deadline, says fabr"
+    "medical today: man united star leaves on loan after transfer deadline, says fabr",
+    "enzo fernandez sends pointed message to chelsea as he discusses manchester city "
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2708,13 +2708,13 @@
     "chido obi": "https://images.fotmob.com/image_resources/playerimages/1557220.png",
     "simon adingra": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg/330px-Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "raskin": "https://r2.thesportsdb.com/images/media/player/cutout/zdlxoe1701946661.png/small",
-    "mikael baza": "",
     "vuk pavicevic": "",
     "shim mheuka": "",
     "mika faye": "",
-    "dinis": ""
+    "dinis": "",
+    "mikael baza": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

@@ -1,7 +1,5 @@
 {
   "sent": [
-    "fcc01fcdf178d48151bc5e919fe9056a",
-    "ce0d5e1eb0620c75bb8d9556cc63a442",
     "tg:FabrizioRomanoTG/65206",
     "tg:FabrizioRomanoTG/65207",
     "a2021f43a463b409a8fcc17a54329ee3",
@@ -1499,7 +1497,9 @@
     "tg:FabrizioRomanoTG/65963",
     "48c48a1f116144f79ad557d5d8bcf716",
     "ecc1e06bcc8991f8003a881620df8547",
-    "6a51232812df2a3a6b073a4935e08f7c"
+    "6a51232812df2a3a6b073a4935e08f7c",
+    "2d23f48d68caf9b90e69c5ac5a05fc8b",
+    "338026d85dbf248791f84f75dfe70aa8"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2111,8 +2111,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83d\udc2f exclusive: hull city reach verbal agreement to sign brooke norton cuffy from",
-    "update on manchester city and their pursuit of this liverpool winger: what will ",
     "fabrizio romano confirms tottenham \u2018verbal agreement\u2019 reached with chelsea for t",
     "tottenham \u2018reach agreement with chelsea\u2019 for two stars \u2013 one is about to undergo",
     "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 exclusive: genoa agree deal to sign cody drameh from hull city, here we go",
@@ -2410,7 +2408,9 @@
     "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f official: gabriel martinelli joins al hilal on \u20ac70m package deal from ars",
     "danny murphy celebrates liverpool transfer call that has left fans disappointed ",
     "transfer deadline live as celtic and rangers plus aberdeen, hearts and hibs make",
-    "\ud83d\udea8 official: martinelli leaves arsenal and joins al hilal"
+    "\ud83d\udea8 official: martinelli leaves arsenal and joins al hilal",
+    "chelsea did not make bid for roma midfielder",
+    "fabrizio romano confirms liverpool can still sign special midfielder after trans"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2709,13 +2709,13 @@
     "chido obi": "https://images.fotmob.com/image_resources/playerimages/1557220.png",
     "simon adingra": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg/330px-Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "raskin": "https://r2.thesportsdb.com/images/media/player/cutout/zdlxoe1701946661.png/small",
-    "vuk pavicevic": "",
     "shim mheuka": "",
     "mika faye": "",
     "dinis": "",
-    "mikael baza": ""
+    "mikael baza": "",
+    "vuk pavicevic": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 5,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

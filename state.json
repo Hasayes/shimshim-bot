@@ -1,6 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/65218",
     "2ef2e8cd33bcf6db94833d4fbbc6f17e",
     "3a4cad98fa87537b1f42e4d649b097bf",
     "2cb41d791542170bc5668280d14a42ef",
@@ -1499,7 +1498,8 @@
     "18b5ff04f72df34bdbe5287e689a78e4",
     "tg:FabrizioRomanoTG/65971",
     "196b2d9f7b8be17ae1d64ab9cf7a8517",
-    "91548301d2bb300bc0d5d7401acbcb57"
+    "91548301d2bb300bc0d5d7401acbcb57",
+    "tg:FabrizioRomanoTG/65973"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2111,7 +2111,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f lazio agree deal to sign albert gudmundsson from fiorentina, here we go! ",
     "roma considering late move for chelsea winger jamie bynoe gittens",
     "done deal: lazio attacker joining stade rennais \u2013 figures & formula revealed",
     "\ud83d\udea8 \ud83d\udd35 official, exclusive story confirmed chelsea sign honest ahanor from atalanta",
@@ -2410,7 +2409,8 @@
     "liverpool have already agreed first january signing with striker set to join",
     "transfer: martinelli becomes arsenal most expensive sale after al hilal move is ",
     "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f georgian talent andria bartishvili can be considered a new arsenal player",
-    "liverpool accelerate striker signing after fabrizio romano gives \u2018here we go\u2019"
+    "liverpool accelerate striker signing after fabrizio romano gives \u2018here we go\u2019",
+    "\ud83d\udea8 \u274c ferland mendy has been officially excluded from real madrid champions league"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2709,13 +2709,13 @@
     "chido obi": "https://images.fotmob.com/image_resources/playerimages/1557220.png",
     "simon adingra": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg/330px-Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "raskin": "https://r2.thesportsdb.com/images/media/player/cutout/zdlxoe1701946661.png/small",
-    "mika faye": "",
     "dinis": "",
     "mikael baza": "",
     "vuk pavicevic": "",
-    "shim mheuka": ""
+    "shim mheuka": "",
+    "mika faye": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

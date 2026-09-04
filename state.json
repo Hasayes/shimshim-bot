@@ -1,6 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/65222",
     "tg:FabrizioRomanoTG/65223",
     "98ddd94233d2617155f897fb09579938",
     "0ed70eda9e96d440a7233d21855ff21d",
@@ -1499,7 +1498,8 @@
     "tg:FabrizioRomanoTG/65988",
     "3c33efd098347d506af089789ba5099d",
     "tg:FabrizioRomanoTG/65989",
-    "tg:FabrizioRomanoTG/65990"
+    "tg:FabrizioRomanoTG/65990",
+    "tg:FabrizioRomanoTG/65991"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2111,7 +2111,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 malick fofana has completed his medical at sunderland and crystal palace h",
     "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f nico tagliafico gives green light to atletico madrid after he did the sam",
     "arsenal miss out on key deadline day target as 'deal agreed' with premier league",
     "rt @fabrizioromano : \ud83d\udea8 \ud83d\udd34 \ud83d\udd35 malick fofana has completed his medical at sunderland",
@@ -2410,7 +2409,8 @@
     "1\ufe0f\u20e3 \ud83c\udde6\ud83c\uddf7 official: emiliano dibu martinez takes shirt number 1 at chelsea followin",
     "bayern munich news: liverpool baffled by fc bayern inquiry on rio ngumoha; did b",
     "\ud83d\udea8 \ud83c\uddea\ud83c\udde8 marcelo gallardo signs in as new ecuador national team head coach! el munec",
-    "\ud83d\udcfa new youtube video uploaded! \ud83c\udfac \ud83d\udea8 united secret idea, barca striker offered, ben"
+    "\ud83d\udcfa new youtube video uploaded! \ud83c\udfac \ud83d\udea8 united secret idea, barca striker offered, ben",
+    "\ud83d\udea8 \ud83d\udc2f sergej jakirovic signs new two year plus one year option deal at hull city s"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2709,13 +2709,13 @@
     "chido obi": "https://images.fotmob.com/image_resources/playerimages/1557220.png",
     "simon adingra": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg/330px-Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "raskin": "https://r2.thesportsdb.com/images/media/player/cutout/zdlxoe1701946661.png/small",
-    "mika faye": "",
     "dinis": "",
     "mikael baza": "",
     "vuk pavicevic": "",
-    "shim mheuka": ""
+    "shim mheuka": "",
+    "mika faye": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

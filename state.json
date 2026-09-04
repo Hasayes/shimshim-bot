@@ -1,8 +1,5 @@
 {
   "sent": [
-    "5fe4ef085f0d859330543d6888936f9a",
-    "85e9de37f56a108df7783a6f7c9c25e9",
-    "b41f7d8c6686ef844315a594065785a3",
     "d191d308be636814a022042527c599f2",
     "d46c3a47235f0d309844ebb3f142502a",
     "533fc9f2a157e3c713b10cb2fb4460f3",
@@ -1499,7 +1496,10 @@
     "tg:FabrizioRomanoTG/65997",
     "tg:FabrizioRomanoTG/65998",
     "tg:FabrizioRomanoTG/65999",
-    "e3206f964157e58ceaa32f2ec268c819"
+    "e3206f964157e58ceaa32f2ec268c819",
+    "0ebae3ce0643e6cb2b444fd73a174114",
+    "daf56c0cd557337722fe59b50833555f",
+    "2bf6fb19a48b574ef291cb85055ffeaf"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2111,9 +2111,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83d\udfe3 fiorentina agree surprise deal to sign pedro goncalves from sporting, here w",
-    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f claudio echeverri to benfica, here we go! verbal agreement done with man ",
-    "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 olympique lyon have agreed deal to sign youssouf fofana, here we go! detai",
     "controversial us red card star joins pl club as giants seal $132m blockbuster \u2013 ",
     "how man united can line up in dream scenario with new left back arrival on deadl",
     "arsenal news: late julian alvarez transfer twist as deadline day talks emerge",
@@ -2410,7 +2407,10 @@
     "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 official: william pacho signs new deal at paris saint germain until june 2",
     "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 official: fabian ruiz signs new deal at paris saint germain until june 202",
     "\ud83d\udd34 \ud83d\udd35 \ud83d\udd25 paris saint germain announce six new contract signed and sealed \ud83d\udd10 \ud83c\uddea\ud83c\uddf8 luis ",
-    "richarlison frozen out at tottenham as squad decision points towards exit"
+    "richarlison frozen out at tottenham as squad decision points towards exit",
+    "transfer rumors, news: trabzonspor eye richarlison move on deadline day",
+    "transfer: bartishvili completes medicals with arsenal",
+    "liverpool agree deal to sign djylian n'guessan liverpool fc"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2709,13 +2709,13 @@
     "chido obi": "https://images.fotmob.com/image_resources/playerimages/1557220.png",
     "simon adingra": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg/330px-Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "raskin": "https://r2.thesportsdb.com/images/media/player/cutout/zdlxoe1701946661.png/small",
-    "vuk pavicevic": "",
     "shim mheuka": "",
     "mika faye": "",
     "dinis": "",
-    "mikael baza": ""
+    "mikael baza": "",
+    "vuk pavicevic": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 5,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

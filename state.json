@@ -1,6 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/65227",
     "5fe4ef085f0d859330543d6888936f9a",
     "85e9de37f56a108df7783a6f7c9c25e9",
     "b41f7d8c6686ef844315a594065785a3",
@@ -1499,7 +1498,8 @@
     "tg:FabrizioRomanoTG/65996",
     "tg:FabrizioRomanoTG/65997",
     "tg:FabrizioRomanoTG/65998",
-    "tg:FabrizioRomanoTG/65999"
+    "tg:FabrizioRomanoTG/65999",
+    "e3206f964157e58ceaa32f2ec268c819"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2111,7 +2111,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f rayo vallecano are set to sign emil audero on straight loan, agreement do",
     "\ud83d\udea8 \ud83d\udfe3 fiorentina agree surprise deal to sign pedro goncalves from sporting, here w",
     "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f claudio echeverri to benfica, here we go! verbal agreement done with man ",
     "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 olympique lyon have agreed deal to sign youssouf fofana, here we go! detai",
@@ -2410,7 +2409,8 @@
     "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 official: senne mayulu signs new deal at paris saint germain until june 20",
     "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 official: william pacho signs new deal at paris saint germain until june 2",
     "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 official: fabian ruiz signs new deal at paris saint germain until june 202",
-    "\ud83d\udd34 \ud83d\udd35 \ud83d\udd25 paris saint germain announce six new contract signed and sealed \ud83d\udd10 \ud83c\uddea\ud83c\uddf8 luis "
+    "\ud83d\udd34 \ud83d\udd35 \ud83d\udd25 paris saint germain announce six new contract signed and sealed \ud83d\udd10 \ud83c\uddea\ud83c\uddf8 luis ",
+    "richarlison frozen out at tottenham as squad decision points towards exit"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2709,13 +2709,13 @@
     "chido obi": "https://images.fotmob.com/image_resources/playerimages/1557220.png",
     "simon adingra": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg/330px-Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "raskin": "https://r2.thesportsdb.com/images/media/player/cutout/zdlxoe1701946661.png/small",
-    "mikael baza": "",
     "vuk pavicevic": "",
     "shim mheuka": "",
     "mika faye": "",
-    "dinis": ""
+    "dinis": "",
+    "mikael baza": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

@@ -1,5 +1,31 @@
 [
  {
+  "id": "6f2238009a868e12d4dc7711ee94c1a2",
+  "ts": "2026-08-28T22:45:31+00:00",
+  "kind": "interest",
+  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/5yb3rv1733653315.png/small",
+  "stage": "\u2014",
+  "player": "Endrick",
+  "position": "Striker",
+  "age": "20",
+  "from_club": "Real Madrid",
+  "to_club": "AC Milan, Liverpool, Arsenal",
+  "fee": "Undisclosed",
+  "style": "Explosive young striker with exceptional dribbling, pace and finishing ability; direct, aggressive playing style in transition.",
+  "fit": "Should operate as a dynamic, press-resistant forward who can exploit Arsenal's attacking space and create chances through individual brilliance.",
+  "source": "CaughtOffside",
+  "summary": "Arsenal are reportedly back in contact with Real Madrid over a potential transfer move for striker Endrick, a Brazil international.",
+  "outlet": "caughtoffside",
+  "url": "https://www.caughtoffside.com/2026/08/28/arsenal-back-in-for-endrick-transfer/",
+  "title": "Fresh approach made: Arsenal back in contact over signing Real Madrid star",
+  "sources": [
+   "Paul Joyce",
+   "The Times",
+   "CaughtOffside"
+  ],
+  "srcTier": "tier1"
+ },
+ {
   "id": "34d371d106e88a5be78b993a608319de",
   "ts": "2026-08-28T21:27:33+00:00",
   "kind": "interest",

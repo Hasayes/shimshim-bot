@@ -1,6 +1,5 @@
 {
   "sent": [
-    "d191d308be636814a022042527c599f2",
     "d46c3a47235f0d309844ebb3f142502a",
     "533fc9f2a157e3c713b10cb2fb4460f3",
     "983dc881e439af4817b320ed296a0abb",
@@ -1499,7 +1498,8 @@
     "e3206f964157e58ceaa32f2ec268c819",
     "0ebae3ce0643e6cb2b444fd73a174114",
     "daf56c0cd557337722fe59b50833555f",
-    "2bf6fb19a48b574ef291cb85055ffeaf"
+    "2bf6fb19a48b574ef291cb85055ffeaf",
+    "a99804326384d45feaa706b30753e1ca"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2111,7 +2111,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "controversial us red card star joins pl club as giants seal $132m blockbuster \u2013 ",
     "how man united can line up in dream scenario with new left back arrival on deadl",
     "arsenal news: late julian alvarez transfer twist as deadline day talks emerge",
     "\ud83d\udea8 \ud83d\udfe1 \u26ab\ufe0f al ittihad have agreed deal to sign richard rios, here we go! loan deal f",
@@ -2410,7 +2409,8 @@
     "richarlison frozen out at tottenham as squad decision points towards exit",
     "transfer rumors, news: trabzonspor eye richarlison move on deadline day",
     "transfer: bartishvili completes medicals with arsenal",
-    "liverpool agree deal to sign djylian n'guessan liverpool fc"
+    "liverpool agree deal to sign djylian n'guessan liverpool fc",
+    "arsenal seal deal for georgian teenager andria bartishvili"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2709,13 +2709,13 @@
     "chido obi": "https://images.fotmob.com/image_resources/playerimages/1557220.png",
     "simon adingra": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg/330px-Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "raskin": "https://r2.thesportsdb.com/images/media/player/cutout/zdlxoe1701946661.png/small",
-    "shim mheuka": "",
     "mika faye": "",
     "dinis": "",
     "mikael baza": "",
-    "vuk pavicevic": ""
+    "vuk pavicevic": "",
+    "shim mheuka": ""
   },
-  "photo_repair_idx": 5,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

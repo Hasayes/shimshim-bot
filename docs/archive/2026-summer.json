@@ -1,5 +1,29 @@
 [
  {
+  "id": "ae85becce677f9fa7bf7a37a5ea91e6d",
+  "ts": "2026-08-28T18:00:49+00:00",
+  "kind": "interest",
+  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/96dmuf1757087513.png/small",
+  "stage": "\u2014",
+  "player": "Alexis Mac Allister",
+  "position": "\u2014",
+  "age": "\u2014",
+  "from_club": "Liverpool",
+  "to_club": "Manchester City",
+  "fee": "\u2014",
+  "style": "Energetic midfielder with excellent ball-carrying ability and press resistance, capable of operating across the midfield line.",
+  "fit": "Could provide City with a dynamic presence to rotate with Rodri and enhance their midfield's pressing and transitional play.",
+  "source": "CaughtOffside",
+  "sources": [
+   "CaughtOffside"
+  ],
+  "srcTier": "standard",
+  "summary": "Manchester City are exploring Alexis Mac Allister as a midfield alternative while negotiations with Chelsea over Enzo Fernandez remain unresolved.",
+  "outlet": "caughtoffside",
+  "url": "https://www.caughtoffside.com/2026/08/28/man-city-explore-premier-league-option-enzo-talks-stall/",
+  "title": "Man City explore Premier League option as alternative after Enzo Fernandez talks stall"
+ },
+ {
   "id": "9547ae52e2406c17dbd45dab17200a78",
   "ts": "2026-08-27T07:45:30+00:00",
   "kind": "interest",

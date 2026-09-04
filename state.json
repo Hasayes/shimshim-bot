@@ -1,6 +1,5 @@
 {
   "sent": [
-    "533fc9f2a157e3c713b10cb2fb4460f3",
     "983dc881e439af4817b320ed296a0abb",
     "tg:FabrizioRomanoTG/65228",
     "58552667cfc184aaf91dda2354d9d9bb",
@@ -1499,7 +1498,8 @@
     "daf56c0cd557337722fe59b50833555f",
     "2bf6fb19a48b574ef291cb85055ffeaf",
     "a99804326384d45feaa706b30753e1ca",
-    "tg:FabrizioRomanoTG/66002"
+    "tg:FabrizioRomanoTG/66002",
+    "16f81c5f0f62367edf881344e11310b5"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2111,7 +2111,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "arsenal news: late julian alvarez transfer twist as deadline day talks emerge",
     "\ud83d\udea8 \ud83d\udfe1 \u26ab\ufe0f al ittihad have agreed deal to sign richard rios, here we go! loan deal f",
     "man utd transfer news: marcus rashford stance clear and fresh barcelona talks em",
     "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f nico tagliafico, waiting for the green light to join atletico madrid as d",
@@ -2410,7 +2409,8 @@
     "transfer: bartishvili completes medicals with arsenal",
     "liverpool agree deal to sign djylian n'guessan liverpool fc",
     "arsenal seal deal for georgian teenager andria bartishvili",
-    "\ud83d\udea8 first premier league win for liverpool under iraola with isak\u2019s brace! bradley"
+    "\ud83d\udea8 first premier league win for liverpool under iraola with isak\u2019s brace! bradley",
+    "\u201che wanted \u201d \u2013 luis enrique speaks out on why bradley barcola sealed liverpool t"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2709,13 +2709,13 @@
     "chido obi": "https://images.fotmob.com/image_resources/playerimages/1557220.png",
     "simon adingra": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg/330px-Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "raskin": "https://r2.thesportsdb.com/images/media/player/cutout/zdlxoe1701946661.png/small",
-    "dinis": "",
     "mikael baza": "",
     "vuk pavicevic": "",
     "shim mheuka": "",
-    "mika faye": ""
+    "mika faye": "",
+    "dinis": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

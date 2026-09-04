@@ -1,12 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/65223",
-    "98ddd94233d2617155f897fb09579938",
-    "0ed70eda9e96d440a7233d21855ff21d",
-    "fa7028c7ae8cc0d838daef86faea3c03",
-    "9d4a6e3b498055c17a99f28b8ed27de5",
-    "dd92fcb32da05791fc43df0137725e96",
-    "e6b537f94e960642e19fe41bb87d7059",
     "tg:FabrizioRomanoTG/65227",
     "5fe4ef085f0d859330543d6888936f9a",
     "85e9de37f56a108df7783a6f7c9c25e9",
@@ -1499,7 +1492,14 @@
     "3c33efd098347d506af089789ba5099d",
     "tg:FabrizioRomanoTG/65989",
     "tg:FabrizioRomanoTG/65990",
-    "tg:FabrizioRomanoTG/65991"
+    "tg:FabrizioRomanoTG/65991",
+    "tg:FabrizioRomanoTG/65993",
+    "tg:FabrizioRomanoTG/65994",
+    "tg:FabrizioRomanoTG/65995",
+    "tg:FabrizioRomanoTG/65996",
+    "tg:FabrizioRomanoTG/65997",
+    "tg:FabrizioRomanoTG/65998",
+    "tg:FabrizioRomanoTG/65999"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2111,13 +2111,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f nico tagliafico gives green light to atletico madrid after he did the sam",
-    "arsenal miss out on key deadline day target as 'deal agreed' with premier league",
-    "rt @fabrizioromano : \ud83d\udea8 \ud83d\udd34 \ud83d\udd35 malick fofana has completed his medical at sunderland",
-    "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f understand pape matar sarr has just signed his juventus contract and als",
-    "\ud83d\udea8 \ud83d\udc2f medical underway for robinio vaz at hull city loan deal worth \u20ac2m plus buy o",
-    "\ud83d\udd35 \ud83d\udd34 \ud83e\udd19\ud83c\udffd official, confirmed gabriel jesus joins barcelona from arsenal \ud83c\udde7\ud83c\uddf7 \u20ac14m pa",
-    "jack grealish joins everton on loan from man city with fitness crucial to perman",
     "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f rayo vallecano are set to sign emil audero on straight loan, agreement do",
     "\ud83d\udea8 \ud83d\udfe3 fiorentina agree surprise deal to sign pedro goncalves from sporting, here w",
     "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f claudio echeverri to benfica, here we go! verbal agreement done with man ",
@@ -2410,7 +2403,14 @@
     "bayern munich news: liverpool baffled by fc bayern inquiry on rio ngumoha; did b",
     "\ud83d\udea8 \ud83c\uddea\ud83c\udde8 marcelo gallardo signs in as new ecuador national team head coach! el munec",
     "\ud83d\udcfa new youtube video uploaded! \ud83c\udfac \ud83d\udea8 united secret idea, barca striker offered, ben",
-    "\ud83d\udea8 \ud83d\udc2f sergej jakirovic signs new two year plus one year option deal at hull city s"
+    "\ud83d\udea8 \ud83d\udc2f sergej jakirovic signs new two year plus one year option deal at hull city s",
+    "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 official: luis enrique signs new contract at paris saint germain until jun",
+    "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 official: joao neves signs new contract at paris saint germain until june ",
+    "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 official: lucas beraldo signs new deal at paris saint germain until june 2",
+    "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 official: senne mayulu signs new deal at paris saint germain until june 20",
+    "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 official: william pacho signs new deal at paris saint germain until june 2",
+    "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 official: fabian ruiz signs new deal at paris saint germain until june 202",
+    "\ud83d\udd34 \ud83d\udd35 \ud83d\udd25 paris saint germain announce six new contract signed and sealed \ud83d\udd10 \ud83c\uddea\ud83c\uddf8 luis "
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2709,13 +2709,13 @@
     "chido obi": "https://images.fotmob.com/image_resources/playerimages/1557220.png",
     "simon adingra": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg/330px-Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "raskin": "https://r2.thesportsdb.com/images/media/player/cutout/zdlxoe1701946661.png/small",
-    "dinis": "",
     "mikael baza": "",
     "vuk pavicevic": "",
     "shim mheuka": "",
-    "mika faye": ""
+    "mika faye": "",
+    "dinis": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

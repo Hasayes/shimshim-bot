@@ -1,6 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/65232",
     "tg:FabrizioRomanoTG/65233",
     "037c9ed7a2428a0793b14c3b8cb48d14",
     "tg:FabrizioRomanoTG/65234",
@@ -1499,7 +1498,8 @@
     "01971afc151e9c270314040eba0239e1",
     "tg:FabrizioRomanoTG/66034",
     "468eb88cd2f68f69696323b8f5b073b2",
-    "7ccd24d52bf6b52217d847112b52591c"
+    "7ccd24d52bf6b52217d847112b52591c",
+    "ff02ff40c18a4b1903cca08674f13688"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2111,7 +2111,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "\ud83d\udd34 \ud83d\udd35 \ud83c\udde7\ud83c\uddf7 exclusive story, confirmed: robinho jr has signed in as new genoa player ",
     "\ud83d\udea8 \ud83d\udfe2 \u26aa\ufe0f breaking: dani ceballos to real betis, here we go! he\u2019s back at the club ",
     "spurs prepared to buy premier league star after changing stance on loan deal",
     "done deal: grealish joins manchester city's premier league rival",
@@ -2410,7 +2409,8 @@
     "balogun\u2019s midnight u turn leaves everton, chelsea and monaco all empty handed",
     "\ud83e\ude75 \u2795 enzo maresca on man city\u2019s midfield options: \u201cif you want to be there compet",
     "fabrizio romano confirms legendary real madrid forward has not been offered to b",
-    "romano reveals man united considered surprise transfer target before deadline"
+    "romano reveals man united considered surprise transfer target before deadline",
+    "transfer rumors, news: arsenal set to sign teenage georgian midfielder espn"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2709,13 +2709,13 @@
     "chido obi": "https://images.fotmob.com/image_resources/playerimages/1557220.png",
     "simon adingra": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg/330px-Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "raskin": "https://r2.thesportsdb.com/images/media/player/cutout/zdlxoe1701946661.png/small",
-    "mika faye": "",
     "dinis": "",
     "mikael baza": "",
     "vuk pavicevic": "",
-    "shim mheuka": ""
+    "shim mheuka": "",
+    "mika faye": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

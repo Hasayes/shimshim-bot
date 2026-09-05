@@ -1,6 +1,5 @@
 {
   "sent": [
-    "124b4e927fa3132e9c4e45594c8de553",
     "c3bdd91ba9576a54bd0522848a52fa90",
     "2e4bcc51c33629620352549d812e2d86",
     "ac885c6c1b40fc9bfb7833dfd2b41e4e",
@@ -1499,7 +1498,8 @@
     "e503e00a6d3d03852b8d96c4c340e9a0",
     "112958d8c8876aea53f3c8d2c9bf5047",
     "977ede01bda5cc57a0374299a3756122",
-    "4592f0320d45cc17365817f9443cd5d0"
+    "4592f0320d45cc17365817f9443cd5d0",
+    "ed2f18dffcc2e2e2c30771b27d77df3f"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2111,7 +2111,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f jose gimenez to deportivo de a coruna, here we go! agreement reached now ",
     "manchester city, chelsea in talks at last over potential enzo fernandez deal \u2014 r",
     "man united transfer latest: alejandro balde talks held as marcus rashford future",
     "\ud83d\udea8 \ud83d\udd35 rc strasbourg agree deal to sign dario essugo from chelsea, here we go! all ",
@@ -2410,7 +2409,8 @@
     "arsenal \u2018formally\u2019 seal 2027 signing with medical passed and liverpool beaten \u2013 ",
     "tottenham join premier league rivals in the race for argentine prodigy",
     "chelsea offered ex tottenham star as free transfer after lamine camara blow",
-    "arsenal 'formally' seal 2027 signing with medical passed and liverpool beaten fa"
+    "arsenal 'formally' seal 2027 signing with medical passed and liverpool beaten fa",
+    "romano reveals tottenham star \u2018expected to leave\u2019 as de zerbi to approve sale on"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2709,13 +2709,13 @@
     "chido obi": "https://images.fotmob.com/image_resources/playerimages/1557220.png",
     "simon adingra": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg/330px-Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "raskin": "https://r2.thesportsdb.com/images/media/player/cutout/zdlxoe1701946661.png/small",
-    "mikael baza": "",
     "vuk pavicevic": "",
     "shim mheuka": "",
     "mika faye": "",
-    "dinis": ""
+    "dinis": "",
+    "mikael baza": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

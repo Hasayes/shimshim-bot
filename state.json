@@ -1,6 +1,5 @@
 {
   "sent": [
-    "3ec75cf70d547df250705a644658a61b",
     "68e38f0f1e92b1901ff9f7409c963f5b",
     "f51ac29af6c808e2d6efa0dddf8ebdae",
     "0bef799b6612b50bff6286f247bb338f",
@@ -1499,7 +1498,8 @@
     "48b406681433f1365774f0c6ba4ec97c",
     "tg:FabrizioRomanoTG/66023",
     "tg:FabrizioRomanoTG/66024",
-    "tg:FabrizioRomanoTG/66025"
+    "tg:FabrizioRomanoTG/66025",
+    "tg:FabrizioRomanoTG/66026"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2111,7 +2111,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "folarin balogun given green light to travel for everton medical as contract term",
     "31 gap int'l given green light for everton medical as contract terms agreed repo",
     "como reach verbal agreement over loan deal for sanchez",
     "arsenal explore late move for alvarez tuesday gossip",
@@ -2410,7 +2409,8 @@
     "yan diomande\u2019s slow start at real madrid after $145 million move explained as jo",
     "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f official: richard hughes leaves liverpool director role to sign for al hi",
     "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f lazio have agreed a three year deal with diogo leite, as centre back join",
-    "\ud83d\udd35 \ud83d\udd34 official: hansi flick confirms barcelona captains order \u201cthe captaincy order"
+    "\ud83d\udd35 \ud83d\udd34 official: hansi flick confirms barcelona captains order \u201cthe captaincy order",
+    "\ud83d\udea8 \ud83c\udded\ud83c\uddf7 official: luka modric legend continues as he will keep playing for croatia "
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2709,13 +2709,13 @@
     "chido obi": "https://images.fotmob.com/image_resources/playerimages/1557220.png",
     "simon adingra": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg/330px-Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "raskin": "https://r2.thesportsdb.com/images/media/player/cutout/zdlxoe1701946661.png/small",
-    "shim mheuka": "",
     "mika faye": "",
     "dinis": "",
     "mikael baza": "",
-    "vuk pavicevic": ""
+    "vuk pavicevic": "",
+    "shim mheuka": ""
   },
-  "photo_repair_idx": 5,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

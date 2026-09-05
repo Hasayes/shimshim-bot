@@ -1,6 +1,5 @@
 {
   "sent": [
-    "ac885c6c1b40fc9bfb7833dfd2b41e4e",
     "320459657d593b96b4adeecaf498f422",
     "a027c0a9f1ff81499e16fae61a114296",
     "9454ea7a18366d8164b9a8d1fb316a0d",
@@ -1499,7 +1498,8 @@
     "4592f0320d45cc17365817f9443cd5d0",
     "ed2f18dffcc2e2e2c30771b27d77df3f",
     "794c8f7a2dde0c44c43812ec93afbc83",
-    "cfbb24392407ebfda65ff75b21b5e15d"
+    "cfbb24392407ebfda65ff75b21b5e15d",
+    "584dcee509b12682675f374b335b86ee"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2111,7 +2111,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83d\udd35 rc strasbourg agree deal to sign dario essugo from chelsea, here we go! all ",
     "\ud83d\udea8 \ud83d\udfe3 excl: anderlecht have agreed on surprise deal to sign oleg reabciuk medical ",
     "conditions emerge for man utd to strike deadline day sale of \u00a332m star as aston ",
     "folarin balogun to become second most expensive usmnt player in \u20ac50m everton mov",
@@ -2410,7 +2409,8 @@
     "arsenal 'formally' seal 2027 signing with medical passed and liverpool beaten fa",
     "romano reveals tottenham star \u2018expected to leave\u2019 as de zerbi to approve sale on",
     "liverpool could revisit move for 22 year old summer target after major transfer ",
-    "epl: maresca names four man city captains"
+    "epl: maresca names four man city captains",
+    "journalist states bizarre reason liverpool can\u2019t now sign best right winger in t"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2709,13 +2709,13 @@
     "chido obi": "https://images.fotmob.com/image_resources/playerimages/1557220.png",
     "simon adingra": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg/330px-Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "raskin": "https://r2.thesportsdb.com/images/media/player/cutout/zdlxoe1701946661.png/small",
-    "mika faye": "",
     "dinis": "",
     "mikael baza": "",
     "vuk pavicevic": "",
-    "shim mheuka": ""
+    "shim mheuka": "",
+    "mika faye": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

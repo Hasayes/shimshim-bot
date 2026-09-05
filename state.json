@@ -1,7 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/65234",
-    "tg:FabrizioRomanoTG/65235",
     "2ddd89291058935db75e8f2b2b647dbc",
     "e1407f9c38fc4498c039a9df38a509ae",
     "5a57fdb18cafe168c8815f6c18b8eff2",
@@ -1499,7 +1497,9 @@
     "7ccd24d52bf6b52217d847112b52591c",
     "ff02ff40c18a4b1903cca08674f13688",
     "0d3f34c42f4bf2990c50b30d25194bb8",
-    "24058c8cfb599dd2a4db070229f53ca4"
+    "24058c8cfb599dd2a4db070229f53ca4",
+    "9eca3e7b291f087a30f0ebceb0033267",
+    "531a92092653d9ccf57502f8c2739023"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2111,8 +2111,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "done deal: grealish joins manchester city's premier league rival",
-    "\ud83d\udea8 official: liverpool have agreed a deal to sign 18 year old goalkeeper lucca br",
     "after mudryk and tosin: tottenham considering another signing",
     "sunderland face transfer disappointment as \u00a3100m attacker nears move to premier ",
     "agreement reached: chelsea star on the verge of tottenham",
@@ -2410,7 +2408,9 @@
     "romano reveals man united considered surprise transfer target before deadline",
     "transfer rumors, news: arsenal set to sign teenage georgian midfielder espn",
     "liverpool reach decision on january move for ismaila sarr after \u00a340m \u2018verbal off",
-    "arsenal to make official contact for \u00a3100m chelsea ace in january \u2013 report"
+    "arsenal to make official contact for \u00a3100m chelsea ace in january \u2013 report",
+    "lazio book medicals for free agent leite to replace romagnoli",
+    "from spain: man united preparing \u20ac60 70m january transfer bid for striker upgrad"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2709,13 +2709,13 @@
     "chido obi": "https://images.fotmob.com/image_resources/playerimages/1557220.png",
     "simon adingra": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg/330px-Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "raskin": "https://r2.thesportsdb.com/images/media/player/cutout/zdlxoe1701946661.png/small",
-    "vuk pavicevic": "",
     "shim mheuka": "",
     "mika faye": "",
     "dinis": "",
-    "mikael baza": ""
+    "mikael baza": "",
+    "vuk pavicevic": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 5,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

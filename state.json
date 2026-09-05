@@ -1,7 +1,5 @@
 {
   "sent": [
-    "e55ea51200ae6506329d0f036d49d49c",
-    "3ec60f8b2a4df54dba1f8a7f0dc9ccb4",
     "tg:FabrizioRomanoTG/65231",
     "c1cd4ce0741c6fde0829f12ff9352b82",
     "tg:FabrizioRomanoTG/65232",
@@ -1499,7 +1497,9 @@
     "ce6c15d786d6b6a9e71afca0e530196f",
     "73124852de54e88e59f80e02dc1767b1",
     "18cf836f3e8690ca7df108f2440bfa63",
-    "tg:FabrizioRomanoTG/66033"
+    "tg:FabrizioRomanoTG/66033",
+    "01971afc151e9c270314040eba0239e1",
+    "tg:FabrizioRomanoTG/66034"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2111,8 +2111,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "man utd news: \u00a334m transfer target's move 'sanctioned' as boss confirms 'fantast",
-    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f thilo kehrer to ajax, here we go! verbal agreement done with the defender",
     "why roberto de zerbi wants to sign mykhailo mudryk at tottenham with medical set",
     "\u26aa\ufe0f \u26ab\ufe0f official, confirmed nick woltemade signs for juventus from newcastle on \u00a33",
     "\ud83d\udd34 \ud83d\udd35 \ud83c\udde7\ud83c\uddf7 exclusive story, confirmed: robinho jr has signed in as new genoa player ",
@@ -2410,7 +2408,9 @@
     "\ud83d\udea8 \ud83c\udded\ud83c\uddf7 official: luka modric legend continues as he will keep playing for croatia ",
     "psg lose 2 1 to monaco as ligue 1 struggles continue; luis enrique signs deal ti",
     "transfer: romano reveals implications of arsenal recalling nwaneri from dortmund",
-    "\ud83d\udd35 \u26aa\ufe0f \u26a1\ufe0f iliman ndiaye on picking man city: \u201cit\u2019s one of the biggest clubs in the"
+    "\ud83d\udd35 \u26aa\ufe0f \u26a1\ufe0f iliman ndiaye on picking man city: \u201cit\u2019s one of the biggest clubs in the",
+    "balogun\u2019s midnight u turn leaves everton, chelsea and monaco all empty handed",
+    "\ud83e\ude75 \u2795 enzo maresca on man city\u2019s midfield options: \u201cif you want to be there compet"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2709,13 +2709,13 @@
     "chido obi": "https://images.fotmob.com/image_resources/playerimages/1557220.png",
     "simon adingra": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg/330px-Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "raskin": "https://r2.thesportsdb.com/images/media/player/cutout/zdlxoe1701946661.png/small",
-    "vuk pavicevic": "",
     "shim mheuka": "",
     "mika faye": "",
     "dinis": "",
-    "mikael baza": ""
+    "mikael baza": "",
+    "vuk pavicevic": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 5,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

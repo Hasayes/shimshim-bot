@@ -1,7 +1,5 @@
 {
   "sent": [
-    "02a098480ab1e21de00c0c8e39703ea8",
-    "8945c0c86be3563c72393a7e36335a02",
     "c4c9674b482b1748d2dba2d3930594b7",
     "86f9427c2a5be44dd7348c0606d98048",
     "43868520646403ea03190a1bf559eeac",
@@ -1499,7 +1497,9 @@
     "16f81c5f0f62367edf881344e11310b5",
     "17b6fb26e5619146262139030312e44c",
     "f808a349d0189987d239863a4cad96b4",
-    "c534ccdadb1982af71a342a4005431d0"
+    "c534ccdadb1982af71a342a4005431d0",
+    "75c557321f67a33ddf64dd439ae9f2dc",
+    "e503e00a6d3d03852b8d96c4c340e9a0"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2111,8 +2111,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f nico tagliafico, waiting for the green light to join atletico madrid as d",
-    "liverpool news: ismaila sarr transfer update as winger gives green light to move",
     "bayern munich news: fc bayern, liverpool vying for goalkeeper?; usmnt star chris",
     "\ud83d\udea8 \ud83d\udca3 breaking: enzo fernandez to manchester city, here we go! \ud83c\udde6\ud83c\uddf7 deal in place fo",
     "\ud83d\udea8 \ud83d\udd35 enzo fernandez to manchester city in a record british deal for \u00a3125m here we",
@@ -2410,7 +2408,9 @@
     "\ud83d\udea8 first premier league win for liverpool under iraola with isak\u2019s brace! bradley",
     "\u201che wanted \u201d \u2013 luis enrique speaks out on why bradley barcola sealed liverpool t",
     "incoming arsenal signing completes medical pre 2027 transfer",
-    "arsenal to finalise signing of georgian teenager compared to kvaratskhelia"
+    "arsenal to finalise signing of georgian teenager compared to kvaratskhelia",
+    "fabrizio romano exclusive: tottenham star wants transfer after triple your money",
+    "arsenal \u2018formally\u2019 seal 2027 signing with medical passed and liverpool beaten \u2013 "
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2709,13 +2709,13 @@
     "chido obi": "https://images.fotmob.com/image_resources/playerimages/1557220.png",
     "simon adingra": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg/330px-Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "raskin": "https://r2.thesportsdb.com/images/media/player/cutout/zdlxoe1701946661.png/small",
-    "shim mheuka": "",
     "mika faye": "",
     "dinis": "",
     "mikael baza": "",
-    "vuk pavicevic": ""
+    "vuk pavicevic": "",
+    "shim mheuka": ""
   },
-  "photo_repair_idx": 5,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

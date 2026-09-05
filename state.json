@@ -1,6 +1,5 @@
 {
   "sent": [
-    "a027c0a9f1ff81499e16fae61a114296",
     "9454ea7a18366d8164b9a8d1fb316a0d",
     "7ac5b4c8e171506e2ca7780fb0d0ae8b",
     "55305d9778eb6731e4a731b99066ac7d",
@@ -1499,7 +1498,8 @@
     "794c8f7a2dde0c44c43812ec93afbc83",
     "cfbb24392407ebfda65ff75b21b5e15d",
     "584dcee509b12682675f374b335b86ee",
-    "2f5814aa485e1cea7b9ea396f59b313b"
+    "2f5814aa485e1cea7b9ea396f59b313b",
+    "tg:FabrizioRomanoTG/66018"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2111,7 +2111,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "conditions emerge for man utd to strike deadline day sale of \u00a332m star as aston ",
     "folarin balogun to become second most expensive usmnt player in \u20ac50m everton mov",
     "jack grealish to undergo medical as everton do something no other club did for t",
     "everton do something no other club did to sign pl star on loan, medical today re",
@@ -2410,7 +2409,8 @@
     "liverpool could revisit move for 22 year old summer target after major transfer ",
     "epl: maresca names four man city captains",
     "journalist states bizarre reason liverpool can\u2019t now sign best right winger in t",
-    "bayern's view on kane's contract revealed amid man utd interest euro transfer ne"
+    "bayern's view on kane's contract revealed amid man utd interest euro transfer ne",
+    "\ud83d\udea8 \ud83d\udd35 enzo maresca on enzo fernandez saying he joined a \u201cbig club\u201d: \u201cmy view is th"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2709,13 +2709,13 @@
     "chido obi": "https://images.fotmob.com/image_resources/playerimages/1557220.png",
     "simon adingra": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg/330px-Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "raskin": "https://r2.thesportsdb.com/images/media/player/cutout/zdlxoe1701946661.png/small",
-    "mikael baza": "",
     "vuk pavicevic": "",
     "shim mheuka": "",
     "mika faye": "",
-    "dinis": ""
+    "dinis": "",
+    "mikael baza": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

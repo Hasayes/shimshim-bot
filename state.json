@@ -1,6 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/65251",
     "a425cf17408d85c5865484d9ed902366",
     "b680d7b40e209cde5f1e1f8ffb8b4fcb",
     "tg:FabrizioRomanoTG/65252",
@@ -1499,7 +1498,8 @@
     "tg:FabrizioRomanoTG/66049",
     "d74b08394f337c928b2a9b8ed38b7156",
     "427182c6a08dbdc89af7d54bfb4dd1be",
-    "4620acd3e1ba3f155485bea6641955dc"
+    "4620acd3e1ba3f155485bea6641955dc",
+    "1a1cdc5f032cdd16f81c11e7abeb0fd1"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2111,7 +2111,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "fabrizio romano confirms liverpool attacker transfer is \u2018here we go\u2019 done teamta",
     "chelsea make contact with roma for manu kone",
     "\ud83d\udea8 \u26a0\ufe0f folarin balogun\u2019s move to everton is in jeopardy after medical tests everto",
     "deal agreed: 'big sell on clause' sorted as everton green light another 11th hou",
@@ -2410,7 +2409,8 @@
     "\ud83d\udea8 \ud83d\udfe3 burnley have agreed to sign jamie vardy on one year deal! surprise signing c",
     "\ud83d\udea8 \u26ab\ufe0f \ud83d\udd35 official, confirmed pio esposito signs new long term deal at inter until ",
     "epl: maresca responds to enzo fernandez\u2019s \u2018big club\u2019 claim",
-    "xabi alonso plans midfield role for chelsea full back after failed move in summe"
+    "xabi alonso plans midfield role for chelsea full back after failed move in summe",
+    "transfer news live: arsenal agree triple deal; man utd plot hall bid; chelsea, l"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2709,13 +2709,13 @@
     "chido obi": "https://images.fotmob.com/image_resources/playerimages/1557220.png",
     "simon adingra": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg/330px-Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "raskin": "https://r2.thesportsdb.com/images/media/player/cutout/zdlxoe1701946661.png/small",
-    "vuk pavicevic": "",
     "shim mheuka": "",
     "mika faye": "",
     "dinis": "",
-    "mikael baza": ""
+    "mikael baza": "",
+    "vuk pavicevic": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 5,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

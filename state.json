@@ -1,6 +1,5 @@
 {
   "sent": [
-    "5a57fdb18cafe168c8815f6c18b8eff2",
     "497b652920e5b74ee17a831dc7b115f3",
     "04f125a021be7d1ebd1f557da90a3cfa",
     "af122aab31a94cc842cd6ec1f47382ea",
@@ -1499,7 +1498,8 @@
     "9eca3e7b291f087a30f0ebceb0033267",
     "531a92092653d9ccf57502f8c2739023",
     "ce6a6e0c4c7822844b14f513a54973ce",
-    "a1dc21ac23e569b7e526a4e21a20652d"
+    "a1dc21ac23e569b7e526a4e21a20652d",
+    "8b14788868fc59ca04955a974f3afa43"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2111,7 +2111,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "sunderland face transfer disappointment as \u00a3100m attacker nears move to premier ",
     "agreement reached: chelsea star on the verge of tottenham",
     "jacobs confirms two tottenham \u2018medicals\u2019 as \u00a375m buy option is revealed",
     "arsenal star ethan nwaneri agrees deadline day transfer to join dortmund on loan",
@@ -2410,7 +2409,8 @@
     "arsenal to make official contact for \u00a3100m chelsea ace in january \u2013 report",
     "lazio book medicals for free agent leite to replace romagnoli",
     "from spain: man united preparing \u20ac60 70m january transfer bid for striker upgrad",
-    "arsenal transfer news: mikel arteta plots january swoop for psg star kvicha kvar"
+    "arsenal transfer news: mikel arteta plots january swoop for psg star kvicha kvar",
+    "arsenal transfer latest news: mikel arteta plots january swoop for psg star kvic"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2709,13 +2709,13 @@
     "chido obi": "https://images.fotmob.com/image_resources/playerimages/1557220.png",
     "simon adingra": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg/330px-Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "raskin": "https://r2.thesportsdb.com/images/media/player/cutout/zdlxoe1701946661.png/small",
-    "dinis": "",
     "mikael baza": "",
     "vuk pavicevic": "",
     "shim mheuka": "",
-    "mika faye": ""
+    "mika faye": "",
+    "dinis": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

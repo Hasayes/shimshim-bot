@@ -1,6 +1,5 @@
 {
   "sent": [
-    "11c34da847f30adeab45336960f2e786",
     "tg:FabrizioRomanoTG/65245",
     "tg:FabrizioRomanoTG/65246",
     "tg:FabrizioRomanoTG/65248",
@@ -1499,7 +1498,8 @@
     "0e05163b8d581763d8b886eb282fc1ec",
     "f02a8903e4b43c4407b69583438059e9",
     "82d6ffc45ebcd6111895c8cd3a427e94",
-    "tg:FabrizioRomanoTG/66042"
+    "tg:FabrizioRomanoTG/66042",
+    "tg:FabrizioRomanoTG/66043"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2111,7 +2111,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "deadline day live: every completed premier league deal as the clock ticks down",
     "sunderland agree loan transfer for kevin danso as tottenham let wantaway defende",
     "manchester city switch transfer focus to iliman ndiaye after liverpool block cod",
     "dortmund set to loan arsenal\u2019s nwaneri, move for polish prodigy regula off",
@@ -2410,7 +2409,8 @@
     "new report reveals arsenal missed out on \u00a370m plus attacker transfer this summer",
     "real madrid midfielder who rejected man utd \u2018suffers from a recurring problem\u2019 \u2013",
     "midfielder keen on man utd move as ineos complete man city raid",
-    "\ud83d\udea8 \u2764\ufe0f \ud83e\udd0d bayern ceo dreesen on harry kane and contract talks: \u201cwe have a relaxed r"
+    "\ud83d\udea8 \u2764\ufe0f \ud83e\udd0d bayern ceo dreesen on harry kane and contract talks: \u201cwe have a relaxed r",
+    "\ud83d\udea8 \ud83d\udd10 bayern ceo dreesen on michael olise and summer links: \u201cwe didn't have any of"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2709,13 +2709,13 @@
     "chido obi": "https://images.fotmob.com/image_resources/playerimages/1557220.png",
     "simon adingra": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg/330px-Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "raskin": "https://r2.thesportsdb.com/images/media/player/cutout/zdlxoe1701946661.png/small",
-    "vuk pavicevic": "",
     "shim mheuka": "",
     "mika faye": "",
     "dinis": "",
-    "mikael baza": ""
+    "mikael baza": "",
+    "vuk pavicevic": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 5,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

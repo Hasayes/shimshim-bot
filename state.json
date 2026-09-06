@@ -1,7 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/65248",
-    "tg:FabrizioRomanoTG/65249",
     "eb2c237620c7bfa51f1d40ee11c83884",
     "tg:FabrizioRomanoTG/65251",
     "a425cf17408d85c5865484d9ed902366",
@@ -1499,7 +1497,9 @@
     "tg:FabrizioRomanoTG/66042",
     "tg:FabrizioRomanoTG/66043",
     "tg:FabrizioRomanoTG/66048",
-    "tg:FabrizioRomanoTG/66049"
+    "tg:FabrizioRomanoTG/66049",
+    "d74b08394f337c928b2a9b8ed38b7156",
+    "427182c6a08dbdc89af7d54bfb4dd1be"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2111,7 +2111,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "dortmund set to loan arsenal\u2019s nwaneri, move for polish prodigy regula off",
     "here we go: tottenham sanction defender exit as sunderland secure deadline day d",
     "fabrizio romano confirms liverpool attacker transfer is \u2018here we go\u2019 done teamta",
     "chelsea make contact with roma for manu kone",
@@ -2410,7 +2409,8 @@
     "\ud83d\udea8 \u2764\ufe0f \ud83e\udd0d bayern ceo dreesen on harry kane and contract talks: \u201cwe have a relaxed r",
     "\ud83d\udea8 \ud83d\udd10 bayern ceo dreesen on michael olise and summer links: \u201cwe didn't have any of",
     "\ud83d\udea8 \ud83d\udfe3 burnley have agreed to sign jamie vardy on one year deal! surprise signing c",
-    "\ud83d\udea8 \u26ab\ufe0f \ud83d\udd35 official, confirmed pio esposito signs new long term deal at inter until "
+    "\ud83d\udea8 \u26ab\ufe0f \ud83d\udd35 official, confirmed pio esposito signs new long term deal at inter until ",
+    "epl: maresca responds to enzo fernandez\u2019s \u2018big club\u2019 claim"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2709,13 +2709,13 @@
     "chido obi": "https://images.fotmob.com/image_resources/playerimages/1557220.png",
     "simon adingra": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg/330px-Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "raskin": "https://r2.thesportsdb.com/images/media/player/cutout/zdlxoe1701946661.png/small",
-    "dinis": "",
     "mikael baza": "",
     "vuk pavicevic": "",
     "shim mheuka": "",
-    "mika faye": ""
+    "mika faye": "",
+    "dinis": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

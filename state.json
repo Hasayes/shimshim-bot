@@ -1,6 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/65238",
     "4c0c40a596543ca597a6d24f10b29e8f",
     "tg:FabrizioRomanoTG/65240",
     "0cd031a2ce5ad13f82fe3031cb9bc8a0",
@@ -1499,7 +1498,8 @@
     "8b14788868fc59ca04955a974f3afa43",
     "094a868c3091d3767027bb69f9f5fb54",
     "12f909b8154813c559deccb337ffe1df",
-    "f5a27d8153420988c28f6a7619a49cdf"
+    "f5a27d8153420988c28f6a7619a49cdf",
+    "0e05163b8d581763d8b886eb282fc1ec"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2111,7 +2111,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "arsenal news: last gasp julian alvarez \u00a3128m transfer twist as deadline day talk",
     "\ud83d\udd34 \u26aa\ufe0f \ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udffc official and never in doubt: neil el aynaoui signs in as new rb leipz",
     "liverpool make final transfer decision on cody gakpo in response to \u00a380m man cit",
     "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f brighton reach verbal agreement to sign chema andres, here we go! stuttga",
@@ -2410,7 +2409,8 @@
     "arsenal transfer latest news: mikel arteta plots january swoop for psg star kvic",
     "man utd complete signing of man city midfielder as part of double deal",
     "double man utd signing confirmed as man city midfielder joins",
-    "ornstein explains why chelsea weren\u2019t able to sign alex scott from bournemouth"
+    "ornstein explains why chelsea weren\u2019t able to sign alex scott from bournemouth",
+    "new report reveals arsenal missed out on \u00a370m plus attacker transfer this summer"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2709,13 +2709,13 @@
     "chido obi": "https://images.fotmob.com/image_resources/playerimages/1557220.png",
     "simon adingra": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg/330px-Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "raskin": "https://r2.thesportsdb.com/images/media/player/cutout/zdlxoe1701946661.png/small",
-    "shim mheuka": "",
     "mika faye": "",
     "dinis": "",
     "mikael baza": "",
-    "vuk pavicevic": ""
+    "vuk pavicevic": "",
+    "shim mheuka": ""
   },
-  "photo_repair_idx": 5,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

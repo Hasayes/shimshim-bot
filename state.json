@@ -1,7 +1,5 @@
 {
   "sent": [
-    "04f125a021be7d1ebd1f557da90a3cfa",
-    "af122aab31a94cc842cd6ec1f47382ea",
     "tg:FabrizioRomanoTG/65238",
     "4c0c40a596543ca597a6d24f10b29e8f",
     "tg:FabrizioRomanoTG/65240",
@@ -1499,7 +1497,9 @@
     "ce6a6e0c4c7822844b14f513a54973ce",
     "a1dc21ac23e569b7e526a4e21a20652d",
     "8b14788868fc59ca04955a974f3afa43",
-    "094a868c3091d3767027bb69f9f5fb54"
+    "094a868c3091d3767027bb69f9f5fb54",
+    "12f909b8154813c559deccb337ffe1df",
+    "f5a27d8153420988c28f6a7619a49cdf"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2111,8 +2111,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "jacobs confirms two tottenham \u2018medicals\u2019 as \u00a375m buy option is revealed",
-    "arsenal star ethan nwaneri agrees deadline day transfer to join dortmund on loan",
     "arsenal news: last gasp julian alvarez \u00a3128m transfer twist as deadline day talk",
     "\ud83d\udd34 \u26aa\ufe0f \ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udffc official and never in doubt: neil el aynaoui signs in as new rb leipz",
     "liverpool make final transfer decision on cody gakpo in response to \u00a380m man cit",
@@ -2410,7 +2408,9 @@
     "from spain: man united preparing \u20ac60 70m january transfer bid for striker upgrad",
     "arsenal transfer news: mikel arteta plots january swoop for psg star kvicha kvar",
     "arsenal transfer latest news: mikel arteta plots january swoop for psg star kvic",
-    "man utd complete signing of man city midfielder as part of double deal"
+    "man utd complete signing of man city midfielder as part of double deal",
+    "double man utd signing confirmed as man city midfielder joins",
+    "ornstein explains why chelsea weren\u2019t able to sign alex scott from bournemouth"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2709,13 +2709,13 @@
     "chido obi": "https://images.fotmob.com/image_resources/playerimages/1557220.png",
     "simon adingra": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg/330px-Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "raskin": "https://r2.thesportsdb.com/images/media/player/cutout/zdlxoe1701946661.png/small",
-    "vuk pavicevic": "",
     "shim mheuka": "",
     "mika faye": "",
     "dinis": "",
-    "mikael baza": ""
+    "mikael baza": "",
+    "vuk pavicevic": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 5,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

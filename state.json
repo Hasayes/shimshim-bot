@@ -1,7 +1,5 @@
 {
   "sent": [
-    "857752ba0782b40053557e056c154961",
-    "d75eef8bc395d1a08e3b65481637b97a",
     "406d0edeb40974737029abad3f0c0e46",
     "4b612a9fa0f2e07da453b64e4a2e14f3",
     "dd0928a182ccf086178d3695eb725ae7",
@@ -1499,7 +1497,9 @@
     "tg:FabrizioRomanoTG/66092",
     "tg:FabrizioRomanoTG/66093",
     "0bf6a7a4db8785e6ec645675cecfe0ae",
-    "36ae22bba7f530e895166a79b1daa854"
+    "36ae22bba7f530e895166a79b1daa854",
+    "6da4b5999d94946180acefa8fdfa536f",
+    "92cb38b16ead970e71a4f554d24c5166"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2113,8 +2113,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "chelsea in advanced talks for kone for \u20ac60 million",
-    "transfer deadline day live updates: the biggest done deals and latest rumors bef",
     "chelsea agree terms with enzo fernandez replacement and bid \u20ac65m \u2013 reports",
     "kone chelsea deal at risk: gasperini wants to keep him",
     "romano: spurs agree two stunning deals for fringe chelsea pair",
@@ -2412,7 +2410,9 @@
     "\ud83d\udea8 \ud83d\udd34 manchester united have completed deal to sign 16 year old midfielder issac k",
     "\ud83d\udea8 \ud83d\udd34 manchester united have completed deal to sign 16 year old midfielder isaac k",
     "transfer rumors, news: chelsea eye scott to replace enzo fernandez espn",
-    "a rescue mission: date set for ziyech's arrival in brazil"
+    "a rescue mission: date set for ziyech's arrival in brazil",
+    "vanoli set for fiorentina return as verbal agreement reached",
+    "reece james sends defiant message after chelsea defeat against arsenal"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2710,14 +2710,14 @@
     "chido obi": "https://images.fotmob.com/image_resources/playerimages/1557220.png",
     "simon adingra": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg/330px-Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "raskin": "https://r2.thesportsdb.com/images/media/player/cutout/zdlxoe1701946661.png/small",
-    "vuk pavicevic": "",
     "issac konde": "",
     "shim mheuka": "",
     "mika faye": "",
     "dinis": "",
-    "mikael baza": ""
+    "mikael baza": "",
+    "vuk pavicevic": ""
   },
-  "photo_repair_idx": 5,
+  "photo_repair_idx": 6,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

@@ -1,29 +1,5 @@
 [
  {
-  "id": "32e08757432468a81fcd3383e9e9b840",
-  "ts": "2026-09-07T12:00:57+00:00",
-  "kind": "deal",
-  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/lw0qcf1769177786.png/small",
-  "stage": "Here we go",
-  "player": "Victor Osimhen",
-  "position": "Striker",
-  "age": "\u2014",
-  "from_club": "Galatasaray",
-  "to_club": "Al-Ahli",
-  "fee": "\u2014",
-  "style": "Explosive striker with powerful pace, clinical finishing, and aggressive positioning in the box.",
-  "fit": "Deploy him as the spearhead of Al-Ahli's attack to maximize his goal-scoring prowess in the Saudi league.",
-  "source": "ng_shotoe",
-  "sources": [
-   "ng_shotoe"
-  ],
-  "srcTier": "standard",
-  "summary": "Victor Osimhen is set to join Saudi Arabian side Al-Ahli from Napoli, with a medical reportedly booked. Chelsea have lost out on signing the striker.",
-  "outlet": "ng_shotoe",
-  "url": "https://ng.shotoe.com/osimhen-transfer-news-st_538838/news/medical-booked-chelsea-set-to-lose-out-on-osimhen-after-huge-sn_4901387/",
-  "title": "Medical booked: Chelsea set to lose out on Osimhen after huge ..."
- },
- {
   "id": "4e42a373e93f9db145943dbea9cd336c",
   "ts": "2026-09-03T10:00:51+00:00",
   "kind": "deal",
@@ -4785,30 +4761,6 @@
    "Fabrizio Romano"
   ],
   "srcTier": "tier1"
- },
- {
-  "id": "742c9d7208a7d3242b347de0521fd674",
-  "ts": "2026-08-02T21:00:36+00:00",
-  "kind": "deal",
-  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/ubnx241769330610.png/small",
-  "stage": "Completed",
-  "player": "Viktor Gy\u00f6keres",
-  "position": "Striker",
-  "age": "\u2014",
-  "from_club": "\u2014",
-  "to_club": "Arsenal",
-  "fee": "\u20ac30m + Gy\u00f6keres",
-  "style": "Physical, direct striker with strong finishing and presence in the box.",
-  "fit": "Could provide Arsenal with a dynamic attacking option and goal-scoring threat in the Premier League.",
-  "source": "Naija News",
-  "outlet": "naijanews",
-  "url": "https://www.naijanews.com/2026/08/02/galatasaray-arsenals-osimhen-swap-proposal/",
-  "title": "Galatasaray Snub Arsenal\u2019s Osimhen Swap Proposal",
-  "summary": "Galatasaray have rejected a proposal from Arsenal that would have involved a swap deal including Viktor Gy\u00f6keres and a cash fee of \u20ac30 million for Victor Osimhen. The Turkish club turned down the offer.",
-  "sources": [
-   "Naija News"
-  ],
-  "srcTier": "standard"
  },
  {
   "id": "tg:FabrizioRomanoTG/63964",

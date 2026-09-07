@@ -1051,6 +1051,39 @@ _ROLE_PLAYER_RE = re.compile(
     re.I,
 )
 
+# "proposal/offer/bid from Arsenal" names a suitor, not the player's club.
+_SUITOR_FROM_RE = re.compile(
+    r"\b(?:proposal|offer|bid|interest|enquir(?:y|ies)|approach|contact)s?\s+from\b",
+    re.I,
+)
+
+
+def _summary_departure_conflict(brief):
+    """True when the summary says the player is leaving club X but from_club is Y.
+
+    Recycled old-season medicals often keep 'from Napoli' (etc.) in the prose
+    after from_club has been updated to the player's real current club — that
+    mismatch is the tell for a stale here-we-go (Osimhen → Al-Ahli, 2026-09-07).
+    Suitor phrasing ('proposal from Arsenal') is ignored.
+    """
+    if brief.kind != "deal" or not known_club(brief.from_club):
+        return False
+    summary = brief.summary or ""
+    if not summary or summary.strip() in ("", "—"):
+        return False
+    cleaned = _SUITOR_FROM_RE.sub("SUITOR", summary)
+    normed = _norm(cleaned)
+    dests = [c.strip() for c in brief.to_club.split(",") if c.strip()]
+    for canon, pat in CLUB_CANON:
+        if not re.search(rf"\bfrom\s+(?:the\s+)?(?:{pat})", normed):
+            continue
+        if same_club(canon, brief.from_club):
+            continue
+        if any(same_club(canon, d) for d in dests):
+            continue
+        return True
+    return False
+
 
 def brief_problems(brief):
     """Structural lint a card must pass before publishing.
@@ -1074,6 +1107,10 @@ def brief_problems(brief):
             problems.append("deal without origin club")
         if _norm(brief.stage) not in VALID_STAGES:
             problems.append(f"invalid stage {brief.stage!r}")
+        if _summary_departure_conflict(brief):
+            # Summary still names a different departure club than from_club —
+            # classic recycled medical/here-we-go after the player moved on.
+            problems.append("stale origin in summary")
     if brief.kind == "interest" and brief.from_club.strip() in ("", "—"):
         # A real rumour always knows where the player currently plays; a blank
         # origin is the tell for a misparse — a lone first name ("Enzo") or a

@@ -1,6 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/65279",
     "tg:FabrizioRomanoTG/65280",
     "f3b5ccb80f7fbf750e5076c8a99e7af3",
     "857752ba0782b40053557e056c154961",
@@ -1499,7 +1498,8 @@
     "7d9aa70dcaeefb9177086baee5995891",
     "36cedafd87b1a7bacdbf28c8e36ded61",
     "tg:FabrizioRomanoTG/66091",
-    "tg:FabrizioRomanoTG/66092"
+    "tg:FabrizioRomanoTG/66092",
+    "tg:FabrizioRomanoTG/66093"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2710,14 +2710,14 @@
     "chido obi": "https://images.fotmob.com/image_resources/playerimages/1557220.png",
     "simon adingra": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg/330px-Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "raskin": "https://r2.thesportsdb.com/images/media/player/cutout/zdlxoe1701946661.png/small",
-    "mika faye": "",
     "dinis": "",
     "mikael baza": "",
     "vuk pavicevic": "",
     "issac konde": "",
-    "shim mheuka": ""
+    "shim mheuka": "",
+    "mika faye": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

@@ -1,8 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/65258",
-    "tg:FabrizioRomanoTG/65260",
-    "tg:FabrizioRomanoTG/65261",
     "642730ed7423ab502f54395f2b2ba78e",
     "tg:FabrizioRomanoTG/65263",
     "tg:FabrizioRomanoTG/65265",
@@ -1499,7 +1496,10 @@
     "7442c47c884ca9c16f5862e62dfc9f97",
     "tg:FabrizioRomanoTG/66069",
     "tg:FabrizioRomanoTG/66070",
-    "948ea1e0f597aa5ce486eb6c76908850"
+    "948ea1e0f597aa5ce486eb6c76908850",
+    "tg:FabrizioRomanoTG/66077",
+    "tg:FabrizioRomanoTG/66078",
+    "tg:FabrizioRomanoTG/66079"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2111,9 +2111,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "fabrizio romano confirms \u2018here we go\u2019 after arsenal player approves late exit",
-    "tottenham seal \u00a325m sunderland deal and \u00a37m chelsea signing \u2013 medicals booked",
-    "liverpool news: \u00a360m transfer update as 'fee agreed for winger' after massive u ",
     "\ud83d\udea8 \ud83d\udd35 everton have called manchester united for joshua zirkzee in case folarin bal",
     "\ud83e\ude75 \ud83c\uddf8\ud83c\uddf3 official, confirmed iliman ndiaye has joined manchester city on \u00a365m packag",
     "\ud83d\udea8 \ud83d\udd35 exclusive: chelsea agree deal in principle to sign lamine camara from as mon",
@@ -2410,7 +2407,10 @@
     "pundit claims liverpool could move for la liga legend",
     "\ud83d\udea8 \ud83d\udfe3 fiorentina have reached a verbal agreement with paolo vanoli to return as ne",
     "\u26aa\ufe0f \u26ab\ufe0f \ud83c\udde7\ud83c\uddf7 hakim ziyech lands in brazil on tuesday to sign in as new botafogo play",
-    "liverpool linked with real madrid legend as summer midfield target wows reds sco"
+    "liverpool linked with real madrid legend as summer midfield target wows reds sco",
+    "\ud83d\udea8 \ud83d\udd25 jose mourinho: lwe lost to betis because we didn't convert our attacking opp",
+    "\ud83c\udfc6 \u26aa\ufe0f jose mourinho: \u201ci\u2019m here also because i want to win the champions league wi",
+    "\ud83d\udea8 \ud83d\udd25 jose mourinho on betis game: \u201cwhy the real madrid captain received a yellow "
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2709,13 +2709,13 @@
     "chido obi": "https://images.fotmob.com/image_resources/playerimages/1557220.png",
     "simon adingra": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg/330px-Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "raskin": "https://r2.thesportsdb.com/images/media/player/cutout/zdlxoe1701946661.png/small",
-    "dinis": "",
     "mikael baza": "",
     "vuk pavicevic": "",
     "shim mheuka": "",
-    "mika faye": ""
+    "mika faye": "",
+    "dinis": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

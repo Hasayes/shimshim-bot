@@ -1,6 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/65266",
     "tg:FabrizioRomanoTG/65274",
     "tg:FabrizioRomanoTG/65277",
     "tg:FabrizioRomanoTG/65279",
@@ -1499,7 +1498,8 @@
     "tg:FabrizioRomanoTG/66079",
     "32e08757432468a81fcd3383e9e9b840",
     "6191884173db03a3ebaeccb8b1e7d978",
-    "7d9aa70dcaeefb9177086baee5995891"
+    "7d9aa70dcaeefb9177086baee5995891",
+    "36cedafd87b1a7bacdbf28c8e36ded61"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2112,7 +2112,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "chelsea midfield deal collapses as alternative move \u2018here we go\u2019 confirmed \u2013 fab",
     "'here we go' romano: hull city agree \u00a312m deal for second serie a star after vaz",
     "everton push deadline plans forward with grealish loan return and balogun move a",
     "\ud83d\udd35 \ud83d\udca3 lamine camara currently undergoing a medical under chelsea staff supervision",
@@ -2411,7 +2410,8 @@
     "\ud83d\udea8 \ud83d\udd25 jose mourinho on betis game: \u201cwhy the real madrid captain received a yellow ",
     "medical booked: chelsea set to lose out on osimhen after huge",
     "alejandro garnacho chooses between chelsea and napoli with",
-    "zidane's son, enzo, retires from football at 29"
+    "zidane's son, enzo, retires from football at 29",
+    "fiorentina sack fabio grosso after disastrous three game serie a losing streak d"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2710,13 +2710,13 @@
     "chido obi": "https://images.fotmob.com/image_resources/playerimages/1557220.png",
     "simon adingra": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg/330px-Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "raskin": "https://r2.thesportsdb.com/images/media/player/cutout/zdlxoe1701946661.png/small",
-    "shim mheuka": "",
     "mika faye": "",
     "dinis": "",
     "mikael baza": "",
-    "vuk pavicevic": ""
+    "vuk pavicevic": "",
+    "shim mheuka": ""
   },
-  "photo_repair_idx": 5,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

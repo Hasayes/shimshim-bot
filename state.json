@@ -1,6 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/65257",
     "tg:FabrizioRomanoTG/65258",
     "tg:FabrizioRomanoTG/65260",
     "tg:FabrizioRomanoTG/65261",
@@ -1499,7 +1498,8 @@
     "277bd16870f8d970fab888a43ed05f5e",
     "7442c47c884ca9c16f5862e62dfc9f97",
     "tg:FabrizioRomanoTG/66069",
-    "tg:FabrizioRomanoTG/66070"
+    "tg:FabrizioRomanoTG/66070",
+    "948ea1e0f597aa5ce486eb6c76908850"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2111,7 +2111,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "jack grealish agreement reached over season long loan, medical to take place tod",
     "fabrizio romano confirms \u2018here we go\u2019 after arsenal player approves late exit",
     "tottenham seal \u00a325m sunderland deal and \u00a37m chelsea signing \u2013 medicals booked",
     "liverpool news: \u00a360m transfer update as 'fee agreed for winger' after massive u ",
@@ -2410,7 +2409,8 @@
     "journalist name checks liverpool target for revived january move",
     "pundit claims liverpool could move for la liga legend",
     "\ud83d\udea8 \ud83d\udfe3 fiorentina have reached a verbal agreement with paolo vanoli to return as ne",
-    "\u26aa\ufe0f \u26ab\ufe0f \ud83c\udde7\ud83c\uddf7 hakim ziyech lands in brazil on tuesday to sign in as new botafogo play"
+    "\u26aa\ufe0f \u26ab\ufe0f \ud83c\udde7\ud83c\uddf7 hakim ziyech lands in brazil on tuesday to sign in as new botafogo play",
+    "liverpool linked with real madrid legend as summer midfield target wows reds sco"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2709,13 +2709,13 @@
     "chido obi": "https://images.fotmob.com/image_resources/playerimages/1557220.png",
     "simon adingra": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg/330px-Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "raskin": "https://r2.thesportsdb.com/images/media/player/cutout/zdlxoe1701946661.png/small",
-    "mika faye": "",
     "dinis": "",
     "mikael baza": "",
     "vuk pavicevic": "",
-    "shim mheuka": ""
+    "shim mheuka": "",
+    "mika faye": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

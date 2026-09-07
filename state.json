@@ -1,7 +1,5 @@
 {
   "sent": [
-    "90fe774f1e9c614311bcf19ac7d2de8a",
-    "tg:FabrizioRomanoTG/65254",
     "tg:FabrizioRomanoTG/65255",
     "tg:FabrizioRomanoTG/65256",
     "tg:FabrizioRomanoTG/65257",
@@ -1499,7 +1497,9 @@
     "1a1cdc5f032cdd16f81c11e7abeb0fd1",
     "69bf047a9d5671f1647f06c05569c2fc",
     "4e3d037251a6b680883e8b4492c169dc",
-    "3363ca56cfc3b685cad9876488da3066"
+    "3363ca56cfc3b685cad9876488da3066",
+    "277bd16870f8d970fab888a43ed05f5e",
+    "7442c47c884ca9c16f5862e62dfc9f97"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2111,8 +2111,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "kevin danso medical booked to quit tottenham on deadline day as sunderland terms",
-    "manchester city chelsea agreement: enzo fernandez joins maresca",
     "\ud83d\udfe1 \u26ab\ufe0f \ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udffc ethan nwaneri has joined borussia dortmund on loan deal from arsenal ",
     "\ud83d\udea8 \ud83c\udde6\ud83c\uddf7 enzo fernandez has completed a medical as new manchester city player \u00a3125m ",
     "jack grealish agreement reached over season long loan, medical to take place tod",
@@ -2410,7 +2408,9 @@
     "transfer news live: arsenal agree triple deal; man utd plot hall bid; chelsea, l",
     "enzo maresca highlights man city midfield depth in arsenal title race",
     "man utd reach decision on new bruno fernandes contract \u2013 \u2018it\u2019ll be a good move\u2019",
-    "\u2018there is loads to still come\u2019 \u2013 carrick is expecting big things from man united"
+    "\u2018there is loads to still come\u2019 \u2013 carrick is expecting big things from man united",
+    "journalist name checks liverpool target for revived january move",
+    "pundit claims liverpool could move for la liga legend"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2709,13 +2709,13 @@
     "chido obi": "https://images.fotmob.com/image_resources/playerimages/1557220.png",
     "simon adingra": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg/330px-Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "raskin": "https://r2.thesportsdb.com/images/media/player/cutout/zdlxoe1701946661.png/small",
-    "mikael baza": "",
     "vuk pavicevic": "",
     "shim mheuka": "",
     "mika faye": "",
-    "dinis": ""
+    "dinis": "",
+    "mikael baza": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

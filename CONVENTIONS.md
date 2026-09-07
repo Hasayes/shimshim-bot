@@ -4,6 +4,17 @@ Rules earned by incidents. Each one has a scar attached — that's why it's here
 
 ## Card quality
 
+### Stale departure club in the summary is a recycled deal
+`brief_problems` rejects any `kind="deal"` card whose summary says the
+player is leaving club X (`"from Napoli"`, …) while `from_club` is a
+different club Y. Suitor phrasing (`"proposal from Arsenal"`) is ignored.
+
+*Incident (2026-09-07):* an Aug 2024 "medical booked / Al-Ahli" Osimhen piece
+(Napoli era) was resurfaced by an SEO mirror with a fresh pubDate. Lean mode
+filed it as Here we go with `from_club=Galatasaray` (current club) but kept
+"from Napoli" in the summary — a fake **Galatasaray → Al-Ahli** here-we-go.
+Osimhen never left Galatasaray. Pinned by `test_rumour_gates.py`.
+
 ### A rumour must know where the player currently plays
 `brief_problems` rejects any `kind="interest"` card whose `from_club` is
 unknown (`""`/`"—"`) — **"rumour without origin club."**

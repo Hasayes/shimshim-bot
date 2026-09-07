@@ -1,6 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/65255",
     "tg:FabrizioRomanoTG/65256",
     "tg:FabrizioRomanoTG/65257",
     "tg:FabrizioRomanoTG/65258",
@@ -1499,7 +1498,8 @@
     "4e3d037251a6b680883e8b4492c169dc",
     "3363ca56cfc3b685cad9876488da3066",
     "277bd16870f8d970fab888a43ed05f5e",
-    "7442c47c884ca9c16f5862e62dfc9f97"
+    "7442c47c884ca9c16f5862e62dfc9f97",
+    "tg:FabrizioRomanoTG/66069"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2111,7 +2111,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "\ud83d\udfe1 \u26ab\ufe0f \ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udffc ethan nwaneri has joined borussia dortmund on loan deal from arsenal ",
     "\ud83d\udea8 \ud83c\udde6\ud83c\uddf7 enzo fernandez has completed a medical as new manchester city player \u00a3125m ",
     "jack grealish agreement reached over season long loan, medical to take place tod",
     "fabrizio romano confirms \u2018here we go\u2019 after arsenal player approves late exit",
@@ -2410,7 +2409,8 @@
     "man utd reach decision on new bruno fernandes contract \u2013 \u2018it\u2019ll be a good move\u2019",
     "\u2018there is loads to still come\u2019 \u2013 carrick is expecting big things from man united",
     "journalist name checks liverpool target for revived january move",
-    "pundit claims liverpool could move for la liga legend"
+    "pundit claims liverpool could move for la liga legend",
+    "\ud83d\udea8 \ud83d\udfe3 fiorentina have reached a verbal agreement with paolo vanoli to return as ne"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2709,13 +2709,13 @@
     "chido obi": "https://images.fotmob.com/image_resources/playerimages/1557220.png",
     "simon adingra": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg/330px-Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "raskin": "https://r2.thesportsdb.com/images/media/player/cutout/zdlxoe1701946661.png/small",
-    "vuk pavicevic": "",
     "shim mheuka": "",
     "mika faye": "",
     "dinis": "",
-    "mikael baza": ""
+    "mikael baza": "",
+    "vuk pavicevic": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 5,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

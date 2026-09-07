@@ -1,7 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/65274",
-    "tg:FabrizioRomanoTG/65277",
     "tg:FabrizioRomanoTG/65279",
     "tg:FabrizioRomanoTG/65280",
     "f3b5ccb80f7fbf750e5076c8a99e7af3",
@@ -1499,7 +1497,9 @@
     "32e08757432468a81fcd3383e9e9b840",
     "6191884173db03a3ebaeccb8b1e7d978",
     "7d9aa70dcaeefb9177086baee5995891",
-    "36cedafd87b1a7bacdbf28c8e36ded61"
+    "36cedafd87b1a7bacdbf28c8e36ded61",
+    "tg:FabrizioRomanoTG/66091",
+    "tg:FabrizioRomanoTG/66092"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1848,7 +1848,8 @@
     "adingra -> ajax": 2,
     "raskin -> besiktas": 1,
     "richarlison -> trabzonspor": 1,
-    "osimhen -> al ahli": 1
+    "osimhen -> al ahli": 1,
+    "konde -> manchester united": 2
   },
   "interest": [
     "interest: alvarez -> arsenal",
@@ -2112,8 +2113,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "'here we go' romano: hull city agree \u00a312m deal for second serie a star after vaz",
-    "everton push deadline plans forward with grealish loan return and balogun move a",
     "\ud83d\udd35 \ud83d\udca3 lamine camara currently undergoing a medical under chelsea staff supervision",
     "sunderland set to sign kevin danso on loan",
     "chelsea in advanced talks for kone for \u20ac60 million",
@@ -2411,11 +2410,12 @@
     "medical booked: chelsea set to lose out on osimhen after huge",
     "alejandro garnacho chooses between chelsea and napoli with",
     "zidane's son, enzo, retires from football at 29",
-    "fiorentina sack fabio grosso after disastrous three game serie a losing streak d"
+    "fiorentina sack fabio grosso after disastrous three game serie a losing streak d",
+    "\ud83d\udea8 \ud83d\udd34 manchester united have completed deal to sign 16 year old midfielder issac k",
+    "\ud83d\udea8 \ud83d\udd34 manchester united have completed deal to sign 16 year old midfielder isaac k"
   ],
   "tg_update_offset": 263617426,
   "photos": {
-    "aurelien tchouameni": "https://r2.thesportsdb.com/images/media/player/cutout/4o417k1733653668.png/small",
     "zeno debast": "https://r2.thesportsdb.com/images/media/player/cutout/xlp81e1716408284.png/small",
     "kerim alajbegovic": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Jahresbeginnfeier_FC_RB_Salzburg_%282026-01-25_RB_Arena%29_10.jpg/330px-Jahresbeginnfeier_FC_RB_Salzburg_%282026-01-25_RB_Arena%29_10.jpg",
     "enzo fernandez": "https://r2.thesportsdb.com/images/media/player/cutout/b71vun1757003115.png/small",
@@ -2714,9 +2714,10 @@
     "dinis": "",
     "mikael baza": "",
     "vuk pavicevic": "",
+    "issac konde": "",
     "shim mheuka": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

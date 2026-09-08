@@ -1,6 +1,5 @@
 {
   "sent": [
-    "5f300159aae10b3c622e031428f739e2",
     "58a8481aa5f22ef7daf9e80714d3acc7",
     "tg:FabrizioRomanoTG/65291",
     "77d3b1fc6b388216d7e86ea1ad1b4855",
@@ -1499,7 +1498,8 @@
     "3cba67fe5ce2dfa24c1ce457fb550bb8",
     "tg:FabrizioRomanoTG/66099",
     "73cc9495e4afe59fa9a65820602df895",
-    "0127e07f0e4a085b703f1f947ac4a71a"
+    "0127e07f0e4a085b703f1f947ac4a71a",
+    "tg:FabrizioRomanoTG/66100"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2113,7 +2113,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "ornstein: sunderland agree deal to sign star arsenal were in talks for",
     "video: english winger rowe arrives for atalanta medical",
     "man utd transfer called off a second time thanks to \u2018surprise\u2019 newcastle done de",
     "arsenal make final malick fofana transfer decision with lyon star set for medica",
@@ -2412,7 +2411,8 @@
     "man utd battle arsenal for \u00a339m dortmund star as romano confirms liverpool raid",
     "man utd strike deal to land liverpool wonderkid in major transfer coup daily mir",
     "\ud83d\udea8 \ud83c\udf15 official: club of the year nominees at ballon d\u2019or! who deserves to win? htt",
-    "chiesa might leave liverpool tuesday's gossip"
+    "chiesa might leave liverpool tuesday's gossip",
+    "\ud83d\udea8 \ud83c\udf15 official: coach of the year nominees at the ballon d\u2019or 2026! \ud83c\uddea\ud83c\uddf8 luis enriqu"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2710,14 +2710,14 @@
     "chido obi": "https://images.fotmob.com/image_resources/playerimages/1557220.png",
     "simon adingra": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg/330px-Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "raskin": "https://r2.thesportsdb.com/images/media/player/cutout/zdlxoe1701946661.png/small",
-    "issac konde": "",
     "shim mheuka": "",
     "mika faye": "",
     "dinis": "",
     "mikael baza": "",
-    "vuk pavicevic": ""
+    "vuk pavicevic": "",
+    "issac konde": ""
   },
-  "photo_repair_idx": 6,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

@@ -1,7 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/65285",
-    "tg:FabrizioRomanoTG/65286",
     "a0f1287b5e417cfdffe56a20481a6962",
     "e6fca1f4f7c1a5742f26060263fbd945",
     "tg:FabrizioRomanoTG/65287",
@@ -1499,7 +1497,9 @@
     "1c1edc505924a66d89a78f681d6f42f4",
     "75a6b967dad8ea381772f804cd335800",
     "77291deb3e5cc92201f5882cbdc557ab",
-    "8b8ae12ace6a45bdbd00c29de81392a1"
+    "8b8ae12ace6a45bdbd00c29de81392a1",
+    "2829736c9ff7bdbb56960bf77b2e29ca",
+    "3f79e82e9a647f5743bd5347d1cae93d"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2113,8 +2113,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "chelsea submit \u00a338 5million transfer bid for monaco star lamine camara as they t",
-    "\ud83d\udea8 \ud83d\udd35 everton and as monaco are in direct talks to sort issues trying to get folar",
     "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 ben chilwell returns to crystal palace from strasbourg, here we go! agreem",
     "\ud83d\udea8 \ud83d\udc2f hull city confirm deal done for robinio vaz on \u20ac2m loan wirh \u20ac30m buy option",
     "\ud83d\udea8 \ud83d\udfe1 \u26ab\ufe0f watford have completed three signings: stephy mavididi on loan with buy o",
@@ -2412,7 +2410,9 @@
     "man utd \u2018complete\u2019 liverpool midfield raid as fabrizio romano gives \u2018here we go\u2019",
     "man united strike agreement to sign liverpool youngster as deal 'completed' manc",
     "man united strike agreement to sign liverpool youngster as deal 'completed'",
-    "who is jerayno schaken: man united scouting 17 year old who just broke eredivisi"
+    "who is jerayno schaken: man united scouting 17 year old who just broke eredivisi",
+    "ineos officially expand bid for \u00a32 billion deal",
+    "isaac konde to man utd, what you need to know about completed swoop for liverpoo"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2710,14 +2710,14 @@
     "chido obi": "https://images.fotmob.com/image_resources/playerimages/1557220.png",
     "simon adingra": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg/330px-Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "raskin": "https://r2.thesportsdb.com/images/media/player/cutout/zdlxoe1701946661.png/small",
-    "issac konde": "",
     "shim mheuka": "",
     "mika faye": "",
     "dinis": "",
     "mikael baza": "",
-    "vuk pavicevic": ""
+    "vuk pavicevic": "",
+    "issac konde": ""
   },
-  "photo_repair_idx": 6,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

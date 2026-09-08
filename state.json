@@ -1,6 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/65287",
     "1c13030094331c776ddd5fc9b6287aa1",
     "tg:FabrizioRomanoTG/65288",
     "e4a28a387fc59b8d8368c14fadc43acf",
@@ -1499,7 +1498,8 @@
     "2829736c9ff7bdbb56960bf77b2e29ca",
     "3f79e82e9a647f5743bd5347d1cae93d",
     "7a65f4ed6964a8c9e60526cd6ae4bd83",
-    "16067b65784a2bf1790157a76c57e56e"
+    "16067b65784a2bf1790157a76c57e56e",
+    "3cba67fe5ce2dfa24c1ce457fb550bb8"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2113,7 +2113,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83d\udc2f hull city confirm deal done for robinio vaz on \u20ac2m loan wirh \u20ac30m buy option",
     "\ud83d\udea8 \ud83d\udfe1 \u26ab\ufe0f watford have completed three signings: stephy mavididi on loan with buy o",
     "breaking: chelsea\u2019s \u20ac45m opening offer for midfielder \u201ctoo low\u201d and rejected alr",
     "ornstein: sunderland agree deal to sign star arsenal were in talks for",
@@ -2412,7 +2411,8 @@
     "who is jerayno schaken: man united scouting 17 year old who just broke eredivisi",
     "ineos officially expand bid for \u00a32 billion deal",
     "isaac konde to man utd, what you need to know about completed swoop for liverpoo",
-    "man utd battle arsenal for \u00a339m dortmund star as romano confirms liverpool raid"
+    "man utd battle arsenal for \u00a339m dortmund star as romano confirms liverpool raid",
+    "man utd strike deal to land liverpool wonderkid in major transfer coup daily mir"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2710,14 +2710,14 @@
     "chido obi": "https://images.fotmob.com/image_resources/playerimages/1557220.png",
     "simon adingra": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg/330px-Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "raskin": "https://r2.thesportsdb.com/images/media/player/cutout/zdlxoe1701946661.png/small",
-    "dinis": "",
     "mikael baza": "",
     "vuk pavicevic": "",
     "issac konde": "",
     "shim mheuka": "",
-    "mika faye": ""
+    "mika faye": "",
+    "dinis": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

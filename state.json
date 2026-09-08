@@ -1,6 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/65291",
     "77d3b1fc6b388216d7e86ea1ad1b4855",
     "3df8b3db0ac5e5b23fa4c0e3a08e3d23",
     "51d3eeb7d3e0a9c3dbab0b243669f7b8",
@@ -1499,7 +1498,8 @@
     "73cc9495e4afe59fa9a65820602df895",
     "0127e07f0e4a085b703f1f947ac4a71a",
     "tg:FabrizioRomanoTG/66100",
-    "tg:FabrizioRomanoTG/66103"
+    "tg:FabrizioRomanoTG/66103",
+    "tg:FabrizioRomanoTG/66115"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2113,7 +2113,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "man utd transfer called off a second time thanks to \u2018surprise\u2019 newcastle done de",
     "arsenal make final malick fofana transfer decision with lyon star set for medica",
     "super eagles on alert as dortmund and arsenal agree deal on exciting youngster",
     "arsenal learn final decision on \u00a3130m julian alvarez deal as atletico madrid off",
@@ -2412,7 +2411,8 @@
     "\ud83d\udea8 \ud83c\udf15 official: club of the year nominees at ballon d\u2019or! who deserves to win? htt",
     "chiesa might leave liverpool tuesday's gossip",
     "\ud83d\udea8 \ud83c\udf15 official: coach of the year nominees at the ballon d\u2019or 2026! \ud83c\uddea\ud83c\uddf8 luis enriqu",
-    "\ud83d\udea8 official: best goalkeeper nominees at ballon d\u2019or 2026! \ud83c\udf15 \u2728 \ud83c\udde8\ud83c\uddfb vozinha \ud83c\uddea\ud83c\uddf8 unai"
+    "\ud83d\udea8 official: best goalkeeper nominees at ballon d\u2019or 2026! \ud83c\udf15 \u2728 \ud83c\udde8\ud83c\uddfb vozinha \ud83c\uddea\ud83c\uddf8 unai",
+    "\ud83d\udea8 \u2b50\ufe0f official: best young talent nominees at 2026 ballon d\u2019or! \ud83c\udde7\ud83c\udde6 kerim alajbego"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2710,14 +2710,14 @@
     "chido obi": "https://images.fotmob.com/image_resources/playerimages/1557220.png",
     "simon adingra": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg/330px-Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "raskin": "https://r2.thesportsdb.com/images/media/player/cutout/zdlxoe1701946661.png/small",
-    "mika faye": "",
     "dinis": "",
     "mikael baza": "",
     "vuk pavicevic": "",
     "issac konde": "",
-    "shim mheuka": ""
+    "shim mheuka": "",
+    "mika faye": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

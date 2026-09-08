@@ -1,12 +1,5 @@
 {
   "sent": [
-    "cdf00ad32ec95459d52b8e9181274f63",
-    "2b251664d0e6e35ab58ffc1c75df8073",
-    "c5fbda932330944a70cfeaeb8b1978b3",
-    "b7dfe355e8c236d7a9f7e75666bf476f",
-    "affbd7d4bb88a49ca055e00b42deaa28",
-    "4d11ea1ed850f136f63b6a1d53d05a61",
-    "23bff67d3e7b8e66cad9b00e621afe7f",
     "47676d50d11a51e812b522a42940042f",
     "57646db9c58e3aa6598d73cc857de5bc",
     "cbd8cd3fd060df52c15f31beda647086",
@@ -1499,7 +1492,14 @@
     "tg:FabrizioRomanoTG/66141",
     "tg:FabrizioRomanoTG/66142",
     "tg:FabrizioRomanoTG/66143",
-    "tg:FabrizioRomanoTG/66144"
+    "tg:FabrizioRomanoTG/66144",
+    "tg:FabrizioRomanoTG/66145",
+    "tg:FabrizioRomanoTG/66146",
+    "tg:FabrizioRomanoTG/66147",
+    "tg:FabrizioRomanoTG/66148",
+    "tg:FabrizioRomanoTG/66149",
+    "tg:FabrizioRomanoTG/66150",
+    "tg:FabrizioRomanoTG/66151"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2113,13 +2113,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "chelsea complete \u00a340m agreement for atalanta teenager honest ahanor",
-    "arsenal pass on malick fofana as crystal palace launch dramatic late hijack to s",
-    "transfer updates: alvarez, pulisic, sancho, balde, gakpo, others",
-    "mykhailo mudryk to tottenham hotspur details emerge as leeds united face wilfrie",
-    "surprise bombshell as ornstein reveals club \u201cworking to hijack sunderland move f",
-    "journalist provides key julian alvarez transfer update with just hours until dea",
-    "fulham emerge as potential takers for bayern munich\u2019s sacha boey",
     "barcelona reach decision on signing julian alvarez after confirmed arsenal deal",
     "arsenal youngster given transfer lifeline as fulham miss out: report",
     "deadline day \u2014 transfer updates you should know #3",
@@ -2412,7 +2405,14 @@
     "\ud83d\udea8 \ud83c\udf15 official: william pacho, among 30 nominees for ballon d\u2019or 2026 \u2014 fabrizio r",
     "\ud83d\udea8 \ud83c\udf15 official: julian quinones, among 30 nominees for ballon d\u2019or 2026 \u2014 fabrizio",
     "\ud83d\udea8 \ud83c\udf15 official: rodri, among 30 nominees for ballon d\u2019or 2026 \u2014 fabrizio romano ( ",
-    "\ud83d\udea8 \ud83c\udf15 official: declan rice, among 30 nominees for ballon d\u2019or 2026 \u2014 fabrizio rom"
+    "\ud83d\udea8 \ud83c\udf15 official: declan rice, among 30 nominees for ballon d\u2019or 2026 \u2014 fabrizio rom",
+    "\ud83d\udea8 \ud83c\udf15 official: fabian ruiz, among 30 nominees for ballon d\u2019or 2026 \u2014 fabrizio rom",
+    "\ud83d\udea8 \ud83c\udf15 official: vinicius jr, among 30 nominees for ballon d\u2019or 2026 \u2014 fabrizio rom",
+    "\ud83d\udea8 \ud83c\udf15 official: vitinha, among 30 nominees for ballon d\u2019or 2026 \u2014 fabrizio romano ",
+    "\ud83d\udea8 \ud83c\udf15 official: ferran torres, among 30 nominees for ballon d\u2019or 2026 \u2014 fabrizio r",
+    "\ud83d\udea8 \ud83c\udf15 official: dayot upamecano, among 30 nominees for ballon d\u2019or 2026 \u2014 fabrizio",
+    "\ud83d\udea8 \ud83c\udf15 official: william saliba, among 30 nominees for ballon d\u2019or 2026 \u2014 fabrizio ",
+    "\ud83d\udea8 \ud83c\udf15 official: ballon d\u2019or 2026 \u2014 the 30 nominees \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f harry kane \ud83c\udde7\ud83c\uddf7 vinicius "
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2710,14 +2710,14 @@
     "chido obi": "https://images.fotmob.com/image_resources/playerimages/1557220.png",
     "simon adingra": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg/330px-Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "raskin": "https://r2.thesportsdb.com/images/media/player/cutout/zdlxoe1701946661.png/small",
-    "issac konde": "",
     "shim mheuka": "",
     "mika faye": "",
     "dinis": "",
     "mikael baza": "",
-    "vuk pavicevic": ""
+    "vuk pavicevic": "",
+    "issac konde": ""
   },
-  "photo_repair_idx": 6,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

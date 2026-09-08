@@ -1,15 +1,5 @@
 {
   "sent": [
-    "44c21f7f0f2d7eaacb10171ba22b6479",
-    "32fa5f65b07ab84e59b625a392fe8546",
-    "98277acdb5548b7be36f095209efd2cd",
-    "0f8b1545c1ee4b97465a623b5244a113",
-    "12e24ed55b490542ee5dd8e1f55ec277",
-    "3eda3125e60b12e2871086928f1c4c7e",
-    "df563daeb72f155c4f13b28a39122932",
-    "tg:FabrizioRomanoTG/65294",
-    "e81602b1b79daed1997873860ee7b128",
-    "884149005e6e8a5bf87042e541f4c1e2",
     "0776c0cde8e4d42d5622142de175ae0b",
     "a13f76a8e9e5ade89954ba7a5af01706",
     "94acea8b37c45d676db86036a17beab6",
@@ -1499,7 +1489,17 @@
     "tg:FabrizioRomanoTG/66123",
     "tg:FabrizioRomanoTG/66124",
     "tg:FabrizioRomanoTG/66125",
-    "tg:FabrizioRomanoTG/66126"
+    "tg:FabrizioRomanoTG/66126",
+    "tg:FabrizioRomanoTG/66127",
+    "tg:FabrizioRomanoTG/66128",
+    "tg:FabrizioRomanoTG/66129",
+    "tg:FabrizioRomanoTG/66130",
+    "tg:FabrizioRomanoTG/66131",
+    "tg:FabrizioRomanoTG/66132",
+    "tg:FabrizioRomanoTG/66133",
+    "tg:FabrizioRomanoTG/66134",
+    "tg:FabrizioRomanoTG/66135",
+    "tg:FabrizioRomanoTG/66136"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2113,16 +2113,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "real reason malick fofana is joining sunderland instead of arsenal revealed",
-    "\ud83d\udea8 \ud83e\ude75 official: enzo fernandez joins manchester city on \u00a3125m deal from chelsea ht",
-    "fulham open talks over late move for bayern defender",
-    "fulham could make late move for bayern munich\u2019s sacha boey",
-    "malick fofana nears \u00a330m sunderland switch as club prepares for european return",
-    "lazio reach gudmundsson agreement with fiorentina",
-    "arsenal unwilling to match lyon\u2019s \u20ac40m asking price for malick fofana",
-    "official \u2013 chelsea sign ahanor from atalanta: \u2018joining in 2027\u2019",
-    "enzo fernandez to man city a \u2018done deal\u2019 but chelsea are hit with double rejecti",
-    "nick woltemade lands in turin as juventus deal nears completion",
     "transfer rumors, news: spurs to make late move for pulisic?",
     "liverpool look to hijack late everton deal for bundesliga star as one of three d",
     "\u2018here we go!\u2019 tottenham strike agreement with chelsea for their 28 year old defe",
@@ -2412,7 +2402,17 @@
     "\ud83d\udea8 \ud83c\udf15 official: marc cucurella, among 30 nominees for ballon d\u2019or 2026 \u2014 fabrizio ",
     "\ud83d\udea8 \ud83c\udf15 official: ousmane dembele, among 30 nominees for ballon d\u2019or 2026 \u2014 fabrizio",
     "\ud83d\udea8 \ud83c\udf15 official: luis diaz, among 30 nominees for ballon d\u2019or 2026 \u2014 fabrizio roman",
-    "\ud83d\udea8 \ud83c\udf15 official: bruno fernandes, among 30 nominees for ballon d\u2019or 2026 \u2014 fabrizio"
+    "\ud83d\udea8 \ud83c\udf15 official: bruno fernandes, among 30 nominees for ballon d\u2019or 2026 \u2014 fabrizio",
+    "\ud83d\udea8 \ud83c\udf15 official: erling haaland, among 30 nominees for ballon d\u2019or 2026 \u2014 fabrizio ",
+    "\ud83d\udea8 \ud83c\udf15 official: gabriel magalhaes, among 30 nominees for ballon d\u2019or 2026 \u2014 fabriz",
+    "\ud83d\udea8 \ud83c\udf15 official: harry kane, among 30 nominees for ballon d\u2019or 2026 \u2014 fabrizio roma",
+    "\ud83d\udea8 \ud83c\udf15 official: achraf hakimi, among 30 nominees for ballon d\u2019or 2026 \u2014 fabrizio r",
+    "\ud83d\udea8 \ud83c\udf15 official: lamine yamal, among 30 nominees for ballon d\u2019or 2026 \u2014 fabrizio ro",
+    "\ud83d\udea8 \ud83c\udf15 official: khvicha kvaratskhelia, among 30 nominees for ballon d\u2019or 2026 \u2014 fa",
+    "\ud83d\udea8 \ud83c\udf15 official: marquinhos, among 30 nominees for ballon d\u2019or 2026 \u2014 fabrizio roma",
+    "\ud83d\udea8 \ud83c\udf15 official: sadio mane, among 30 nominees for ballon d\u2019or 2026 \u2014 fabrizio roma",
+    "\ud83d\udea8 \ud83c\udf15 official: lautaro martinez, among 30 nominees for ballon d\u2019or 2026 \u2014 fabrizi",
+    "\ud83d\udea8 \ud83c\udf15 official: kylian mbappe, among 30 nominees for ballon d\u2019or 2026 \u2014 fabrizio r"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2710,14 +2710,14 @@
     "chido obi": "https://images.fotmob.com/image_resources/playerimages/1557220.png",
     "simon adingra": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg/330px-Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "raskin": "https://r2.thesportsdb.com/images/media/player/cutout/zdlxoe1701946661.png/small",
-    "mikael baza": "",
     "vuk pavicevic": "",
     "issac konde": "",
     "shim mheuka": "",
     "mika faye": "",
-    "dinis": ""
+    "dinis": "",
+    "mikael baza": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 5,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

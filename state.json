@@ -1,6 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/65282",
     "tg:FabrizioRomanoTG/65283",
     "2061987caf3e33c8f9a7d0476d505a49",
     "tg:FabrizioRomanoTG/65284",
@@ -1499,7 +1498,8 @@
     "230ff34d788114d093bc837d560fa082",
     "8520ad2326578e40ac9cd2003c4d11cd",
     "715bb8a1af7642d1551c1930a2b178f1",
-    "e6e9c48bc9f7abfd5b1509c98e634395"
+    "e6e9c48bc9f7abfd5b1509c98e634395",
+    "bfedc3d99a3cbe73ddf30a807860d1e7"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2113,7 +2113,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "kone chelsea deal called off: gasperini\u2019s decision is final",
     "everton star undergoes medical as toffees green light big wage deal",
     "everton reach agreement with monaco for tottenham target who once played for ars",
     "leeds united target undergoes medical and deal hijacked as wales stars face batt",
@@ -2412,7 +2411,8 @@
     "juventus schedule medical tests for captain locatelli after 1 1 milan draw",
     "fabrizio romano: man utd 'complete deal' to sign liverpool midfielder givemespor",
     "man utd complete deal to sign liverpool talent isaac konde",
-    "manchester united complete signing of liverpool midfielder"
+    "manchester united complete signing of liverpool midfielder",
+    "kylian mbappe reveals who he would vote as ballon d\u2019or winner"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2710,14 +2710,14 @@
     "chido obi": "https://images.fotmob.com/image_resources/playerimages/1557220.png",
     "simon adingra": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg/330px-Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "raskin": "https://r2.thesportsdb.com/images/media/player/cutout/zdlxoe1701946661.png/small",
-    "dinis": "",
     "mikael baza": "",
     "vuk pavicevic": "",
     "issac konde": "",
     "shim mheuka": "",
-    "mika faye": ""
+    "mika faye": "",
+    "dinis": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

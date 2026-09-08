@@ -1,6 +1,5 @@
 {
   "sent": [
-    "8735ceeba607762d5823825ff49178d5",
     "e59cbd76ecc3644ab84a1d85164296b3",
     "5ef8a42101767a1269bce36fbd18c90c",
     "cc5894653767bbc5d6a659056f0a614d",
@@ -1499,7 +1498,8 @@
     "tg:FabrizioRomanoTG/66151",
     "18e014a6226a5d50a3020875b9e2a97d",
     "ff6b7612abb10b890c256a986ca40af9",
-    "26e8f7a2139c28a2c73ca6eb3f25e16b"
+    "26e8f7a2139c28a2c73ca6eb3f25e16b",
+    "tg:FabrizioRomanoTG/66154"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2113,7 +2113,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "deadline day \u2014 transfer updates you should know #3",
     "atletico, nicolas tagliafico in talks for deadline day move",
     "fiorentina sign pedro goncalves from sporting as gudmundsson nears lazio switch",
     "transfer deadline day live updates: enzo fernandez, manu kone and more done deal",
@@ -2412,7 +2411,8 @@
     "\ud83d\udea8 \ud83c\udf15 official: william saliba, among 30 nominees for ballon d\u2019or 2026 \u2014 fabrizio ",
     "\ud83d\udea8 \ud83c\udf15 official: ballon d\u2019or 2026 \u2014 the 30 nominees \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f harry kane \ud83c\udde7\ud83c\uddf7 vinicius ",
     "bayern munich news: fc bayern looking to brazil for harry kane backup?; david al",
-    "romano confirms man united deal to sign midfielder from arch rivals liverpool"
+    "romano confirms man united deal to sign midfielder from arch rivals liverpool",
+    "\ud83d\udea8 \u26ab\ufe0f \ud83d\udd35 inter president marotta: \u201clautaro martinez didn\u2019t want to have any approa"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2710,14 +2710,14 @@
     "chido obi": "https://images.fotmob.com/image_resources/playerimages/1557220.png",
     "simon adingra": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg/330px-Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "raskin": "https://r2.thesportsdb.com/images/media/player/cutout/zdlxoe1701946661.png/small",
-    "dinis": "",
     "mikael baza": "",
     "vuk pavicevic": "",
     "issac konde": "",
     "shim mheuka": "",
-    "mika faye": ""
+    "mika faye": "",
+    "dinis": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

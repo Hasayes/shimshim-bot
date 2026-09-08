@@ -1,7 +1,5 @@
 {
   "sent": [
-    "4b612a9fa0f2e07da453b64e4a2e14f3",
-    "dd0928a182ccf086178d3695eb725ae7",
     "tg:FabrizioRomanoTG/65281",
     "e9e57d344e4bcedfad19329f1bdec675",
     "b7856ed6e74984ed9fdbdf34bd71e282",
@@ -1499,7 +1497,9 @@
     "36ae22bba7f530e895166a79b1daa854",
     "6da4b5999d94946180acefa8fdfa536f",
     "92cb38b16ead970e71a4f554d24c5166",
-    "tg:FabrizioRomanoTG/66096"
+    "tg:FabrizioRomanoTG/66096",
+    "0f2c6e7d6c5bfc497f855810d0aba49a",
+    "230ff34d788114d093bc837d560fa082"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2113,7 +2113,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "kone chelsea deal at risk: gasperini wants to keep him",
     "romano: spurs agree two stunning deals for fringe chelsea pair",
     "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f depor reach verbal agreement to sign marc casado from barcelona, here we ",
     "man city \u2018agree enzo fernandez transfer in stunning \u00a3137million premier league r",
@@ -2412,7 +2411,8 @@
     "a rescue mission: date set for ziyech's arrival in brazil",
     "vanoli set for fiorentina return as verbal agreement reached",
     "reece james sends defiant message after chelsea defeat against arsenal",
-    "\ud83d\udea8 \u274c bayern directot max eberl: \u201cwe still want sacha boey to find a solution on t"
+    "\ud83d\udea8 \u274c bayern directot max eberl: \u201cwe still want sacha boey to find a solution on t",
+    "juventus schedule medical tests for captain locatelli after 1 1 milan draw"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2710,14 +2710,14 @@
     "chido obi": "https://images.fotmob.com/image_resources/playerimages/1557220.png",
     "simon adingra": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg/330px-Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "raskin": "https://r2.thesportsdb.com/images/media/player/cutout/zdlxoe1701946661.png/small",
-    "shim mheuka": "",
     "mika faye": "",
     "dinis": "",
     "mikael baza": "",
     "vuk pavicevic": "",
-    "issac konde": ""
+    "issac konde": "",
+    "shim mheuka": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

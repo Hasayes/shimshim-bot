@@ -1,8 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/65281",
-    "e9e57d344e4bcedfad19329f1bdec675",
-    "b7856ed6e74984ed9fdbdf34bd71e282",
     "tg:FabrizioRomanoTG/65282",
     "tg:FabrizioRomanoTG/65283",
     "2061987caf3e33c8f9a7d0476d505a49",
@@ -1499,7 +1496,10 @@
     "92cb38b16ead970e71a4f554d24c5166",
     "tg:FabrizioRomanoTG/66096",
     "0f2c6e7d6c5bfc497f855810d0aba49a",
-    "230ff34d788114d093bc837d560fa082"
+    "230ff34d788114d093bc837d560fa082",
+    "8520ad2326578e40ac9cd2003c4d11cd",
+    "715bb8a1af7642d1551c1930a2b178f1",
+    "e6e9c48bc9f7abfd5b1509c98e634395"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2113,9 +2113,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "romano: spurs agree two stunning deals for fringe chelsea pair",
-    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f depor reach verbal agreement to sign marc casado from barcelona, here we ",
-    "man city \u2018agree enzo fernandez transfer in stunning \u00a3137million premier league r",
     "kone chelsea deal called off: gasperini\u2019s decision is final",
     "everton star undergoes medical as toffees green light big wage deal",
     "everton reach agreement with monaco for tottenham target who once played for ars",
@@ -2412,7 +2409,10 @@
     "vanoli set for fiorentina return as verbal agreement reached",
     "reece james sends defiant message after chelsea defeat against arsenal",
     "\ud83d\udea8 \u274c bayern directot max eberl: \u201cwe still want sacha boey to find a solution on t",
-    "juventus schedule medical tests for captain locatelli after 1 1 milan draw"
+    "juventus schedule medical tests for captain locatelli after 1 1 milan draw",
+    "fabrizio romano: man utd 'complete deal' to sign liverpool midfielder givemespor",
+    "man utd complete deal to sign liverpool talent isaac konde",
+    "manchester united complete signing of liverpool midfielder"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2710,14 +2710,14 @@
     "chido obi": "https://images.fotmob.com/image_resources/playerimages/1557220.png",
     "simon adingra": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg/330px-Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "raskin": "https://r2.thesportsdb.com/images/media/player/cutout/zdlxoe1701946661.png/small",
-    "mika faye": "",
     "dinis": "",
     "mikael baza": "",
     "vuk pavicevic": "",
     "issac konde": "",
-    "shim mheuka": ""
+    "shim mheuka": "",
+    "mika faye": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

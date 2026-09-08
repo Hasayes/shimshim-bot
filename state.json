@@ -1,6 +1,5 @@
 {
   "sent": [
-    "93fe4f14cf85ac8e4885791508c607c3",
     "d4522bf8db7dd6e8e6f3531807eea29b",
     "435ccdd1ab8a176b9ffdde7942eb1f2a",
     "2691aafcb2f4d1e138b40deea86782cb",
@@ -1499,7 +1498,8 @@
     "tg:FabrizioRomanoTG/66154",
     "031919144f8c431d698f5ef52a560687",
     "1c54efc46c0ba1291c73148fbdec5f97",
-    "fc5e8f83163b472c6a753fc5f72ea8d5"
+    "fc5e8f83163b472c6a753fc5f72ea8d5",
+    "22fed9b91097dc168db5512a33cfced2"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2113,7 +2113,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "video: chelsea star spotted arriving in italy ahead of deadline day medical",
     "'what i'm told ' romano issues update on everton signing richarlison and balogun",
     "petit tells arsenal to \u2018bring\u2019 elite striker who has \u2018something different\u2019 to al",
     "gabriel jesus to barcelona: surprising move for the striker",
@@ -2412,7 +2411,8 @@
     "\ud83d\udea8 \u26ab\ufe0f \ud83d\udd35 inter president marotta: \u201clautaro martinez didn\u2019t want to have any approa",
     "fabrizio romano confirms liverpool wonderkid is set to join manchester united",
     "romano reveals man utd \u2018here we go\u2019 for liverpool starlet as ineos still likely ",
-    "man utd confident they\u2019ll beat arsenal to january signing as clever plan reveale"
+    "man utd confident they\u2019ll beat arsenal to january signing as clever plan reveale",
+    "matthijs de ligt\u2019s 10 month injury hell nearly over as carrick learns when man u"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2710,14 +2710,14 @@
     "chido obi": "https://images.fotmob.com/image_resources/playerimages/1557220.png",
     "simon adingra": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg/330px-Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "raskin": "https://r2.thesportsdb.com/images/media/player/cutout/zdlxoe1701946661.png/small",
-    "shim mheuka": "",
     "mika faye": "",
     "dinis": "",
     "mikael baza": "",
     "vuk pavicevic": "",
-    "issac konde": ""
+    "issac konde": "",
+    "shim mheuka": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

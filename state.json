@@ -1,7 +1,5 @@
 {
   "sent": [
-    "f04fdda9c0b6d0959558a4e4f1dd0fcb",
-    "e528e405b5e6e12c3d35aecdabff0ff7",
     "d326ee9bf32e6e82fa74304236a7335c",
     "tg:FabrizioRomanoTG/65299",
     "cef074ec339de7ccee08b11caf4cf362",
@@ -1499,7 +1497,9 @@
     "33c69efe0d1e44753669559010927163",
     "d1a7bbc2645999a1162bdf567ab68112",
     "c890bc9149c7fbd02d1d2e9d216e3665",
-    "4edf313124ff8cc4ce905c7ee8fe3e75"
+    "4edf313124ff8cc4ce905c7ee8fe3e75",
+    "tg:FabrizioRomanoTG/66188",
+    "tg:FabrizioRomanoTG/66190"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2113,8 +2113,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "man city make major breakthrough in enzo fernandez pursuit",
-    "borna sosa agrees cologne move as palace talks enter final stage",
     "esposito leaves inter hq after signing new contract until 2032",
     "julian alvarez told mikel arteta he didn't want to join arsenal",
     "deadline day \u2014 transfer updates you should know #4",
@@ -2412,7 +2410,9 @@
     "mac allister contract standoff puts liverpool midfield plans under the spotlight",
     "man utd to sign liverpool midfielder isaac konde",
     "liverpool monitoring thiaw wednesday's gossip",
-    "transfer rumors, news: barcelona keen on rashford deal espn"
+    "transfer rumors, news: barcelona keen on rashford deal espn",
+    "\ud83d\udd35 \ud83d\udd34 \ud83c\udfc6 barcelona president laporta: \u201cthe top target this year is the champions le",
+    "\ud83d\udea8 michael carrick: \u201cmanchester united has been used to challenging the best in t"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2710,14 +2710,14 @@
     "chido obi": "https://images.fotmob.com/image_resources/playerimages/1557220.png",
     "simon adingra": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg/330px-Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "raskin": "https://r2.thesportsdb.com/images/media/player/cutout/zdlxoe1701946661.png/small",
-    "mika faye": "",
     "dinis": "",
     "mikael baza": "",
     "vuk pavicevic": "",
     "issac konde": "",
-    "shim mheuka": ""
+    "shim mheuka": "",
+    "mika faye": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

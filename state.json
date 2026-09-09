@@ -1,6 +1,5 @@
 {
   "sent": [
-    "79ec4675f036165d49f42d858f3e4252",
     "4765a0bb4c19590b94cd8031a96e2fa1",
     "f04fdda9c0b6d0959558a4e4f1dd0fcb",
     "e528e405b5e6e12c3d35aecdabff0ff7",
@@ -1499,7 +1498,8 @@
     "tg:FabrizioRomanoTG/66164",
     "tg:FabrizioRomanoTG/66171",
     "33c69efe0d1e44753669559010927163",
-    "d1a7bbc2645999a1162bdf567ab68112"
+    "d1a7bbc2645999a1162bdf567ab68112",
+    "c890bc9149c7fbd02d1d2e9d216e3665"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2113,7 +2113,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "liverpool miss out on chelsea transfer for \u00a375m star as bradley barcola deal has",
     "ineos officially make first signing of 2026 summer transfer deadline day",
     "man city make major breakthrough in enzo fernandez pursuit",
     "borna sosa agrees cologne move as palace talks enter final stage",
@@ -2412,7 +2411,8 @@
     "\ud83e\ude75 \ud83c\uddea\ud83c\uddfa official: erling haaland, man of the match for porto manchester city https:",
     "\ud83d\udcfa new youtube video uploaded! \ud83c\udfac \ud83d\udea8 \ud83d\udca3 deal done! messi decision made! leo\u2019s next m",
     "mac allister contract standoff puts liverpool midfield plans under the spotlight",
-    "man utd to sign liverpool midfielder isaac konde"
+    "man utd to sign liverpool midfielder isaac konde",
+    "liverpool monitoring thiaw wednesday's gossip"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2710,14 +2710,14 @@
     "chido obi": "https://images.fotmob.com/image_resources/playerimages/1557220.png",
     "simon adingra": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg/330px-Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "raskin": "https://r2.thesportsdb.com/images/media/player/cutout/zdlxoe1701946661.png/small",
-    "issac konde": "",
     "shim mheuka": "",
     "mika faye": "",
     "dinis": "",
     "mikael baza": "",
-    "vuk pavicevic": ""
+    "vuk pavicevic": "",
+    "issac konde": ""
   },
-  "photo_repair_idx": 6,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

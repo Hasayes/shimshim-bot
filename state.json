@@ -1,6 +1,5 @@
 {
   "sent": [
-    "4a5ca06d10aa5750615f7826dbabe3f9",
     "8fef3f0f2a0087cd507480a9a1cc8590",
     "79ec4675f036165d49f42d858f3e4252",
     "4765a0bb4c19590b94cd8031a96e2fa1",
@@ -1499,7 +1498,8 @@
     "22fed9b91097dc168db5512a33cfced2",
     "tg:FabrizioRomanoTG/66163",
     "tg:FabrizioRomanoTG/66164",
-    "tg:FabrizioRomanoTG/66171"
+    "tg:FabrizioRomanoTG/66171",
+    "33c69efe0d1e44753669559010927163"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2113,7 +2113,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "romano gives enzo fernandez to man city \u2018here we go\u2019 as chelsea \u2018approve\u2019 joint ",
     "\u201chere we go\u201d \u2013 romano & ornstein both confirm \u00a3125m chelsea transfer deal",
     "liverpool miss out on chelsea transfer for \u00a375m star as bradley barcola deal has",
     "ineos officially make first signing of 2026 summer transfer deadline day",
@@ -2412,7 +2411,8 @@
     "matthijs de ligt\u2019s 10 month injury hell nearly over as carrick learns when man u",
     "\u26aa\ufe0f \ud83c\uddea\ud83c\uddfa official: fede valverde, uefa man of the match for real madrid inter https",
     "\ud83e\ude75 \ud83c\uddea\ud83c\uddfa official: erling haaland, man of the match for porto manchester city https:",
-    "\ud83d\udcfa new youtube video uploaded! \ud83c\udfac \ud83d\udea8 \ud83d\udca3 deal done! messi decision made! leo\u2019s next m"
+    "\ud83d\udcfa new youtube video uploaded! \ud83c\udfac \ud83d\udea8 \ud83d\udca3 deal done! messi decision made! leo\u2019s next m",
+    "mac allister contract standoff puts liverpool midfield plans under the spotlight"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2710,14 +2710,14 @@
     "chido obi": "https://images.fotmob.com/image_resources/playerimages/1557220.png",
     "simon adingra": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg/330px-Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "raskin": "https://r2.thesportsdb.com/images/media/player/cutout/zdlxoe1701946661.png/small",
-    "mikael baza": "",
     "vuk pavicevic": "",
     "issac konde": "",
     "shim mheuka": "",
     "mika faye": "",
-    "dinis": ""
+    "dinis": "",
+    "mikael baza": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 5,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

@@ -1,6 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/65326",
     "tg:FabrizioRomanoTG/65327",
     "31297b8193c1c69fcfbaef4cb4976130",
     "494f4af8ef1fa4ada80130a1ba8acbb3",
@@ -1499,7 +1498,8 @@
     "f3c595df770c62eedf79019c1c1f2d62",
     "4175e6e665a327392af0abdb8a765b81",
     "tg:FabrizioRomanoTG/66225",
-    "bcc5eec8e9b92ed7d1231507534645f7"
+    "bcc5eec8e9b92ed7d1231507534645f7",
+    "tg:FabrizioRomanoTG/66233"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2113,7 +2113,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "everton drama unfolds as deal could collapse over failed medical report",
     "rayan ait nouri enquiry made by manchester united",
     "man city respond to man utd deadline day enquiry for surprise left back transfer",
     "deadline day surprise as man united make late enquiry about signing man city sta",
@@ -2412,7 +2411,8 @@
     "liverpool eyeing chelsea\u2019s two deadline day transfer targets",
     "liverpool eyeing chelsea's two deadline day transfer targets metro co uk",
     "\ud83d\udd34 \ud83d\udd35 official: ferran torres, uefa man of the match for psg slovan bratislava and",
-    "romano issues update on \u2018sad\u2019 liverpool player who now faces uncertain future at"
+    "romano issues update on \u2018sad\u2019 liverpool player who now faces uncertain future at",
+    "\ud83c\udfc6 \ud83d\udc40 ferran torres: \u201cyes, barcelona is one of the favorite teams to win the champ"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2710,14 +2710,14 @@
     "chido obi": "https://images.fotmob.com/image_resources/playerimages/1557220.png",
     "simon adingra": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg/330px-Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "raskin": "https://r2.thesportsdb.com/images/media/player/cutout/zdlxoe1701946661.png/small",
-    "mika faye": "",
     "dinis": "",
     "mikael baza": "",
     "vuk pavicevic": "",
     "issac konde": "",
-    "shim mheuka": ""
+    "shim mheuka": "",
+    "mika faye": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

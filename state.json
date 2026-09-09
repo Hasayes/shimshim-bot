@@ -1,6 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/65309",
     "8048727cc149df05219ee234fc651233",
     "tg:FabrizioRomanoTG/65316",
     "tg:FabrizioRomanoTG/65317",
@@ -1499,7 +1498,8 @@
     "tg:FabrizioRomanoTG/66207",
     "5dd2b79ccc7ed712369cbc3598e5185b",
     "tg:FabrizioRomanoTG/66209",
-    "0aae43b5ba2f34790efa7d9b0b29eaba"
+    "0aae43b5ba2f34790efa7d9b0b29eaba",
+    "9fff8965f172d0eaa5b6e126d4a6109d"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2113,7 +2113,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "'green light' fabrizio romano's fresh claim regarding leeds united chase for jea",
     "arsenal make nwaneri decision as star set for deadline day medical london evenin",
     "leeds united transfer live news: the whites reach verbal agreement with eintrach",
     "premier league transfer deadline day: fernandez to join city | grealish returns ",
@@ -2412,7 +2411,8 @@
     "\ud83d\udea8 \ud83c\udde7\ud83c\uddf7 official: joao pedro and estevao among the players called up by ancelotti, ",
     "ornstein reveals liverpool spying new \u00a356m france star for january teamtalk",
     "\ud83d\udd35 \ud83d\udd34 \ud83c\udfc5 official: raphinha wins uefa man of the match award for barca feyenoord th",
-    "liverpool stance on araujo has emerged as \u00a347m permanent transfer decision looms"
+    "liverpool stance on araujo has emerged as \u00a347m permanent transfer decision looms",
+    "journalist names a number of midfielders on liverpool\u2019s radar"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2710,14 +2710,14 @@
     "chido obi": "https://images.fotmob.com/image_resources/playerimages/1557220.png",
     "simon adingra": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg/330px-Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "raskin": "https://r2.thesportsdb.com/images/media/player/cutout/zdlxoe1701946661.png/small",
-    "mika faye": "",
     "dinis": "",
     "mikael baza": "",
     "vuk pavicevic": "",
     "issac konde": "",
-    "shim mheuka": ""
+    "shim mheuka": "",
+    "mika faye": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

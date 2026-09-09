@@ -1,6 +1,5 @@
 {
   "sent": [
-    "a4c6ad980e63b290dcf2bb82af1b5d52",
     "tg:FabrizioRomanoTG/65304",
     "tg:FabrizioRomanoTG/65306",
     "tg:FabrizioRomanoTG/65308",
@@ -1499,7 +1498,8 @@
     "b2c44643ca906ad83b4caf71df98d3a1",
     "6bc9d396ccd18d290a75a10889723583",
     "67366d692885f0b233a211abf6ba8a07",
-    "tg:FabrizioRomanoTG/66204"
+    "tg:FabrizioRomanoTG/66204",
+    "tg:FabrizioRomanoTG/66207"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2113,7 +2113,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "\u201cdecision made\u201d \u2013 fabrizio romano provides update on man utd & chelsea transfer ",
     "leeds agree \u00a326m deal for explosive winger as fabrizio romano gives \u2018here we go\u2019",
     "\u201cthey feel disappointed\u201d \u2013 inside arsenal\u2019s difficult summer after working for \u201c",
     "'green light' fabrizio romano's fresh claim regarding leeds united transfer chas",
@@ -2412,7 +2411,8 @@
     "liverpool midfielder joins man united, he's gone",
     "ornstein: liverpool keen to sign manu kone alongside lamine camara",
     "8 goals in 6 games: attacker in red hot form is being targeted to replace gyoker",
-    "\ud83d\udd35 \ud83d\udd34 \u26a1\ufe0f barcelona have scored 22 goals in 5 games in all competitions this season"
+    "\ud83d\udd35 \ud83d\udd34 \u26a1\ufe0f barcelona have scored 22 goals in 5 games in all competitions this season",
+    "\ud83d\udea8 \ud83c\udde7\ud83c\uddf7 official: joao pedro and estevao among the players called up by ancelotti, "
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2710,14 +2710,14 @@
     "chido obi": "https://images.fotmob.com/image_resources/playerimages/1557220.png",
     "simon adingra": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg/330px-Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "raskin": "https://r2.thesportsdb.com/images/media/player/cutout/zdlxoe1701946661.png/small",
-    "mikael baza": "",
     "vuk pavicevic": "",
     "issac konde": "",
     "shim mheuka": "",
     "mika faye": "",
-    "dinis": ""
+    "dinis": "",
+    "mikael baza": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 5,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

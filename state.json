@@ -1,8 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/65320",
-    "3398f9a6a3b30b48c53d858909dfcc90",
-    "tg:FabrizioRomanoTG/65323",
     "tg:FabrizioRomanoTG/65325",
     "ff0d3dd935da40b0bb46b124662ef296",
     "tg:FabrizioRomanoTG/65326",
@@ -1499,7 +1496,10 @@
     "a2d10925a364cb59d3c5f0664c223611",
     "6c8201b8fee740f6e9eafca4437cdf25",
     "tg:FabrizioRomanoTG/66216",
-    "tg:FabrizioRomanoTG/66217"
+    "tg:FabrizioRomanoTG/66217",
+    "207a6dad1029f3df3fb330d9a26f47d8",
+    "f3c595df770c62eedf79019c1c1f2d62",
+    "4175e6e665a327392af0abdb8a765b81"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2113,9 +2113,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "fabrizio romano: the blockbuster transfer deals still yet to be finalised from d",
-    "manchester united keep left back after talks held with burnley",
-    "contract rebel eyed by arsenal, liverpool, chelsea & man utd likely to command \u00a3",
     "deal off: everton move to sign folarin balogun set to collapse fabrizio romano g",
     "everton get worst news possible as folarin balogun medical results in",
     "everton drama unfolds as deal could collapse over failed medical report",
@@ -2412,7 +2409,10 @@
     "journalist names a number of midfielders on liverpool\u2019s radar",
     "liverpool enter race for \u20ac65m france midfielder as ornstein tips new chelsea bat",
     "\ud83d\udd34 \ud83d\udd35 brace for ferran, brace for ousmane torres and dembele lead psg into their f",
-    "\ud83d\udd34 \ud83d\udd35 hat trick for ferran, brace for ousmane plus two assists torres and dembele "
+    "\ud83d\udd34 \ud83d\udd35 hat trick for ferran, brace for ousmane plus two assists torres and dembele ",
+    "fabrizio romano drops bleak \u2018realities\u2019 of impending liverpool exit for alexis m",
+    "liverpool eyeing chelsea\u2019s two deadline day transfer targets",
+    "liverpool eyeing chelsea's two deadline day transfer targets metro co uk"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2710,14 +2710,14 @@
     "chido obi": "https://images.fotmob.com/image_resources/playerimages/1557220.png",
     "simon adingra": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg/330px-Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "raskin": "https://r2.thesportsdb.com/images/media/player/cutout/zdlxoe1701946661.png/small",
-    "vuk pavicevic": "",
     "issac konde": "",
     "shim mheuka": "",
     "mika faye": "",
     "dinis": "",
-    "mikael baza": ""
+    "mikael baza": "",
+    "vuk pavicevic": ""
   },
-  "photo_repair_idx": 5,
+  "photo_repair_idx": 6,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

@@ -1,6 +1,5 @@
 {
   "sent": [
-    "d326ee9bf32e6e82fa74304236a7335c",
     "tg:FabrizioRomanoTG/65299",
     "cef074ec339de7ccee08b11caf4cf362",
     "tg:FabrizioRomanoTG/65301",
@@ -1499,7 +1498,8 @@
     "c890bc9149c7fbd02d1d2e9d216e3665",
     "4edf313124ff8cc4ce905c7ee8fe3e75",
     "tg:FabrizioRomanoTG/66188",
-    "tg:FabrizioRomanoTG/66190"
+    "tg:FabrizioRomanoTG/66190",
+    "5934e5f9333eb6a69445ed6c80fcdb7c"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2113,7 +2113,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "esposito leaves inter hq after signing new contract until 2032",
     "julian alvarez told mikel arteta he didn't want to join arsenal",
     "deadline day \u2014 transfer updates you should know #4",
     "breaking: chelsea agree deal to sell enzo fernandez to man city for \u00a3125m",
@@ -2412,7 +2411,8 @@
     "liverpool monitoring thiaw wednesday's gossip",
     "transfer rumors, news: barcelona keen on rashford deal espn",
     "\ud83d\udd35 \ud83d\udd34 \ud83c\udfc6 barcelona president laporta: \u201cthe top target this year is the champions le",
-    "\ud83d\udea8 michael carrick: \u201cmanchester united has been used to challenging the best in t"
+    "\ud83d\udea8 michael carrick: \u201cmanchester united has been used to challenging the best in t",
+    "ornstein reveals liverpool interest in midfielder who was very close to chelsea "
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2710,14 +2710,14 @@
     "chido obi": "https://images.fotmob.com/image_resources/playerimages/1557220.png",
     "simon adingra": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg/330px-Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "raskin": "https://r2.thesportsdb.com/images/media/player/cutout/zdlxoe1701946661.png/small",
-    "dinis": "",
     "mikael baza": "",
     "vuk pavicevic": "",
     "issac konde": "",
     "shim mheuka": "",
-    "mika faye": ""
+    "mika faye": "",
+    "dinis": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

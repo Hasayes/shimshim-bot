@@ -1,7 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/65301",
-    "95ddca89ca665e1f351c9724a672f4ec",
     "208273c8a622fde5f33d8171e0ea1882",
     "tg:FabrizioRomanoTG/65303",
     "88e57d707d366d57f80beb1d0b7f2559",
@@ -1499,7 +1497,9 @@
     "tg:FabrizioRomanoTG/66190",
     "5934e5f9333eb6a69445ed6c80fcdb7c",
     "9291e01ada8dbdd322dac37fb153ce21",
-    "tg:FabrizioRomanoTG/66196"
+    "tg:FabrizioRomanoTG/66196",
+    "61703e8422681a499e9c84a7466565de",
+    "4a25848dc57937b934227037bb2680d8"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2113,8 +2113,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "breaking: chelsea agree deal to sell enzo fernandez to man city for \u00a3125m",
-    "chelsea \u2018deal off\u2019 as monaco respond to \u2018second offer\u2019 for camara and kone \u2018deci",
     "'here we go' romano: leeds agree jean matteo bahoya transfer",
     "thilo kehrer set to join ajax on loan from monaco",
     "pape matar sarr signs for serie a giants on loan",
@@ -2412,7 +2410,9 @@
     "\ud83d\udea8 michael carrick: \u201cmanchester united has been used to challenging the best in t",
     "ornstein reveals liverpool interest in midfielder who was very close to chelsea ",
     "ornstein reveals liverpool transfer target\u2019s release clause, iraola is a \u201chuge f",
-    "\ud83d\udea8 \ud83c\uddfa\ud83c\udde6 mykhaylo mudryk has suffered an injury and will be sidelined for 6 8 weeks "
+    "\ud83d\udea8 \ud83c\uddfa\ud83c\udde6 mykhaylo mudryk has suffered an injury and will be sidelined for 6 8 weeks ",
+    "liverpool emerge as \u2018rival suitor\u2019 for two chelsea midfield targets",
+    "27 year old arsenal league winning player becomes priority target for real madri"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2710,14 +2710,14 @@
     "chido obi": "https://images.fotmob.com/image_resources/playerimages/1557220.png",
     "simon adingra": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg/330px-Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "raskin": "https://r2.thesportsdb.com/images/media/player/cutout/zdlxoe1701946661.png/small",
-    "vuk pavicevic": "",
     "issac konde": "",
     "shim mheuka": "",
     "mika faye": "",
     "dinis": "",
-    "mikael baza": ""
+    "mikael baza": "",
+    "vuk pavicevic": ""
   },
-  "photo_repair_idx": 5,
+  "photo_repair_idx": 6,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

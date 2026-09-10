@@ -1,7 +1,5 @@
 {
   "sent": [
-    "494f4af8ef1fa4ada80130a1ba8acbb3",
-    "tg:FabrizioRomanoTG/65329",
     "tg:FabrizioRomanoTG/65330",
     "tg:FabrizioRomanoTG/65331",
     "tg:FabrizioRomanoTG/65332",
@@ -1499,7 +1497,9 @@
     "bcc5eec8e9b92ed7d1231507534645f7",
     "tg:FabrizioRomanoTG/66233",
     "61f87f120281816c9366d225575b42da",
-    "ef1f30290d6da6f4a4593bd13f410a7c"
+    "ef1f30290d6da6f4a4593bd13f410a7c",
+    "b4bc9d7364959d44d44fb784b4749d1a",
+    "6fffa1ae4b9cfd7b16fb22421b672922"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2113,8 +2113,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "deadline day surprise as man united make late enquiry about signing man city sta",
-    "everton launch emergency joshua zirkzee bid as folarin balogun medical issues em",
     "folarin balogun\u2019s move to premier league could be off after failed medical tests",
     "fabrizio romano delivers late \u201chere we go\u201d for \u20ac55m chelsea signing to replace e",
     "everton now set to sign forward on loan once likened to prime ronaldinho report",
@@ -2412,7 +2410,9 @@
     "romano issues update on \u2018sad\u2019 liverpool player who now faces uncertain future at",
     "\ud83c\udfc6 \ud83d\udc40 ferran torres: \u201cyes, barcelona is one of the favorite teams to win the champ",
     "ornstein denies liverpool were behind collapse of vital chelsea midfield move",
-    "direct talks held: arsenal and chelsea could do surprise transfer business this "
+    "direct talks held: arsenal and chelsea could do surprise transfer business this ",
+    "both players were wanted by chelsea during the summer",
+    "la liga club plot move to sign anthony martial"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2710,14 +2710,14 @@
     "chido obi": "https://images.fotmob.com/image_resources/playerimages/1557220.png",
     "simon adingra": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg/330px-Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "raskin": "https://r2.thesportsdb.com/images/media/player/cutout/zdlxoe1701946661.png/small",
-    "mikael baza": "",
     "vuk pavicevic": "",
     "issac konde": "",
     "shim mheuka": "",
     "mika faye": "",
-    "dinis": ""
+    "dinis": "",
+    "mikael baza": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 5,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

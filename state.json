@@ -1,8 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/65361",
-    "dd4c735022bea3d10b378f30f6347239",
-    "tg:FabrizioRomanoTG/65363",
     "c43040e779d3eb54066531100ed4d1c8",
     "74cb0b3f14dd3acb6f6432fd6c742422",
     "tg:FabrizioRomanoTG/65364",
@@ -1499,7 +1496,10 @@
     "f9797ad39d4e3270c4cf6d032f9aa86e",
     "tg:FabrizioRomanoTG/66271",
     "tg:FabrizioRomanoTG/66272",
-    "4ff1c324eed948ff7b1357080c06b824"
+    "4ff1c324eed948ff7b1357080c06b824",
+    "412b25b4fac69a4b7d7afa2768d339fe",
+    "4b2bbcc77f942302e18a48711e566aee",
+    "tg:FabrizioRomanoTG/66277"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2113,9 +2113,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "rodri\u2019s arrival triggers barcelona exit as la masia gem marc casado finalizes la",
-    "how usmnt star folarin balogun's everton transfer sensationally collapsed after ",
-    "\ud83d\udfe1 \ud83d\udd34 deniz gul has arrived at galatasaray after joining on \u20ac11m deal from fc port",
     "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f reiss nelson has completed a medical and joins feyenoord as free agent af",
     "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f exclusive: olympiacos reach verbal agreement for surprise deal to sign le",
     "fofana fa le visite col lione, firma tutti i documenti, aspettano di annunciare ",
@@ -2412,7 +2409,10 @@
     "24 yo pl speedster wanted by united available for \u00a360m in 2027, says david ornst",
     "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f philippe coutinho to santos, here we go! deal until the end of the year ",
     "\ud83d\udea8 \ud83d\udfe1 \ud83d\udd35 breaking: fenerbahce manager ismail kartal has resigned after 1 1 draw aga",
-    "ronald araujo drops major liverpool future hint after atletico madrid victory"
+    "ronald araujo drops major liverpool future hint after atletico madrid victory",
+    "transfer rumors, news: man united, tottenham eye club brugge striker",
+    "liverpool news: transfer target's \u00a3130m release clause emerges as huge decision ",
+    "\ud83d\udd34 \u26aa\ufe0f \ud83e\udd16 bayern machine is back with four goals! harry kane, at it again with 8 co"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2710,14 +2710,14 @@
     "chido obi": "https://images.fotmob.com/image_resources/playerimages/1557220.png",
     "simon adingra": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg/330px-Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "raskin": "https://r2.thesportsdb.com/images/media/player/cutout/zdlxoe1701946661.png/small",
-    "dinis": "",
     "mikael baza": "",
     "vuk pavicevic": "",
     "issac konde": "",
     "shim mheuka": "",
-    "mika faye": ""
+    "mika faye": "",
+    "dinis": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

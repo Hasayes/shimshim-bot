@@ -1,6 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/65343",
     "tg:FabrizioRomanoTG/65344",
     "tg:FabrizioRomanoTG/65346",
     "tg:FabrizioRomanoTG/65347",
@@ -1499,7 +1498,8 @@
     "1d49e39c6bbc0a437892b9286b19b02f",
     "52fb32598b47a38045bbd8662862f80c",
     "tg:FabrizioRomanoTG/66236",
-    "3aeb587bf26fdd361e782c85b24f2e38"
+    "3aeb587bf26fdd361e782c85b24f2e38",
+    "a6c25e9352f8f8ca0b6108596ac3d64b"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2113,7 +2113,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "transfer deadline day live updates: enzo fernandez, lamine camara, folarin balog",
     "eye opening man utd left back \u2018enquiry\u2019 met with categorical man city response",
     "chelsea strike lamine camara agreement with medical underway for deadline bustin",
     "failed medical elsewhere helped chelsea secure signing in \u201cone of the craziest\u201d ",
@@ -2412,7 +2411,8 @@
     "everton officials jet away on new transfer mission days after deadline",
     "ex man utd ace anthony martial \u2018offered contract\u2019 by three european clubs after ",
     "\ud83d\udd35 \ud83d\udd34 \u00a9\ufe0f lamine yamal, officially barcelona\u2019s youngest captain ever breaking bojan",
-    "liverpool transfer news: manu kone emerges as january target after \u20ac60m chelsea "
+    "liverpool transfer news: manu kone emerges as january target after \u20ac60m chelsea ",
+    "everton transfer twist as free agent's entourage take action after 'exorbitant' "
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2710,14 +2710,14 @@
     "chido obi": "https://images.fotmob.com/image_resources/playerimages/1557220.png",
     "simon adingra": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg/330px-Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "raskin": "https://r2.thesportsdb.com/images/media/player/cutout/zdlxoe1701946661.png/small",
-    "dinis": "",
     "mikael baza": "",
     "vuk pavicevic": "",
     "issac konde": "",
     "shim mheuka": "",
-    "mika faye": ""
+    "mika faye": "",
+    "dinis": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

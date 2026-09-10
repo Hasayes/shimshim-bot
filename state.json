@@ -1,6 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/65349",
     "tg:FabrizioRomanoTG/65352",
     "tg:FabrizioRomanoTG/65353",
     "39fc01fd0dbf6dab4bdbbca4b366f8a8",
@@ -1499,7 +1498,8 @@
     "e9cf0aea174dc6f92f7f94e8ca137df9",
     "tg:FabrizioRomanoTG/66251",
     "tg:FabrizioRomanoTG/66252",
-    "tg:FabrizioRomanoTG/66253"
+    "tg:FabrizioRomanoTG/66253",
+    "tg:FabrizioRomanoTG/66255"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2113,7 +2113,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "everton table last gasp \u00a310m loan offer for forward, response already given repo",
     "everton confident of new balogun agreement as man utd reject late zirkzee bid",
     "\ud83d\udea8 \ud83c\uddf3\ud83c\uddf1 essien bassey leaves psv eindhoven to join viking fk, deal done on \u20ac1m pack",
     "\ud83d\udd35 \ud83d\udd34 \u270d\ud83c\udffc 19 year old midfielder mirza catovic signed all documents with barcelona ",
@@ -2412,7 +2411,8 @@
     "ryan giggs gives jj gabriel the ultimate praise, but he should know better",
     "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 barca director deco on julian deal: \u201cwe made an offer to pay \u20ac100m over th",
     "\ud83d\udd35 \ud83d\udd34 barca director deco on ferran torres: \u201ci\u2019m happy for him and his hat trick b",
-    "\ud83d\udea8 \ud83c\uddfa\ud83c\uddfe barca director deco on araujo: \u201ci love ronald! i\u2019m very fond of him, i love"
+    "\ud83d\udea8 \ud83c\uddfa\ud83c\uddfe barca director deco on araujo: \u201ci love ronald! i\u2019m very fond of him, i love",
+    "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 barca director deco on bernardo silva: \u201cit wasn\u2019t the position we were loo"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2710,14 +2710,14 @@
     "chido obi": "https://images.fotmob.com/image_resources/playerimages/1557220.png",
     "simon adingra": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg/330px-Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "raskin": "https://r2.thesportsdb.com/images/media/player/cutout/zdlxoe1701946661.png/small",
-    "mika faye": "",
     "dinis": "",
     "mikael baza": "",
     "vuk pavicevic": "",
     "issac konde": "",
-    "shim mheuka": ""
+    "shim mheuka": "",
+    "mika faye": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

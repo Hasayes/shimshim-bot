@@ -1,7 +1,5 @@
 {
   "sent": [
-    "d8c294c3b4383cb8b32fc6592edf0a92",
-    "6d7cf1d40fd45c186f381f1efc9be8ec",
     "0cf35d0480a490bc477543b686671374",
     "aebaa684320e35637b4df67c180b18f8",
     "bb225ae9d1ff943da03e3e43db14c3ad",
@@ -1499,7 +1497,9 @@
     "00082fccadea6fb93b6693d26d6d60ce",
     "6b85d2b01b146e4260ea857897b2b94e",
     "e14f3a975bd1ffe331fa27b623527026",
-    "a75feb2a2c65cdafc27a6acf5e81c806"
+    "a75feb2a2c65cdafc27a6acf5e81c806",
+    "5fb9d26d92d12f3a6fed5f2ff76aea0d",
+    "5afbcb0db461fe3e3644704a6a191600"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2113,8 +2113,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "man utd strike transfer agreement hours after deadline as medical taking place t",
-    "aston villa transfer news: leon bailey set for shock permanent exit to olympiaco",
     "\u2018deal done\u2019 \u2013 fabrizio romano drops man utd \u2018here we go\u2019 as ineos \u2018authorise med",
     "man utd: romano reveals \u2018done deal\u2019 for striker exit with medical \u2018taking place ",
     "medical today: man united star leaves on loan after transfer deadline, says fabr",
@@ -2412,7 +2410,9 @@
     "advanced talks held as manchester united transfer target\u2019s future closer to bein",
     "david ornstein confirms it: liverpool looking into brilliant \u20ac70m signing",
     "fabrizio romano: chelsea\u2019s \u00a375m on loan winger picks up 6 8 week injury",
-    "newcastle star lewis hall reveals four reasons for signing new contract after ma"
+    "newcastle star lewis hall reveals four reasons for signing new contract after ma",
+    "fabrizio romano reveals midfielder\u2019s \u201clove\u201d for liverpool despite man city trans",
+    "man utd defender target giorgio scalvini makes important decision on his future"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2711,13 +2711,13 @@
     "simon adingra": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg/330px-Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "raskin": "https://r2.thesportsdb.com/images/media/player/cutout/zdlxoe1701946661.png/small",
     "vuk pavicevic": "",
-    "dinis": "",
     "mikael baza": "",
     "issac konde": "",
     "shim mheuka": "",
-    "mika faye": ""
+    "mika faye": "",
+    "dinis": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

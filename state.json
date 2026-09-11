@@ -1,7 +1,5 @@
 {
   "sent": [
-    "79385aeb718efedecafad982dd24cac6",
-    "0a3e7050c771af061ea7d56411796e0c",
     "tg:FabrizioRomanoTG/65372",
     "tg:FabrizioRomanoTG/65373",
     "0afa8720523690be7ef876e42fac1af6",
@@ -1499,7 +1497,9 @@
     "3700aac4e52183bb1f30be3c6b367261",
     "08e4f1310ada9a544d3b5b6c01d5513c",
     "a314da07747b908dce79bbc6b93988a1",
-    "435a7ba71bd16c3dfe05ff036fdabb51"
+    "435a7ba71bd16c3dfe05ff036fdabb51",
+    "9862b74d64f9b7638fe897ad54bc3967",
+    "tg:FabrizioRomanoTG/66287"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2113,8 +2113,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83c\udde8\ud83c\uddee simon adingra to ajax, here we go! deal signed today after medical on loan ",
-    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f giovanni di lorenzo has signed new deal at napoli until june 2030 https:/",
     "\ud83d\udea8 \ud83c\uddf9\ud83c\uddf7 breaking: richarlison has agreed to join trabzonspor with salary agreed, x3",
     "lamine camara chelsea transfer: as monaco cancel deal for senegalese midfielder ",
     "clear the air talks held with player after failure to seal late liverpool exit",
@@ -2412,7 +2410,9 @@
     "hypocrital real madrid superstar kylian mbappe ruled out man utd transfer for on",
     "fabrizio romano reveals lewis hall to man utd still on despite newcastle agreeme",
     "yamal is only player who deserves ballon d\u2019or \u2014ex man city star",
-    "richarlison to u turn on tottenham contract cancellation as new \u2018\u20ac10m bid\u2019 arriv"
+    "richarlison to u turn on tottenham contract cancellation as new \u2018\u20ac10m bid\u2019 arriv",
+    "napoli confirm extent of meret and alisson injuries after 1 0 arsenal defeat",
+    "\ud83d\udea8 michael carrick tells tnt: \u201cin terms of results, we haven't had a perfect star"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2710,14 +2710,14 @@
     "chido obi": "https://images.fotmob.com/image_resources/playerimages/1557220.png",
     "simon adingra": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg/330px-Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "raskin": "https://r2.thesportsdb.com/images/media/player/cutout/zdlxoe1701946661.png/small",
-    "shim mheuka": "",
     "mika faye": "",
     "dinis": "",
     "mikael baza": "",
     "vuk pavicevic": "",
-    "issac konde": ""
+    "issac konde": "",
+    "shim mheuka": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

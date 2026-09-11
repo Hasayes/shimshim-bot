@@ -1,6 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/65366",
     "ea3b6dfc02ab77a7bd6824af7e403f97",
     "ee970e5a1ace9a1b237156471bb365fb",
     "865d6795bda059d1053f3c170c41e912",
@@ -1499,7 +1498,8 @@
     "tg:FabrizioRomanoTG/66277",
     "051309ae5c323a7beb30368ecf5ab765",
     "7249ec6eee3387fbd17e1d944c6beaa9",
-    "f33bf2e5341fcb4cca32a3d49891dcc5"
+    "f33bf2e5341fcb4cca32a3d49891dcc5",
+    "9598c9725d129a88e8e020feec95d02b"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2113,7 +2113,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83c\uddf3\ud83c\uddf1 chido obi from manchester united to willem ii, here we go! deal done for th",
     "\ud83d\udea8 \u26ab\ufe0f \ud83d\udd35 inter director piero ausilio to leave the club on mutual agreement decisi",
     "azeez undergoes brighton medical ahead \u00a315m move",
     "deportivo a coruna seal season long loan deal for barcelona midfielder marc casa",
@@ -2412,7 +2411,8 @@
     "\ud83d\udd34 \u26aa\ufe0f \ud83e\udd16 bayern machine is back with four goals! harry kane, at it again with 8 co",
     "anthony martial ready to reboot his career in la liga after mexican nightmare",
     "man utd transfer news: david ornstein teases \"deal to be done\" for red devils' \u00a3",
-    "ornstein tips man utd to open \u00a360m talks for \u2018best left back in the country\u2019"
+    "ornstein tips man utd to open \u00a360m talks for \u2018best left back in the country\u2019",
+    "jaissle talks about newcastle star he's 'in love' with ahead of contract update "
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2710,14 +2710,14 @@
     "chido obi": "https://images.fotmob.com/image_resources/playerimages/1557220.png",
     "simon adingra": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg/330px-Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "raskin": "https://r2.thesportsdb.com/images/media/player/cutout/zdlxoe1701946661.png/small",
-    "shim mheuka": "",
     "mika faye": "",
     "dinis": "",
     "mikael baza": "",
     "vuk pavicevic": "",
-    "issac konde": ""
+    "issac konde": "",
+    "shim mheuka": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

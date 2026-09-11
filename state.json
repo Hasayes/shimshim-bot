@@ -1,7 +1,5 @@
 {
   "sent": [
-    "324e0ee3643fb2837a1fdb1ee190ef3a",
-    "0610af4cc92dbf78603728e5d0e920a2",
     "978abba927666e60a9a9207e624472ba",
     "d52d19baed86a55797f5cb6deeba51c5",
     "a70da4144a5a2e4196fa3483418e402a",
@@ -1499,7 +1497,9 @@
     "tg:FabrizioRomanoTG/66315",
     "tg:FabrizioRomanoTG/66316",
     "tg:FabrizioRomanoTG/66317",
-    "24e1205197b3153954ad314eaa52f064"
+    "24e1205197b3153954ad314eaa52f064",
+    "c1963c2b3e4707bf05130335dbced3e4",
+    "564a8eaa06ae372f304c522cf2dbc861"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2113,8 +2113,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "next steps for rangers as verbal agreement reached for nico raskin to quit ibrox",
-    "rangers reach 'verbal agreement' with european side over big money transfer",
     "liverpool transfer collapse sparks powerful warning over treatment of african pl",
     "david ornstein admits arsenal didn\u2019t achieve key summer goal",
     "romano confirms arsenal next arrival \u2018on his way\u2019 to \u2018sign this week\u2019 after \u2018her",
@@ -2412,7 +2410,9 @@
     "\ud83d\udea8 \u2b50\ufe0f official: ferran torres wins uefa player of the week for ucl matchday 1! 2\ufe0f",
     "\ud83d\udea8 \u2b50\ufe0f official: uefa team of the week for ucl matchday 1! any changes you\u2019d make?",
     "\ud83d\udd35 \ud83d\udd34 \u2b50\ufe0f official: raphinha wins la liga player of the month award for august \ud83c\udde7\ud83c\uddf7 6",
-    "united plotting ambitious move to sign \u00a3150m stars from bournemouth, ineos prepa"
+    "united plotting ambitious move to sign \u00a3150m stars from bournemouth, ineos prepa",
+    "jude bellingham in talks over real madrid renewal as premier league speculation ",
+    "real madrid open active talks with 23 year old megastar over new contract \u2013 roma"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2710,14 +2710,14 @@
     "chido obi": "https://images.fotmob.com/image_resources/playerimages/1557220.png",
     "simon adingra": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg/330px-Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "raskin": "https://r2.thesportsdb.com/images/media/player/cutout/zdlxoe1701946661.png/small",
-    "mikael baza": "",
     "vuk pavicevic": "",
     "issac konde": "",
     "shim mheuka": "",
     "mika faye": "",
-    "dinis": ""
+    "dinis": "",
+    "mikael baza": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 5,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

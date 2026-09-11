@@ -1,7 +1,5 @@
 {
   "sent": [
-    "2589d76d2aeeed870cd08dd4920a8822",
-    "b5dba41f6b90cfc6540589b9604d4518",
     "de6ad2ccf9c4cbb8e345bb6bd5f13795",
     "00307eac7ac5e466932b9a9a7fb73299",
     "5b4e90829e32d2e08daa93a5f12e8c60",
@@ -1499,7 +1497,9 @@
     "5afbcb0db461fe3e3644704a6a191600",
     "f9af3215d2775019d457c446d58f6689",
     "417c95e252be0081498dca85665f2800",
-    "f2466162bc413570abca079a62d4fd81"
+    "f2466162bc413570abca079a62d4fd81",
+    "2e6ef712f4c998652e6298f362762fc3",
+    "tg:FabrizioRomanoTG/66323"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2113,8 +2113,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "enzo fernandez sends pointed message to chelsea as he discusses manchester city ",
-    "man utd planning four big signings in 2027 in \u00a3500m ineos masterplan",
     "man utd complete late transfer after deadline day as 'deal agreed' london evenin",
     "manchester united complete late transfer after deadline day as 'deal agreed'",
     "one of arteta\u2019s coaches tried to convince surprise name to seal arsenal transfer",
@@ -2412,7 +2410,9 @@
     "man utd defender target giorgio scalvini makes important decision on his future",
     "former liverpool chief thought they had a genuine chance of signing 2x ucl winne",
     "tottenham ready to accept \u20ac20m richarlison offer but deal hinges on deadline day",
-    "transfer rumors, news: could brazil offer richarlison a route out of tottenham?"
+    "transfer rumors, news: could brazil offer richarlison a route out of tottenham?",
+    "massive talent in line to replace lamine camara on liverpool shortlist anfieldwa",
+    "\ud83d\udea8 \ud83d\udfe3 \ud83d\udd35 unai emery confirms alejandro garnacho will be #avfc player for \u201clong time"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2711,13 +2711,13 @@
     "simon adingra": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg/330px-Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "raskin": "https://r2.thesportsdb.com/images/media/player/cutout/zdlxoe1701946661.png/small",
     "vuk pavicevic": "",
-    "shim mheuka": "",
     "mika faye": "",
     "dinis": "",
     "mikael baza": "",
-    "issac konde": ""
+    "issac konde": "",
+    "shim mheuka": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

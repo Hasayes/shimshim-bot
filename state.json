@@ -1,6 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/65368",
     "5ad153c57c16cd90658a96a5e59ef432",
     "4e0361271299fe9fc4f724f06b9ce75f",
     "79385aeb718efedecafad982dd24cac6",
@@ -1499,7 +1498,8 @@
     "9598c9725d129a88e8e020feec95d02b",
     "7edc5ad81c84b7ee7736dd4842ed6382",
     "daf3b15421726c55fd51eaa4c59293f5",
-    "3700aac4e52183bb1f30be3c6b367261"
+    "3700aac4e52183bb1f30be3c6b367261",
+    "08e4f1310ada9a544d3b5b6c01d5513c"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2113,7 +2113,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "deportivo a coruna seal season long loan deal for barcelona midfielder marc casa",
     "\ud83d\udea8 \ud83d\udfe1 \ud83d\udd34 as roma director d\u2019amico confirms: \u201cmanu kone was never close to joining c",
     "\ud83d\udea8 \u26ab\ufe0f \ud83d\udd35 official: inter appoint dario baccin as new sporting director as piero au",
     "\ud83d\udea8 \ud83c\udde8\ud83c\uddee simon adingra to ajax, here we go! deal signed today after medical on loan ",
@@ -2412,7 +2411,8 @@
     "ornstein tips man utd to open \u00a360m talks for \u2018best left back in the country\u2019",
     "jaissle talks about newcastle star he's 'in love' with ahead of contract update ",
     "arsenal scouting mission tees up striker deal after man utd talks fail",
-    "hypocrital real madrid superstar kylian mbappe ruled out man utd transfer for on"
+    "hypocrital real madrid superstar kylian mbappe ruled out man utd transfer for on",
+    "fabrizio romano reveals lewis hall to man utd still on despite newcastle agreeme"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2710,14 +2710,14 @@
     "chido obi": "https://images.fotmob.com/image_resources/playerimages/1557220.png",
     "simon adingra": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg/330px-Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "raskin": "https://r2.thesportsdb.com/images/media/player/cutout/zdlxoe1701946661.png/small",
-    "mikael baza": "",
     "vuk pavicevic": "",
     "issac konde": "",
     "shim mheuka": "",
     "mika faye": "",
-    "dinis": ""
+    "dinis": "",
+    "mikael baza": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 5,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

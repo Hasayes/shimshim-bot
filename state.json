@@ -1,6 +1,5 @@
 {
   "sent": [
-    "00307eac7ac5e466932b9a9a7fb73299",
     "5b4e90829e32d2e08daa93a5f12e8c60",
     "45b6f73398053af1a29f16ac413bb152",
     "1483c92fe521095556e44e662e1fa960",
@@ -1499,7 +1498,8 @@
     "f2466162bc413570abca079a62d4fd81",
     "2e6ef712f4c998652e6298f362762fc3",
     "tg:FabrizioRomanoTG/66323",
-    "c2f3b64dfef78d76875c4f3d576d0874"
+    "c2f3b64dfef78d76875c4f3d576d0874",
+    "f61208290cd2ecbd08d83b6e1f843270"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2113,7 +2113,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "manchester united complete late transfer after deadline day as 'deal agreed'",
     "one of arteta\u2019s coaches tried to convince surprise name to seal arsenal transfer",
     "transfer: chido obi leaves man utd",
     "gavin beith officially joins manchester united",
@@ -2412,7 +2411,8 @@
     "transfer rumors, news: could brazil offer richarlison a route out of tottenham?",
     "massive talent in line to replace lamine camara on liverpool shortlist anfieldwa",
     "\ud83d\udea8 \ud83d\udfe3 \ud83d\udd35 unai emery confirms alejandro garnacho will be #avfc player for \u201clong time",
-    "massive talent in line to replace lamine camara on liverpool shortlist"
+    "massive talent in line to replace lamine camara on liverpool shortlist",
+    "david ornstein suggests \u00a360m premier league full back now the most suitable targ"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2711,13 +2711,13 @@
     "simon adingra": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg/330px-Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "raskin": "https://r2.thesportsdb.com/images/media/player/cutout/zdlxoe1701946661.png/small",
     "vuk pavicevic": "",
-    "dinis": "",
     "mikael baza": "",
     "issac konde": "",
     "shim mheuka": "",
-    "mika faye": ""
+    "mika faye": "",
+    "dinis": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

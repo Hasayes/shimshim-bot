@@ -1,6 +1,5 @@
 {
   "sent": [
-    "380884391520fd0fcdeec9da127d5e2d",
     "a5fad9c207ad64317a3f091f143453a7",
     "aedffdfdbdbd46090d51f99dd55835f9",
     "212ddc8d6196a287ee2f8133446d76c8",
@@ -1499,7 +1498,8 @@
     "tg:FabrizioRomanoTG/66302",
     "tg:FabrizioRomanoTG/66304",
     "tg:FabrizioRomanoTG/66310",
-    "2fe3bf0e2c857cd86415b983c21f6196"
+    "2fe3bf0e2c857cd86415b983c21f6196",
+    "tg:FabrizioRomanoTG/66314"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2113,7 +2113,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "chelsea are furious: \u20ac55 million transfer is suddenly cancelled despite agreemen",
     "ismaila sarr agent reacts to \u00a350m liverpool transfer miss with impassioned state",
     "\u20ac55m star fuming with club for blocking dream chelsea transfer",
     "rangers 'reach verbal agreement to sell nico raskin to european club' the scotti",
@@ -2412,7 +2411,8 @@
     "\ud83d\udea8 \ud83d\udd35 breaking: pedro neto signs new deal at chelsea valid until june 2032 plus op",
     "\ud83d\udea8 \ud83c\uddfa\ud83c\udde6 roberto de zerbi confirms mudryk is out and \u201cit was a stupid injury, unfort",
     "\ud83d\udea8 michael carrick on elliot anderson calling man city kings of manchester: \u201ci'm ",
-    "philippe coutinho secures another transfer after making feelings clear on liverp"
+    "philippe coutinho secures another transfer after making feelings clear on liverp",
+    "\ud83d\udd34 \u26aa\ufe0f \ud83c\uddec\ud83c\uddea official, confirmed: arsenal sign georgian forward andria bartishvili on"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2710,14 +2710,14 @@
     "chido obi": "https://images.fotmob.com/image_resources/playerimages/1557220.png",
     "simon adingra": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg/330px-Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "raskin": "https://r2.thesportsdb.com/images/media/player/cutout/zdlxoe1701946661.png/small",
-    "issac konde": "",
     "shim mheuka": "",
     "mika faye": "",
     "dinis": "",
     "mikael baza": "",
-    "vuk pavicevic": ""
+    "vuk pavicevic": "",
+    "issac konde": ""
   },
-  "photo_repair_idx": 6,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

@@ -1,6 +1,5 @@
 {
   "sent": [
-    "93915b5f7411616d8f0b55097c20f5bd",
     "324e0ee3643fb2837a1fdb1ee190ef3a",
     "0610af4cc92dbf78603728e5d0e920a2",
     "978abba927666e60a9a9207e624472ba",
@@ -1499,7 +1498,8 @@
     "tg:FabrizioRomanoTG/66314",
     "tg:FabrizioRomanoTG/66315",
     "tg:FabrizioRomanoTG/66316",
-    "tg:FabrizioRomanoTG/66317"
+    "tg:FabrizioRomanoTG/66317",
+    "24e1205197b3153954ad314eaa52f064"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2113,7 +2113,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "romano: rangers reach verbal agreement to sell key star",
     "next steps for rangers as verbal agreement reached for nico raskin to quit ibrox",
     "rangers reach 'verbal agreement' with european side over big money transfer",
     "liverpool transfer collapse sparks powerful warning over treatment of african pl",
@@ -2412,7 +2411,8 @@
     "\ud83d\udd34 \u26aa\ufe0f \ud83c\uddec\ud83c\uddea official, confirmed: arsenal sign georgian forward andria bartishvili on",
     "\ud83d\udea8 \u2b50\ufe0f official: ferran torres wins uefa player of the week for ucl matchday 1! 2\ufe0f",
     "\ud83d\udea8 \u2b50\ufe0f official: uefa team of the week for ucl matchday 1! any changes you\u2019d make?",
-    "\ud83d\udd35 \ud83d\udd34 \u2b50\ufe0f official: raphinha wins la liga player of the month award for august \ud83c\udde7\ud83c\uddf7 6"
+    "\ud83d\udd35 \ud83d\udd34 \u2b50\ufe0f official: raphinha wins la liga player of the month award for august \ud83c\udde7\ud83c\uddf7 6",
+    "united plotting ambitious move to sign \u00a3150m stars from bournemouth, ineos prepa"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2710,14 +2710,14 @@
     "chido obi": "https://images.fotmob.com/image_resources/playerimages/1557220.png",
     "simon adingra": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg/330px-Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "raskin": "https://r2.thesportsdb.com/images/media/player/cutout/zdlxoe1701946661.png/small",
-    "dinis": "",
     "mikael baza": "",
     "vuk pavicevic": "",
     "issac konde": "",
     "shim mheuka": "",
-    "mika faye": ""
+    "mika faye": "",
+    "dinis": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

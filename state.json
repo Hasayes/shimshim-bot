@@ -1,6 +1,5 @@
 {
   "sent": [
-    "a84b882b26e684ff264dbf6c8647e0cc",
     "579d0a674576bd4f9e33d54fe06e3de9",
     "998891200d86a99e25ec074f36e3b8eb",
     "b10a7851c53a40abde9e0cdc4c1d7b36",
@@ -1499,7 +1498,8 @@
     "8c1b540935d33ee099513d26820055d4",
     "tg:FabrizioRomanoTG/66294",
     "tg:FabrizioRomanoTG/66295",
-    "tg:FabrizioRomanoTG/66296"
+    "tg:FabrizioRomanoTG/66296",
+    "tg:FabrizioRomanoTG/66297"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2113,7 +2113,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "(photo) midfielder pictured at airport on way to signing for arsenal on 5 yr con",
     "\u201cwe will be back for you\u201d \u2013 liverpool spoke directly to chelsea transfer target ",
     "\ud83d\udea8 \ud83e\ude75 \ud83e\udd0e franculino to trabzonspor, here we go! verbal agreement in place and medic",
     "\ud83d\udea8 \ud83c\uddf3\ud83c\uddf1 manchester united striker chido obi has completed his loan move to willem i",
@@ -2412,7 +2411,8 @@
     "harry kane joins cristiano ronaldo in exclusive champions league club after scor",
     "\ud83d\udd35 \ud83c\udde7\ud83c\uddf7 official: joao pedro wins premier league player of the month award for augu",
     "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 hamza abdelkarim signs new deal at barcelona until june 2030 with a new re",
-    "\ud83d\udea8 \u26aa\ufe0f lucas bergvall signs new contract at tottenham after the club rejected two "
+    "\ud83d\udea8 \u26aa\ufe0f lucas bergvall signs new contract at tottenham after the club rejected two ",
+    "\ud83d\udea8 \ud83d\udd34 \u26ab\ufe0f ruben amorim: \u201cif you look at arsenal, it takes time to win titles and bu"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2710,14 +2710,14 @@
     "chido obi": "https://images.fotmob.com/image_resources/playerimages/1557220.png",
     "simon adingra": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg/330px-Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "raskin": "https://r2.thesportsdb.com/images/media/player/cutout/zdlxoe1701946661.png/small",
-    "mika faye": "",
     "dinis": "",
     "mikael baza": "",
     "vuk pavicevic": "",
     "issac konde": "",
-    "shim mheuka": ""
+    "shim mheuka": "",
+    "mika faye": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

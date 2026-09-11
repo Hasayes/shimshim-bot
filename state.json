@@ -1,7 +1,5 @@
 {
   "sent": [
-    "74f2912bb89c8032f71133f334e3d322",
-    "677e2e4e30eba551bb7fad6786e7f3f0",
     "a84b882b26e684ff264dbf6c8647e0cc",
     "579d0a674576bd4f9e33d54fe06e3de9",
     "998891200d86a99e25ec074f36e3b8eb",
@@ -1499,7 +1497,9 @@
     "9fb89e1605e8812d00ad9b58c3ee41ac",
     "4968ba829e982034238da448f6354676",
     "8c1b540935d33ee099513d26820055d4",
-    "tg:FabrizioRomanoTG/66294"
+    "tg:FabrizioRomanoTG/66294",
+    "tg:FabrizioRomanoTG/66295",
+    "tg:FabrizioRomanoTG/66296"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2113,8 +2113,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "\ud83d\udea8 \u26ab\ufe0f \ud83d\udd35 lautaro martinez: \u201cbarcelona links made me proud but i want to stay here,",
-    "wantaway liverpool star holds \u2018clear the air talks\u2019 after failed move as carragh",
     "(photo) midfielder pictured at airport on way to signing for arsenal on 5 yr con",
     "\u201cwe will be back for you\u201d \u2013 liverpool spoke directly to chelsea transfer target ",
     "\ud83d\udea8 \ud83e\ude75 \ud83e\udd0e franculino to trabzonspor, here we go! verbal agreement in place and medic",
@@ -2412,7 +2410,9 @@
     "chelsea and real madrid keen on arsenal's zubimendi friday's gossip",
     "fabrizio romano confirms \u2018agreed\u2019 real madrid deal to crush chelsea transfer hop",
     "harry kane joins cristiano ronaldo in exclusive champions league club after scor",
-    "\ud83d\udd35 \ud83c\udde7\ud83c\uddf7 official: joao pedro wins premier league player of the month award for augu"
+    "\ud83d\udd35 \ud83c\udde7\ud83c\uddf7 official: joao pedro wins premier league player of the month award for augu",
+    "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 hamza abdelkarim signs new deal at barcelona until june 2030 with a new re",
+    "\ud83d\udea8 \u26aa\ufe0f lucas bergvall signs new contract at tottenham after the club rejected two "
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2710,14 +2710,14 @@
     "chido obi": "https://images.fotmob.com/image_resources/playerimages/1557220.png",
     "simon adingra": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg/330px-Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "raskin": "https://r2.thesportsdb.com/images/media/player/cutout/zdlxoe1701946661.png/small",
-    "shim mheuka": "",
     "mika faye": "",
     "dinis": "",
     "mikael baza": "",
     "vuk pavicevic": "",
-    "issac konde": ""
+    "issac konde": "",
+    "shim mheuka": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

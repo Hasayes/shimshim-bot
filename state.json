@@ -1,6 +1,5 @@
 {
   "sent": [
-    "2a213bc64642ee02a55c5834098952af",
     "c1644fccec5a082065a541d19d35520c",
     "f592638b590f2f5e937727e9c314254b",
     "b5871ec0c48b9d6b0237ce6d04bff3e6",
@@ -1499,7 +1498,8 @@
     "413c3967f7626e01c7cabff44cdbb7df",
     "8bc496443e80e4d346d29d34a5e4c9b3",
     "d75f6ba829e4a17f6fcd18e9848ecc9c",
-    "a8055e6b39d733f9f810ca0c1028e6fd"
+    "a8055e6b39d733f9f810ca0c1028e6fd",
+    "tg:FabrizioRomanoTG/66339"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2113,7 +2113,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "tottenham in dreamland as fabrizio romano confirms mega money richarlison deal \u2018",
     "chelsea reach decision on signing georginio wijnaldum as free agent",
     "richarlison to get move away from tottenham and could triple his wages at \u2018this\u2019",
     "richarlison agrees to join onuachu\u2019s trabzonspor",
@@ -2412,7 +2411,8 @@
     "fabrizio romano outlines manchester united\u2019s plans for lewis hall transfer",
     "barcelona in advanced negotiations over five year renewal for la masia midfielde",
     "ineos' approach makes sense for man utd to line up with fabrizio romano's champi",
-    "fabrizio romano confirms it: liverpool star will not be forced out anfieldwatch"
+    "fabrizio romano confirms it: liverpool star will not be forced out anfieldwatch",
+    "\ud83d\udea8 \ud83c\uddf2\ud83c\udde6 morocco left back anass salah eddine leaves as roma to join panathinaikos, "
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2711,13 +2711,13 @@
     "simon adingra": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg/330px-Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "raskin": "https://r2.thesportsdb.com/images/media/player/cutout/zdlxoe1701946661.png/small",
     "vuk pavicevic": "",
-    "mikael baza": "",
     "issac konde": "",
     "shim mheuka": "",
     "mika faye": "",
-    "dinis": ""
+    "dinis": "",
+    "mikael baza": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 5,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

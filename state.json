@@ -1,6 +1,5 @@
 {
   "sent": [
-    "338bd3d42ad50dd53d2860cd920b04d3",
     "315b5b36aa092a74920a9ed38d0b5b6d",
     "2a213bc64642ee02a55c5834098952af",
     "c1644fccec5a082065a541d19d35520c",
@@ -1499,7 +1498,8 @@
     "578b1ce99d6402f8638e2af27c55836c",
     "45a0634a2057ffdd3eb18c8f2a5ba7c3",
     "413c3967f7626e01c7cabff44cdbb7df",
-    "8bc496443e80e4d346d29d34a5e4c9b3"
+    "8bc496443e80e4d346d29d34a5e4c9b3",
+    "d75f6ba829e4a17f6fcd18e9848ecc9c"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2113,7 +2113,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "manchester united striker chido obi joins willem ii on season long loan",
     "chelsea linked with shock move for another ex liverpool midfielder",
     "tottenham in dreamland as fabrizio romano confirms mega money richarlison deal \u2018",
     "chelsea reach decision on signing georginio wijnaldum as free agent",
@@ -2412,7 +2411,8 @@
     "crystal palace stance emerges as saudi clubs circle premier league attacker",
     "fabrizio romano exclusive: chelsea calm despite transfer rumours, new deal talks",
     "fabrizio romano outlines manchester united\u2019s plans for lewis hall transfer",
-    "barcelona in advanced negotiations over five year renewal for la masia midfielde"
+    "barcelona in advanced negotiations over five year renewal for la masia midfielde",
+    "ineos' approach makes sense for man utd to line up with fabrizio romano's champi"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2711,13 +2711,13 @@
     "simon adingra": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg/330px-Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "raskin": "https://r2.thesportsdb.com/images/media/player/cutout/zdlxoe1701946661.png/small",
     "vuk pavicevic": "",
-    "mika faye": "",
     "dinis": "",
     "mikael baza": "",
     "issac konde": "",
-    "shim mheuka": ""
+    "shim mheuka": "",
+    "mika faye": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

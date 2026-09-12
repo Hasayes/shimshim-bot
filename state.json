@@ -1,7 +1,5 @@
 {
   "sent": [
-    "46ec3126cc7c6c3c96e2690364949c66",
-    "ffc82748ab1b9aa9cd4e7f198583113f",
     "2d6cd8da54e0c4a46211284d0be5c5cb",
     "05aec171aeb81f83a15700ec075eba62",
     "8dc2cdad3a9b9e4f3c7eacb496a5140c",
@@ -1499,7 +1497,9 @@
     "db02c96a7d20aa86fda72f6538fceb96",
     "tg:FabrizioRomanoTG/66343",
     "184a69fd95b96894ade131bef09e69d0",
-    "8245cdd2462c68d5f0fbd8f01869102f"
+    "8245cdd2462c68d5f0fbd8f01869102f",
+    "1c9618b2f3df3efd37cb472aa750ffc0",
+    "984c3bf2da6dd0826f3806d4f992f63a"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2113,8 +2113,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "tottenham hotspur transfer live news: richarlison agrees massive deal to triple ",
-    "man united complete loan deal a day after transfer window closed in england",
     "tottenham paid a higher fee for 28 year old defender than first reported",
     "\ud83e\ude75 \ud83c\udfe1 enzo fernandez: \u201ci\u2019m honestly feeling at home at man city, and that's very i",
     "\ud83d\udea8 \ud83c\udde7\ud83c\uddea royal antwerp agree deal to sign arthur vermeeren on loan from rb leipzig, ",
@@ -2412,7 +2410,9 @@
     "barcelona summer signing signs new deal with \u20ac150m release clause",
     "\ud83d\udea8 hull city remain unbeaten after 4 pl games as points are shared with chelsea! ",
     "xabi alonso makes bold premier league golden boot prediction as he compares chel",
-    "alexis mac allister ulterior motive revealed as pundits share \u2018100 per cent\u2019 rea"
+    "alexis mac allister ulterior motive revealed as pundits share \u2018100 per cent\u2019 rea",
+    "transfer news live: arsenal target kroupi, deal confirmed; hall to man utd twist",
+    "liverpool probe four midfield transfers as monaco set new price for january sale"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2711,13 +2711,13 @@
     "simon adingra": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg/330px-Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "raskin": "https://r2.thesportsdb.com/images/media/player/cutout/zdlxoe1701946661.png/small",
     "vuk pavicevic": "",
-    "mikael baza": "",
     "issac konde": "",
     "shim mheuka": "",
     "mika faye": "",
-    "dinis": ""
+    "dinis": "",
+    "mikael baza": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 5,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

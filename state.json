@@ -1,6 +1,5 @@
 {
   "sent": [
-    "1483c92fe521095556e44e662e1fa960",
     "f47760dcd1466aefb5d08f102859c5a0",
     "0435ae389e1b4229ff453eb104c23f69",
     "63eca169751e1818b02db20d33d86bb3",
@@ -1499,7 +1498,8 @@
     "c2f3b64dfef78d76875c4f3d576d0874",
     "f61208290cd2ecbd08d83b6e1f843270",
     "f68647132da93b60c76d92792ffe3dc0",
-    "d7bf222b75d74cc1bec791df4762b381"
+    "d7bf222b75d74cc1bec791df4762b381",
+    "96e2736029d6f0b147540b0cfe2f3911"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2113,7 +2113,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "transfer: chido obi leaves man utd",
     "gavin beith officially joins manchester united",
     "liverpool could seal lamine camara transfer in 2027 \u2013 latest lfc news this is an",
     "why liverpool aren\u2019t announcing completed striker signing revealed",
@@ -2412,7 +2411,8 @@
     "\ud83d\udea8 \ud83d\udfe3 \ud83d\udd35 unai emery confirms alejandro garnacho will be #avfc player for \u201clong time",
     "massive talent in line to replace lamine camara on liverpool shortlist",
     "david ornstein suggests \u00a360m premier league full back now the most suitable targ",
-    "\u00a360m left back wants to join man utd after lewis hall signs new newcastle contra"
+    "\u00a360m left back wants to join man utd after lewis hall signs new newcastle contra",
+    "liverpool set sights on record breaking transfer after sarr, minteh january dead"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2711,13 +2711,13 @@
     "simon adingra": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg/330px-Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "raskin": "https://r2.thesportsdb.com/images/media/player/cutout/zdlxoe1701946661.png/small",
     "vuk pavicevic": "",
-    "shim mheuka": "",
     "mika faye": "",
     "dinis": "",
     "mikael baza": "",
-    "issac konde": ""
+    "issac konde": "",
+    "shim mheuka": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

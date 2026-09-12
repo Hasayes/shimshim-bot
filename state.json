@@ -1,6 +1,5 @@
 {
   "sent": [
-    "0eda1ad3a0588a158aef83c66e97244f",
     "338bd3d42ad50dd53d2860cd920b04d3",
     "315b5b36aa092a74920a9ed38d0b5b6d",
     "2a213bc64642ee02a55c5834098952af",
@@ -1499,7 +1498,8 @@
     "5efde1859a32729cc9ba5af0b23ec802",
     "578b1ce99d6402f8638e2af27c55836c",
     "45a0634a2057ffdd3eb18c8f2a5ba7c3",
-    "413c3967f7626e01c7cabff44cdbb7df"
+    "413c3967f7626e01c7cabff44cdbb7df",
+    "8bc496443e80e4d346d29d34a5e4c9b3"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2711,13 +2711,13 @@
     "simon adingra": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg/330px-Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "raskin": "https://r2.thesportsdb.com/images/media/player/cutout/zdlxoe1701946661.png/small",
     "vuk pavicevic": "",
-    "shim mheuka": "",
     "mika faye": "",
     "dinis": "",
     "mikael baza": "",
-    "issac konde": ""
+    "issac konde": "",
+    "shim mheuka": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

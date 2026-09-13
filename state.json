@@ -1,6 +1,5 @@
 {
   "sent": [
-    "c00ff2117f4fed8504d0278a5d6d516c",
     "4ad6807c318daf59c548b2e396a023bf",
     "7440a2f7469a0863fd6497d6d523f637",
     "980ee22669e448eccdd186c67006ea84",
@@ -1499,7 +1498,8 @@
     "ddea539d7ed07755c182af97e7aefef9",
     "tg:FabrizioRomanoTG/66361",
     "95928955ba53f8a5bac45e96e9463691",
-    "tg:FabrizioRomanoTG/66366"
+    "tg:FabrizioRomanoTG/66366",
+    "d2f8a622d4a47d13089c2b03e7573723"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1849,7 +1849,8 @@
     "raskin -> besiktas": 1,
     "richarlison -> trabzonspor": 1,
     "osimhen -> al ahli": 1,
-    "konde -> manchester united": 2
+    "konde -> manchester united": 2,
+    "pulisic -> milan": 2
   },
   "interest": [
     "interest: alvarez -> arsenal",
@@ -2113,7 +2114,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f official: gabriel martinelli joins al hilal on \u20ac70m package deal from ars",
     "danny murphy celebrates liverpool transfer call that has left fans disappointed ",
     "transfer deadline live as celtic and rangers plus aberdeen, hearts and hibs make",
     "\ud83d\udea8 official: martinelli leaves arsenal and joins al hilal",
@@ -2412,7 +2412,8 @@
     "man utd target record breaking norwegian winger as fabrizio romano opens door to",
     "\ud83d\udea8 \ud83d\udd25 mikel arteta says penalty given to sunderland is \u201cunacceptable\u201d \u201clook, the f",
     "barcelona star to man utd in january possible, suggests fabrizio romano football",
-    "\ud83d\udea8 \u274c julian alvarez, out for atletico madrid today and not even travelling with t"
+    "\ud83d\udea8 \u274c julian alvarez, out for atletico madrid today and not even travelling with t",
+    "reports: medical scheduled as milan and chelsea agree deal for"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2711,13 +2712,13 @@
     "simon adingra": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg/330px-Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "raskin": "https://r2.thesportsdb.com/images/media/player/cutout/zdlxoe1701946661.png/small",
     "vuk pavicevic": "",
-    "mika faye": "",
     "dinis": "",
     "mikael baza": "",
     "issac konde": "",
-    "shim mheuka": ""
+    "shim mheuka": "",
+    "mika faye": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

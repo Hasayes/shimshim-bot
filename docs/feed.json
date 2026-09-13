@@ -1,5 +1,29 @@
 [
  {
+  "id": "d2f8a622d4a47d13089c2b03e7573723",
+  "ts": "2026-09-13T12:45:35+00:00",
+  "kind": "deal",
+  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/qwii9r1758893548.png/small",
+  "stage": "Completed",
+  "player": "Christian Pulisic",
+  "position": "winger",
+  "age": "\u2014",
+  "from_club": "Chelsea",
+  "to_club": "AC Milan",
+  "fee": "\u2014",
+  "style": "Dynamic winger who combines pace, creativity, and goal-scoring ability with strong work rate and ball-carrying skills.",
+  "fit": "Deploy on the right flank to utilize his pace in counter-attacks and his versatility to cut inside and create chances for Milan's strikers.",
+  "source": "ng_shotoe",
+  "sources": [
+   "ng_shotoe"
+  ],
+  "srcTier": "standard",
+  "summary": "AC Milan and Chelsea have agreed a deal for winger Christian Pulisic to join Milan on a multi-year contract, with a medical scheduled.",
+  "outlet": "ng_shotoe",
+  "url": "https://ng.shotoe.com/pulisic-st_73384/news/reports-medical-scheduled-as-milan-and-chelsea-agree-deal-for-sn_4331180/",
+  "title": "Reports: Medical scheduled as Milan and Chelsea agree deal for ..."
+ },
+ {
   "id": "tg:FabrizioRomanoTG/66091",
   "ts": "2026-09-07T17:45:46+00:00",
   "kind": "deal",

@@ -1,6 +1,5 @@
 {
   "sent": [
-    "02d3b8af98403fb8b6f0ac3c994a03ae",
     "012727c92112f8b336ffe2789e129071",
     "5a44812527a508c25486313e28050fba",
     "a3110e1f9855f4d9a475bd52b666fe4e",
@@ -1499,7 +1498,8 @@
     "tg:FabrizioRomanoTG/66381",
     "6b11cb76ac93a1733ec326d16036692b",
     "d259beb671555264846b87f4019be009",
-    "9379acf5702b8f5ac68aca142c503d71"
+    "9379acf5702b8f5ac68aca142c503d71",
+    "tg:FabrizioRomanoTG/66385"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2114,7 +2114,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "exclusive: arsenal have a plan in place for ethan nwaneri following loan move to",
     "richarlison agrees trabzonspor terms as tottenham exit talks continue",
     "manchester united announce deadline beating striker exit is now official",
     "pedro neto makes big decision on chelsea future after liverpool, man city transf",
@@ -2413,7 +2412,8 @@
     "\ud83d\udea8 michael carrick: \u201cwhere they drew the line was a bit dubious it's worrying if ",
     "fabrizio romano reveals the true reasons for lucas bergvall\u2019s u turn",
     "transfer news live: arsenal confirm deal, nico paz bid; chelsea face scott rival",
-    "man united chiefs are \u2018happy\u2019 with carrick for transforming key player under his"
+    "man united chiefs are \u2018happy\u2019 with carrick for transforming key player under his",
+    "\ud83d\udea8 official: pro ref confirm \u201can error of judgement\u201d in haaland\u2019s goal \u2014 also inf"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2712,13 +2712,13 @@
     "simon adingra": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg/330px-Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "raskin": "https://r2.thesportsdb.com/images/media/player/cutout/zdlxoe1701946661.png/small",
     "vuk pavicevic": "",
-    "dinis": "",
     "mikael baza": "",
     "issac konde": "",
     "shim mheuka": "",
-    "mika faye": ""
+    "mika faye": "",
+    "dinis": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 4,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

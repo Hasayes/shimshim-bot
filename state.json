@@ -1,10 +1,5 @@
 {
   "sent": [
-    "2d6cd8da54e0c4a46211284d0be5c5cb",
-    "05aec171aeb81f83a15700ec075eba62",
-    "8dc2cdad3a9b9e4f3c7eacb496a5140c",
-    "094f8cd68520504cf98d2050fcce6e5d",
-    "1e28fd4e3925472b598aa31a0c386f30",
     "bb677ce630e62945e201c7483ae78210",
     "a03cb1debc55c728868e9b3cdddbe229",
     "c00ff2117f4fed8504d0278a5d6d516c",
@@ -1499,7 +1494,12 @@
     "184a69fd95b96894ade131bef09e69d0",
     "8245cdd2462c68d5f0fbd8f01869102f",
     "1c9618b2f3df3efd37cb472aa750ffc0",
-    "984c3bf2da6dd0826f3806d4f992f63a"
+    "984c3bf2da6dd0826f3806d4f992f63a",
+    "b0f56fbfd31b622ea849e078113658bc",
+    "e3f1f04766a39adb751ef3e66a03a338",
+    "97c55cdb1cca553fb2813489ea6fca3d",
+    "ddea539d7ed07755c182af97e7aefef9",
+    "tg:FabrizioRomanoTG/66361"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2113,10 +2113,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "tottenham paid a higher fee for 28 year old defender than first reported",
-    "\ud83e\ude75 \ud83c\udfe1 enzo fernandez: \u201ci\u2019m honestly feeling at home at man city, and that's very i",
-    "\ud83d\udea8 \ud83c\udde7\ud83c\uddea royal antwerp agree deal to sign arthur vermeeren on loan from rb leipzig, ",
-    "every player saints were linked with this summer and where they actually signed",
     "\ud83d\udea8 \ud83c\uddf6\ud83c\udde6 al rayyan have agreed deal to sign otavio from al nassr medical booked and ",
     "\ud83d\udea8 \ud83c\uddf6\ud83c\udde6 al rayyan have agreed deal to sign otavio from al qadsiah medical booked an",
     "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f official: gabriel martinelli joins al hilal on \u20ac70m package deal from ars",
@@ -2412,7 +2408,11 @@
     "xabi alonso makes bold premier league golden boot prediction as he compares chel",
     "alexis mac allister ulterior motive revealed as pundits share \u2018100 per cent\u2019 rea",
     "transfer news live: arsenal target kroupi, deal confirmed; hall to man utd twist",
-    "liverpool probe four midfield transfers as monaco set new price for january sale"
+    "liverpool probe four midfield transfers as monaco set new price for january sale",
+    "man united handed alex scott transfer update as bournemouth plan emerges",
+    "manchester united prospect leaves club in shock",
+    "man utd target record breaking norwegian winger as fabrizio romano opens door to",
+    "\ud83d\udea8 \ud83d\udd25 mikel arteta says penalty given to sunderland is \u201cunacceptable\u201d \u201clook, the f"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2711,13 +2711,13 @@
     "simon adingra": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg/330px-Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "raskin": "https://r2.thesportsdb.com/images/media/player/cutout/zdlxoe1701946661.png/small",
     "vuk pavicevic": "",
-    "issac konde": "",
     "shim mheuka": "",
     "mika faye": "",
     "dinis": "",
-    "mikael baza": ""
+    "mikael baza": "",
+    "issac konde": ""
   },
-  "photo_repair_idx": 5,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

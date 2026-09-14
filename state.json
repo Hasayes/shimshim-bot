@@ -1,6 +1,5 @@
 {
   "sent": [
-    "bad1443c79c8208200c06c22c3dc14fd",
     "da55f4f32a75349187a48f96ee5d07c4",
     "f4fc13e9bbaba20fc078cee18cf2c79c",
     "f7af16935180b8668ea379fe8800075b",
@@ -1499,7 +1498,8 @@
     "05d8f23612168a628d44c1b1afebd6e5",
     "b021f5c0bbe822cea3e49518ce1f6360",
     "e0317843d210c75b68c005f6842f91b3",
-    "tg:FabrizioRomanoTG/66392"
+    "tg:FabrizioRomanoTG/66392",
+    "11cd4ab119cb8ee9daf0feba26d1f357"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2114,7 +2114,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "fabrizio romano provides update on chelsea\u2019s reported move for former liverpool ",
     "fabrizio romano confirms arsenal\u2019s plans for ethan nwaneri after borussia dortmu",
     "liverpool have already agreed first january signing with striker set to join",
     "transfer: martinelli becomes arsenal most expensive sale after al hilal move is ",
@@ -2413,7 +2412,8 @@
     "\u201cwants to play \u201c: fabrizio romano throws man united january lifeline in pursuit ",
     "transfer rumors, news: chelsea to return for roma midfielder",
     "report: liverpool and chelsea told to pay \u20ac70m for ligue 1 star",
-    "\ud83d\udea8 \ud83c\uddea\ud83c\udde8 official: marcelo gallardo has signed in as new ecuador national team head "
+    "\ud83d\udea8 \ud83c\uddea\ud83c\udde8 official: marcelo gallardo has signed in as new ecuador national team head ",
+    "former inter director piero ausilio in advanced tottenham talks"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2712,13 +2712,13 @@
     "simon adingra": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg/330px-Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "raskin": "https://r2.thesportsdb.com/images/media/player/cutout/zdlxoe1701946661.png/small",
     "vuk pavicevic": "",
-    "issac konde": "",
     "shim mheuka": "",
     "mika faye": "",
     "dinis": "",
-    "mikael baza": ""
+    "mikael baza": "",
+    "issac konde": ""
   },
-  "photo_repair_idx": 5,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

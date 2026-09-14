@@ -1,6 +1,5 @@
 {
   "sent": [
-    "bfbe7afb497647475833a05674700e39",
     "375c8ff6901846dc94eeb2ba35716d3e",
     "50cc910afc6ad00f15633a9691e65b7d",
     "ec1c9672ae12dfba3ccc3bafc9e26090",
@@ -1499,7 +1498,8 @@
     "0047e98da822ce2e6e54fa9728e37f67",
     "6b74df68f4ec85eb7da45cf4ff8f0539",
     "a66c3f927ff1083752e83992575caafd",
-    "614402265cf0baa6c7b9f2ee9e8396b0"
+    "614402265cf0baa6c7b9f2ee9e8396b0",
+    "fdc487acdc2f43be3b6e8957057b856b"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2114,7 +2114,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "\ud83d\udea8 \u274c ferland mendy has been officially excluded from real madrid champions league",
     "messi retirement announcement: ishowspeed reels at fabrizio romano post; fans fe",
     "de zerbi makes huge tottenham decision on 29 year old after repeated demands to ",
     "sergio ramos, karim benzema and paul pogba lead the best free agents still avail",
@@ -2413,7 +2412,8 @@
     "david ornstein provides update on bruno fernandes contract talks with manchester",
     "\u201cno breakthrough\u201d \u2013 david ornstein issues worrying man united transfer update",
     "bayern monitoring wirtz monday's gossip",
-    "bayern monitoring wirtz"
+    "bayern monitoring wirtz",
+    "\u201cfinal stages\u201d \u2013 fabrizio romano delivers exciting arsenal update as deal close"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2712,13 +2712,13 @@
     "simon adingra": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg/330px-Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "raskin": "https://r2.thesportsdb.com/images/media/player/cutout/zdlxoe1701946661.png/small",
     "vuk pavicevic": "",
-    "mikael baza": "",
     "issac konde": "",
     "shim mheuka": "",
     "mika faye": "",
-    "dinis": ""
+    "dinis": "",
+    "mikael baza": ""
   },
-  "photo_repair_idx": 4,
+  "photo_repair_idx": 5,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

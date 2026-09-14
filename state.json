@@ -1,6 +1,5 @@
 {
   "sent": [
-    "394d755440618e7a6b1ac8a425e3a027",
     "d93d90a5d34302fce1151a51ed03e081",
     "ef8a5bb93aa4f78cbe17d499fba3edf6",
     "afe3817adbcffc34025a004c10663084",
@@ -1499,7 +1498,8 @@
     "e9b636801a2cdfaa476b973fad3f542a",
     "21c033fe3aff89167912070dc32c8ef6",
     "7cd2e6294710d4c446713dcbf775d08f",
-    "4fba019b1fb976911178a8782297ea84"
+    "4fba019b1fb976911178a8782297ea84",
+    "7485e9488339066d1d464641cca6d145"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2114,7 +2114,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "\ud83e\ude75 \ud83c\udde6\ud83c\uddf7 maresca: \u201cenzo fernandez we\u2019ve signed a winner\u201d \u201cenzo has a winning mentali",
     "\ud83d\udea8 \ud83c\udde6\ud83c\uddf7 xabi alonso on enzo leaving chelsea \u201cwe take all the decisions together we ",
     "\ud83d\udea8 \ud83c\uddf9\ud83c\uddf7 goztepe have completed deal to sign tino anjorin from torino on loan with b",
     "1\ufe0f\u20e3 \ud83c\udde6\ud83c\uddf7 official: emiliano dibu martinez takes shirt number 1 at chelsea followin",
@@ -2413,7 +2412,8 @@
     "report: man united missed \u20ac40 million opportunity to sign highly rated left back",
     "man utd: fabrizio romano reveals ineos \u2018feeling\u2019 on michael carrick sack as \u2018pla",
     "transfer rumors, news: arsenal keeping tabs on liverpool teen ngumoha",
-    "\u2018no agreement\u2019 \u2013 romano drops bruno fernandes contract update as man utd battle "
+    "\u2018no agreement\u2019 \u2013 romano drops bruno fernandes contract update as man utd battle ",
+    "romano drops huge fernandes contract update amid man utd \u2018collapse\u2019 worries"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2714,11 +2714,11 @@
     "vuk pavicevic": "",
     "dinis": "",
     "mikael baza": "",
-    "issac konde": "",
     "shim mheuka": "",
-    "mika faye": ""
+    "mika faye": "",
+    "issac konde": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

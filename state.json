@@ -1,6 +1,5 @@
 {
   "sent": [
-    "da55f4f32a75349187a48f96ee5d07c4",
     "f4fc13e9bbaba20fc078cee18cf2c79c",
     "f7af16935180b8668ea379fe8800075b",
     "b7d8becc28ddd969f29842843464031e",
@@ -1499,7 +1498,8 @@
     "b021f5c0bbe822cea3e49518ce1f6360",
     "e0317843d210c75b68c005f6842f91b3",
     "tg:FabrizioRomanoTG/66392",
-    "11cd4ab119cb8ee9daf0feba26d1f357"
+    "11cd4ab119cb8ee9daf0feba26d1f357",
+    "a34fa41c88f7a3a144ca2c9d5b37c11b"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2114,7 +2114,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "fabrizio romano confirms arsenal\u2019s plans for ethan nwaneri after borussia dortmu",
     "liverpool have already agreed first january signing with striker set to join",
     "transfer: martinelli becomes arsenal most expensive sale after al hilal move is ",
     "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f georgian talent andria bartishvili can be considered a new arsenal player",
@@ -2413,7 +2412,8 @@
     "transfer rumors, news: chelsea to return for roma midfielder",
     "report: liverpool and chelsea told to pay \u20ac70m for ligue 1 star",
     "\ud83d\udea8 \ud83c\uddea\ud83c\udde8 official: marcelo gallardo has signed in as new ecuador national team head ",
-    "former inter director piero ausilio in advanced tottenham talks"
+    "former inter director piero ausilio in advanced tottenham talks",
+    "julian alvarez left 'out' of atletico madrid squad as statement released on arse"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2712,13 +2712,13 @@
     "simon adingra": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg/330px-Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "raskin": "https://r2.thesportsdb.com/images/media/player/cutout/zdlxoe1701946661.png/small",
     "vuk pavicevic": "",
-    "shim mheuka": "",
     "mika faye": "",
     "dinis": "",
     "mikael baza": "",
-    "issac konde": ""
+    "issac konde": "",
+    "shim mheuka": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

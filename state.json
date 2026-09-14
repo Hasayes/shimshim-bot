@@ -1,6 +1,5 @@
 {
   "sent": [
-    "ef8a5bb93aa4f78cbe17d499fba3edf6",
     "afe3817adbcffc34025a004c10663084",
     "6fd15c6d0359d0dc5c8b18d94029d4ec",
     "39a23265fdfcca94b7bf78c119fe7ea0",
@@ -1499,7 +1498,8 @@
     "7cd2e6294710d4c446713dcbf775d08f",
     "4fba019b1fb976911178a8782297ea84",
     "7485e9488339066d1d464641cca6d145",
-    "3af2ba4742ebf380feb8328ebb8a1ae0"
+    "3af2ba4742ebf380feb8328ebb8a1ae0",
+    "1d1187fdaf214d863245d5e7dbfdfd7d"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2114,7 +2114,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83c\uddf9\ud83c\uddf7 goztepe have completed deal to sign tino anjorin from torino on loan with b",
     "1\ufe0f\u20e3 \ud83c\udde6\ud83c\uddf7 official: emiliano dibu martinez takes shirt number 1 at chelsea followin",
     "bayern munich news: liverpool baffled by fc bayern inquiry on rio ngumoha; did b",
     "\ud83d\udea8 \ud83c\uddea\ud83c\udde8 marcelo gallardo signs in as new ecuador national team head coach! el munec",
@@ -2413,7 +2412,8 @@
     "transfer rumors, news: arsenal keeping tabs on liverpool teen ngumoha",
     "\u2018no agreement\u2019 \u2013 romano drops bruno fernandes contract update as man utd battle ",
     "romano drops huge fernandes contract update amid man utd \u2018collapse\u2019 worries",
-    "man united transfer news: after lewis hall, another summer left back target off "
+    "man united transfer news: after lewis hall, another summer left back target off ",
+    "former liverpool, barcelona midfielder philippe coutinho set to join neymar at s"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2714,11 +2714,11 @@
     "vuk pavicevic": "",
     "dinis": "",
     "mikael baza": "",
-    "mika faye": "",
     "issac konde": "",
-    "shim mheuka": ""
+    "shim mheuka": "",
+    "mika faye": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

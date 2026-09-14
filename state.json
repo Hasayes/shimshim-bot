@@ -1,6 +1,5 @@
 {
   "sent": [
-    "50cc910afc6ad00f15633a9691e65b7d",
     "ec1c9672ae12dfba3ccc3bafc9e26090",
     "a6cbe348acc5fa12dec0d7b38b675d1e",
     "394d755440618e7a6b1ac8a425e3a027",
@@ -1499,7 +1498,8 @@
     "a66c3f927ff1083752e83992575caafd",
     "614402265cf0baa6c7b9f2ee9e8396b0",
     "fdc487acdc2f43be3b6e8957057b856b",
-    "e9b636801a2cdfaa476b973fad3f542a"
+    "e9b636801a2cdfaa476b973fad3f542a",
+    "21c033fe3aff89167912070dc32c8ef6"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2114,7 +2114,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "de zerbi makes huge tottenham decision on 29 year old after repeated demands to ",
     "sergio ramos, karim benzema and paul pogba lead the best free agents still avail",
     "\ud83d\udea8 \ud83e\ude75 official: manchester city captains announced by enzo maresca \u00a9\ufe0f ruben dias \u00a9",
     "\ud83e\ude75 \ud83c\udde6\ud83c\uddf7 maresca: \u201cenzo fernandez we\u2019ve signed a winner\u201d \u201cenzo has a winning mentali",
@@ -2413,7 +2412,8 @@
     "bayern monitoring wirtz monday's gossip",
     "bayern monitoring wirtz",
     "\u201cfinal stages\u201d \u2013 fabrizio romano delivers exciting arsenal update as deal close",
-    "report: man united missed \u20ac40 million opportunity to sign highly rated left back"
+    "report: man united missed \u20ac40 million opportunity to sign highly rated left back",
+    "man utd: fabrizio romano reveals ineos \u2018feeling\u2019 on michael carrick sack as \u2018pla"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2712,13 +2712,13 @@
     "simon adingra": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg/330px-Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "raskin": "https://r2.thesportsdb.com/images/media/player/cutout/zdlxoe1701946661.png/small",
     "vuk pavicevic": "",
-    "issac konde": "",
     "shim mheuka": "",
     "dinis": "",
     "mikael baza": "",
-    "mika faye": ""
+    "mika faye": "",
+    "issac konde": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

@@ -1,6 +1,5 @@
 {
   "sent": [
-    "d0bf40c4c9a814437bfdc83647073f8e",
     "190ecea70f4fff311389ceb094d3be3c",
     "5049376d9b9c73ff34df5dadaf0ff020",
     "bad1443c79c8208200c06c22c3dc14fd",
@@ -1499,7 +1498,8 @@
     "eea2b05da63677ee885e00b1cca84438",
     "tg:FabrizioRomanoTG/66387",
     "0745575307231aa6eb5a25af32308904",
-    "05d8f23612168a628d44c1b1afebd6e5"
+    "05d8f23612168a628d44c1b1afebd6e5",
+    "b021f5c0bbe822cea3e49518ce1f6360"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2114,7 +2114,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "\ud83d\udea8 \u274c official: federico chiesa and wataru endo have been left out of liverpool ch",
     "liverpool learn if ismaila sarr deal can be resurrected in january as palace bos",
     "chelsea make midfield decision after camara blow",
     "fabrizio romano provides update on chelsea\u2019s reported move for former liverpool ",
@@ -2413,7 +2412,8 @@
     "real madrid transfer news: eduardo camavinga rejected \u00a343m galatasaray move befo",
     "rt @fabrizioromano : \ud83d\udea8 official: pro ref confirm \u201can error of judgement\u201d in haal",
     "\u201creally impressed\u201d \u2013 arteta reserved special praise for arsenal star after sunde",
-    "\u201cwants to play \u201c: fabrizio romano throws man united january lifeline in pursuit "
+    "\u201cwants to play \u201c: fabrizio romano throws man united january lifeline in pursuit ",
+    "transfer rumors, news: chelsea to return for roma midfielder"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2712,13 +2712,13 @@
     "simon adingra": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg/330px-Simon_Adingra_Cote_D%27Ivoire_v_Ecuador_14_June_2026-60.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "raskin": "https://r2.thesportsdb.com/images/media/player/cutout/zdlxoe1701946661.png/small",
     "vuk pavicevic": "",
-    "mika faye": "",
     "dinis": "",
     "mikael baza": "",
     "issac konde": "",
-    "shim mheuka": ""
+    "shim mheuka": "",
+    "mika faye": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

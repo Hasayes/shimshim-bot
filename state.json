@@ -1,6 +1,5 @@
 {
   "sent": [
-    "39a23265fdfcca94b7bf78c119fe7ea0",
     "tg:FabrizioRomanoTG/65384",
     "dda0b248d2d5553363594914d68c175e",
     "78ab6a10df4535824d3ffbcc935a7ef6",
@@ -1499,7 +1498,8 @@
     "3af2ba4742ebf380feb8328ebb8a1ae0",
     "1d1187fdaf214d863245d5e7dbfdfd7d",
     "bd5c8eaafb71dd41c68985a63bc587b4",
-    "75f389c619561431a83f1ad4458273d2"
+    "75f389c619561431a83f1ad4458273d2",
+    "0b121c3f59e907d7b63ba348f40cbecc"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2114,7 +2114,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83c\uddea\ud83c\udde8 marcelo gallardo signs in as new ecuador national team head coach! el munec",
     "\ud83d\udcfa new youtube video uploaded! \ud83c\udfac \ud83d\udea8 united secret idea, barca striker offered, ben",
     "\ud83d\udea8 \ud83d\udc2f sergej jakirovic signs new two year plus one year option deal at hull city s",
     "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 official: luis enrique signs new contract at paris saint germain until jun",
@@ -2413,7 +2412,8 @@
     "man united transfer news: after lewis hall, another summer left back target off ",
     "former liverpool, barcelona midfielder philippe coutinho set to join neymar at s",
     "romano confirms arsenal deal \u2018very, very close\u2019 as two euro giants want to sign ",
-    "de zerbi reign to \u2018unravel pretty quickly\u2019 at tottenham with \u2018bully\u2019 outing play"
+    "de zerbi reign to \u2018unravel pretty quickly\u2019 at tottenham with \u2018bully\u2019 outing play",
+    "liverpool \u2018enquire\u2019 to sign classy chelsea midfield target as mac allister trans"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2715,10 +2715,10 @@
     "dinis": "",
     "mikael baza": "",
     "mika faye": "",
-    "issac konde": "",
-    "shim mheuka": ""
+    "shim mheuka": "",
+    "issac konde": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

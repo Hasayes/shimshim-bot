@@ -24,7 +24,42 @@ assert not s._name_matches_query("Ousmane Dembélé", "dembele", "")
 assert s._name_matches_query("Ousmane Dembélé", "dembele", "ousmane")
 assert not s._name_matches_query("Matthew Upson", "upson", "elijah")
 
+# --- Recycled story via infobox tenure (Pulisic, 2026-09-13) ----------------
+# A 2023 "Chelsea and Milan agree deal" piece came back through an SEO mirror
+# with a fresh pubDate and was carded Completed. Oracles showed him at Milan —
+# which is also what a real fresh completion looks like. The infobox dates it.
+PULISIC = """
+| years1 = 2016–2019
+| clubs1 = [[Borussia Dortmund]]
+| years2 = 2019–2023
+| clubs2 = [[Chelsea F.C.|Chelsea]]
+| years3 =
+| clubs3 =
+| years4 = 2023–
+| clubs4 = [[AC Milan]]
+"""
+RASHFORD = """
+| years1 = 2015–
+| clubs1 = [[Manchester United F.C.|Manchester United]]
+| years2 = 2025
+| clubs2 = → [[Aston Villa F.C.|Aston Villa]] (loan)
+| years3 = 2025–2026
+| clubs3 = → [[FC Barcelona|Barcelona]] (loan)
+"""
+t = s.parse_infobox_tenure(PULISIC)
+assert t == [("Borussia Dortmund", 2016, 2019, False), ("Chelsea", 2019, 2023, False),
+             ("AC Milan", 2023, None, False)], t
+r = s.parse_infobox_tenure(RASHFORD)
+assert r[1] == ("Aston Villa", 2025, 2025, True) and r[2] == ("Barcelona", 2025, 2026, True)
+assert s.is_recycled_move(t, "Chelsea", "AC Milan", 2026)          # the incident
+assert not s.is_recycled_move(t, "Chelsea", "AC Milan", 2023)      # fresh in 2023
+assert not s.is_recycled_move(r, "Barcelona", "Manchester United", 2026)  # loan return
+assert not s.is_recycled_move(r, "Manchester United", "Barcelona", 2026)  # open origin
+assert not s.is_recycled_move([], "Chelsea", "AC Milan", 2026)     # no data = no drop
+
+s.wikipedia_tenure = lambda player: {"Christian Pulisic": t}.get(player, [])
 s.oracle_current_clubs = lambda player, max_hits=2: {
+    "Christian Pulisic": ["AC Milan", "Milan"],
     "Tijjani Reijnders": ["Manchester City", "Man City"],
     "Filip Jorgensen": ["Chelsea", "Chelsea"],
     "Fake Player": ["AC Milan", "Milan"],
@@ -42,6 +77,12 @@ b = s.TransferBrief(
     style="—", fit="—", source="—", summary="x")
 out = s.oracle_sanity_check(b)
 assert out.from_club == "Chelsea"
+
+b = s.TransferBrief(
+    kind="deal", stage="Completed", player="Christian Pulisic", position="W",
+    age="27", from_club="Chelsea", to_club="AC Milan", fee="—",
+    style="—", fit="—", source="—", summary="x")
+assert s.oracle_sanity_check(b).kind == "none"   # recycled 2023 move dropped
 
 b = s.TransferBrief(
     kind="deal", stage="Completed", player="Fake Player", position="ST",

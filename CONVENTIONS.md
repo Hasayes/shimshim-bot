@@ -28,6 +28,22 @@ A genuine rumour always names the player's current club; a blank origin is
 the tell for the single-name / stale-link misparse class.
 Pinned by `test_rumour_gates.py`.
 
+### A move the infobox dates to an earlier year is a recycled story
+`oracle_sanity_check`: when the oracles already place the player at the
+destination, `wikipedia_tenure` (raw infobox `years`/`clubs` rows) decides
+whether that's a fresh completion or old news — `is_recycled_move` fires only
+when the origin spell **closed before this year** and the destination spell
+**opened before this year**. Loan returns (origin spell ends this year) and
+re-signings (new open spell this year) stay clear. `verify_all.py` runs the
+same check on cards ≤3 days old as a backstop.
+
+*Incident (2026-09-13):* an SEO mirror re-dated a **8 Jul 2023** "Milan and
+Chelsea agree deal for Pulisic" piece; newsdata's pubDate was fresh, so the
+3-day age gate passed, the summary matched `from_club` (both stale together),
+and the oracles showing him at Milan looked like confirmation. Carded
+**Chelsea → AC Milan, Completed** three years late. Pinned by
+`test_search_upgrade.py`.
+
 ### A deal's destination must be named in the source text
 `brief_problems(brief, article)` rejects any `kind="deal"` card whose
 `to_club` is nowhere in the article's title/description/source

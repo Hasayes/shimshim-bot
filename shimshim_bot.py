@@ -588,9 +588,13 @@ BRIEF_SYSTEM = (
 
 
 def _get_json(url):
+    return json.loads(_get_text(url))
+
+
+def _get_text(url):
     req = urllib.request.Request(url, headers={"User-Agent": "shimshim-bot/1.0"})
     with urllib.request.urlopen(req, timeout=30) as resp:
-        return json.loads(resp.read().decode())
+        return resp.read().decode()
 
 
 def same_club(a, b):
@@ -654,30 +658,99 @@ def oracle_sportsdb(player):
     return ""
 
 
+def _wiki_title(player):
+    """Resolve a player's Wikipedia article title (first+surname match), or ''."""
+    hits = _get_json(
+        "https://en.wikipedia.org/w/api.php?action=query&list=search"
+        "&format=json&srlimit=3&srsearch="
+        + urllib.parse.quote(f"{player} footballer")
+    )["query"]["search"]
+    parts = _norm(player).split()
+    if not parts:
+        return ""
+    surname, first = parts[-1], parts[0] if len(parts) > 1 else ""
+    titles = [
+        h["title"] for h in hits
+        if surname in _norm(h.get("title", ""))
+        and (not first or first in _norm(h.get("title", "")))
+    ]
+    return titles[0] if titles else ""
+
+
+_INFOBOX_ROW_RE = re.compile(r"^\|\s*(years|clubs)(\d+)\s*=\s*(.*)$", re.M)
+_WIKILINK_RE = re.compile(r"\[\[([^\]|]+)(?:\|([^\]]+))?\]\]")
+
+
+def parse_infobox_tenure(wikitext):
+    """Club rows from a footballer infobox: [(club, start, end, loan)].
+
+    `end` is None for an open-ended spell ("2023–"); a lone year ("2025") is
+    a closed spell within that year. Rows with unparseable years are skipped.
+    """
+    years, clubs = {}, {}
+    for kind, n, val in _INFOBOX_ROW_RE.findall(wikitext):
+        (years if kind == "years" else clubs)[int(n)] = val.strip()
+    rows = []
+    for n in sorted(clubs):
+        club_raw, span = clubs[n], years.get(n, "")
+        club = _WIKILINK_RE.sub(lambda m: m.group(2) or m.group(1), club_raw)
+        loan = "(loan)" in club.lower()
+        club = re.sub(r"\(loan\)|→|'''|\{\{[^}]*\}\}", "", club, flags=re.I).strip()
+        m = re.search(r"(\d{4})\s*([–—-]\s*(\d{4})?)?", span)
+        if not club or not m:
+            continue
+        start = int(m.group(1))
+        end = None if (m.group(2) and not m.group(3)) else int(m.group(3) or start)
+        rows.append((club, start, end, loan))
+    return rows
+
+
+def wikipedia_tenure(player):
+    """Infobox club history for `player` from the raw article, or []."""
+    try:
+        title = _wiki_title(player)
+        if not title:
+            return []
+        for _ in range(2):  # follow one redirect
+            raw = _get_text(
+                "https://en.wikipedia.org/w/index.php?action=raw&title="
+                + urllib.parse.quote(title)
+            )
+            m = re.match(r"#REDIRECT\s*\[\[([^\]|]+)", raw, re.I)
+            if not m:
+                break
+            title = m.group(1)
+        return parse_infobox_tenure(raw)
+    except Exception:  # noqa: BLE001
+        return []
+
+
+def is_recycled_move(tenure, from_club, to_club, year):
+    """True when the infobox shows the card's move happened in an EARLIER year.
+
+    Both legs must be history: a closed spell at from_club that ended before
+    `year`, and an open-ended spell at to_club that began before `year`.
+    A loan return (from the loan club, whose spell ends THIS year) and a
+    fresh re-signing (open spell starts this year, or Wikipedia not yet
+    updated) both stay clear of it — this only fires on a years-old move.
+    """
+    left = any(end is not None and end < year and same_club(club, from_club)
+               for club, _s, end, _l in tenure)
+    there = any(end is None and start < year and same_club(club, to_club)
+                for club, start, end, _l in tenure)
+    return left and there
+
+
 def oracle_wikipedia(player):
     """Current club parsed from a Wikipedia footballer intro, or ''."""
     try:
-        hits = _get_json(
-            "https://en.wikipedia.org/w/api.php?action=query&list=search"
-            "&format=json&srlimit=3&srsearch="
-            + urllib.parse.quote(f"{player} footballer")
-        )["query"]["search"]
-        name = _norm(player)
-        parts = name.split()
-        if not parts:
-            return ""
-        surname, first = parts[-1], parts[0] if len(parts) > 1 else ""
-        titles = [
-            h["title"] for h in hits
-            if surname in _norm(h.get("title", ""))
-            and (not first or first in _norm(h.get("title", "")))
-        ]
-        if not titles:
+        title = _wiki_title(player)
+        if not title:
             return ""
         d = _get_json(
             "https://en.wikipedia.org/w/api.php?action=query&format=json"
             "&prop=extracts&exintro=1&explaintext=1&exlimit=1&titles="
-            + urllib.parse.quote(titles[0])
+            + urllib.parse.quote(title)
         )
         pages = (d.get("query") or {}).get("pages") or {}
         extract = next(iter(pages.values()), {}).get("extract") or ""
@@ -740,6 +813,16 @@ def oracle_sanity_check(brief):
     if at_dest:
         if brief.kind == "interest":
             print(f"oracle sanity: drop interest — {player} already at {at_dest[0]}")
+            brief.kind = "none"
+            return brief
+        # Already at the destination is what a fresh completion looks like —
+        # and also what a years-old story looks like (Pulisic Chelsea -> Milan,
+        # a 2023 piece re-dated by a mirror, 2026-09-13). The infobox tells
+        # them apart: both legs already in a past year = recycled.
+        year = datetime.now(timezone.utc).year
+        if is_recycled_move(wikipedia_tenure(player), origin, at_dest[0], year):
+            print(f"oracle sanity: drop recycled {player} {origin} -> {at_dest[0]} "
+                  f"(infobox shows the move predates {year})")
             brief.kind = "none"
             return brief
         if brief.kind == "deal" and _norm(brief.stage) != "completed":

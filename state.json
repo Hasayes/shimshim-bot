@@ -1,6 +1,5 @@
 {
   "sent": [
-    "78ab6a10df4535824d3ffbcc935a7ef6",
     "ce20df32c4e449d59a3a607b6fa3b63b",
     "32208ade2ba361559f0cbd119b5f4bc6",
     "tg:FabrizioRomanoTG/65389",
@@ -1499,7 +1498,8 @@
     "75f389c619561431a83f1ad4458273d2",
     "0b121c3f59e907d7b63ba348f40cbecc",
     "445d94b5af6259fd6ca38b0d5d2e187d",
-    "e9835b9de6767978cd27dfdfad8bc770"
+    "e9835b9de6767978cd27dfdfad8bc770",
+    "debe266c7645b9b58e65437b4c1a3105"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2114,7 +2114,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 official: luis enrique signs new contract at paris saint germain until jun",
     "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 official: joao neves signs new contract at paris saint germain until june ",
     "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 official: lucas beraldo signs new deal at paris saint germain until june 2",
     "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 official: senne mayulu signs new deal at paris saint germain until june 20",
@@ -2413,7 +2412,8 @@
     "de zerbi reign to \u2018unravel pretty quickly\u2019 at tottenham with \u2018bully\u2019 outing play",
     "liverpool \u2018enquire\u2019 to sign classy chelsea midfield target as mac allister trans",
     "advantage liverpool as crafty edge threatens to cut man utd out of race for ligh",
-    "bruno fernandes future: fabrizio romano drops major update on man united captain"
+    "bruno fernandes future: fabrizio romano drops major update on man united captain",
+    "\u201ci\u2019d deserve it because of what i\u2019ve won\u201d: lamine yamal backs himself for ballon"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2715,10 +2715,10 @@
     "dinis": "",
     "mikael baza": "",
     "mika faye": "",
-    "shim mheuka": "",
-    "issac konde": ""
+    "issac konde": "",
+    "shim mheuka": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

@@ -1,6 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/65392",
     "9547ae52e2406c17dbd45dab17200a78",
     "328fd49a06b9e6a79c59869431d04d61",
     "tg:FabrizioRomanoTG/65393",
@@ -1499,7 +1498,8 @@
     "tg:FabrizioRomanoTG/66421",
     "tg:FabrizioRomanoTG/66422",
     "tg:FabrizioRomanoTG/66423",
-    "tg:FabrizioRomanoTG/66424"
+    "tg:FabrizioRomanoTG/66424",
+    "tg:FabrizioRomanoTG/66426"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1850,7 +1850,8 @@
     "richarlison -> trabzonspor": 1,
     "osimhen -> al ahli": 1,
     "konde -> manchester united": 2,
-    "pulisic -> milan": 2
+    "pulisic -> milan": 2,
+    "bissouma -> ajax": 1
   },
   "interest": [
     "interest: alvarez -> arsenal",
@@ -2114,7 +2115,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "arsenal seal deal for georgian teenager andria bartishvili",
     "\ud83d\udea8 first premier league win for liverpool under iraola with isak\u2019s brace! bradley",
     "\u201che wanted \u201d \u2013 luis enrique speaks out on why bradley barcola sealed liverpool t",
     "incoming arsenal signing completes medical pre 2027 transfer",
@@ -2413,11 +2413,11 @@
     "\ud83d\udea8 \ud83c\udfc6 official: allianz arena and spotify camp nou to host next two champions leag",
     "\ud83d\udea8 \ud83c\udfdf\ufe0f official: uefa europa league next two finals stadiums have been decided \ud83c\udfc6 2",
     "\ud83d\udea8 \ud83c\udfdf\ufe0f official: uefa conference league next two finals stadiums have been decided",
-    "\ud83d\udea8 \ud83c\udfdf\ufe0f official: uefa super cup next two finals\u2019 stadiums have been decided \ud83c\udfc6 \ud83c\uddea\ud83c\uddfa 2"
+    "\ud83d\udea8 \ud83c\udfdf\ufe0f official: uefa super cup next two finals\u2019 stadiums have been decided \ud83c\udfc6 \ud83c\uddea\ud83c\uddfa 2",
+    "\ud83d\udea8 \ud83c\uddf2\ud83c\uddf1 ajax have agreed deal in principle to sign yves bissouma as free agent, her"
   ],
   "tg_update_offset": 263617426,
   "photos": {
-    "zeno debast": "https://r2.thesportsdb.com/images/media/player/cutout/xlp81e1716408284.png/small",
     "kerim alajbegovic": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Jahresbeginnfeier_FC_RB_Salzburg_%282026-01-25_RB_Arena%29_10.jpg/330px-Jahresbeginnfeier_FC_RB_Salzburg_%282026-01-25_RB_Arena%29_10.jpg",
     "enzo fernandez": "https://r2.thesportsdb.com/images/media/player/cutout/b71vun1757003115.png/small",
     "mikel amondarain": "https://r2.thesportsdb.com/images/media/player/cutout/rfxt551763386386.png/small",
@@ -2716,6 +2716,7 @@
     "mikael baza": "",
     "mika faye": "",
     "shim mheuka": "",
+    "yves bissouma": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Bissouma_2018.jpg/330px-Bissouma_2018.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "issac konde": ""
   },
   "photo_repair_idx": 1,

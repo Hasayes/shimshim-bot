@@ -1,7 +1,5 @@
 {
   "sent": [
-    "32208ade2ba361559f0cbd119b5f4bc6",
-    "tg:FabrizioRomanoTG/65389",
     "60a0ab37b06e776b282dd90dcbda1232",
     "10827971cc428fae5f45f5faf698b6ac",
     "12046b2b48769c77b00351b9bcb182f5",
@@ -1499,7 +1497,9 @@
     "445d94b5af6259fd6ca38b0d5d2e187d",
     "e9835b9de6767978cd27dfdfad8bc770",
     "debe266c7645b9b58e65437b4c1a3105",
-    "878ebbe7e8a5283adc24d300719fa8bc"
+    "878ebbe7e8a5283adc24d300719fa8bc",
+    "9ea8bbbeb5ba3c914956a74d7ba2e2d8",
+    "tg:FabrizioRomanoTG/66411"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2114,8 +2114,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 official: lucas beraldo signs new deal at paris saint germain until june 2",
-    "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 official: senne mayulu signs new deal at paris saint germain until june 20",
     "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 official: william pacho signs new deal at paris saint germain until june 2",
     "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 official: fabian ruiz signs new deal at paris saint germain until june 202",
     "\ud83d\udd34 \ud83d\udd35 \ud83d\udd25 paris saint germain announce six new contract signed and sealed \ud83d\udd10 \ud83c\uddea\ud83c\uddf8 luis ",
@@ -2413,7 +2411,9 @@
     "advantage liverpool as crafty edge threatens to cut man utd out of race for ligh",
     "bruno fernandes future: fabrizio romano drops major update on man united captain",
     "\u201ci\u2019d deserve it because of what i\u2019ve won\u201d: lamine yamal backs himself for ballon",
-    "arsenal reaches final stage of talks to keep one of their most important personn"
+    "arsenal reaches final stage of talks to keep one of their most important personn",
+    "tottenham have another timo werner as \u2018really, really fast\u2019 star is \u2018a flawed pl",
+    "\ud83d\udd35 \ud83d\udd34 anthony gordon: \u201cfor a while, i didn't believe barcelona deal was real i tol"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2715,10 +2715,10 @@
     "dinis": "",
     "mikael baza": "",
     "mika faye": "",
-    "shim mheuka": "",
-    "issac konde": ""
+    "issac konde": "",
+    "shim mheuka": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

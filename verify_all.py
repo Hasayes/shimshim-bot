@@ -29,8 +29,9 @@ import time
 from datetime import datetime, timezone
 
 from shimshim_bot import (FEED_FILE, STATE_FILE, STAGE_RANK, _norm, _norm_club,
-                          oracle_fotmob, oracle_sportsdb, oracle_wikipedia,
-                          same_club, send_plain_telegram)
+                          is_recycled_move, oracle_fotmob, oracle_sportsdb,
+                          oracle_wikipedia, same_club, send_plain_telegram,
+                          wikipedia_tenure)
 
 PACE = float(os.environ.get("VERIFY_PACE", "2.5"))
 
@@ -143,7 +144,15 @@ def main():
         is_completed = c["kind"] == "deal" and c.get("stage") == "Completed"
         age_days = (now - datetime.fromisoformat(c["ts"])).days
 
-        if at_dest and not is_completed:
+        if at_dest and age_days <= 3 and is_recycled_move(
+                wikipedia_tenure(player), origin, at_dest[0], now.year):
+            # A new card whose move the infobox dates to an earlier year is a
+            # recycled story that slipped the publish gate (Pulisic, 2026-09).
+            flags.append(f"• {player}: {origin} -> {at_dest[0]} card is "
+                         f"{age_days}d old but Wikipedia dates the move before "
+                         f"{now.year} — recycled story?")
+            print(f"[FLAG] {player}: recycled? {origin}->{at_dest[0]} predates {now.year}")
+        elif at_dest and not is_completed:
             dest = at_dest[0]
             c["kind"] = "deal"
             c["stage"] = "Completed"

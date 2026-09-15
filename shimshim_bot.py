@@ -101,7 +101,7 @@ WATCHED_CLUBS = [
 CLUB_CANON = [
     ("real madrid", r"real madrid"),
     ("barcelona", r"barcelona|\bbarca\b"),
-    ("atletico madrid", r"atletico"),
+    ("atletico madrid", r"atletico|\batleti\b"),
     ("arsenal", r"arsenal"),
     ("chelsea", r"chelsea"),
     ("liverpool", r"liverpool"),
@@ -126,6 +126,10 @@ CLUB_CANON = [
     ("al nassr", r"al.?nassr"),
     ("marseille", r"marseille"),
     ("sporting", r"sporting (cp|lisbon)|sporting clube"),
+    # "Depor" (Romano) vs "Deportivo A Coruna" (news) split one Casadó journey
+    # into two cards (2026-09-01); Angeliño's pair split the same way. Bare
+    # "Deportivo" means A Coruña in transfer news; Alavés is excluded.
+    ("deportivo la coruna", r"deportivo(?!\s+alav)|\bdepor\b"),
 ]
 # Interest filter / prefilter: ONLY the 16 watched clubs. Extra CLUB_CANON
 # entries above are for _norm_club / deal dedup (West Ham, Villa, …), not
@@ -1085,12 +1089,62 @@ def _summary_departure_conflict(brief):
     return False
 
 
-def brief_problems(brief):
+# Words that appear in many club names and so can't prove one was mentioned.
+_GENERIC_CLUB_TOKENS = {
+    "club", "town", "city", "united", "real", "athletic", "atletico",
+    "sporting", "deportivo", "football", "union", "sport", "racing",
+    "dynamo", "dinamo", "olympique", "borussia", "eintracht", "stade",
+    "saint", "the", "hotspur", "wanderers", "rovers", "albion", "county",
+}
+
+
+def club_mentioned(club, text):
+    """True when `text` actually names `club`.
+
+    Matches a canonical alias (Spurs, Barça, Man Utd, Depor) or a distinctive
+    token of the name (Ipswich, Coruna, Leverkusen). A nickname alone ("the
+    Blues") is NOT a mention — that ambiguity is exactly what this guards.
+    """
+    t = _norm(text or "")
+    if not t or not club or club.strip() in ("", "—"):
+        return False
+    canon = _norm_club(club)
+    for c, pat in CLUB_CANON:
+        if c == canon:
+            if re.search(pat, t):
+                return True
+            break
+    words = [w for w in _norm(club).split() if w not in _GENERIC_CLUB_TOKENS]
+    tokens = [w for w in words if len(w) >= 4] or [w for w in words if len(w) >= 3]
+    return any(re.search(rf"\b{re.escape(w)}", t) for w in tokens)
+
+
+def _destination_unnamed(brief, article):
+    """True when a deal's destination club is nowhere in the source text.
+
+    The model resolves club nicknames from memory, and nicknames collide:
+    an Ipswich Town site wrote "his move to the Blues" and the card said
+    Chelsea (Palacios, 2026-08-27). A destination the article never names
+    is a guess, not a fact — better no card; the official announcement
+    names the club and cards it properly.
+    """
+    if brief.kind != "deal" or article is None:
+        return False
+    text = " ".join(str(article.get(k) or "") for k in ("title", "desc", "source"))
+    if not text.strip():
+        return False
+    dests = [c.strip() for c in brief.to_club.split(",") if c.strip() not in ("", "—")]
+    return bool(dests) and not any(club_mentioned(d, text) for d in dests)
+
+
+def brief_problems(brief, article=None):
     """Structural lint a card must pass before publishing.
 
     A card with missing core facts ("—" player, deal without clubs) looks
     broken in the app and can't dedup properly — better no card than an
     empty one; the story returns via other headlines with fuller facts.
+    Pass the source `article` to also require that a deal's destination
+    club is named in the text (nickname-collision guard).
     """
     problems = []
     player = brief.player.strip()
@@ -1111,6 +1165,10 @@ def brief_problems(brief):
             # Summary still names a different departure club than from_club —
             # classic recycled medical/here-we-go after the player moved on.
             problems.append("stale origin in summary")
+        if _destination_unnamed(brief, article):
+            # "the Blues" resolved to Chelsea on an Ipswich site — a club the
+            # text never names came from the model's memory, not the story.
+            problems.append("destination club not named in source")
     if brief.kind == "interest" and brief.from_club.strip() in ("", "—"):
         # A real rumour always knows where the player currently plays; a blank
         # origin is the tell for a misparse — a lone first name ("Enzo") or a
@@ -1616,6 +1674,34 @@ def _card_sig(kind, stage, player, to_club):
     return (_norm(player), kind, _norm(stage), dests)
 
 
+def retire_superseded_deals(feed, brief):
+    """Remove the player's open deal cards to OTHER destinations once a
+    Completed move lands. Returns the retired cards.
+
+    Only open (non-Completed) deals from the same origin are retired: a
+    completed arrival followed by an onward loan is a different journey and
+    must survive, and two competing 'here we go's are left to coexist until
+    one completes.
+    """
+    if brief.kind != "deal" or _norm(brief.stage) != "completed":
+        return []
+    player_key, dest = _norm(brief.player), _norm_club(brief.to_club)
+    retired = []
+    for c in list(feed):
+        if c["kind"] != "deal" or _norm(c["player"]) != player_key:
+            continue
+        if _norm(c.get("stage", "")) == "completed":
+            continue
+        if _norm_club(c["to_club"]) == dest:
+            continue  # same journey — upgraded in place by the caller
+        if known_club(c.get("from_club", "")) and known_club(brief.from_club) \
+                and not same_club(c["from_club"], brief.from_club):
+            continue  # different origin = different journey (onward move)
+        feed.remove(c)
+        retired.append(c)
+    return retired
+
+
 def append_feed(article, brief, photo, feed):
     """Upsert the card: one card per transfer journey, moving through stages.
 
@@ -1648,6 +1734,14 @@ def append_feed(article, brief, photo, feed):
     existing = None
     if brief.kind == "deal":
         dest = _norm_club(brief.to_club)
+        if _norm(brief.stage) == "completed":
+            # A completed move ends the player's other open journeys from the
+            # same origin: "Everton -> Spurs here we go" was still live two
+            # weeks after Ndiaye signed for Man City (2026-09-01). One window,
+            # one destination — the losing bid collapsed, retire its card.
+            for c in retire_superseded_deals(feed, brief):
+                print(f"card retired: {c['player']} -> {c['to_club']} "
+                      f"({c.get('stage')}) superseded by {brief.to_club}")
         for c in feed:
             if _norm(c["player"]) != player_key:
                 continue
@@ -2119,7 +2213,7 @@ def main():
                 _norm_club(brief.from_club) == _norm_club(brief.to_club):
             brief.kind = "none"  # same-club "transfer" is a parse error
         if brief.kind != "none":
-            gate = brief_problems(brief)
+            gate = brief_problems(brief, article)
             if gate:
                 print(f"skipped (incomplete card: {', '.join(gate)}): {article['title']}")
                 brief.kind = "none"

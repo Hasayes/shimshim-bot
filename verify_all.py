@@ -23,6 +23,7 @@ Flags are sent to Telegram in one summary message (only when any exist).
 """
 import json
 import os
+import re
 import sys
 import time
 from datetime import datetime, timezone
@@ -59,6 +60,39 @@ def has_onward_move(feed, player, dest, later_club):
            same_club(c.get("to_club", ""), later_club):
             return True
     return False
+
+
+_LOAN_BACK_RE = re.compile(
+    r"loan\w*(?:\s+\w+){0,3}\s+back\b|"          # loan back / loan him back
+    r"\bstay(?:s|ing)? (?:at|with)\b|"
+    r"\bremain(?:s|ing)? (?:at|with)\b|"
+    r"\breturn(?:s|ing)? to \S+ on loan\b|"
+    r"\bimmediately loaned\b"
+)
+
+
+def is_loan_back(card):
+    """True when the card itself says the player was signed and loaned back.
+
+    'Signed, then loaned back to the seller' is the one completed move where
+    the oracles are RIGHT to keep showing the origin club (Brughmans ->
+    Liverpool, loaned back to Genk, 2026-09-01). The card text carries the
+    tell, the oracles don't — so read the card.
+    """
+    text = " ".join(str(card.get(k) or "") for k in ("summary", "fee", "title"))
+    return bool(_LOAN_BACK_RE.search(text.lower()))
+
+
+def origin_disposition(is_completed, loan_back):
+    """Decide how to treat a completed card whose player still shows at origin.
+
+      - card says loaned back -> 'note' (expected: oracle shows the loan club)
+      - otherwise             -> 'flag' (over-staged, or collapsed after
+                                 'Completed' — Camara, Oosterwolde 2026-09)
+    """
+    if not is_completed:
+        return "ok"
+    return "note" if loan_back else "flag"
 
 
 def elsewhere_disposition(is_completed, onward_in_feed):
@@ -119,9 +153,15 @@ def main():
             upgrades.append(f"{player} -> {dest}")
             print(f"[UPGRADE] {player} -> {dest} (oracle-confirmed arrival)")
         elif is_completed and not at_dest and at_origin >= 2 and age_days > 10:
-            flags.append(f"• {player}: card says Completed -> {c['to_club']}, "
-                         f"but oracles still show {teams[0]}")
-            print(f"[FLAG] {player}: completed but oracles show {teams}")
+            if origin_disposition(is_completed, is_loan_back(c)) == "note":
+                notes.append(f"{player}: {c['to_club']} deal stands; loaned "
+                             f"back to {teams[0]} per the card")
+                print(f"[NOTE] {player}: completed {c['to_club']} deal, card "
+                      f"says loaned back — oracle at {teams[0]} is expected")
+            else:
+                flags.append(f"• {player}: card says Completed -> {c['to_club']}, "
+                             f"but oracles still show {teams[0]}")
+                print(f"[FLAG] {player}: completed but oracles show {teams}")
         elif len(elsewhere) >= 2 and same_club(elsewhere[0], elsewhere[1]):
             moved_to = elsewhere[0]
             onward = has_onward_move(feed, player, c["to_club"], moved_to)

@@ -36,3 +36,4 @@ jobs:
           python test_rumour_gates.py
           python test_verify_sweep.py
           python test_search_upgrade.py
+          python test_journey.py

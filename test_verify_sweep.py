@@ -47,4 +47,23 @@ assert v.elsewhere_disposition(True, False) == "note"
 assert v.elsewhere_disposition(False, False) == "flag"
 assert v.elsewhere_disposition(False, True) == "flag"
 
+# --- origin_disposition: "completed but still at origin" has a benign twin --
+# Incident (2026-09-13): Brughmans -> Liverpool was flagged alongside two real
+# collapses (Camara -> Chelsea, Oosterwolde -> Roma). Liverpool DID sign him and
+# loaned him straight back to Genk — the oracles were right to show Genk. The
+# card text says so; the oracles can't. Read the card, downgrade to a note.
+assert v.is_loan_back({"summary": "Liverpool have completed a €35m transfer "
+                       "for Lucca Brughmans and plan to loan him back to Genk "
+                       "for the season.", "fee": "€35m"})
+assert v.is_loan_back({"summary": "Signed on a six-year deal; he will remain "
+                       "with Genk until June.", "fee": "—"})
+assert v.is_loan_back({"summary": "Deal done.", "fee": "£30m, loaned back"})
+assert not v.is_loan_back({"summary": "Chelsea signed Monaco midfielder Lamine "
+                           "Camara on Deadline Day.", "fee": "—"})
+assert not v.is_loan_back({"summary": "Roma have agreed terms with Fenerbahce "
+                           "for Oosterwolde's transfer.", "fee": "€18m option"})
+assert v.origin_disposition(True, True) == "note"    # Brughmans: expected
+assert v.origin_disposition(True, False) == "flag"   # Camara / Oosterwolde
+assert v.origin_disposition(False, False) == "ok"    # rule is for completed only
+
 print("test_verify_sweep: OK")

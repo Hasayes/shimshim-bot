@@ -66,4 +66,34 @@ assert "stale origin in summary" not in s.brief_problems(brief(
     summary="Galatasaray have rejected a proposal from Arsenal involving "
             "Viktor Gyokeres for Victor Osimhen."))
 
+# Nickname collision (2026-08-27): an Ipswich Town site wrote "his move to the
+# Blues" and the card said Chelsea — a club the article never named came from
+# the model's memory. A deal's destination must be named in the source text.
+ipswich = {"title": "Palacios Travelling For Medical",
+           "desc": "Argentina international Exequiel Palacios is reportedly on "
+                   "his way to complete his move to the Blues from Bayer "
+                   "Leverkusen.", "source": "twtd"}
+assert "destination club not named in source" in s.brief_problems(brief(
+    kind="deal", stage="Here we go", player="Exequiel Palacios",
+    from_club="Bayer Leverkusen", to_club="Chelsea"), ipswich)
+# The same text with the club actually named passes.
+named = dict(ipswich, desc=ipswich["desc"].replace("the Blues", "Ipswich Town"))
+assert s.brief_problems(brief(
+    kind="deal", stage="Here we go", player="Exequiel Palacios",
+    from_club="Bayer Leverkusen", to_club="Ipswich Town"), named) == []
+# Aliases count as naming the club: Spurs, Barça, Man Utd, Depor.
+for club, text in (("Tottenham Hotspur", "Spurs agree deal"),
+                   ("FC Barcelona", "Barça confirm"),
+                   ("Manchester United", "Man Utd sign"),
+                   ("Deportivo A Coruna", "Depor reach verbal agreement"),
+                   ("PSV", "joins PSV Eindhoven")):
+    assert s.club_mentioned(club, text), club
+assert not s.club_mentioned("Chelsea", "his move to the Blues")
+# Without the article the gate is inert (existing callers unchanged).
+assert s.brief_problems(brief(kind="deal", stage="Completed", from_club="Ajax",
+                              to_club="Chelsea")) == []
+# Interest cards are not gated on suitors (different failure class).
+assert "destination club not named in source" not in s.brief_problems(
+    brief(kind="interest", from_club="Ajax", to_club="Chelsea"), ipswich)
+
 print("test_rumour_gates: OK")

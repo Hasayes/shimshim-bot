@@ -28,6 +28,47 @@ A genuine rumour always names the player's current club; a blank origin is
 the tell for the single-name / stale-link misparse class.
 Pinned by `test_rumour_gates.py`.
 
+### A deal's destination must be named in the source text
+`brief_problems(brief, article)` rejects any `kind="deal"` card whose
+`to_club` is nowhere in the article's title/description/source
+(`club_mentioned`: canonical alias or a distinctive token — "Spurs", "Barça",
+"Depor", "Ipswich" — but never a nickname alone).
+
+*Incident (2026-08-27):* an Ipswich Town fan site wrote "his move to **the
+Blues** from Bayer Leverkusen" and lean mode carded **Palacios → Chelsea**. The
+club came from the model's memory of a nickname, not from the story. He signed
+for Ipswich the same day; the wrong card lived 17 days until the sweep saw him
+at Ipswich. *Accepted trade-off:* a story that only names a city ("travels to
+Florence") drops this poll; the official announcement names the club.
+Pinned by `test_rumour_gates.py`.
+
+### A completed move retires the player's other open deals
+`append_feed` → `retire_superseded_deals`: when a **Completed** deal lands,
+any open (here-we-go) deal for the same player, same origin, *different*
+destination is removed — the losing bid collapsed. Onward moves (different
+origin), completed cards, and competing here-we-go's are untouched.
+
+*Incident (2026-09-13):* "Ndiaye Everton → Spurs here we go" (Aug 30) was still
+live two weeks after "Everton → Man City Completed" (Sep 1) — the journey
+upsert only upgraded same-destination cards. Casadó's journey split the same
+way via a club alias ("Depor" vs "Deportivo A Coruna", now one canon).
+Pinned by `test_journey.py`.
+
+### "Completed but still at origin" has a benign twin: the loan-back
+`verify_all.py` → `origin_disposition`: a Completed card whose player 2+
+oracles still place at the origin is a **flag** (over-staged, or collapsed
+after being carded Completed) *unless the card itself says he was loaned back*
+(`is_loan_back`: "loan him back", "remain with", "return to X on loan") — then
+it's a note. The card carries the tell; the oracles can't.
+
+*Incident (2026-09-13):* Brughmans → Liverpool (signed, loaned straight back to
+Genk) was flagged in the same breath as two real collapses that had been carded
+Completed from "done deal" prose — Camara → Chelsea (Monaco pulled out after
+the deadline) and Oosterwolde → Roma (failed medical). Pinned by
+`test_verify_sweep.py`. *Still open:* a news article can upgrade a journey to
+Completed on "agreed terms" wording in lean mode; the daily sweep's 10-day
+origin flag is the backstop that caught both.
+
 ### The solidity sweep must not cry wolf on onward loans
 `verify_all.py` flags a card when 2+ oracles place the player at a club that's
 neither the card's origin nor destination. That reading has two causes, and the

@@ -199,50 +199,24 @@
   "kind": "deal",
   "photo": "https://r2.thesportsdb.com/images/media/player/cutout/ocpyt41768321624.png/small",
   "stage": "Completed",
-  "player": "Marc Casado",
+  "player": "Marc Casad\u00f3",
   "position": "midfielder",
   "age": "22",
   "from_club": "FC Barcelona",
   "to_club": "Deportivo A Coruna",
-  "fee": "Loan with buy option",
+  "fee": "Loan with \u20ac30m buy option",
   "style": "Technically proficient midfielder with strong passing range and ball retention skills developed at Barcelona's academy system.",
   "fit": "Use as a regular starter in midfield to provide controlled build-up play and help Deportivo maintain possession during their season-long loan period.",
-  "source": "yahoo",
+  "source": "yahoo / Fabrizio Romano",
   "sources": [
-   "yahoo"
+   "yahoo",
+   "Fabrizio Romano"
   ],
-  "srcTier": "standard",
+  "srcTier": "tier1",
   "summary": "Deportivo A Coruna confirm the signing of Barcelona midfielder Marc Casado on a season-long loan deal with a permanent purchase option. The 22-year-old joins in search of regular first-team minutes.",
   "outlet": "yahoo",
   "url": "https://uk.sports.yahoo.com/news/deportivo-coruna-seal-season-long-031500552.html",
   "title": "Deportivo A Coruna seal season-long loan deal for Barcelona midfielder Marc Casado with buy option"
- },
- {
-  "id": "tg:FabrizioRomanoTG/65490",
-  "ts": "2026-09-02T09:30:56+00:00",
-  "kind": "deal",
-  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/1fl2tg1766237973.png/small",
-  "stage": "Completed",
-  "player": "Lamine Camara",
-  "position": "Midfielder",
-  "age": "\u2014",
-  "from_club": "Monaco",
-  "to_club": "Chelsea",
-  "fee": "\u2014",
-  "style": "Energetic box-to-box midfielder with strong pressing and ball recovery abilities in the middle of the park.",
-  "fit": "Deploy as a rotational option in Chelsea's midfield three to provide defensive cover and creative passing options alongside more technical playmakers.",
-  "source": "Ben Jacobs / CaughtOffside",
-  "sources": [
-   "Fabrizio Romano",
-   "football365",
-   "Ben Jacobs",
-   "CaughtOffside"
-  ],
-  "srcTier": "tier1",
-  "summary": "Chelsea signed Monaco midfielder Lamine Camara on Deadline Day as a replacement for Enzo Fernandez's departure to Manchester City, in a move enabled by Folarin Balogun's failed medical with Everton.",
-  "outlet": "caughtoffside",
-  "url": "https://www.caughtoffside.com/2026/09/01/lamine-camara-transfer-to-chelsea-due-to-folarin-balogun-medical/",
-  "title": "Failed medical elsewhere helped Chelsea secure signing in \u201cone of the craziest\u201d Deadline Day sagas"
  },
  {
   "id": "tg:FabrizioRomanoTG/65863",
@@ -291,30 +265,6 @@
   "outlet": "Telegram @fabrizioromanotg",
   "url": "https://t.me/FabrizioRomanoTG/65900",
   "title": "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 Ben Chilwell returns to Crystal Palace from Strasbourg, here we go! Agreement in place and paperwork time now. htt"
- },
- {
-  "id": "tg:FabrizioRomanoTG/65895",
-  "ts": "2026-09-01T21:15:43+00:00",
-  "kind": "deal",
-  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/ocpyt41768321624.png/small",
-  "stage": "Here we go",
-  "player": "Marc Casad\u00f3",
-  "position": "Midfielder",
-  "age": "\u2014",
-  "from_club": "Barcelona",
-  "to_club": "Depor",
-  "fee": "Loan with \u20ac30m buy option",
-  "style": "Versatile midfielder with strong technical ability and press-resistant passing who can operate across multiple positions in midfield.",
-  "fit": "Deploy as a central midfielder in Depor's build-up play where his composure and ball progression can be utilized to control matches.",
-  "source": "Fabrizio Romano",
-  "sources": [
-   "Fabrizio Romano"
-  ],
-  "srcTier": "tier1",
-  "summary": "Depor have reached verbal agreement to sign Marc Casad\u00f3 from Barcelona on loan with a \u20ac30m buy option clause. The midfielder is yet to sign the contract as formal steps will follow.",
-  "outlet": "Telegram @fabrizioromanotg",
-  "url": "https://t.me/FabrizioRomanoTG/65895",
-  "title": "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f Depor reach verbal agreement to sign Marc Casad\u00f3 from Barcelona, here we go! Initial loan with \u20ac30m buy option cl"
  },
  {
   "id": "tg:FabrizioRomanoTG/65818",
@@ -1576,31 +1526,6 @@
   "title": "\ud83d\udd35 \u26aa\ufe0f \ud83d\udc09 Santi Gim\u00e9nez has authorization to travel and join FC Porto after deal agreed as revealed last night. Free loan, "
  },
  {
-  "id": "4d3a4d0b43b850c00566c7d849cc14f5",
-  "ts": "2026-08-30T09:45:39+00:00",
-  "kind": "deal",
-  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/rten2t1756977078.png/small",
-  "stage": "Here we go",
-  "player": "Iliman Ndiaye",
-  "position": "\u2014",
-  "age": "26",
-  "from_club": "Everton",
-  "to_club": "Tottenham Hotspur",
-  "fee": "\u2014",
-  "style": "Direct, pacey winger who combines pace with technical ability and pressing intensity to drive forward play.",
-  "fit": "Should operate as a dynamic attacking option on either flank to stretch defenses and create space for Spurs' creative players.",
-  "source": "Fabrizio Romano",
-  "sources": [
-   "Fabrizio Romano",
-   "Sacha Tavolieri"
-  ],
-  "srcTier": "tier1",
-  "summary": "Tottenham and Everton have reached an agreement on a double deal involving Iliman Ndiaye moving to Spurs and Richarlison returning to Everton. Ndiaye has agreed to join Tottenham.",
-  "outlet": "Telegram @fabrizioromanotg",
-  "url": "https://t.me/FabrizioRomanoTG/65619",
-  "title": "\ud83d\udea8 \ud83d\udd04 Tottenham and Everton have reached an agreement on double deal with Iliman Ndiaye to #THFC and Richarlison back to #"
- },
- {
   "id": "2fad884944992a7718ffa96f4f220793",
   "ts": "2026-08-30T02:45:37+00:00",
   "kind": "deal",
@@ -2232,24 +2157,24 @@
   "ts": "2026-08-27T00:45:30+00:00",
   "kind": "deal",
   "photo": "https://r2.thesportsdb.com/images/media/player/cutout/oby41y1756316369.png/small",
-  "stage": "Here we go",
+  "stage": "Completed",
   "player": "Exequiel Palacios",
-  "position": "\u2014",
-  "age": "\u2014",
+  "position": "midfielder",
+  "age": "27",
   "from_club": "Bayer Leverkusen",
-  "to_club": "Chelsea",
-  "fee": "\u2014",
+  "to_club": "Ipswich Town",
+  "fee": "Undisclosed (reported \u20ac25m plus \u20ac5m add-ons)",
   "style": "Technically gifted midfielder with excellent ball-carrying ability and press resistance in transition.",
-  "fit": "Can operate as a box-to-box option or deeper playmaker to add creative control and progressive passing to Chelsea's midfield.",
-  "source": "twtd",
+  "fit": "Can operate as a box-to-box option or deeper playmaker to add creative control and progressive passing to Ipswich's midfield.",
+  "source": "ESPN",
   "sources": [
-   "twtd"
+   "ESPN"
   ],
   "srcTier": "standard",
-  "summary": "Argentina international Exequiel Palacios is travelling for a medical to complete his move to Chelsea from Bayer Leverkusen.",
-  "outlet": "twtd",
-  "url": "http://www.twtd.co.uk/ipswich-town-news/52631/",
-  "title": "Palacios Travelling For Medical"
+  "summary": "Ipswich Town have completed the signing of Argentina midfielder Exequiel Palacios from Bayer Leverkusen on a contract to 2030. The 27-year-old World Cup winner leaves after six and a half years at the BayArena.",
+  "outlet": "espn",
+  "url": "https://www.espn.com/soccer/story/_/id/49760043/ipswich-town-sign-world-cup-winner-exequiel-palacios-bayer-leverkusen",
+  "title": "Ipswich Town sign World Cup winner Exequiel Palacios from Bayer Leverkusen"
  },
  {
   "id": "315b5b36aa092a74920a9ed38d0b5b6d",
@@ -2636,30 +2561,6 @@
    "Fabrizio Romano"
   ],
   "srcTier": "tier1"
- },
- {
-  "id": "a7815f12f4712e7e6896510922bc9ce8",
-  "ts": "2026-08-23T10:00:44+00:00",
-  "kind": "deal",
-  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/w0b1a71724844526.png/small",
-  "stage": "Completed",
-  "player": "Jayden Oosterwolde",
-  "position": "\u2014",
-  "age": "\u2014",
-  "from_club": "Fenerbahce",
-  "to_club": "Roma",
-  "fee": "\u20ac18m purchase option",
-  "style": "\u2014",
-  "fit": "\u2014",
-  "source": "football-italia",
-  "sources": [
-   "football-italia"
-  ],
-  "srcTier": "standard",
-  "summary": "Roma have agreed terms with Fenerbahce for Jayden Oosterwolde's transfer, with an \u20ac18m purchase option included in the deal.",
-  "outlet": "football-italia",
-  "url": "https://football-italia.net/done-deal-oosterwolde-to-roma-from-fenerbahce/",
-  "title": "Done Deal: Oosterwolde to Roma from Fenerbahce with \u20ac18m purchase option"
  },
  {
   "id": "tg:FabrizioRomanoTG/65078",
@@ -4599,7 +4500,7 @@
   "kind": "deal",
   "photo": "https://r2.thesportsdb.com/images/media/player/cutout/5pw52n1758816456.png/small",
   "stage": "Completed",
-  "player": "Angelino",
+  "player": "Angeli\u00f1o",
   "position": "Left-back",
   "age": "28",
   "from_club": "AS Roma",
@@ -4607,14 +4508,15 @@
   "fee": "Loan with obligation to buy",
   "style": "Attack-minded left-back who pushes high, delivers dangerous crosses, and contributes effectively in the final third.",
   "fit": "Brings top-flight experience and Spanish football familiarity to Deportivo, providing quality and versatility on the left flank.",
-  "source": "Gianluca Di Marzio / Sky Sport",
+  "source": "Gianluca Di Marzio / Sky Sport / Yahoo",
   "outlet": "yahoo",
   "url": "https://sports.yahoo.com/articles/done-deal-angelino-set-join-121000775.html",
   "title": "Done deal: Angelino set to join Deportivo on loan with obligation",
   "summary": "Angelino has completed a move from AS Roma to RC Deportivo de La Coru\u00f1a on a loan with an obligation to buy. The financial terms of the deal have not been fully disclosed.",
   "sources": [
    "Gianluca Di Marzio",
-   "Sky Sport"
+   "Sky Sport",
+   "Yahoo"
   ],
   "srcTier": "tier1"
  },
@@ -4977,30 +4879,6 @@
    "Fabrizio Romano"
   ],
   "srcTier": "tier1"
- },
- {
-  "id": "73b2ec22cbc73f33cb950bb5e5e872a7",
-  "ts": "2026-07-31T00:32:00+00:00",
-  "kind": "deal",
-  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/5pw52n1758816456.png/small",
-  "stage": "Completed",
-  "player": "Angeli\u00f1o",
-  "position": "Left-back",
-  "age": "29",
-  "from_club": "Roma",
-  "to_club": "Deportivo",
-  "fee": "Undisclosed",
-  "style": "Attack-minded left-back who combines defensive solidity with overlapping runs and precise crossing from deep.",
-  "fit": "Provides experienced, technically assured cover at left-back or wing-back, bringing La Liga familiarity and Serie A pedigree to bolster the squad's defensive depth.",
-  "source": "Yahoo",
-  "outlet": "yahoo",
-  "url": "https://sports.yahoo.com/articles/confirmed-angelino-leaves-roma-ready-115500767.html",
-  "title": "Confirmed: Angelino leaves Roma, ready to join Deportivo",
-  "summary": "Angeli\u00f1o has left Roma and is set to join Deportivo in a move for an undisclosed fee.",
-  "sources": [
-   "Yahoo"
-  ],
-  "srcTier": "standard"
  },
  {
   "id": "tg:FabrizioRomanoTG/63832",

@@ -1,11 +1,5 @@
 {
   "sent": [
-    "12046b2b48769c77b00351b9bcb182f5",
-    "4c5573bd41b967953861337a4cf36e0a",
-    "ab402b978cb5bd9fa0e3f33e111b4b2f",
-    "97f5a04b7760b5ac04c5133d50341374",
-    "tg:FabrizioRomanoTG/65391",
-    "bee02162d3c848e7c4841fe942a236a7",
     "tg:FabrizioRomanoTG/65392",
     "9547ae52e2406c17dbd45dab17200a78",
     "328fd49a06b9e6a79c59869431d04d61",
@@ -1499,7 +1493,13 @@
     "9ea8bbbeb5ba3c914956a74d7ba2e2d8",
     "tg:FabrizioRomanoTG/66411",
     "tg:FabrizioRomanoTG/66414",
-    "7ec0bdd415611700d18eeb14ff7332d2"
+    "7ec0bdd415611700d18eeb14ff7332d2",
+    "6f36b1fa19c8cc6c366fd71b207fc4d4",
+    "4179115849d8ec9bb660e103e5e92dae",
+    "tg:FabrizioRomanoTG/66421",
+    "tg:FabrizioRomanoTG/66422",
+    "tg:FabrizioRomanoTG/66423",
+    "tg:FabrizioRomanoTG/66424"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2114,11 +2114,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "\ud83d\udd34 \ud83d\udd35 \ud83d\udd25 paris saint germain announce six new contract signed and sealed \ud83d\udd10 \ud83c\uddea\ud83c\uddf8 luis ",
-    "richarlison frozen out at tottenham as squad decision points towards exit",
-    "transfer rumors, news: trabzonspor eye richarlison move on deadline day",
-    "transfer: bartishvili completes medicals with arsenal",
-    "liverpool agree deal to sign djylian n'guessan liverpool fc",
     "arsenal seal deal for georgian teenager andria bartishvili",
     "\ud83d\udea8 first premier league win for liverpool under iraola with isak\u2019s brace! bradley",
     "\u201che wanted \u201d \u2013 luis enrique speaks out on why bradley barcola sealed liverpool t",
@@ -2413,7 +2408,12 @@
     "tottenham have another timo werner as \u2018really, really fast\u2019 star is \u2018a flawed pl",
     "\ud83d\udd35 \ud83d\udd34 anthony gordon: \u201cfor a while, i didn't believe barcelona deal was real i tol",
     "\ud83d\udd35 \ud83d\udd34 rodri: \u201ci do not think we're the favorites to win the champions league\u201d \u201cof ",
-    "richarlison's spurs future in limbo as friendly exit bid and squad exile drag on"
+    "richarlison's spurs future in limbo as friendly exit bid and squad exile drag on",
+    "\u2018we lost 3 0 with him\u2019 \u2013 richarlison row with tottenham blows up as de zerbi iss",
+    "\ud83d\udea8 \ud83c\udfc6 official: allianz arena and spotify camp nou to host next two champions leag",
+    "\ud83d\udea8 \ud83c\udfdf\ufe0f official: uefa europa league next two finals stadiums have been decided \ud83c\udfc6 2",
+    "\ud83d\udea8 \ud83c\udfdf\ufe0f official: uefa conference league next two finals stadiums have been decided",
+    "\ud83d\udea8 \ud83c\udfdf\ufe0f official: uefa super cup next two finals\u2019 stadiums have been decided \ud83c\udfc6 \ud83c\uddea\ud83c\uddfa 2"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2715,10 +2715,10 @@
     "dinis": "",
     "mikael baza": "",
     "mika faye": "",
-    "issac konde": "",
-    "shim mheuka": ""
+    "shim mheuka": "",
+    "issac konde": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

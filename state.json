@@ -1,7 +1,5 @@
 {
   "sent": [
-    "e0e3000cbc4f96530a3d708382215e20",
-    "7733d683777d08f28f008ffc8b89ccce",
     "3dc34cb7c229dfbf5d3fc9e96a7e526d",
     "e6d32f4e9e723a631a378055b85f7d2b",
     "f38e80743b2e3315b081ba0a9ecfad97",
@@ -1499,7 +1497,9 @@
     "3612d0093640fa7e68b992bb800996af",
     "0e1d1ed10632133ce4f36f84312b3bfc",
     "tg:FabrizioRomanoTG/66476",
-    "bb65ce60f133b7c68460a7c5859f6d17"
+    "bb65ce60f133b7c68460a7c5859f6d17",
+    "66c3a68aef43c2c1e02bf4dc1abe3520",
+    "b565ccf1f10d874ba727dad45b24e5a2"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2109,8 +2109,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "\u2018there is loads to still come\u2019 \u2013 carrick is expecting big things from man united",
-    "journalist name checks liverpool target for revived january move",
     "pundit claims liverpool could move for la liga legend",
     "\ud83d\udea8 \ud83d\udfe3 fiorentina have reached a verbal agreement with paolo vanoli to return as ne",
     "\u26aa\ufe0f \u26ab\ufe0f \ud83c\udde7\ud83c\uddf7 hakim ziyech lands in brazil on tuesday to sign in as new botafogo play",
@@ -2408,7 +2406,9 @@
     "fabrizio romano confirms man united star \u201cwants to go\u201d, club trying everything",
     "just in: arsenal defender doubtful for brighton trip after suffering muscle inju",
     "\ud83d\udea8 official: manchester united are out of the carabao cup, eliminated by brighton",
-    "david ornstein reveals michael carrick wanted to sign arsenal star over \u00a370m man"
+    "david ornstein reveals michael carrick wanted to sign arsenal star over \u00a370m man",
+    "expert on secret talks and possible liverpool swap transfer",
+    "ornstein reveals carrick wanted alternative man utd signing \u2018first\u2019 before baleb"
   ],
   "tg_update_offset": 263617426,
   "photos": {

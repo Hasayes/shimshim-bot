@@ -1,5 +1,29 @@
 [
  {
+  "id": "a18d3278abccb06151dccdedcfaa7700",
+  "ts": "2026-09-17T02:00:56+00:00",
+  "kind": "deal",
+  "photo": "",
+  "stage": "Completed",
+  "player": "Vincent Joseph",
+  "position": "Forward",
+  "age": "16",
+  "from_club": "Liverpool",
+  "to_club": "Arsenal",
+  "fee": "\u2014",
+  "style": "Prolific young forward with sharp finishing instincts, evidenced by eight goals in nine England youth appearances.",
+  "fit": "Deploy as a development prospect in Arsenal's academy system with potential to progress through the club's youth ranks.",
+  "source": "CaughtOffside",
+  "sources": [
+   "CaughtOffside"
+  ],
+  "srcTier": "standard",
+  "summary": "Arsenal have completed the signing of 16-year-old forward Vincent Joseph from Liverpool's academy after he turned down scholarship terms with the Reds following a nine-year spell on Merseyside.",
+  "outlet": "caughtoffside",
+  "url": "https://www.caughtoffside.com/2026/09/16/vincent-joseph-liverpool-arsenal-transfer/",
+  "title": "Arsenal complete coup for Liverpool wonderkid who scored eight goals in nine England games"
+ },
+ {
   "id": "tg:FabrizioRomanoTG/66426",
   "ts": "2026-09-15T12:00:55+00:00",
   "kind": "deal",

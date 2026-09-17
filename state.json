@@ -1,6 +1,5 @@
 {
   "sent": [
-    "6b73dbbbbb789b047dbe46a10a4351f5",
     "5fce40b59847bedb0c34fe16957f0f41",
     "tg:FabrizioRomanoTG/65459",
     "4e6d00e1dc798b08e36659d3da1667a3",
@@ -1499,7 +1498,8 @@
     "f73bf71c9481cfc79e5d9f12871bbe43",
     "d72fc09f400252ce595c6fc809b554fd",
     "tg:FabrizioRomanoTG/66507",
-    "tg:FabrizioRomanoTG/66508"
+    "tg:FabrizioRomanoTG/66508",
+    "719e769aebda9bb32a0548a673ab499c"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2110,7 +2110,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "man united strike agreement to sign liverpool youngster as deal 'completed'",
     "who is jerayno schaken: man united scouting 17 year old who just broke eredivisi",
     "ineos officially expand bid for \u00a32 billion deal",
     "isaac konde to man utd, what you need to know about completed swoop for liverpoo",
@@ -2409,7 +2408,8 @@
     "romano quashes salah contract claim as 'talks took place' with",
     "manchester united make patrick dorgu bid why ruben amorim",
     "\u26aa\ufe0f \ud83c\udf15 kylian mbappe: \u201ci really want the ballon d\u2019or to return to real madrid\u201d \u201cit",
-    "\ud83d\udea8 \ud83c\uddf5\ud83c\uddf9 lecce centre back tiago gabriel has signed today a new deal until june 2030"
+    "\ud83d\udea8 \ud83c\uddf5\ud83c\uddf9 lecce centre back tiago gabriel has signed today a new deal until june 2030",
+    "conte waiting for ac milan and juventus? no to al ahli\u2019s huge offer, he is waiti"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2711,10 +2711,10 @@
     "mika faye": "",
     "shim mheuka": "",
     "yves bissouma": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Bissouma_2018.jpg/330px-Bissouma_2018.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "vincent joseph": "",
-    "issac konde": ""
+    "issac konde": "",
+    "vincent joseph": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

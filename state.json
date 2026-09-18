@@ -1,6 +1,5 @@
 {
   "sent": [
-    "ccd5937ce614fa772056aff9061f54e2",
     "99aade5e297e048f49eb03c145bc7427",
     "f58f603a37421b9c1ba1130217eaf9de",
     "604c5c6121ef40a313caf4ed3ba4501d",
@@ -1499,7 +1498,8 @@
     "tg:FabrizioRomanoTG/66558",
     "7534a2cb24c66c3070fdc605063b9f47",
     "tg:FabrizioRomanoTG/66561",
-    "f01f0fdc4bc535bb7e1bcb513dda8fb4"
+    "f01f0fdc4bc535bb7e1bcb513dda8fb4",
+    "fb85ea883e4e09db761efd538efc8c04"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2110,7 +2110,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83c\udf15 official: declan rice, among 30 nominees for ballon d\u2019or 2026 \u2014 fabrizio rom",
     "\ud83d\udea8 \ud83c\udf15 official: fabian ruiz, among 30 nominees for ballon d\u2019or 2026 \u2014 fabrizio rom",
     "\ud83d\udea8 \ud83c\udf15 official: vinicius jr, among 30 nominees for ballon d\u2019or 2026 \u2014 fabrizio rom",
     "\ud83d\udea8 \ud83c\udf15 official: vitinha, among 30 nominees for ballon d\u2019or 2026 \u2014 fabrizio romano ",
@@ -2409,7 +2408,8 @@
     "\ud83d\udea8 \ud83c\uddeb\ud83c\uddf7 official: kylian mbappe will be france captain also under zinedine zidane a",
     "tottenham transfer news: vasco da gama director reveals details of failed richar",
     "\ud83d\udea8 official: harry kane makes history as fastest player ever to score 100 bundesl",
-    "arsenal complete out of window transfer for prolific liverpool striker as berta "
+    "arsenal complete out of window transfer for prolific liverpool striker as berta ",
+    "liverpool representatives at europa league match as they eye potential \u20ac60m tran"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2711,10 +2711,10 @@
     "mika faye": "",
     "shim mheuka": "",
     "yves bissouma": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Bissouma_2018.jpg/330px-Bissouma_2018.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "vincent joseph": "",
-    "issac konde": ""
+    "issac konde": "",
+    "vincent joseph": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

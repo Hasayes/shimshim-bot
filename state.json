@@ -1,7 +1,5 @@
 {
   "sent": [
-    "055ad2e005eafe309220f59d8fe0d466",
-    "a1cfb174aed5073dcb03c7e662d9f1ec",
     "c7f7f360fb3424fea1e00a5069b148f9",
     "78ced40a6aa40d2c49cf81ebe6d10fcf",
     "98fc55924056e946caedd977fd1df04d",
@@ -1499,7 +1497,9 @@
     "a871674eb8f9cb4c1f037c0057bcb53b",
     "44502c48a287e9e018fcedb5b39cd53a",
     "19755904d074bf0c239261dd94621697",
-    "3fbeecfb33417c532fdf34064d2fefff"
+    "3fbeecfb33417c532fdf34064d2fefff",
+    "a2ef6a32a2679135ba8952275515fc22",
+    "aa24518cbb64755991be4a7619357917"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2110,8 +2110,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83c\udf15 official: ousmane dembele, among 30 nominees for ballon d\u2019or 2026 \u2014 fabrizio",
-    "\ud83d\udea8 \ud83c\udf15 official: luis diaz, among 30 nominees for ballon d\u2019or 2026 \u2014 fabrizio roman",
     "\ud83d\udea8 \ud83c\udf15 official: bruno fernandes, among 30 nominees for ballon d\u2019or 2026 \u2014 fabrizio",
     "\ud83d\udea8 \ud83c\udf15 official: erling haaland, among 30 nominees for ballon d\u2019or 2026 \u2014 fabrizio ",
     "\ud83d\udea8 \ud83c\udf15 official: gabriel magalhaes, among 30 nominees for ballon d\u2019or 2026 \u2014 fabriz",
@@ -2409,7 +2407,9 @@
     "\u201cthey like the player\u201d \u2013 fabrizio romano confirms arsenal transfer interest in 2",
     "conte\u2019s stance revealed amid juventus, milan and man utd speculation",
     "messi reaches 100 inter miami goals as campeones cup win takes trophy record to ",
-    "chelsea take instant decision on selling estevao as liverpool make contact over "
+    "chelsea take instant decision on selling estevao as liverpool make contact over ",
+    "liverpool react after learning arsenal want to sign rio ngumoha",
+    "liverpool: fsg react after learning arsenal plan january raid for rio ngumoha te"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2711,10 +2711,10 @@
     "mika faye": "",
     "shim mheuka": "",
     "yves bissouma": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Bissouma_2018.jpg/330px-Bissouma_2018.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "vincent joseph": "",
-    "issac konde": ""
+    "issac konde": "",
+    "vincent joseph": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

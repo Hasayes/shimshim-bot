@@ -1,6 +1,5 @@
 {
   "sent": [
-    "354c342ea9cf17866e9e845d267bfdea",
     "ab68a44e90e70a693bc67562f1ae125e",
     "tg:FabrizioRomanoTG/65492",
     "tg:FabrizioRomanoTG/65494",
@@ -1499,7 +1498,8 @@
     "tg:FabrizioRomanoTG/66616",
     "tg:FabrizioRomanoTG/66619",
     "tg:FabrizioRomanoTG/66621",
-    "tg:FabrizioRomanoTG/66623"
+    "tg:FabrizioRomanoTG/66623",
+    "tg:FabrizioRomanoTG/66629"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2110,7 +2110,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "8 goals in 6 games: attacker in red hot form is being targeted to replace gyoker",
     "\ud83d\udd35 \ud83d\udd34 \u26a1\ufe0f barcelona have scored 22 goals in 5 games in all competitions this season",
     "\ud83d\udea8 \ud83c\udde7\ud83c\uddf7 official: joao pedro and estevao among the players called up by ancelotti, ",
     "ornstein reveals liverpool spying new \u00a356m france star for january teamtalk",
@@ -2409,7 +2408,8 @@
     "bayern munich news: fc bayern not actively pursuing liverpool star florian wirtz",
     "\ud83d\udea8 jose mourinho shows the two episodes where he wanted red cards for atletico pl",
     "\ud83d\udea8 jose mourinho: \u201cit\u2019s all been very strange \u201d \u201cthe referee was known a week in ",
-    "\ud83d\udea8 official: real madrid statement against the referee after the derby \u201creal madr"
+    "\ud83d\udea8 official: real madrid statement against the referee after the derby \u201creal madr",
+    "\ud83d\udea8 michael carrick: \u201ci am happy with the energy we show today i think we can take"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2711,10 +2711,10 @@
     "mika faye": "",
     "shim mheuka": "",
     "yves bissouma": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Bissouma_2018.jpg/330px-Bissouma_2018.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "issac konde": "",
-    "vincent joseph": ""
+    "vincent joseph": "",
+    "issac konde": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

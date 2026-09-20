@@ -1,7 +1,5 @@
 {
   "sent": [
-    "500e90c99349c2487a49881d670cf847",
-    "tg:FabrizioRomanoTG/65484",
     "231f9a479bd6bcd522d3fae79ec7b6df",
     "7f979f849d35fddca605e2f035a191a3",
     "5807e2bdc8823550c09f49707faa347b",
@@ -1499,7 +1497,9 @@
     "tg:FabrizioRomanoTG/66605",
     "d427de83a616cff7217fd7b5730ccd1b",
     "tg:FabrizioRomanoTG/66608",
-    "84f74d9d865746db8a9867ccfea2107f"
+    "84f74d9d865746db8a9867ccfea2107f",
+    "70e32cf1e6a1069602210c46079e2b18",
+    "tg:FabrizioRomanoTG/66609"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2110,8 +2110,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "ornstein reveals liverpool transfer target\u2019s release clause, iraola is a \u201chuge f",
-    "\ud83d\udea8 \ud83c\uddfa\ud83c\udde6 mykhaylo mudryk has suffered an injury and will be sidelined for 6 8 weeks ",
     "liverpool emerge as \u2018rival suitor\u2019 for two chelsea midfield targets",
     "27 year old arsenal league winning player becomes priority target for real madri",
     "man united rule out defensive move despite free agent opportunity",
@@ -2409,7 +2407,9 @@
     "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 xavi espart has agreed to sign new contract at barcelona until june 2030 d",
     "fabrizio romano debunks jj gabriel, man utd claims in lengthy update football365",
     "\ud83d\udea8 \ud83c\udde6\ud83c\uddf7 barcelona president laporta on julian alvarez: \u201catletico have showed true c",
-    "big money arsenal star wants out as reps hold talks with two euro titans"
+    "big money arsenal star wants out as reps hold talks with two euro titans",
+    "javier aguirre has signed a nine month contract with valencia",
+    "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 hansi flick confirms new deal done for raphinha: \u201cyes! i am happy about ra"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2711,10 +2711,10 @@
     "mika faye": "",
     "shim mheuka": "",
     "yves bissouma": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Bissouma_2018.jpg/330px-Bissouma_2018.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "issac konde": "",
-    "vincent joseph": ""
+    "vincent joseph": "",
+    "issac konde": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

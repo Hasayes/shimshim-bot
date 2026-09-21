@@ -1,6 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/65505",
     "tg:FabrizioRomanoTG/65508",
     "tg:FabrizioRomanoTG/65509",
     "c6c8cd1d57ab3bf0b29613c61c1332e2",
@@ -1499,7 +1498,8 @@
     "tg:FabrizioRomanoTG/66636",
     "4f93794fd3cbd17ff53d9f4261ec2a8b",
     "tg:FabrizioRomanoTG/66642",
-    "0492989932fb71cf9d8713e2af6d1552"
+    "0492989932fb71cf9d8713e2af6d1552",
+    "5e5a0bd70e2f62448f9772c7bb97768e"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2110,7 +2110,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "liverpool eyeing chelsea's two deadline day transfer targets metro co uk",
     "\ud83d\udd34 \ud83d\udd35 official: ferran torres, uefa man of the match for psg slovan bratislava and",
     "romano issues update on \u2018sad\u2019 liverpool player who now faces uncertain future at",
     "\ud83c\udfc6 \ud83d\udc40 ferran torres: \u201cyes, barcelona is one of the favorite teams to win the champ",
@@ -2409,7 +2408,8 @@
     "\ud83d\udea8 \u26a0\ufe0f cole palmer has withdrawn from england squad following small muscle injury ",
     "alvaro arbeloa risks fa punishment with extraordinary comments about man united ",
     "\ud83d\udea8 \ud83c\uddea\ud83c\uddf8 official: luis de la fuente signs new contract as spain head coach until ju",
-    "fred \u25b7 transfer: fenerbahce submits official \u25b7 shotoe nigeria"
+    "fred \u25b7 transfer: fenerbahce submits official \u25b7 shotoe nigeria",
+    "chelsea target mathys tel wants to leave bayern"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2711,10 +2711,10 @@
     "mika faye": "",
     "shim mheuka": "",
     "yves bissouma": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Bissouma_2018.jpg/330px-Bissouma_2018.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "vincent joseph": "",
-    "issac konde": ""
+    "issac konde": "",
+    "vincent joseph": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

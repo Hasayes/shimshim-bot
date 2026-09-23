@@ -1,5 +1,29 @@
 [
  {
+  "id": "tg:FabrizioRomanoTG/66710",
+  "ts": "2026-09-23T16:45:53+00:00",
+  "kind": "deal",
+  "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg/330px-20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "stage": "Here we go",
+  "player": "David Alaba",
+  "position": "Centre back",
+  "age": "\u2014",
+  "from_club": "Real Madrid",
+  "to_club": "Udinese",
+  "fee": "\u2014",
+  "style": "Versatile and composed left-sided centre back with excellent ball-playing ability and defensive awareness, capable of playing across the backline.",
+  "fit": "Deploy as a left centre back or left-back in Udinese's defensive setup to provide leadership and technical quality in their back line.",
+  "source": "Fabrizio Romano",
+  "sources": [
+   "Fabrizio Romano"
+  ],
+  "srcTier": "tier1",
+  "summary": "David Alaba signs a one-year deal with Udinese until June 2027, confirmed by Fabrizio Romano as a 'here we go' transfer from Real Madrid.",
+  "outlet": "Telegram @fabrizioromanotg",
+  "url": "https://t.me/FabrizioRomanoTG/66710",
+  "title": "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f David Alaba to Udinese, exclusive story confirmed and here we go! \ud83d\udca3 \ud83c\udde6\ud83c\uddf9 Former Real Madrid and FC Bayern centre b"
+ },
+ {
   "id": "a18d3278abccb06151dccdedcfaa7700",
   "ts": "2026-09-17T02:00:56+00:00",
   "kind": "deal",

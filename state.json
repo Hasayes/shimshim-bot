@@ -1,7 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/65525",
-    "951635d1217b99a75894ee868d9314e2",
     "169d7c005c6165f9307ca3577769d248",
     "6a958eec95dd4e9c174567999cce9ba0",
     "13a199512c8a11af5952ec42c56d51bc",
@@ -1499,7 +1497,9 @@
     "tg:FabrizioRomanoTG/66694",
     "tg:FabrizioRomanoTG/66695",
     "5e6b234ba9276db6f7ff550aa96bd384",
-    "202e70c391f7668ab8c78006e3aa6f55"
+    "202e70c391f7668ab8c78006e3aa6f55",
+    "tg:FabrizioRomanoTG/66710",
+    "tg:FabrizioRomanoTG/66712"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1846,7 +1846,8 @@
     "casado -> deportivo la coruna": 2,
     "palacios -> ipswich town": 2,
     "angelino -> deportivo la coruna": 2,
-    "joseph -> arsenal": 2
+    "joseph -> arsenal": 2,
+    "alaba -> udinese": 1
   },
   "interest": [
     "interest: alvarez -> arsenal",
@@ -2110,8 +2111,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "jaissle talks about newcastle star he's 'in love' with ahead of contract update ",
-    "arsenal scouting mission tees up striker deal after man utd talks fail",
     "hypocrital real madrid superstar kylian mbappe ruled out man utd transfer for on",
     "fabrizio romano reveals lewis hall to man utd still on despite newcastle agreeme",
     "yamal is only player who deserves ballon d\u2019or \u2014ex man city star",
@@ -2409,11 +2408,12 @@
     "\ud83d\udea8 david alaba completes medical at udinese after several options in italy; juven",
     "\ud83d\udea8 \ud83c\uddf8\ud83c\udde6 tijjani reijnders on moving to saudi arabia: \u201cit\u2019s money for generations of",
     "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f juventus agree deal to sign neto as new goalkeeper, here we go! short te",
-    "bayern munich news: a masterplan to get manchester city\u2019s erling haaland?; bayer"
+    "bayern munich news: a masterplan to get manchester city\u2019s erling haaland?; bayer",
+    "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f david alaba to udinese, exclusive story confirmed and here we go! \ud83d\udca3 \ud83c\udde6\ud83c\uddf9 f",
+    "rt @fabrizioromano : \ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f david alaba to udinese, exclusive story confirmed a"
   ],
   "tg_update_offset": 263617426,
   "photos": {
-    "enzo fernandez": "https://r2.thesportsdb.com/images/media/player/cutout/b71vun1757003115.png/small",
     "mikel amondarain": "https://r2.thesportsdb.com/images/media/player/cutout/rfxt551763386386.png/small",
     "bruno guimaraes": "https://r2.thesportsdb.com/images/media/player/cutout/qr8gk01766824971.png/small",
     "aladji bamba": "https://r2.thesportsdb.com/images/media/player/cutout/iuhmcr1766237924.png/small",
@@ -2712,6 +2712,7 @@
     "shim mheuka": "",
     "yves bissouma": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Bissouma_2018.jpg/330px-Bissouma_2018.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "issac konde": "",
+    "david alaba": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg/330px-20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "vincent joseph": ""
   },
   "photo_repair_idx": 1,

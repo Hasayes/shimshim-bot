@@ -1,7 +1,5 @@
 {
   "sent": [
-    "67556ae3fa1f4f9287881bedd5e94fed",
-    "0126774452900628acd32b59cbe00dfe",
     "a96b34871a8ecb98f3ff009667722f60",
     "5bee7582d26d3d28655348ca136c825e",
     "896dc624aba105943f27b5b78e0586a7",
@@ -1499,7 +1497,9 @@
     "1be187a123166177bb300c363ea6ee47",
     "9d4eaeef710b88f2e7a82fa16265228a",
     "f582aa629d2a98a112116095d51cddf6",
-    "49ee61df88131eda8ed0db3699410798"
+    "49ee61df88131eda8ed0db3699410798",
+    "70ac925814b5eeae7565c0459bc766af",
+    "b4ac026ddab724f3f88af297f00f0257"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2111,8 +2111,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83d\udd34 \u26ab\ufe0f ruben amorim: \u201cif you look at arsenal, it takes time to win titles and bu",
-    "\ud83d\udea8 \ud83d\udd35 breaking: pedro neto signs new deal at chelsea valid until june 2032 plus op",
     "\ud83d\udea8 \ud83c\uddfa\ud83c\udde6 roberto de zerbi confirms mudryk is out and \u201cit was a stupid injury, unfort",
     "\ud83d\udea8 michael carrick on elliot anderson calling man city kings of manchester: \u201ci'm ",
     "philippe coutinho secures another transfer after making feelings clear on liverp",
@@ -2410,7 +2408,9 @@
     "picture: udinese drop alaba transfer hint after agreement with ex real madrid st",
     "because of real madrid and barcelona: a final card that turns the picture upside",
     "transfer: david alaba agrees deal to join maduka okoye at udinese",
-    "\u201ci expect arsenal \u201d \u2013 fabrizio romano provides exciting january transfer update"
+    "\u201ci expect arsenal \u201d \u2013 fabrizio romano provides exciting january transfer update",
+    "\u201cthe answer\u201d \u2013 fabrizio romano speaks out as arsenal star understood to be discu",
+    "david alaba reaches agreement with udinese per report"
   ],
   "tg_update_offset": 263617426,
   "photos": {

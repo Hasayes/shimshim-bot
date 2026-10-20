@@ -1,7 +1,5 @@
 {
   "sent": [
-    "8dca1b99f9212bd7de5859861b75667a",
-    "77fa9a9796104126d2446ec3db643ae2",
     "96efe13c696ffedd7d5448b3a9b3e5ed",
     "dd55b9fe565850288b02dc5d7d1d3c13",
     "06125bb04c7345a9d3e0f30421f57a72",
@@ -1499,7 +1497,9 @@
     "tg:FabrizioRomanoTG/67477",
     "tg:FabrizioRomanoTG/67481",
     "106b96a83482838d7e51c856c02d3e53",
-    "f20bc1f491cf526deb97077d558f04ad"
+    "f20bc1f491cf526deb97077d558f04ad",
+    "tg:FabrizioRomanoTG/67483",
+    "tg:FabrizioRomanoTG/67486"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2111,8 +2111,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "liverpool signal interest in mexican wonderkid gilberto mora",
-    "harry kane: striker agrees salary as man utd, bayern munich discover where he'll",
     "these stars still without a club \ud83d\udc40",
     "milan to battle it out with roma over endrick loan",
     "liverpool transfer news: 'contact' made for \u00a3100m chelsea target as race intensi",
@@ -2410,7 +2408,9 @@
     "\ud83d\udea8 erik ten hag on frenkie de jong and man united: \u201ci was not involved in financi",
     "\u2764\ufe0f ronald araujo: \u201ci'm very happy here at liverpool because since i arrived i've",
     "\ud83d\udea8 erik ten hag on man united board signings: \u201cwe signed five, six players, young",
-    "transfer rumors: liverpool battle rivals for alexander arnold return; barcelona\u2019"
+    "transfer rumors: liverpool battle rivals for alexander arnold return; barcelona\u2019",
+    "\u26aa\ufe0f \ud83c\udfc6 ibrahima konate: \u201cwe want to win the champions league\u201d \u201cthe mission is comp",
+    "\ud83d\udea8 jose mourinho on real madrid progress: \u201cthere\u2019s still a long way to go\u201d \u201cwe\u2019ve"
   ],
   "tg_update_offset": 263617426,
   "photos": {

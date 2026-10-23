@@ -1,5 +1,29 @@
 [
  {
+  "id": "78629bcf39098c081610c3245eb6d527",
+  "ts": "2026-10-23T18:15:39+00:00",
+  "kind": "deal",
+  "photo": "https://r2.thesportsdb.com/images/media/player/cutout/rwsqi51769330458.png/small",
+  "stage": "Here we go",
+  "player": "Gabriel Jesus",
+  "position": "\u2014",
+  "age": "\u2014",
+  "from_club": "Manchester City",
+  "to_club": "Arsenal",
+  "fee": "\u00a345m",
+  "style": "Energetic, mobile forward with excellent work rate and pressing intensity to win the ball high up the pitch.",
+  "fit": "Deploy as a focal point in Arsenal's attack to lead the line and link play while maintaining relentless pressure on opposition defenders.",
+  "source": "ng_shotoe",
+  "sources": [
+   "ng_shotoe"
+  ],
+  "srcTier": "standard",
+  "summary": "Gabriel Jesus will complete a \u00a345m move from Manchester City to Arsenal after personal terms were agreed, with a 5-year deal in place.",
+  "outlet": "ng_shotoe",
+  "url": "https://ng.shotoe.com/gabriel-jesus-arsenal-st_383919/news/gabriel-jesus-to-arsenal-100-done-5-year-deal-in-place-sn_3721004/",
+  "title": "Gabriel Jesus to Arsenal 100% done: 5-year deal in place"
+ },
+ {
   "id": "ecc9d5c5564cb8339ca0ab57222037cc",
   "ts": "2026-10-23T16:15:36+00:00",
   "kind": "deal",

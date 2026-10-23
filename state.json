@@ -1,9 +1,5 @@
 {
   "sent": [
-    "130de78a0c0d58a044d6cb34ac5b1bcc",
-    "51f7381ec84221218f69d57d040831c5",
-    "15a816364771b593d7a9e62453840344",
-    "efcf1fbd795f1761519fc03d60850883",
     "7b620a82bcfd5cbfb41fe48900e8ac91",
     "8e21e86f55f0d5280e49bd0ef82ebef3",
     "a388e459e8dd6947704e77c430619cd9",
@@ -1499,7 +1495,11 @@
     "tg:FabrizioRomanoTG/67605",
     "34f5795c4fba81df9e3299f918d4bf8f",
     "ecc9d5c5564cb8339ca0ab57222037cc",
-    "40aac561b07767a3c75de00337adaeb2"
+    "40aac561b07767a3c75de00337adaeb2",
+    "c411ae62383979ec37940e6520ffc2e4",
+    "73fad8ade96dd13b0cf1445b98099302",
+    "9c2213db8a8aaaee83606e376a58a48c",
+    "tg:FabrizioRomanoTG/67619"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2112,10 +2112,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "caught on cam: lionel messi scores last international goal as argentine legend o",
-    "\ud83e\udec2 \ud83c\udded\ud83c\uddf7 \ud83c\udde6\ud83c\uddf7 luka modric on lionel messi: \u201cmessi is a unique player what can i say ab",
-    "transfer rumors, news: psg eye man city midfielder cherki amid premier league ch",
-    "journalist confirms man utd plans to sign \u00a370m rated nottingham forest powerhous",
     "liverpool \u2018offer\u2019 for record breaking midfielder has gone in as \u2018historic agreem",
     "manchester city had bayern munich\u2019s aleksandar pavlovic rated higher than enzo f",
     "epl: arteta signs new arsenal deal until 2030 \u2013 report",
@@ -2411,7 +2407,11 @@
     "\ud83d\udea8 \ud83c\uddee\ud83c\uddf9 breaking: antonio conte clarifies his future \u201cmy name has been linked with ",
     "liverpool news: trent alexander arnold tipped for rival transfer as chelsea batt",
     "romano: milan closing in on signing of okafor \u2013 medical booked for",
-    "report: rb leipzig close to signing manchester city target david raum"
+    "report: rb leipzig close to signing manchester city target david raum",
+    "\u201cofficial bid\u201d: chelsea set to battle with psg for manuel ugarte",
+    "mykhaylo mudryk to arsenal transfer rumor",
+    "real madrid prepare \u20ac60m offer for chelsea's kai havertz",
+    "\ud83d\udea8 bayern club statement on vincent kompany health conditions vincent kompany had"
   ],
   "tg_update_offset": 263617426,
   "photos": {

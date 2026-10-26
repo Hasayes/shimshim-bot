@@ -1,7 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/65837",
-    "347fe216b4d2bd0ade7ff25258b921cb",
     "b6f190721a0909b4d026830efbc6e379",
     "tg:FabrizioRomanoTG/65838",
     "tg:FabrizioRomanoTG/65839",
@@ -1499,7 +1497,9 @@
     "tg:FabrizioRomanoTG/67739",
     "tg:FabrizioRomanoTG/67740",
     "d0ebd1336621b3138133c0a649fe3baa",
-    "tg:FabrizioRomanoTG/67741"
+    "tg:FabrizioRomanoTG/67741",
+    "tg:FabrizioRomanoTG/67742",
+    "tg:FabrizioRomanoTG/67744"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2113,7 +2113,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "official: cristiano ronaldo provisionally suspended by portugal",
     "jj gabriel: bayern munich react after \u2018new talks\u2019 as man utd reach decision",
     "christian pulisic\u2019s milan future could hinge on one key factor as new contract t",
     "\ud83d\udd35 \ud83d\udd34 hansi flick: \u201canthony gordon got confidence with the national team and he wa",
@@ -2412,7 +2411,8 @@
     "\ud83c\udfc6 \u2728 official: luis de la fuente wins best manager of the year award at ballon d\u2019",
     "\ud83c\udfc6 \u2728 official: unai simon wins best goalkeeper award at 2026 ballon d\u2019or https://",
     "man utd: barcelona media react to alejandro balde display vs real madrid",
-    "\ud83c\udfc6 \u2728 official: bukayo saka wins socrates award for fair play at ballon d\u2019or 2026 "
+    "\ud83c\udfc6 \u2728 official: bukayo saka wins socrates award for fair play at ballon d\u2019or 2026 ",
+    "\ud83c\udfc6 \u2728 official: paris saint germain win best team of the year award at 2026 ballon"
   ],
   "tg_update_offset": 263617426,
   "photos": {

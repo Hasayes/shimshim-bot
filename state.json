@@ -1,9 +1,5 @@
 {
   "sent": [
-    "bde3fd7842635e2beb9ac06aec90631f",
-    "aeeae54b83747b96c04f065ffc166eee",
-    "e8f5254388869312b233f394abc4101f",
-    "1abf1a72f467bd5f8bd4f95f358ec978",
     "tg:FabrizioRomanoTG/65829",
     "f11d1e4d2021447d769cc5f4e8b3a7d2",
     "08d22f76a081bf3bd826a84f07763216",
@@ -1499,7 +1495,11 @@
     "tg:FabrizioRomanoTG/67723",
     "tg:FabrizioRomanoTG/67724",
     "tg:FabrizioRomanoTG/67725",
-    "tg:FabrizioRomanoTG/67726"
+    "tg:FabrizioRomanoTG/67726",
+    "tg:FabrizioRomanoTG/67727",
+    "tg:FabrizioRomanoTG/67728",
+    "tg:FabrizioRomanoTG/67729",
+    "tg:FabrizioRomanoTG/67730"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2113,10 +2113,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "\ud83d\udea8 official: cristiano ronaldo has been provisionally suspended by portuguese fed",
-    "fabrizio romano drops huge julian alvarez update after major gunners u turn",
-    "\ud83d\udd35 \u26a1\ufe0f chelsea make it 5 against bournemouth at stamford bridge! 4 goals, 4 assist",
-    "erling haaland makes his feeling toward\u2019s man city financial case uncertainty cl",
     "arsenal superstar set to miss several weeks due to injury",
     "thiago reveals which liverpool game made him realise his playing career was over",
     "bayern munich ready to hand michael olise 'extraordinary' new contract including",
@@ -2412,7 +2408,11 @@
     "\ud83d\udea8 official: lautaro martinez, 22nd at ballon d\u2019or 2026 \u2014 fabrizio romano ( @fabr",
     "\ud83d\udea8 official: gabriel magalhaes, 21st at ballon d\u2019or 2026 \u2014 fabrizio romano ( @fab",
     "\ud83d\udea8 official: willian pacho, 20th at ballon d\u2019or 2026 \u2014 fabrizio romano ( @fabrizi",
-    "\ud83d\udea8 official: joao neves, 19th at ballon d\u2019or 2026 \u2014 fabrizio romano ( @fabrizioro"
+    "\ud83d\udea8 official: joao neves, 19th at ballon d\u2019or 2026 \u2014 fabrizio romano ( @fabrizioro",
+    "\ud83d\udea8 official: marc cucurella, 18th at ballon d\u2019or 2026 \u2014 fabrizio romano ( @fabriz",
+    "\ud83d\udea8 official: vinicius junior, 17th at ballon d\u2019or 2026 \u2014 fabrizio romano ( @fabri",
+    "\ud83d\udea8 official: ferran torres, 16th at ballon d\u2019or 2026 \u2014 fabrizio romano ( @fabrizi",
+    "\ud83d\udea8 official: declan rice, 15th at ballon d\u2019or 2026 \u2014 fabrizio romano ( @fabrizior"
   ],
   "tg_update_offset": 263617426,
   "photos": {

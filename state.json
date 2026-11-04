@@ -1,6 +1,5 @@
 {
   "sent": [
-    "03d06f4ca42d8851d50993c5b508d2c0",
     "743055e71d4965440fd04d7a51947fdf",
     "a4b7a91bb176fed13f1cfa31b6c85813",
     "4c40ac98e16b27722d4e70a06fed61c2",
@@ -1499,7 +1498,8 @@
     "0bfe15c7bf56b3fb0b740d77728e0d98",
     "83b3e09f5f568074e9dec0f43e330f81",
     "9dd0cb258620d05fb9a3a24dcdcc50b9",
-    "9a03c83f2ba8ef1cade3fe73f2f1814e"
+    "9a03c83f2ba8ef1cade3fe73f2f1814e",
+    "3de4e7e48176e51ce963793fb3cc6307"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2114,7 +2114,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "florian wirtz: germany right back shocked by liverpool star and wants to play wi",
     "fabrizio romano reveals chelsea \u2018contacts\u2019 with \u00a3100m star\u2019s agent as liverpool ",
     "\u201cone to watch for 2027\u201d \u2013 romano issues latest transfer update on defensive live",
     "inigo perez gives verdict on liverpool and anfield ahead of villarreal champions",
@@ -2413,7 +2412,8 @@
     "issue emerges with one of five manchester united manager candidates",
     "real madrid on verge of signing manchester united wonderkid as barcelona drop ou",
     "man utd: jj gabriel travels to finalise transfer as romano makes \u2018done deal\u2019 cla",
-    "transfer rumors, news: arsenal want atletico madrid winger"
+    "transfer rumors, news: arsenal want atletico madrid winger",
+    "jj gabriel: real madrid confident of signing manchester united forward bbc"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2718,7 +2718,7 @@
     "david alaba": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg/330px-20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "vincent joseph": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

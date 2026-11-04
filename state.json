@@ -1,7 +1,5 @@
 {
   "sent": [
-    "743055e71d4965440fd04d7a51947fdf",
-    "a4b7a91bb176fed13f1cfa31b6c85813",
     "4c40ac98e16b27722d4e70a06fed61c2",
     "e0d1af8d870f69ab751fe1422e0c5f1d",
     "7b8b654f6da54e29ccc29507de8d8317",
@@ -1499,7 +1497,9 @@
     "83b3e09f5f568074e9dec0f43e330f81",
     "9dd0cb258620d05fb9a3a24dcdcc50b9",
     "9a03c83f2ba8ef1cade3fe73f2f1814e",
-    "3de4e7e48176e51ce963793fb3cc6307"
+    "3de4e7e48176e51ce963793fb3cc6307",
+    "b21b5876cf62950ba032a580ceb196fa",
+    "e593f14052e27129b4722227a5112fea"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2114,8 +2114,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "fabrizio romano reveals chelsea \u2018contacts\u2019 with \u00a3100m star\u2019s agent as liverpool ",
-    "\u201cone to watch for 2027\u201d \u2013 romano issues latest transfer update on defensive live",
     "inigo perez gives verdict on liverpool and anfield ahead of villarreal champions",
     "erik ten hag admits he tried to sign \u2018unbelievable\u2019 arsenal player when he was a",
     "liverpool rocked as barcelona react to interest in \u20ac100m plus rated defender",
@@ -2413,7 +2411,9 @@
     "real madrid on verge of signing manchester united wonderkid as barcelona drop ou",
     "man utd: jj gabriel travels to finalise transfer as romano makes \u2018done deal\u2019 cla",
     "transfer rumors, news: arsenal want atletico madrid winger",
-    "jj gabriel: real madrid confident of signing manchester united forward bbc"
+    "jj gabriel: real madrid confident of signing manchester united forward bbc",
+    "real madrid set to win race to land man utd wonderkid jj gabriel",
+    "jj gabriel 'reaches real madrid transfer agreement' as wantaway man utd sensatio"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2718,7 +2718,7 @@
     "david alaba": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg/330px-20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "vincent joseph": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

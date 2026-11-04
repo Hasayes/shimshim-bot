@@ -1,7 +1,5 @@
 {
   "sent": [
-    "4a5304aa0ed42858ab47b30fd7f08199",
-    "967f13cc9756b29673b6d5e736ba9fb4",
     "bf4c15d5cfcbcff403509bda83bac6ae",
     "54c645b6bad6a2faaf34e35ff9e5da54",
     "8c4084b9cc4ad0a4d032e11436e957ae",
@@ -1499,7 +1497,9 @@
     "3d489c9ec5080c718e6e29019517cfb8",
     "16d2591c01097a12255758f5dc0dbc65",
     "2f6051c73e584c0ad06cdae82749901f",
-    "88714cdf4beb152d65e5478f3c691d2e"
+    "88714cdf4beb152d65e5478f3c691d2e",
+    "784c3eea613b314f5e299741af691a0c",
+    "9faeb8cb4308d6ff1b3e2544a87a655a"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2113,7 +2113,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "we are facing the best team in the world over the last two years \u2013flick on psg b",
     "\ud83d\udea8 erik ten hag reveals he wanted harry kane at man united: \u201ci said: i want only ",
     "\ud83d\udea8 erik ten hag on frenkie de jong and man united: \u201ci was not involved in financi",
     "\u2764\ufe0f ronald araujo: \u201ci'm very happy here at liverpool because since i arrived i've",
@@ -2412,7 +2411,8 @@
     "transfer rumors, news: real madrid tracking arsenal left back calafiori",
     "man utd axe three managers from shortlist as two way race accelerates",
     "barcelona transfer news: truth behind psg defender willian pacho rumour revealed",
-    "nuno espirito santo is sacked as former newcastle star set to take over at west "
+    "nuno espirito santo is sacked as former newcastle star set to take over at west ",
+    "report: christoph kresse set to replace nils schmadtke as bayern munich\u2019s chief "
   ],
   "tg_update_offset": 263617426,
   "photos": {

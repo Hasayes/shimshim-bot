@@ -1,7 +1,5 @@
 {
   "sent": [
-    "2bda913a2006651a9ed1bc2d3c22586b",
-    "8bf92ee5401ccc64d677249ad250ec23",
     "03d06f4ca42d8851d50993c5b508d2c0",
     "743055e71d4965440fd04d7a51947fdf",
     "a4b7a91bb176fed13f1cfa31b6c85813",
@@ -1499,7 +1497,9 @@
     "tg:FabrizioRomanoTG/68015",
     "6e0080ed773e7f8b77ca3ae6fa6c1a8c",
     "0bfe15c7bf56b3fb0b740d77728e0d98",
-    "83b3e09f5f568074e9dec0f43e330f81"
+    "83b3e09f5f568074e9dec0f43e330f81",
+    "9dd0cb258620d05fb9a3a24dcdcc50b9",
+    "9a03c83f2ba8ef1cade3fe73f2f1814e"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1849,7 +1849,8 @@
     "joseph -> arsenal": 2,
     "alaba -> udinese": 2,
     "okafor -> milan": 1,
-    "jesus -> arsenal": 1
+    "jesus -> arsenal": 1,
+    "gabriel -> real madrid": 1
   },
   "interest": [
     "interest: alvarez -> arsenal",
@@ -2113,8 +2114,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "\ud83e\ude75 \ud83e\udd0d napoli beat bodo at home with mctominay\u2019s brace! who\u2019s been your man of the ",
-    "\ud83d\udd34 \ud83d\udd35 \ud83d\udcab official: desire doue wins uefa man of the match award for psg barca https",
     "florian wirtz: germany right back shocked by liverpool star and wants to play wi",
     "fabrizio romano reveals chelsea \u2018contacts\u2019 with \u00a3100m star\u2019s agent as liverpool ",
     "\u201cone to watch for 2027\u201d \u2013 romano issues latest transfer update on defensive live",
@@ -2412,7 +2411,9 @@
     "\ud83d\udea8 jj gabriel and real madrid: leading the race since september, ready to make it",
     "rayan ait nouri: man united receive positive update in january pursuit of man ci",
     "issue emerges with one of five manchester united manager candidates",
-    "real madrid on verge of signing manchester united wonderkid as barcelona drop ou"
+    "real madrid on verge of signing manchester united wonderkid as barcelona drop ou",
+    "man utd: jj gabriel travels to finalise transfer as romano makes \u2018done deal\u2019 cla",
+    "transfer rumors, news: arsenal want atletico madrid winger"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2717,7 +2718,7 @@
     "david alaba": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg/330px-20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "vincent joseph": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

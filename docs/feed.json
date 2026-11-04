@@ -1,5 +1,29 @@
 [
  {
+  "id": "9dd0cb258620d05fb9a3a24dcdcc50b9",
+  "ts": "2026-11-04T21:15:39+00:00",
+  "kind": "deal",
+  "photo": "",
+  "stage": "Here we go",
+  "player": "JJ Gabriel",
+  "position": "\u2014",
+  "age": "\u2014",
+  "from_club": "Manchester United",
+  "to_club": "Real Madrid",
+  "fee": "\u2014",
+  "style": "\u2014",
+  "fit": "\u2014",
+  "source": "Fabrizio Romano",
+  "sources": [
+   "Fabrizio Romano"
+  ],
+  "srcTier": "tier1",
+  "summary": "JJ Gabriel is travelling to finalise his transfer to Real Madrid from Manchester United, with Fabrizio Romano claiming the deal is done.",
+  "outlet": "football365",
+  "url": "https://www.football365.com/news/man-utd-jj-gabriel-travels-finalise-transfer-romano-makes-done-deal-claim",
+  "title": "Man Utd: JJ Gabriel travels to finalise transfer as Romano makes \u2018done deal\u2019 claim \u2013 \u2018they are way ahead\u2019"
+ },
+ {
   "id": "78629bcf39098c081610c3245eb6d527",
   "ts": "2026-10-23T18:15:39+00:00",
   "kind": "deal",

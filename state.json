@@ -1,6 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/65929",
     "f6e13aca8ab7475ad50d0a01465b6a16",
     "74924f6607201e5707437fdb7733d399",
     "d8127796d6138af501b7dbe6e0e9afc6",
@@ -1499,7 +1498,8 @@
     "tg:FabrizioRomanoTG/68045",
     "14d6571236139e1436925001f3a2909c",
     "d0581d707fd9c9ca8edccb5183cbf57f",
-    "3cf2b2b7670bd307d034825cdf85bd79"
+    "3cf2b2b7670bd307d034825cdf85bd79",
+    "tg:FabrizioRomanoTG/68059"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2114,7 +2114,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "'officially signed' fabrizio romano issues shock agent update for \u00a340m brighton ",
     "liverpool are keeping a keen eye on this ligue 1 midfielder: should iraola move ",
     "man united linked managers and boss 'loved by club chief\u2019 as michael carrick pre",
     "\ud83d\udea8 thibaut courtois: \u201ci want to retire here at real madrid\u201d \u201ci am close to signin",
@@ -2413,7 +2412,8 @@
     "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 barcelona, set to unveil raphinha\u2019s new deal until june 2030 after documen",
     "real madrid reach verbal agreement to sign manchester united wonderkid jj gabrie",
     "unai emery in \u2018advanced talks\u2019 as choice between man utd, aston villa made",
-    "unai emery reaches decision on joining man utd as aston villa release statement"
+    "unai emery reaches decision on joining man utd as aston villa release statement",
+    "\ud83d\udd35 \ud83d\udd34 \ud83c\udde7\ud83c\uddf7 official: raphinha signs new deal at barcelona valid until june 2030 \ud83d\udd10 ht"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2718,7 +2718,7 @@
     "david alaba": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg/330px-20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "vincent joseph": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

@@ -1,6 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/65934",
     "tg:FabrizioRomanoTG/65935",
     "tg:FabrizioRomanoTG/65936",
     "49b49b27eebbaba38ab581be5e7e22d1",
@@ -1499,7 +1498,8 @@
     "tg:FabrizioRomanoTG/68063",
     "tg:FabrizioRomanoTG/68064",
     "89935499dda21046936caba26e99d331",
-    "822a6366282de54862acca8433a474af"
+    "822a6366282de54862acca8433a474af",
+    "tg:FabrizioRomanoTG/68065"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2114,7 +2114,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "\ud83d\udea8 \u26aa\ufe0f arda guler has signed his contract at real madrid valid for the next five y",
     "tielemans gives brutal verdict on what is going wrong at man united after como d",
     "transfer rumors, news: man united consider defensive clearout in summer",
     "agent wants \u00a3100m star to join liverpool \u2013 report",
@@ -2413,7 +2412,8 @@
     "\ud83d\udea8 \ud83c\uddf5\ud83c\uddf9 official: portuguese federation confirm plan for a special farewell dedicat",
     "\ud83d\udea8 \ud83c\udde7\ud83c\uddf7 raphinha: \u201cif ancelotti wants to count on me, he knows he has to manage my ",
     "\u2b50\ufe0f \ud83c\uddea\ud83c\uddfa official: uefa release champions league team of the week for matchday 4 ht",
-    "bayern munich news: was fc bayern scouting atletico madrid star during ucl match"
+    "bayern munich news: was fc bayern scouting atletico madrid star during ucl match",
+    "rt @goldcup : \ud83d\udea8 \ud83c\udfc6 the rumors are confirmed! gold cup will have a whole new forma"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2718,7 +2718,7 @@
     "david alaba": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg/330px-20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "vincent joseph": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

@@ -1,6 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/65927",
     "tg:FabrizioRomanoTG/65928",
     "tg:FabrizioRomanoTG/65929",
     "f6e13aca8ab7475ad50d0a01465b6a16",
@@ -1499,7 +1498,8 @@
     "7bb3cd705b2f4917c7c193dcee860db4",
     "35895bba62e1c56e8990585786ea8ab1",
     "tg:FabrizioRomanoTG/68045",
-    "14d6571236139e1436925001f3a2909c"
+    "14d6571236139e1436925001f3a2909c",
+    "d0581d707fd9c9ca8edccb5183cbf57f"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2114,7 +2114,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "\ud83d\udea8 mikel arteta on saka\u2019s injury: \u201cthe medical staff is a bit worried and that\u2019s ",
     "liverpool dreams of signing mexican sensation dwindle as euro big guns intensify",
     "'officially signed' fabrizio romano issues shock agent update for \u00a340m brighton ",
     "liverpool are keeping a keen eye on this ligue 1 midfielder: should iraola move ",
@@ -2413,7 +2412,8 @@
     "\u2018it was painful\u2019: liverpool star reveals what club told him about his future",
     "man utd: ineos react to real madrid \u2018winning race\u2019 to sign jj gabriel",
     "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 barcelona, set to unveil raphinha\u2019s new deal until june 2030 after documen",
-    "real madrid reach verbal agreement to sign manchester united wonderkid jj gabrie"
+    "real madrid reach verbal agreement to sign manchester united wonderkid jj gabrie",
+    "unai emery in \u2018advanced talks\u2019 as choice between man utd, aston villa made"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2718,7 +2718,7 @@
     "david alaba": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg/330px-20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "vincent joseph": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

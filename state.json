@@ -1,7 +1,5 @@
 {
   "sent": [
-    "49b49b27eebbaba38ab581be5e7e22d1",
-    "9d3a9e62b2268e14759e0b54cf2db8b4",
     "022f061ce9a138fac5ad09fa7223d6f2",
     "tg:FabrizioRomanoTG/65938",
     "9ce6b2e707ae7a58429f300fc65f969c",
@@ -1499,7 +1497,9 @@
     "822a6366282de54862acca8433a474af",
     "tg:FabrizioRomanoTG/68065",
     "356c762bd882833f9c08eb3d60262598",
-    "c774a245b951a72b9199d579bd9ba33c"
+    "c774a245b951a72b9199d579bd9ba33c",
+    "f6da3aebfe0e388f203a9ade40d49faa",
+    "d80d9399ffefc574c1373f4ec086e4bd"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2114,8 +2114,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "agent wants \u00a3100m star to join liverpool \u2013 report",
-    "como, suwarso: 'the deal for sucic was done, but the costs weren\u2019t worth it here",
     "\u26aa\ufe0f \ud83c\uddf9\ud83c\uddf7 arda guler signs new deal valid until june 2032 all done and sealed \u2b50\ufe0f htt",
     "antonio conte to man utd talks on as serial winner makes huge demand",
     "romano reveals man utd decision on immediately sacking carrick as ineos reach \u2018o",
@@ -2413,7 +2411,9 @@
     "bayern munich news: was fc bayern scouting atletico madrid star during ucl match",
     "rt @goldcup : \ud83d\udea8 \ud83c\udfc6 the rumors are confirmed! gold cup will have a whole new forma",
     "not van dijk: liverpool face major decision over the future of experienced super",
-    "swap deal involving barcelona homegrown star and inter milan defender was never "
+    "swap deal involving barcelona homegrown star and inter milan defender was never ",
+    "barcelona not pursuing chelsea wonderkid despite recent transfer speculation",
+    "carrick sack at man utd could be aborted as ornstein names three game changing f"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2718,7 +2718,7 @@
     "david alaba": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg/330px-20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "vincent joseph": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

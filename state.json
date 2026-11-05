@@ -1,6 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/65916",
     "tg:FabrizioRomanoTG/65917",
     "tg:FabrizioRomanoTG/65919",
     "tg:FabrizioRomanoTG/65920",
@@ -1499,7 +1498,8 @@
     "e8679a0dd1790c9075bffa1b3246eeeb",
     "41aa87f2ccb9c01845bf6f55e8b58780",
     "e3e5ef387d2034204450654d0c24d3a8",
-    "da280ccd8c79d5935fc51661deba4a0f"
+    "da280ccd8c79d5935fc51661deba4a0f",
+    "d5872c1e199ef20830cc43dd676d9166"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2114,7 +2114,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83d\udd25 raphinha: \u201cthere are big chances of meeting psg on our way again in ucl this",
     "\ud83d\udea8 \u26a0\ufe0f dani olmo will miss el clasico due to injury, tests have confirmed \u274c barcel",
     "\ud83d\udd35 \u26aa\ufe0f brighton striker georginio rutter has officially signed with unique sports ",
     "bayern munich news: chelsea star not on fc bayern\u2019s radar; erik ten hag lays out",
@@ -2413,7 +2412,8 @@
     "jj gabriel transfer news: real madrid close in on manchester united wonderkid fo",
     "jj gabriel transfer race tilts towards real madrid after verbal agreement",
     "real madrid emerge as frontrunners to sign manchester united wonderkid jj gabrie",
-    "man utd transfer news: united make breakthrough in january left back pursuit but"
+    "man utd transfer news: united make breakthrough in january left back pursuit but",
+    "real madrid make progress in pursuit of jj gabriel, manchester united\u2019s 2010 bor"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2718,7 +2718,7 @@
     "david alaba": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg/330px-20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "vincent joseph": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

@@ -1,6 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/65925",
     "tg:FabrizioRomanoTG/65926",
     "tg:FabrizioRomanoTG/65927",
     "tg:FabrizioRomanoTG/65928",
@@ -1499,7 +1498,8 @@
     "bbf508739d690f769784ff68611afe28",
     "626600688b9ffcce5abd6c485fb5fd01",
     "7bb3cd705b2f4917c7c193dcee860db4",
-    "35895bba62e1c56e8990585786ea8ab1"
+    "35895bba62e1c56e8990585786ea8ab1",
+    "tg:FabrizioRomanoTG/68045"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2114,7 +2114,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "media go nuts over \u2018majestic\u2019 liverpool ace rio ngumoha after champions league m",
     "transfer rumors, news: manchester united keen on palace duo",
     "\ud83d\udea8 mikel arteta on saka\u2019s injury: \u201cthe medical staff is a bit worried and that\u2019s ",
     "liverpool dreams of signing mexican sensation dwindle as euro big guns intensify",
@@ -2413,7 +2412,8 @@
     "\ud83e\udd11 juve milan transfer targets, chiesa and lotito updates: today's news \ud83d\udd25",
     "real madrid want electric liverpool forward who is a \u2018formula one car\u2019",
     "\u2018it was painful\u2019: liverpool star reveals what club told him about his future",
-    "man utd: ineos react to real madrid \u2018winning race\u2019 to sign jj gabriel"
+    "man utd: ineos react to real madrid \u2018winning race\u2019 to sign jj gabriel",
+    "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 barcelona, set to unveil raphinha\u2019s new deal until june 2030 after documen"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2718,7 +2718,7 @@
     "david alaba": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg/330px-20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "vincent joseph": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

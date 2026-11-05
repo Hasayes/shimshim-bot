@@ -1,6 +1,5 @@
 {
   "sent": [
-    "f9237fc5aafdac8f0b5fdcc67733fd53",
     "485a25e22cda81ece3d99b3d6d1cb1e2",
     "tg:FabrizioRomanoTG/65924",
     "tg:FabrizioRomanoTG/65925",
@@ -1499,7 +1498,8 @@
     "25e5b115606204a8c43bce211421b15f",
     "b8ac9339dee617f937757259997297f2",
     "0dc07da0eaa84882a9e620745a9df367",
-    "bbf508739d690f769784ff68611afe28"
+    "bbf508739d690f769784ff68611afe28",
+    "626600688b9ffcce5abd6c485fb5fd01"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2114,7 +2114,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "fabrizio romano confirms liverpool want to sign african superstar",
     "fabrizio romano drops key rio ngumoha contract update after electric liverpool d",
     "here we go, fabrizio romano confirms massive liverpool transfer is coming",
     "media go nuts over \u2018majestic\u2019 liverpool ace rio ngumoha after champions league m",
@@ -2413,7 +2412,8 @@
     "real madrid make progress in pursuit of jj gabriel, manchester united\u2019s 2010 bor",
     "real madrid beat bayern, barcelona and psg to jj gabriel signing with january mo",
     "jj gabriel: ornstein confirms man utd starlet\u2019s next destination, exit date with",
-    "\ud83e\udd11 juve milan transfer targets, chiesa and lotito updates: today's news \ud83d\udd25"
+    "\ud83e\udd11 juve milan transfer targets, chiesa and lotito updates: today's news \ud83d\udd25",
+    "real madrid want electric liverpool forward who is a \u2018formula one car\u2019"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2718,7 +2718,7 @@
     "david alaba": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg/330px-20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "vincent joseph": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

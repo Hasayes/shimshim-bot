@@ -1,6 +1,5 @@
 {
   "sent": [
-    "2d770e1d1d46a81fe39239f7a28e11a3",
     "2c769a832c0740285c22958fab103991",
     "tg:FabrizioRomanoTG/65942",
     "tg:FabrizioRomanoTG/65943",
@@ -1499,7 +1498,8 @@
     "ea6f41c36535de83f622bc7b409397b2",
     "ca0fa47f7fb4ce86ddd5593367e76fd5",
     "8c0ec659b9d2886615e695a8117820b2",
-    "d1d4938bfcac76552c4a5fffafca00a2"
+    "d1d4938bfcac76552c4a5fffafca00a2",
+    "dd7ab50ada0a06b3277ec7ccdafd148e"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2114,7 +2114,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83c\udde6\ud83c\uddf7 emi buendia, set to sign new contract at aston villa: agreement reached \ud83d\udc9c \ud83d\udc99",
     "\ud83d\udea8 \ud83c\uddee\ud83c\uddf9 breaking: antonio conte clarifies his future \u201cmy name has been linked with ",
     "liverpool news: trent alexander arnold tipped for rival transfer as chelsea batt",
     "romano: milan closing in on signing of okafor \u2013 medical booked for",
@@ -2413,7 +2412,8 @@
     "man utd explore legal action as jj gabriel saga takes new twist",
     "juve's 2007 born target, lautaro back \ud83e\udd15 and roma title coup: morning news \u2600\ufe0f",
     "jj gabriel: romano reveals real madrid internal verdict on man utd \u2018legal battle",
-    "manchester united manager latest: no interim planned should club decide to sack "
+    "manchester united manager latest: no interim planned should club decide to sack ",
+    "kane becomes highest paid footballer in europe after new deal"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2718,7 +2718,7 @@
     "david alaba": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg/330px-20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "vincent joseph": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

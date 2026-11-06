@@ -1,6 +1,5 @@
 {
   "sent": [
-    "58719e48c714b8472fe8da227c2dfbd0",
     "e2ba434aab646dd91c9b8e2af9536902",
     "2eef0d63de188413577aa7ee2d5ddf5f",
     "c922241861fe1c4e6f18659abaf16a69",
@@ -1499,7 +1498,8 @@
     "tg:FabrizioRomanoTG/68068",
     "71f5e08ea94914727b7bb80b177663ad",
     "5ac8589ac6a1f9fd12c8718f50b9358d",
-    "c5840b3774858d982d3c056276281a59"
+    "c5840b3774858d982d3c056276281a59",
+    "c1e8dcddf14f663c2d4a10dec0674f3f"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2114,7 +2114,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "mykhaylo mudryk to arsenal transfer rumor",
     "real madrid prepare \u20ac60m offer for chelsea's kai havertz",
     "\ud83d\udea8 bayern club statement on vincent kompany health conditions vincent kompany had",
     "\u201ccompleted\u201d \u2013 fabrizio romano provides update on chelsea & arsenal transfer targ",
@@ -2413,7 +2412,8 @@
     "\ud83d\udea8 \ud83d\udca3 jj gabriel and real madrid, deal set to be sealed: the 16 year old talent\u2019s ",
     "barcelona could face premier league competition for 25 year old la liga defender",
     "rensch injury details confirmed after early substitution in manchester united de",
-    "harry kane signs new, lucrative contract at bayern through 2029"
+    "harry kane signs new, lucrative contract at bayern through 2029",
+    "aston villa explore ambitious move for barcelona star as emery makes his interes"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2718,7 +2718,7 @@
     "david alaba": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg/330px-20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "vincent joseph": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

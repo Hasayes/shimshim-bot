@@ -1,7 +1,5 @@
 {
   "sent": [
-    "45473e65f61fb97ef84c15b2c0b81a6d",
-    "2e8cb935792e339c1420c7ffdc8dc404",
     "c30299a4e0673edfe81a289c97c57802",
     "f58e4316f287ed377573a39c43a0caff",
     "9c0b5f3c4a71ffe3a4e561679c632e09",
@@ -1499,7 +1497,9 @@
     "d9672c6fb37f2b50bfe78300e6ba19ca",
     "077dcb327f851aa5a10b73dd7579a5a9",
     "9d3de9e02267fc03ac901dfee8e1a16b",
-    "45e6574e51b8c22fa656d81200b286ec"
+    "45e6574e51b8c22fa656d81200b286ec",
+    "d0b6415d092d3e50a45079a350f5064b",
+    "tg:FabrizioRomanoTG/68093"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -1850,7 +1850,7 @@
     "alaba -> udinese": 2,
     "okafor -> milan": 1,
     "jesus -> arsenal": 1,
-    "gabriel -> real madrid": 1
+    "gabriel -> real madrid": 2
   },
   "interest": [
     "interest: alvarez -> arsenal",
@@ -2114,8 +2114,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "\ud83d\udd35 \ud83d\udd34 barcelona plan talks with gerard martin over new long term contract \ud83c\uddea\ud83c\uddf8 hansi",
-    "\ud83d\udd35 \ud83c\udfc6 xabi alonso: \u201cwe want to get back to winning\u201d \u201cchelsea has won champions lea",
     "man utd learn how to complete dream fabian hurzeler hire despite initial rejecti",
     "fabian hurzeler to man utd back on as \u20ac50m winger bid prepared",
     "vivell reaches decision on sacking carrick as man utd contact two managers",
@@ -2413,7 +2411,9 @@
     "real madrid to complete signing of teenage starlet soon \u2013 romano",
     "official notification ends the debate: manchester united player puts one foot in",
     "bayern munich determined to block real madrid\u2019s pursuit of attacking superstar w",
-    "raphinha puts barcelona success ahead of individual awards"
+    "raphinha puts barcelona success ahead of individual awards",
+    "transfer: jj gabriel reveals final decision on next club after leaving man utd",
+    "\u2764\ufe0f \ud83d\udc99 \ud83c\uddeb\ud83c\uddf7 joao neves: \u201cit\u2019s not a goal for me to move to spain or england, la liga"
   ],
   "tg_update_offset": 263617426,
   "photos": {

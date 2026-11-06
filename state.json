@@ -1,6 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/65942",
     "tg:FabrizioRomanoTG/65943",
     "4d9a6a8d418ab36d2e2c6d23a752cb0b",
     "6c82fa8118e0f8fb2b0fe601dab4a796",
@@ -1499,7 +1498,8 @@
     "8c0ec659b9d2886615e695a8117820b2",
     "d1d4938bfcac76552c4a5fffafca00a2",
     "dd7ab50ada0a06b3277ec7ccdafd148e",
-    "a8f12346d7b7464f6faca12a5387c30f"
+    "a8f12346d7b7464f6faca12a5387c30f",
+    "tg:FabrizioRomanoTG/68068"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2114,7 +2114,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "liverpool news: trent alexander arnold tipped for rival transfer as chelsea batt",
     "romano: milan closing in on signing of okafor \u2013 medical booked for",
     "report: rb leipzig close to signing manchester city target david raum",
     "\u201cofficial bid\u201d: chelsea set to battle with psg for manuel ugarte",
@@ -2413,7 +2412,8 @@
     "jj gabriel: romano reveals real madrid internal verdict on man utd \u2018legal battle",
     "manchester united manager latest: no interim planned should club decide to sack ",
     "kane becomes highest paid footballer in europe after new deal",
-    "arsenal want two bournemouth stars but man utd could snatch one \u2013 exclusive"
+    "arsenal want two bournemouth stars but man utd could snatch one \u2013 exclusive",
+    "\ud83d\udea8 \ud83d\udca3 jj gabriel and real madrid, deal set to be sealed: the 16 year old talent\u2019s "
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2718,7 +2718,7 @@
     "david alaba": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg/330px-20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "vincent joseph": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

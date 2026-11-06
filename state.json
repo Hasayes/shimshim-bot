@@ -1,6 +1,5 @@
 {
   "sent": [
-    "c922241861fe1c4e6f18659abaf16a69",
     "16e066b7d51100d9f590065d96669c16",
     "50c7feaf876a54da0eaed9a3a7df270a",
     "a1fb99339bac72c5c65f4af571bd45da",
@@ -1499,7 +1498,8 @@
     "c5840b3774858d982d3c056276281a59",
     "c1e8dcddf14f663c2d4a10dec0674f3f",
     "tg:FabrizioRomanoTG/68075",
-    "d67d33d19e5885d062d37c946abb2be6"
+    "d67d33d19e5885d062d37c946abb2be6",
+    "tg:FabrizioRomanoTG/68083"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2114,7 +2114,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "\u201ccompleted\u201d \u2013 fabrizio romano provides update on chelsea & arsenal transfer targ",
     "gabriel jesus to arsenal 100% done: 5 year deal in place",
     "real madrid forward target tipped for future la liga move: \u2018has that dream\u2019",
     "liverpool news: \u00a347m transfer target 'tracked' as ex red could complete shock 'b",
@@ -2413,7 +2412,8 @@
     "harry kane signs new, lucrative contract at bayern through 2029",
     "aston villa explore ambitious move for barcelona star as emery makes his interes",
     "\ud83d\udea8 \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f official: cole palmer, left out of the england squad thomas tuchel dec",
-    "update: dani olmo wants to stay at fc barcelona despite ongoing"
+    "update: dani olmo wants to stay at fc barcelona despite ongoing",
+    "\ud83d\udea8 michael carrick: \u201cthe first half against roma wasn't so bad the first half aga"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2718,7 +2718,7 @@
     "david alaba": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg/330px-20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "vincent joseph": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

@@ -1,7 +1,5 @@
 {
   "sent": [
-    "93eac1a16a49e3aad2e0ef27492bb3d4",
-    "b89ec86d453adc266f31bfc79ccd8dee",
     "6a9557d8dfc041cce592987ad764c2f6",
     "2104eaab9c35077b8d50d311dea221cc",
     "b9a0555a13d4ffd1ddd75372e3d89c3d",
@@ -1499,7 +1497,9 @@
     "0ffbd84fd7b05412f7c8e810f4a464ff",
     "7ccd6f5aba103da63917d61558e33424",
     "67083feed2c08a8356b0429048a4d431",
-    "6854534ceb5c8bd8b8fb3386e5c5ceaa"
+    "6854534ceb5c8bd8b8fb3386e5c5ceaa",
+    "874cad4107cb1dfaff61ced76ec3d17b",
+    "f463ae6a7755dcb5faf0f300a2aa77c8"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2114,7 +2114,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "\ud83d\udea8 official: barcelona starting xi joan garcia; xavi espart, cubarsi, gerard mart",
     "dortmund to reward fans for keeping phones locked during matches",
     "arsenal transfer news: julian alvarez apology offers fresh hope amid barcelona c",
     "transfer rumors, news: arsenal, man united, liverpool track bayern star karl",
@@ -2413,7 +2412,8 @@
     "jj gabriel 'close' to sealing madrid move, liverpool target valverde euro transf",
     "man utd: fabrizio romano \u2018expects\u2019 january signing and major exit in 2027",
     "barcelona facing january transfer dilemma! catalan giants explore loan deals and",
-    "unai emery confirms new contract talks with aston villa espn singapore"
+    "unai emery confirms new contract talks with aston villa espn singapore",
+    "bayern munich news: why fc bayern wants oskar pietuszewski; liverpool, fc barcel"
   ],
   "tg_update_offset": 263617426,
   "photos": {

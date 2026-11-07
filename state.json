@@ -1,7 +1,5 @@
 {
   "sent": [
-    "5b57f4fd7850eb18017b277368c208eb",
-    "1daafa04caa8b68c236e63cde74633f0",
     "0c1a2e70397cda78d8cb6937a33cc917",
     "bcdcba3eb0917c504ce8c2c0ed7098ac",
     "72c96a90fd061bcd0458dd502024f7e0",
@@ -1499,7 +1497,9 @@
     "tg:FabrizioRomanoTG/68093",
     "6d6bb11f13651817dd35a72c376721f2",
     "3b23371af7aae6fcb8e4299d0144e300",
-    "7e4c474c75ef1aeb91efc05ecddc7d13"
+    "7e4c474c75ef1aeb91efc05ecddc7d13",
+    "fe82a7cc2b12fc6556098fa7015a2a28",
+    "dcc6dfa6ebe375c2ca7eddadb4682428"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2114,8 +2114,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "\ud83d\udfe3 \ud83d\udd35 aston villa beat man city with jackson brace! first defeat in premier league",
-    "borussia dortmund news and rumours: united and roma come calling! will borussia ",
     "sky reporter issues game changing update on who the next man united boss could b",
     "\ud83d\udea8 \ud83c\uddeb\ud83c\uddf7 official: eli junior kroupi has decided to represent france as national tea",
     "rooney blasts man united stars, brands them \u2018selfish babies\u2019",
@@ -2413,7 +2411,9 @@
     "\u2764\ufe0f \ud83d\udc99 \ud83c\uddeb\ud83c\uddf7 joao neves: \u201cit\u2019s not a goal for me to move to spain or england, la liga",
     "liverpool delivered blow over dream attacking target for andoni iraola",
     "de laurentiis arrives for napoli crisis talks as allegri faces growing scrutiny",
-    "mourinho wants atletico, barca to lose, reacts to ronaldo\u2019s retirement"
+    "mourinho wants atletico, barca to lose, reacts to ronaldo\u2019s retirement",
+    "fabrizio romano confirms big man utd deal for january \u2013 \u2018here we go coming\u2019",
+    "man utd: alejandro balde decides destination as ineos find out terms of january "
   ],
   "tg_update_offset": 263617426,
   "photos": {

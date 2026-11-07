@@ -1,7 +1,5 @@
 {
   "sent": [
-    "ac80b0b26ed3fd7a16c6ec7c9572753d",
-    "d6c4de91b2c3be6480728f889f311576",
     "f83e6c416efafe4200a69986e9f16268",
     "93eac1a16a49e3aad2e0ef27492bb3d4",
     "b89ec86d453adc266f31bfc79ccd8dee",
@@ -1499,7 +1497,9 @@
     "a95a487d8b9eeb4d538d63c11aa004b7",
     "bbdbd1c359be0e5078065a1b863d6a93",
     "6090b51beaf9eab47831eb5ea568be45",
-    "0ffbd84fd7b05412f7c8e810f4a464ff"
+    "0ffbd84fd7b05412f7c8e810f4a464ff",
+    "7ccd6f5aba103da63917d61558e33424",
+    "67083feed2c08a8356b0429048a4d431"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2114,7 +2114,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "\ud83d\udea8 bayern\u2019s uli hoene\u00df on olise and real madrid: \u201cthat's all nonsense michael has",
     "\ud83d\udea8 official: real madrid starting xi lunin; valverde, konate, huijsen, cucurella;",
     "\ud83d\udea8 official: barcelona starting xi joan garcia; xavi espart, cubarsi, gerard mart",
     "dortmund to reward fans for keeping phones locked during matches",
@@ -2413,7 +2412,8 @@
     "ballon d'or 2027: raphinha speaks on winning next award",
     "man utd january transfer set for \u2018here we go\u2019 as romano confirms advanced talks",
     "jj gabriel 'close' to sealing madrid move, liverpool target valverde euro transf",
-    "man utd: fabrizio romano \u2018expects\u2019 january signing and major exit in 2027"
+    "man utd: fabrizio romano \u2018expects\u2019 january signing and major exit in 2027",
+    "barcelona facing january transfer dilemma! catalan giants explore loan deals and"
   ],
   "tg_update_offset": 263617426,
   "photos": {

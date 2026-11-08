@@ -1,7 +1,5 @@
 {
   "sent": [
-    "338026d85dbf248791f84f75dfe70aa8",
-    "66168375928592f1f1379ca75b91fd95",
     "b84f7a68fe7a5921218cc93807cdc60a",
     "7315a8678a7bc5be7087e94d2cc9f08a",
     "168d755c34c681a3d9b852a1623be404",
@@ -1499,7 +1497,9 @@
     "1caa587b332c8f17b9287025382542fc",
     "e20e2ae0c57e12ae302d85186cd66c23",
     "63093c69cf9cec7fee9dc95073ec27b2",
-    "70f9f8b73cb323488b7ad32cf62cbe06"
+    "70f9f8b73cb323488b7ad32cf62cbe06",
+    "a477f3f2ac3ab1ae3a28f9799e2ad7ab",
+    "89518ca3a7d1c0684142478ecf062db2"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2114,7 +2114,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "\ud83d\udea8 official: nuno mendes, 23rd at ballon d\u2019or 2026 \u2014 fabrizio romano ( @fabrizior",
     "\ud83d\udea8 official: lautaro martinez, 22nd at ballon d\u2019or 2026 \u2014 fabrizio romano ( @fabr",
     "\ud83d\udea8 official: gabriel magalhaes, 21st at ballon d\u2019or 2026 \u2014 fabrizio romano ( @fab",
     "\ud83d\udea8 official: willian pacho, 20th at ballon d\u2019or 2026 \u2014 fabrizio romano ( @fabrizi",
@@ -2413,7 +2412,8 @@
     "\u2018our player\u2019\u2014como chief reveals nico paz stance amid real madrid return speculat",
     "real madrid transfer news: jj gabriel chooses los blancos over barcelona, psg an",
     "transfer rumors: van dijk wants barcelona move; man utd to offload dalot",
-    "liverpool to make different decisions on alisson, van dijk with one staying, oth"
+    "liverpool to make different decisions on alisson, van dijk with one staying, oth",
+    "bayern munich news: the aftermath of fc bayern\u2019s 2 1 win over mainz; arsenal wan"
   ],
   "tg_update_offset": 263617426,
   "photos": {

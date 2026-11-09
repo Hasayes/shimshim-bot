@@ -1,7 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/65971",
-    "196b2d9f7b8be17ae1d64ab9cf7a8517",
     "91548301d2bb300bc0d5d7401acbcb57",
     "tg:FabrizioRomanoTG/65973",
     "a709cd1c1b8f464e56314488ff26d35e",
@@ -1499,7 +1497,9 @@
     "tg:FabrizioRomanoTG/68141",
     "tg:FabrizioRomanoTG/68143",
     "tg:FabrizioRomanoTG/68144",
-    "tg:FabrizioRomanoTG/68145"
+    "tg:FabrizioRomanoTG/68145",
+    "tg:FabrizioRomanoTG/68148",
+    "tg:FabrizioRomanoTG/68149"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2114,8 +2114,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "\ud83c\udfc6 \u2728 official: lamine yamal wins best young talent award at ballon d\u2019or 2026 http",
-    "\ud83c\udfc6 \u2728 official: luis de la fuente wins best manager of the year award at ballon d\u2019",
     "\ud83c\udfc6 \u2728 official: unai simon wins best goalkeeper award at 2026 ballon d\u2019or https://",
     "man utd: barcelona media react to alejandro balde display vs real madrid",
     "\ud83c\udfc6 \u2728 official: bukayo saka wins socrates award for fair play at ballon d\u2019or 2026 ",
@@ -2413,7 +2411,9 @@
     "\ud83d\udea8 michael carrick confirmed he won\u2019t resign: \u201cit\u2019s not going to happen\u201d \u201cwe have",
     "\ud83d\udea8 \ud83c\uddea\ud83c\uddf8 official: jose mourinho wins the la liga manager of the month award for oct",
     "\ud83d\udea8 \ud83c\uddea\ud83c\uddf8 raul gonzalez blanco signs in as new real oviedo head coach, agreement conf",
-    "\ud83d\udea8 \ud83c\udf15 official: pau cubarsi wins the golden boy award as european best young playe"
+    "\ud83d\udea8 \ud83c\udf15 official: pau cubarsi wins the golden boy award as european best young playe",
+    "\ud83c\udf0e \u2b50\ufe0f official: world team of the year 2026 by fifpro https://t co/jlslxksi0w \u2014 f",
+    "\ud83d\udea8 official: ballon d\u2019or harry kane has been left out of fifpro top 11 of the yea"
   ],
   "tg_update_offset": 263617426,
   "photos": {

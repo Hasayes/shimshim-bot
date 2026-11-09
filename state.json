@@ -1,7 +1,5 @@
 {
   "sent": [
-    "a3169b247898127b745fc4774e98ce1a",
-    "697b559da19b0fe26f20bcecae0bf2c5",
     "tg:FabrizioRomanoTG/65979",
     "tg:FabrizioRomanoTG/65980",
     "tg:FabrizioRomanoTG/65981",
@@ -1499,7 +1497,9 @@
     "tg:FabrizioRomanoTG/68149",
     "tg:FabrizioRomanoTG/68151",
     "c06602c9d4b966ba9d3ebcbcacaed2fe",
-    "2e2dc9e51907eb30e50c3e27757f0d42"
+    "2e2dc9e51907eb30e50c3e27757f0d42",
+    "tg:FabrizioRomanoTG/68160",
+    "tg:FabrizioRomanoTG/68161"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2114,8 +2114,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "\ud83c\udfc6 \u2728 official: paris saint germain win best team of the year award at 2026 ballon",
-    "\ud83c\udfc6 \u2728 official: harry kane wins gerd muller award as best striker at the ballon d\u2019",
     "return to germany? rb leipzig apparently pursuing former bayern munich talent",
     "\ud83d\udea8 \ud83d\udd34 \u26ab\ufe0f ac milan have reached a verbal agreement in principle with christian puli",
     "\ud83d\udea8 official: kylian mbappe, 2nd at the ballon d\u2019or 2026 \u2014 fabrizio romano ( @fabr",
@@ -2413,7 +2411,9 @@
     "\ud83d\udea8 official: ballon d\u2019or harry kane has been left out of fifpro top 11 of the yea",
     "\u2b50\ufe0f \ud83c\uddea\ud83c\uddf8 official: kylian mbappe wins player of the month award for october \ud83d\udd1d https",
     "man utd plot ambitious move to bring in top bayern munich coach to become carric",
-    "man utd: romano reveals dalot january transfer decision after boos from fans"
+    "man utd: romano reveals dalot january transfer decision after boos from fans",
+    "\ud83d\udea8 augsburg defender chrislain matsima confirms he has officially signed with caa",
+    "\ud83d\udea8 manchester united continue internal talks and review behind the scenes about a"
   ],
   "tg_update_offset": 263617426,
   "photos": {

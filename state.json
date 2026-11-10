@@ -1,7 +1,5 @@
 {
   "sent": [
-    "f808a349d0189987d239863a4cad96b4",
-    "c534ccdadb1982af71a342a4005431d0",
     "75c557321f67a33ddf64dd439ae9f2dc",
     "e503e00a6d3d03852b8d96c4c340e9a0",
     "112958d8c8876aea53f3c8d2c9bf5047",
@@ -1499,7 +1497,9 @@
     "tg:FabrizioRomanoTG/68185",
     "tg:FabrizioRomanoTG/68186",
     "6dbbaedc13ffe12f467556a89697ef5b",
-    "448b6dc7066caa2f9ad5f6a33cdb7e0e"
+    "448b6dc7066caa2f9ad5f6a33cdb7e0e",
+    "a611e428008ef2ba2a71dc3703d728b2",
+    "6b04b488b84bee3dc30189ca267bb9ba"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2114,8 +2114,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "\u2018you want me to show you?\u2019 \u2013 got star sophie turner stunned as ballon d\u2019or host ",
-    "christian pulisic reaches \u2018verbal agreement\u2019 with ac milan on new contract after",
     "man utd receive huge eddie howe boost with appointment \u2018easier\u2019 than \u2018dream\u2019 bos",
     "champions league club plot move for rangers target as delegation flies out",
     "barcelona\u2019s late summer move for nicolo tresoldi stalled over \u20ac50m valuation",
@@ -2413,7 +2411,9 @@
     "\ud83d\udea8 \ud83c\uddec\ud83c\udded sturm graz have agreed deal to sign ghana talent araphat mohammed mohammed ",
     "\ud83d\udd34 \u26aa\ufe0f atletico madrid talent gabriel obama has been included in fernando torres\u2019 ",
     "tottenham face tel injury concern amid transfer interest",
-    "how mauricio pochettino really feels about man utd job revealed after michael ca"
+    "how mauricio pochettino really feels about man utd job revealed after michael ca",
+    "bayern munich consider sensational loris karius swoop in post manuel neuer goalk",
+    "man utd next manager: \u2018dream candidate\u2019 says no to replacing carrick as howe tal"
   ],
   "tg_update_offset": 263617426,
   "photos": {

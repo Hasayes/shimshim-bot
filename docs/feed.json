@@ -1,5 +1,53 @@
 [
  {
+  "id": "tg:FabrizioRomanoTG/68254",
+  "ts": "2026-11-14T12:31:01+00:00",
+  "kind": "deal",
+  "photo": "",
+  "stage": "Completed",
+  "player": "Tyler Adjei",
+  "position": "Forward",
+  "age": "16",
+  "from_club": "Reading",
+  "to_club": "Manchester United",
+  "fee": "Undisclosed",
+  "style": "\u2014",
+  "fit": "\u2014",
+  "source": "Fabrizio Romano",
+  "sources": [
+   "Fabrizio Romano"
+  ],
+  "srcTier": "tier1",
+  "summary": "Manchester United have completed their deal to sign 16-year-old forward Tyler Adjei from Reading. All terms accepted with documents to be approved next week.",
+  "outlet": "Telegram @fabrizioromanotg",
+  "url": "https://t.me/FabrizioRomanoTG/68254",
+  "title": "\ud83d\udea8 \ud83d\udd34 Manchester United complete deal to sign Tyler Adjei from Reading \u2014 all done for 16 year old to join #mufc project. T"
+ },
+ {
+  "id": "tg:FabrizioRomanoTG/68235",
+  "ts": "2026-11-14T12:30:54+00:00",
+  "kind": "deal",
+  "photo": "",
+  "stage": "Completed",
+  "player": "Latif Issman",
+  "position": "Midfielder",
+  "age": "19",
+  "from_club": "Logrones",
+  "to_club": "Real Madrid",
+  "fee": "\u2014",
+  "style": "\u2014",
+  "fit": "\u2014",
+  "source": "Fabrizio Romano",
+  "sources": [
+   "Fabrizio Romano"
+  ],
+  "srcTier": "tier1",
+  "summary": "Latif Issman, 19-year-old Ghana midfielder from Logrones, has completed his signing for Real Madrid with a contract until June 2030, initially joining Castilla.",
+  "outlet": "Telegram @fabrizioromanotg",
+  "url": "https://t.me/FabrizioRomanoTG/68235",
+  "title": "\ud83d\udea8 \u26aa\ufe0f Latif Issman has signed for Real Madrid with a deal valid from 2027. 19 year old Ghana midfielder joins from Logron"
+ },
+ {
   "id": "9dd0cb258620d05fb9a3a24dcdcc50b9",
   "ts": "2026-11-06T21:30:42+00:00",
   "kind": "deal",

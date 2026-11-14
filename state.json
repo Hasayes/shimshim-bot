@@ -1,6 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/66078",
     "tg:FabrizioRomanoTG/66079",
     "32e08757432468a81fcd3383e9e9b840",
     "6191884173db03a3ebaeccb8b1e7d978",
@@ -1499,7 +1498,8 @@
     "tg:FabrizioRomanoTG/68241",
     "tg:FabrizioRomanoTG/68254",
     "tg:FabrizioRomanoTG/68257",
-    "tg:FabrizioRomanoTG/68258"
+    "tg:FabrizioRomanoTG/68258",
+    "tg:FabrizioRomanoTG/68260"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2116,7 +2116,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "rt @daznfootball : fabrizio gives the latest on the man utd manager situation wi",
     "chelsea transfer news: real madrid buyback clause and premier league rivals thre",
     "\ud83d\udea8 official: 2026 ballon d\u2019or votes \ud83d\uddf3\ufe0f \ud83e\udd47 harry kane: 1 055 points \ud83e\udd48 kylian mbappe",
     "fabrizio romano delivers man utd striker update after calvert lewin reveal",
@@ -2415,7 +2414,8 @@
     "\ud83c\udde7\ud83c\uddf7 brazilian talent eduardo pape from cruzeiro confirms he has officially signed",
     "\ud83d\udea8 \ud83d\udd34 manchester united complete deal to sign tyler adjei from reading \u2014 all done ",
     "\u26bd\ufe0f \u26bd\ufe0f \ud83c\udde7\ud83c\uddf7 vinicius jr, back to scoring goals for the first time since september (",
-    "\ud83c\udde7\ud83c\uddf7 ronaldinho has arrived for his pre match training session with italian 3rd di"
+    "\ud83c\udde7\ud83c\uddf7 ronaldinho has arrived for his pre match training session with italian 3rd di",
+    "\ud83d\udc55 \ud83c\uddf5\ud83c\uddf9 official: portugal change no7 style on shirt from now on \u2014 as tribute for t"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2720,7 +2720,7 @@
     "david alaba": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg/330px-20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "vincent joseph": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

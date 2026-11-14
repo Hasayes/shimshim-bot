@@ -1,6 +1,5 @@
 {
   "sent": [
-    "36cedafd87b1a7bacdbf28c8e36ded61",
     "tg:FabrizioRomanoTG/66091",
     "tg:FabrizioRomanoTG/66092",
     "tg:FabrizioRomanoTG/66093",
@@ -1499,7 +1498,8 @@
     "3a8a20f29f24de05af30e533904ee928",
     "3f11b57094d80f4487e5235712062045",
     "51071b7cb539fa70203a11cfefb0d448",
-    "0717425e39c6e67fb72c7abf0adc07a0"
+    "0717425e39c6e67fb72c7abf0adc07a0",
+    "79837711f881a9dda6b9386f6d2aea17"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2116,7 +2116,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "barcelona ready to consider january offers for jules kounde amid chelsea interes",
     "transfer rumors, news: man united eye move for calvert lewin in january espn",
     "barcelona launch enquiry for man utd star as decision made on old trafford exit ",
     "major hint over club\u2019s transfer plans could be a worry for liverpool again",
@@ -2415,7 +2414,8 @@
     "bayern munich news: the aftermath of germany\u2019s 3 1 win over serbia; real madrid ",
     "psv make kevin de bruyne's shortlist as belgian considers napoli exit",
     "romano: man utd would be keen to sign nico paz for mauricio pochettino",
-    "pochettino told \u2018damaged\u2019 bruno fernandes is done at man utd as romano delivers "
+    "pochettino told \u2018damaged\u2019 bruno fernandes is done at man utd as romano delivers ",
+    "man utd: romano confirms pochettino first signing \u2018complete\u2019 with deal for \u2018tale"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2720,7 +2720,7 @@
     "david alaba": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg/330px-20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "vincent joseph": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

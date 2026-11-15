@@ -1,6 +1,5 @@
 {
   "sent": [
-    "0bf6a7a4db8785e6ec645675cecfe0ae",
     "36ae22bba7f530e895166a79b1daa854",
     "6da4b5999d94946180acefa8fdfa536f",
     "92cb38b16ead970e71a4f554d24c5166",
@@ -1499,7 +1498,8 @@
     "79837711f881a9dda6b9386f6d2aea17",
     "085026c140db68a24ff9ffd820126800",
     "c3718dae27922894692597e257a383e5",
-    "9c49ca9aa6a24ca768eceffbd4505948"
+    "9c49ca9aa6a24ca768eceffbd4505948",
+    "540727d49039ffd4a7af678c31d74c65"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2116,7 +2116,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "la liga defender begins spanish passport process that could give barcelona major",
     "manchester united make approach to barcelona and atletico madrid to sign two mid",
     "manchester united enquire about moves for barcelona and atletico madrid midfield",
     "calvert lewin reaches decision on joining man utd or signing new leeds deal team",
@@ -2415,7 +2414,8 @@
     "man utd: romano confirms pochettino first signing \u2018complete\u2019 with deal for \u2018tale",
     "man utd sign \u2018athletic\u2019 england youth striker tyler adjei, 16, from reading in f",
     "transfer: man utd complete deal for tyler adjei",
-    "tyler adjei: fabrizio romano confirms united have completed deal to sign striker"
+    "tyler adjei: fabrizio romano confirms united have completed deal to sign striker",
+    "chelsea keen to sign premier league star who could solve key issue for xabi alon"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2720,7 +2720,7 @@
     "david alaba": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg/330px-20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "vincent joseph": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

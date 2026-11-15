@@ -1,6 +1,5 @@
 {
   "sent": [
-    "2829736c9ff7bdbb56960bf77b2e29ca",
     "3f79e82e9a647f5743bd5347d1cae93d",
     "7a65f4ed6964a8c9e60526cd6ae4bd83",
     "16067b65784a2bf1790157a76c57e56e",
@@ -1499,7 +1498,8 @@
     "be37eaeedfe0bd8f78cdbc27ec541347",
     "27cc31faff8b553315129577255a2205",
     "f109ebf962d43e32eb037e6b50f66392",
-    "b6c4ab57c7912f5e7532e693957d755e"
+    "b6c4ab57c7912f5e7532e693957d755e",
+    "2ac7f45840f1445fd1569dc2c0647216"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2116,7 +2116,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "enzo, zidane's son retires from football at 29",
     "\ud83d\udea8 lennart karl\u2019s agent michael ballack: \u201cyou must not conflate that karl's publi",
     "fabrizio romano names the elite tactician \u201cmost appreciated\u201d by the man united b",
     "\ud83d\udea8 \ud83d\udd34 \u26ab\ufe0f ac milan have agreed terms with markus krosche to become new head of foot",
@@ -2415,7 +2414,8 @@
     "portugal redesigns no 7 shirt to immortalise ronaldo\u2019s legacy after retirement",
     "liverpool are eager to land this brighton defender: good option for iraola?",
     "zinedine zidane slams rumors of tension with kylian mbappe: \u2018it\u2019s a shame and qu",
-    "transfer rumors: man utd\u2019s plan for paz; real madrid receive ridiculous guler bi"
+    "transfer rumors: man utd\u2019s plan for paz; real madrid receive ridiculous guler bi",
+    "man utd get green light to seal rayan deal as pochettino's first signing"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2720,7 +2720,7 @@
     "david alaba": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg/330px-20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "vincent joseph": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

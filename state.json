@@ -1,6 +1,5 @@
 {
   "sent": [
-    "16067b65784a2bf1790157a76c57e56e",
     "3cba67fe5ce2dfa24c1ce457fb550bb8",
     "tg:FabrizioRomanoTG/66099",
     "73cc9495e4afe59fa9a65820602df895",
@@ -1499,7 +1498,8 @@
     "b6c4ab57c7912f5e7532e693957d755e",
     "2ac7f45840f1445fd1569dc2c0647216",
     "a4c7465f1d6005b2f039029f87a8260f",
-    "d78c89a5be69fcea188cbee947625d5e"
+    "d78c89a5be69fcea188cbee947625d5e",
+    "tg:FabrizioRomanoTG/68287"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2116,7 +2116,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83d\udd34 \u26ab\ufe0f ac milan have agreed terms with markus krosche to become new head of foot",
     "barcelona midfield mainstay \u2018extremely happy\u2019 and has no intention of leaving am",
     "barcelona reach decision on selling fermin lopez to man utd \u2013 fabrizio romano",
     "barcelona reach decision on selling fermin lopez to man utd \u2013 fabrizio romano te",
@@ -2415,7 +2414,8 @@
     "transfer rumors: man utd\u2019s plan for paz; real madrid receive ridiculous guler bi",
     "man utd get green light to seal rayan deal as pochettino's first signing",
     "kevin de bruyne to psv? belgian newspapers reveal latest developments as winter ",
-    "\u00a3100k per week liverpool player will not accept current role and could leave"
+    "\u00a3100k per week liverpool player will not accept current role and could leave",
+    "\ud83d\udea8 \ud83c\uddea\ud83c\uddf8 official: spain unbeaten run is over after 43 games (and 11 wins in a row) "
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2720,7 +2720,7 @@
     "david alaba": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg/330px-20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "vincent joseph": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

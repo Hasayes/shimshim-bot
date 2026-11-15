@@ -1,6 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/66096",
     "0f2c6e7d6c5bfc497f855810d0aba49a",
     "230ff34d788114d093bc837d560fa082",
     "8520ad2326578e40ac9cd2003c4d11cd",
@@ -1499,7 +1498,8 @@
     "540727d49039ffd4a7af678c31d74c65",
     "49cc16d802626a6affbe3428589991bc",
     "33c96762e4a0a8a6e86a8e5ac1eb519d",
-    "f7eb9c1958c6c7138bfd1116a82e327a"
+    "f7eb9c1958c6c7138bfd1116a82e327a",
+    "428e8c6c3929bcad0349e0ddc2bb3f98"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2116,7 +2116,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "transfer: man utd set to sign two laliga midfielders",
     "dominic calvert lewin reaches decision on joining man utd and leaving leeds unit",
     "man united transfer news: red devils make contact over 'stunning' move for barce",
     "arsenal could sell odegaard amid bayern munich interest",
@@ -2415,7 +2414,8 @@
     "chelsea keen to sign premier league star who could solve key issue for xabi alon",
     "report: arsenal \u2018accelerating\u2019 efforts to sign \u20ac80m rated winger as talks held w",
     "fabrizio romano names the player man united\u2019s new manager pochettino is \u201cobsesse",
-    "martin odegaard breaks silence on arsenal future as captain provides fresh contr"
+    "martin odegaard breaks silence on arsenal future as captain provides fresh contr",
+    "rashford ready for new man utd role, pochettino is obsessed with him"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2720,7 +2720,7 @@
     "david alaba": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg/330px-20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "vincent joseph": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

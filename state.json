@@ -1,7 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/66099",
-    "73cc9495e4afe59fa9a65820602df895",
     "0127e07f0e4a085b703f1f947ac4a71a",
     "tg:FabrizioRomanoTG/66100",
     "tg:FabrizioRomanoTG/66103",
@@ -1499,7 +1497,9 @@
     "a4c7465f1d6005b2f039029f87a8260f",
     "d78c89a5be69fcea188cbee947625d5e",
     "tg:FabrizioRomanoTG/68287",
-    "45f05250cff9d98273db1b365901d111"
+    "45f05250cff9d98273db1b365901d111",
+    "4cf279e2014d5540e839ba26114d4799",
+    "d93a344ae560a07f48e38bc1e686ea9a"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2116,8 +2116,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "barcelona reach decision on selling fermin lopez to man utd \u2013 fabrizio romano",
-    "barcelona reach decision on selling fermin lopez to man utd \u2013 fabrizio romano te",
     "barcelona respond to manchester united's attempt to sign fermin",
     "manchester united target barcelona star fermin lopez after benjamin sesko injury",
     "barcelona want hull city sensation as transfer interest explodes \u2013 exclusive",
@@ -2415,7 +2413,9 @@
     "kevin de bruyne to psv? belgian newspapers reveal latest developments as winter ",
     "\u00a3100k per week liverpool player will not accept current role and could leave",
     "\ud83d\udea8 \ud83c\uddea\ud83c\uddf8 official: spain unbeaten run is over after 43 games (and 11 wins in a row) ",
-    "man utd choose \u00a3125m superstar as first pochettino signing amid romano update"
+    "man utd choose \u00a3125m superstar as first pochettino signing amid romano update",
+    "pochettino in dreamland as \u00a3130m liverpool target admits he \u2018supports\u2019 man utd",
+    "why bruno fernandes has put man utd contract talks on ice for the foreseeable fu"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2720,7 +2720,7 @@
     "david alaba": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg/330px-20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "vincent joseph": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

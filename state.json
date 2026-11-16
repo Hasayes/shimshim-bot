@@ -1,7 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/66115",
-    "tg:FabrizioRomanoTG/66121",
     "tg:FabrizioRomanoTG/66122",
     "tg:FabrizioRomanoTG/66123",
     "tg:FabrizioRomanoTG/66124",
@@ -1499,7 +1497,9 @@
     "d93a344ae560a07f48e38bc1e686ea9a",
     "tg:FabrizioRomanoTG/68288",
     "77cc815e820347a66d9acd1b6d234279",
-    "e3616f236d1458c44a25e065e1ba4d8e"
+    "e3616f236d1458c44a25e065e1ba4d8e",
+    "1077ba5171e8fd92385b7331ab5383cb",
+    "f7cb5e6dbe2ffd709e7f7090e17a6e85"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2116,8 +2116,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "\ud83d\udea8 fermin lopez: \u201cmanchester united links? i don't pay attention to that kind of ",
-    "man utd enquire about toney sunday's gossip",
     "man united ready to target player \u2018fantastic in front of goal\u2019 to replace bruno ",
     "arsenal: mikel arteta delivers major declan rice contract update as \u00a3350k agreem",
     "\ud83d\udea8 \ud83d\udc9a \ud83e\udd0d sporting have agreed deal to appoint paulo fonseca as new head coach, here",
@@ -2415,7 +2413,9 @@
     "why bruno fernandes has put man utd contract talks on ice for the foreseeable fu",
     "\ud83d\udea8 \ud83c\uddea\ud83c\uddf8 pau cubarsi was suffering from hip discomfort and will undergo tests, rfef ",
     "arsenal handed huge declan rice boost as midfielder confirms contract talks",
-    "chelsea table \u00a383m bid for la liga sensation, it\u2019s more than double their 2024 o"
+    "chelsea table \u00a383m bid for la liga sensation, it\u2019s more than double their 2024 o",
+    "real madrid snatch ghanaian gem: lateef issman signs until 2030",
+    "man utd make noussair mazraoui sale decision amid ac milan, juventus interest"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2720,7 +2720,7 @@
     "david alaba": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg/330px-20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "vincent joseph": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

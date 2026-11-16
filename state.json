@@ -1,6 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/66129",
     "tg:FabrizioRomanoTG/66130",
     "tg:FabrizioRomanoTG/66131",
     "tg:FabrizioRomanoTG/66132",
@@ -1499,7 +1498,8 @@
     "tg:FabrizioRomanoTG/68305",
     "tg:FabrizioRomanoTG/68311",
     "tg:FabrizioRomanoTG/68315",
-    "tg:FabrizioRomanoTG/68322"
+    "tg:FabrizioRomanoTG/68322",
+    "tg:FabrizioRomanoTG/68323"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2116,7 +2116,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "barcelona react as man utd \u2018enquire\u2019 about signing fermin lopez",
     "transfer rumors, news: man united meltdown edition who has been linked?",
     "'i want to stay as long as possible': barcelona star dismisses transfer rumours",
     "fermin lopez rules out manchester united move",
@@ -2415,7 +2414,8 @@
     "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 crystal palace appoint thomas frank as new head coach with immediate effec",
     "\ud83d\udea8 breaking news: kerolin to powerade, here we go! https://t co/2svqfm9rdf \u2014 fabr",
     "\ud83d\udcfa new youtube video uploaded! \ud83c\udfac breaking news: kerolin to powerade here we go! \ud83d\udea8",
-    "\ud83d\udd35 \ud83d\udd34 \ud83e\udd85 official: thomas frank signs in as new crystal palace head coach until jun"
+    "\ud83d\udd35 \ud83d\udd34 \ud83e\udd85 official: thomas frank signs in as new crystal palace head coach until jun",
+    "\ud83d\udea8 jj gabriel confirms he has signed with epic sports as new agency, ready to wor"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2720,7 +2720,7 @@
     "david alaba": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg/330px-20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "vincent joseph": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

@@ -1,6 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/66132",
     "tg:FabrizioRomanoTG/66133",
     "tg:FabrizioRomanoTG/66134",
     "tg:FabrizioRomanoTG/66135",
@@ -1499,7 +1498,8 @@
     "tg:FabrizioRomanoTG/68322",
     "tg:FabrizioRomanoTG/68323",
     "7a16bf4bc9d179e535f034ea2020f88f",
-    "24ba6ebbb07154bca044e100ee1a132c"
+    "24ba6ebbb07154bca044e100ee1a132c",
+    "f9d6e23e8fa6bdb8206886fd68ea4373"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2116,7 +2116,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "fermin lopez rules out manchester united move",
     "\u201ci want to stay here for as long as possible\u201d: barcelona star dismisses transfer",
     "david ornstein reveals whether aston villa think unai emery wants to replace mic",
     "\ud83d\udea8 official: the 26 men shortlist for the fifpro men\u2019s world 11, voted by 19,806 ",
@@ -2415,7 +2414,8 @@
     "\ud83d\udd35 \ud83d\udd34 \ud83e\udd85 official: thomas frank signs in as new crystal palace head coach until jun",
     "\ud83d\udea8 jj gabriel confirms he has signed with epic sports as new agency, ready to wor",
     "barcelona face injury worry after key defender reports hip discomfort during int",
-    "liverpool: slot\u2019s first major signing to demand exit as fabrizio romano reveals "
+    "liverpool: slot\u2019s first major signing to demand exit as fabrizio romano reveals ",
+    "man utd: fabrizio romano reveals truth about red devils interest in calvin basse"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2720,7 +2720,7 @@
     "david alaba": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg/330px-20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "vincent joseph": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

@@ -1,6 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/66139",
     "tg:FabrizioRomanoTG/66140",
     "tg:FabrizioRomanoTG/66141",
     "tg:FabrizioRomanoTG/66142",
@@ -1499,7 +1498,8 @@
     "tg:FabrizioRomanoTG/68325",
     "0e422b7b399d94a83f3b9d54ed438bf3",
     "tg:FabrizioRomanoTG/68326",
-    "tg:FabrizioRomanoTG/68327"
+    "tg:FabrizioRomanoTG/68327",
+    "6841b5340dde8b21d0f9ecbf45dde1ef"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2720,7 +2720,7 @@
     "david alaba": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg/330px-20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "vincent joseph": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

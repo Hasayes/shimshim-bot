@@ -1,6 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/66135",
     "tg:FabrizioRomanoTG/66136",
     "tg:FabrizioRomanoTG/66137",
     "tg:FabrizioRomanoTG/66138",
@@ -1499,7 +1498,8 @@
     "24ba6ebbb07154bca044e100ee1a132c",
     "f9d6e23e8fa6bdb8206886fd68ea4373",
     "9542c0a0638616fc46e1ad35e86689c3",
-    "8c9634822e4bc8c5f58f5ab338e136e2"
+    "8c9634822e4bc8c5f58f5ab338e136e2",
+    "tg:FabrizioRomanoTG/68325"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2116,7 +2116,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "\ud83d\udea8 official: the 26 men shortlist for the fifpro men\u2019s world 11, voted by 19,806 ",
     "nico williams uninterested in transfer speculation from barcelona",
     "declan rice: manchester city to enter race for west ham captain",
     "transfer talk: chelsea mull neymar deal amid psg drama espn",
@@ -2415,7 +2414,8 @@
     "liverpool: slot\u2019s first major signing to demand exit as fabrizio romano reveals ",
     "man utd: fabrizio romano reveals truth about red devils interest in calvin basse",
     "\u201cthe two key areas they want to cover\u201d \u2013 romano issues latest man united transfe",
-    "man utd: ratcliffe wanted pochettino alternative to become next manager for one "
+    "man utd: ratcliffe wanted pochettino alternative to become next manager for one ",
+    "\ud83d\udea8 \u2764\ufe0f \ud83e\udd0d arsenal have reached an agreement with declan rice to sign new contract u"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2720,7 +2720,7 @@
     "david alaba": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg/330px-20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "vincent joseph": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

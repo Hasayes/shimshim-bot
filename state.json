@@ -1,6 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/66151",
     "18e014a6226a5d50a3020875b9e2a97d",
     "ff6b7612abb10b890c256a986ca40af9",
     "26e8f7a2139c28a2c73ca6eb3f25e16b",
@@ -1499,7 +1498,8 @@
     "d49774bcf157dced2a9a1af351548e35",
     "tg:FabrizioRomanoTG/68335",
     "tg:FabrizioRomanoTG/68336",
-    "tg:FabrizioRomanoTG/68337"
+    "tg:FabrizioRomanoTG/68337",
+    "tg:FabrizioRomanoTG/68339"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2116,7 +2116,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "man utd want \u2018special talent\u2019 from chelsea in january after romano issues update",
     "\u00a342m liverpool january offer ready for midfielder as chelsea move on",
     "chelsea reach decision on selling estevao with man utd to offer \u00a386m to sign \u2018sp",
     "nico paz to manchester united: \u20ac80 million real madrid clause could complicate j",
@@ -2415,7 +2414,8 @@
     "mauricio pochettino has an unexpected favourite at man utd and it's not bruno fe",
     "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f vitor matos has agreed to become new rc strasbourg head coach, deal done ",
     "\ud83d\udcfa new youtube video uploaded! \ud83c\udfac \ud83d\udea8 \ud83d\udca3 here we go soon! barca porro truth! united: ",
-    "\ud83d\udea8 \u274c there are no talks or negotiations for pedro porro to join barcelona in janu"
+    "\ud83d\udea8 \u274c there are no talks or negotiations for pedro porro to join barcelona in janu",
+    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f david raya\u2019s new contract at arsenal will be valid until june 2030 verbal"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2720,7 +2720,7 @@
     "david alaba": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg/330px-20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "vincent joseph": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

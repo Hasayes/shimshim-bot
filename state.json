@@ -1,7 +1,5 @@
 {
   "sent": [
-    "d1a7bbc2645999a1162bdf567ab68112",
-    "c890bc9149c7fbd02d1d2e9d216e3665",
     "4edf313124ff8cc4ce905c7ee8fe3e75",
     "tg:FabrizioRomanoTG/66188",
     "tg:FabrizioRomanoTG/66190",
@@ -1499,7 +1497,9 @@
     "97283e39be232eb8b938fd8ad6758f86",
     "tg:FabrizioRomanoTG/68346",
     "tg:FabrizioRomanoTG/68347",
-    "1137ba153798863319e791bba7f96f75"
+    "1137ba153798863319e791bba7f96f75",
+    "1fb7231b472ace937c799cde17cb950e",
+    "f31a6e11aae28c8214873a4de4325b0c"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2116,7 +2116,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "sir jim ratcliffe told only two managers can save man united now 'it's inevitabl",
     "arsenal interested in atletico star, barca open to kounde offers euro transfer n",
     "\ud83d\udea8 official: west ham confirm nuno espirito santo has been sacked with immediate ",
     "man utd cut manager shortlist down to two and go all out for \u00a337 5m left back",
@@ -2415,7 +2414,8 @@
     "real madrid open to offers for rumoured liverpool & chelsea transfer target",
     "barcelona rule out january move for 27 year old tottenham hotspur superstar",
     "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f napoli have agreed new deal with the sporting director giovanni manna unt",
-    "fabrizio romano confirms man utd\u2019s first january transfer footballtransfers com"
+    "fabrizio romano confirms man utd\u2019s first january transfer footballtransfers com",
+    "man utd: fabrizio romano confirms first january transfer under mauricio pochetti"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2720,7 +2720,7 @@
     "david alaba": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg/330px-20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "vincent joseph": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

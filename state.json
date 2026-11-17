@@ -1,8 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/66147",
-    "tg:FabrizioRomanoTG/66148",
-    "tg:FabrizioRomanoTG/66149",
     "tg:FabrizioRomanoTG/66150",
     "tg:FabrizioRomanoTG/66151",
     "18e014a6226a5d50a3020875b9e2a97d",
@@ -1499,7 +1496,10 @@
     "e683b53f2a5b6969476ce9dabfd83adf",
     "28217fc91381c7d6c28434ea52d40e88",
     "4b032ed365c9707edbc9d2796b96e97f",
-    "3188be1b1eaa29b371096a14c44c0247"
+    "3188be1b1eaa29b371096a14c44c0247",
+    "d49774bcf157dced2a9a1af351548e35",
+    "tg:FabrizioRomanoTG/68335",
+    "tg:FabrizioRomanoTG/68336"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2116,9 +2116,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "lisandro martinez 'to be summoned to man united meeting' to discuss four things",
-    "\u201cthere will be direct contacts\u201d \u2013 romano confirms man united are ready to talk t",
-    "real madrid identify arsenal star as \u2018dream\u2019 transfer target for jose mourinho \u2013",
     "romano addresses speculation linking alexander arnold to romantic liverpool retu",
     "man utd want \u2018special talent\u2019 from chelsea in january after romano issues update",
     "\u00a342m liverpool january offer ready for midfielder as chelsea move on",
@@ -2415,7 +2412,10 @@
     "man utd 'consider' r524m african star as poch's 1st signing",
     "arsenal learn asking price for 21 year old target who is \u201cone of the best\u201d in hi",
     "fabrizio romano reveals major liverpool transfer concern",
-    "man utd launch \u00a383m bid for sublime barcelona star as romano maps out january pl"
+    "man utd launch \u00a383m bid for sublime barcelona star as romano maps out january pl",
+    "mauricio pochettino has an unexpected favourite at man utd and it's not bruno fe",
+    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f vitor matos has agreed to become new rc strasbourg head coach, deal done ",
+    "\ud83d\udcfa new youtube video uploaded! \ud83c\udfac \ud83d\udea8 \ud83d\udca3 here we go soon! barca porro truth! united: "
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2720,7 +2720,7 @@
     "david alaba": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg/330px-20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "vincent joseph": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

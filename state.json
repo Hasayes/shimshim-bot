@@ -1,6 +1,5 @@
 {
   "sent": [
-    "26e8f7a2139c28a2c73ca6eb3f25e16b",
     "tg:FabrizioRomanoTG/66154",
     "031919144f8c431d698f5ef52a560687",
     "1c54efc46c0ba1291c73148fbdec5f97",
@@ -1499,7 +1498,8 @@
     "tg:FabrizioRomanoTG/68337",
     "tg:FabrizioRomanoTG/68339",
     "f3caa90c95b66f89d0f18120bb57163a",
-    "7c14690d2a08b8cf0ea894b8189b106b"
+    "7c14690d2a08b8cf0ea894b8189b106b",
+    "tg:FabrizioRomanoTG/68343"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2116,7 +2116,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "nico paz to manchester united: \u20ac80 million real madrid clause could complicate j",
     "\ud83d\udea8 \ud83c\uddf5\ud83c\uddf9 official: cristiano ronaldo jr has been called up by portugal u17 for the f",
     "\ud83d\udd34 \u26aa\ufe0f harry kane: \u201cmoving to bayern was a big step in my career it would have bee",
     "lisandro martinez \u2018summoned\u2019 for crunch talks over man utd future",
@@ -2415,7 +2414,8 @@
     "\ud83d\udea8 \u274c there are no talks or negotiations for pedro porro to join barcelona in janu",
     "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f david raya\u2019s new contract at arsenal will be valid until june 2030 verbal",
     "arsenal player called \u201cvery impressive\u201d by arteta is ready to leave the club",
-    "romano: man utd keen to sign calvin bassey for mauricio pochettino"
+    "romano: man utd keen to sign calvin bassey for mauricio pochettino",
+    "\ud83d\udea8 \ud83d\udca3 breaking: jj gabriel confirms he has decided to leave manchester united, say"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2720,7 +2720,7 @@
     "david alaba": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg/330px-20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "vincent joseph": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

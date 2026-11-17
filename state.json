@@ -1,8 +1,5 @@
 {
   "sent": [
-    "22fed9b91097dc168db5512a33cfced2",
-    "tg:FabrizioRomanoTG/66163",
-    "tg:FabrizioRomanoTG/66164",
     "tg:FabrizioRomanoTG/66171",
     "33c69efe0d1e44753669559010927163",
     "d1a7bbc2645999a1162bdf567ab68112",
@@ -1499,7 +1496,10 @@
     "2b6f2ab746ba6b59d64467055a0aff5b",
     "432f1c3c82ddc090aaceee9e8099dd1a",
     "80d4bf2f26dc8a5ace10ae90e3e015cf",
-    "2e38273a62d28d96fd70d448122340f0"
+    "2e38273a62d28d96fd70d448122340f0",
+    "aff4ebf9f5eeec4346a0fe27adeb0305",
+    "97283e39be232eb8b938fd8ad6758f86",
+    "tg:FabrizioRomanoTG/68346"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2116,9 +2116,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "man utd: fabrizio romano discloses name of \u2018ideal\u2019 manager ineos want after mich",
-    "man utd, liverpool in bidding war for \u00a337 5m star as fabrizio romano drops updat",
-    "man united urged to pay whatever it takes to prise premier league manager from c",
     "major unai emery stumbling block revealed as man utd step up michael carrick rep",
     "sir jim ratcliffe told only two managers can save man united now 'it's inevitabl",
     "arsenal interested in atletico star, barca open to kounde offers euro transfer n",
@@ -2415,7 +2412,10 @@
     "manchester united weigh striker move as hall pursuit stalls",
     "barcelona ready to listen to offers for defensive duo in january \u2013 report",
     "liverpool identify premier league star as alisson\u2019s heir \u2013 journalist says trans",
-    "man utd transfer for balogun approved as red devils exploit pochettino relations"
+    "man utd transfer for balogun approved as red devils exploit pochettino relations",
+    "real madrid open to offers for rumoured liverpool & chelsea transfer target",
+    "barcelona rule out january move for 27 year old tottenham hotspur superstar",
+    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f napoli have agreed new deal with the sporting director giovanni manna unt"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2720,7 +2720,7 @@
     "david alaba": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg/330px-20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "vincent joseph": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

@@ -1,6 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/66146",
     "tg:FabrizioRomanoTG/66147",
     "tg:FabrizioRomanoTG/66148",
     "tg:FabrizioRomanoTG/66149",
@@ -1499,7 +1498,8 @@
     "3666044d2f996658bba43b4b3bbe2af0",
     "e683b53f2a5b6969476ce9dabfd83adf",
     "28217fc91381c7d6c28434ea52d40e88",
-    "4b032ed365c9707edbc9d2796b96e97f"
+    "4b032ed365c9707edbc9d2796b96e97f",
+    "3188be1b1eaa29b371096a14c44c0247"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2116,7 +2116,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "trent alexander arnold: fabrizio romano reveals whether real madrid right back w",
     "lisandro martinez 'to be summoned to man united meeting' to discuss four things",
     "\u201cthere will be direct contacts\u201d \u2013 romano confirms man united are ready to talk t",
     "real madrid identify arsenal star as \u2018dream\u2019 transfer target for jose mourinho \u2013",
@@ -2415,7 +2414,8 @@
     "man utd: pochettino \u2018wants\u2019 ex leeds flop as shock second signing with \u2018convinci",
     "man utd 'consider' r524m african star as poch's 1st signing",
     "arsenal learn asking price for 21 year old target who is \u201cone of the best\u201d in hi",
-    "fabrizio romano reveals major liverpool transfer concern"
+    "fabrizio romano reveals major liverpool transfer concern",
+    "man utd launch \u00a383m bid for sublime barcelona star as romano maps out january pl"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2720,7 +2720,7 @@
     "david alaba": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg/330px-20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "vincent joseph": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

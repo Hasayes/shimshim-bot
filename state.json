@@ -1,6 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/66141",
     "tg:FabrizioRomanoTG/66142",
     "tg:FabrizioRomanoTG/66143",
     "tg:FabrizioRomanoTG/66144",
@@ -1499,7 +1498,8 @@
     "tg:FabrizioRomanoTG/68326",
     "tg:FabrizioRomanoTG/68327",
     "6841b5340dde8b21d0f9ecbf45dde1ef",
-    "48e68c1fa2eaff3067d9594b23d5bb64"
+    "48e68c1fa2eaff3067d9594b23d5bb64",
+    "73a6b4132f3d0aba68c6335330b8a3aa"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2116,7 +2116,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "christian pulisic reportedly joins ac milan from chelsea",
     "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f udinese have appointed paolo zanetti as new head coach, deal to be signe",
     "rt @fabrizioromano : \ud83d\udea8 \u2764\ufe0f \ud83e\udd0d breaking: bayern reach a verbal agreement in princip",
     "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f harry kane confirms he\u2019s about to sign new contract at fc bayern: \u201ci'd sa",
@@ -2415,7 +2414,8 @@
     "rio ngumoha reaches final decision on signing liverpool contract amid bayern, ar",
     "\ud83d\udcfa new youtube video uploaded! \ud83c\udfac \ud83d\udea8 \ud83d\udc40 who man united really wanted to bring in as ",
     "\ud83d\udea8 \u26ab\ufe0f \ud83d\udd35 the verbal agreement between inter and carlos augusto on long term deal u",
-    "man utd: pochettino demands \u2018buy three, pay one\u2019 star who he knows very well"
+    "man utd: pochettino demands \u2018buy three, pay one\u2019 star who he knows very well",
+    "ancelotti confirms real madrid attacking duo will start for brazil in singapore "
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2720,7 +2720,7 @@
     "david alaba": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg/330px-20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "vincent joseph": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

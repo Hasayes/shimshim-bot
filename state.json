@@ -1,6 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/66225",
     "bcc5eec8e9b92ed7d1231507534645f7",
     "tg:FabrizioRomanoTG/66233",
     "61f87f120281816c9366d225575b42da",
@@ -1499,7 +1498,8 @@
     "f5df3ce7db5e5ebe893b689105a77a31",
     "ed3ec119cab0e4429841f769b09703e5",
     "tg:FabrizioRomanoTG/68354",
-    "tg:FabrizioRomanoTG/68355"
+    "tg:FabrizioRomanoTG/68355",
+    "tg:FabrizioRomanoTG/68361"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2116,7 +2116,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "\ud83d\udd34 \ud83c\udde7\ud83c\uddf7 michael carrick and matheus cunha didn\u2019t have any issues during the celebra",
     "manchester switch on the cards! man utd target man city star rayan ait nouri for",
     "manchester united explore january move for 25 year old wide player from bitter r",
     "\ud83d\udea8 real madrid, since september in the driving seat to sign jj gabriel on a deal ",
@@ -2415,7 +2414,8 @@
     "ornstein reveals arsenal chances of signing vinicius junior amid transfer 'likel",
     "alajbegovic, chelsea rumours and the assist that won it for bosnia: a key figure",
     "rt @fabrizioromano : \ud83d\udea8 \u26aa\ufe0f arda guler has signed his contract at real madrid vali",
-    "\ud83d\udea8 \ud83e\udd0d official: arda guler signs new deal at real madrid until june 2032, confirme"
+    "\ud83d\udea8 \ud83e\udd0d official: arda guler signs new deal at real madrid until june 2032, confirme",
+    "\ud83e\udd0d \ud83d\udcdd arda guler\u2019s message to real madrid fans \u201chistory you made, history to be ma"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2720,7 +2720,7 @@
     "david alaba": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg/330px-20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "vincent joseph": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

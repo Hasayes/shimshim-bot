@@ -1,6 +1,5 @@
 {
   "sent": [
-    "3aeb587bf26fdd361e782c85b24f2e38",
     "a6c25e9352f8f8ca0b6108596ac3d64b",
     "e9cf0aea174dc6f92f7f94e8ca137df9",
     "tg:FabrizioRomanoTG/66251",
@@ -1499,7 +1498,8 @@
     "ddb1743666cf118283f0d321daeb6ca1",
     "a4233152948edff6bdf3855870da571f",
     "6b2c3c73b132db2f03ca1d5666e9b8b4",
-    "tg:FabrizioRomanoTG/68377"
+    "tg:FabrizioRomanoTG/68377",
+    "tg:FabrizioRomanoTG/68378"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2116,7 +2116,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "issue emerges with one of five manchester united manager candidates",
     "real madrid on verge of signing manchester united wonderkid as barcelona drop ou",
     "man utd: jj gabriel travels to finalise transfer as romano makes \u2018done deal\u2019 cla",
     "transfer rumors, news: arsenal want atletico madrid winger",
@@ -2415,7 +2414,8 @@
     "best signing since bruno: man utd ready to bid 'top money' for paz romano",
     "arsenal transfer news: david ornstein drops interesting update on eli junior kro",
     "fabrizio romano names the striker chelsea were offered before signing danny welb",
-    "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f weston mckennie: \u201ci want to clarify i am not planning to leave juventus\u201d"
+    "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f weston mckennie: \u201ci want to clarify i am not planning to leave juventus\u201d",
+    "\ud83d\udea8 deco on the signing he wanted and could not do for barca: \u201cluis diaz\u201d \ud83d\udd35 \ud83d\udd34 \ud83c\udde8\ud83c\uddf4 h"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2720,7 +2720,7 @@
     "david alaba": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg/330px-20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "vincent joseph": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

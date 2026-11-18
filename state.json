@@ -1,7 +1,5 @@
 {
   "sent": [
-    "61f87f120281816c9366d225575b42da",
-    "ef1f30290d6da6f4a4593bd13f410a7c",
     "b4bc9d7364959d44d44fb784b4749d1a",
     "6fffa1ae4b9cfd7b16fb22421b672922",
     "f9573f0194e7bbfff35f2f4a780f05e0",
@@ -1499,7 +1497,9 @@
     "tg:FabrizioRomanoTG/68355",
     "tg:FabrizioRomanoTG/68361",
     "tg:FabrizioRomanoTG/68363",
-    "06ad59476c2bf781efa4d493d138bcf3"
+    "06ad59476c2bf781efa4d493d138bcf3",
+    "tg:FabrizioRomanoTG/68368",
+    "tg:FabrizioRomanoTG/68370"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2116,8 +2116,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "\ud83d\udea8 real madrid, since september in the driving seat to sign jj gabriel on a deal ",
-    "\ud83d\udea8 \ud83d\udd25 barcola on why he wanted liverpool so much: \u201cever since i was young, i\u2019ve al",
     "man utd eye man city's ait nouri wednesday's gossip",
     "jesus de miguel: raphinha pays tribute after barcelona vs aston villa",
     "transfer rumors: psg want mainoo; arsenal, man city join estevao race",
@@ -2415,7 +2413,9 @@
     "\ud83d\udea8 \ud83e\udd0d official: arda guler signs new deal at real madrid until june 2032, confirme",
     "\ud83e\udd0d \ud83d\udcdd arda guler\u2019s message to real madrid fans \u201chistory you made, history to be ma",
     "rt @fabrizioromano : \ud83d\udea8 \ud83d\udd35 \ud83d\udd34 official: xavi espart signs new long term deal at bar",
-    "transfer rumors: liverpool lead haaland race; pochettino wants alvarez at man ut"
+    "transfer rumors: liverpool lead haaland race; pochettino wants alvarez at man ut",
+    "\u26aa\ufe0f \u26ab\ufe0f antonio conte: \u201cone day, my story with juventus will be completed and come",
+    "\ud83d\udea8 jj gabriel has visited real madrid training ground and facilities today togeth"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2720,7 +2720,7 @@
     "david alaba": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg/330px-20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "vincent joseph": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

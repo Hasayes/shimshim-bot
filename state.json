@@ -1,6 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/66207",
     "5dd2b79ccc7ed712369cbc3598e5185b",
     "tg:FabrizioRomanoTG/66209",
     "0aae43b5ba2f34790efa7d9b0b29eaba",
@@ -1499,7 +1498,8 @@
     "67a9f212d4962e2962d9c3e72639704c",
     "9ef1514924616864e5dcbc02922af269",
     "fdc4340905055350c4459cbb0843e6f7",
-    "fded5757632d7ac76820bfac7f48c85d"
+    "fded5757632d7ac76820bfac7f48c85d",
+    "938d8d59495c34f00671f66af9429325"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2116,7 +2116,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "liverpool \u2018groundwork done\u2019 on \u00a358m midfield destroyer transfer as insider rates",
     "\ud83d\udea8 \u274c inter president marotta: \u201cmauro icardi is not part of our plans\u201d \u201cwe are not",
     "terms agreed: martinez exit edges closer as man united star reaches agreement",
     "transfer rumors, news: real madrid tracking arsenal left back calafiori",
@@ -2415,7 +2414,8 @@
     "man utd make shock decision to sell ten hag favourite to pave way for \u00a350m pl si",
     "who is enzo perez, the talent ac milan want in january?",
     "west ham now open to selling mavropanos in january after contract twist",
-    "man utd turn to new \u2018solution\u2019 for problem position as chances of ineos sealing "
+    "man utd turn to new \u2018solution\u2019 for problem position as chances of ineos sealing ",
+    "arsenal in advanced talks over improved deal for defender as second contract ren"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2720,7 +2720,7 @@
     "david alaba": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg/330px-20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "vincent joseph": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

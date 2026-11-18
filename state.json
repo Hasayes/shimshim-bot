@@ -1,6 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/66253",
     "tg:FabrizioRomanoTG/66255",
     "2a59ba4607c56a7cd67c7115c496ee0a",
     "tg:FabrizioRomanoTG/66261",
@@ -1499,7 +1498,8 @@
     "eae2294acccddea123c8163293f53d9b",
     "cf4121e65fbd0c7809e1bac9b9a0a8a4",
     "d93fbd3fb4ab23b25bc30831b6bfae0c",
-    "d96f996bf24cb1bb880d365accd944ce"
+    "d96f996bf24cb1bb880d365accd944ce",
+    "dec4955013aadad7da7906f90fe09773"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2116,7 +2116,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "real madrid set to win race to land man utd wonderkid jj gabriel",
     "jj gabriel 'reaches real madrid transfer agreement' as wantaway man utd sensatio",
     "man city star joining man utd given green light with \u2018everything being done\u2019 to ",
     "jj gabriel transfer news: real madrid close in on manchester united wonderkid fo",
@@ -2415,7 +2414,8 @@
     "swd cricket results",
     "liverpool to hold talks to sign up \u2018one of the prem\u2019s best ever\u2019 as \u2018adopted sco",
     "liverpool to hold talks to sign up \u2018one of the prem's best ever\u2019 as \u2018adopted sco",
-    "jj gabriel manchester united to real madrid switch nears after farewell post"
+    "jj gabriel manchester united to real madrid switch nears after farewell post",
+    "man united transfer news: major new rival emerges in race for alejandro balde"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2720,7 +2720,7 @@
     "david alaba": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg/330px-20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "vincent joseph": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

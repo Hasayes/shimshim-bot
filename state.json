@@ -1,7 +1,5 @@
 {
   "sent": [
-    "5934e5f9333eb6a69445ed6c80fcdb7c",
-    "9291e01ada8dbdd322dac37fb153ce21",
     "tg:FabrizioRomanoTG/66196",
     "61703e8422681a499e9c84a7466565de",
     "4a25848dc57937b934227037bb2680d8",
@@ -1499,7 +1497,9 @@
     "f31a6e11aae28c8214873a4de4325b0c",
     "5f1b2225303e1efbfc0b6a65476418d5",
     "e02ff7f1c7718be840494cfc3d0c4d1f",
-    "48ef029a7cef66d7af6f4746200a4b95"
+    "48ef029a7cef66d7af6f4746200a4b95",
+    "c1102c8c02c341b5521207c3ff2e7450",
+    "0d6beff3a89a65ea68d2e4da9fa983a0"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2116,8 +2116,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "jj gabriel to psg off as fabrizio romano delivers big update on man utd sensatio",
-    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f brian brobbey signs a contract extension at sunderland valid until 2031 h",
     "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f breaking: william saliba confirmed back in arsenal training after long in",
     "\ud83d\udea8 \u2692\ufe0f scott parker has agreed all terms with west ham as new head coach, contract",
     "\ud83d\udd34 \u26aa\ufe0f \u2728 athletic club talent christian imga has officially signed with fali ramad",
@@ -2415,7 +2413,9 @@
     "man utd: fabrizio romano confirms first january transfer under mauricio pochetti",
     "man utd submit stunning \u20ac100m bid for barcelona ace to hijack chelsea deal",
     "man united transfer news: monaco open to balogun sale, but serie a rival holds a",
-    "wantaway man united kid jj gabriel told to look at kai rooney as agent video tor"
+    "wantaway man united kid jj gabriel told to look at kai rooney as agent video tor",
+    "fabrizio romano: joshua zirkzee to hold talks with pochettino over man utd exit",
+    "bayern munich faces competition for gladbach talent wael mohya"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2720,7 +2720,7 @@
     "david alaba": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg/330px-20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "vincent joseph": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

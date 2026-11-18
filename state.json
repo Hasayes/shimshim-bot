@@ -1,7 +1,5 @@
 {
   "sent": [
-    "b2c44643ca906ad83b4caf71df98d3a1",
-    "6bc9d396ccd18d290a75a10889723583",
     "67366d692885f0b233a211abf6ba8a07",
     "tg:FabrizioRomanoTG/66204",
     "tg:FabrizioRomanoTG/66207",
@@ -1499,7 +1497,9 @@
     "a6024ad5a982176812d0760f0ccd4256",
     "5baab4e03595dd10c1fdb6b089912229",
     "de1ea538e4d4b7c0977c480ba702f961",
-    "117e333be4661e7c619a383f5ca423c3"
+    "117e333be4661e7c619a383f5ca423c3",
+    "67a9f212d4962e2962d9c3e72639704c",
+    "9ef1514924616864e5dcbc02922af269"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2116,7 +2116,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83c\uddeb\ud83c\uddf7 rb leipzig defender castello lukeba signs for excellence sport nation as ne",
     "bayern munich news: arsenal, manchester united, liverpool all watching lennart k",
     "\ud83e\udd0d eduardo camavinga: \u201cin my view, vini jr was never gonna leave real madrid last",
     "liverpool \u2018groundwork done\u2019 on \u00a358m midfield destroyer transfer as insider rates",
@@ -2415,7 +2414,8 @@
     "bayern munich faces competition for gladbach talent wael mohya",
     "manchester united, zirkzee wants playing time: pochettino or the january transfe",
     "fulham demand \u00a350m for calvin bassey as man united step up interest",
-    "man utd make shock decision to sell ten hag favourite to pave way for \u00a350m pl si"
+    "man utd make shock decision to sell ten hag favourite to pave way for \u00a350m pl si",
+    "who is enzo perez, the talent ac milan want in january?"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2720,7 +2720,7 @@
     "david alaba": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg/330px-20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "vincent joseph": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

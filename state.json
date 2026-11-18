@@ -1,7 +1,5 @@
 {
   "sent": [
-    "207a6dad1029f3df3fb330d9a26f47d8",
-    "f3c595df770c62eedf79019c1c1f2d62",
     "4175e6e665a327392af0abdb8a765b81",
     "tg:FabrizioRomanoTG/66225",
     "bcc5eec8e9b92ed7d1231507534645f7",
@@ -1499,7 +1497,9 @@
     "d3e5fd4b66fb4cd40c67f7eec9d13ae6",
     "7732472750122175a01a67f16b5c9b62",
     "85ba1c1677a047b84ae2468ef04ac326",
-    "f5df3ce7db5e5ebe893b689105a77a31"
+    "f5df3ce7db5e5ebe893b689105a77a31",
+    "ed3ec119cab0e4429841f769b09703e5",
+    "tg:FabrizioRomanoTG/68354"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2116,7 +2116,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "ex chelsea midfielder scott parker lands new managerial job",
     "man utd get green light to finalise personal terms with man city star \u2013 top jour",
     "\ud83d\udd34 \ud83c\udde7\ud83c\uddf7 michael carrick and matheus cunha didn\u2019t have any issues during the celebra",
     "manchester switch on the cards! man utd target man city star rayan ait nouri for",
@@ -2415,7 +2414,8 @@
     "fabrizio romano confirms man united want to sign forward in january",
     "arsenal: blockbuster vinicius junior january swoop chances revealed by ornstein ",
     "ornstein reveals arsenal chances of signing vinicius junior amid transfer 'likel",
-    "alajbegovic, chelsea rumours and the assist that won it for bosnia: a key figure"
+    "alajbegovic, chelsea rumours and the assist that won it for bosnia: a key figure",
+    "rt @fabrizioromano : \ud83d\udea8 \u26aa\ufe0f arda guler has signed his contract at real madrid vali"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2720,7 +2720,7 @@
     "david alaba": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg/330px-20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "vincent joseph": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

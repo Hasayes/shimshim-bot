@@ -1,7 +1,5 @@
 {
   "sent": [
-    "f9573f0194e7bbfff35f2f4a780f05e0",
-    "06a792f998f16444fa08ab6b59cf60cd",
     "53705560114e2bf300379a2dedc2e8ea",
     "1d49e39c6bbc0a437892b9286b19b02f",
     "52fb32598b47a38045bbd8662862f80c",
@@ -1499,7 +1497,9 @@
     "tg:FabrizioRomanoTG/68368",
     "tg:FabrizioRomanoTG/68370",
     "tg:FabrizioRomanoTG/68373",
-    "tg:FabrizioRomanoTG/68374"
+    "tg:FabrizioRomanoTG/68374",
+    "51265a68b59993434f22eab4d7e88653",
+    "c2df58535d2cdeacf28a3dd891498519"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2116,7 +2116,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "transfer rumors: psg want mainoo; arsenal, man city join estevao race",
     "\ud83d\udea8 official: rafa nadal confirms he\u2019s entering real madrid board of directors \u201ci ",
     "rt @fabrizioromano : \ud83d\udea8 real madrid, since september in the driving seat to sign ",
     "\ud83d\udea8 jj gabriel and real madrid: leading the race since september, ready to make it",
@@ -2415,7 +2414,8 @@
     "\u26aa\ufe0f \u26ab\ufe0f antonio conte: \u201cone day, my story with juventus will be completed and come",
     "\ud83d\udea8 jj gabriel has visited real madrid training ground and facilities today togeth",
     "\ud83d\udea8 official: mauricio pochettino\u2019s coaching staff at manchester united \ud83c\udd95 jesus pe",
-    "\ud83d\udea8 \ud83d\udd1a official: manchester united have confirmed travis binnion, jonny evans, stev"
+    "\ud83d\udea8 \ud83d\udd1a official: manchester united have confirmed travis binnion, jonny evans, stev",
+    "bayern munich news: arsenal wants michael olise; fc barcelona eyeing man city\u2019s "
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2720,7 +2720,7 @@
     "david alaba": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg/330px-20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "vincent joseph": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

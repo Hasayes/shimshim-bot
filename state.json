@@ -1,6 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/66216",
     "tg:FabrizioRomanoTG/66217",
     "207a6dad1029f3df3fb330d9a26f47d8",
     "f3c595df770c62eedf79019c1c1f2d62",
@@ -1499,7 +1498,8 @@
     "ee949edcbfa84de0b828c75d0e9ec55b",
     "9e220d21e8574544d954bee2ee83eac1",
     "d3e5fd4b66fb4cd40c67f7eec9d13ae6",
-    "7732472750122175a01a67f16b5c9b62"
+    "7732472750122175a01a67f16b5c9b62",
+    "85ba1c1677a047b84ae2468ef04ac326"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2116,7 +2116,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "report: christoph kresse set to replace nils schmadtke as bayern munich\u2019s chief ",
     "contract renewal: here\u2019s what calhanoglu wants from inter baccin will speak to t",
     "ex chelsea midfielder scott parker lands new managerial job",
     "man utd get green light to finalise personal terms with man city star \u2013 top jour",
@@ -2415,7 +2414,8 @@
     "\u201ci wanted to clarify \u201d: romano delivers clear message on barcelona interest in t",
     "romano: man utd set to be offered chance to sign balogun for pochettino",
     "fabrizio romano confirms man united want to sign forward in january",
-    "arsenal: blockbuster vinicius junior january swoop chances revealed by ornstein "
+    "arsenal: blockbuster vinicius junior january swoop chances revealed by ornstein ",
+    "ornstein reveals arsenal chances of signing vinicius junior amid transfer 'likel"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2720,7 +2720,7 @@
     "david alaba": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg/330px-20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "vincent joseph": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

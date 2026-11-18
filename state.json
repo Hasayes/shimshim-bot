@@ -1,6 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/66190",
     "5934e5f9333eb6a69445ed6c80fcdb7c",
     "9291e01ada8dbdd322dac37fb153ce21",
     "tg:FabrizioRomanoTG/66196",
@@ -1499,7 +1498,8 @@
     "1fb7231b472ace937c799cde17cb950e",
     "f31a6e11aae28c8214873a4de4325b0c",
     "5f1b2225303e1efbfc0b6a65476418d5",
-    "e02ff7f1c7718be840494cfc3d0c4d1f"
+    "e02ff7f1c7718be840494cfc3d0c4d1f",
+    "48ef029a7cef66d7af6f4746200a4b95"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2116,7 +2116,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "man utd cut manager shortlist down to two and go all out for \u00a337 5m left back",
     "jj gabriel to psg off as fabrizio romano delivers big update on man utd sensatio",
     "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f brian brobbey signs a contract extension at sunderland valid until 2031 h",
     "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f breaking: william saliba confirmed back in arsenal training after long in",
@@ -2415,7 +2414,8 @@
     "fabrizio romano confirms man utd\u2019s first january transfer footballtransfers com",
     "man utd: fabrizio romano confirms first january transfer under mauricio pochetti",
     "man utd submit stunning \u20ac100m bid for barcelona ace to hijack chelsea deal",
-    "man united transfer news: monaco open to balogun sale, but serie a rival holds a"
+    "man united transfer news: monaco open to balogun sale, but serie a rival holds a",
+    "wantaway man united kid jj gabriel told to look at kai rooney as agent video tor"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2720,7 +2720,7 @@
     "david alaba": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg/330px-20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "vincent joseph": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

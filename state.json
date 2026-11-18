@@ -1,8 +1,5 @@
 {
   "sent": [
-    "1d49e39c6bbc0a437892b9286b19b02f",
-    "52fb32598b47a38045bbd8662862f80c",
-    "tg:FabrizioRomanoTG/66236",
     "3aeb587bf26fdd361e782c85b24f2e38",
     "a6c25e9352f8f8ca0b6108596ac3d64b",
     "e9cf0aea174dc6f92f7f94e8ca137df9",
@@ -1499,7 +1496,10 @@
     "tg:FabrizioRomanoTG/68374",
     "51265a68b59993434f22eab4d7e88653",
     "c2df58535d2cdeacf28a3dd891498519",
-    "ddb1743666cf118283f0d321daeb6ca1"
+    "ddb1743666cf118283f0d321daeb6ca1",
+    "a4233152948edff6bdf3855870da571f",
+    "6b2c3c73b132db2f03ca1d5666e9b8b4",
+    "tg:FabrizioRomanoTG/68377"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2116,9 +2116,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "rt @fabrizioromano : \ud83d\udea8 real madrid, since september in the driving seat to sign ",
-    "\ud83d\udea8 jj gabriel and real madrid: leading the race since september, ready to make it",
-    "rayan ait nouri: man united receive positive update in january pursuit of man ci",
     "issue emerges with one of five manchester united manager candidates",
     "real madrid on verge of signing manchester united wonderkid as barcelona drop ou",
     "man utd: jj gabriel travels to finalise transfer as romano makes \u2018done deal\u2019 cla",
@@ -2415,7 +2412,10 @@
     "\ud83d\udea8 official: mauricio pochettino\u2019s coaching staff at manchester united \ud83c\udd95 jesus pe",
     "\ud83d\udea8 \ud83d\udd1a official: manchester united have confirmed travis binnion, jonny evans, stev",
     "bayern munich news: arsenal wants michael olise; fc barcelona eyeing man city\u2019s ",
-    "best signing since bruno: man utd ready to bid 'top money' for paz romano"
+    "best signing since bruno: man utd ready to bid 'top money' for paz romano",
+    "arsenal transfer news: david ornstein drops interesting update on eli junior kro",
+    "fabrizio romano names the striker chelsea were offered before signing danny welb",
+    "\ud83d\udea8 \u26aa\ufe0f \u26ab\ufe0f weston mckennie: \u201ci want to clarify i am not planning to leave juventus\u201d"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2720,7 +2720,7 @@
     "david alaba": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg/330px-20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "vincent joseph": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

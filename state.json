@@ -1,7 +1,5 @@
 {
   "sent": [
-    "412b25b4fac69a4b7d7afa2768d339fe",
-    "4b2bbcc77f942302e18a48711e566aee",
     "tg:FabrizioRomanoTG/66277",
     "051309ae5c323a7beb30368ecf5ab765",
     "7249ec6eee3387fbd17e1d944c6beaa9",
@@ -1499,7 +1497,9 @@
     "77a1d2e244cb340376915208bdfef6cf",
     "0cddf4e5ff4294e03a3c8a759fa721f9",
     "7bdf050efc48f007e1cf72ac0dd8a77e",
-    "d556fbd5edf5207e2f613b51cba3a94c"
+    "d556fbd5edf5207e2f613b51cba3a94c",
+    "d794921ee36a5f90d4ec256dd34c80bf",
+    "67318ce4923394854d0e6ca69c99631e"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2116,7 +2116,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "\ud83e\udd11 juve milan transfer targets, chiesa and lotito updates: today's news \ud83d\udd25",
     "real madrid want electric liverpool forward who is a \u2018formula one car\u2019",
     "\u2018it was painful\u2019: liverpool star reveals what club told him about his future",
     "man utd: ineos react to real madrid \u2018winning race\u2019 to sign jj gabriel",
@@ -2415,7 +2414,8 @@
     "why junior kroupi may disappoint arsenal in transfer pursuit",
     "why junior kroupi may disappoint arsenal in transfer pursuitstance",
     "surprise destination: de bruyne considering leaving napoli in the winter",
-    "man utd to snub balogun for on fire striker with \u00a383m release clause"
+    "man utd to snub balogun for on fire striker with \u00a383m release clause",
+    "eli junior kroupi stance on arsenal transfer revealed as bournemouth make decisi"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2720,7 +2720,7 @@
     "david alaba": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg/330px-20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "vincent joseph": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

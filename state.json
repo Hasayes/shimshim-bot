@@ -1,6 +1,5 @@
 {
   "sent": [
-    "aaf06759b430ffa896d8fddf5e5d5b65",
     "f9797ad39d4e3270c4cf6d032f9aa86e",
     "tg:FabrizioRomanoTG/66271",
     "tg:FabrizioRomanoTG/66272",
@@ -1499,7 +1498,8 @@
     "29b18eae86b72b396f1032943c3f3035",
     "tg:FabrizioRomanoTG/68386",
     "08911e4c5382a6b7b9213c0c7bb2b9c4",
-    "c29cf57c5d8d71a9002f73dcbd42933d"
+    "c29cf57c5d8d71a9002f73dcbd42933d",
+    "3b6368f5b9edaee5ad4abcb30941da04"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2116,7 +2116,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "real madrid emerge as frontrunners to sign manchester united wonderkid jj gabrie",
     "man utd transfer news: united make breakthrough in january left back pursuit but",
     "real madrid make progress in pursuit of jj gabriel, manchester united\u2019s 2010 bor",
     "real madrid beat bayern, barcelona and psg to jj gabriel signing with january mo",
@@ -2415,7 +2414,8 @@
     "arsenal consensus reached over \u00a3162m january transfers as two players wanted foo",
     "\ud83d\udcfa new youtube video uploaded! \ud83c\udfac \ud83d\udea8 \ud83d\udca3 barca signing plan! united: nico paz and poc",
     "arda guler signs real madrid deal through june 2032, fabrizio romano reports",
-    "ac milan eye ruben amorim and bruno fernandes reunion"
+    "ac milan eye ruben amorim and bruno fernandes reunion",
+    "manchester united approached forgotten chelsea player as manager and it wasn't c"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2720,7 +2720,7 @@
     "david alaba": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg/330px-20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "vincent joseph": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

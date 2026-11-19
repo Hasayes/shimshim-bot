@@ -1,6 +1,5 @@
 {
   "sent": [
-    "daf3b15421726c55fd51eaa4c59293f5",
     "3700aac4e52183bb1f30be3c6b367261",
     "08e4f1310ada9a544d3b5b6c01d5513c",
     "a314da07747b908dce79bbc6b93988a1",
@@ -1499,7 +1498,8 @@
     "678ad6960cb193fa27ea56f81647213b",
     "7bab61accdbefb0cbd78ab4cbfb964f8",
     "tg:FabrizioRomanoTG/68391",
-    "0f4dde37c64802adc6093931b40000f8"
+    "0f4dde37c64802adc6093931b40000f8",
+    "db4cccd84c1f2c3494465ec4aaf608ae"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2116,7 +2116,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "unai emery reaches decision on joining man utd as aston villa release statement",
     "\ud83d\udd35 \ud83d\udd34 \ud83c\udde7\ud83c\uddf7 official: raphinha signs new deal at barcelona valid until june 2030 \ud83d\udd10 ht",
     "\ud83d\udea8 \ud83c\uddf5\ud83c\uddf9 official: portuguese federation confirm plan for a special farewell dedicat",
     "\ud83d\udea8 \ud83c\udde7\ud83c\uddf7 raphinha: \u201cif ancelotti wants to count on me, he knows he has to manage my ",
@@ -2415,7 +2414,8 @@
     "chiellini offers yildiz update for juventus: \u2018it will still take some time\u2019",
     "'i am not planning to leave juventus' weston mckennie shuts down man utd transfe",
     "\ud83d\udea8 bayern president hainer: \u201cwe are relaxed and we want olise to stay for many ye",
-    "tottenham make enquiry for \u20ac35m striker with 11 goals in 11 games as arsenal and"
+    "tottenham make enquiry for \u20ac35m striker with 11 goals in 11 games as arsenal and",
+    "pochettino green lights man utd exit no 1 as \u00a383m replacement signing eyed"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2720,7 +2720,7 @@
     "david alaba": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg/330px-20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "vincent joseph": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

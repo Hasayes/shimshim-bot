@@ -1,6 +1,5 @@
 {
   "sent": [
-    "4968ba829e982034238da448f6354676",
     "8c1b540935d33ee099513d26820055d4",
     "tg:FabrizioRomanoTG/66294",
     "tg:FabrizioRomanoTG/66295",
@@ -1499,7 +1498,8 @@
     "tg:FabrizioRomanoTG/68407",
     "52e9ccfc0459d3debd88afaeda25137c",
     "52982b69a8e0f8d61adefc04628b5b42",
-    "443e7fc380310035a329214c7ae1fa4a"
+    "443e7fc380310035a329214c7ae1fa4a",
+    "tg:FabrizioRomanoTG/68416"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2116,7 +2116,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "barcelona not pursuing chelsea wonderkid despite recent transfer speculation",
     "carrick sack at man utd could be aborted as ornstein names three game changing f",
     "ornstein: carrick given \u2018vote of confidence\u2019 as man utd players\u2019 bid to \u2018see him",
     "man utd explore legal action as jj gabriel saga takes new twist",
@@ -2415,7 +2414,8 @@
     "\ud83c\udf0f \u2b50\ufe0f official: kang in lee wins afc asian player of the year award 2026! back to",
     "\u2018i want to clarify\u2019: man united target weston mckennie speaks out on potential r",
     "predicting the next \u00a3100m+ footballer: haaland joins four arsenal targets on ten",
-    "he was shunned at liverpool & newcastle united now 33y/o is on bayern munich tra"
+    "he was shunned at liverpool & newcastle united now 33y/o is on bayern munich tra",
+    "\ud83d\udcfa new youtube video uploaded! \ud83c\udfac \ud83d\udea8 \ud83d\udca3 united: top target off! olise real ity and a"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2720,7 +2720,7 @@
     "david alaba": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg/330px-20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "vincent joseph": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

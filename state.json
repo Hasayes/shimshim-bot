@@ -1,6 +1,5 @@
 {
   "sent": [
-    "9862b74d64f9b7638fe897ad54bc3967",
     "tg:FabrizioRomanoTG/66287",
     "4a39ca68d03f637761d563f9ebbd56e0",
     "tg:FabrizioRomanoTG/66289",
@@ -1499,7 +1498,8 @@
     "97cc793b9b01e93952d23d798ecc31dd",
     "880faedfc02c64a525e2563eda4b8ab5",
     "61ff850adaf37a877c77f7a26919f8b9",
-    "9090dcf552b570db9adbd64cdbf0ec44"
+    "9090dcf552b570db9adbd64cdbf0ec44",
+    "tg:FabrizioRomanoTG/68406"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2116,7 +2116,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "\u2b50\ufe0f \ud83c\uddea\ud83c\uddfa official: uefa release champions league team of the week for matchday 4 ht",
     "bayern munich news: was fc bayern scouting atletico madrid star during ucl match",
     "rt @goldcup : \ud83d\udea8 \ud83c\udfc6 the rumors are confirmed! gold cup will have a whole new forma",
     "not van dijk: liverpool face major decision over the future of experienced super",
@@ -2415,7 +2414,8 @@
     "pochettino green lights man utd exit no 1 as \u00a383m replacement signing eyed",
     "transfer rumors, news: man united considering osimhen swoop",
     "transfer rumors, news: arsenal eyeing wolves' matheus cunha",
-    "transfer rumors: man utd\u2019s four man striker shortlist; real madrid set vini jr p"
+    "transfer rumors: man utd\u2019s four man striker shortlist; real madrid set vini jr p",
+    "\ud83d\udea8 \ud83e\udd0d aurelien tchouameni has signed new long term deal at real madrid until june "
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2720,7 +2720,7 @@
     "david alaba": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg/330px-20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "vincent joseph": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

@@ -1,6 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/66315",
     "tg:FabrizioRomanoTG/66316",
     "tg:FabrizioRomanoTG/66317",
     "24e1205197b3153954ad314eaa52f064",
@@ -1499,7 +1498,8 @@
     "71c004eea42ba42f325a7b439b705f91",
     "0c8ae976ad9fcf80d4e1ffa6d9b5f590",
     "tg:FabrizioRomanoTG/68419",
-    "f61ed7caa5f13b0a1e9323a80eddd172"
+    "f61ed7caa5f13b0a1e9323a80eddd172",
+    "fe75f0f8aa192a15eab9da24adae4066"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2116,7 +2116,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "barcelona could face premier league competition for 25 year old la liga defender",
     "rensch injury details confirmed after early substitution in manchester united de",
     "harry kane signs new, lucrative contract at bayern through 2029",
     "aston villa explore ambitious move for barcelona star as emery makes his interes",
@@ -2415,7 +2414,8 @@
     "arsenal learn \u00a3125m \u2018minimum\u2019 demands for real madrid superstar \u2013 spanish inside",
     "man utd transfer news: mauricio pochettino 'to become involved' in bruno fernand",
     "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f mykhaylo mudryk: \u201cbefore going to chelsea, i wanted to join arsenal it\u2019s ",
-    "man utd: four \u2018lined up\u2019 january signings revealed as romano confirms decision o"
+    "man utd: four \u2018lined up\u2019 january signings revealed as romano confirms decision o",
+    "fabrizio romano confirms liverpool have entered talks with midfielder"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2720,7 +2720,7 @@
     "david alaba": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg/330px-20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "vincent joseph": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

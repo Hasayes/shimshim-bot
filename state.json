@@ -1,6 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/66302",
     "tg:FabrizioRomanoTG/66304",
     "tg:FabrizioRomanoTG/66310",
     "2fe3bf0e2c857cd86415b983c21f6196",
@@ -1499,7 +1498,8 @@
     "f2bf27970307765fcf0c8d15bdf645e4",
     "763802059296a5d0369b8f228ee2ca17",
     "704d02d7436c3a88c297c836e370e0a6",
-    "08c5a9eda988ab7ae7b77d7f11e23694"
+    "08c5a9eda988ab7ae7b77d7f11e23694",
+    "c0cb7d1efeffd306af5d7f01739d2560"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2116,7 +2116,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "jj gabriel: romano reveals real madrid internal verdict on man utd \u2018legal battle",
     "manchester united manager latest: no interim planned should club decide to sack ",
     "kane becomes highest paid footballer in europe after new deal",
     "arsenal want two bournemouth stars but man utd could snatch one \u2013 exclusive",
@@ -2415,7 +2414,8 @@
     "\ud83d\udea8 \u26aa\ufe0f thibaut courtois has signed his new contract at real madrid until june 2028",
     "man utd handed transfer boost as \u2018talks begin\u2019 for barcelona star london evening",
     "attractive option for both giants: real madrid enter fierce battle with barcelon",
-    "\u2018for sure\u2019 romano has just shared new nico paz to man utd transfer update"
+    "\u2018for sure\u2019 romano has just shared new nico paz to man utd transfer update",
+    "psg offer one year extension to key player as parisians look to avoid thiago sil"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2720,7 +2720,7 @@
     "david alaba": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg/330px-20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "vincent joseph": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

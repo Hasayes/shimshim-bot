@@ -1,6 +1,5 @@
 {
   "sent": [
-    "417c95e252be0081498dca85665f2800",
     "f2466162bc413570abca079a62d4fd81",
     "2e6ef712f4c998652e6298f362762fc3",
     "tg:FabrizioRomanoTG/66323",
@@ -1499,7 +1498,8 @@
     "tg:FabrizioRomanoTG/68426",
     "tg:FabrizioRomanoTG/68429",
     "tg:FabrizioRomanoTG/68430",
-    "tg:FabrizioRomanoTG/68431"
+    "tg:FabrizioRomanoTG/68431",
+    "524e51f4d2d45728d821967bc2a44afb"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2116,7 +2116,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "official notification ends the debate: manchester united player puts one foot in",
     "bayern munich determined to block real madrid\u2019s pursuit of attacking superstar w",
     "raphinha puts barcelona success ahead of individual awards",
     "transfer: jj gabriel reveals final decision on next club after leaving man utd",
@@ -2415,7 +2414,8 @@
     "rt @fabrizioromano : \ud83d\udea8 \u26aa\ufe0f thibaut courtois has signed his new contract at real m",
     "\ud83d\udea8 jose mourinho: \u201ci mantain my position: there is no vini jr problem he is an in",
     "\ud83d\udea8 \u26aa\ufe0f real madrid have reached an agreement with fede valverde on new contract un",
-    "\ud83d\udea8 mikel arteta when asked if \u00f8degaard can be next player to sign new deal: \u201cyes,"
+    "\ud83d\udea8 mikel arteta when asked if \u00f8degaard can be next player to sign new deal: \u201cyes,",
+    "man utd target real madrid centre back after mauricio pochettino demands"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2720,7 +2720,7 @@
     "david alaba": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg/330px-20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "vincent joseph": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

@@ -1,8 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/66339",
-    "db02c96a7d20aa86fda72f6538fceb96",
-    "tg:FabrizioRomanoTG/66343",
     "184a69fd95b96894ade131bef09e69d0",
     "8245cdd2462c68d5f0fbd8f01869102f",
     "1c9618b2f3df3efd37cb472aa750ffc0",
@@ -1499,7 +1496,10 @@
     "tg:FabrizioRomanoTG/68451",
     "6990c110d11b7415ddede2afa282108c",
     "6edc95bc6a629891fc107db8f5eaa3fe",
-    "3c7e76c15cbc1449476eb77f142f7452"
+    "3c7e76c15cbc1449476eb77f142f7452",
+    "82b2e5b8e81097dc92b9ccfc68167f66",
+    "26f3cc8b67c854bd77bc3ad67b35a3be",
+    "418e8fb0dd974f5dfbf887de2c6e23ee"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2720,7 +2720,7 @@
     "david alaba": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg/330px-20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "vincent joseph": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

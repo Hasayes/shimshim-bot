@@ -1,6 +1,5 @@
 {
   "sent": [
-    "8bc496443e80e4d346d29d34a5e4c9b3",
     "d75f6ba829e4a17f6fcd18e9848ecc9c",
     "a8055e6b39d733f9f810ca0c1028e6fd",
     "tg:FabrizioRomanoTG/66339",
@@ -1499,7 +1498,8 @@
     "tg:FabrizioRomanoTG/68442",
     "tg:FabrizioRomanoTG/68445",
     "tg:FabrizioRomanoTG/68449",
-    "tg:FabrizioRomanoTG/68451"
+    "tg:FabrizioRomanoTG/68451",
+    "6990c110d11b7415ddede2afa282108c"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2116,7 +2116,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "man utd: fabrizio romano \u2018expects\u2019 january signing and major exit in 2027",
     "barcelona facing january transfer dilemma! catalan giants explore loan deals and",
     "unai emery confirms new contract talks with aston villa espn singapore",
     "bayern munich news: why fc bayern wants oskar pietuszewski; liverpool, fc barcel",
@@ -2415,7 +2414,8 @@
     "\ud83d\udea8 antonio conte on not becoming new man united coach: \u201cif anyone is frightened b",
     "\ud83d\udea8 de zerbi on mudryk revealing he wanted arsenal move: \u201ci can understand the fru",
     "\ud83d\udea8 man united ceo omar berrada: \u201cwe did everything, absolutely everything to keep",
-    "\ud83d\udea8 omar berrada says he\u2019s \u201cnot concerned\u201d about man city case: \u201ci want to be very"
+    "\ud83d\udea8 omar berrada says he\u2019s \u201cnot concerned\u201d about man city case: \u201ci want to be very",
+    "mauricio pochettino eyes manchester united revival ahead of liverpool clash at a"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2720,7 +2720,7 @@
     "david alaba": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg/330px-20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "vincent joseph": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

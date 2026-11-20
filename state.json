@@ -1,6 +1,5 @@
 {
   "sent": [
-    "8245cdd2462c68d5f0fbd8f01869102f",
     "1c9618b2f3df3efd37cb472aa750ffc0",
     "984c3bf2da6dd0826f3806d4f992f63a",
     "b0f56fbfd31b622ea849e078113658bc",
@@ -1499,7 +1498,8 @@
     "82b2e5b8e81097dc92b9ccfc68167f66",
     "26f3cc8b67c854bd77bc3ad67b35a3be",
     "418e8fb0dd974f5dfbf887de2c6e23ee",
-    "tg:FabrizioRomanoTG/68454"
+    "tg:FabrizioRomanoTG/68454",
+    "38d2906339370658524ac902fdcf7358"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2116,7 +2116,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "real madrid or barcelona? jj gabriel finally makes his choice",
     "barcelona could sell 27 year old defender in january as chelsea and bayern munic",
     "liverpool hold talks over man utd and tottenham target alejandro balde",
     "\ud83c\udf33 \ud83e\udef5\ud83c\udffc liam delap with cristiano ronaldo\u2019s celebration after scoring a brace vs ma",
@@ -2415,7 +2414,8 @@
     "mauricio pochettino eyes manchester united revival ahead of liverpool clash at a",
     "fabrizio romano confirms real madrid veteran has signed renewal until 2028",
     "from brazil: roma and milan the most concrete options for endrick",
-    "\ud83d\udcfa new youtube video uploaded! \ud83c\udfac \ud83d\udea8 \ud83d\udca3 van dijk surprise?! bruno talks, vini jr pla"
+    "\ud83d\udcfa new youtube video uploaded! \ud83c\udfac \ud83d\udea8 \ud83d\udca3 van dijk surprise?! bruno talks, vini jr pla",
+    "mudryk reveals why he joined chelsea instead of arsenal"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2720,7 +2720,7 @@
     "david alaba": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg/330px-20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "vincent joseph": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

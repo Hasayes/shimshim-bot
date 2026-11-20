@@ -1,7 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/66295",
-    "tg:FabrizioRomanoTG/66296",
     "tg:FabrizioRomanoTG/66297",
     "tg:FabrizioRomanoTG/66302",
     "tg:FabrizioRomanoTG/66304",
@@ -1499,7 +1497,9 @@
     "443e7fc380310035a329214c7ae1fa4a",
     "tg:FabrizioRomanoTG/68416",
     "tg:FabrizioRomanoTG/68417",
-    "f2bf27970307765fcf0c8d15bdf645e4"
+    "f2bf27970307765fcf0c8d15bdf645e4",
+    "763802059296a5d0369b8f228ee2ca17",
+    "704d02d7436c3a88c297c836e370e0a6"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2116,7 +2116,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "man utd explore legal action as jj gabriel saga takes new twist",
     "juve's 2007 born target, lautaro back \ud83e\udd15 and roma title coup: morning news \u2600\ufe0f",
     "jj gabriel: romano reveals real madrid internal verdict on man utd \u2018legal battle",
     "manchester united manager latest: no interim planned should club decide to sack ",
@@ -2415,7 +2414,8 @@
     "he was shunned at liverpool & newcastle united now 33y/o is on bayern munich tra",
     "\ud83d\udcfa new youtube video uploaded! \ud83c\udfac \ud83d\udea8 \ud83d\udca3 united: top target off! olise real ity and a",
     "\ud83d\udea8 \u26aa\ufe0f thibaut courtois has signed his new contract at real madrid until june 2028",
-    "man utd handed transfer boost as \u2018talks begin\u2019 for barcelona star london evening"
+    "man utd handed transfer boost as \u2018talks begin\u2019 for barcelona star london evening",
+    "attractive option for both giants: real madrid enter fierce battle with barcelon"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2720,7 +2720,7 @@
     "david alaba": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg/330px-20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "vincent joseph": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

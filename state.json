@@ -1,7 +1,5 @@
 {
   "sent": [
-    "149f063fdb6a6df041d339890d6ecf08",
-    "5efde1859a32729cc9ba5af0b23ec802",
     "578b1ce99d6402f8638e2af27c55836c",
     "45a0634a2057ffdd3eb18c8f2a5ba7c3",
     "413c3967f7626e01c7cabff44cdbb7df",
@@ -1499,7 +1497,9 @@
     "tg:FabrizioRomanoTG/68434",
     "tg:FabrizioRomanoTG/68435",
     "tg:FabrizioRomanoTG/68436",
-    "tg:FabrizioRomanoTG/68439"
+    "tg:FabrizioRomanoTG/68439",
+    "tg:FabrizioRomanoTG/68440",
+    "tg:FabrizioRomanoTG/68442"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2116,8 +2116,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "harry kane will earn more than \u20ac30 million per year, overtake jamal musiala as b",
-    "\u2018we are almost there\u2019: romano delivers update man united fans won\u2019t want to hear",
     "ballon d'or 2027: raphinha speaks on winning next award",
     "man utd january transfer set for \u2018here we go\u2019 as romano confirms advanced talks",
     "jj gabriel 'close' to sealing madrid move, liverpool target valverde euro transf",
@@ -2415,7 +2413,9 @@
     "\ud83d\udea8 \ud83c\udfc6 official: nations league semi finals draw \ud83c\uddf3\ud83c\uddf1 netherlands or portugal \ud83c\uddf5\ud83c\uddf9 \ud83c\udd9a \ud83c\uddea\ud83c\uddf8",
     "\ud83d\udea8 \ud83d\udc99 \u2764\ufe0f official: xavi espart signs new contract at barcelona until june 2030 \u201csi",
     "\ud83d\udea8 man united ceo omar berrada: \u201cwe have had 3 permanent managers in 3 seasons, w",
-    "\ud83d\udea8 \ud83e\udd0d brahim diaz has signed a new deal at real madrid until june 2031, club state"
+    "\ud83d\udea8 \ud83e\udd0d brahim diaz has signed a new deal at real madrid until june 2031, club state",
+    "\ud83d\udea8 \ud83d\udd35 \u26aa\ufe0f brighton have agreed new deal with pascal gro\u00df until june 2028, signed to",
+    "\ud83d\udea8 antonio conte on not becoming new man united coach: \u201cif anyone is frightened b"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2720,7 +2720,7 @@
     "david alaba": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg/330px-20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "vincent joseph": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

@@ -1,8 +1,5 @@
 {
   "sent": [
-    "b0f56fbfd31b622ea849e078113658bc",
-    "e3f1f04766a39adb751ef3e66a03a338",
-    "97c55cdb1cca553fb2813489ea6fca3d",
     "ddea539d7ed07755c182af97e7aefef9",
     "tg:FabrizioRomanoTG/66361",
     "95928955ba53f8a5bac45e96e9463691",
@@ -1499,7 +1496,10 @@
     "tg:FabrizioRomanoTG/68454",
     "38d2906339370658524ac902fdcf7358",
     "3354d4b0c1b685380adb2f8a617476a4",
-    "4c41e1b87e6c4a2cd5fd9de45b5f4960"
+    "4c41e1b87e6c4a2cd5fd9de45b5f4960",
+    "989c4003d697342f857629d269b1f0f1",
+    "6a952785b099fb56e4eef12c37fb8f47",
+    "47cb293193bb47747e78737532f0dce8"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2116,8 +2116,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "\ud83c\udf33 \ud83e\udef5\ud83c\udffc liam delap with cristiano ronaldo\u2019s celebration after scoring a brace vs ma",
-    "\ud83c\udf33 \ud83d\udca5 nottingham forest with a huge home win against man city! brace and fantastic",
     "como release official nico paz transfer statement footballtransfers com",
     "liverpool crushed as fabrizio romano confirms bayern munich plans to tie another",
     "\u201ci hope \u201d \u2013 andoni iraola speaks out on liverpool star facing uncertain future",
@@ -2415,7 +2413,9 @@
     "\ud83d\udcfa new youtube video uploaded! \ud83c\udfac \ud83d\udea8 \ud83d\udca3 van dijk surprise?! bruno talks, vini jr pla",
     "mudryk reveals why he joined chelsea instead of arsenal",
     "transfer rumors, news: arsenal want world cup winner williams",
-    "romano: transfer linked man utd star will not leave club in january"
+    "romano: transfer linked man utd star will not leave club in january",
+    "courtois reportedly signs until 2028 as real madrid keeps its renewal pen busy",
+    "man utd reach verdict on signing mckennie from juventus as romano sheds light on"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2720,7 +2720,7 @@
     "david alaba": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg/330px-20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "vincent joseph": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

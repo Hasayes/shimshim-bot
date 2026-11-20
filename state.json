@@ -1,6 +1,5 @@
 {
   "sent": [
-    "2e6ef712f4c998652e6298f362762fc3",
     "tg:FabrizioRomanoTG/66323",
     "c2f3b64dfef78d76875c4f3d576d0874",
     "f61208290cd2ecbd08d83b6e1f843270",
@@ -1499,7 +1498,8 @@
     "tg:FabrizioRomanoTG/68430",
     "tg:FabrizioRomanoTG/68431",
     "524e51f4d2d45728d821967bc2a44afb",
-    "tg:FabrizioRomanoTG/68432"
+    "tg:FabrizioRomanoTG/68432",
+    "tg:FabrizioRomanoTG/68433"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2116,7 +2116,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "raphinha puts barcelona success ahead of individual awards",
     "transfer: jj gabriel reveals final decision on next club after leaving man utd",
     "\u2764\ufe0f \ud83d\udc99 \ud83c\uddeb\ud83c\uddf7 joao neves: \u201cit\u2019s not a goal for me to move to spain or england, la liga",
     "liverpool delivered blow over dream attacking target for andoni iraola",
@@ -2415,7 +2414,8 @@
     "\ud83d\udea8 \u26aa\ufe0f real madrid have reached an agreement with fede valverde on new contract un",
     "\ud83d\udea8 mikel arteta when asked if \u00f8degaard can be next player to sign new deal: \u201cyes,",
     "man utd target real madrid centre back after mauricio pochettino demands",
-    "\u26aa\ufe0f \ud83d\udd10 official, exclusive story confirmed: thibaut courtois signs new deal at rea"
+    "\u26aa\ufe0f \ud83d\udd10 official, exclusive story confirmed: thibaut courtois signs new deal at rea",
+    "\ud83d\udea8 \ud83c\udfc6 official: nations league quarter finals draw \ud83d\uddf3\ufe0f \ud83c\uddea\ud83c\uddf8 spain vs france \ud83c\uddeb\ud83c\uddf7 \ud83c\uddf3\ud83c\uddf4 nor"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2720,7 +2720,7 @@
     "david alaba": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg/330px-20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "vincent joseph": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

@@ -1,6 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/66310",
     "2fe3bf0e2c857cd86415b983c21f6196",
     "tg:FabrizioRomanoTG/66314",
     "tg:FabrizioRomanoTG/66315",
@@ -1499,7 +1498,8 @@
     "704d02d7436c3a88c297c836e370e0a6",
     "08c5a9eda988ab7ae7b77d7f11e23694",
     "c0cb7d1efeffd306af5d7f01739d2560",
-    "71c004eea42ba42f325a7b439b705f91"
+    "71c004eea42ba42f325a7b439b705f91",
+    "0c8ae976ad9fcf80d4e1ffa6d9b5f590"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2116,7 +2116,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "kane becomes highest paid footballer in europe after new deal",
     "arsenal want two bournemouth stars but man utd could snatch one \u2013 exclusive",
     "\ud83d\udea8 \ud83d\udca3 jj gabriel and real madrid, deal set to be sealed: the 16 year old talent\u2019s ",
     "barcelona could face premier league competition for 25 year old la liga defender",
@@ -2415,7 +2414,8 @@
     "attractive option for both giants: real madrid enter fierce battle with barcelon",
     "\u2018for sure\u2019 romano has just shared new nico paz to man utd transfer update",
     "psg offer one year extension to key player as parisians look to avoid thiago sil",
-    "arsenal learn \u00a3125m \u2018minimum\u2019 demands for real madrid superstar \u2013 spanish inside"
+    "arsenal learn \u00a3125m \u2018minimum\u2019 demands for real madrid superstar \u2013 spanish inside",
+    "man utd transfer news: mauricio pochettino 'to become involved' in bruno fernand"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2720,7 +2720,7 @@
     "david alaba": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg/330px-20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "vincent joseph": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

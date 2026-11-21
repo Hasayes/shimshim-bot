@@ -1,6 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/66368",
     "tg:FabrizioRomanoTG/66372",
     "tg:FabrizioRomanoTG/66381",
     "6b11cb76ac93a1733ec326d16036692b",
@@ -1499,7 +1498,8 @@
     "tg:FabrizioRomanoTG/68461",
     "tg:FabrizioRomanoTG/68462",
     "739ce4cb2d66c0372d1716adf0ec002a",
-    "43aebfaa15eeb8a036fc3816ebe5dfcb"
+    "43aebfaa15eeb8a036fc3816ebe5dfcb",
+    "ac97d0da874e9a21d9a49200ee6af34a"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2116,7 +2116,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "portugal names real madrid star new captain after cristiano ronaldo retirement",
     "\ud83d\udcfa new youtube video uploaded! \ud83c\udfac \ud83d\udea8 \ud83d\udca3 leaving on a free!? barca next one! \u20ac72m for",
     "\ud83d\udea8 \ud83c\uddfa\ud83c\uddf8 official: lionel messi wins the mls golden boot 2026 and becomes the first ",
     "arsenal in pole position for electrifying \u00a360m winger deal in january",
@@ -2415,7 +2414,8 @@
     "\ud83d\udea8 \u26a0\ufe0f official: bayern confirm syndesmotic ligament tear in the left ankle for ha",
     "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f official: michael olise has suffered a bruised foot and will receive trea",
     "trent alexander arnold: bayern munich reach decision on signing real madrid flop",
-    "bayern munich react after learning arsenal want to sign michael olise"
+    "bayern munich react after learning arsenal want to sign michael olise",
+    "\u00a3100m goal machine says yes to man utd transfer in january for \u00a313m/year and pla"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2720,7 +2720,7 @@
     "david alaba": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg/330px-20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "vincent joseph": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

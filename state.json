@@ -1,6 +1,5 @@
 {
   "sent": [
-    "d2f8a622d4a47d13089c2b03e7573723",
     "27017fcdd2a21a9b862476eedfed31e7",
     "tg:FabrizioRomanoTG/66368",
     "tg:FabrizioRomanoTG/66372",
@@ -1499,7 +1498,8 @@
     "4849e8ab6e4051e717dc1d2ad55c7db5",
     "tg:FabrizioRomanoTG/68459",
     "tg:FabrizioRomanoTG/68461",
-    "tg:FabrizioRomanoTG/68462"
+    "tg:FabrizioRomanoTG/68462",
+    "739ce4cb2d66c0372d1716adf0ec002a"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2116,7 +2116,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "\u00a342m rated former arsenal star advised to skittle man utd move \u2013 no \u2018support mec",
     "barcelona outcast could follow ronald araujo to liverpool in january",
     "portugal names real madrid star new captain after cristiano ronaldo retirement",
     "\ud83d\udcfa new youtube video uploaded! \ud83c\udfac \ud83d\udea8 \ud83d\udca3 leaving on a free!? barca next one! \u20ac72m for",
@@ -2415,7 +2414,8 @@
     "man utd show interest in italian sensation as liverpool eye rival move",
     "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f fc bayern hope michael olise can be back available next week for champion",
     "\ud83d\udea8 \u26a0\ufe0f official: bayern confirm syndesmotic ligament tear in the left ankle for ha",
-    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f official: michael olise has suffered a bruised foot and will receive trea"
+    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f official: michael olise has suffered a bruised foot and will receive trea",
+    "trent alexander arnold: bayern munich reach decision on signing real madrid flop"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2720,7 +2720,7 @@
     "david alaba": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg/330px-20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "vincent joseph": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

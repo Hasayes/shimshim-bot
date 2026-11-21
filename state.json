@@ -1,6 +1,5 @@
 {
   "sent": [
-    "a34fa41c88f7a3a144ca2c9d5b37c11b",
     "821a7bab7e6b83eb3fd7e62b7a32c01f",
     "0047e98da822ce2e6e54fa9728e37f67",
     "6b74df68f4ec85eb7da45cf4ff8f0539",
@@ -1499,7 +1498,8 @@
     "tg:FabrizioRomanoTG/68484",
     "6a544a67018137c38a5fdb62d7804427",
     "tg:FabrizioRomanoTG/68495",
-    "tg:FabrizioRomanoTG/68498"
+    "tg:FabrizioRomanoTG/68498",
+    "819ccf66a2f62605317a23335037b75f"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2116,7 +2116,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "liverpool targeting netherlands starter after fabrizio romano\u2019s \u2018serious\u2019 update",
     "liverpool: second source confirms reds want brighton ace in mammoth transfer",
     "man utd: ornstein reveals whether ineos will sack carrick if red devils suffer \u2018",
     "man utd: michael carrick sack remains \u2018inevitable\u2019 as he equals horror ruben amo",
@@ -2415,7 +2414,8 @@
     "\ud83d\udea8 mauricio pochettino on united to face liverpool at anfield: \u201cour attitude has ",
     "newly appointed mauricio pochettino says manchester united job was too big to re",
     "\ud83d\udea8 massive win for leeds united at stamford bridge with okafor brace! \ud83d\udfe1 \ud83d\udd35 three d",
-    "\ud83d\udea8 official: fifpro statement condemn bayern public comments regarding jamal musi"
+    "\ud83d\udea8 official: fifpro statement condemn bayern public comments regarding jamal musi",
+    "chelsea\u2019s virgil van dijk interest revealed ahead of liverpool contract expiry"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2720,7 +2720,7 @@
     "david alaba": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg/330px-20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "vincent joseph": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

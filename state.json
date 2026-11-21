@@ -1,6 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/66387",
     "0745575307231aa6eb5a25af32308904",
     "05d8f23612168a628d44c1b1afebd6e5",
     "b021f5c0bbe822cea3e49518ce1f6360",
@@ -1499,7 +1498,8 @@
     "tg:FabrizioRomanoTG/68467",
     "5acdc6d36c7b80158c4a85a11c015075",
     "181ec6263ea9769400ba08e78d3083c6",
-    "731d57fca558b88a87fed40915553698"
+    "731d57fca558b88a87fed40915553698",
+    "tg:FabrizioRomanoTG/68477"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2116,7 +2116,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "transfer rumors: van dijk wants barcelona move; man utd to offload dalot",
     "liverpool to make different decisions on alisson, van dijk with one staying, oth",
     "bayern munich news: the aftermath of fc bayern\u2019s 2 1 win over mainz; arsenal wan",
     "rio ngumoha reaches decision on joining bayern munich from liverpool",
@@ -2415,7 +2414,8 @@
     "\ud83d\udd34 man united ceo berrada: \u201cwhat we see in pochettino is somebody who has an enor",
     "\ud83d\udea8 former barcelona, al ittihad and real betis director ramon planes signs in tod",
     "\ud83d\udd25 inter eye donnarumma, roma want cambiaghi, inacio update: today's news",
-    "barcelona stand firm on bastoni deal despite inter's demands"
+    "barcelona stand firm on bastoni deal despite inter's demands",
+    "\ud83d\udea8 man uniter ceo omar berrada: \u201cwhen you sign a player that doesn't work out for"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2720,7 +2720,7 @@
     "david alaba": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg/330px-20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "vincent joseph": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

@@ -1,6 +1,5 @@
 {
   "sent": [
-    "0047e98da822ce2e6e54fa9728e37f67",
     "6b74df68f4ec85eb7da45cf4ff8f0539",
     "a66c3f927ff1083752e83992575caafd",
     "614402265cf0baa6c7b9f2ee9e8396b0",
@@ -1499,7 +1498,8 @@
     "tg:FabrizioRomanoTG/68495",
     "tg:FabrizioRomanoTG/68498",
     "819ccf66a2f62605317a23335037b75f",
-    "a9c9d6d627fb5042de8fd0bfb4c72195"
+    "a9c9d6d627fb5042de8fd0bfb4c72195",
+    "fe99ba33a4cc7519603a09ba38a45a5c"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2116,7 +2116,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "man utd: ornstein reveals whether ineos will sack carrick if red devils suffer \u2018",
     "man utd: michael carrick sack remains \u2018inevitable\u2019 as he equals horror ruben amo",
     "man utd express interest in signing italian left back after reaching luke shaw e",
     "\ud83d\udea8 michael carrick confirmed he won\u2019t resign: \u201cit\u2019s not going to happen\u201d \u201cwe have",
@@ -2415,7 +2414,8 @@
     "\ud83d\udea8 massive win for leeds united at stamford bridge with okafor brace! \ud83d\udfe1 \ud83d\udd35 three d",
     "\ud83d\udea8 official: fifpro statement condemn bayern public comments regarding jamal musi",
     "chelsea\u2019s virgil van dijk interest revealed ahead of liverpool contract expiry",
-    "ben jacobs: man utd want igor matanovic as january transfer chances revealed"
+    "ben jacobs: man utd want igor matanovic as january transfer chances revealed",
+    "spurs fans braced for more \u2018overpaid\u2019 talk as interest in a truly prolific strik"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2720,7 +2720,7 @@
     "david alaba": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg/330px-20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "vincent joseph": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

@@ -1,8 +1,5 @@
 {
   "sent": [
-    "a66c3f927ff1083752e83992575caafd",
-    "614402265cf0baa6c7b9f2ee9e8396b0",
-    "fdc487acdc2f43be3b6e8957057b856b",
     "e9b636801a2cdfaa476b973fad3f542a",
     "21c033fe3aff89167912070dc32c8ef6",
     "7cd2e6294710d4c446713dcbf775d08f",
@@ -1499,7 +1496,10 @@
     "819ccf66a2f62605317a23335037b75f",
     "a9c9d6d627fb5042de8fd0bfb4c72195",
     "fe99ba33a4cc7519603a09ba38a45a5c",
-    "2f43b14973ace97c140d458a0fdd67bd"
+    "2f43b14973ace97c140d458a0fdd67bd",
+    "09b8510d88acdeec8c8c287fc72bfcf8",
+    "6adfa456a85f769b04b928b2b164eb39",
+    "31379ff4827aae532757123bc368e5fb"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2116,7 +2116,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "man utd express interest in signing italian left back after reaching luke shaw e",
     "\ud83d\udea8 michael carrick confirmed he won\u2019t resign: \u201cit\u2019s not going to happen\u201d \u201cwe have",
     "\ud83d\udea8 \ud83c\uddea\ud83c\uddf8 official: jose mourinho wins the la liga manager of the month award for oct",
     "\ud83d\udea8 \ud83c\uddea\ud83c\uddf8 raul gonzalez blanco signs in as new real oviedo head coach, agreement conf",
@@ -2415,7 +2414,8 @@
     "chelsea\u2019s virgil van dijk interest revealed ahead of liverpool contract expiry",
     "ben jacobs: man utd want igor matanovic as january transfer chances revealed",
     "spurs fans braced for more \u2018overpaid\u2019 talk as interest in a truly prolific strik",
-    "\u2018i\u2019ll say goodbye\u2019: liverpool star makes worrying admission about his future"
+    "\u2018i\u2019ll say goodbye\u2019: liverpool star makes worrying admission about his future",
+    "barcelona schedule meetings for inter defender alessandro bastoni despite hansi "
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2720,7 +2720,7 @@
     "david alaba": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg/330px-20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "vincent joseph": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

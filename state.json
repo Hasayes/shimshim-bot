@@ -1,6 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/66411",
     "tg:FabrizioRomanoTG/66414",
     "7ec0bdd415611700d18eeb14ff7332d2",
     "6f36b1fa19c8cc6c366fd71b207fc4d4",
@@ -1499,7 +1498,8 @@
     "2eab0cc1a2e8b6cb79537650a7105b8b",
     "c273c06961c6170572eaef353b21d9ac",
     "42b0c3d739044ebdbc22585aa8466e7e",
-    "a28697e946ab5fe097d278659b275d17"
+    "a28697e946ab5fe097d278659b275d17",
+    "tg:FabrizioRomanoTG/68530"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2116,7 +2116,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83d\uddf3\ufe0f official: fifpro team of the year votes for midfielders rodri wins with 33 ",
     "\ud83d\udea8 \ud83d\uddf3\ufe0f official: fifpro team of the year votes for forwards mbappe wins it with 46",
     "\ud83d\udea8 \ud83d\udca3 manchester united consider michael carrick position at serious risk after tw",
     "man utd make transfer move for versatile juventus defender andrea cambiaso after",
@@ -2415,7 +2414,8 @@
     "desire doue replacements: who psg could target in january transfer window as inj",
     "transfermarkt dd live blog: gonzalez undergoing man city medical",
     "bruno fernandes twist as euro giant makes strong move for man utd ace",
-    "transfer rumors: van dijk offered liverpool exit; real madrid accept endrick sal"
+    "transfer rumors: van dijk offered liverpool exit; real madrid accept endrick sal",
+    "\ud83d\udea8 \u26a0\ufe0f official: desire doue has ruptured his acl and will be out until next seaso"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2720,7 +2720,7 @@
     "david alaba": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg/330px-20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "vincent joseph": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

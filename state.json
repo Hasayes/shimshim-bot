@@ -1,6 +1,5 @@
 {
   "sent": [
-    "7cd2e6294710d4c446713dcbf775d08f",
     "4fba019b1fb976911178a8782297ea84",
     "7485e9488339066d1d464641cca6d145",
     "3af2ba4742ebf380feb8328ebb8a1ae0",
@@ -1499,7 +1498,8 @@
     "6adfa456a85f769b04b928b2b164eb39",
     "31379ff4827aae532757123bc368e5fb",
     "3ee677efa917602b5f72a9b74f54e24f",
-    "a5a3653e08851dd852ad498450f32836"
+    "a5a3653e08851dd852ad498450f32836",
+    "147730729ef07f173c0ca677489d38f9"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2116,7 +2116,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83c\uddea\ud83c\uddf8 raul gonzalez blanco signs in as new real oviedo head coach, agreement conf",
     "\ud83d\udea8 \ud83c\udf15 official: pau cubarsi wins the golden boy award as european best young playe",
     "\ud83c\udf0e \u2b50\ufe0f official: world team of the year 2026 by fifpro https://t co/jlslxksi0w \u2014 f",
     "\ud83d\udea8 official: ballon d\u2019or harry kane has been left out of fifpro top 11 of the yea",
@@ -2415,7 +2414,8 @@
     "\u2018i\u2019ll say goodbye\u2019: liverpool star makes worrying admission about his future",
     "barcelona schedule meetings for inter defender alessandro bastoni despite hansi ",
     "liverpool alerted by bayern munich star\u2019s \u00a3147m release clause \u2013 not olise",
-    "fabrizio romano reveals man united\u2019s january transfer plans as decisions emerge "
+    "fabrizio romano reveals man united\u2019s january transfer plans as decisions emerge ",
+    "cagliari want camarda in january and could also include mendy for milan"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2720,7 +2720,7 @@
     "david alaba": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg/330px-20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "vincent joseph": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

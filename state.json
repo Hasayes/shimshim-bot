@@ -1,7 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/66423",
-    "tg:FabrizioRomanoTG/66424",
     "tg:FabrizioRomanoTG/66426",
     "bd2981d6d939b80f8a081daf38b94f04",
     "tg:FabrizioRomanoTG/66427",
@@ -1499,7 +1497,9 @@
     "37cd8583b447e6275a6c7c20413ce3f3",
     "be16b46f97c1aa8655a97d1ff34d78d4",
     "e37afe61964b6de64c730aa052e38e5d",
-    "d0037f0247562eac2115e2d07007f437"
+    "d0037f0247562eac2115e2d07007f437",
+    "858dce8ed2a63b7da7f93e9cca2a1bee",
+    "def7d13aae0205a3f320f01bdc1a69a5"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2116,7 +2116,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "barcelona target 24 year old arsenal ace but fabrizio romano delivers transfer v",
     "aston villa verbally agree deal with man utd left back target",
     "diogo dalot embodies man utd mediocrity but shameless fans will thank him in the",
     "fc barcelona interested in bayern munich star jonathan tah",
@@ -2415,7 +2414,8 @@
     "\ud83d\udea8 bruno fernandes: \u201ctwo summers ago, three summers ago, last summer, i always ha",
     "\ud83d\udea8 \ud83d\udfe1 \ud83d\udd34 as roma are closing in on new deal for mario hermoso, almost done and set ",
     "jamal musiala unfazed by controversy per report",
-    "bayern munich news: nicolo tresoldi on fc bayern\u2019s radar?; arsenal, liverpool, c"
+    "bayern munich news: nicolo tresoldi on fc bayern\u2019s radar?; arsenal, liverpool, c",
+    "ahead of psg and arsenal: barcelona receive a valuable signal from france strike"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2720,7 +2720,7 @@
     "david alaba": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg/330px-20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "vincent joseph": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

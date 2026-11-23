@@ -1,6 +1,5 @@
 {
   "sent": [
-    "d234b8c1c518829d7c2fe60b7b58a62a",
     "tg:FabrizioRomanoTG/66436",
     "tg:FabrizioRomanoTG/66440",
     "619aaff9516e1de111aa72a4048b678a",
@@ -1499,7 +1498,8 @@
     "0df8f42aae32bff42d1b3fa851ea2c5c",
     "6191884173db03a3ebaeccb8b1e7d978",
     "tg:FabrizioRomanoTG/68568",
-    "tg:FabrizioRomanoTG/68573"
+    "tg:FabrizioRomanoTG/68573",
+    "tg:FabrizioRomanoTG/68580"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2116,7 +2116,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "\ud83d\udd34 \u26aa\ufe0f atletico madrid talent gabriel obama has been included in fernando torres\u2019 ",
     "tottenham face tel injury concern amid transfer interest",
     "how mauricio pochettino really feels about man utd job revealed after michael ca",
     "bayern munich consider sensational loris karius swoop in post manuel neuer goalk",
@@ -2415,7 +2414,8 @@
     "transfer rumors, news: real madrid want arsenal star saliba espn",
     "alejandro garnacho chooses between chelsea and napoli with",
     "rt @fabrizioromano : \ud83d\udea8 \ud83d\udd34 \u26ab\ufe0f ac milan have agreed terms with markus krosche to be",
-    "\ud83d\udea8 \ud83d\udd34 \u26ab\ufe0f markus krosche will start working for ac milan as new head of football fr"
+    "\ud83d\udea8 \ud83d\udd34 \u26ab\ufe0f markus krosche will start working for ac milan as new head of football fr",
+    "\ud83d\udcfa new youtube video uploaded! \ud83c\udfac \ud83d\udea8 \ud83d\udca3 xabi: chelsea decision! united: poch & trans"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2720,7 +2720,7 @@
     "david alaba": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg/330px-20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "vincent joseph": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

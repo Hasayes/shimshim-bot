@@ -1,7 +1,5 @@
 {
   "sent": [
-    "4be63ac65159dcc9863556bacabe6cf2",
-    "c7ec956c2a2529a456811ddd4b457d8f",
     "04dc2aff7618f96b313bb48d3c1e63aa",
     "48d55e1a6aa4e646b113022241c9e281",
     "d234b8c1c518829d7c2fe60b7b58a62a",
@@ -1499,7 +1497,9 @@
     "f46fffdcb5fea24ee1e791895e58ee8e",
     "77ffa5f0c41469ee882da16ec5c2d08d",
     "tg:FabrizioRomanoTG/68557",
-    "b603dc5d18e5b251fd8f8ba9ffeb0201"
+    "b603dc5d18e5b251fd8f8ba9ffeb0201",
+    "0df8f42aae32bff42d1b3fa851ea2c5c",
+    "6191884173db03a3ebaeccb8b1e7d978"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2116,8 +2116,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "man utd will sack michael carrick and have shortlisted three managers \u2013 david or",
-    "bayern munich news: is manchester united eyeing a couple of coaches with fc baye",
     "bayern munich has goalkeeper targets in mind for summer plans",
     "\ud83d\udea8 \ud83c\uddec\ud83c\udded sturm graz have agreed deal to sign ghana talent araphat mohammed mohammed ",
     "\ud83d\udd34 \u26aa\ufe0f atletico madrid talent gabriel obama has been included in fernando torres\u2019 ",
@@ -2415,7 +2413,9 @@
     "olise\u2019s controversial like in the musiala affair: have bayern munich scored a co",
     "\"untouchable\": huge english offer for barcelona star as club refuse to bargain",
     "'untouchable': huge english offer for barcelona star as club refuse to bargain",
-    "\ud83c\udf0d \ud83c\udfc6 cas are set to deliver the final verdict on afcon 2025 official winner on tu"
+    "\ud83c\udf0d \ud83c\udfc6 cas are set to deliver the final verdict on afcon 2025 official winner on tu",
+    "transfer rumors, news: real madrid want arsenal star saliba espn",
+    "alejandro garnacho chooses between chelsea and napoli with"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2720,7 +2720,7 @@
     "david alaba": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg/330px-20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "vincent joseph": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

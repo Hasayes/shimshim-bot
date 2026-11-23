@@ -1,6 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/66427",
     "a11212d48cbe3de99b7daeebc43b700f",
     "e323effce76651ca7377527b5010a8d3",
     "067ff3bf7a9873dbb9de828bad7ea88e",
@@ -1499,7 +1498,8 @@
     "858dce8ed2a63b7da7f93e9cca2a1bee",
     "def7d13aae0205a3f320f01bdc1a69a5",
     "ef16dbb0f031031dbfa7f373864e48af",
-    "9043e14fb126eb1e6e87ac45ca06a6a2"
+    "9043e14fb126eb1e6e87ac45ca06a6a2",
+    "9eb45e40f3ab05d2e57505fa4034217e"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2116,7 +2116,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "fc barcelona interested in bayern munich star jonathan tah",
     "report milan reject cisse offer from brighton and hove albion, plan new contract",
     "barcelona make enquiry for bayern munich defender ahead of january window \u2013 repo",
     "ornstein: carrick sack imminent as pochettino on three man man utd shortlist",
@@ -2415,7 +2414,8 @@
     "bayern munich news: nicolo tresoldi on fc bayern\u2019s radar?; arsenal, liverpool, c",
     "ahead of psg and arsenal: barcelona receive a valuable signal from france strike",
     "romano gives update on liverpool, aston villa interest in endrick with one club ",
-    "man utd: pochettino \u2018determined to sign\u2019 newcastle star in \u2018very likely\u2019 deal as"
+    "man utd: pochettino \u2018determined to sign\u2019 newcastle star in \u2018very likely\u2019 deal as",
+    "olise\u2019s controversial like in the musiala affair: have bayern munich scored a co"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2720,7 +2720,7 @@
     "david alaba": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg/330px-20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "vincent joseph": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

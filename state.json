@@ -1,6 +1,5 @@
 {
   "sent": [
-    "0342c5a8b51db8e4dee3f54d737635a8",
     "81141c87807d206b82e24be17540907d",
     "d628c5619f4546e8752db114564605ea",
     "7f5b84c6956fbfc81cd6bfc02e9711b1",
@@ -1499,7 +1498,8 @@
     "83241c799d3d677ded6a456cbb091e95",
     "0c6a7f974c2a0d82cb727996b7bb3799",
     "7d13fbce8d6d345a06274037caf33df3",
-    "876b0840b04781c121417306817e01fd"
+    "876b0840b04781c121417306817e01fd",
+    "c947d78f66d644924295d20bb9e87874"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2116,7 +2116,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "romano rates arsenal chances of signing mesmerising \u00a367m winger as rb leipzig de",
     "bundesliga defender \u2018would be delighted\u2019 to join barcelona \u2013 romano",
     "transfer rumors, news: arsenal to offload three players, with atletico keen",
     "he wants the job: conte is man utd's only better option than pochettino",
@@ -2415,7 +2414,8 @@
     "man united forward attracting interest from como",
     "transfer news live: arsenal begin january talks; man utd target toney; scott to ",
     "real madrid president was \u2018obsessed\u2019 with french winger in the summer; will retu",
-    "courtois chooses real madrid over bigger offers"
+    "courtois chooses real madrid over bigger offers",
+    "joshua zirkzee open to man utd exit with three serie a clubs keen"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2720,7 +2720,7 @@
     "david alaba": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg/330px-20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "vincent joseph": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

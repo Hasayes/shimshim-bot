@@ -1,7 +1,5 @@
 {
   "sent": [
-    "365312f1b4f2baf6eee8eca939e80921",
-    "6978de520d792bbaa075c6b80d133ba7",
     "59e7d4139a7b56c2319bce92b41b3ad1",
     "789cc7a3a7a077d7b62c8d38417db9e6",
     "848fc5762abaa95de195cff383cbf854",
@@ -1499,7 +1497,9 @@
     "f44cfad62167e65b7cfd6f835962f740",
     "a44a705abe0b4ea1fb3ac275a9904127",
     "54ef1e2dcaf751e13499b6a197ec8cac",
-    "77d149d509cb0339ef8e049665990ae2"
+    "77d149d509cb0339ef8e049665990ae2",
+    "cd046e5a2780e3e8c1bdeb094f9de8d0",
+    "tg:FabrizioRomanoTG/68589"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2116,8 +2116,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "fabrizio romano gives verdict on barcelona\u2019s chance of landing arsenal man",
-    "romano: man utd hold talks to appoint eddie howe instead of pochettino",
     "world class superstar tells liverpool he wants to sign as talks begin",
     "carrick near manchester united exit as potential replacements rear up *full list",
     "tottenham ready to spend big in key area as david ornstein delivers encouraging ",
@@ -2415,7 +2413,9 @@
     "mauricio pochettino decides on first man utd transfer after liverpool mauling mi",
     "fabrizio romano reveals man utd transfer talks \u2018this week\u2019 as top priority named",
     "como interested in manchester united\u2019s zirkzee following long term kean setback",
-    "inter milan hold \u201cpositive\u201c contract extension talks with yann bisseck"
+    "inter milan hold \u201cpositive\u201c contract extension talks with yann bisseck",
+    "roundup: bayern munich players appear at local fan clubs",
+    "\ud83d\udea8 official: leny yoro\u2019s red card has been overturned fa statement: \u201cleny yoro\u2019s "
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2720,7 +2720,7 @@
     "david alaba": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg/330px-20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "vincent joseph": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

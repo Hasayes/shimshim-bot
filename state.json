@@ -1,6 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/66442",
     "tg:FabrizioRomanoTG/66443",
     "tg:FabrizioRomanoTG/66444",
     "bb67b6f95c77a7697d682dcb0b420c2d",
@@ -1499,7 +1498,8 @@
     "73161f19ad8193f7e5c1257b66f0edeb",
     "968688a4c878f8e2021ce66a65d14d2c",
     "263c066fe0a9608ed9a49d15dd1d9d56",
-    "817a5b85584a90bb489be83b7bc4c0a2"
+    "817a5b85584a90bb489be83b7bc4c0a2",
+    "1be5d9c8fb667f09209c3d3b50c70802"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2116,7 +2116,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "man utd: pochettino reaches \u2018instant decision\u2019 on replacing carrick as two vital",
     "endrick: \u201ci don\u2019t know what will happen in january madrid is great, but i want t",
     "romano reveals man utd move to appoint eddie howe with three manager \u2018candidates",
     "barcelona reignite jonathan tah pursuit as catalans seek experienced partner for",
@@ -2415,7 +2414,8 @@
     "man utd: romano reveals truth over \u00a384m bid for barcelona star as fernandes face",
     "fede valverde set to sign new real madrid contract until 2031, fabrizio romano c",
     "alajbegovic half time withdrawal not a major concern for juventus",
-    "bayern munich accused of \u2018despicable\u2019 plot to cut jamal musiala\u2019s \u00a318 4m salary "
+    "bayern munich accused of \u2018despicable\u2019 plot to cut jamal musiala\u2019s \u00a318 4m salary ",
+    "mauricio pochettino decides on first man utd transfer after liverpool mauling mi"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2720,7 +2720,7 @@
     "david alaba": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg/330px-20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "vincent joseph": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

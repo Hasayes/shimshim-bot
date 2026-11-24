@@ -1,8 +1,5 @@
 {
   "sent": [
-    "81141c87807d206b82e24be17540907d",
-    "d628c5619f4546e8752db114564605ea",
-    "7f5b84c6956fbfc81cd6bfc02e9711b1",
     "31189bc4fe4aa3badb60d65c30093698",
     "9750dccb4db18480bb58a7746fa53813",
     "c411e860cbd0df0f1e6d9c61e491ef8f",
@@ -1499,7 +1496,10 @@
     "0c6a7f974c2a0d82cb727996b7bb3799",
     "7d13fbce8d6d345a06274037caf33df3",
     "876b0840b04781c121417306817e01fd",
-    "c947d78f66d644924295d20bb9e87874"
+    "c947d78f66d644924295d20bb9e87874",
+    "aa2d2222e5c12590a5faa3eeaa43a477",
+    "a377dd90b47ebbeba749dc322904b0f0",
+    "tg:FabrizioRomanoTG/68623"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2116,9 +2116,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "bundesliga defender \u2018would be delighted\u2019 to join barcelona \u2013 romano",
-    "transfer rumors, news: arsenal to offload three players, with atletico keen",
-    "he wants the job: conte is man utd's only better option than pochettino",
     "arsenal reach final decision on completing barcelona transfer in january \u2013 multi",
     "barcelona transfer news: hansi flick's side suffer 'major' blow as move for top ",
     "virgil van dijk drops retirement bombshell as liverpool reach new contract decis",
@@ -2415,7 +2412,10 @@
     "transfer news live: arsenal begin january talks; man utd target toney; scott to ",
     "real madrid president was \u2018obsessed\u2019 with french winger in the summer; will retu",
     "courtois chooses real madrid over bigger offers",
-    "joshua zirkzee open to man utd exit with three serie a clubs keen"
+    "joshua zirkzee open to man utd exit with three serie a clubs keen",
+    "como plot shock transfer move for man utd outcast joshua zirkzee after moise kea",
+    "\u00a3180m forwards reveal man utd \u2018dream\u2019 as liverpool, arsenal suffer blow",
+    "\ud83d\udea8 \ud83d\udfe1 \u26ab\ufe0f edward iordanescu has agreed all terms to become new watford head coach d"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2720,7 +2720,7 @@
     "david alaba": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg/330px-20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "vincent joseph": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

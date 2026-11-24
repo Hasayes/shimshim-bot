@@ -1,6 +1,5 @@
 {
   "sent": [
-    "619aaff9516e1de111aa72a4048b678a",
     "tg:FabrizioRomanoTG/66441",
     "tg:FabrizioRomanoTG/66442",
     "tg:FabrizioRomanoTG/66443",
@@ -1499,7 +1498,8 @@
     "tg:FabrizioRomanoTG/68573",
     "tg:FabrizioRomanoTG/68580",
     "73161f19ad8193f7e5c1257b66f0edeb",
-    "968688a4c878f8e2021ce66a65d14d2c"
+    "968688a4c878f8e2021ce66a65d14d2c",
+    "263c066fe0a9608ed9a49d15dd1d9d56"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2116,7 +2116,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "bayern munich consider sensational loris karius swoop in post manuel neuer goalk",
     "man utd next manager: \u2018dream candidate\u2019 says no to replacing carrick as howe tal",
     "man utd: pochettino reaches \u2018instant decision\u2019 on replacing carrick as two vital",
     "endrick: \u201ci don\u2019t know what will happen in january madrid is great, but i want t",
@@ -2415,7 +2414,8 @@
     "\ud83d\udea8 \ud83d\udd34 \u26ab\ufe0f markus krosche will start working for ac milan as new head of football fr",
     "\ud83d\udcfa new youtube video uploaded! \ud83c\udfac \ud83d\udea8 \ud83d\udca3 xabi: chelsea decision! united: poch & trans",
     "man utd: romano reveals truth over \u00a384m bid for barcelona star as fernandes face",
-    "fede valverde set to sign new real madrid contract until 2031, fabrizio romano c"
+    "fede valverde set to sign new real madrid contract until 2031, fabrizio romano c",
+    "alajbegovic half time withdrawal not a major concern for juventus"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2720,7 +2720,7 @@
     "david alaba": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg/330px-20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "vincent joseph": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

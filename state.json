@@ -1,6 +1,5 @@
 {
   "sent": [
-    "c5aaab51cc26e5cb7fa2510d15236386",
     "cd30fd3043943cd5e9b8ff4c5ec90827",
     "fd3ec7e4dde1497c1412c2bebc38f00d",
     "5040fad4025a26a215b54a4b480e7666",
@@ -1499,7 +1498,8 @@
     "46417d6ad3e64a02d756afb67dbe1fd9",
     "tg:FabrizioRomanoTG/68651",
     "tg:FabrizioRomanoTG/68656",
-    "tg:FabrizioRomanoTG/68658"
+    "tg:FabrizioRomanoTG/68658",
+    "tg:FabrizioRomanoTG/68660"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2116,7 +2116,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "tottenham: seven january striker targets ranked from most likely to sign to leas",
     "fabrizio romano reveals pochettino stance on marcus rashford future at man utd",
     "reports: arsenal transfer target matheus cunha likely to leave wolves",
     "\ud83d\udea8 breaking: manchester united have verbally agreed terms in principle with mauri",
@@ -2415,7 +2414,8 @@
     "man utd target collins wednesday's gossip",
     "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f official: fc bayern statement on jamal musiala \u201cbayern munich and jamal m",
     "\ud83d\udea8 bruno fernandes: \u201ci have had five managers since i've been here it hurts when ",
-    "\ud83d\udea8 barcelona appeal for fermin lopez red card has been officially rejected \u26a0\ufe0f the"
+    "\ud83d\udea8 barcelona appeal for fermin lopez red card has been officially rejected \u26a0\ufe0f the",
+    "\ud83d\udea8 \ud83c\uddf8\ud83c\uddf3 liverpool have verbally agreed deal to sign 16 year old winger sidy barhama"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2720,7 +2720,7 @@
     "david alaba": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg/330px-20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "vincent joseph": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

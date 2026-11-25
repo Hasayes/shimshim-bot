@@ -1,7 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/66470",
-    "1682fff8d10da7b1034e3fc680472dd1",
     "1cfc9e4a370baabb3ff4be54f431f7f3",
     "a29f41b7aefa2fd6eeec09029da92848",
     "f6923814e7d3bb7db27bf01b1bf6024b",
@@ -1499,7 +1497,9 @@
     "10aeeebc83a02f537f478681661a5a72",
     "80c555c7f2815f44d3f7e72029162510",
     "8f69eedb1785b0310100ef21015e56f1",
-    "3d3343115cb7493bc11811093868c615"
+    "3d3343115cb7493bc11811093868c615",
+    "1117135813ba012e63a59aab8f452100",
+    "46417d6ad3e64a02d756afb67dbe1fd9"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2116,7 +2116,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "sturm graz agree deal to sign ghanaian youngster araphat mohammed on a free tran",
     "\ud83d\udea8 \ud83d\udfe3 \ud83d\udd35 ian maatsen has signed a new deal at aston villa until june 2032, all done",
     "transfer rumors: endrick\u2019s premier league offer; ronaldo thwarts barcelona plan",
     "bayern munich news: nicolo tresoldi on fc bayern\u2019s radar; leroy sane on the move",
@@ -2415,7 +2414,8 @@
     "jude bellingham deal \u2018already done\u2019 after liverpool, arsenal enquiries and claus",
     "luca williams barnett signs long term tottenham deal, fabrizio romano reports",
     "victor osimhen: the hurdles between him and a january united move",
-    "michael olise likes post on fifpro defending jamal musiala from bayern munich\u2019s "
+    "michael olise likes post on fifpro defending jamal musiala from bayern munich\u2019s ",
+    "man utd target collins wednesday's gossip"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2720,7 +2720,7 @@
     "david alaba": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg/330px-20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "vincent joseph": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

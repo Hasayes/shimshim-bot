@@ -1,7 +1,5 @@
 {
   "sent": [
-    "7112ceac12878b7b2f6676ee5e70c7c3",
-    "0e415c2819692c641e51637dc0333c9c",
     "5e3a6b17e6195cdd91e396d4d17c44b4",
     "9f300ed5e3fe8f8f4df326f58d0f49f2",
     "c6e7598743a6dbbfe71503aea68d9c3b",
@@ -1499,7 +1497,9 @@
     "2b51bc2b21e942ceabf804aa352bd643",
     "3e4356013567a243eb9c22123560eb25",
     "4a9cfea64b34a73bf8af65b3bb8caa9c",
-    "37c2749e861302b7d18fcfa57b23fde3"
+    "37c2749e861302b7d18fcfa57b23fde3",
+    "0fc66fd816713c73533811393ccb6cca",
+    "a16ffc739e3c0aac75a8ae0ff87296dc"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2116,8 +2116,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "romano: man utd open talks with pochettino's agents to replace carrick",
-    "arsenal plot january swoop for 20 year old real madrid attacker \u2013 report",
     "real madrid star linked with arsenal leaves door open to january exit",
     "liverpool: elite star\u2019s agent reveals talks are underway after firm signing yes",
     "\ud83d\udea8 \ud83d\udca3 manchester united are advancing in talks to appoint mauricio pochettino as n",
@@ -2415,7 +2413,9 @@
     "champions league high fliers eyeing move for \u2018slick\u2019 man united ace after devast",
     "jude bellingham set to sign new five year contract with real madrid",
     "everyone wants varela: juventus and napoli have greater urgency and more obstacl",
-    "everyone wants varela: juventus and napoli face greater urgency and more problem"
+    "everyone wants varela: juventus and napoli face greater urgency and more problem",
+    "napoli's manna meets mctominay's agent in manchester for contract talks as milan",
+    "report: juventus, inter, napoli and five premier league clubs want monza\u2019s varel"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2720,7 +2720,7 @@
     "david alaba": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg/330px-20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "vincent joseph": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

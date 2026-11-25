@@ -1,6 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/66476",
     "bb65ce60f133b7c68460a7c5859f6d17",
     "66c3a68aef43c2c1e02bf4dc1abe3520",
     "b565ccf1f10d874ba727dad45b24e5a2",
@@ -1499,7 +1498,8 @@
     "d4890ce93e468e05797dd61158c720ec",
     "c26c9c8f67a0e8bfd99add1b6b7ea28f",
     "f382b99c1ae592e150b15409887450cd",
-    "de7444e07bcbc833b075b3b00755b335"
+    "de7444e07bcbc833b075b3b00755b335",
+    "ede67023d08f5d56b14ca86d01143464"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2116,7 +2116,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83d\udd34 official: michael carrick has been sacked, manchester united confirm https:/",
     "\ud83d\udea8 \ud83d\udd34 \ud83d\udd35 crystal palace have sacked pierre sage, decision made on monday and confir",
     "\ud83d\udea8 \ud83c\uddfa\ud83c\uddf8 breaking: manchester united appoint mauricio pochettino as new head coach, ",
     "\ud83d\udea8 \ud83c\udde6\ud83c\uddf7 official: walter samuel leaves his role into argentina staff to start a new",
@@ -2415,7 +2414,8 @@
     "transfer news live: arsenal get kroupi update; new man utd target; scott to chel",
     "man utd: romano reveals pochettino \u2018priority\u2019 signing in january as decision rea",
     "from italy: arsenal \u2018very interested\u2019 in signing 21 year old striker as \u20ac30m pri",
-    "fabrizio romano tips man utd triple deal in january amid important balogun updat"
+    "fabrizio romano tips man utd triple deal in january amid important balogun updat",
+    "\u00a367m rated man utd target reacts as he faces pochettino transfer audition tonigh"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2720,7 +2720,7 @@
     "david alaba": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg/330px-20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "vincent joseph": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

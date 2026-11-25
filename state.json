@@ -1,7 +1,5 @@
 {
   "sent": [
-    "a29f41b7aefa2fd6eeec09029da92848",
-    "f6923814e7d3bb7db27bf01b1bf6024b",
     "c5aaab51cc26e5cb7fa2510d15236386",
     "cd30fd3043943cd5e9b8ff4c5ec90827",
     "fd3ec7e4dde1497c1412c2bebc38f00d",
@@ -1499,7 +1497,9 @@
     "3d3343115cb7493bc11811093868c615",
     "1117135813ba012e63a59aab8f452100",
     "46417d6ad3e64a02d756afb67dbe1fd9",
-    "tg:FabrizioRomanoTG/68651"
+    "tg:FabrizioRomanoTG/68651",
+    "tg:FabrizioRomanoTG/68656",
+    "tg:FabrizioRomanoTG/68658"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2116,8 +2116,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "transfer rumors: endrick\u2019s premier league offer; ronaldo thwarts barcelona plan",
-    "bayern munich news: nicolo tresoldi on fc bayern\u2019s radar; leroy sane on the move",
     "tottenham: seven january striker targets ranked from most likely to sign to leas",
     "fabrizio romano reveals pochettino stance on marcus rashford future at man utd",
     "reports: arsenal transfer target matheus cunha likely to leave wolves",
@@ -2415,7 +2413,9 @@
     "victor osimhen: the hurdles between him and a january united move",
     "michael olise likes post on fifpro defending jamal musiala from bayern munich\u2019s ",
     "man utd target collins wednesday's gossip",
-    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f official: fc bayern statement on jamal musiala \u201cbayern munich and jamal m"
+    "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f official: fc bayern statement on jamal musiala \u201cbayern munich and jamal m",
+    "\ud83d\udea8 bruno fernandes: \u201ci have had five managers since i've been here it hurts when ",
+    "\ud83d\udea8 barcelona appeal for fermin lopez red card has been officially rejected \u26a0\ufe0f the"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2720,7 +2720,7 @@
     "david alaba": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg/330px-20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "vincent joseph": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

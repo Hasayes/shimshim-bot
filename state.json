@@ -1,6 +1,5 @@
 {
   "sent": [
-    "2d09682653a905dfff5ebd937d8e27b4",
     "tg:FabrizioRomanoTG/66469",
     "tg:FabrizioRomanoTG/66470",
     "1682fff8d10da7b1034e3fc680472dd1",
@@ -1499,7 +1498,8 @@
     "a3abd0ccc01f6ae1ce52756c2ebed785",
     "022d0597f2d0bd5cdba4b47413f0a2dc",
     "10aeeebc83a02f537f478681661a5a72",
-    "80c555c7f2815f44d3f7e72029162510"
+    "80c555c7f2815f44d3f7e72029162510",
+    "8f69eedb1785b0310100ef21015e56f1"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2116,7 +2116,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "\ud83d\udea8 mauricio pochettino, ready to become the new man united head coach with talks ",
     "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 pedro porro on barcelona interest: \u201cit feels always like a compliment when",
     "sturm graz agree deal to sign ghanaian youngster araphat mohammed on a free tran",
     "\ud83d\udea8 \ud83d\udfe3 \ud83d\udd35 ian maatsen has signed a new deal at aston villa until june 2032, all done",
@@ -2415,7 +2414,8 @@
     "cesc fabregas the no 1 target to replace xabi alonso as chelsea timeline set",
     "fabrizio romano confirms liverpool move for real madrid star",
     "jude bellingham deal \u2018already done\u2019 after liverpool, arsenal enquiries and claus",
-    "luca williams barnett signs long term tottenham deal, fabrizio romano reports"
+    "luca williams barnett signs long term tottenham deal, fabrizio romano reports",
+    "victor osimhen: the hurdles between him and a january united move"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2720,7 +2720,7 @@
     "david alaba": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg/330px-20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "vincent joseph": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

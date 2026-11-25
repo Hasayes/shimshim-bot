@@ -1,6 +1,5 @@
 {
   "sent": [
-    "5e3a6b17e6195cdd91e396d4d17c44b4",
     "9f300ed5e3fe8f8f4df326f58d0f49f2",
     "c6e7598743a6dbbfe71503aea68d9c3b",
     "tg:FabrizioRomanoTG/66466",
@@ -1499,7 +1498,8 @@
     "4a9cfea64b34a73bf8af65b3bb8caa9c",
     "37c2749e861302b7d18fcfa57b23fde3",
     "0fc66fd816713c73533811393ccb6cca",
-    "a16ffc739e3c0aac75a8ae0ff87296dc"
+    "a16ffc739e3c0aac75a8ae0ff87296dc",
+    "a3abd0ccc01f6ae1ce52756c2ebed785"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2116,7 +2116,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "real madrid star linked with arsenal leaves door open to january exit",
     "liverpool: elite star\u2019s agent reveals talks are underway after firm signing yes",
     "\ud83d\udea8 \ud83d\udca3 manchester united are advancing in talks to appoint mauricio pochettino as n",
     "\ud83d\udea8 michael carrick, at carrington today to lead manchester united training again ",
@@ -2415,7 +2414,8 @@
     "everyone wants varela: juventus and napoli have greater urgency and more obstacl",
     "everyone wants varela: juventus and napoli face greater urgency and more problem",
     "napoli's manna meets mctominay's agent in manchester for contract talks as milan",
-    "report: juventus, inter, napoli and five premier league clubs want monza\u2019s varel"
+    "report: juventus, inter, napoli and five premier league clubs want monza\u2019s varel",
+    "cesc fabregas the no 1 target to replace xabi alonso as chelsea timeline set"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2720,7 +2720,7 @@
     "david alaba": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg/330px-20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "vincent joseph": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

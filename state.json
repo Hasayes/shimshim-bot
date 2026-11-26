@@ -1,6 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/66487",
     "8f983ee30c4021fc40e90c961148ada3",
     "tg:FabrizioRomanoTG/66489",
     "53857133041e26f8aedfa0a21b278565",
@@ -1499,7 +1498,8 @@
     "503d30f637d4af3d50d071fab95c4fd0",
     "069643fff473aa7130414a16456b3b0e",
     "05710e2b27ac6220d7667071562f4ded",
-    "tg:FabrizioRomanoTG/68679"
+    "tg:FabrizioRomanoTG/68679",
+    "02e36a51858b6708065d1d6498334a13"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2116,7 +2116,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "\ud83d\udea8 \u26aa\ufe0f latif issman has signed for real madrid with a deal valid from 2027 19 year",
     "\ud83d\udea8 \ud83d\udd34 official: mauricio pochettino has been confirmed as new manchester united he",
     "\u2764\ufe0f michael carrick\u2019s letter to manchester united fans \u201cdear united fans, i've ha",
     "\u2b50\ufe0f official: nicolas jackson wins premier league player of the month for october",
@@ -2415,7 +2414,8 @@
     "juventus express interest in fernandes, psg consider diaz and estevao euro trans",
     "liverpool seal deal to sign new winger as fabrizio romano declares \u2018here we go\u2019",
     "\u2018liverpool have verbally agreed deal\u2019 \u2013 fabrizio romano shares exciting transfer",
-    "\ud83d\udea8 luis enrique: \u201croma were the hardest match we\u2019ve had to play so far i don\u2019t wa"
+    "\ud83d\udea8 luis enrique: \u201croma were the hardest match we\u2019ve had to play so far i don\u2019t wa",
+    "investing in the future: liverpool agree deal for senegalese talent shining at t"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2720,7 +2720,7 @@
     "david alaba": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg/330px-20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "vincent joseph": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

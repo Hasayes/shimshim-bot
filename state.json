@@ -1,7 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/66495",
-    "0f579d319743f63a5673695aaf0d826a",
     "4d9bd20a59b370a6f54919f001f8f12b",
     "d0398454ae3dcd949ad33def8b60dbd3",
     "eb68865068b52fe0aabb444996b82ca0",
@@ -1499,7 +1497,9 @@
     "e40eea1d4e36cfea3ef1bf51282bdc07",
     "tg:FabrizioRomanoTG/68687",
     "3f4eef7a609a82f939a67b8343c681dd",
-    "38a58209eed5c25b0038ff68c30a2316"
+    "38a58209eed5c25b0038ff68c30a2316",
+    "06b3c1e2ff26896231ac4faa01e6ceca",
+    "tg:FabrizioRomanoTG/68688"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2116,7 +2116,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "\ud83d\udc55 \ud83c\uddf5\ud83c\uddf9 official: portugal change no7 style on shirt from now on \u2014 as tribute for t",
     "bayern munich news: the aftermath of germany\u2019s 3 1 win over serbia; real madrid ",
     "psv make kevin de bruyne's shortlist as belgian considers napoli exit",
     "romano: man utd would be keen to sign nico paz for mauricio pochettino",
@@ -2415,7 +2414,8 @@
     "pep guardiola confirms his next career move just months after leaving manchester",
     "\ud83d\udea8 \u26ab\ufe0f \ud83d\udd35 carlos augusto, set to sign a new contract at inter until june 2031 on fr",
     "evanilson: fabrizio romano on man united\u2019s january pursuit of bournemouth star",
-    "liverpool face major transfer threat as bayern munich target two key players"
+    "liverpool face major transfer threat as bayern munich target two key players",
+    "\ud83d\udea8 dominic calvert lewin signs new deal until june 2029 at leeds united, confirme"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2720,7 +2720,7 @@
     "david alaba": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg/330px-20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "vincent joseph": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

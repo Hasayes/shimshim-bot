@@ -1,6 +1,5 @@
 {
   "sent": [
-    "eb68865068b52fe0aabb444996b82ca0",
     "97d16d40368a715e98da876fb59089b5",
     "9f4af67d17b2344caf5d5a86b287cd2a",
     "cc1a0e068fdadcf416bdb6a7bce08ab7",
@@ -1499,7 +1498,8 @@
     "06b3c1e2ff26896231ac4faa01e6ceca",
     "tg:FabrizioRomanoTG/68688",
     "f66cfdd0105024cb58b60dd499ed8837",
-    "cb332ddb782f1868a5f277e90ae4f0c5"
+    "cb332ddb782f1868a5f277e90ae4f0c5",
+    "f09039d5e48b9de5659c0b58d8b14fb1"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2116,7 +2116,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "romano: man utd would be keen to sign nico paz for mauricio pochettino",
     "pochettino told \u2018damaged\u2019 bruno fernandes is done at man utd as romano delivers ",
     "man utd: romano confirms pochettino first signing \u2018complete\u2019 with deal for \u2018tale",
     "man utd sign \u2018athletic\u2019 england youth striker tyler adjei, 16, from reading in f",
@@ -2415,7 +2414,8 @@
     "liverpool face major transfer threat as bayern munich target two key players",
     "\ud83d\udea8 dominic calvert lewin signs new deal until june 2029 at leeds united, confirme",
     "liverpool & man united transfer target revealed to have bargain \u20ac23m release cla",
-    "joshua kimmich takes on bayern munich over 'unacceptable' treatment of jamal mus"
+    "joshua kimmich takes on bayern munich over 'unacceptable' treatment of jamal mus",
+    "fabrizio romano has shock new information about dominic calvert lewin leeds unit"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2720,7 +2720,7 @@
     "david alaba": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg/330px-20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "vincent joseph": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

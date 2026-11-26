@@ -1,6 +1,5 @@
 {
   "sent": [
-    "a51ee745f070918284114e7360ea29f1",
     "f87c040367d489cafdf7e47a0d24a3ea",
     "94e3a6baaf9e83ff17b7aba946bf9017",
     "4de86b2d53e220a7479c15d24b9e0d22",
@@ -1499,7 +1498,8 @@
     "02e36a51858b6708065d1d6498334a13",
     "22c0d0bb906fd9e66f830812fae8179b",
     "e616b61b609056b174bd2c434d35e13e",
-    "a3296cb12fbfec7af7292ac0b1410a96"
+    "a3296cb12fbfec7af7292ac0b1410a96",
+    "bf36780ad9140dbd1ef64872a2c10e90"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2116,7 +2116,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "\u2b50\ufe0f official: roberto de zerbi wins premier league manager of the month award for",
     "\ud83c\udde7\ud83c\uddf7 brazilian talent eduardo pape from cruzeiro confirms he has officially signed",
     "\ud83d\udea8 \ud83d\udd34 manchester united complete deal to sign tyler adjei from reading \u2014 all done ",
     "\u26bd\ufe0f \u26bd\ufe0f \ud83c\udde7\ud83c\uddf7 vinicius jr, back to scoring goals for the first time since september (",
@@ -2415,7 +2414,8 @@
     "investing in the future: liverpool agree deal for senegalese talent shining at t",
     "liverpool mull quansah return thursday's gossip",
     "liverpool seal deal to sign new winger as fabrizio romano declares \u2018here we go\u2019 ",
-    "liverpool tee up deal for senegal wonderkid as transfer 'option' agreed liverpoo"
+    "liverpool tee up deal for senegal wonderkid as transfer 'option' agreed liverpoo",
+    "liverpool agree deal to sign 16 year old senegalese wonderkid sidy barhama ndiay"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2720,7 +2720,7 @@
     "david alaba": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg/330px-20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "vincent joseph": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

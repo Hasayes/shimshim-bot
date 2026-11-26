@@ -1,7 +1,5 @@
 {
   "sent": [
-    "bc7c0835ed85ea6d847935a1a7d8057e",
-    "a5eeac2ccf19fdc62ba45f8455d8f3cd",
     "83134c349f8d97202ca52409bba271bd",
     "tg:FabrizioRomanoTG/66487",
     "8f983ee30c4021fc40e90c961148ada3",
@@ -1499,7 +1497,9 @@
     "7faca724bbfc55fe59efbc1a3b9f872f",
     "f17421b813be2c66c49f97b5419df021",
     "74eecaa170ea9402468596211efa2127",
-    "503d30f637d4af3d50d071fab95c4fd0"
+    "503d30f637d4af3d50d071fab95c4fd0",
+    "069643fff473aa7130414a16456b3b0e",
+    "05710e2b27ac6220d7667071562f4ded"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2116,8 +2116,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "\ud83d\udea8 manchester united have appointed their new manager: mauricio pochettino done d",
-    "\ud83d\udea8 \ud83d\udd34 mauricio pochettino has signed his contract as new manchester united head co",
     "\ud83d\udea8 \ud83c\udde7\ud83c\uddf7 raphinha: \u201ci don't want to get injured again i want to be available not onl",
     "\ud83d\udea8 \u26aa\ufe0f latif issman has signed for real madrid with a deal valid from 2027 19 year",
     "\ud83d\udea8 \ud83d\udd34 official: mauricio pochettino has been confirmed as new manchester united he",
@@ -2415,7 +2413,9 @@
     "ornstein predicts first man utd january signing and reacts to \u00a350m \u2018budget\u2019 clai",
     "victor osimhen reaches decision on joining man utd in january as ineos shortlist",
     "man utd: victor osimhen reaches final decision on joining red devils in january ",
-    "juventus express interest in fernandes, psg consider diaz and estevao euro trans"
+    "juventus express interest in fernandes, psg consider diaz and estevao euro trans",
+    "liverpool seal deal to sign new winger as fabrizio romano declares \u2018here we go\u2019",
+    "\u2018liverpool have verbally agreed deal\u2019 \u2013 fabrizio romano shares exciting transfer"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2720,7 +2720,7 @@
     "david alaba": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg/330px-20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "vincent joseph": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

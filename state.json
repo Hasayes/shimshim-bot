@@ -1,6 +1,5 @@
 {
   "sent": [
-    "f87c040367d489cafdf7e47a0d24a3ea",
     "94e3a6baaf9e83ff17b7aba946bf9017",
     "4de86b2d53e220a7479c15d24b9e0d22",
     "a18d3278abccb06151dccdedcfaa7700",
@@ -1499,7 +1498,8 @@
     "22c0d0bb906fd9e66f830812fae8179b",
     "e616b61b609056b174bd2c434d35e13e",
     "a3296cb12fbfec7af7292ac0b1410a96",
-    "bf36780ad9140dbd1ef64872a2c10e90"
+    "bf36780ad9140dbd1ef64872a2c10e90",
+    "e40eea1d4e36cfea3ef1bf51282bdc07"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2116,7 +2116,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "\ud83c\udde7\ud83c\uddf7 brazilian talent eduardo pape from cruzeiro confirms he has officially signed",
     "\ud83d\udea8 \ud83d\udd34 manchester united complete deal to sign tyler adjei from reading \u2014 all done ",
     "\u26bd\ufe0f \u26bd\ufe0f \ud83c\udde7\ud83c\uddf7 vinicius jr, back to scoring goals for the first time since september (",
     "\ud83c\udde7\ud83c\uddf7 ronaldinho has arrived for his pre match training session with italian 3rd di",
@@ -2415,7 +2414,8 @@
     "liverpool mull quansah return thursday's gossip",
     "liverpool seal deal to sign new winger as fabrizio romano declares \u2018here we go\u2019 ",
     "liverpool tee up deal for senegal wonderkid as transfer 'option' agreed liverpoo",
-    "liverpool agree deal to sign 16 year old senegalese wonderkid sidy barhama ndiay"
+    "liverpool agree deal to sign 16 year old senegalese wonderkid sidy barhama ndiay",
+    "pep guardiola confirms his next career move just months after leaving manchester"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2720,7 +2720,7 @@
     "david alaba": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg/330px-20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "vincent joseph": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

@@ -1,7 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/66508",
-    "719e769aebda9bb32a0548a673ab499c",
     "d736dd53243172a60751322dd8641fa8",
     "ff05ab17a4896b378703c32ba5b5b66e",
     "5dfe0e0f9e6cdc1b44002ead604b3b43",
@@ -1499,7 +1497,9 @@
     "3abda99e67dedcc93cac7ed0de837811",
     "24c7fe8f9b298e7d41ea3dd79c61b54a",
     "dd5c73564d3cbdf44beef7a02ef59349",
-    "0c98053b2835bc7b77d44b9cdb036f5c"
+    "0c98053b2835bc7b77d44b9cdb036f5c",
+    "8ca20c575771f4d652bd7eb24b060306",
+    "0713b453f2dc14936f41cb4b540f39e4"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2117,7 +2117,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "martin odegaard breaks silence on arsenal future as captain provides fresh contr",
     "rashford ready for new man utd role, pochettino is obsessed with him",
     "arsenal accelerate move for antonio nusa as andrea berta eyes two january priori",
     "portugal redesigns no 7 shirt to honour ronaldo after retirement",
@@ -2416,7 +2415,8 @@
     "christian purslow reveals hidden \u00a310m fee and 'big' wages in leeds united deal f",
     "liverpool transfer news: who is sidy barhama ndiaye, the 16 year old senegalese ",
     "man utd: final decision reached on selling barcelona star to red devils after \u20ac1",
-    "archie brown has \u20ac23m release clause at fenerbahce as liverpool and manchester u"
+    "archie brown has \u20ac23m release clause at fenerbahce as liverpool and manchester u",
+    "\ud83d\udd25 everyone wants camarda, juve swoop, lang\u2019s future: today\u2019s news"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2721,7 +2721,7 @@
     "david alaba": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg/330px-20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "vincent joseph": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

@@ -1,6 +1,5 @@
 {
   "sent": [
-    "f73bf71c9481cfc79e5d9f12871bbe43",
     "d72fc09f400252ce595c6fc809b554fd",
     "tg:FabrizioRomanoTG/66507",
     "tg:FabrizioRomanoTG/66508",
@@ -1499,7 +1498,8 @@
     "546c56a9dc381c52a67ae95d372b4415",
     "d0112e977e69b93ad377f929021f8b53",
     "099559fec937209eabc3d320cc4795fd",
-    "3abda99e67dedcc93cac7ed0de837811"
+    "3abda99e67dedcc93cac7ed0de837811",
+    "24c7fe8f9b298e7d41ea3dd79c61b54a"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2117,7 +2117,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "chelsea keen to sign premier league star who could solve key issue for xabi alon",
     "report: arsenal \u2018accelerating\u2019 efforts to sign \u20ac80m rated winger as talks held w",
     "fabrizio romano names the player man united\u2019s new manager pochettino is \u201cobsesse",
     "martin odegaard breaks silence on arsenal future as captain provides fresh contr",
@@ -2416,7 +2415,8 @@
     "liverpool target mercurial \u00a342m right winger after man utd contact \u2013 report",
     "michael olise transfer news: bayern open contract talks as real madrid lurk over",
     "leeds utd complete \u2018club record\u2019 deal with man utd transfer target",
-    "christian purslow reveals hidden \u00a310m fee and 'big' wages in leeds united deal f"
+    "christian purslow reveals hidden \u00a310m fee and 'big' wages in leeds united deal f",
+    "liverpool transfer news: who is sidy barhama ndiaye, the 16 year old senegalese "
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2721,7 +2721,7 @@
     "david alaba": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg/330px-20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "vincent joseph": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

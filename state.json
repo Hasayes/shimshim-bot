@@ -1,7 +1,5 @@
 {
   "sent": [
-    "a871674eb8f9cb4c1f037c0057bcb53b",
-    "44502c48a287e9e018fcedb5b39cd53a",
     "19755904d074bf0c239261dd94621697",
     "3fbeecfb33417c532fdf34064d2fefff",
     "a2ef6a32a2679135ba8952275515fc22",
@@ -1499,7 +1497,9 @@
     "9d11e9c62331a745db13da6e14501e2c",
     "tg:FabrizioRomanoTG/68696",
     "tg:FabrizioRomanoTG/68706",
-    "abbd0f02e6238be89c6712e346d99476"
+    "abbd0f02e6238be89c6712e346d99476",
+    "tg:FabrizioRomanoTG/68709",
+    "tg:FabrizioRomanoTG/68710"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2117,8 +2117,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "man utd get green light to seal rayan deal as pochettino's first signing",
-    "kevin de bruyne to psv? belgian newspapers reveal latest developments as winter ",
     "\u00a3100k per week liverpool player will not accept current role and could leave",
     "\ud83d\udea8 \ud83c\uddea\ud83c\uddf8 official: spain unbeaten run is over after 43 games (and 11 wins in a row) ",
     "man utd choose \u00a3125m superstar as first pochettino signing amid romano update",
@@ -2416,7 +2414,9 @@
     "watch: liverpool bound sidy barhama ndiaye scores stunning world cup goal to con",
     "\ud83d\udea8 \u26aa\ufe0f official: brahim diaz signs new long term deal at real madrid until june 20",
     "\ud83d\udea8 mauricio pochettino on carlos baleba injury: \u201cthe medical people were talking ",
-    "bayern munich could reconsider transfers policy amid injury crisis"
+    "bayern munich could reconsider transfers policy amid injury crisis",
+    "\ud83d\udea8 \ud83d\udca3 breaking: man united confirm they activate option to extend bruno fernandes ",
+    "\ud83d\udea8 \ud83d\udd35 chelsea are signing burkina faso midfielder mohamed zongo, no longer joining"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2721,7 +2721,7 @@
     "david alaba": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg/330px-20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "vincent joseph": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

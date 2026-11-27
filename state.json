@@ -1,6 +1,5 @@
 {
   "sent": [
-    "4807251ca2b97162bc7ad055c721ead2",
     "cf21702e131d24628c27d74d6ce9c33c",
     "a360568f74ca3160cfdf6c3429b3bcd7",
     "tg:FabrizioRomanoTG/66551",
@@ -1499,7 +1498,8 @@
     "c3d33f4d3d0813ee0bd0d4669776ed58",
     "83ad3dd40ec68b8e3d0eaf1641497b3e",
     "bc4411d9233d375411cd8fde85f501ad",
-    "20c8a3d0db11ecfd49f3a26f7d645387"
+    "20c8a3d0db11ecfd49f3a26f7d645387",
+    "tg:FabrizioRomanoTG/68718"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2117,7 +2117,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "real madrid snatch ghanaian gem: lateef issman signs until 2030",
     "man utd make noussair mazraoui sale decision amid ac milan, juventus interest",
     "dejan lovren urges liverpool to sign ronald araujo \u2013 \u2018or he\u2019ll cost \u00a380m!\u2019 this ",
     "ronaldinho returns to professional football, eyes 300th career goal",
@@ -2416,7 +2415,8 @@
     "archie brown back on the market with affordable release clause as premier league",
     "manchester united identify former real madrid star as potential bruno fernandes ",
     "huge offer could change ezzalzouli's future as barcelona await millions",
-    "nico paz is a rare talent man utd and his other suitors would benefit from his a"
+    "nico paz is a rare talent man utd and his other suitors would benefit from his a",
+    "\ud83d\udcfa new youtube video uploaded! \ud83c\udfac \ud83d\udea8 here we go! \ud83d\udd17 watch now"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2721,7 +2721,7 @@
     "david alaba": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg/330px-20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "vincent joseph": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

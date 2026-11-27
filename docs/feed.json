@@ -1,5 +1,29 @@
 [
  {
+  "id": "3abda99e67dedcc93cac7ed0de837811",
+  "ts": "2026-11-27T00:30:47+00:00",
+  "kind": "deal",
+  "photo": "",
+  "stage": "Completed",
+  "player": "Harry Wilson",
+  "position": "\u2014",
+  "age": "\u2014",
+  "from_club": "Fulham",
+  "to_club": "Leeds United",
+  "fee": "\u00a310m",
+  "style": "Dynamic left winger with an eye for goal and delivery, capable of playing across the attacking line with technical quality.",
+  "fit": "Should operate as a creative attacking threat on the flank at Leeds, bringing experience and goal-scoring potential to their promotion push.",
+  "source": "Yardbarker",
+  "sources": [
+   "Yardbarker"
+  ],
+  "srcTier": "standard",
+  "summary": "Leeds United signed Harry Wilson from Fulham; Christian Purslow revealed the deal involved a hidden \u00a310m fee and significant wages despite the free transfer announcement.",
+  "outlet": "yardbarker",
+  "url": "https://www.yardbarker.com/soccer/articles/christian_purslow_reveals_hidden_10m_fee_and_big_wages_in_leeds_united_deal_for_harry_wilson/s1_17888_44621793",
+  "title": "Christian Purslow reveals hidden \u00a310m fee and 'big' wages in Leeds United deal for Harry Wilson"
+ },
+ {
   "id": "tg:FabrizioRomanoTG/68254",
   "ts": "2026-11-14T12:31:01+00:00",
   "kind": "deal",

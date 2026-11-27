@@ -1,6 +1,5 @@
 {
   "sent": [
-    "5dfe0e0f9e6cdc1b44002ead604b3b43",
     "3dff1ac984c9fd52e0dba6dd21d93105",
     "2900c485937c1be63f3ed59a83d779f9",
     "d96ec1c94adaf750f50eb2fce70ffc17",
@@ -1499,7 +1498,8 @@
     "8ca20c575771f4d652bd7eb24b060306",
     "0713b453f2dc14936f41cb4b540f39e4",
     "093b2add1291d675f5e61902bf23a223",
-    "fbcbbb1f9a35cabb85402c8d2a30bbb3"
+    "fbcbbb1f9a35cabb85402c8d2a30bbb3",
+    "bdb5908372c60b8670b24855149a6155"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2117,7 +2117,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "portugal redesigns no 7 shirt to honour ronaldo after retirement",
     "fabrizio romano reveals liverpool reaction to ronald araujo permanent done deal ",
     "arsenal transfer news: gunners target in 'advanced talks' over new \u00a31 2m contrac",
     "portugal redesigns no 7 shirt to immortalise ronaldo\u2019s legacy after retirement",
@@ -2416,7 +2415,8 @@
     "archie brown has \u20ac23m release clause at fenerbahce as liverpool and manchester u",
     "\ud83d\udd25 everyone wants camarda, juve swoop, lang\u2019s future: today\u2019s news",
     "west ham to bid for arsenal attacker in january \u2013 gunners would be wise to accep",
-    "mourinho to have the final say on real madrid forward\u2019s future amid premier leag"
+    "mourinho to have the final say on real madrid forward\u2019s future amid premier leag",
+    "mctominay makes final decision on man utd return in january as offers fuel specu"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2721,7 +2721,7 @@
     "david alaba": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg/330px-20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "vincent joseph": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

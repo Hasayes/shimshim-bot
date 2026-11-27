@@ -1,6 +1,5 @@
 {
   "sent": [
-    "d96ec1c94adaf750f50eb2fce70ffc17",
     "fee0696a07bea24884c2449ff26d3401",
     "tg:FabrizioRomanoTG/66512",
     "53f44b2bb4ab8bcbbf41422487e2e171",
@@ -1499,7 +1498,8 @@
     "fbcbbb1f9a35cabb85402c8d2a30bbb3",
     "bdb5908372c60b8670b24855149a6155",
     "tg:FabrizioRomanoTG/68692",
-    "8f58469418209c7e09b8d691c205bebb"
+    "8f58469418209c7e09b8d691c205bebb",
+    "9d11e9c62331a745db13da6e14501e2c"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2117,7 +2117,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "portugal redesigns no 7 shirt to immortalise ronaldo\u2019s legacy after retirement",
     "liverpool are eager to land this brighton defender: good option for iraola?",
     "zinedine zidane slams rumors of tension with kylian mbappe: \u2018it\u2019s a shame and qu",
     "transfer rumors: man utd\u2019s plan for paz; real madrid receive ridiculous guler bi",
@@ -2416,7 +2415,8 @@
     "mourinho to have the final say on real madrid forward\u2019s future amid premier leag",
     "mctominay makes final decision on man utd return in january as offers fuel specu",
     "\ud83d\udea8 \ud83d\udd34 \u26aa\ufe0f fc bayern manager vincent kompany wants jonathan tah to stay in january a",
-    "liverpool buoyed by \u20ac15m discount for top target to replace iraola starter"
+    "liverpool buoyed by \u20ac15m discount for top target to replace iraola starter",
+    "watch: liverpool bound sidy barhama ndiaye scores stunning world cup goal to con"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2721,7 +2721,7 @@
     "david alaba": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg/330px-20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "vincent joseph": ""
   },
-  "photo_repair_idx": 2,
+  "photo_repair_idx": 3,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

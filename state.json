@@ -1,6 +1,5 @@
 {
   "sent": [
-    "8c8ede75cd4e79b95e16005615af8dc5",
     "6f98314a7dfdef69843b8a80362e4578",
     "d625194b7ca5f6caa822d1d89b844f7c",
     "tg:FabrizioRomanoTG/66575",
@@ -1499,7 +1498,8 @@
     "9cd22a0a9998d87fe129a18a14d621e4",
     "ea830e38cd6e3681a9801c95c4ec90f5",
     "0f07eb6806689d4164a4bcf43e129434",
-    "e7011688f86c3e53a7ceb6f53dc23c0e"
+    "e7011688f86c3e53a7ceb6f53dc23c0e",
+    "2e05cdb586280d4d9abdcdf04d4e56c5"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2117,7 +2117,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "rio ngumoha reaches final decision on signing liverpool contract amid bayern, ar",
     "\ud83d\udcfa new youtube video uploaded! \ud83c\udfac \ud83d\udea8 \ud83d\udc40 who man united really wanted to bring in as ",
     "\ud83d\udea8 \u26ab\ufe0f \ud83d\udd35 the verbal agreement between inter and carlos augusto on long term deal u",
     "man utd: pochettino demands \u2018buy three, pay one\u2019 star who he knows very well",
@@ -2416,7 +2415,8 @@
     "chelsea complete midfield signing as fabrizio romano declares \u2018here we go\u2019",
     "fabrizio romano drops \u2018100%\u2019 nico paz guarantee after man utd bombshell",
     "real madrid transfer news: michael olise targets summer 2027 move from bayern | ",
-    "2027: chelsea plan triple reinforcement in january transfer"
+    "2027: chelsea plan triple reinforcement in january transfer",
+    "romano clarifies bruno fernandes release clause after man utd contract extended"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2721,7 +2721,7 @@
     "david alaba": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg/330px-20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "vincent joseph": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

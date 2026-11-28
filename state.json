@@ -1,6 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/66556",
     "tg:FabrizioRomanoTG/66557",
     "022cc7f0558d16afdf63c2bef3a9411d",
     "113d58a9118f8fd5472cea813e02f5ee",
@@ -1499,7 +1498,8 @@
     "8666687bfbcd25efa448082b5ea21c10",
     "d42751e1e436e9531d59cfac1d80dddd",
     "d99d2eb9745ee09ccfea1c023327a280",
-    "b13f5158f27c0b01c8bf5507d4ad7b6d"
+    "b13f5158f27c0b01c8bf5507d4ad7b6d",
+    "09a9f43d11f07ca14a33cb8e05faaa54"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2117,7 +2117,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "\ud83d\udea8 \ud83d\udd35 \ud83d\udd34 crystal palace appoint thomas frank as new head coach with immediate effec",
     "\ud83d\udea8 breaking news: kerolin to powerade, here we go! https://t co/2svqfm9rdf \u2014 fabr",
     "\ud83d\udcfa new youtube video uploaded! \ud83c\udfac breaking news: kerolin to powerade here we go! \ud83d\udea8",
     "\ud83d\udd35 \ud83d\udd34 \ud83e\udd85 official: thomas frank signs in as new crystal palace head coach until jun",
@@ -2416,7 +2415,8 @@
     "van dijk told me he wants serie a cannavaro",
     "man utd: jarrad branthwaite \u2018exit clause\u2019 bombshell gives ineos dream transfer b",
     "big liverpool squad rift brewing once iconic superstar signs in 2027",
-    "man utd: arbeloa reveals fulham decision on selling calvin bassey in january"
+    "man utd: arbeloa reveals fulham decision on selling calvin bassey in january",
+    "liverpool could replace struggling star for just \u00a319m"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2721,7 +2721,7 @@
     "david alaba": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg/330px-20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "vincent joseph": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

@@ -1,7 +1,5 @@
 {
   "sent": [
-    "tg:FabrizioRomanoTG/66561",
-    "f01f0fdc4bc535bb7e1bcb513dda8fb4",
     "fb85ea883e4e09db761efd538efc8c04",
     "tg:FabrizioRomanoTG/66570",
     "47a2486785a54ad2fda853316d0b384b",
@@ -1499,7 +1497,9 @@
     "ef4390acf8bc4d07bc92c1ed0beb55df",
     "dd195bfc346a64418f19b6f202e29603",
     "27625129a3bb73b3dc235c2679bb410f",
-    "3b089c7c005144ec59ea81f1a260bf14"
+    "3b089c7c005144ec59ea81f1a260bf14",
+    "5c7fb3d9a92021dd6581f1bb9901b4ec",
+    "9cd22a0a9998d87fe129a18a14d621e4"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2117,8 +2117,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "liverpool: slot\u2019s first major signing to demand exit as fabrizio romano reveals ",
-    "man utd: fabrizio romano reveals truth about red devils interest in calvin basse",
     "\u201cthe two key areas they want to cover\u201d \u2013 romano issues latest man united transfe",
     "man utd: ratcliffe wanted pochettino alternative to become next manager for one ",
     "\ud83d\udea8 \u2764\ufe0f \ud83e\udd0d arsenal have reached an agreement with declan rice to sign new contract u",
@@ -2416,7 +2414,9 @@
     "mikel arteta confirms \u00a327m arsenal player is training ahead of man city",
     "bruno fernandes deal done as superstar replacement picks man utd over real madri",
     "bayern munich issue statement on musiala: 'out indefinitely'",
-    "man united transfer news: truth behind english club's pursuit of argentina super"
+    "man united transfer news: truth behind english club's pursuit of argentina super",
+    "man utd transfer news: red devils 'snubbed' by premier league striker prior to r",
+    "chelsea complete midfield signing as fabrizio romano declares \u2018here we go\u2019"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2721,7 +2721,7 @@
     "david alaba": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg/330px-20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "vincent joseph": ""
   },
-  "photo_repair_idx": 3,
+  "photo_repair_idx": 1,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",

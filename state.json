@@ -1,6 +1,5 @@
 {
   "sent": [
-    "113d58a9118f8fd5472cea813e02f5ee",
     "tg:FabrizioRomanoTG/66558",
     "7534a2cb24c66c3070fdc605063b9f47",
     "tg:FabrizioRomanoTG/66561",
@@ -1499,7 +1498,8 @@
     "b13f5158f27c0b01c8bf5507d4ad7b6d",
     "09a9f43d11f07ca14a33cb8e05faaa54",
     "b10d8811446ecf42d35e60f4bb9aa68b",
-    "ef4390acf8bc4d07bc92c1ed0beb55df"
+    "ef4390acf8bc4d07bc92c1ed0beb55df",
+    "dd195bfc346a64418f19b6f202e29603"
   ],
   "deals": {
     "thompson -> arsenal": 2,
@@ -2117,7 +2117,6 @@
     "interest: nouri -> manchester united"
   ],
   "titles": [
-    "\ud83d\udd35 \ud83d\udd34 \ud83e\udd85 official: thomas frank signs in as new crystal palace head coach until jun",
     "\ud83d\udea8 jj gabriel confirms he has signed with epic sports as new agency, ready to wor",
     "barcelona face injury worry after key defender reports hip discomfort during int",
     "liverpool: slot\u2019s first major signing to demand exit as fabrizio romano reveals ",
@@ -2416,7 +2415,8 @@
     "man utd: arbeloa reveals fulham decision on selling calvin bassey in january",
     "liverpool could replace struggling star for just \u00a319m",
     "man utd learn nico paz preference amid liverpool, tottenham links",
-    "mikel arteta confirms \u00a327m arsenal player is training ahead of man city"
+    "mikel arteta confirms \u00a327m arsenal player is training ahead of man city",
+    "bruno fernandes deal done as superstar replacement picks man utd over real madri"
   ],
   "tg_update_offset": 263617426,
   "photos": {
@@ -2721,7 +2721,7 @@
     "david alaba": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg/330px-20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "vincent joseph": ""
   },
-  "photo_repair_idx": 1,
+  "photo_repair_idx": 2,
   "crests": {
     "milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/small",
     "aik": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png/small",
